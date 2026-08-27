@@ -437,111 +437,157 @@ const useHomeHero =
 	}
 
 	.article--guide {
-		gap: 1.35rem;
+		gap: 1.5rem;
 	}
 
 	.article--guide :global(.card-panel) {
-		padding: 1.5rem 1.55rem;
+		padding: clamp(1.35rem, 2.5vw, 1.85rem) clamp(1.4rem, 2.5vw, 1.9rem);
+		box-shadow: 0 1px 0 color-mix(in srgb, var(--ink) 4%, transparent);
 	}
 
 	.article--guide :global(.card-panel__body) {
 		display: grid;
+		gap: 0;
+	}
+
+	.article--guide :global(.guide-heading) {
+		display: flex;
+		align-items: baseline;
+		gap: 0.65rem;
+		margin-bottom: 1rem;
+	}
+
+	.article--guide :global(.guide-heading__index) {
+		flex: 0 0 auto;
+		font-family: var(--font-display);
+		font-size: 0.72rem;
+		font-weight: 800;
+		letter-spacing: 0.08em;
+		color: var(--magenta);
+		opacity: 0.9;
 	}
 
 	.article--guide :global(.card-panel--intro) {
-		border-left: 3px solid var(--magenta);
+		border-left: 4px solid var(--magenta);
 		background: linear-gradient(
 			135deg,
-			color-mix(in srgb, var(--magenta) 6%, var(--bg-panel)),
-			var(--bg-panel)
+			color-mix(in srgb, var(--magenta) 8%, var(--bg-panel)),
+			var(--bg-panel) 55%
 		);
 	}
 
 	.article--guide :global(.card-panel--intro h2),
 	.article--guide :global(.card-panel--features h2) {
-		font-size: 1.28rem;
+		font-size: clamp(1.15rem, 2.2vw, 1.32rem);
 	}
 
-	.article--guide :global(.card-panel--intro p:first-child) {
-		font-size: 1.02rem;
-		line-height: 1.7;
+	.article--guide :global(.guide-lead) {
+		font-size: clamp(1rem, 1.8vw, 1.05rem);
+		line-height: 1.75;
 		color: var(--ink);
+	}
+
+	.article--guide :global(.guide-bundle) {
+		margin-top: 1rem;
+		padding: 0.85rem 1rem;
+		border-radius: var(--radius-sm);
+		border: 1px solid color-mix(in srgb, var(--magenta) 20%, var(--line));
+		background: color-mix(in srgb, var(--magenta) 5%, var(--bg-elevated));
+		font-size: 0.95rem;
+		line-height: 1.65;
+		color: var(--ink-secondary);
 	}
 
 	.article--guide :global(.card-panel--features) {
-		border-color: color-mix(in srgb, var(--magenta) 22%, var(--line));
+		border-color: color-mix(in srgb, var(--magenta) 28%, var(--line));
 		background: linear-gradient(
 			180deg,
-			color-mix(in srgb, var(--magenta) 4%, var(--bg-panel)),
-			var(--bg-panel)
+			color-mix(in srgb, var(--magenta) 6%, var(--bg-panel)),
+			var(--bg-panel) 45%
 		);
 	}
 
-	.article--guide :global(.card-panel--features p:first-child) {
-		font-size: 1rem;
+	.article--guide :global(.guide-stack) {
+		font-size: clamp(1rem, 1.8vw, 1.05rem);
+		line-height: 1.75;
 		color: var(--ink);
 	}
 
-	.article--guide :global(.card-panel--features p + p) {
-		margin-top: 0.65rem;
-		padding-top: 0.65rem;
+	.article--guide :global(.guide-plans) {
+		display: flex;
+		align-items: flex-start;
+		gap: 0.55rem;
+		margin-top: 0.85rem;
+		padding: 0.7rem 0.9rem;
+		border-radius: var(--radius-sm);
+		border: 1px dashed color-mix(in srgb, var(--magenta) 25%, var(--line));
+		background: var(--bg-elevated);
+		font-size: 0.9rem;
+		line-height: 1.6;
+		color: var(--ink-secondary);
+	}
+
+	.article--guide :global(.guide-plans::before) {
+		content: '✓';
+		flex: 0 0 auto;
+		font-size: 0.8rem;
+		font-weight: 800;
+		color: var(--magenta);
+		line-height: 1.6;
+	}
+
+	.article--guide :global(.guide-feature-grid) {
+		margin-top: 1.25rem;
+		padding-top: 1.15rem;
 		border-top: 1px solid var(--line-soft);
-		font-size: 0.925rem;
-		color: var(--ink-muted);
-	}
-
-	.article--guide :global(.feature-grid) {
-		margin-top: 1.1rem;
-		padding-top: 0;
-		border-top: none;
 		grid-template-columns: 1fr;
-		gap: 0.6rem;
+		gap: 0.65rem;
 	}
 
-	@media (min-width: 640px) {
-		.article--guide :global(.feature-grid) {
+	@media (min-width: 560px) {
+		.article--guide :global(.guide-feature-grid) {
 			grid-template-columns: repeat(2, minmax(0, 1fr));
+			column-gap: 0.75rem;
 		}
 	}
 
-	@media (min-width: 768px) {
-		.article--guide :global(.feature-grid) {
-			grid-template-columns: repeat(6, minmax(0, 1fr));
-		}
-
-		.article--guide :global(.feature-grid li:nth-child(-n + 3)) {
-			grid-column: span 2;
-		}
-
-		.article--guide :global(.feature-grid li:nth-child(4)),
-		.article--guide :global(.feature-grid li:nth-child(5)) {
-			grid-column: span 3;
-		}
-	}
-
-	.article--guide :global(.feature-grid li) {
-		padding: 0.85rem 1rem 0.85rem 2.35rem;
-		border: 1px solid var(--line);
+	.article--guide :global(.guide-feature-grid li) {
+		padding: 0.9rem 1rem 0.9rem 2.4rem;
+		border: 1px solid color-mix(in srgb, var(--magenta) 12%, var(--line));
 		border-radius: var(--radius-sm);
 		background: var(--bg-elevated);
 		font-size: 0.9375rem;
 		font-weight: 500;
+		line-height: 1.45;
+		color: var(--ink);
 		transition:
 			border-color 0.2s ease,
-			background 0.2s ease;
+			background 0.2s ease,
+			transform 0.2s ease;
 	}
 
-	.article--guide :global(.feature-grid li:hover) {
-		border-color: color-mix(in srgb, var(--magenta) 35%, var(--line));
-		background: color-mix(in srgb, var(--magenta) 5%, var(--bg-elevated));
+	.article--guide :global(.guide-feature-grid li:hover) {
+		border-color: color-mix(in srgb, var(--magenta) 40%, var(--line));
+		background: color-mix(in srgb, var(--magenta) 6%, var(--bg-elevated));
+		transform: translateY(-1px);
 	}
 
-	.article--guide :global(.feature-grid li::before) {
-		top: 1.05rem;
-		left: 1rem;
-		width: 0.45rem;
-		height: 0.45rem;
-		box-shadow: 0 0 0 3px color-mix(in srgb, var(--magenta) 18%, transparent);
+	.article--guide :global(.guide-feature-grid li::before) {
+		top: 1.1rem;
+		left: 1.05rem;
+		width: 0.5rem;
+		height: 0.5rem;
+		box-shadow: 0 0 0 3px color-mix(in srgb, var(--magenta) 20%, transparent);
+	}
+
+	.article--guide :global(.card-panel--intro p + p) {
+		margin-top: 0;
+	}
+
+	.article--guide :global(.card-panel--features p + p) {
+		margin-top: 0;
+		padding-top: 0;
+		border-top: none;
 	}
 
 	.article :global(li) {

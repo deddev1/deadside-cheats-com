@@ -187,13 +187,33 @@ const breadcrumbLabel = eyebrowByPage[pageId];
 					!isGuidePage && section.list && section.list.length >= 4 && 'card-panel--features',
 				]}
 			>
-				<h2>{section.h2}</h2>
+				<h2 class:list={[isGuidePage && index <= 1 && 'guide-heading']}>
+					{isGuidePage && index <= 1 && (
+						<span class="guide-heading__index" aria-hidden="true">
+							{String(index + 1).padStart(2, '0')}
+						</span>
+					)}
+					{section.h2}
+				</h2>
 				<div class="card-panel__body">
-					{section.paragraphs.map((p) => (
-						<p set:html={localizeParagraphHtml(p)} />
+					{section.paragraphs.map((p, pi) => (
+						<p
+							class:list={[
+								isGuidePage && index === 0 && pi === 0 && 'guide-lead',
+								isGuidePage && index === 0 && pi === 1 && 'guide-bundle',
+								isGuidePage && index === 1 && pi === 0 && 'guide-stack',
+								isGuidePage && index === 1 && pi === 1 && 'guide-plans',
+							]}
+							set:html={localizeParagraphHtml(p)}
+						/>
 					))}
 					{section.list && (
-						<ul class:list={[isGuidePage && index === 1 && 'feature-grid']}>
+						<ul
+							class:list={[
+								isGuidePage && index === 1 && 'feature-grid',
+								isGuidePage && index === 1 && 'guide-feature-grid',
+							]}
+						>
 							{section.list.map((item) => (
 								<li set:html={localizeParagraphHtml(item)} />
 							))}
