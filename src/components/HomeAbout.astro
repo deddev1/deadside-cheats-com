@@ -1,0 +1,107 @@
+---
+import LazyDemoVideo from './LazyDemoVideo.astro';
+import { brand } from '../data/brand';
+import { getLocalizedPath } from '../data/i18n/routing';
+import type { LocaleCode } from '../data/i18n/locales';
+import { getT } from '../i18n/server';
+
+interface Props {
+	locale: LocaleCode;
+}
+
+const { locale } = Astro.props;
+const t = getT(locale);
+const homeHref = getLocalizedPath('home', locale);
+const espHref = getLocalizedPath('naraka-esp', locale);
+const aimbotHref = getLocalizedPath('naraka-aimbot', locale);
+const updatesHref = getLocalizedPath('updates', locale);
+---
+
+<section class="shell home__prose home__prose--en" aria-labelledby="home-about-title">
+	<div class="home-about__grid">
+		<div class="home__prose-callout">
+			<h2 id="home-about-title">{t('home.aboutTitle')}</h2>
+			<p>{t('home.aboutP1')}</p>
+			<p>
+				{t('home.aboutP2Before')}{' '}
+				<a href={homeHref}>{t('home.aboutPillar')}</a>
+				{t('home.aboutP2Mid')}
+				<a href={espHref}>{t('home.aboutEsp')}</a>
+				{t('home.aboutP2Mid')}
+				<a href={aimbotHref}>{t('home.aboutAimbot')}</a>
+				{t('home.aboutP2Or')}
+				<a href={updatesHref}>{t('home.aboutUndetected')}</a>
+				{t('home.aboutP2After')}
+			</p>
+		</div>
+
+		<LazyDemoVideo
+			src={brand.demoVideoUrl}
+			poster={brand.demoVideoPoster}
+			playLabel={t('home.playDemoVideo')}
+			pauseLabel={t('home.pauseDemoVideo')}
+			caption={t('home.demoVideoCaption')}
+			volumeLabel={t('home.volumeLabel')}
+			seekLabel={t('home.seekLabel')}
+			muteLabel={t('home.muteVideo')}
+			unmuteLabel={t('home.unmuteVideo')}
+		/>
+	</div>
+</section>
+
+<style is:global>
+	.home__prose--en {
+		padding-block: clamp(2rem, 4vw, 2.75rem) 0.5rem;
+		border-bottom: 1px solid var(--line-soft);
+	}
+
+	.home-about__grid {
+		display: grid;
+		grid-template-columns: minmax(0, 1fr) minmax(260px, 380px);
+		align-items: center;
+		gap: clamp(1.25rem, 3vw, 2rem);
+	}
+
+	.home__prose-callout {
+		max-width: none;
+		padding-left: 1.1rem;
+		border-left: 3px solid var(--magenta);
+	}
+
+	.home__prose-callout h2 {
+		margin: 0 0 0.75rem;
+		font-family: var(--font-display);
+		font-size: clamp(1.35rem, 3vw, 1.75rem);
+		font-weight: 800;
+		line-height: 1.2;
+		letter-spacing: -0.03em;
+		color: var(--ink);
+	}
+
+	.home__prose-callout p {
+		margin: 0 0 0.75rem;
+		color: var(--ink-muted);
+		line-height: 1.65;
+		font-size: 0.9375rem;
+	}
+
+	.home__prose-callout p:last-child {
+		margin-bottom: 0;
+	}
+
+	.home__prose--en a {
+		color: var(--link);
+		font-weight: 600;
+		text-decoration: none;
+	}
+
+	.home__prose--en a:hover {
+		color: var(--accent-hover);
+	}
+
+	@media (max-width: 900px) {
+		.home-about__grid {
+			grid-template-columns: 1fr;
+		}
+	}
+</style>

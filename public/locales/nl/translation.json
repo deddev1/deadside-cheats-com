@@ -1,0 +1,411 @@
+{
+  "nav": {
+    "home": "Home",
+    "hacks": "Hacks",
+    "aimbot": "Aimbot",
+    "esp": "ESP",
+    "features": "Functies",
+    "pricing": "Prijzen",
+    "setup": "Setup",
+    "updates": "Updates",
+    "faq": "FAQ",
+    "buyNow": "Kopen",
+    "preview": "Hacks",
+    "store": "Prijzen",
+    "status": "Updates",
+    "reviews": "Wat spelers zeggen",
+    "primaryAria": "Primary",
+    "mobileAria": "Mobile",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "hero": {
+    "accent": "Undetected Naraka Cheats",
+    "accentShort": "Naraka Cheats",
+    "title": "Naraka Cheats",
+    "subtitle": "ESP wallhack, radar hack en Aimbot voor Naraka op Windows PC — NEAC-onderhoud inbegrepen.",
+    "subtitleShort": "ESP, radar & Aimbot voor Naraka PC",
+    "buyNow": "Nu kopen",
+    "seeFeatures": "Bekijk functies",
+    "priceFrom": "from",
+    "imageAlt": "{{brand}} — Naraka ESP and aimbot overlay",
+    "chipEsp": "ESP / wallhack",
+    "chipAim": "Soft aim",
+    "chipRadar": "2D radar",
+    "chipUpdates": "Updates"
+  },
+  "cta": {
+    "buy": "Nu kopen",
+    "buyShort": "Kopen"
+  },
+  "trust": {
+    "status": "Online",
+    "statusNote": "Naraka Cheats pakket is live voor Naraka op Windows PC.",
+    "statusShort": "Live",
+    "delivery": "Directe digitale levering",
+    "platform": "Windows 10 & 11",
+    "antiCheat": "NEAC-onderhoud ondersteund",
+    "antiCheatShort": "NEAC support"
+  },
+  "product": {
+    "title": "Naraka Cheats",
+    "addToCart": "In winkelwagen",
+    "monthly": "Maandelijks",
+    "lifetime": "Lifetime",
+    "available": "Nu beschikbaar",
+    "gameBadge": "Naraka",
+    "platformBadge": "Windows PC",
+    "statusBadge": "Undetected pakket",
+    "days30": "30",
+    "oneTime": "Lifetime",
+    "plans": "Prijzen",
+    "perMonth": "/",
+    "once": "",
+    "buyMonthly": "Maandelijks",
+    "buyLifetime": "Lifetime"
+  },
+  "reviews": {
+    "title": "Wat spelers zeggen",
+    "subtitle": "Recente feedback va Naraka Cheats kopers",
+    "outOf": "van 5",
+    "countLabel": "reviews",
+    "eyebrow": "Wat spelers zeggen",
+    "homeTitle": "Naraka Cheats Wat spelers zeggen",
+    "buyerReviews": "reviews",
+    "averageAria": "Wat spelers zeggen",
+    "outOfFiveAria": "van 5",
+    "readAll": "→"
+  },
+  "common": {
+    "buyNow": "Buy Naraka Cheats",
+    "readGuide": "Read guide",
+    "language": "Language",
+    "officialLanguageNote": "English is official; other locales are translated.",
+    "relatedPages": "Related pages",
+    "selectLanguage": "Taal",
+    "englishOfficial": "Engels is de officiële taal",
+    "englishIsOfficial": "Engels is de officiële taal. Andere talen zijn vertaald voor wereldwijde SEO.",
+    "languageSuggestion": "Taal",
+    "dismiss": "Dismiss",
+    "localeVersion": "{{name}} version",
+    "localeSuggestLead": "{{nativeName}} ({{region}}) — ",
+    "breadcrumb": "Breadcrumb",
+    "gallery": "Gallery",
+    "inGameLook": "In-game look",
+    "allQuestions": "FAQ",
+    "openAnyQuestion": "Lees gids",
+    "packageStatus": "Updates",
+    "productDetails": "Functies",
+    "browse": "Gerelateerde pagina's",
+    "featured": "Featured",
+    "share": "Share",
+    "shareX": "Share on X",
+    "shareReddit": "Share on Reddit",
+    "shareFacebook": "Share on Facebook",
+    "blog": "Blog",
+    "guides": "Guides",
+    "home": "Home",
+    "support": "Support",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "featureList": "Functies",
+    "pricingPlans": "Prijzen",
+    "buyerReviewsNav": "Wat spelers zeggen",
+    "copyright": "© {{year}} {{brand}}",
+    "refundPolicy": "Refund policy"
+  },
+  "footer": {
+    "explore": "Verkennen",
+    "help": "Help & juridisch",
+    "tagline": "Undetected ESP, wallhack, radar en Aimbot voor Naraka — checkout via Zadeyo."
+  },
+  "home": {
+    "aboutTitle": "undetected hacks voor Naraka",
+    "aboutP1": "Undetected Windows PC pakket voor Naraka: ESP wallhack, radar en Aimbot met NEAC-onderhoud na elke patch. Prijzen · Updates.",
+    "aboutPricingCta": "Prijzen vergelijken",
+    "aboutP2Before": "Begin met de",
+    "aboutPillar": "Naraka Cheats-pijler",
+    "aboutEsp": "ESP-gids",
+    "aboutAimbot": "aimbot-bediening",
+    "aboutUndetected": "undetected-status",
+    "aboutP2Mid": ", ",
+    "aboutP2Or": ", of ",
+    "aboutP2After": " als je nog tools vergelijkt.",
+    "playDemoVideo": "Play Naraka cheats demo video",
+    "pauseDemoVideo": "Pause Naraka cheats demo video",
+    "demoVideoCaption": "Naraka Cheats — ESP, aimbot & radar in match",
+    "volumeLabel": "Volume",
+    "muteVideo": "Mute video",
+    "unmuteVideo": "Unmute video",
+    "seekLabel": "Video progress"
+  },
+  "homeSeo": {
+    "eyebrow": "Guides",
+    "title": "Gerelateerde pagina's by category",
+    "lede": "Functies, Updates, Prijzen, FAQ.",
+    "catFeatures": "Functies",
+    "catFeaturesHint": "Functies",
+    "catStatus": "Updates",
+    "catStatusHint": "Updates",
+    "catStore": "Prijzen",
+    "catStoreHint": "Prijzen",
+    "catHelp": "FAQ",
+    "catHelpHint": "FAQ",
+    "linkAllFeatures": "Functies",
+    "linkEsp": "ESP",
+    "linkAimbot": "Aimbot",
+    "linkRadar": "Radar",
+    "linkLiveStatus": "Updates",
+    "linkUndetected": "Undetected pakket",
+    "linkNEAC": "NEAC",
+    "linkSetup": "Setup",
+    "linkPlans": "Prijzen",
+    "linkReviews": "Wat spelers zeggen",
+    "linkFinalsCheats": "Naraka Cheats",
+    "linkFaq": "FAQ",
+    "linkSupport": "Support",
+    "linkSetupGuide": "Setup",
+    "linkBlog": "Blog",
+    "linkRefunds": "Refunds",
+    "faqEyebrow": "FAQ",
+    "faqTitle": "FAQ",
+    "faqLede": "Directe digitale levering",
+    "allAnswers": "FAQ",
+    "openFullPage": "Lees gids"
+  },
+  "deals": {
+    "pricing": "Prijzen",
+    "chooseLicense": "Prijzen",
+    "features": "Functies",
+    "featEsp": "ESP / wallhack",
+    "featAim": "Aimbot",
+    "featRadar": "2D radar",
+    "featUpdates": "Updates"
+  },
+  "trustStrip": {
+    "instantDelivery": "Directe digitale levering",
+    "secureCheckout": "Kopen",
+    "support247": "24/7"
+  },
+  "categoryRow": {
+    "hacks": "Hacks",
+    "esp": "ESP",
+    "aimbot": "Aimbot",
+    "radar": "Radar",
+    "wallhack": "Wallhack",
+    "undetected": "Undetected pakket",
+    "features": "Functies",
+    "pricing": "Prijzen",
+    "setup": "Setup",
+    "blog": "Blog"
+  },
+  "internalLinks": {
+    "relatedLede": "Naraka Cheats — Gerelateerde pagina's.",
+    "topicsTitle": "Functies",
+    "topicsLabel": "Functies",
+    "topicsLede": "ESP, Aimbot, Prijzen, Setup, Updates.",
+    "overview": "Naraka Cheats",
+    "esp": "ESP & wallhack",
+    "aimbot": "Aimbot",
+    "radar": "Radar",
+    "features": "Functies",
+    "pricing": "Prijzen",
+    "setup": "Setup",
+    "status": "Updates",
+    "faq": "FAQ",
+    "support": "Support",
+    "blog": "Blog",
+    "reviews": "Wat spelers zeggen",
+    "hacks": "Hacks",
+    "undetected": "Undetected pakket"
+  },
+  "externalResources": {
+    "title": "Guías oficiales del juego y recursos",
+    "lede": "Enlazamos fuentes de confianza para verificar parches, estadísticas y mapas fuera de nuestro sitio.",
+    "pillsTitle": "Guías oficiales del juego y recursos",
+    "pillsLabel": "Guías oficiales del juego y recursos",
+    "steam": {
+      "label": "Naraka en PC",
+      "note": "Página oficial de la tienda, requisitos y reseñas."
+    },
+    "patch": {
+      "label": "Parches y noticias de Naraka",
+      "note": "Lee actualizaciones oficiales antes de cambiar tu loadout."
+    },
+    "official": {
+      "label": "Sitio oficial de Naraka",
+      "note": "Resumen del juego de 24 Entertainment."
+    },
+    "wiki": {
+      "label": "Wiki de Naraka (Fandom)",
+      "note": "Estadísticas, mapas y mecánicas de supervivencia."
+    },
+    "community": {
+      "label": "Hub de Naraka community",
+      "note": "Anuncios y debates de la comunidad."
+    }
+  },
+  "images": {
+    "hero": "Naraka Cheats hero — ESP and aimbot overlay in Naraka",
+    "espWallhack": "Wallhack outlines showing agents through walls",
+    "aimbotCombat": "Soft aim assist overlay during a Naraka match",
+    "squadFight": "Naraka Cheats combat overlay during a team fight",
+    "playerEsp": "Player ESP boxes and distance readouts in a Naraka match",
+    "headerArt": "Aimbot view and bone priority controls for Naraka",
+    "hacksPackage": "2D radar threat overlay for Naraka",
+    "raidFight": "Aimbot assist during a Naraka melee combat",
+    "battleRoyale": "Naraka Cheats in-session overview for Windows PC",
+    "raidMap": "ESP markers for abilities and bomb sites in Naraka"
+  },
+  "guides": {
+    "hubTitle": "Game Guides Hub",
+    "hubIntro": "Naraka Cheats product guides sit at the top. Scroll down for dedicated PC game guides — each with its own article and resources.",
+    "nativeTitle": "Naraka Cheats guides",
+    "nativeLede": "Our primary guides for ESP, aimbot, radar, setup, and pricing on narakacheats.org.",
+    "gameTitle": "Other Games Guides",
+    "gameLede": "Dedicated articles for Fortnite, Tarkov, Warzone, Marvel Rivals, and more — mixed across titles below.",
+    "readGuide": "Read guide",
+    "published": "Published",
+    "updated": "Updated"
+  },
+  "blog": {
+    "blogTitle": "Naraka Cheats Blog | Guides & Patch Tips",
+    "blogDescription": "Naraka guides — battle royale tips, ESP, aimbot notes, grapple routes, and NEAC update coverage. English blog at narakacheats.org/blog/.",
+    "blogH1": "Naraka Cheats Intel",
+    "blogIntro": "Actionable Naraka guides for ranked and unrated matches — meta breakdowns, grapple routes, hero tiers, and pro warmup routines. Pair these tips with our Naraka Cheats pages for ESP, soft aim, and radar when you need in-match tools.",
+    "readMore": "Read guide",
+    "published": "Published",
+    "updated": "Updated",
+    "relatedPosts": "Related Naraka guides",
+    "allPosts": "All blog posts",
+    "home": "Naraka Cheats home",
+    "language": "Language",
+    "label": "Naraka Intel"
+  },
+  "gallery": {
+    "eyebrow": "Naraka Cheats",
+    "title": "Naraka Cheats gallery",
+    "subtitle": "Naraka Cheats visuals — ESP, wallhack, aimbot, and radar for Naraka on PC.",
+    "lead": "Naraka Cheats helps you spot enemy agents, utility, and bomb sites with ESP, aimbot, and radar in one license.",
+    "highlightEspTitle": "Naraka Cheats ESP",
+    "highlightEspCopy": "See enemy agents through walls with Naraka Cheats ESP and wallhack overlays.",
+    "highlightRadarTitle": "Naraka Cheats radar",
+    "highlightRadarCopy": "Track nearby threats with Naraka Cheats radar before you push or rotate.",
+    "highlightAimbotTitle": "Naraka Cheats aimbot",
+    "highlightAimbotCopy": "Use soft aim and aimbot controls tuned for Naraka matches on Windows PC.",
+    "updatesLabel": "Naraka Cheats updates",
+    "updatesShort": "Updates"
+  },
+  "faq": {
+    "items": {
+      "what-are-naraka-cheats": {
+        "q": "¿Qué es Naraka Cheats?",
+        "a": "Naraka Cheats es un paquete de cheats undetected para Naraka en PC Windows. Incluye ESP wallhack, radar 2D y controles de aimbot, con mantenimiento NEAC y soporte de instalación."
+      },
+      "are-naraka-cheats-undetected-in-2026": {
+        "q": "¿Los Naraka Cheats son undetected en 2026?",
+        "a": "Naraka Cheats se mantiene para Naraka con reconstrucciones tras parches de NEAC y del juego. Revisa la Status antes de entrar en match. Ningún cheat puede garantizar indetectabilidad permanente."
+      },
+      "solo-farmer-and-raider-sessions": {
+        "q": "¿Funciona en matches de base y PvP?",
+        "a": "Sí. ESP, radar y aimbot están pensados para el flujo de match de Naraka: leer jugadores y agents, detectar loot y mantener conciencia cerca de sitios de bomba y vault sectors."
+      },
+      "esp-wallhack-radar-or-aimbot": {
+        "q": "¿Qué incluye: ESP, wallhack, radar o Aimbot?",
+        "a": "Naraka Cheats agrupa ESP wallhack, marcadores de loot, radar 2D y Aimbot configurable en una licencia. Consulta Functies para la lista completa."
+      },
+      "how-are-licenses-delivered": {
+        "q": "¿Cómo se entregan las licencias?",
+        "a": "Tras confirmar el pago, los datos de la licencia se entregan digitalmente en el checkout. El tiempo puede variar según el método de pago. Guarda la confirmación del pedido si contactas soporte."
+      },
+      "where-to-check-updates": {
+        "q": "¿Dónde reviso actualizaciones tras un parche de Naraka o NEAC?",
+        "a": "Las notas de mantenimiento se publican en la Status cuando un parche afecta al paquete. Es el lugar más rápido para confirmar si hay una nueva build."
+      },
+      "how-to-contact-support": {
+        "q": "¿Cómo contacto soporte?",
+        "a": "Usa la página de Support o escribe a support@narakacheats.org. Incluye los datos del pedido y una descripción clara del problema de instalación."
+      },
+      "what-is-a-naraka-wallhack": {
+        "q": "¿Qué es un wallhack de Naraka?",
+        "a": "Un wallhack de Naraka es un overlay ESP que muestra jugadores, agents y loot a través de las paredes. Naraka Cheats incluye distancias, señales de match y categorías configurables."
+      },
+      "does-naraka-cheats-include-radar-hack": {
+        "q": "¿Naraka Cheats incluye radar hack?",
+        "a": "Sí. Naraka Cheats incluye overlays de radar 2D que resaltan amenazas cercanas fuera de tu campo de visión, útil para flancos y zonas de zone."
+      },
+      "neac-anti-cheat-and-naraka-cheats": {
+        "q": "¿Cómo afecta NEAC a los Naraka Cheats?",
+        "a": "NEAC monitoriza Naraka en PC Windows. Naraka Cheats publica notas de mantenimiento tras parches que pueden requerir una nueva build. Revisa Estado antes de jugar."
+      },
+      "buy-undetected-naraka-cheats-windows-pc": {
+        "q": "¿Puedo comprar trucos undetected de Naraka para PC Windows?",
+        "a": "Sí: Naraka Cheats vende licencias mensuales y de por vida para PC Windows con ESP, radar y aimbot en un solo paquete. Compara planes en la Winkel antes del checkout."
+      },
+      "how-much-do-naraka-cheats-cost": {
+        "q": "How much do naraka cheats cost in 2026?",
+        "a": "Naraka Cheats is $35 per month or $150 lifetime USD on Windows PC. Both plans include ESP wallhack, 2D radar, soft aim, and NEAC maintenance rebuilds. See Pricing for the latest plan details before checkout."
+      },
+      "what-is-naraka-esp-hack": {
+        "q": "What is a Naraka ESP hack?",
+        "a": "A Naraka ESP hack is a visibility overlay that shows enemy agents, utility, and bomb sites through walls. Naraka Cheats ESP includes player boxes, distance tags, spike cues, and toggleable categories for ranked and unrated matches."
+      },
+      "what-is-naraka-aimbot-hack": {
+        "q": "What is a Naraka aimbot hack?",
+        "a": "A Naraka aimbot hack assists crosshair placement with configurable FOV, smoothing, and bone priority. Naraka Cheats uses soft aim profiles designed to feel natural in competitive rounds — tune settings in the mod menu before ranked queues."
+      },
+      "how-to-install-naraka-cheats": {
+        "q": "How do I install naraka cheats on Windows PC?",
+        "a": "After checkout, follow the Setup guide: download the loader, disable conflicting overlays, launch Naraka Cheats, and enable ESP, radar, or aimbot toggles in the mod menu. Most buyers finish first launch in under 15 minutes. Email support@narakacheats.org if activation fails."
+      },
+      "best-naraka-cheats-in-2026": {
+        "q": "What are the best naraka cheats in 2026?",
+        "a": "Top naraka cheats in 2026 combine undetected ESP, soft aim, 2D radar, and fast NEAC maintenance after patches. Naraka Cheats bundles all three in one license with status notes, setup support, and monthly or lifetime pricing — compare Features and Reviews before you buy."
+      },
+      "monthly-vs-lifetime-naraka-cheats": {
+        "q": "Should I buy monthly or lifetime naraka cheats?",
+        "a": "Choose monthly ($35) if you want a lower entry cost or only play a few seasons. Choose lifetime ($150) if you plan long-term Naraka play and want one payment for ESP, radar, aimbot, and future maintenance rebuilds. Both plans ship the same feature set."
+      },
+      "naraka-cheats-windows-11": {
+        "q": "Do naraka cheats work on Windows 11?",
+        "a": "Yes. Naraka Cheats supports Windows 10 and Windows 11 on PC. Use a clean install path from the Setup guide, keep NEAC status green on the Updates page, and avoid running outdated builds after major patches."
+      },
+      "what-is-naraka-soft-aim": {
+        "q": "What is Naraka soft aim?",
+        "a": "Naraka soft aim gently pulls your crosshair toward targets inside a set FOV instead of snapping instantly. Naraka Cheats lets you adjust smoothing, bone priority, and per-weapon profiles so assist feels controlled in ranked and unrated matches."
+      },
+      "free-naraka-cheat-download": {
+        "q": "Is there a free Naraka hack download?",
+        "a": "Naraka Cheats is a paid license — there is no official free download. Avoid random “free naraka cheat” sites; they often ship malware or detected loaders. Compare monthly and lifetime plans on Pricing for legitimate ESP, radar, and aimbot access with support."
+      },
+      "valorant-neac-bypass": {
+        "q": "How does NEAC bypass work for naraka cheats?",
+        "a": "There is no permanent NEAC bypass. Naraka Cheats is maintained with rebuilds after Naraka and NEAC patches — check the Updates page before you queue. Responsible settings and loading the latest build matter more than any “bypass” claim."
+      },
+      "naraka-cheats-for-ranked": {
+        "q": "Do naraka cheats work in ranked competitive?",
+        "a": "Yes. ESP, radar, and soft aim are built for ranked and unrated Naraka matches on Windows PC. Use conservative overlay settings, read maintenance notes after patches, and confirm undetected status on the Updates page before competitive queues."
+      },
+      "what-is-naraka-mod-menu": {
+        "q": "What is a Naraka mod menu?",
+        "a": "A Naraka mod menu is an in-game overlay to toggle ESP wallhack, radar, aimbot, and visual settings without alt-tabbing. Naraka Cheats ships a lightweight mod menu for Windows PC — see Features for the full toggle list."
+      },
+      "external-vs-internal-naraka-cheats": {
+        "q": "What is the difference between external and internal naraka cheats?",
+        "a": "External hacks read game memory from outside the client; internal hooks run inside the process. Naraka Cheats is built as an external-style package for easier setup on Windows PC, bundling ESP, radar, and soft aim with NEAC maintenance after patches."
+      },
+      "how-long-naraka-cheat-setup-takes": {
+        "q": "How long does naraka cheats setup take?",
+        "a": "Most buyers finish Naraka Cheats setup in 10–20 minutes on Windows PC: install the loader, activate the license, and enable ESP or aimbot in the mod menu. If Windows Defender or another AV blocks the loader, follow Setup troubleshooting or email support@narakacheats.org with your order ID."
+      },
+      "does-naraka-cheats-include-triggerbot": {
+        "q": "Does Naraka Cheats include triggerbot?",
+        "a": "Naraka Cheats focuses on ESP wallhack, 2D radar, and soft aim profiles. Triggerbot is not advertised as a standalone module — review the Features page for the current toggle list before checkout."
+      }
+    }
+  },
+  "media": {
+    "demoVideoTitle": "Naraka Cheats ESP, Aimbot demo",
+    "playVideo": "Play video"
+  }
+}

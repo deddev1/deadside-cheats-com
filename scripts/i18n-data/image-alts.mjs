@@ -1,0 +1,42 @@
+/** Descriptive image alts — Google rejects empty or keyword-only alts. */
+export const DESCRIPTIVE_IMAGE_ALTS = {
+	hero: 'Naraka Cheats hero — ESP and aimbot overlay in Naraka',
+	espWallhack: 'Wallhack outlines showing agents through walls',
+	aimbotCombat: 'Soft aim assist overlay during a Naraka match',
+	squadFight: 'Naraka Cheats combat overlay during a team fight',
+	playerEsp: 'Player ESP boxes and distance readouts in a Naraka match',
+	headerArt: 'Aimbot view and bone priority controls for Naraka',
+	hacksPackage: '2D radar threat overlay for Naraka',
+	raidFight: 'Aimbot assist during a Naraka melee combat',
+	battleRoyale: 'Naraka Cheats in-session overview for Windows PC',
+	raidMap: 'ESP markers for abilities and bomb sites in Naraka',
+};
+
+/** Page-level image alt by pageId (EN source of truth). */
+export const PAGE_IMAGE_ALTS = {
+	home: 'Naraka Cheats homepage hero — ESP and aimbot for Naraka',
+	'naraka-esp': 'Naraka ESP player boxes and distance readouts in a match',
+	'naraka-aimbot': 'Naraka Aimbot and soft aim controls on Windows PC',
+	features: 'Naraka Cheats features — ESP, soft aim, and radar screenshots',
+	pricing: 'Naraka Cheats store plans for monthly and lifetime licenses',
+	setup: 'Naraka Cheats setup guide screenshot for Windows PC',
+	updates: 'Naraka Cheats live status after NEAC and game patches',
+	faq: 'Naraka Cheats FAQ — delivery, setup, and update answers',
+	support: 'Naraka Cheats support page for license and setup help',
+	undetected: 'Naraka Cheats undetected status overview for Windows PC',
+	wallhack: 'naraka wallhack visibility through walls in a match',
+	radar: 'Naraka 2D radar overlay showing nearby threats',
+	eac: 'Naraka Cheats maintenance after a NEAC patch',
+	'cheats-2026': 'Naraka Cheats product overview for Naraka',
+	hacks: 'Naraka Cheats product page — ESP, aimbot, and radar',
+	'cheat-download': 'Naraka Cheats download and install delivery flow',
+	'mod-menu': 'Naraka Cheats in-game menu controls',
+	'soft-aim': 'Naraka soft aim FOV and smoothness settings',
+	'best-cheats': 'Naraka Cheats overview for Naraka on PC',
+	'aimbot-hack': 'Naraka Aimbot hack controls and bone priority',
+	'esp-hack': 'Naraka ESP hack boxes and hero markers',
+	'unlock-all': 'Naraka Cheats license features overview',
+	privacy: 'Naraka Cheats privacy policy page',
+	refund: 'Naraka Cheats refund policy page',
+	terms: 'Naraka Cheats terms of use page',
+};
