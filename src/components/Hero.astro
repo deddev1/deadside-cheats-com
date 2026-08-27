@@ -40,20 +40,21 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 		--hero-pad-y: clamp(1rem, 2vw, 1.75rem);
 		--hero-stack: clamp(0.5rem, 1.1vw, 0.75rem);
 		/*
-		 * Wide banner (~1199×506). Height scales with viewport but stays between
-		 * a readable mobile strip and a desktop bar that does not dominate the fold.
+		 * Wide hero bar (3.15:1) — matches valoranthacks.org fold height.
+		 * Character art fills the right side via cover crop.
 		 */
-		--hero-ratio: 1199 / 506;
-		--hero-height: clamp(18rem, min(40vw, 32svh), 28rem);
+		--hero-ratio: 3.15 / 1;
 		position: relative;
 		isolation: isolate;
 		display: grid;
 		align-items: center;
 		overflow: hidden;
 		background: var(--bg);
+		aspect-ratio: var(--hero-ratio);
 		width: 100%;
-		height: var(--hero-height);
+		height: auto;
 		min-height: 0;
+		max-height: none;
 	}
 
 	.hero__media {
@@ -72,7 +73,7 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 	.hero__media img {
 		object-fit: cover;
 		/* Character sits on the right; keep left dark for headline copy */
-		object-position: 68% center;
+		object-position: 72% center;
 		image-rendering: auto;
 		transform: translateZ(0);
 		animation: hero-in 0.9s ease-out both;
@@ -289,12 +290,13 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 	}
 
 	/*
-	 * Mobile: taller strip so character + overlay copy both fit comfortably.
+	 * Mobile: overlay copy on lower third; keep a tall enough strip for art + text.
 	 */
 	@media (max-width: 900px) {
 		.hero {
-			--hero-height: clamp(16.5rem, min(52vw, 42svh), 22rem);
-			display: grid;
+			aspect-ratio: auto;
+			min-height: clamp(22rem, 88vw, 28rem);
+			height: auto;
 		}
 
 		.hero__media {
@@ -418,7 +420,7 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 
 	@media (max-width: 900px) and (orientation: landscape) and (max-height: 480px) {
 		.hero {
-			--hero-height: clamp(12rem, 70svh, 16.5rem);
+			min-height: min(70svh, 16.5rem);
 		}
 
 		.hero__content {
