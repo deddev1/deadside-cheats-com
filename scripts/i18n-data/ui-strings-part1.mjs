@@ -6,7 +6,7 @@ export const uiStrings = {
 		hero: { accent: '2026 — Undetected ESP, Aimbot & Wallhack', accentShort: 'Undetected naraka cheats 2026', title: 'Naraka Cheats', subtitle: 'naraka cheats with Naraka ESP, radar hack and Naraka Aimbot for Windows PC — NEAC maintenance included.', subtitleShort: 'Naraka ESP, radar & aimbot for PC', buyNow: 'Buy Naraka Cheats', seeFeatures: 'See Features' },
 		trust: { status: 'Online', statusNote: 'Naraka Cheats — undetected naraka cheats live for Naraka on Windows PC.', statusShort: 'Live', delivery: 'Instant digital delivery', platform: 'Windows 10 & 11', antiCheat: 'NEAC maintenance supported', antiCheatShort: 'NEAC supported' },
 		product: { title: 'Naraka Cheats', addToCart: 'Add to Cart', monthly: 'Monthly', lifetime: 'Lifetime', available: 'Available now', gameBadge: 'Naraka', platformBadge: 'Windows PC', statusBadge: 'Undetected naraka cheats' },
-		reviews: { title: 'What players say', subtitle: 'Recent feedback from Naraka Cheats buyers', outOf: 'out of 5', countLabel: 'reviews' },
+		reviews: { title: 'Naraka Bladepoint hacks & cheats reviews', subtitle: 'Recent Naraka cheats and Naraka Bladepoint hacks feedback from buyers', outOf: 'out of 5', countLabel: 'reviews' },
 		common: { buyNow: 'Buy Naraka Cheats', readGuide: 'Read guide', language: 'Language', officialLanguageNote: 'English is official; other locales are translated.', relatedPages: 'Related pages' },
 		footer: { explore: 'Explore', help: 'Help & legal', tagline: 'Undetected naraka cheats for PC.\nESP, wallhack, radar & aimbot.' },
 		images: {

@@ -5,6 +5,7 @@ import SiteFooter from '../../components/SiteFooter.astro';
 import { customerReviewStats, customerReviews, fillBrandTokens, productInfo, siteConfig } from '../../data/site';
 import { brandCopy, brandSeo, seoPageTitle } from '../../data/site-core';
 import { seoDescription } from '../../data/brand';
+import { reviewsSeoKeywords } from '../../data/seo-keywords';
 import { getSelfHreflangAlternates } from '../../data/i18n/routing';
 import { getReviewPath, reviewsBasePath } from '../../data/reviews';
 import { reviewsImageSrc } from '../../data/page-images';
@@ -56,7 +57,8 @@ const extraGraph: Record<string, unknown>[] = [
 	canonicalPath={reviewsBasePath}
 	hreflangAlternates={hreflangAlternates}
 	ogImage={reviewsImageSrc}
-	ogImageAlt={fillBrandTokens('{brand} customer reviews')}
+	ogImageAlt={fillBrandTokens('{brand} — Naraka cheats & Naraka Bladepoint hacks reviews')}
+	keywords={[...reviewsSeoKeywords]}
 	locale="en"
 	breadcrumbs={[
 		{ label: 'Home', href: '/' },
@@ -78,7 +80,7 @@ const extraGraph: Record<string, unknown>[] = [
 					src={reviewsImageSrc}
 					srcset={contentSrcSet(reviewsImageSrc)}
 					sizes={productMainSizes}
-					alt={fillBrandTokens('{brand} customer reviews')}
+					alt={fillBrandTokens('{brand} — Naraka cheats & Naraka Bladepoint hacks reviews')}
 					width="960"
 					height="530"
 					loading="lazy"
@@ -88,7 +90,7 @@ const extraGraph: Record<string, unknown>[] = [
 
 			<header class="reviews-index__head">
 				<div>
-					<h1 data-edit="navReviews">{siteConfig.name} reviews</h1>
+					<h1 data-edit="navReviews">Naraka cheats reviews — Naraka Bladepoint hacks & cheats</h1>
 					<p class="reviews-index__intro" data-edit="reviewsIntro">{reviewsIntro}</p>
 				</div>
 				<div class="reviews-index__summary" aria-label={`${customerReviewStats.averageRating} out of 5 average rating`}>
@@ -128,10 +130,10 @@ const extraGraph: Record<string, unknown>[] = [
 			</div>
 
 			<section class="reviews-index__cta" aria-label={`Buy ${siteConfig.name}`}>
-				<h2>Ready to try {siteConfig.name}?</h2>
+				<h2>Ready to try Naraka cheats?</h2>
 				<p>
-					ESP, soft aim, and radar in one package for Windows PC — with {productInfo.game} patch
-					maintenance after updates.
+					Naraka Bladepoint hacks and cheats in one package — ESP, soft aim, and radar for Windows PC, with
+					{productInfo.game} patch maintenance after updates.
 				</p>
 				<div class="reviews-index__cta-row">
 					<a href={siteConfig.checkoutUrl} class="reviews-index__buy" rel="noopener noreferrer">

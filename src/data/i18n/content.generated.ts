@@ -77,8 +77,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					statusBadge: "Undetected naraka cheats",
 				},
 				reviews: {
-					title: "What players say",
-					subtitle: "Recent feedback from Naraka Cheats buyers",
+					title: "Naraka Bladepoint hacks & cheats reviews",
+					subtitle: "Recent Naraka cheats and Naraka Bladepoint hacks feedback from buyers",
 					outOf: "out of 5",
 					countLabel: "reviews",
 				},

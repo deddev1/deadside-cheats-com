@@ -131,9 +131,9 @@ export const brand = {
 		faqTitle: 'Naraka Cheats FAQ | ESP, Aimbot & {antiCheat}',
 		faqDescription:
 			'FAQ for naraka cheats — delivery, setup, undetected status, {antiCheat} updates & pricing on PC. Answers at narakacheats.org before you buy.',
-		reviewsTitle: 'Naraka Cheats Reviews | Real Buyer Feedback',
+		reviewsTitle: 'Naraka Cheats Reviews | Bladepoint Hacks & Cheats',
 		reviewsDescription:
-			'Real buyer reviews for {brand} — ESP, soft aim, radar & {antiCheat} maintenance on PC. See what license holders say at narakacheats.org.',
+			'Real buyer reviews for Naraka cheats and Naraka Bladepoint hacks — ESP, soft aim, radar & {antiCheat} maintenance on PC. See what license holders say at narakacheats.org.',
 		blogTitle: 'Naraka Blog | Guides & Patch Tips | {brand}',
 		blogDescription:
 			'Naraka guides — ranked tips, ESP & aimbot notes, hero tiers & {antiCheat} updates for PC. Read the blog at narakacheats.org/blog.',
@@ -154,7 +154,8 @@ export const brand = {
 		setupIntro: 'Install {brand} on Windows PC after you buy. Follow these short steps.',
 		supportIntro: 'Need help with {brand}? Email {email} with your order ID.',
 		faqIntro: 'Short answers about delivery, setup, updates, and refunds.',
-		reviewsIntro: 'Feedback from {brand} buyers — ESP, soft aim, radar, and support.',
+		reviewsIntro:
+			'Real feedback on Naraka cheats and Naraka Bladepoint hacks — ESP, soft aim, radar, and support from {brand} buyers.',
 		chipEsp: 'ESP / wallhack',
 		chipAim: 'Soft aim',
 		chipRadar: '2D radar',
@@ -177,7 +178,7 @@ export const brand = {
 		blogImageTitle: '{brand} blog',
 		blogImageCaption: 'Tips and updates for {primaryKeyword}',
 		reviewsImageTitle: '{brand} reviews',
-		reviewsImageCaption: 'What buyers say about {primaryKeyword}',
+		reviewsImageCaption: 'Naraka cheats & Naraka Bladepoint hacks — what buyers say about {primaryKeyword}',
 		images: [
 			{
 				src: '/images/naraka-screenshot-01.webp',

@@ -9,6 +9,8 @@ export const primarySeoKeyword = 'naraka cheats';
  */
 export const globalSeoKeywords = [
 	'naraka cheats',
+	'naraka bladepoint hacks',
+	'naraka bladepoint cheats',
 	'undetected naraka cheats',
 	'naraka cheats 2026',
 	'best naraka cheats',
@@ -135,6 +137,20 @@ export const pageSeoKeywords: Partial<Record<PageId, readonly string[]>> = {
 	faq: ['naraka cheats faq', 'naraka cheats faq', 'naraka cheats setup', 'undetected naraka cheats'],
 	support: ['naraka cheats support', 'naraka cheats support', 'naraka cheats license help'],
 };
+
+/** Meta keywords for /reviews/ and individual review pages (English-only routes). */
+export const reviewsSeoKeywords = [
+	'naraka cheats reviews',
+	'naraka bladepoint hacks',
+	'naraka bladepoint cheats',
+	'naraka cheats',
+	'naraka hacks',
+	'naraka bladepoint hacks pc',
+	'naraka esp',
+	'naraka aimbot',
+	'naraka radar hack',
+	'undetected naraka cheats',
+] as const;
 
 export function getPageSeoKeywords(pageId?: PageId): string[] {
 	if (!pageId) return [...globalSeoKeywords];
