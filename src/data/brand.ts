@@ -181,33 +181,33 @@ export const brand = {
 		images: [
 			{
 				src: '/images/naraka-screenshot-01.webp',
-				title: 'Naraka ESP wallhack player boxes',
-				caption: 'Naraka ESP wallhack showing player boxes and distance tags',
+				title: 'Naraka ESP loot and item detection',
+				caption: 'Naraka ESP wallhack with distance-tagged loot boxes and weapons',
 			},
 			{
 				src: '/images/naraka-screenshot-02.webp',
 				title: 'Naraka wallhack ESP overlay',
-				caption: 'Naraka wallhack ESP highlighting enemies through map geometry',
+				caption: 'Naraka wallhack ESP with loot tags visible through walls',
 			},
 			{
 				src: '/images/naraka-screenshot-03.webp',
-				title: 'Naraka aimbot soft aim in match',
-				caption: 'Naraka aimbot soft aim targeting during competitive combat',
+				title: 'Naraka cheats in-match view',
+				caption: 'Naraka gameplay session with cheats running on Windows PC',
 			},
 			{
 				src: '/images/naraka-screenshot-04.webp',
-				title: 'Naraka Cheats mod menu overlay',
-				caption: 'Naraka Cheats mod menu with ESP, aimbot, and radar toggles on Windows PC',
+				title: 'Naraka ESP player tracking',
+				caption: 'Naraka ESP showing enemy names, health, and distance through the map',
 			},
 			{
 				src: '/images/naraka-screenshot-05.webp',
-				title: 'Naraka radar hack overlay',
-				caption: 'Naraka 2D radar hack with directional threat cues on Windows PC',
+				title: 'Naraka ESP threat markers',
+				caption: 'Naraka ESP distance markers for players and loot in live matches',
 			},
 			{
 				src: '/images/naraka-screenshot-06.webp',
-				title: 'Naraka cheats in-match overlay',
-				caption: 'Naraka cheats ESP and aimbot overlay during a live competitive match',
+				title: 'Naraka cheats combat ESP',
+				caption: 'Naraka cheats ESP active during a live Naraka match',
 			},
 			{
 				src: '/images/naraka-screenshot-07.webp',
@@ -216,8 +216,8 @@ export const brand = {
 			},
 			{
 				src: '/images/naraka-screenshot-08.webp',
-				title: 'Naraka aimbot and ESP gameplay',
-				caption: 'Naraka aimbot and ESP wallhack combined during ranked gameplay',
+				title: 'Naraka ESP and loot ESP gameplay',
+				caption: 'Naraka ESP loot tags and wallhack overlay during ranked gameplay',
 			},
 		],
 	},

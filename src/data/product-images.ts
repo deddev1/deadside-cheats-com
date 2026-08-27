@@ -26,44 +26,44 @@ export type ProductScreenshotMeta = {
 
 const alts: Record<number, { alt: string; title: string; caption: string }> = {
 	1: {
-		alt: 'Naraka ESP wallhack showing player boxes in competitive combat',
-		title: 'Naraka ESP wallhack player boxes',
-		caption: 'Naraka ESP wallhack showing player boxes and distance tags',
+		alt: 'Naraka ESP showing loot box and weapon labels through walls',
+		title: 'Naraka ESP loot and item detection',
+		caption: 'Naraka ESP wallhack with distance-tagged loot boxes and weapons',
 	},
 	2: {
-		alt: 'Naraka wallhack ESP highlighting enemies through map geometry',
+		alt: 'Naraka wallhack ESP highlighting weapons and corpses through geometry',
 		title: 'Naraka wallhack ESP overlay',
-		caption: 'Naraka wallhack ESP highlighting enemies through walls and smoke',
+		caption: 'Naraka wallhack ESP with loot tags visible through walls',
 	},
 	3: {
-		alt: 'Naraka aimbot soft aim targeting during a ranked match',
-		title: 'Naraka aimbot soft aim in match',
-		caption: 'Naraka aimbot soft aim targeting during competitive combat',
+		alt: 'Naraka third-person gameplay view on Windows PC',
+		title: 'Naraka cheats in-match view',
+		caption: 'Naraka gameplay session with cheats running on Windows PC',
 	},
 	4: {
-		alt: 'Naraka Cheats mod menu with ESP and radar toggles',
-		title: 'Naraka Cheats mod menu overlay',
-		caption: 'Naraka Cheats mod menu with ESP, aimbot, and radar toggles on Windows PC',
+		alt: 'Naraka ESP player tracking with names and distance readouts',
+		title: 'Naraka ESP player tracking',
+		caption: 'Naraka ESP showing enemy names, health, and distance through the map',
 	},
 	5: {
-		alt: 'Naraka 2D radar hack showing nearby enemy threats',
-		title: 'Naraka radar hack overlay',
-		caption: 'Naraka 2D radar hack with directional threat cues on Windows PC',
+		alt: 'Naraka ESP radar-style player and loot markers in match',
+		title: 'Naraka ESP threat markers',
+		caption: 'Naraka ESP distance markers for players and loot in live matches',
 	},
 	6: {
-		alt: 'Naraka cheats in-match overlay with ESP and aimbot active',
-		title: 'Naraka cheats in-match overlay',
-		caption: 'Naraka cheats ESP and aimbot overlay during a live competitive match',
+		alt: 'Naraka cheats ESP overlay during combat on Windows PC',
+		title: 'Naraka cheats combat ESP',
+		caption: 'Naraka cheats ESP active during a live Naraka match',
 	},
 	7: {
-		alt: 'Naraka wallhack player outlines and distance readouts',
+		alt: 'Naraka wallhack ESP with player outlines and corpse tags',
 		title: 'Naraka wallhack player ESP',
 		caption: 'Naraka wallhack ESP with player outlines and distance tags',
 	},
 	8: {
-		alt: 'Naraka aimbot and ESP combined in competitive gameplay',
-		title: 'Naraka aimbot and ESP gameplay',
-		caption: 'Naraka aimbot and ESP wallhack combined during ranked gameplay',
+		alt: 'Naraka ESP loot detection and in-match overlay',
+		title: 'Naraka ESP and loot ESP gameplay',
+		caption: 'Naraka ESP loot tags and wallhack overlay during ranked gameplay',
 	},
 };
 
