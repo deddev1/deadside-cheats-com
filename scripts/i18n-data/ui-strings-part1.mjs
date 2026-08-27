@@ -2,7 +2,7 @@
 
 export const uiStrings = {
 	en: {
-		nav: { home: 'Home', hacks: 'Hacks', aimbot: 'Aimbot', esp: 'ESP', features: 'Features', pricing: 'Pricing', setup: 'Setup', updates: 'Updates', faq: 'FAQ', buyNow: 'Buy Now', preview: 'Hacks', store: 'Pricing', status: 'Updates', reviews: 'Reviews' },
+		nav: { home: 'Home', hacks: 'Cheats', aimbot: 'Aimbot', esp: 'ESP', features: 'Features', pricing: 'Pricing', setup: 'Setup', updates: 'Updates', faq: 'FAQ', buyNow: 'Buy Now', preview: 'Cheats', store: 'Pricing', status: 'Updates', reviews: 'Reviews' },
 		hero: { accent: '2026 — Undetected ESP, Aimbot & Wallhack', accentShort: 'Undetected naraka cheats 2026', title: 'Naraka Cheats', subtitle: 'naraka cheats with Naraka ESP, radar hack and Naraka Aimbot for Windows PC — NEAC maintenance included.', subtitleShort: 'Naraka ESP, radar & aimbot for PC', buyNow: 'Buy Naraka Cheats', seeFeatures: 'See Features' },
 		trust: { status: 'Online', statusNote: 'Naraka Cheats — undetected naraka cheats live for Naraka on Windows PC.', statusShort: 'Live', delivery: 'Instant digital delivery', platform: 'Windows 10 & 11', antiCheat: 'NEAC maintenance supported', antiCheatShort: 'NEAC supported' },
 		product: { title: 'Naraka Cheats', addToCart: 'Add to Cart', monthly: 'Monthly', lifetime: 'Lifetime', available: 'Available now', gameBadge: 'Naraka', platformBadge: 'Windows PC', statusBadge: 'Undetected naraka cheats' },
@@ -23,7 +23,7 @@ export const uiStrings = {
 	},
 	},
 	es: {
-		nav: { home: 'Inicio', hacks: 'Hacks', aimbot: 'Aimbot', esp: 'ESP', features: 'Funciones', pricing: 'Precios', setup: 'Instalación', updates: 'Actualizaciones', faq: 'FAQ', buyNow: 'Comprar' },
+		nav: { home: 'Inicio', hacks: 'Cheats', aimbot: 'Aimbot', esp: 'ESP', features: 'Funciones', pricing: 'Precios', setup: 'Instalación', updates: 'Actualizaciones', faq: 'FAQ', buyNow: 'Comprar' },
 		hero: { accent: 'Trucos Naraka indetectables', accentShort: 'Naraka Cheats', subtitle: 'ESP wallhack, radar hack y Aimbot para Naraka en PC Windows — mantenimiento NEAC incluido.', subtitleShort: 'ESP, radar y Aimbot para Naraka PC', buyNow: 'Comprar ahora', seeFeatures: 'Ver funciones' },
 		trust: { status: 'En línea', statusNote: 'El paquete Naraka Cheats está activo para Naraka en PC Windows.', statusShort: 'Activo', delivery: 'Entrega digital instantánea', platform: 'Windows 10 y 11', antiCheat: 'Mantenimiento NEAC incluido', antiCheatShort: 'NEAC incluido' },
 		product: { title: 'Naraka Cheats', addToCart: 'Añadir al carrito', monthly: 'Mensual', lifetime: 'De por vida', available: 'Disponible ahora', gameBadge: 'Naraka', platformBadge: 'PC Windows', statusBadge: 'Paquete indetectable' },
@@ -44,7 +44,7 @@ export const uiStrings = {
 	},
 	},
 	fr: {
-		nav: { home: 'Accueil', hacks: 'Hacks', aimbot: 'Aimbot', esp: 'ESP', features: 'Fonctions', pricing: 'Tarifs', setup: 'Installation', updates: 'Mises à jour', faq: 'FAQ', buyNow: 'Acheter' },
+		nav: { home: 'Accueil', hacks: 'Cheats', aimbot: 'Aimbot', esp: 'ESP', features: 'Fonctions', pricing: 'Tarifs', setup: 'Installation', updates: 'Mises à jour', faq: 'FAQ', buyNow: 'Acheter' },
 		hero: { accent: 'Triches Naraka indétectables', accentShort: 'Naraka Cheats', subtitle: 'ESP wallhack, radar hack et Aimbot pour Naraka sur PC Windows — maintenance NEAC incluse.', subtitleShort: 'ESP, radar et Aimbot pour Naraka PC', buyNow: 'Acheter', seeFeatures: 'Voir les fonctions' },
 		trust: { status: 'En ligne', statusNote: 'Le squad Naraka Cheats est actif pour Naraka sur PC Windows.', statusShort: 'Actif', delivery: 'Livraison numérique instantanée', platform: 'Windows 10 et 11', antiCheat: 'Maintenance NEAC incluse', antiCheatShort: 'NEAC inclus' },
 		product: { title: 'Naraka Cheats', addToCart: 'Ajouter au panier', monthly: 'Mensuel', lifetime: 'À vie', available: 'Disponible', gameBadge: 'Naraka', platformBadge: 'PC Windows', statusBadge: 'Pack indétectable' },
@@ -65,7 +65,7 @@ export const uiStrings = {
 	},
 	},
 	de: {
-		nav: { home: 'Start', hacks: 'Hacks', aimbot: 'Aimbot', esp: 'ESP', features: 'Features', pricing: 'Preise', setup: 'Setup', updates: 'Updates', faq: 'FAQ', buyNow: 'Kaufen' },
+		nav: { home: 'Start', hacks: 'Cheats', aimbot: 'Aimbot', esp: 'ESP', features: 'Features', pricing: 'Preise', setup: 'Setup', updates: 'Updates', faq: 'FAQ', buyNow: 'Kaufen' },
 		hero: { accent: 'Undetected Naraka Cheats', accentShort: 'Naraka Cheats', subtitle: 'ESP Wallhack, Radar Hack und Aimbot für Naraka auf Windows PC — NEAC-Wartung inklusive.', subtitleShort: 'ESP, Radar & Aimbot für Naraka PC', buyNow: 'Jetzt kaufen', seeFeatures: 'Features ansehen' },
 		trust: { status: 'Online', statusNote: 'Naraka Cheats Paket ist live für Naraka auf Windows PC.', statusShort: 'Live', delivery: 'Sofortige digitale Lieferung', platform: 'Windows 10 & 11', antiCheat: 'NEAC-Wartung unterstützt', antiCheatShort: 'NEAC Support' },
 		product: { title: 'Naraka Cheats', addToCart: 'In den Warenkorb', monthly: 'Monatlich', lifetime: 'Lifetime', available: 'Jetzt verfügbar', gameBadge: 'Naraka', platformBadge: 'Windows PC', statusBadge: 'Undetected Paket' },
@@ -86,7 +86,7 @@ export const uiStrings = {
 	},
 	},
 	pt: {
-		nav: { home: 'Início', hacks: 'Hacks', aimbot: 'Aimbot', esp: 'ESP', features: 'Recursos', pricing: 'Preços', setup: 'Instalação', updates: 'Atualizações', faq: 'FAQ', buyNow: 'Comprar' },
+		nav: { home: 'Início', hacks: 'Cheats', aimbot: 'Aimbot', esp: 'ESP', features: 'Recursos', pricing: 'Preços', setup: 'Instalação', updates: 'Atualizações', faq: 'FAQ', buyNow: 'Comprar' },
 		hero: { accent: 'Cheats Naraka indetectáveis', accentShort: 'Naraka Cheats', subtitle: 'ESP wallhack, radar hack e Aimbot para Naraka no PC Windows — manutenção NEAC incluída.', subtitleShort: 'ESP, radar e Aimbot para Naraka PC', buyNow: 'Comprar agora', seeFeatures: 'Ver recursos' },
 		trust: { status: 'Online', statusNote: 'O pacote Naraka Cheats está ativo para Naraka no PC Windows.', statusShort: 'Ativo', delivery: 'Entrega digital instantânea', platform: 'Windows 10 e 11', antiCheat: 'Manutenção NEAC incluída', antiCheatShort: 'NEAC incluído' },
 		product: { title: 'Naraka Cheats', addToCart: 'Adicionar ao carrinho', monthly: 'Mensal', lifetime: 'Vitalício', available: 'Disponível agora', gameBadge: 'Naraka', platformBadge: 'PC Windows', statusBadge: 'Pacote indetectável' },
@@ -107,7 +107,7 @@ export const uiStrings = {
 	},
 	},
 	it: {
-		nav: { home: 'Home', hacks: 'Hacks', aimbot: 'Aimbot', esp: 'ESP', features: 'Funzioni', pricing: 'Prezzi', setup: 'Setup', updates: 'Aggiornamenti', faq: 'FAQ', buyNow: 'Acquista' },
+		nav: { home: 'Home', hacks: 'Cheats', aimbot: 'Aimbot', esp: 'ESP', features: 'Funzioni', pricing: 'Prezzi', setup: 'Setup', updates: 'Aggiornamenti', faq: 'FAQ', buyNow: 'Acquista' },
 		hero: { accent: 'Cheat Naraka indetectable', accentShort: 'Naraka Cheats', subtitle: 'ESP wallhack, radar hack e Aimbot per Naraka su PC Windows — manutenzione NEAC inclusa.', subtitleShort: 'ESP, radar e Aimbot per Naraka PC', buyNow: 'Acquista ora', seeFeatures: 'Vedi funzioni' },
 		trust: { status: 'Online', statusNote: 'Il pacchetto Naraka Cheats è attivo per Naraka su PC Windows.', statusShort: 'Attivo', delivery: 'Consegna digitale istantanea', platform: 'Windows 10 e 11', antiCheat: 'Manutenzione NEAC supportata', antiCheatShort: 'NEAC supportato' },
 		product: { title: 'Naraka Cheats', addToCart: 'Aggiungi al carrello', monthly: 'Mensile', lifetime: 'A vita', available: 'Disponibile ora', gameBadge: 'Naraka', platformBadge: 'PC Windows', statusBadge: 'Pacchetto indetectable' },
@@ -128,7 +128,7 @@ export const uiStrings = {
 	},
 	},
 	nl: {
-		nav: { home: 'Home', hacks: 'Hacks', aimbot: 'Aimbot', esp: 'ESP', features: 'Functies', pricing: 'Prijzen', setup: 'Setup', updates: 'Updates', faq: 'FAQ', buyNow: 'Kopen' },
+		nav: { home: 'Home', hacks: 'Cheats', aimbot: 'Aimbot', esp: 'ESP', features: 'Functies', pricing: 'Prijzen', setup: 'Setup', updates: 'Updates', faq: 'FAQ', buyNow: 'Kopen' },
 		hero: { accent: 'Undetected Naraka Cheats', accentShort: 'Naraka Cheats', subtitle: 'ESP wallhack, radar hack en Aimbot voor Naraka op Windows PC — NEAC-onderhoud inbegrepen.', subtitleShort: 'ESP, radar & Aimbot voor Naraka PC', buyNow: 'Nu kopen', seeFeatures: 'Bekijk functies' },
 		trust: { status: 'Online', statusNote: 'Naraka Cheats pakket is live voor Naraka op Windows PC.', statusShort: 'Live', delivery: 'Directe digitale levering', platform: 'Windows 10 & 11', antiCheat: 'NEAC-onderhoud ondersteund', antiCheatShort: 'NEAC support' },
 		product: { title: 'Naraka Cheats', addToCart: 'In winkelwagen', monthly: 'Maandelijks', lifetime: 'Lifetime', available: 'Nu beschikbaar', gameBadge: 'Naraka', platformBadge: 'Windows PC', statusBadge: 'Undetected pakket' },
@@ -149,7 +149,7 @@ export const uiStrings = {
 	},
 	},
 	pl: {
-		nav: { home: 'Strona główna', hacks: 'Hacks', aimbot: 'Aimbot', esp: 'ESP', features: 'Funkcje', pricing: 'Cennik', setup: 'Instalacja', updates: 'Aktualizacje', faq: 'FAQ', buyNow: 'Kup teraz' },
+		nav: { home: 'Strona główna', hacks: 'Cheats', aimbot: 'Aimbot', esp: 'ESP', features: 'Funkcje', pricing: 'Cennik', setup: 'Instalacja', updates: 'Aktualizacje', faq: 'FAQ', buyNow: 'Kup teraz' },
 		hero: { accent: 'Undetected cheaty Naraka', accentShort: 'Naraka Cheats', subtitle: 'ESP wallhack, radar hack i Aimbot do Naraka na PC Windows — konserwacja NEAC w cenie.', subtitleShort: 'ESP, radar i Aimbot dla Naraka PC', buyNow: 'Kup teraz', seeFeatures: 'Zobacz funkcje' },
 		trust: { status: 'Online', statusNote: 'Pakiet Naraka Cheats jest aktywny dla Naraka na PC Windows.', statusShort: 'Aktywny', delivery: 'Natychmiastowa dostawa cyfrowa', platform: 'Windows 10 i 11', antiCheat: 'Wsparcie konserwacji NEAC', antiCheatShort: 'NEAC wsparcie' },
 		product: { title: 'Naraka Cheats', addToCart: 'Dodaj do koszyka', monthly: 'Miesięcznie', lifetime: 'Dożywotnio', available: 'Dostępne teraz', gameBadge: 'Naraka', platformBadge: 'PC Windows', statusBadge: 'Pakiet undetected' },
@@ -170,7 +170,7 @@ export const uiStrings = {
 	},
 	},
 	ru: {
-		nav: { home: 'Главная', hacks: 'Hacks', aimbot: 'Aimbot', esp: 'ESP', features: 'Функции', pricing: 'Цены', setup: 'Установка', updates: 'Обновления', faq: 'FAQ', buyNow: 'Купить' },
+		nav: { home: 'Главная', hacks: 'Cheats', aimbot: 'Aimbot', esp: 'ESP', features: 'Функции', pricing: 'Цены', setup: 'Установка', updates: 'Обновления', faq: 'FAQ', buyNow: 'Купить' },
 		hero: { accent: 'Undetected читы Naraka', accentShort: 'Naraka Cheats', subtitle: 'ESP wallhack, radar hack и Aimbot для Naraka на Windows PC — обслуживание NEAC включено.', subtitleShort: 'ESP, radar и Aimbot для Naraka PC', buyNow: 'Купить', seeFeatures: 'Смотреть функции' },
 		trust: { status: 'Онлайн', statusNote: 'Пакет Naraka Cheats активен для Naraka на Windows PC.', statusShort: 'Активен', delivery: 'Мгновенная цифровая доставка', platform: 'Windows 10 и 11', antiCheat: 'Поддержка обслуживания NEAC', antiCheatShort: 'NEAC поддержка' },
 		product: { title: 'Naraka Cheats', addToCart: 'В корзину', monthly: 'Месяц', lifetime: 'Навсегда', available: 'Доступно сейчас', gameBadge: 'Naraka', platformBadge: 'Windows PC', statusBadge: 'Undetected пакет' },
@@ -191,7 +191,7 @@ export const uiStrings = {
 	},
 	},
 	tr: {
-		nav: { home: 'Ana sayfa', hacks: 'Hacks', aimbot: 'Aimbot', esp: 'ESP', features: 'Özellikler', pricing: 'Fiyatlar', setup: 'Kurulum', updates: 'Güncellemeler', faq: 'SSS', buyNow: 'Satın al' },
+		nav: { home: 'Ana sayfa', hacks: 'Cheats', aimbot: 'Aimbot', esp: 'ESP', features: 'Özellikler', pricing: 'Fiyatlar', setup: 'Kurulum', updates: 'Güncellemeler', faq: 'SSS', buyNow: 'Satın al' },
 		hero: { accent: 'Undetected Naraka hileleri', accentShort: 'Naraka Cheats', subtitle: 'Naraka Windows PC için ESP wallhack, radar hack ve Aimbot — NEAC bakımı dahil.', subtitleShort: 'Naraka PC için ESP, radar ve Aimbot', buyNow: 'Satın al', seeFeatures: 'Özellikleri gör' },
 		trust: { status: 'Çevrimiçi', statusNote: 'Naraka Cheats paketi Naraka Windows PC için aktif.', statusShort: 'Aktif', delivery: 'Anında dijital teslimat', platform: 'Windows 10 ve 11', antiCheat: 'NEAC bakım desteği', antiCheatShort: 'NEAC destek' },
 		product: { title: 'Naraka Cheats', addToCart: 'Sepete ekle', monthly: 'Aylık', lifetime: 'Ömür boyu', available: 'Şimdi mevcut', gameBadge: 'Naraka', platformBadge: 'Windows PC', statusBadge: 'Undetected paket' },

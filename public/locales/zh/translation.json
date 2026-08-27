@@ -1,7 +1,7 @@
 {
   "nav": {
     "home": "首页",
-    "hacks": "Hacks",
+    "hacks": "Cheats",
     "aimbot": "Aimbot",
     "esp": "ESP",
     "features": "功能",
@@ -10,7 +10,7 @@
     "updates": "更新",
     "faq": "常见问题",
     "buyNow": "立即购买",
-    "preview": "Hacks",
+    "preview": "Cheats",
     "store": "价格",
     "status": "更新",
     "reviews": "玩家评价",
@@ -188,7 +188,7 @@
     "support247": "24/7"
   },
   "categoryRow": {
-    "hacks": "Hacks",
+    "hacks": "Cheats",
     "esp": "ESP",
     "aimbot": "Aimbot",
     "radar": "Radar",
@@ -216,7 +216,7 @@
     "support": "Support",
     "blog": "Blog",
     "reviews": "玩家评价",
-    "hacks": "Hacks",
+    "hacks": "Cheats",
     "undetected": "Undetected套餐"
   },
   "externalResources": {

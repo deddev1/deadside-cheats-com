@@ -1,7 +1,7 @@
 {
   "nav": {
     "home": "홈",
-    "hacks": "Hacks",
+    "hacks": "Cheats",
     "aimbot": "Aimbot",
     "esp": "ESP",
     "features": "기능",
@@ -10,7 +10,7 @@
     "updates": "업데이트",
     "faq": "FAQ",
     "buyNow": "구매하기",
-    "preview": "Hacks",
+    "preview": "Cheats",
     "store": "가격",
     "status": "업데이트",
     "reviews": "플레이어 후기",
@@ -188,7 +188,7 @@
     "support247": "24/7"
   },
   "categoryRow": {
-    "hacks": "Hacks",
+    "hacks": "Cheats",
     "esp": "ESP",
     "aimbot": "Aimbot",
     "radar": "Radar",
@@ -216,7 +216,7 @@
     "support": "Support",
     "blog": "Blog",
     "reviews": "플레이어 후기",
-    "hacks": "Hacks",
+    "hacks": "Cheats",
     "undetected": "Undetected 패키지"
   },
   "externalResources": {

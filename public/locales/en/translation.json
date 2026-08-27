@@ -1,7 +1,7 @@
 {
   "nav": {
     "home": "Home",
-    "hacks": "Hacks",
+    "hacks": "Cheats",
     "aimbot": "Aimbot",
     "esp": "ESP",
     "features": "Features",
@@ -10,7 +10,7 @@
     "updates": "Updates",
     "faq": "FAQ",
     "buyNow": "Buy Now",
-    "preview": "Hacks",
+    "preview": "Cheats",
     "store": "Pricing",
     "status": "Updates",
     "reviews": "Reviews",
@@ -187,7 +187,7 @@
     "support247": "24/7 support"
   },
   "categoryRow": {
-    "hacks": "Hacks",
+    "hacks": "Cheats",
     "esp": "ESP",
     "aimbot": "Aimbot",
     "radar": "Radar",

@@ -1,7 +1,7 @@
 {
   "nav": {
     "home": "Ana sayfa",
-    "hacks": "Hacks",
+    "hacks": "Cheats",
     "aimbot": "Aimbot",
     "esp": "ESP",
     "features": "Özellikler",
@@ -10,7 +10,7 @@
     "updates": "Güncellemeler",
     "faq": "SSS",
     "buyNow": "Satın al",
-    "preview": "Hacks",
+    "preview": "Cheats",
     "store": "Fiyatlar",
     "status": "Güncellemeler",
     "reviews": "Oyuncular ne diyor",
@@ -188,7 +188,7 @@
     "support247": "24/7"
   },
   "categoryRow": {
-    "hacks": "Hacks",
+    "hacks": "Cheats",
     "esp": "ESP",
     "aimbot": "Aimbot",
     "radar": "Radar",
@@ -216,7 +216,7 @@
     "support": "Support",
     "blog": "Blog",
     "reviews": "Oyuncular ne diyor",
-    "hacks": "Hacks",
+    "hacks": "Cheats",
     "undetected": "Undetected paket"
   },
   "externalResources": {

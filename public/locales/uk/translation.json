@@ -1,7 +1,7 @@
 {
   "nav": {
     "home": "Головна",
-    "hacks": "Hacks",
+    "hacks": "Cheats",
     "aimbot": "Aimbot",
     "esp": "ESP",
     "features": "Функції",
@@ -10,7 +10,7 @@
     "updates": "Оновлення",
     "faq": "FAQ",
     "buyNow": "Купити",
-    "preview": "Hacks",
+    "preview": "Cheats",
     "store": "Ціни",
     "status": "Оновлення",
     "reviews": "Що кажуть гравці",
@@ -188,7 +188,7 @@
     "support247": "24/7"
   },
   "categoryRow": {
-    "hacks": "Hacks",
+    "hacks": "Cheats",
     "esp": "ESP",
     "aimbot": "Aimbot",
     "radar": "Radar",
@@ -216,7 +216,7 @@
     "support": "Support",
     "blog": "Blog",
     "reviews": "Що кажуть гравці",
-    "hacks": "Hacks",
+    "hacks": "Cheats",
     "undetected": "Undetected пакет"
   },
   "externalResources": {

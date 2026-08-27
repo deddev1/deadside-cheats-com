@@ -1,7 +1,7 @@
 {
   "nav": {
     "home": "होम",
-    "hacks": "Hacks",
+    "hacks": "Cheats",
     "aimbot": "Aimbot",
     "esp": "ESP",
     "features": "फ़ीचर्स",
@@ -10,7 +10,7 @@
     "updates": "अपडेट",
     "faq": "FAQ",
     "buyNow": "अभी खरीदें",
-    "preview": "Hacks",
+    "preview": "Cheats",
     "store": "कीमत",
     "status": "अपडेट",
     "reviews": "खिलाड़ी क्या कहते हैं",
@@ -188,7 +188,7 @@
     "support247": "24/7"
   },
   "categoryRow": {
-    "hacks": "Hacks",
+    "hacks": "Cheats",
     "esp": "ESP",
     "aimbot": "Aimbot",
     "radar": "Radar",
@@ -216,7 +216,7 @@
     "support": "Support",
     "blog": "Blog",
     "reviews": "खिलाड़ी क्या कहते हैं",
-    "hacks": "Hacks",
+    "hacks": "Cheats",
     "undetected": "Undetected पैकेज"
   },
   "externalResources": {

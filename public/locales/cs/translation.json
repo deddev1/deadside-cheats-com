@@ -1,7 +1,7 @@
 {
   "nav": {
     "home": "Domů",
-    "hacks": "Hacks",
+    "hacks": "Cheats",
     "aimbot": "Aimbot",
     "esp": "ESP",
     "features": "Funkce",
@@ -10,7 +10,7 @@
     "updates": "Aktualizace",
     "faq": "FAQ",
     "buyNow": "Koupit",
-    "preview": "Hacks",
+    "preview": "Cheats",
     "store": "Ceny",
     "status": "Aktualizace",
     "reviews": "Co říkají hráči",
@@ -188,7 +188,7 @@
     "support247": "24/7"
   },
   "categoryRow": {
-    "hacks": "Hacks",
+    "hacks": "Cheats",
     "esp": "ESP",
     "aimbot": "Aimbot",
     "radar": "Radar",
@@ -216,7 +216,7 @@
     "support": "Support",
     "blog": "Blog",
     "reviews": "Co říkají hráči",
-    "hacks": "Hacks",
+    "hacks": "Cheats",
     "undetected": "Undetected balíček"
   },
   "externalResources": {

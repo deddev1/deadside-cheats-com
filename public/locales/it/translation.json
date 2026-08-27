@@ -1,7 +1,7 @@
 {
   "nav": {
     "home": "Home",
-    "hacks": "Hacks",
+    "hacks": "Cheats",
     "aimbot": "Aimbot",
     "esp": "ESP",
     "features": "Funzioni",
@@ -10,7 +10,7 @@
     "updates": "Aggiornamenti",
     "faq": "FAQ",
     "buyNow": "Acquista",
-    "preview": "Hacks",
+    "preview": "Cheats",
     "store": "Prezzi",
     "status": "Aggiornamenti",
     "reviews": "Cosa dicono i giocatori",
@@ -188,7 +188,7 @@
     "support247": "24/7"
   },
   "categoryRow": {
-    "hacks": "Hacks",
+    "hacks": "Cheats",
     "esp": "ESP",
     "aimbot": "Aimbot",
     "radar": "Radar",
@@ -216,7 +216,7 @@
     "support": "Support",
     "blog": "Blog",
     "reviews": "Cosa dicono i giocatori",
-    "hacks": "Hacks",
+    "hacks": "Cheats",
     "undetected": "Pacchetto indetectable"
   },
   "externalResources": {

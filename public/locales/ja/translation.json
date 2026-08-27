@@ -1,7 +1,7 @@
 {
   "nav": {
     "home": "ホーム",
-    "hacks": "Hacks",
+    "hacks": "Cheats",
     "aimbot": "Aimbot",
     "esp": "ESP",
     "features": "機能",
@@ -10,7 +10,7 @@
     "updates": "更新",
     "faq": "FAQ",
     "buyNow": "今すぐ購入",
-    "preview": "Hacks",
+    "preview": "Cheats",
     "store": "料金",
     "status": "更新",
     "reviews": "プレイヤーの声",
@@ -188,7 +188,7 @@
     "support247": "24/7"
   },
   "categoryRow": {
-    "hacks": "Hacks",
+    "hacks": "Cheats",
     "esp": "ESP",
     "aimbot": "Aimbot",
     "radar": "Radar",
@@ -216,7 +216,7 @@
     "support": "Support",
     "blog": "Blog",
     "reviews": "プレイヤーの声",
-    "hacks": "Hacks",
+    "hacks": "Cheats",
     "undetected": "Undetectedパッケージ"
   },
   "externalResources": {

@@ -1,7 +1,7 @@
 {
   "nav": {
     "home": "Acasă",
-    "hacks": "Hacks",
+    "hacks": "Cheats",
     "aimbot": "Aimbot",
     "esp": "ESP",
     "features": "Funcții",
@@ -10,7 +10,7 @@
     "updates": "Actualizări",
     "faq": "FAQ",
     "buyNow": "Cumpără",
-    "preview": "Hacks",
+    "preview": "Cheats",
     "store": "Prețuri",
     "status": "Actualizări",
     "reviews": "Ce spun jucătorii",
@@ -188,7 +188,7 @@
     "support247": "24/7"
   },
   "categoryRow": {
-    "hacks": "Hacks",
+    "hacks": "Cheats",
     "esp": "ESP",
     "aimbot": "Aimbot",
     "radar": "Radar",
@@ -216,7 +216,7 @@
     "support": "Support",
     "blog": "Blog",
     "reviews": "Ce spun jucătorii",
-    "hacks": "Hacks",
+    "hacks": "Cheats",
     "undetected": "Pachet undetected"
   },
   "externalResources": {

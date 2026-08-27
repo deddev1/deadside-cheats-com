@@ -1,7 +1,7 @@
 {
   "nav": {
     "home": "Beranda",
-    "hacks": "Hacks",
+    "hacks": "Cheats",
     "aimbot": "Aimbot",
     "esp": "ESP",
     "features": "Fitur",
@@ -10,7 +10,7 @@
     "updates": "Pembaruan",
     "faq": "FAQ",
     "buyNow": "Beli sekarang",
-    "preview": "Hacks",
+    "preview": "Cheats",
     "store": "Harga",
     "status": "Pembaruan",
     "reviews": "Apa kata pemain",
@@ -188,7 +188,7 @@
     "support247": "24/7"
   },
   "categoryRow": {
-    "hacks": "Hacks",
+    "hacks": "Cheats",
     "esp": "ESP",
     "aimbot": "Aimbot",
     "radar": "Radar",
@@ -216,7 +216,7 @@
     "support": "Support",
     "blog": "Blog",
     "reviews": "Apa kata pemain",
-    "hacks": "Hacks",
+    "hacks": "Cheats",
     "undetected": "Paket undetected"
   },
   "externalResources": {

@@ -1,7 +1,7 @@
 {
   "nav": {
     "home": "Hem",
-    "hacks": "Hacks",
+    "hacks": "Cheats",
     "aimbot": "Aimbot",
     "esp": "ESP",
     "features": "Funktioner",
@@ -10,7 +10,7 @@
     "updates": "Uppdateringar",
     "faq": "FAQ",
     "buyNow": "Köp nu",
-    "preview": "Hacks",
+    "preview": "Cheats",
     "store": "Priser",
     "status": "Uppdateringar",
     "reviews": "Vad spelare säger",
@@ -188,7 +188,7 @@
     "support247": "24/7"
   },
   "categoryRow": {
-    "hacks": "Hacks",
+    "hacks": "Cheats",
     "esp": "ESP",
     "aimbot": "Aimbot",
     "radar": "Radar",
@@ -216,7 +216,7 @@
     "support": "Support",
     "blog": "Blog",
     "reviews": "Vad spelare säger",
-    "hacks": "Hacks",
+    "hacks": "Cheats",
     "undetected": "Undetected paket"
   },
   "externalResources": {

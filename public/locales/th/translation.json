@@ -1,7 +1,7 @@
 {
   "nav": {
     "home": "หน้าแรก",
-    "hacks": "Hacks",
+    "hacks": "Cheats",
     "aimbot": "Aimbot",
     "esp": "ESP",
     "features": "ฟีเจอร์",
@@ -10,7 +10,7 @@
     "updates": "อัปเดต",
     "faq": "FAQ",
     "buyNow": "ซื้อเลย",
-    "preview": "Hacks",
+    "preview": "Cheats",
     "store": "ราคา",
     "status": "อัปเดต",
     "reviews": "ผู้เล่นพูดว่าอย่างไร",
@@ -188,7 +188,7 @@
     "support247": "24/7"
   },
   "categoryRow": {
-    "hacks": "Hacks",
+    "hacks": "Cheats",
     "esp": "ESP",
     "aimbot": "Aimbot",
     "radar": "Radar",
@@ -216,7 +216,7 @@
     "support": "Support",
     "blog": "Blog",
     "reviews": "ผู้เล่นพูดว่าอย่างไร",
-    "hacks": "Hacks",
+    "hacks": "Cheats",
     "undetected": "แพ็กเกจ undetected"
   },
   "externalResources": {

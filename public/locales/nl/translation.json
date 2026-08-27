@@ -1,7 +1,7 @@
 {
   "nav": {
     "home": "Home",
-    "hacks": "Hacks",
+    "hacks": "Cheats",
     "aimbot": "Aimbot",
     "esp": "ESP",
     "features": "Functies",
@@ -10,7 +10,7 @@
     "updates": "Updates",
     "faq": "FAQ",
     "buyNow": "Kopen",
-    "preview": "Hacks",
+    "preview": "Cheats",
     "store": "Prijzen",
     "status": "Updates",
     "reviews": "Wat spelers zeggen",
@@ -188,7 +188,7 @@
     "support247": "24/7"
   },
   "categoryRow": {
-    "hacks": "Hacks",
+    "hacks": "Cheats",
     "esp": "ESP",
     "aimbot": "Aimbot",
     "radar": "Radar",
@@ -216,7 +216,7 @@
     "support": "Support",
     "blog": "Blog",
     "reviews": "Wat spelers zeggen",
-    "hacks": "Hacks",
+    "hacks": "Cheats",
     "undetected": "Undetected pakket"
   },
   "externalResources": {

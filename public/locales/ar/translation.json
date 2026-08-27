@@ -1,7 +1,7 @@
 {
   "nav": {
     "home": "الرئيسية",
-    "hacks": "Hacks",
+    "hacks": "Cheats",
     "aimbot": "Aimbot",
     "esp": "ESP",
     "features": "الميزات",
@@ -10,7 +10,7 @@
     "updates": "التحديثات",
     "faq": "الأسئلة",
     "buyNow": "اشترِ الآن",
-    "preview": "Hacks",
+    "preview": "Cheats",
     "store": "الأسعار",
     "status": "التحديثات",
     "reviews": "ماذا يقول اللاعبون",
@@ -188,7 +188,7 @@
     "support247": "24/7"
   },
   "categoryRow": {
-    "hacks": "Hacks",
+    "hacks": "Cheats",
     "esp": "ESP",
     "aimbot": "Aimbot",
     "radar": "Radar",
@@ -216,7 +216,7 @@
     "support": "Support",
     "blog": "Blog",
     "reviews": "ماذا يقول اللاعبون",
-    "hacks": "Hacks",
+    "hacks": "Cheats",
     "undetected": "حزمة غير مكتشفة"
   },
   "externalResources": {
