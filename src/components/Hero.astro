@@ -40,9 +40,9 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 		--hero-pad-y: clamp(1rem, 2vw, 1.75rem);
 		--hero-stack: clamp(0.5rem, 1.1vw, 0.75rem);
 		/*
-		 * Fixed wide banner bar (1199×506). Character art sits right; copy uses left negative space.
+		 * Wide banner bar (~3.15:1). Image is cropped with cover; character stays on the right.
 		 */
-		--hero-ratio: 1199 / 506;
+		--hero-ratio: 3.15 / 1;
 		position: relative;
 		isolation: isolate;
 		display: grid;
@@ -53,7 +53,7 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 		width: 100%;
 		height: auto;
 		min-height: 0;
-		max-height: none;
+		max-height: clamp(14rem, 28vw, 21rem);
 	}
 
 	.hero__media {
@@ -307,12 +307,12 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 			inset: auto;
 			width: 100%;
 			aspect-ratio: var(--hero-ratio);
-			max-height: min(52vw, 13.5rem);
+			max-height: min(46vw, 12rem);
 		}
 
 		.hero__media img {
 			object-fit: cover;
-			object-position: center center;
+			object-position: 72% center;
 		}
 
 		.hero__veil {
@@ -330,10 +330,10 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 			z-index: 2;
 			transform: none;
 			width: 100%;
-			min-height: clamp(18.5rem, 56svh, 28rem);
+			min-height: clamp(15rem, 42svh, 22rem);
 			display: flex;
 			align-items: flex-end;
-			padding-block: 1.35rem 1.2rem;
+			padding-block: 1.1rem 1rem;
 			padding-bottom: max(1.2rem, env(safe-area-inset-bottom, 0px));
 			box-sizing: border-box;
 		}
@@ -390,8 +390,8 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 
 	@media (max-width: 480px) {
 		.hero__content {
-			min-height: clamp(17.5rem, 60svh, 26rem);
-			padding-block: 1.2rem 1.1rem;
+			min-height: clamp(14rem, 48svh, 20rem);
+			padding-block: 1rem 0.95rem;
 		}
 
 		.hero__brand {
@@ -414,7 +414,7 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 
 	@media (max-width: 360px) {
 		.hero__content {
-			min-height: clamp(16.5rem, 64svh, 24rem);
+			min-height: clamp(13rem, 50svh, 18rem);
 		}
 
 		.hero__brand {
