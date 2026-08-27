@@ -178,7 +178,12 @@ const breadcrumbLabel = eyebrowByPage[pageId];
 
 	{
 		sections.map((section) => (
-			<section class="card-panel">
+			<section
+				class:list={[
+					'card-panel',
+					section.list && section.list.length >= 4 && 'card-panel--features',
+				]}
+			>
 				<h2>{section.h2}</h2>
 				{section.paragraphs.map((p) => (
 					<p set:html={localizeParagraphHtml(p)} />

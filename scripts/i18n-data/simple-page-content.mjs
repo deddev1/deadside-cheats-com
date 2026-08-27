@@ -1134,160 +1134,204 @@ export const PAGE_CONTENT = {
 	"hacks": {
 		"0": {
 			"en": [
-				"Naraka cheats are third-party tools that give you extra information and combat assist during matches. Most players search for naraka cheats when they want player ESP, loot visibility, off-screen radar, or smoother aim under pressure.",
+				"Naraka cheats are third-party tools that give you extra information and combat assist during matches.",
+				"Most players search for naraka cheats when they want player ESP, loot visibility, off-screen radar, or smoother aim under pressure.",
 				"Naraka Cheats bundles those tools in one license for Windows PC — no stacking separate downloads for wallhack, radar, and aimbot."
 			],
 			"es": [
-				"Los trucos de Naraka son herramientas de terceros que te dan información extra y asistencia en combate durante matches. La mayoría busca naraka cheats cuando quieren ESP de jugadores, visibilidad de loot, radar fuera de pantalla o puntería más suave bajo presión.",
+				"Los trucos de Naraka son herramientas de terceros que te dan información extra y asistencia en combate durante matches.",
+				"La mayoría busca naraka cheats cuando quieren ESP de jugadores, visibilidad de loot, radar fuera de pantalla o puntería más suave bajo presión.",
 				"Naraka Cheats agrupa esas herramientas en una licencia para Windows PC — sin descargas separadas para wallhack, radar y aimbot."
 			],
 			"fr": [
-				"Les triches Naraka sont des outils tiers qui donnent des infos supplémentaires et une aide au combat pendant les matches. La plupart cherchent naraka cheats pour l'ESP joueurs, le loot, le radar hors écran ou une visée plus fluide sous pression.",
+				"Les triches Naraka sont des outils tiers qui donnent des infos supplémentaires et une aide au combat pendant les matches.",
+				"La plupart cherchent naraka cheats pour l'ESP joueurs, le loot, le radar hors écran ou une visée plus fluide sous pression.",
 				"Naraka Cheats regroupe ces outils dans une licence PC Windows — sans empiler wallhack, radar et aimbot séparément."
 			],
 			"de": [
-				"Naraka Cheats sind Drittanbieter-Tools mit Extra-Infos und Kampfhilfe in matches. Die meisten suchen naraka cheats für Spieler-ESP, Loot-Sicht, Off-Screen-Radar oder sanfteres Zielen unter Druck.",
+				"Naraka Cheats sind Drittanbieter-Tools mit Extra-Infos und Kampfhilfe in matches.",
+				"Die meisten suchen naraka cheats für Spieler-ESP, Loot-Sicht, Off-Screen-Radar oder sanfteres Zielen unter Druck.",
 				"Naraka Cheats bündelt diese Tools in einer Windows-PC-Lizenz — ohne separate Downloads für Wallhack, Radar und Aimbot."
 			],
 			"pt": [
-				"Naraka cheats são ferramentas de terceiros que dão informação extra e assistência de combate em matches. A maioria procura naraka cheats por ESP de jogadores, loot, radar off-screen ou mira mais suave sob pressão.",
+				"Naraka cheats são ferramentas de terceiros que dão informação extra e assistência de combate em matches.",
+				"A maioria procura naraka cheats por ESP de jogadores, loot, radar off-screen ou mira mais suave sob pressão.",
 				"Naraka Cheats reúne essas ferramentas numa licença Windows PC — sem empilhar wallhack, radar e aimbot separados."
 			],
 			"it": [
-				"I cheat Naraka sono tool di terze parti che danno info extra e assistenza in combattimento durante i match. Molti cercano naraka cheats per ESP giocatori, loot, radar off-screen o mira più fluida sotto pressione.",
+				"I cheat Naraka sono tool di terze parti che danno info extra e assistenza in combattimento durante i match.",
+				"Molti cercano naraka cheats per ESP giocatori, loot, radar off-screen o mira più fluida sotto pressione.",
 				"Naraka Cheats raggruppa questi tool in una licenza Windows PC — senza download separati per wallhack, radar e aimbot."
 			],
 			"nl": [
-				"Naraka cheats zijn tools van derden met extra info en gevechtshulp tijdens matches. De meeste zoeken naraka cheats voor speler-ESP, loot, off-screen radar of soepeler richten onder druk.",
+				"Naraka cheats zijn tools van derden met extra info en gevechtshulp tijdens matches.",
+				"De meeste zoeken naraka cheats voor speler-ESP, loot, off-screen radar of soepeler richten onder druk.",
 				"Naraka Cheats bundelt die tools in één Windows PC-licentie — geen aparte wallhack-, radar- en aimbot-downloads."
 			],
 			"pl": [
-				"Naraka cheats to narzędzia firm trzecich dające dodatkowe info i wsparcie w walce podczas matchów. Większość szuka naraka cheats dla ESP graczy, lootu, radaru off-screen lub płynniejszego aimu pod presją.",
+				"Naraka cheats to narzędzia firm trzecich dające dodatkowe info i wsparcie w walce podczas matchów.",
+				"Większość szuka naraka cheats dla ESP graczy, lootu, radaru off-screen lub płynniejszego aimu pod presją.",
 				"Naraka Cheats łączy te narzędzia w jednej licencji na Windows PC — bez osobnych pobrań wallhack, radar i aimbot."
 			],
 			"ru": [
-				"Naraka cheats — сторонние инструменты с доп. информацией и боевой помощью в рейдах. Ищут naraka cheats за ESP игроков, лут, off-screen radar или более плавный aim под давлением.",
+				"Naraka cheats — сторонние инструменты с доп.",
+				"информацией и боевой помощью в рейдах. Ищут naraka cheats за ESP игроков, лут, off-screen radar или более плавный aim под давлением.",
 				"Naraka Cheats объединяет эти инструменты в одной лицензии для Windows PC — без отдельных загрузок wallhack, radar и aimbot."
 			],
 			"tr": [
-				"Naraka hileleri match sırasında ekstra bilgi ve savaş desteği veren üçüncü taraf araçlardır. Çoğu oyuncu ESP, loot, off-screen radar veya baskı altında daha yumuşak nişan için naraka cheats arar.",
+				"Naraka hileleri match sırasında ekstra bilgi ve savaş desteği veren üçüncü taraf araçlardır.",
+				"Çoğu oyuncu ESP, loot, off-screen radar veya baskı altında daha yumuşak nişan için naraka cheats arar.",
 				"Naraka Cheats bu araçları Windows PC için tek lisans altında toplar — ayrı wallhack, radar ve aimbot indirmeleri yok."
 			],
 			"ar": [
-				"naraka cheats أدوات طرف ثالث تمنحك معلومات إضافية ومساعدة قتالية أثناء الraid. يبحث معظم اللاعبين عن naraka cheats لـ ESP اللاعبين والloot والradar خارج الشاشة أو تصويب أنعم تحت الضغط.",
+				"naraka cheats أدوات طرف ثالث تمنحك معلومات إضافية ومساعدة قتالية أثناء الraid.",
+				"يبحث معظم اللاعبين عن naraka cheats لـ ESP اللاعبين والloot والradar خارج الشاشة أو تصويب أنعم تحت الضغط.",
 				"Naraka Cheats يجمع هذه الأدوات في ترخيص واحد لـ Windows PC — دون تحميلات منفصلة للwallhack والradar والaimbot."
 			],
 			"ja": [
-				"Narakaチートはレイド中に追加情報と戦闘支援を提供するサードパーティツールです。プレイヤーESP、loot、オフスクリーンradar、プレッシャー下でのスムーズなエイム目的でnaraka cheatsを探す人が多いです。",
+				"Narakaチートはレイド中に追加情報と戦闘支援を提供するサードパーティツールです。",
+				"プレイヤーESP、loot、オフスクリーンradar、プレッシャー下でのスムーズなエイム目的でnaraka cheatsを探す人が多いです。",
 				"Naraka Cheatsはwallhack、radar、aimbotをWindows PC向け1ライセンスにまとめます — 個別ダウンロード不要。"
 			],
 			"ko": [
-				"Naraka 치트는 레이드 중 추가 정보와 전투 보조를 제공하는 서드파티 도구입니다. 플레이어 ESP, loot, off-screen radar, 압박 상황에서 부드러운 에임을 위해 naraka cheats를 찾습니다.",
+				"Naraka 치트는 레이드 중 추가 정보와 전투 보조를 제공하는 서드파티 도구입니다.",
+				"플레이어 ESP, loot, off-screen radar, 압박 상황에서 부드러운 에임을 위해 naraka cheats를 찾습니다.",
 				"Naraka Cheats는 wallhack, radar, aimbot을 Windows PC 단일 라이선스로 묶습니다 — 별도 다운로드 불필요."
 			],
 			"zh": [
-				"Naraka cheats 是第三方工具，在 match 中提供额外信息和战斗辅助。多数玩家为玩家 ESP、物资可见、屏幕外 radar 或高压下更稳的瞄准而搜索 naraka cheats。",
+				"Naraka cheats 是第三方工具，在 match 中提供额外信息和战斗辅助。",
+				"多数玩家为玩家 ESP、物资可见、屏幕外 radar 或高压下更稳的瞄准而搜索 naraka cheats。",
 				"Naraka Cheats 将这些工具整合为 Windows PC 单一许可证 — 无需分别下载 wallhack、radar 和 aimbot。"
 			],
 			"hi": [
-				"Naraka cheats तीसरे पक्ष के टूल हैं जो match में अतिरिक्त जानकारी और combat assist देते हैं। ज़्यादातर player ESP, loot visibility, off-screen radar या दबाव में smoother aim के लिए naraka cheats खोजते हैं।",
+				"Naraka cheats तीसरे पक्ष के टूल हैं जो match में अतिरिक्त जानकारी और combat assist देते हैं।",
+				"ज़्यादातर player ESP, loot visibility, off-screen radar या दबाव में smoother aim के लिए naraka cheats खोजते हैं।",
 				"Naraka Cheats इन टूल को Windows PC की एक लाइसेंस में बंडल करता है — अलग wallhack, radar, aimbot डाउनलोड नहीं।"
 			],
 			"id": [
-				"Naraka cheats adalah alat pihak ketiga yang memberi info ekstra dan bantuan tempur saat match. Kebanyakan mencari naraka cheats untuk ESP pemain, loot, radar off-screen, atau aim lebih halus under pressure.",
+				"Naraka cheats adalah alat pihak ketiga yang memberi info ekstra dan bantuan tempur saat match.",
+				"Kebanyakan mencari naraka cheats untuk ESP pemain, loot, radar off-screen, atau aim lebih halus under pressure.",
 				"Naraka Cheats menggabungkan alat tersebut dalam satu lisensi Windows PC — tanpa unduhan terpisah wallhack, radar, aimbot."
 			],
 			"th": [
-				"Naraka cheats เป็นเครื่องมือบุคคลที่สามที่ให้ข้อมูลเพิ่มและช่วยต่อสู้ระหว่าง match ผู้เล่นส่วนใหญ่ค้นหา naraka cheats เพื่อ ESP ผู้เล่น loot radar นอกจอ หรือ aim ที่นุ่มนวลภายใต้ความกดดัน",
+				"Naraka cheats เป็นเครื่องมือบุคคลที่สามที่ให้ข้อมูลเพิ่มและช่วยต่อสู้ระหว่าง match",
+				"ผู้เล่นส่วนใหญ่ค้นหา naraka cheats เพื่อ ESP ผู้เล่น loot radar นอกจอ หรือ aim ที่นุ่มนวลภายใต้ความกดดัน",
 				"Naraka Cheats รวมเครื่องมือเหล่านี้ในใบอนุญาต Windows PC เดียว — ไม่ต้องดาวน์โหลด wallhack radar aimbot แยก"
 			],
 			"vi": [
-				"Naraka cheats là công cụ bên thứ ba cung cấp thông tin thêm và hỗ trợ chiến đấu khi match. Nhiều người tìm naraka cheats cho ESP người chơi, loot, radar ngoài màn hình hoặc aim mượt hơn dưới áp lực.",
+				"Naraka cheats là công cụ bên thứ ba cung cấp thông tin thêm và hỗ trợ chiến đấu khi match.",
+				"Nhiều người tìm naraka cheats cho ESP người chơi, loot, radar ngoài màn hình hoặc aim mượt hơn dưới áp lực.",
 				"Naraka Cheats gom các công cụ trong một giấy phép Windows PC — không cần tải riêng wallhack, radar, aimbot."
 			],
 			"uk": [
-				"Naraka cheats — сторонні інструменти з додатковою інформацією та боєвою допомогою під час match. Шукають naraka cheats за ESP гравців, loot, off-screen radar або плавніший aim під тиском.",
+				"Naraka cheats — сторонні інструменти з додатковою інформацією та боєвою допомогою під час match.",
+				"Шукають naraka cheats за ESP гравців, loot, off-screen radar або плавніший aim під тиском.",
 				"Naraka Cheats об’єднує ці інструменти в одній ліцензії для Windows PC — без окремих завантажень wallhack, radar і aimbot."
 			],
 			"cs": [
-				"Naraka cheaty jsou nástroje třetích stran s extra informacemi a bojovou asistencí při matchech. Většina hledá naraka cheats pro ESP hráčů, loot, off-screen radar nebo plynulejší aim pod tlakem.",
+				"Naraka cheaty jsou nástroje třetích stran s extra informacemi a bojovou asistencí při matchech.",
+				"Většina hledá naraka cheats pro ESP hráčů, loot, off-screen radar nebo plynulejší aim pod tlakem.",
 				"Naraka Cheats spojuje tyto nástroje v jedné licenci pro Windows PC — bez samostatných downloadů wallhack, radar a aimbot."
 			],
 			"ro": [
-				"Naraka cheats sunt tool-uri terțe care oferă info extra și asistență de luptă în match-uri. Majoritatea caută naraka cheats pentru ESP jucători, loot, radar off-screen sau aim mai lin sub presiune.",
+				"Naraka cheats sunt tool-uri terțe care oferă info extra și asistență de luptă în match-uri.",
+				"Majoritatea caută naraka cheats pentru ESP jucători, loot, radar off-screen sau aim mai lin sub presiune.",
 				"Naraka Cheats grupează aceste tool-uri într-o licență Windows PC — fără descărcări separate wallhack, radar, aimbot."
 			],
 			"sv": [
-				"Naraka cheats är tredjepartsverktyg med extra info och stridsassistans under matches. De flesta söker naraka cheats för spelar-ESP, loot, off-screen radar eller mjukare sikte under press.",
+				"Naraka cheats är tredjepartsverktyg med extra info och stridsassistans under matches.",
+				"De flesta söker naraka cheats för spelar-ESP, loot, off-screen radar eller mjukare sikte under press.",
 				"Naraka Cheats buntar ihop dessa verktyg i en Windows PC-licens — inga separata nedladdningar för wallhack, radar och aimbot."
 			]
 		},
 		"1": {
 			"en": [
-				"One license covers the full match stack: player ESP with distance, hero markers, 2D radar for flanks, and configurable soft aim profiles per weapon."
+				"One license covers the full match stack on Windows PC.",
+				"Monthly and lifetime plans include the same feature stack with NEAC rebuilds after patches."
 			],
 			"es": [
-				"Una licencia cubre el stack completo de match: ESP de jugadores con distancia, marcadores de loot, radar 2D para flancos y perfiles soft aim configurables por arma."
+				"Una licencia cubre el stack completo de match en Windows PC.",
+				"Los planes mensual y de por vida incluyen el mismo stack con rebuilds NEAC tras parches."
 			],
 			"fr": [
-				"Une licence couvre la stack match complète : ESP joueurs avec distance, marqueurs de loot, radar 2D pour les flancs et profils soft aim configurables par arme."
+				"Une licence couvre la stack match complète sur Windows PC.",
+				"Les formules mensuelle et à vie incluent la même stack avec rebuilds NEAC après les patches."
 			],
 			"de": [
-				"Eine Lizenz deckt den kompletten match stack ab: Spieler-ESP mit Distanz, Loot-Marker, 2D-Radar für Flanken und konfigurierbare Soft-Aim-Profile pro Waffe."
+				"Eine Lizenz deckt den kompletten Match-Stack auf Windows PC ab.",
+				"Monats- und Lifetime-Pläne enthalten denselben Stack mit NEAC-Rebuilds nach Patches."
 			],
 			"pt": [
-				"Uma licença cobre a stack completa de match: ESP de jogadores com distância, marcadores de loot, radar 2D para flancos e perfis soft aim configuráveis por arma."
+				"Uma licença cobre a stack completa de match no Windows PC.",
+				"Planos mensais e vitalícios incluem o mesmo stack com rebuilds NEAC após patches."
 			],
 			"it": [
-				"Una licenza copre lo stack match completo: ESP giocatori con distanza, marker loot, radar 2D per i fianchi e profili soft aim configurabili per arma."
+				"Una licenza copre lo stack match completo su Windows PC.",
+				"I piani mensili e lifetime includono lo stesso stack con rebuild NEAC dopo le patch."
 			],
 			"nl": [
-				"Eén licentie dekt de volledige match-stack: speler-ESP met afstand, loot-markers, 2D-radar voor flanks en configureerbare soft aim-profielen per wapen."
+				"Eén licentie dekt de volledige match-stack op Windows PC.",
+				"Maand- en lifetime-plannen bevatten dezelfde stack met NEAC-rebuilds na patches."
 			],
 			"pl": [
-				"Jedna licencja obejmuje pełny stack match: ESP graczy z dystansem, markery lootu, radar 2D na flanki i konfigurowalne profile soft aim na broń."
+				"Jedna licencja obejmuje pełny stack match na Windows PC.",
+				"Plany miesięczne i lifetime obejmują ten sam stack z rebuildami NEAC po patchach."
 			],
 			"ru": [
-				"Одна лицензия покрывает полный match-стек: ESP игроков с дистанцией, маркеры лута, 2D radar для флангов и настраиваемые soft aim профили по оружию."
+				"Одна лицензия покрывает полный match stack на Windows PC.",
+				"Месячные и lifetime-планы включают тот же стек с NEAC rebuilds после патчей."
 			],
 			"tr": [
-				"Tek lisans tam match yığınını kapsar: mesafeli oyuncu ESP, loot işaretleri, kanat için 2D radar ve silah başına yapılandırılabilir soft aim profilleri."
+				"Tek lisans Windows PC'de tam match stack'ini kapsar.",
+				"Aylık ve lifetime planlar patch sonrası NEAC rebuilds ile aynı stack'i içerir."
 			],
 			"ar": [
-				"ترخيص واحد يغطي stack الraid الكامل: ESP للاعبين مع المسافة وعلامات loot وradar 2D للمناورات وملفات soft aim قابلة للضبط لكل سلاح."
+				"ترخيص واحد يغطي stack المباراة الكامل على Windows PC.",
+				"تتضمن خطط الشهرية ومدى الحياة نفس الميزات مع NEAC rebuilds بعد التحديثات."
 			],
 			"ja": [
-				"1ライセンスでレイド全機能: 距離付きプレイヤーESP、lootマーカー、側面用2D radar、武器別soft aimプロファイル。"
+				"1ライセンスで Windows PC 向けのフル match stack をカバーします。",
+				"月額とライフタイムプランは同じ機能 stack を NEAC rebuilds 付きで含みます。"
 			],
 			"ko": [
-				"하나의 라이선스로 전체 레이드 스택: 거리 표시 플레이어 ESP, loot 마커, 측면 2D radar, 무기별 soft aim 프로필."
+				"하나의 라이선스로 Windows PC에서 전체 match stack을 제공합니다.",
+				"월간 및 lifetime 플랜은 패치 후 NEAC rebuilds가 포함된 동일 stack을 제공합니다."
 			],
 			"zh": [
-				"一个许可证覆盖完整 match 套件：带距离的玩家 ESP、物资标记、侧翼 2D radar 和按武器可调的 soft aim 配置。"
+				"一份许可证覆盖 Windows PC 上的完整 match stack。",
+				"月付和终身计划包含相同功能 stack，并在补丁后提供 NEAC rebuilds。"
 			],
 			"hi": [
-				"एक लाइसेंस पूरा match stack कवर करता है: दूरी के साथ player ESP, hero markers, flanks के लिए 2D radar, और प्रति हथियार soft aim profiles।"
+				"एक लाइसेंस Windows PC पर पूरा match stack कवर करता है।",
+				"Monthly और lifetime plans में patches के बाद NEAC rebuilds के साथ same stack शामिल है।"
 			],
 			"id": [
-				"Satu lisensi mencakup stack match lengkap: ESP pemain dengan jarak, marker loot, radar 2D untuk flank, dan profil soft aim per senjata."
+				"Satu lisensi mencakup stack match lengkap di Windows PC.",
+				"Paket bulanan dan lifetime mencakup stack yang sama dengan NEAC rebuilds setelah patch."
 			],
 			"th": [
-				"ใบอนุญาตเดียวครอบคลุม match stack เต็ม: ESP ผู้เล่นพร้อมระยะ มาร์กเกอร์ loot radar 2D สำหรับ flank และโปรไฟล์ soft aim ต่ออาวุธ"
+				"ใบอนุญาตเดียวครอบคลุม match stack เต็มรูปแบบบน Windows PC",
+				"แผนรายเดือนและตลอดชีพรวม stack เดียวกันพร้อม NEAC rebuilds หลังแพตช์"
 			],
 			"vi": [
-				"Một giấy phép bao trùm stack match đầy đủ: ESP người chơi kèm khoảng cách, marker loot, radar 2D cho flank, profile soft aim theo vũ khí."
+				"Một giấy phép bao phủ toàn bộ match stack trên Windows PC.",
+				"Gói tháng và lifetime gồm cùng stack với NEAC rebuilds sau bản vá."
 			],
 			"uk": [
-				"Одна ліцензія покриває повний match stack: ESP гравців з дистанцією, маркери loot, 2D radar для флангів і профілі soft aim на зброю."
+				"Одна ліцензія покриває повний match stack на Windows PC.",
+				"Місячні та lifetime плани включають той самий stack з NEAC rebuilds після патчів."
 			],
 			"cs": [
-				"Jedna licence pokrývá celý match stack: ESP hráčů s distancí, loot markery, 2D radar pro flanky a konfigurovatelné soft aim profily na zbraň."
+				"Jedna licence pokrývá celý match stack na Windows PC.",
+				"Měsíční a lifetime plány zahrnují stejný stack s NEAC rebuilds po patchech."
 			],
 			"ro": [
-				"O licență acoperă stack-ul complet de match: ESP jucători cu distanță, markeri loot, radar 2D pentru flancuri și profile soft aim per armă."
+				"O licență acoperă stack-ul complet de match pe Windows PC.",
+				"Planurile lunar și lifetime includ același stack cu NEAC rebuilds după patch-uri."
 			],
 			"sv": [
-				"En licens täcker hela match-stacken: spelar-ESP med avstånd, loot-markörer, 2D-radar för flanker och konfigurerbara soft aim-profiler per vapen."
+				"En licens täcker hela match-stacken på Windows PC.",
+				"Månads- och lifetime-planer inkluderar samma stack med NEAC rebuilds efter patchar."
 			]
 		},
 		"2": {

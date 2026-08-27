@@ -794,15 +794,16 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "What are naraka cheats?",
 							paragraphs: [
-								"Naraka cheats are third-party tools that give you extra information and combat assist during matches. Most players search for naraka cheats when they want player ESP, loot visibility, off-screen radar, or smoother aim under pressure.",
+								"Naraka cheats are third-party tools that give you extra information and combat assist during matches.",
+								"Most players search for naraka cheats when they want player ESP, loot visibility, off-screen radar, or smoother aim under pressure.",
 								"Naraka Cheats bundles those tools in one license for Windows PC — no stacking separate downloads for wallhack, radar, and aimbot.",
 							],
 						},
 						{
 							h2: "What Naraka Cheats includes",
 							paragraphs: [
-								"One license covers the full match stack: player ESP with distance, hero markers, 2D radar for flanks, and configurable soft aim profiles per weapon.",
-								"Monthly and lifetime plans include the same feature stack with NEAC rebuilds.",
+								"One license covers the full match stack on Windows PC.",
+								"Monthly and lifetime plans include the same feature stack with NEAC rebuilds after patches.",
 							],
 							list: [
 								"ESP / wallhack with distance readouts",
@@ -2040,15 +2041,16 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "¿Qué son los trucos de Naraka?",
 							paragraphs: [
-								"Los trucos de Naraka son herramientas de terceros que te dan información extra y asistencia en combate durante matches. La mayoría busca naraka cheats cuando quieren ESP de jugadores, visibilidad de loot, radar fuera de pantalla o puntería más suave bajo presión.",
+								"Los trucos de Naraka son herramientas de terceros que te dan información extra y asistencia en combate durante matches.",
+								"La mayoría busca naraka cheats cuando quieren ESP de jugadores, visibilidad de loot, radar fuera de pantalla o puntería más suave bajo presión.",
 								"Naraka Cheats agrupa esas herramientas en una licencia para Windows PC — sin descargas separadas para wallhack, radar y aimbot.",
 							],
 						},
 						{
 							h2: "Qué incluye Naraka Cheats",
 							paragraphs: [
-								"Una licencia cubre el stack completo de match: ESP de jugadores con distancia, marcadores de loot, radar 2D para flancos y perfiles soft aim configurables por arma.",
-								"Licencias con entrega digital instantánea vía checkout Zadeyo. Planes $35/mes y $150 de por vida incluyen mantenimiento NEAC.",
+								"Una licencia cubre el stack completo de match en Windows PC.",
+								"Los planes mensual y de por vida incluyen el mismo stack con rebuilds NEAC tras parches.",
 							],
 							list: [
 								"ESP / wallhack con distancias",
@@ -3232,15 +3234,16 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Que sont les triches Naraka ?",
 							paragraphs: [
-								"Les triches Naraka sont des outils tiers qui donnent des infos supplémentaires et une aide au combat pendant les matches. La plupart cherchent naraka cheats pour l'ESP joueurs, le loot, le radar hors écran ou une visée plus fluide sous pression.",
+								"Les triches Naraka sont des outils tiers qui donnent des infos supplémentaires et une aide au combat pendant les matches.",
+								"La plupart cherchent naraka cheats pour l'ESP joueurs, le loot, le radar hors écran ou une visée plus fluide sous pression.",
 								"Naraka Cheats regroupe ces outils dans une licence PC Windows — sans empiler wallhack, radar et aimbot séparément.",
 							],
 						},
 						{
 							h2: "Ce que Naraka Cheats inclut",
 							paragraphs: [
-								"Une licence couvre la stack match complète : ESP joueurs avec distance, marqueurs de loot, radar 2D pour les flancs et profils soft aim configurables par arme.",
-								"Licences avec livraison numérique instantanée via checkout Zadeyo. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance NEAC.",
+								"Une licence couvre la stack match complète sur Windows PC.",
+								"Les formules mensuelle et à vie incluent la même stack avec rebuilds NEAC après les patches.",
 							],
 							list: [
 								"ESP / wallhack avec distances",
@@ -4424,15 +4427,16 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Was sind Naraka Cheats?",
 							paragraphs: [
-								"Naraka Cheats sind Drittanbieter-Tools mit Extra-Infos und Kampfhilfe in matches. Die meisten suchen naraka cheats für Spieler-ESP, Loot-Sicht, Off-Screen-Radar oder sanfteres Zielen unter Druck.",
+								"Naraka Cheats sind Drittanbieter-Tools mit Extra-Infos und Kampfhilfe in matches.",
+								"Die meisten suchen naraka cheats für Spieler-ESP, Loot-Sicht, Off-Screen-Radar oder sanfteres Zielen unter Druck.",
 								"Naraka Cheats bündelt diese Tools in einer Windows-PC-Lizenz — ohne separate Downloads für Wallhack, Radar und Aimbot.",
 							],
 						},
 						{
 							h2: "Was Naraka Cheats enthält",
 							paragraphs: [
-								"Eine Lizenz deckt den kompletten match stack ab: Spieler-ESP mit Distanz, Loot-Marker, 2D-Radar für Flanken und konfigurierbare Soft-Aim-Profile pro Waffe.",
-								"Lizenzen mit sofortige digitale Lieferung über Zadeyo Checkout. $35/Monat und $150 Lifetime inkl. NEAC-Wartung.",
+								"Eine Lizenz deckt den kompletten Match-Stack auf Windows PC ab.",
+								"Monats- und Lifetime-Pläne enthalten denselben Stack mit NEAC-Rebuilds nach Patches.",
 							],
 							list: [
 								"ESP / Wallhack mit Distanzanzeige",
@@ -5615,15 +5619,16 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "O que são cheats de Naraka?",
 							paragraphs: [
-								"Naraka cheats são ferramentas de terceiros que dão informação extra e assistência de combate em matches. A maioria procura naraka cheats por ESP de jogadores, loot, radar off-screen ou mira mais suave sob pressão.",
+								"Naraka cheats são ferramentas de terceiros que dão informação extra e assistência de combate em matches.",
+								"A maioria procura naraka cheats por ESP de jogadores, loot, radar off-screen ou mira mais suave sob pressão.",
 								"Naraka Cheats reúne essas ferramentas numa licença Windows PC — sem empilhar wallhack, radar e aimbot separados.",
 							],
 						},
 						{
 							h2: "O que o Naraka Cheats inclui",
 							paragraphs: [
-								"Uma licença cobre a stack completa de match: ESP de jogadores com distância, marcadores de loot, radar 2D para flancos e perfis soft aim configuráveis por arma.",
-								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção NEAC.",
+								"Uma licença cobre a stack completa de match no Windows PC.",
+								"Planos mensais e vitalícios incluem o mesmo stack com rebuilds NEAC após patches.",
 							],
 							list: [
 								"ESP / wallhack com distâncias",
@@ -6806,15 +6811,16 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Cosa sono i cheat Naraka?",
 							paragraphs: [
-								"I cheat Naraka sono tool di terze parti che danno info extra e assistenza in combattimento durante i match. Molti cercano naraka cheats per ESP giocatori, loot, radar off-screen o mira più fluida sotto pressione.",
+								"I cheat Naraka sono tool di terze parti che danno info extra e assistenza in combattimento durante i match.",
+								"Molti cercano naraka cheats per ESP giocatori, loot, radar off-screen o mira più fluida sotto pressione.",
 								"Naraka Cheats raggruppa questi tool in una licenza Windows PC — senza download separati per wallhack, radar e aimbot.",
 							],
 						},
 						{
 							h2: "Cosa include Naraka Cheats",
 							paragraphs: [
-								"Una licenza copre lo stack match completo: ESP giocatori con distanza, marker loot, radar 2D per i fianchi e profili soft aim configurabili per arma.",
-								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione NEAC.",
+								"Una licenza copre lo stack match completo su Windows PC.",
+								"I piani mensili e lifetime includono lo stesso stack con rebuild NEAC dopo le patch.",
 							],
 							list: [
 								"ESP / wallhack con distanze",
@@ -7997,15 +8003,16 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Wat zijn Naraka cheats?",
 							paragraphs: [
-								"Naraka cheats zijn tools van derden met extra info en gevechtshulp tijdens matches. De meeste zoeken naraka cheats voor speler-ESP, loot, off-screen radar of soepeler richten onder druk.",
+								"Naraka cheats zijn tools van derden met extra info en gevechtshulp tijdens matches.",
+								"De meeste zoeken naraka cheats voor speler-ESP, loot, off-screen radar of soepeler richten onder druk.",
 								"Naraka Cheats bundelt die tools in één Windows PC-licentie — geen aparte wallhack-, radar- en aimbot-downloads.",
 							],
 						},
 						{
 							h2: "Wat Naraka Cheats bevat",
 							paragraphs: [
-								"Eén licentie dekt de volledige match-stack: speler-ESP met afstand, loot-markers, 2D-radar voor flanks en configureerbare soft aim-profielen per wapen.",
-								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. NEAC-onderhoud.",
+								"Eén licentie dekt de volledige match-stack op Windows PC.",
+								"Maand- en lifetime-plannen bevatten dezelfde stack met NEAC-rebuilds na patches.",
 							],
 							list: [
 								"ESP / wallhack met afstand",
@@ -9188,15 +9195,16 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Czym są cheaty Naraka?",
 							paragraphs: [
-								"Naraka cheats to narzędzia firm trzecich dające dodatkowe info i wsparcie w walce podczas matchów. Większość szuka naraka cheats dla ESP graczy, lootu, radaru off-screen lub płynniejszego aimu pod presją.",
+								"Naraka cheats to narzędzia firm trzecich dające dodatkowe info i wsparcie w walce podczas matchów.",
+								"Większość szuka naraka cheats dla ESP graczy, lootu, radaru off-screen lub płynniejszego aimu pod presją.",
 								"Naraka Cheats łączy te narzędzia w jednej licencji na Windows PC — bez osobnych pobrań wallhack, radar i aimbot.",
 							],
 						},
 						{
 							h2: "Co zawiera Naraka Cheats",
 							paragraphs: [
-								"Jedna licencja obejmuje pełny stack match: ESP graczy z dystansem, markery lootu, radar 2D na flanki i konfigurowalne profile soft aim na broń.",
-								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją NEAC.",
+								"Jedna licencja obejmuje pełny stack match na Windows PC.",
+								"Plany miesięczne i lifetime obejmują ten sam stack z rebuildami NEAC po patchach.",
 							],
 							list: [
 								"ESP / wallhack z dystansem",
@@ -10379,15 +10387,16 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Что такое читы Naraka?",
 							paragraphs: [
-								"Naraka cheats — сторонние инструменты с доп. информацией и боевой помощью в рейдах. Ищут naraka cheats за ESP игроков, лут, off-screen radar или более плавный aim под давлением.",
+								"Naraka cheats — сторонние инструменты с доп.",
+								"информацией и боевой помощью в рейдах. Ищут naraka cheats за ESP игроков, лут, off-screen radar или более плавный aim под давлением.",
 								"Naraka Cheats объединяет эти инструменты в одной лицензии для Windows PC — без отдельных загрузок wallhack, radar и aimbot.",
 							],
 						},
 						{
 							h2: "Что входит в Naraka Cheats",
 							paragraphs: [
-								"Одна лицензия покрывает полный match-стек: ESP игроков с дистанцией, маркеры лута, 2D radar для флангов и настраиваемые soft aim профили по оружию.",
-								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание NEAC.",
+								"Одна лицензия покрывает полный match stack на Windows PC.",
+								"Месячные и lifetime-планы включают тот же стек с NEAC rebuilds после патчей.",
 							],
 							list: [
 								"ESP / wallhack с дистанцией",
@@ -11570,15 +11579,16 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Naraka hileleri nedir?",
 							paragraphs: [
-								"Naraka hileleri match sırasında ekstra bilgi ve savaş desteği veren üçüncü taraf araçlardır. Çoğu oyuncu ESP, loot, off-screen radar veya baskı altında daha yumuşak nişan için naraka cheats arar.",
+								"Naraka hileleri match sırasında ekstra bilgi ve savaş desteği veren üçüncü taraf araçlardır.",
+								"Çoğu oyuncu ESP, loot, off-screen radar veya baskı altında daha yumuşak nişan için naraka cheats arar.",
 								"Naraka Cheats bu araçları Windows PC için tek lisans altında toplar — ayrı wallhack, radar ve aimbot indirmeleri yok.",
 							],
 						},
 						{
 							h2: "Naraka Cheats neleri içerir",
 							paragraphs: [
-								"Tek lisans tam match yığınını kapsar: mesafeli oyuncu ESP, loot işaretleri, kanat için 2D radar ve silah başına yapılandırılabilir soft aim profilleri.",
-								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları NEAC bakımı içerir.",
+								"Tek lisans Windows PC'de tam match stack'ini kapsar.",
+								"Aylık ve lifetime planlar patch sonrası NEAC rebuilds ile aynı stack'i içerir.",
 							],
 							list: [
 								"Mesafeli ESP / wallhack",
@@ -12761,15 +12771,16 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "ما هي غش Naraka؟",
 							paragraphs: [
-								"naraka cheats أدوات طرف ثالث تمنحك معلومات إضافية ومساعدة قتالية أثناء الraid. يبحث معظم اللاعبين عن naraka cheats لـ ESP اللاعبين والloot والradar خارج الشاشة أو تصويب أنعم تحت الضغط.",
+								"naraka cheats أدوات طرف ثالث تمنحك معلومات إضافية ومساعدة قتالية أثناء الraid.",
+								"يبحث معظم اللاعبين عن naraka cheats لـ ESP اللاعبين والloot والradar خارج الشاشة أو تصويب أنعم تحت الضغط.",
 								"Naraka Cheats يجمع هذه الأدوات في ترخيص واحد لـ Windows PC — دون تحميلات منفصلة للwallhack والradar والaimbot.",
 							],
 						},
 						{
 							h2: "ماذا يتضمن Naraka Cheats",
 							paragraphs: [
-								"ترخيص واحد يغطي stack الraid الكامل: ESP للاعبين مع المسافة وعلامات loot وradar 2D للمناورات وملفات soft aim قابلة للضبط لكل سلاح.",
-								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة NEAC.",
+								"ترخيص واحد يغطي stack المباراة الكامل على Windows PC.",
+								"تتضمن خطط الشهرية ومدى الحياة نفس الميزات مع NEAC rebuilds بعد التحديثات.",
 							],
 							list: [
 								"ESP / wallhack مع المسافات",
@@ -13952,15 +13963,16 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Narakaチートとは？",
 							paragraphs: [
-								"Narakaチートはレイド中に追加情報と戦闘支援を提供するサードパーティツールです。プレイヤーESP、loot、オフスクリーンradar、プレッシャー下でのスムーズなエイム目的でnaraka cheatsを探す人が多いです。",
+								"Narakaチートはレイド中に追加情報と戦闘支援を提供するサードパーティツールです。",
+								"プレイヤーESP、loot、オフスクリーンradar、プレッシャー下でのスムーズなエイム目的でnaraka cheatsを探す人が多いです。",
 								"Naraka Cheatsはwallhack、radar、aimbotをWindows PC向け1ライセンスにまとめます — 個別ダウンロード不要。",
 							],
 						},
 						{
 							h2: "Naraka Cheatsの内容",
 							paragraphs: [
-								"1ライセンスでレイド全機能: 距離付きプレイヤーESP、lootマーカー、側面用2D radar、武器別soft aimプロファイル。",
-								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにNEACメンテナンス含む。",
+								"1ライセンスで Windows PC 向けのフル match stack をカバーします。",
+								"月額とライフタイムプランは同じ機能 stack を NEAC rebuilds 付きで含みます。",
 							],
 							list: [
 								"距離表示ESP / wallhack",
@@ -15143,15 +15155,16 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Naraka 치트란?",
 							paragraphs: [
-								"Naraka 치트는 레이드 중 추가 정보와 전투 보조를 제공하는 서드파티 도구입니다. 플레이어 ESP, loot, off-screen radar, 압박 상황에서 부드러운 에임을 위해 naraka cheats를 찾습니다.",
+								"Naraka 치트는 레이드 중 추가 정보와 전투 보조를 제공하는 서드파티 도구입니다.",
+								"플레이어 ESP, loot, off-screen radar, 압박 상황에서 부드러운 에임을 위해 naraka cheats를 찾습니다.",
 								"Naraka Cheats는 wallhack, radar, aimbot을 Windows PC 단일 라이선스로 묶습니다 — 별도 다운로드 불필요.",
 							],
 						},
 						{
 							h2: "Naraka Cheats 포함 사항",
 							paragraphs: [
-								"하나의 라이선스로 전체 레이드 스택: 거리 표시 플레이어 ESP, loot 마커, 측면 2D radar, 무기별 soft aim 프로필.",
-								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 NEAC 유지보수 포함.",
+								"하나의 라이선스로 Windows PC에서 전체 match stack을 제공합니다.",
+								"월간 및 lifetime 플랜은 패치 후 NEAC rebuilds가 포함된 동일 stack을 제공합니다.",
 							],
 							list: [
 								"거리 표시 ESP / wallhack",
@@ -16334,15 +16347,16 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "什么是Naraka作弊？",
 							paragraphs: [
-								"Naraka cheats 是第三方工具，在 match 中提供额外信息和战斗辅助。多数玩家为玩家 ESP、物资可见、屏幕外 radar 或高压下更稳的瞄准而搜索 naraka cheats。",
+								"Naraka cheats 是第三方工具，在 match 中提供额外信息和战斗辅助。",
+								"多数玩家为玩家 ESP、物资可见、屏幕外 radar 或高压下更稳的瞄准而搜索 naraka cheats。",
 								"Naraka Cheats 将这些工具整合为 Windows PC 单一许可证 — 无需分别下载 wallhack、radar 和 aimbot。",
 							],
 						},
 						{
 							h2: "Naraka Cheats包含什么",
 							paragraphs: [
-								"一个许可证覆盖完整 match 套件：带距离的玩家 ESP、物资标记、侧翼 2D radar 和按武器可调的 soft aim 配置。",
-								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含NEAC维护。",
+								"一份许可证覆盖 Windows PC 上的完整 match stack。",
+								"月付和终身计划包含相同功能 stack，并在补丁后提供 NEAC rebuilds。",
 							],
 							list: [
 								"带距离 ESP / wallhack",
@@ -17532,8 +17546,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Naraka Cheats में क्या शामिल है",
 							paragraphs: [
-								"एक लाइसेंस पूरा match stack कवर करता है: दूरी के साथ player ESP, hero markers, flanks के लिए 2D radar, और प्रति हथियार soft aim profiles।",
-								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में NEAC maintenance शामिल।",
+								"एक लाइसेंस Windows PC पर पूरा match stack कवर करता है।",
+								"Monthly और lifetime plans में patches के बाद NEAC rebuilds के साथ same stack शामिल है।",
 							],
 							list: [
 								"दूरी के साथ ESP / wallhack",
@@ -18716,15 +18730,16 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Apa itu cheat Naraka?",
 							paragraphs: [
-								"Naraka cheats adalah alat pihak ketiga yang memberi info ekstra dan bantuan tempur saat match. Kebanyakan mencari naraka cheats untuk ESP pemain, loot, radar off-screen, atau aim lebih halus under pressure.",
+								"Naraka cheats adalah alat pihak ketiga yang memberi info ekstra dan bantuan tempur saat match.",
+								"Kebanyakan mencari naraka cheats untuk ESP pemain, loot, radar off-screen, atau aim lebih halus under pressure.",
 								"Naraka Cheats menggabungkan alat tersebut dalam satu lisensi Windows PC — tanpa unduhan terpisah wallhack, radar, aimbot.",
 							],
 						},
 						{
 							h2: "Apa yang termasuk Naraka Cheats",
 							paragraphs: [
-								"Satu lisensi mencakup stack match lengkap: ESP pemain dengan jarak, marker loot, radar 2D untuk flank, dan profil soft aim per senjata.",
-								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan NEAC.",
+								"Satu lisensi mencakup stack match lengkap di Windows PC.",
+								"Paket bulanan dan lifetime mencakup stack yang sama dengan NEAC rebuilds setelah patch.",
 							],
 							list: [
 								"ESP / wallhack dengan jarak",
@@ -19907,15 +19922,16 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Naraka cheats คืออะไร?",
 							paragraphs: [
-								"Naraka cheats เป็นเครื่องมือบุคคลที่สามที่ให้ข้อมูลเพิ่มและช่วยต่อสู้ระหว่าง match ผู้เล่นส่วนใหญ่ค้นหา naraka cheats เพื่อ ESP ผู้เล่น loot radar นอกจอ หรือ aim ที่นุ่มนวลภายใต้ความกดดัน",
+								"Naraka cheats เป็นเครื่องมือบุคคลที่สามที่ให้ข้อมูลเพิ่มและช่วยต่อสู้ระหว่าง match",
+								"ผู้เล่นส่วนใหญ่ค้นหา naraka cheats เพื่อ ESP ผู้เล่น loot radar นอกจอ หรือ aim ที่นุ่มนวลภายใต้ความกดดัน",
 								"Naraka Cheats รวมเครื่องมือเหล่านี้ในใบอนุญาต Windows PC เดียว — ไม่ต้องดาวน์โหลด wallhack radar aimbot แยก",
 							],
 						},
 						{
 							h2: "Naraka Cheats รวมอะไรบ้าง",
 							paragraphs: [
-								"ใบอนุญาตเดียวครอบคลุม match stack เต็ม: ESP ผู้เล่นพร้อมระยะ มาร์กเกอร์ loot radar 2D สำหรับ flank และโปรไฟล์ soft aim ต่ออาวุธ",
-								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล NEAC",
+								"ใบอนุญาตเดียวครอบคลุม match stack เต็มรูปแบบบน Windows PC",
+								"แผนรายเดือนและตลอดชีพรวม stack เดียวกันพร้อม NEAC rebuilds หลังแพตช์",
 							],
 							list: [
 								"ESP / wallhack พร้อมระยะ",
@@ -21098,15 +21114,16 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Cheat Naraka là gì?",
 							paragraphs: [
-								"Naraka cheats là công cụ bên thứ ba cung cấp thông tin thêm và hỗ trợ chiến đấu khi match. Nhiều người tìm naraka cheats cho ESP người chơi, loot, radar ngoài màn hình hoặc aim mượt hơn dưới áp lực.",
+								"Naraka cheats là công cụ bên thứ ba cung cấp thông tin thêm và hỗ trợ chiến đấu khi match.",
+								"Nhiều người tìm naraka cheats cho ESP người chơi, loot, radar ngoài màn hình hoặc aim mượt hơn dưới áp lực.",
 								"Naraka Cheats gom các công cụ trong một giấy phép Windows PC — không cần tải riêng wallhack, radar, aimbot.",
 							],
 						},
 						{
 							h2: "Naraka Cheats bao gồm gì",
 							paragraphs: [
-								"Một giấy phép bao trùm stack match đầy đủ: ESP người chơi kèm khoảng cách, marker loot, radar 2D cho flank, profile soft aim theo vũ khí.",
-								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì NEAC.",
+								"Một giấy phép bao phủ toàn bộ match stack trên Windows PC.",
+								"Gói tháng và lifetime gồm cùng stack với NEAC rebuilds sau bản vá.",
 							],
 							list: [
 								"ESP / wallhack kèm khoảng cách",
@@ -22289,15 +22306,16 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Що таке чіти Naraka?",
 							paragraphs: [
-								"Naraka cheats — сторонні інструменти з додатковою інформацією та боєвою допомогою під час match. Шукають naraka cheats за ESP гравців, loot, off-screen radar або плавніший aim під тиском.",
+								"Naraka cheats — сторонні інструменти з додатковою інформацією та боєвою допомогою під час match.",
+								"Шукають naraka cheats за ESP гравців, loot, off-screen radar або плавніший aim під тиском.",
 								"Naraka Cheats об’єднує ці інструменти в одній ліцензії для Windows PC — без окремих завантажень wallhack, radar і aimbot.",
 							],
 						},
 						{
 							h2: "Що входить до Naraka Cheats",
 							paragraphs: [
-								"Одна ліцензія покриває повний match stack: ESP гравців з дистанцією, маркери loot, 2D radar для флангів і профілі soft aim на зброю.",
-								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування NEAC.",
+								"Одна ліцензія покриває повний match stack на Windows PC.",
+								"Місячні та lifetime плани включають той самий stack з NEAC rebuilds після патчів.",
 							],
 							list: [
 								"ESP / wallhack з дистанцією",
@@ -23480,15 +23498,16 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Co jsou naraka cheaty?",
 							paragraphs: [
-								"Naraka cheaty jsou nástroje třetích stran s extra informacemi a bojovou asistencí při matchech. Většina hledá naraka cheats pro ESP hráčů, loot, off-screen radar nebo plynulejší aim pod tlakem.",
+								"Naraka cheaty jsou nástroje třetích stran s extra informacemi a bojovou asistencí při matchech.",
+								"Většina hledá naraka cheats pro ESP hráčů, loot, off-screen radar nebo plynulejší aim pod tlakem.",
 								"Naraka Cheats spojuje tyto nástroje v jedné licenci pro Windows PC — bez samostatných downloadů wallhack, radar a aimbot.",
 							],
 						},
 						{
 							h2: "Co obsahuje Naraka Cheats",
 							paragraphs: [
-								"Jedna licence pokrývá celý match stack: ESP hráčů s distancí, loot markery, 2D radar pro flanky a konfigurovatelné soft aim profily na zbraň.",
-								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby NEAC.",
+								"Jedna licence pokrývá celý match stack na Windows PC.",
+								"Měsíční a lifetime plány zahrnují stejný stack s NEAC rebuilds po patchech.",
 							],
 							list: [
 								"ESP / wallhack s distancí",
@@ -24671,15 +24690,16 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Ce sunt cheats Naraka?",
 							paragraphs: [
-								"Naraka cheats sunt tool-uri terțe care oferă info extra și asistență de luptă în match-uri. Majoritatea caută naraka cheats pentru ESP jucători, loot, radar off-screen sau aim mai lin sub presiune.",
+								"Naraka cheats sunt tool-uri terțe care oferă info extra și asistență de luptă în match-uri.",
+								"Majoritatea caută naraka cheats pentru ESP jucători, loot, radar off-screen sau aim mai lin sub presiune.",
 								"Naraka Cheats grupează aceste tool-uri într-o licență Windows PC — fără descărcări separate wallhack, radar, aimbot.",
 							],
 						},
 						{
 							h2: "Ce include Naraka Cheats",
 							paragraphs: [
-								"O licență acoperă stack-ul complet de match: ESP jucători cu distanță, markeri loot, radar 2D pentru flancuri și profile soft aim per armă.",
-								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță NEAC.",
+								"O licență acoperă stack-ul complet de match pe Windows PC.",
+								"Planurile lunar și lifetime includ același stack cu NEAC rebuilds după patch-uri.",
 							],
 							list: [
 								"ESP / wallhack cu distanță",
@@ -25862,15 +25882,16 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Vad är Naraka cheats?",
 							paragraphs: [
-								"Naraka cheats är tredjepartsverktyg med extra info och stridsassistans under matches. De flesta söker naraka cheats för spelar-ESP, loot, off-screen radar eller mjukare sikte under press.",
+								"Naraka cheats är tredjepartsverktyg med extra info och stridsassistans under matches.",
+								"De flesta söker naraka cheats för spelar-ESP, loot, off-screen radar eller mjukare sikte under press.",
 								"Naraka Cheats buntar ihop dessa verktyg i en Windows PC-licens — inga separata nedladdningar för wallhack, radar och aimbot.",
 							],
 						},
 						{
 							h2: "Vad Naraka Cheats innehåller",
 							paragraphs: [
-								"En licens täcker hela match-stacken: spelar-ESP med avstånd, loot-markörer, 2D-radar för flanker och konfigurerbara soft aim-profiler per vapen.",
-								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. NEAC-underhåll.",
+								"En licens täcker hela match-stacken på Windows PC.",
+								"Månads- och lifetime-planer inkluderar samma stack med NEAC rebuilds efter patchar.",
 							],
 							list: [
 								"ESP / wallhack med avstånd",

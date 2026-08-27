@@ -185,14 +185,16 @@ export const simplePageCopy: Partial<Record<PageId, SimplePageCopy>> = {
 			{
 				h2: 'What are naraka cheats?',
 				paragraphs: [
-					'Naraka cheats are third-party tools that give you extra information and combat assist during matches. Most players search for naraka cheats when they want player ESP, loot visibility, off-screen radar, or smoother aim under pressure.',
+					'Naraka cheats are third-party tools that give you extra information and combat assist during matches.',
+					'Most players search for naraka cheats when they want player ESP, loot visibility, off-screen radar, or smoother aim under pressure.',
 					'Naraka Cheats bundles those tools in one license for Windows PC — no stacking separate downloads for wallhack, radar, and aimbot.',
 				],
 			},
 			{
 				h2: 'What Naraka Cheats includes',
 				paragraphs: [
-					'One license covers the full match stack: player ESP with distance, hero markers, 2D radar for flanks, and configurable soft aim profiles per weapon.',
+					'One license covers the full match stack on Windows PC.',
+					'Monthly and lifetime plans include the same feature stack with NEAC rebuilds after patches.',
 				],
 				list: [
 					'ESP / wallhack with distance readouts',
