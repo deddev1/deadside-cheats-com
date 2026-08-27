@@ -307,8 +307,8 @@
         "a": "Naraka Cheats se mantiene para Naraka con reconstrucciones tras parches de NEAC y del juego. Revisa la Estado antes de entrar en match. Ningún cheat puede garantizar indetectabilidad permanente."
       },
       "solo-farmer-and-raider-sessions": {
-        "q": "¿Funciona en matches de base y PvP?",
-        "a": "Sí. ESP, radar y aimbot están pensados para el flujo de match de Naraka: leer jugadores y agents, detectar loot y mantener conciencia cerca de sitios de bomba y vault sectors."
+        "q": "Funciona em rodadas battle royale e partidas ranqueadas?",
+        "a": "Sim. ESP, radar e aimbot são feitos para o fluxo de partida do Naraka — ler heróis inimigos, rastrear loot e soul jades, e manter consciência perto de POIs e zonas de combate em Quick Match e Ranked."
       },
       "esp-wallhack-radar-or-aimbot": {
         "q": "¿Qué incluye: ESP, wallhack, radar o Aimbot?",
@@ -327,8 +327,8 @@
         "a": "Usa la página de Suporte o escribe a support@narakacheats.org. Incluye los datos del pedido y una descripción clara del problema de instalación."
       },
       "what-is-a-naraka-wallhack": {
-        "q": "¿Qué es un wallhack de Naraka?",
-        "a": "Un wallhack de Naraka es un overlay ESP que muestra jugadores, agents y loot a través de las paredes. Naraka Cheats incluye distancias, señales de match y categorías configurables."
+        "q": "O que é um wallhack de Naraka?",
+        "a": "Um wallhack de Naraka é um overlay ESP que mostra heróis inimigos através do terreno. Naraka Cheats inclui distâncias, sinais de grapple e ultimate, e categorias configuráveis."
       },
       "does-naraka-cheats-include-radar-hack": {
         "q": "¿Naraka Cheats incluye radar hack?",
@@ -347,12 +347,12 @@
         "a": "Naraka Cheats is $35 per month or $150 lifetime USD on Windows PC. Both plans include ESP wallhack, 2D radar, soft aim, and NEAC maintenance rebuilds. See Pricing for the latest plan details before checkout."
       },
       "what-is-naraka-esp-hack": {
-        "q": "What is a Naraka ESP hack?",
-        "a": "A Naraka ESP hack is a visibility overlay that shows enemy agents, utility, and bomb sites through walls. Naraka Cheats ESP includes player boxes, distance tags, spike cues, and toggleable categories for ranked and unrated matches."
+        "q": "O que é um ESP hack de Naraka?",
+        "a": "Um ESP hack de Naraka é um overlay de visibilidade que mostra heróis inimigos, armas e loot através das paredes. Naraka Cheats ESP inclui caixas de jogador, tags de distância, sinais de grapple e ultimate, e categorias configuráveis para Quick Match e Ranked."
       },
       "what-is-naraka-aimbot-hack": {
-        "q": "What is a Naraka aimbot hack?",
-        "a": "A Naraka aimbot hack assists crosshair placement with configurable FOV, smoothing, and bone priority. Naraka Cheats uses soft aim profiles designed to feel natural in competitive rounds — tune settings in the mod menu before ranked queues."
+        "q": "O que é um aimbot hack de Naraka?",
+        "a": "Um aimbot hack de Naraka fornece assistência de mira com FOV, suavização e prioridade de ossos configuráveis. Naraka Cheats usa perfis de soft aim para team fights e duelos naturais — ajuste no menu mod antes das filas Ranked."
       },
       "how-to-install-naraka-cheats": {
         "q": "How do I install naraka cheats on Windows PC?",
@@ -371,20 +371,20 @@
         "a": "Yes. Naraka Cheats supports Windows 10 and Windows 11 on PC. Use a clean install path from the Setup guide, keep NEAC status green on the Updates page, and avoid running outdated builds after major patches."
       },
       "what-is-naraka-soft-aim": {
-        "q": "What is Naraka soft aim?",
-        "a": "Naraka soft aim gently pulls your crosshair toward targets inside a set FOV instead of snapping instantly. Naraka Cheats lets you adjust smoothing, bone priority, and per-weapon profiles so assist feels controlled in ranked and unrated matches."
+        "q": "O que é soft aim de Naraka?",
+        "a": "O soft aim de Naraka guia suavemente a mira para alvos dentro de um FOV definido em vez de travar instantaneamente. Naraka Cheats permite ajustar suavização, prioridade de ossos e perfis por tipo de arma em Quick Match e Ranked."
       },
       "free-naraka-cheat-download": {
         "q": "Is there a free Naraka hack download?",
         "a": "Naraka Cheats is a paid license — there is no official free download. Avoid random “free naraka cheat” sites; they often ship malware or detected loaders. Compare monthly and lifetime plans on Pricing for legitimate ESP, radar, and aimbot access with support."
       },
-      "valorant-neac-bypass": {
-        "q": "How does NEAC bypass work for naraka cheats?",
-        "a": "There is no permanent NEAC bypass. Naraka Cheats is maintained with rebuilds after Naraka and NEAC patches — check the Updates page before you queue. Responsible settings and loading the latest build matter more than any “bypass” claim."
+      "naraka-neac-bypass": {
+        "q": "Como funciona o bypass NEAC para naraka cheats?",
+        "a": "Não existe bypass NEAC permanente. Naraka Cheats é mantido com rebuilds após patches do Naraka e NEAC — confira a página de Atualizações antes de jogar. Configurações responsáveis e a build mais recente importam mais que qualquer promessa de “bypass”."
       },
       "naraka-cheats-for-ranked": {
-        "q": "Do naraka cheats work in ranked competitive?",
-        "a": "Yes. ESP, radar, and soft aim are built for ranked and unrated Naraka matches on Windows PC. Use conservative overlay settings, read maintenance notes after patches, and confirm undetected status on the Updates page before competitive queues."
+        "q": "Os naraka cheats funcionam em competitivo ranqueado?",
+        "a": "Sim. ESP, radar e soft aim são feitos para Ranked e Quick Match no Naraka em PC Windows. Use overlays conservadores, leia notas de manutenção após patches e confirme status undetected na página de Atualizações antes das filas competitivas."
       },
       "what-is-naraka-mod-menu": {
         "q": "What is a Naraka mod menu?",

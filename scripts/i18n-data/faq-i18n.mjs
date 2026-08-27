@@ -1,5 +1,7 @@
 /** Localized FAQ question/answer text keyed by slug. */
 
+import { FAQ_ACCURACY_FIXES } from './faq-accuracy-fixes.mjs';
+
 export const FAQ_I18N = {
 	es: {
 		'what-are-naraka-cheats': {
@@ -187,6 +189,12 @@ for (const [locale, labels] of Object.entries(FAQ_TEMPLATES)) {
 		};
 	}
 	FAQ_I18N[locale] = items;
+}
+
+/** Apply Naraka-accurate FAQ copy over legacy Valorant terminology. */
+for (const [locale, fixes] of Object.entries(FAQ_ACCURACY_FIXES)) {
+	if (!FAQ_I18N[locale]) FAQ_I18N[locale] = {};
+	Object.assign(FAQ_I18N[locale], fixes);
 }
 
 /** Build FAQ overlay for translation.json from English base + locale map. */

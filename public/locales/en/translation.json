@@ -307,7 +307,7 @@
       },
       "solo-farmer-and-raider-sessions": {
         "q": "Does this work in battle royale rounds and ranked matches?",
-        "a": "Yes. ESP, radar, and aimbot are built for Naraka match flow — reading enemies, tracking utility, and holding bomb sites in ranked and unrated modes."
+        "a": "Yes. ESP, radar, and aimbot are built for Naraka match flow — reading enemy heroes, tracking loot and soul jades, and staying aware near POIs and combat zones in Quick Match and Ranked."
       },
       "esp-wallhack-radar-or-aimbot": {
         "q": "What is included — ESP, wallhack, radar, or Aimbot?",
@@ -327,7 +327,7 @@
       },
       "what-is-a-naraka-wallhack": {
         "q": "What is a Naraka wallhack?",
-        "a": "A Naraka wallhack is an ESP overlay that shows enemy agents through walls. Naraka Cheats includes distance readouts, spike cues, and toggleable categories."
+        "a": "A Naraka wallhack is an ESP overlay that shows enemy heroes through terrain. Naraka Cheats includes distance readouts, grapple and ult cues, and toggleable categories."
       },
       "does-naraka-cheats-include-radar-hack": {
         "q": "Does Naraka Cheats include a radar hack?",
@@ -347,11 +347,11 @@
       },
       "what-is-naraka-esp-hack": {
         "q": "What is a Naraka ESP hack?",
-        "a": "A Naraka ESP hack is a visibility overlay that shows enemy agents, utility, and bomb sites through walls. Naraka Cheats ESP includes player boxes, distance tags, spike cues, and toggleable categories for ranked and unrated matches."
+        "a": "A Naraka ESP hack is a visibility overlay that shows enemy heroes, weapons, and loot through walls. Naraka Cheats ESP includes player boxes, distance tags, grapple and ult cues, and toggleable categories for Quick Match and Ranked."
       },
       "what-is-naraka-aimbot-hack": {
         "q": "What is a Naraka aimbot hack?",
-        "a": "A Naraka aimbot hack assists crosshair placement with configurable FOV, smoothing, and bone priority. Naraka Cheats uses soft aim profiles designed to feel natural in competitive rounds — tune settings in the mod menu before ranked queues."
+        "a": "A Naraka aimbot hack provides aim assist with configurable FOV, smoothing, and bone priority. Naraka Cheats uses soft aim profiles designed to feel natural in team fights and duels — tune settings in the mod menu before Ranked queues."
       },
       "how-to-install-naraka-cheats": {
         "q": "How do I install naraka cheats on Windows PC?",
@@ -371,19 +371,19 @@
       },
       "what-is-naraka-soft-aim": {
         "q": "What is Naraka soft aim?",
-        "a": "Naraka soft aim gently pulls your crosshair toward targets inside a set FOV instead of snapping instantly. Naraka Cheats lets you adjust smoothing, bone priority, and per-weapon profiles so assist feels controlled in ranked and unrated matches."
+        "a": "Naraka soft aim gently guides aim toward targets inside a set FOV instead of snapping instantly. Naraka Cheats lets you adjust smoothing, bone priority, and per-weapon-type profiles so assist feels controlled in Quick Match and Ranked."
       },
       "free-naraka-cheat-download": {
         "q": "Is there a free Naraka hack download?",
         "a": "Naraka Cheats is a paid license — there is no official free download. Avoid random “free naraka cheat” sites; they often ship malware or detected loaders. Compare monthly and lifetime plans on Pricing for legitimate ESP, radar, and aimbot access with support."
       },
-      "valorant-neac-bypass": {
+      "naraka-neac-bypass": {
         "q": "How does NEAC bypass work for naraka cheats?",
         "a": "There is no permanent NEAC bypass. Naraka Cheats is maintained with rebuilds after Naraka and NEAC patches — check the Updates page before you queue. Responsible settings and loading the latest build matter more than any “bypass” claim."
       },
       "naraka-cheats-for-ranked": {
         "q": "Do naraka cheats work in ranked competitive?",
-        "a": "Yes. ESP, radar, and soft aim are built for ranked and unrated Naraka matches on Windows PC. Use conservative overlay settings, read maintenance notes after patches, and confirm undetected status on the Updates page before competitive queues."
+        "a": "Yes. ESP, radar, and soft aim are built for Ranked and Quick Match Naraka on Windows PC. Use conservative overlay settings, read maintenance notes after patches, and confirm undetected status on the Updates page before competitive queues."
       },
       "what-is-naraka-mod-menu": {
         "q": "What is a Naraka mod menu?",

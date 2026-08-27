@@ -307,8 +307,8 @@
         "a": "Naraka Cheats se mantiene para Naraka con reconstrucciones tras parches de NEAC y del juego. Revisa la ステータス antes de entrar en match. Ningún cheat puede garantizar indetectabilidad permanente."
       },
       "solo-farmer-and-raider-sessions": {
-        "q": "¿Funciona en matches de base y PvP?",
-        "a": "Sí. ESP, radar y aimbot están pensados para el flujo de match de Naraka: leer jugadores y agents, detectar loot y mantener conciencia cerca de sitios de bomba y vault sectors."
+        "q": "バトルロイヤルラウンドとランクマッチで使えますか？",
+        "a": "はい。ESP、レーダー、エイムボットはNarakaのマッチフロー向けです — 敵ヒーローの読み、ルートとsoul jadesの追跡、Quick MatchとRankedでPOIと戦闘ゾーン付近の把握。"
       },
       "esp-wallhack-radar-or-aimbot": {
         "q": "¿Qué incluye: ESP, wallhack, radar o Aimbot?",
@@ -327,8 +327,8 @@
         "a": "Usa la página de サポート o escribe a support@narakacheats.org. Incluye los datos del pedido y una descripción clara del problema de instalación."
       },
       "what-is-a-naraka-wallhack": {
-        "q": "¿Qué es un wallhack de Naraka?",
-        "a": "Un wallhack de Naraka es un overlay ESP que muestra jugadores, agents y loot a través de las paredes. Naraka Cheats incluye distancias, señales de match y categorías configurables."
+        "q": "Naraka wallhackとは？",
+        "a": "Naraka wallhackは地形越しに敵ヒーローを表示するESPオーバーレイです。Naraka Cheatsは距離表示、グラップルとウルトの合図、切り替え可能なカテゴリを含みます。"
       },
       "does-naraka-cheats-include-radar-hack": {
         "q": "¿Naraka Cheats incluye radar hack?",
@@ -347,12 +347,12 @@
         "a": "Naraka Cheats is $35 per month or $150 lifetime USD on Windows PC. Both plans include ESP wallhack, 2D radar, soft aim, and NEAC maintenance rebuilds. See Pricing for the latest plan details before checkout."
       },
       "what-is-naraka-esp-hack": {
-        "q": "What is a Naraka ESP hack?",
-        "a": "A Naraka ESP hack is a visibility overlay that shows enemy agents, utility, and bomb sites through walls. Naraka Cheats ESP includes player boxes, distance tags, spike cues, and toggleable categories for ranked and unrated matches."
+        "q": "Naraka ESP hackとは？",
+        "a": "Naraka ESP hackは壁越しに敵ヒーロー、武器、ルートを表示する視認オーバーレイです。Naraka Cheats ESPはプレイヤーボックス、距離タグ、グラップルとウルトの合図、Quick MatchとRanked向けカテゴリを含みます。"
       },
       "what-is-naraka-aimbot-hack": {
-        "q": "What is a Naraka aimbot hack?",
-        "a": "A Naraka aimbot hack assists crosshair placement with configurable FOV, smoothing, and bone priority. Naraka Cheats uses soft aim profiles designed to feel natural in competitive rounds — tune settings in the mod menu before ranked queues."
+        "q": "Naraka aimbot hackとは？",
+        "a": "Naraka aimbot hackは設定可能なFOV、スムージング、ボーン優先度でエイムアシストを提供します。Naraka Cheatsはチームファイトとデュエルで自然なソフトエイムプロファイルを使用 — Rankedキュー前にmodメニューで調整。"
       },
       "how-to-install-naraka-cheats": {
         "q": "How do I install naraka cheats on Windows PC?",
@@ -371,20 +371,20 @@
         "a": "Yes. Naraka Cheats supports Windows 10 and Windows 11 on PC. Use a clean install path from the Setup guide, keep NEAC status green on the Updates page, and avoid running outdated builds after major patches."
       },
       "what-is-naraka-soft-aim": {
-        "q": "What is Naraka soft aim?",
-        "a": "Naraka soft aim gently pulls your crosshair toward targets inside a set FOV instead of snapping instantly. Naraka Cheats lets you adjust smoothing, bone priority, and per-weapon profiles so assist feels controlled in ranked and unrated matches."
+        "q": "Naraka soft aimとは？",
+        "a": "Naraka soft aimは即スナップではなく設定FOV内のターゲットへ穏やかにエイムを導きます。Naraka CheatsはQuick MatchとRankedでスムージング、ボーン優先度、武器タイプ別プロファイルを調整できます。"
       },
       "free-naraka-cheat-download": {
         "q": "Is there a free Naraka hack download?",
         "a": "Naraka Cheats is a paid license — there is no official free download. Avoid random “free naraka cheat” sites; they often ship malware or detected loaders. Compare monthly and lifetime plans on Pricing for legitimate ESP, radar, and aimbot access with support."
       },
-      "valorant-neac-bypass": {
-        "q": "How does NEAC bypass work for naraka cheats?",
-        "a": "There is no permanent NEAC bypass. Naraka Cheats is maintained with rebuilds after Naraka and NEAC patches — check the Updates page before you queue. Responsible settings and loading the latest build matter more than any “bypass” claim."
+      "naraka-neac-bypass": {
+        "q": "naraka cheatsのNEAC bypassはどう機能しますか？",
+        "a": "永続的なNEAC bypassはありません。Naraka CheatsはNarakaとNEACパッチ後のリビルドで維持されます — キュー前に更新ページを確認してください。責任ある設定と最新ビルドが「bypass」宣伝より重要です。"
       },
       "naraka-cheats-for-ranked": {
-        "q": "Do naraka cheats work in ranked competitive?",
-        "a": "Yes. ESP, radar, and soft aim are built for ranked and unrated Naraka matches on Windows PC. Use conservative overlay settings, read maintenance notes after patches, and confirm undetected status on the Updates page before competitive queues."
+        "q": "naraka cheatsはランク競技で使えますか？",
+        "a": "はい。ESP、レーダー、ソフトエイムはWindows PCのNaraka RankedとQuick Match向けです。控えめなオーバーレイ設定、パッチ後のメンテナンス確認、競技キュー前の更新ページでのundetected確認を。"
       },
       "what-is-naraka-mod-menu": {
         "q": "What is a Naraka mod menu?",

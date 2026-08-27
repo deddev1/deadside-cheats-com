@@ -121,7 +121,7 @@ export const homeFaqs: readonly FaqItem[] = [
 	faq({
 		question: 'Does this work in battle royale rounds and ranked matches?',
 		answer:
-			'Yes. ESP, radar, and aimbot are built for {game} match flow — reading agents, spotting loot, and staying aware near maps and combat zones.',
+			'Yes. ESP, radar, and aimbot are built for {game} match flow — reading enemy heroes, spotting loot, and staying aware near POIs and combat zones.',
 		slug: 'solo-farmer-and-raider-sessions',
 		seoTitle: 'Raid Session and PvP Support | FAQ',
 		seoDescription:
@@ -188,7 +188,7 @@ export const seoFaqs: readonly FaqItem[] = [
 	faq({
 		question: 'What is a {game} wallhack?',
 		answer:
-			'A {game} wallhack is an ESP overlay that shows heroes and weapons through walls. {brand} includes distance readouts, match cues, and toggleable categories.',
+			'A {game} wallhack is an ESP overlay that shows enemy heroes and weapons through walls. {brand} includes distance readouts, grapple and ult cues, and toggleable categories.',
 		slug: 'what-is-a-naraka-wallhack',
 		seoTitle: 'What Is a {game} Wallhack? | FAQ',
 		seoDescription:
@@ -224,16 +224,16 @@ export const seoFaqs: readonly FaqItem[] = [
 	faq({
 		question: 'What is a {game} ESP hack?',
 		answer:
-			'A {game} ESP hack is a visibility overlay that shows enemy agents, utility, and bomb sites through walls. {brand} ESP includes player boxes, distance tags, spike cues, and toggleable categories for ranked and unrated matches.',
+			'A {game} ESP hack is a visibility overlay that shows enemy heroes, weapons, and loot through walls. {brand} ESP includes player boxes, distance tags, grapple and ult cues, and toggleable categories for Quick Match and Ranked.',
 		slug: 'what-is-naraka-esp-hack',
 		seoTitle: 'What Is a {game} ESP Hack? | FAQ',
 		seoDescription:
-			'{game} ESP hack explained — player wallhack, distance tags, and utility markers in one {brand} license for Windows PC.',
+			'{game} ESP hack explained — player wallhack, distance tags, and loot markers in one {brand} license for Windows PC.',
 	}),
 	faq({
 		question: 'What is a {game} aimbot hack?',
 		answer:
-			'A {game} aimbot hack assists crosshair placement with configurable FOV, smoothing, and bone priority. {brand} uses soft aim profiles designed to feel natural in competitive rounds — tune settings in the mod menu before ranked queues.',
+			'A {game} aimbot hack provides aim assist with configurable FOV, smoothing, and bone priority. {brand} uses soft aim profiles designed to feel natural in team fights and duels — tune settings in the mod menu before Ranked queues.',
 		slug: 'what-is-naraka-aimbot-hack',
 		seoTitle: 'What Is a {game} Aimbot Hack? | FAQ',
 		seoDescription:
@@ -269,7 +269,7 @@ export const seoFaqs: readonly FaqItem[] = [
 	faq({
 		question: 'What is {game} soft aim?',
 		answer:
-			'{game} soft aim gently pulls your crosshair toward targets inside a set FOV instead of snapping instantly. {brand} lets you adjust smoothing, bone priority, and per-weapon profiles so assist feels controlled in ranked and unrated matches.',
+			'{game} soft aim gently guides aim toward targets inside a set FOV instead of snapping instantly. {brand} lets you adjust smoothing, bone priority, and per-weapon-type profiles so assist feels controlled in Quick Match and Ranked.',
 		slug: 'what-is-naraka-soft-aim',
 		seoTitle: 'What Is {game} Soft Aim? | FAQ',
 		seoDescription:
@@ -296,7 +296,7 @@ export const seoFaqs: readonly FaqItem[] = [
 	faq({
 		question: 'Do {primaryKeyword} work in ranked competitive?',
 		answer:
-			'Yes. ESP, radar, and soft aim are built for ranked and unrated {game} matches on Windows PC. Use conservative overlay settings, read maintenance notes after patches, and confirm undetected status on the Updates page before competitive queues.',
+			'Yes. ESP, radar, and soft aim are built for Ranked and Quick Match {game} on Windows PC. Use conservative overlay settings, read maintenance notes after patches, and confirm undetected status on the Updates page before competitive queues.',
 		slug: 'naraka-cheats-for-ranked',
 		seoTitle: 'Do {game} Hacks Work in Ranked? | FAQ',
 		seoDescription:
