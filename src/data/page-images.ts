@@ -14,7 +14,7 @@ export const crawlPhotoPool = Array.from({ length: PRODUCT_SCREENSHOT_COUNT }, (
  * Prefer compressed WebP screenshots so Google can fetch them quickly.
  */
 export const pageImageSrcById: Record<PageId, string> = {
-	home: '/images/naraka-cheats-hero-1870w.webp',
+	home: '/images/naraka-cheats-hero-1199w.webp',
 	'naraka-esp': shot(1),
 	'naraka-aimbot': shot(3),
 	features: shot(4),

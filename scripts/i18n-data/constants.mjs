@@ -14,7 +14,7 @@ export const PAGE_IDS = [
 
 /** Hero image per page — simple naraka cheats keyword filenames. */
 export const HERO_IMAGES = {
-	home: '/images/naraka-cheats-hero-1870w.webp',
+	home: '/images/naraka-cheats-hero-1199w.webp',
 	'naraka-esp': '/images/naraka-cheats-radar.webp',
 	'naraka-aimbot': '/images/naraka-cheats-aimbot.webp',
 	features: '/images/naraka-cheats-aimbot-view.webp',

@@ -37,8 +37,8 @@ export const brand = {
 	logoRasterWidth: 512,
 	logoRasterHeight: 512,
 	logoAlt: 'Naraka Cheats logo',
-	defaultOgImage: '/images/naraka-cheats-hero-1870w.webp',
-	heroImage: '/images/naraka-cheats-hero-1870w.webp',
+	defaultOgImage: '/images/naraka-cheats-hero-1199w.webp',
+	heroImage: '/images/naraka-cheats-hero-1199w.webp',
 	/** Product demo clip — lazy-loaded on homepage; Supabase public URL */
 	demoVideoUrl:
 		'https://boqgsoiwnpbisvrxulbe.supabase.co/storage/v1/object/public/naraka/naraka%20cheats/Naraka%202026.02.10%20-%2013.08.41.03.DVR%20-%20Trim%20(1).mp4',
