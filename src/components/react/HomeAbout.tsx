@@ -16,7 +16,7 @@ function HomeAboutInner() {
 				<p>{t('home.aboutP1')}</p>
 				<p>
 					{t('home.aboutP2Before')}{' '}
-					<a href="/">{t('home.aboutPillar')}</a>
+					<a href="/naraka-cheats/">{t('home.aboutPillar')}</a>
 					{t('home.aboutP2Mid')}
 					<a href="/naraka-esp/">{t('home.aboutEsp')}</a>
 					{t('home.aboutP2Mid')}

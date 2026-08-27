@@ -13,7 +13,6 @@ import { getLocaleContent, getPageContent } from '../data/i18n';
 import { getLocalizedPath } from '../data/i18n/routing';
 import type { LocaleCode } from '../data/i18n/locales';
 import { homeSeo, productInfo, siteConfig, customerReviewStats } from '../data/site';
-import { brand } from '../data/brand';
 import { getLocalizedHomeFaqs } from '../data/localized-faq';
 import { heroPreloadSrc, heroSizes, heroSrcSet } from '../lib/responsive-images';
 import { defaultCrawlImageSrc } from '../data/page-images';
@@ -89,17 +88,6 @@ const extraGraph: Record<string, unknown>[] = [
 				text: item.answer,
 			},
 		})),
-	},
-	{
-		'@type': 'VideoObject',
-		'@id': `${canonicalURL}#demo-video`,
-		name: `${siteConfig.name} demo — ESP, aimbot & radar`,
-		description: 'Gameplay demo of Naraka Cheats ESP wallhack, soft aim, and 2D radar on Windows PC.',
-		thumbnailUrl: new URL(brand.demoVideoPoster, siteConfig.url).href,
-		contentUrl: brand.demoVideoUrl,
-		uploadDate: '2026-02-10',
-		duration: 'PT2M',
-		inLanguage: locale,
 	},
 ];
 ---
