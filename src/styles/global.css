@@ -5,27 +5,27 @@
 	--font-sans: "Inter Variable", "Inter", ui-sans-serif, system-ui, sans-serif;
 	--font-display: "Syne Variable", "Syne", ui-sans-serif, sans-serif;
 
-	/* Naraka cyan canvas — navy surface ladder */
-	--bg: #030711;
-	--bg-panel: #0b1427;
-	--bg-elevated: #071224;
-	--bg-hover: #101d35;
-	--line: #1a2a45;
-	--line-soft: #121f36;
-	--line-strong: #2a3f5c;
-	--ink: #f4f7fb;
+	/* Naraka dark canvas — red accent surface ladder */
+	--bg: #07090a;
+	--bg-panel: #0e1113;
+	--bg-elevated: #15191b;
+	--bg-hover: #1a1f22;
+	--line: #252a2c;
+	--line-soft: #1c2022;
+	--line-strong: #303638;
+	--ink: #f1f3f3;
 	--ink-heading: #ffffff;
-	--ink-secondary: #dce3ec;
-	--ink-muted: #aeb9c8;
-	--ink-faint: #c5ced8;
-	--link: #18d9ff;
+	--ink-secondary: #c5caca;
+	--ink-muted: #8d9698;
+	--ink-faint: #6f787a;
+	--link: #e50920;
 
-	/* Brand accent — cyan */
-	--magenta: #18d9ff;
-	--magenta-soft: #7cebff;
-	--magenta-deep: #0a8fb0;
+	/* Brand accent — red */
+	--magenta: #e50920;
+	--magenta-soft: #ffffff;
+	--magenta-deep: #8f0715;
 	--accent: var(--magenta);
-	--accent-hover: #38e4ff;
+	--accent-hover: #ff1f35;
 	--ok: #34d399;
 	--warn: #f43f5e;
 

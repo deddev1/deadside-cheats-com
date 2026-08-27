@@ -39,13 +39,12 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 	.hero {
 		--hero-pad-y: clamp(1rem, 2vw, 1.75rem);
 		--hero-stack: clamp(0.5rem, 1.1vw, 0.75rem);
-		--hero-ratio: 1199 / 506;
 		position: relative;
 		isolation: isolate;
 		display: grid;
 		width: 100%;
 		overflow: hidden;
-		background: #070707;
+		background: var(--bg);
 	}
 
 	.hero__media,
@@ -88,9 +87,9 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 		pointer-events: none;
 		background: linear-gradient(
 			90deg,
-			rgba(7, 7, 7, 0.78) 0%,
-			rgba(7, 7, 7, 0.52) 34%,
-			rgba(7, 7, 7, 0.18) 58%,
+			color-mix(in srgb, var(--bg) 78%, transparent) 0%,
+			color-mix(in srgb, var(--bg) 52%, transparent) 34%,
+			color-mix(in srgb, var(--bg) 18%, transparent) 58%,
 			transparent 74%
 		);
 	}

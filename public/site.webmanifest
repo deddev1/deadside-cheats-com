@@ -4,8 +4,8 @@
   "description": "Undetected naraka cheats — ESP, aimbot, and radar for PC",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#030711",
-  "theme_color": "#030711",
+  "background_color": "#07090A",
+  "theme_color": "#07090A",
   "icons": [
     {
       "src": "/favicon.png",

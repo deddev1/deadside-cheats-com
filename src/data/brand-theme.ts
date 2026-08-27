@@ -14,6 +14,8 @@ export type BrandThemeInput = {
 	deep?: string;
 	hover?: string;
 	panel?: string;
+	elevated?: string;
+	line?: string;
 	ink?: string;
 	inkHeading?: string;
 	inkSecondary?: string;
@@ -51,7 +53,7 @@ export const themeDefaults: BrandThemeInput = {
 
 export const themePresets: { id: string; label: string; accent: string; bg: string }[] = [
 	{ id: 'magenta', label: 'Magenta', accent: '#c026d3', bg: '#08090a' },
-	{ id: 'naraka', label: 'Naraka', accent: '#18D9FF', bg: '#030711' },
+	{ id: 'naraka', label: 'Naraka', accent: '#E50920', bg: '#07090A' },
 	{ id: 'fortnite', label: 'Fortnite', accent: '#2b9dff', bg: '#0a0e17' },
 	{ id: 'apex', label: 'Apex', accent: '#ff6b2c', bg: '#0c0d10' },
 	{ id: 'teal', label: 'Teal', accent: '#14b8a6', bg: '#071012' },
@@ -161,11 +163,12 @@ export function deriveBrandTheme(input: Partial<BrandThemeInput> = {}): BrandThe
 	const accentDeep = deepIsDarkSurface ? deepAuto : (deepIn ?? deepAuto);
 	const hover = normalizeHex(input.hover) ?? hoverAuto;
 	const bgPanel = normalizeHex(input.panel) ?? panelAuto;
-	const bgElevated = deepIsDarkSurface ? deepIn! : mixHex(bg, '#ffffff', 0.07);
-	const bgHover = mixHex(bg, '#ffffff', 0.1);
-	const lineSoft = mixHex(bg, '#ffffff', 0.08);
-	const line = mixHex(bg, '#ffffff', 0.12);
-	const lineStrong = mixHex(bg, '#ffffff', 0.18);
+	const bgElevated =
+		normalizeHex(input.elevated) ?? (deepIsDarkSurface ? deepIn! : mixHex(bg, '#ffffff', 0.07));
+	const bgHover = mixHex(bgElevated, '#ffffff', 0.06);
+	const lineSoft = normalizeHex(input.line) ? mixHex(input.line!, bg, 0.45) : mixHex(bg, '#ffffff', 0.08);
+	const line = normalizeHex(input.line) ?? mixHex(bg, '#ffffff', 0.12);
+	const lineStrong = normalizeHex(input.line) ? mixHex(input.line!, '#ffffff', 0.22) : mixHex(bg, '#ffffff', 0.18);
 	const toneVoid = mixHex(bg, '#000000', 0.35);
 	const ink = normalizeHex(input.ink) ?? '#F8FAFC';
 	const inkHeading = normalizeHex(input.inkHeading) ?? ink;
@@ -222,6 +225,8 @@ export const brandTheme: BrandThemeResolved = deriveBrandTheme({
 	deep: raw.theme?.deep,
 	hover: raw.theme?.hover,
 	panel: raw.theme?.panel,
+	elevated: raw.theme?.elevated,
+	line: raw.theme?.line,
 	ink: raw.theme?.ink,
 	inkHeading: raw.theme?.inkHeading,
 	inkSecondary: raw.theme?.inkSecondary,
