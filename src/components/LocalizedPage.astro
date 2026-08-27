@@ -31,6 +31,7 @@ function localizeParagraphHtml(html: string): string {
 const heading = page.h1;
 const intro = page.intro;
 const sections = page.sections;
+const isGuidePage = pageId === 'hacks';
 const ctaPrimaryLabel = page.ctaPrimary;
 const galleryTitle = page.galleryTitle ?? t('common.inGameLook');
 const pageTitle = page.title;
@@ -177,24 +178,28 @@ const breadcrumbLabel = eyebrowByPage[pageId];
 	}
 
 	{
-		sections.map((section) => (
+		sections.map((section, index) => (
 			<section
 				class:list={[
 					'card-panel',
-					section.list && section.list.length >= 4 && 'card-panel--features',
+					isGuidePage && index === 0 && 'card-panel--intro',
+					isGuidePage && index === 1 && 'card-panel--features',
+					!isGuidePage && section.list && section.list.length >= 4 && 'card-panel--features',
 				]}
 			>
 				<h2>{section.h2}</h2>
-				{section.paragraphs.map((p) => (
-					<p set:html={localizeParagraphHtml(p)} />
-				))}
-				{section.list && (
-					<ul>
-						{section.list.map((item) => (
-							<li set:html={localizeParagraphHtml(item)} />
-						))}
-					</ul>
-				)}
+				<div class="card-panel__body">
+					{section.paragraphs.map((p) => (
+						<p set:html={localizeParagraphHtml(p)} />
+					))}
+					{section.list && (
+						<ul class:list={[isGuidePage && index === 1 && 'feature-grid']}>
+							{section.list.map((item) => (
+								<li set:html={localizeParagraphHtml(item)} />
+							))}
+						</ul>
+					)}
+				</div>
 			</section>
 		))
 	}

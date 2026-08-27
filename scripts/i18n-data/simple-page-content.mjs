@@ -186,7 +186,8 @@ export const PAGE_CONTENT = {
 		},
 		"2": {
 			"en": [
-				"Read the refund policy if you need it. Contact support with your order ID for help."
+				"Read the refund policy if you need it. Contact support with your order ID for help.",
+				"Prices are listed in USD for Windows 10 and 11 PCs worldwide."
 			],
 			"es": [
 				"Lee la política de reembolso si la necesitas. Contacta soporte con tu ID de pedido."
@@ -682,7 +683,8 @@ export const PAGE_CONTENT = {
 		},
 		"1": {
 			"en": [
-				"Wait for our rebuild note, then launch. Do not play on an old build after a big update."
+				"Wait for our rebuild note, then launch. Do not play on an old build after a big update.",
+				"Follow setup if something fails and email support with your order ID."
 			],
 			"es": [
 				"Espera nuestra nota de rebuild, luego inicia. No juegues con una build antigua tras una gran actualización."
@@ -750,7 +752,8 @@ export const PAGE_CONTENT = {
 		},
 		"2": {
 			"en": [
-				"No cheat is 100% safe forever. Stay updated and use safe settings."
+				"No cheat is 100% safe forever. Stay updated and use safe settings.",
+				"Check this page before every match after a patch day."
 			],
 			"es": [
 				"Ningún cheat es 100% seguro para siempre. Mantente actualizado y usa ajustes seguros."
@@ -1134,209 +1137,188 @@ export const PAGE_CONTENT = {
 	"hacks": {
 		"0": {
 			"en": [
-				"Naraka cheats are third-party tools that give you extra information and combat assist during matches.",
-				"Most players search for naraka cheats when they want player ESP, loot visibility, off-screen radar, or smoother aim under pressure.",
+				"Naraka cheats are third-party tools that give you extra information and combat assist during matches. Most players search for naraka cheats when they want player ESP, loot visibility, off-screen radar, or smoother aim under pressure.",
 				"Naraka Cheats bundles those tools in one license for Windows PC — no stacking separate downloads for wallhack, radar, and aimbot."
 			],
 			"es": [
-				"Los trucos de Naraka son herramientas de terceros que te dan información extra y asistencia en combate durante matches.",
-				"La mayoría busca naraka cheats cuando quieren ESP de jugadores, visibilidad de loot, radar fuera de pantalla o puntería más suave bajo presión.",
+				"Los trucos de Naraka son herramientas de terceros que te dan información extra y asistencia en combate durante matches. La mayoría busca naraka cheats cuando quieren ESP de jugadores, visibilidad de loot, radar fuera de pantalla o puntería más suave bajo presión.",
 				"Naraka Cheats agrupa esas herramientas en una licencia para Windows PC — sin descargas separadas para wallhack, radar y aimbot."
 			],
 			"fr": [
-				"Les triches Naraka sont des outils tiers qui donnent des infos supplémentaires et une aide au combat pendant les matches.",
-				"La plupart cherchent naraka cheats pour l'ESP joueurs, le loot, le radar hors écran ou une visée plus fluide sous pression.",
+				"Les triches Naraka sont des outils tiers qui donnent des infos supplémentaires et une aide au combat pendant les matches. La plupart cherchent naraka cheats pour l'ESP joueurs, le loot, le radar hors écran ou une visée plus fluide sous pression.",
 				"Naraka Cheats regroupe ces outils dans une licence PC Windows — sans empiler wallhack, radar et aimbot séparément."
 			],
 			"de": [
-				"Naraka Cheats sind Drittanbieter-Tools mit Extra-Infos und Kampfhilfe in matches.",
-				"Die meisten suchen naraka cheats für Spieler-ESP, Loot-Sicht, Off-Screen-Radar oder sanfteres Zielen unter Druck.",
+				"Naraka Cheats sind Drittanbieter-Tools mit Extra-Infos und Kampfhilfe in matches. Die meisten suchen naraka cheats für Spieler-ESP, Loot-Sicht, Off-Screen-Radar oder sanfteres Zielen unter Druck.",
 				"Naraka Cheats bündelt diese Tools in einer Windows-PC-Lizenz — ohne separate Downloads für Wallhack, Radar und Aimbot."
 			],
 			"pt": [
-				"Naraka cheats são ferramentas de terceiros que dão informação extra e assistência de combate em matches.",
-				"A maioria procura naraka cheats por ESP de jogadores, loot, radar off-screen ou mira mais suave sob pressão.",
+				"Naraka cheats são ferramentas de terceiros que dão informação extra e assistência de combate em matches. A maioria procura naraka cheats por ESP de jogadores, loot, radar off-screen ou mira mais suave sob pressão.",
 				"Naraka Cheats reúne essas ferramentas numa licença Windows PC — sem empilhar wallhack, radar e aimbot separados."
 			],
 			"it": [
-				"I cheat Naraka sono tool di terze parti che danno info extra e assistenza in combattimento durante i match.",
-				"Molti cercano naraka cheats per ESP giocatori, loot, radar off-screen o mira più fluida sotto pressione.",
+				"I cheat Naraka sono tool di terze parti che danno info extra e assistenza in combattimento durante i match. Molti cercano naraka cheats per ESP giocatori, loot, radar off-screen o mira più fluida sotto pressione.",
 				"Naraka Cheats raggruppa questi tool in una licenza Windows PC — senza download separati per wallhack, radar e aimbot."
 			],
 			"nl": [
-				"Naraka cheats zijn tools van derden met extra info en gevechtshulp tijdens matches.",
-				"De meeste zoeken naraka cheats voor speler-ESP, loot, off-screen radar of soepeler richten onder druk.",
+				"Naraka cheats zijn tools van derden met extra info en gevechtshulp tijdens matches. De meeste zoeken naraka cheats voor speler-ESP, loot, off-screen radar of soepeler richten onder druk.",
 				"Naraka Cheats bundelt die tools in één Windows PC-licentie — geen aparte wallhack-, radar- en aimbot-downloads."
 			],
 			"pl": [
-				"Naraka cheats to narzędzia firm trzecich dające dodatkowe info i wsparcie w walce podczas matchów.",
-				"Większość szuka naraka cheats dla ESP graczy, lootu, radaru off-screen lub płynniejszego aimu pod presją.",
+				"Naraka cheats to narzędzia firm trzecich dające dodatkowe info i wsparcie w walce podczas matchów. Większość szuka naraka cheats dla ESP graczy, lootu, radaru off-screen lub płynniejszego aimu pod presją.",
 				"Naraka Cheats łączy te narzędzia w jednej licencji na Windows PC — bez osobnych pobrań wallhack, radar i aimbot."
 			],
 			"ru": [
-				"Naraka cheats — сторонние инструменты с доп.",
-				"информацией и боевой помощью в рейдах. Ищут naraka cheats за ESP игроков, лут, off-screen radar или более плавный aim под давлением.",
+				"Naraka cheats — сторонние инструменты с доп. информацией и боевой помощью в рейдах. Ищут naraka cheats за ESP игроков, лут, off-screen radar или более плавный aim под давлением.",
 				"Naraka Cheats объединяет эти инструменты в одной лицензии для Windows PC — без отдельных загрузок wallhack, radar и aimbot."
 			],
 			"tr": [
-				"Naraka hileleri match sırasında ekstra bilgi ve savaş desteği veren üçüncü taraf araçlardır.",
-				"Çoğu oyuncu ESP, loot, off-screen radar veya baskı altında daha yumuşak nişan için naraka cheats arar.",
+				"Naraka hileleri match sırasında ekstra bilgi ve savaş desteği veren üçüncü taraf araçlardır. Çoğu oyuncu ESP, loot, off-screen radar veya baskı altında daha yumuşak nişan için naraka cheats arar.",
 				"Naraka Cheats bu araçları Windows PC için tek lisans altında toplar — ayrı wallhack, radar ve aimbot indirmeleri yok."
 			],
 			"ar": [
-				"naraka cheats أدوات طرف ثالث تمنحك معلومات إضافية ومساعدة قتالية أثناء الraid.",
-				"يبحث معظم اللاعبين عن naraka cheats لـ ESP اللاعبين والloot والradar خارج الشاشة أو تصويب أنعم تحت الضغط.",
+				"naraka cheats أدوات طرف ثالث تمنحك معلومات إضافية ومساعدة قتالية أثناء الraid. يبحث معظم اللاعبين عن naraka cheats لـ ESP اللاعبين والloot والradar خارج الشاشة أو تصويب أنعم تحت الضغط.",
 				"Naraka Cheats يجمع هذه الأدوات في ترخيص واحد لـ Windows PC — دون تحميلات منفصلة للwallhack والradar والaimbot."
 			],
 			"ja": [
-				"Narakaチートはレイド中に追加情報と戦闘支援を提供するサードパーティツールです。",
-				"プレイヤーESP、loot、オフスクリーンradar、プレッシャー下でのスムーズなエイム目的でnaraka cheatsを探す人が多いです。",
+				"Narakaチートはレイド中に追加情報と戦闘支援を提供するサードパーティツールです。プレイヤーESP、loot、オフスクリーンradar、プレッシャー下でのスムーズなエイム目的でnaraka cheatsを探す人が多いです。",
 				"Naraka Cheatsはwallhack、radar、aimbotをWindows PC向け1ライセンスにまとめます — 個別ダウンロード不要。"
 			],
 			"ko": [
-				"Naraka 치트는 레이드 중 추가 정보와 전투 보조를 제공하는 서드파티 도구입니다.",
-				"플레이어 ESP, loot, off-screen radar, 압박 상황에서 부드러운 에임을 위해 naraka cheats를 찾습니다.",
+				"Naraka 치트는 레이드 중 추가 정보와 전투 보조를 제공하는 서드파티 도구입니다. 플레이어 ESP, loot, off-screen radar, 압박 상황에서 부드러운 에임을 위해 naraka cheats를 찾습니다.",
 				"Naraka Cheats는 wallhack, radar, aimbot을 Windows PC 단일 라이선스로 묶습니다 — 별도 다운로드 불필요."
 			],
 			"zh": [
-				"Naraka cheats 是第三方工具，在 match 中提供额外信息和战斗辅助。",
-				"多数玩家为玩家 ESP、物资可见、屏幕外 radar 或高压下更稳的瞄准而搜索 naraka cheats。",
+				"Naraka cheats 是第三方工具，在 match 中提供额外信息和战斗辅助。多数玩家为玩家 ESP、物资可见、屏幕外 radar 或高压下更稳的瞄准而搜索 naraka cheats。",
 				"Naraka Cheats 将这些工具整合为 Windows PC 单一许可证 — 无需分别下载 wallhack、radar 和 aimbot。"
 			],
 			"hi": [
-				"Naraka cheats तीसरे पक्ष के टूल हैं जो match में अतिरिक्त जानकारी और combat assist देते हैं।",
-				"ज़्यादातर player ESP, loot visibility, off-screen radar या दबाव में smoother aim के लिए naraka cheats खोजते हैं।",
+				"Naraka cheats तीसरे पक्ष के टूल हैं जो match में अतिरिक्त जानकारी और combat assist देते हैं। ज़्यादातर player ESP, loot visibility, off-screen radar या दबाव में smoother aim के लिए naraka cheats खोजते हैं।",
 				"Naraka Cheats इन टूल को Windows PC की एक लाइसेंस में बंडल करता है — अलग wallhack, radar, aimbot डाउनलोड नहीं।"
 			],
 			"id": [
-				"Naraka cheats adalah alat pihak ketiga yang memberi info ekstra dan bantuan tempur saat match.",
-				"Kebanyakan mencari naraka cheats untuk ESP pemain, loot, radar off-screen, atau aim lebih halus under pressure.",
+				"Naraka cheats adalah alat pihak ketiga yang memberi info ekstra dan bantuan tempur saat match. Kebanyakan mencari naraka cheats untuk ESP pemain, loot, radar off-screen, atau aim lebih halus under pressure.",
 				"Naraka Cheats menggabungkan alat tersebut dalam satu lisensi Windows PC — tanpa unduhan terpisah wallhack, radar, aimbot."
 			],
 			"th": [
-				"Naraka cheats เป็นเครื่องมือบุคคลที่สามที่ให้ข้อมูลเพิ่มและช่วยต่อสู้ระหว่าง match",
-				"ผู้เล่นส่วนใหญ่ค้นหา naraka cheats เพื่อ ESP ผู้เล่น loot radar นอกจอ หรือ aim ที่นุ่มนวลภายใต้ความกดดัน",
+				"Naraka cheats เป็นเครื่องมือบุคคลที่สามที่ให้ข้อมูลเพิ่มและช่วยต่อสู้ระหว่าง match ผู้เล่นส่วนใหญ่ค้นหา naraka cheats เพื่อ ESP ผู้เล่น loot radar นอกจอ หรือ aim ที่นุ่มนวลภายใต้ความกดดัน",
 				"Naraka Cheats รวมเครื่องมือเหล่านี้ในใบอนุญาต Windows PC เดียว — ไม่ต้องดาวน์โหลด wallhack radar aimbot แยก"
 			],
 			"vi": [
-				"Naraka cheats là công cụ bên thứ ba cung cấp thông tin thêm và hỗ trợ chiến đấu khi match.",
-				"Nhiều người tìm naraka cheats cho ESP người chơi, loot, radar ngoài màn hình hoặc aim mượt hơn dưới áp lực.",
+				"Naraka cheats là công cụ bên thứ ba cung cấp thông tin thêm và hỗ trợ chiến đấu khi match. Nhiều người tìm naraka cheats cho ESP người chơi, loot, radar ngoài màn hình hoặc aim mượt hơn dưới áp lực.",
 				"Naraka Cheats gom các công cụ trong một giấy phép Windows PC — không cần tải riêng wallhack, radar, aimbot."
 			],
 			"uk": [
-				"Naraka cheats — сторонні інструменти з додатковою інформацією та боєвою допомогою під час match.",
-				"Шукають naraka cheats за ESP гравців, loot, off-screen radar або плавніший aim під тиском.",
+				"Naraka cheats — сторонні інструменти з додатковою інформацією та боєвою допомогою під час match. Шукають naraka cheats за ESP гравців, loot, off-screen radar або плавніший aim під тиском.",
 				"Naraka Cheats об’єднує ці інструменти в одній ліцензії для Windows PC — без окремих завантажень wallhack, radar і aimbot."
 			],
 			"cs": [
-				"Naraka cheaty jsou nástroje třetích stran s extra informacemi a bojovou asistencí při matchech.",
-				"Většina hledá naraka cheats pro ESP hráčů, loot, off-screen radar nebo plynulejší aim pod tlakem.",
+				"Naraka cheaty jsou nástroje třetích stran s extra informacemi a bojovou asistencí při matchech. Většina hledá naraka cheats pro ESP hráčů, loot, off-screen radar nebo plynulejší aim pod tlakem.",
 				"Naraka Cheats spojuje tyto nástroje v jedné licenci pro Windows PC — bez samostatných downloadů wallhack, radar a aimbot."
 			],
 			"ro": [
-				"Naraka cheats sunt tool-uri terțe care oferă info extra și asistență de luptă în match-uri.",
-				"Majoritatea caută naraka cheats pentru ESP jucători, loot, radar off-screen sau aim mai lin sub presiune.",
+				"Naraka cheats sunt tool-uri terțe care oferă info extra și asistență de luptă în match-uri. Majoritatea caută naraka cheats pentru ESP jucători, loot, radar off-screen sau aim mai lin sub presiune.",
 				"Naraka Cheats grupează aceste tool-uri într-o licență Windows PC — fără descărcări separate wallhack, radar, aimbot."
 			],
 			"sv": [
-				"Naraka cheats är tredjepartsverktyg med extra info och stridsassistans under matches.",
-				"De flesta söker naraka cheats för spelar-ESP, loot, off-screen radar eller mjukare sikte under press.",
+				"Naraka cheats är tredjepartsverktyg med extra info och stridsassistans under matches. De flesta söker naraka cheats för spelar-ESP, loot, off-screen radar eller mjukare sikte under press.",
 				"Naraka Cheats buntar ihop dessa verktyg i en Windows PC-licens — inga separata nedladdningar för wallhack, radar och aimbot."
 			]
 		},
 		"1": {
 			"en": [
-				"One license covers the full match stack on Windows PC.",
-				"Monthly and lifetime plans include the same feature stack with NEAC rebuilds after patches."
+				"One license covers the full match stack: player ESP with distance, hero markers, 2D radar for flanks, and configurable soft aim profiles per weapon.",
+				"Monthly and lifetime plans include the same feature stack with NEAC rebuilds."
 			],
 			"es": [
-				"Una licencia cubre el stack completo de match en Windows PC.",
-				"Los planes mensual y de por vida incluyen el mismo stack con rebuilds NEAC tras parches."
+				"Una licencia cubre el stack completo de match: ESP de jugadores con distancia, marcadores de héroe, radar 2D para flancos y perfiles soft aim configurables por arma.",
+				"Los planes mensual y de por vida incluyen el mismo stack de funciones con rebuilds NEAC."
 			],
 			"fr": [
-				"Une licence couvre la stack match complète sur Windows PC.",
-				"Les formules mensuelle et à vie incluent la même stack avec rebuilds NEAC après les patches."
+				"Une licence couvre la stack match complète : ESP joueurs avec distance, marqueurs de héros, radar 2D pour les flancs et profils soft aim configurables par arme.",
+				"Les formules mensuelle et à vie incluent la même stack de fonctionnalités avec rebuilds NEAC."
 			],
 			"de": [
-				"Eine Lizenz deckt den kompletten Match-Stack auf Windows PC ab.",
-				"Monats- und Lifetime-Pläne enthalten denselben Stack mit NEAC-Rebuilds nach Patches."
+				"Eine Lizenz deckt den kompletten Match-Stack ab: Spieler-ESP mit Distanz, Helden-Marker, 2D-Radar für Flanken und konfigurierbare Soft-Aim-Profile pro Waffe.",
+				"Monats- und Lifetime-Pläne enthalten denselben Feature-Stack mit NEAC-Rebuilds."
 			],
 			"pt": [
-				"Uma licença cobre a stack completa de match no Windows PC.",
-				"Planos mensais e vitalícios incluem o mesmo stack com rebuilds NEAC após patches."
+				"Uma licença cobre a stack completa de match: ESP de jogadores com distância, marcadores de herói, radar 2D para flancos e perfis soft aim configuráveis por arma.",
+				"Planos mensais e vitalícios incluem o mesmo stack de recursos com rebuilds NEAC."
 			],
 			"it": [
-				"Una licenza copre lo stack match completo su Windows PC.",
-				"I piani mensili e lifetime includono lo stesso stack con rebuild NEAC dopo le patch."
+				"Una licenza copre lo stack match completo: ESP giocatori con distanza, marker eroe, radar 2D per i fianchi e profili soft aim configurabili per arma.",
+				"I piani mensili e lifetime includono lo stesso stack di funzioni con rebuild NEAC."
 			],
 			"nl": [
-				"Eén licentie dekt de volledige match-stack op Windows PC.",
-				"Maand- en lifetime-plannen bevatten dezelfde stack met NEAC-rebuilds na patches."
+				"Eén licentie dekt de volledige match-stack: speler-ESP met afstand, hero-markers, 2D-radar voor flanks en configureerbare soft aim-profielen per wapen.",
+				"Maand- en lifetime-plannen bevatten dezelfde feature-stack met NEAC-rebuilds."
 			],
 			"pl": [
-				"Jedna licencja obejmuje pełny stack match na Windows PC.",
-				"Plany miesięczne i lifetime obejmują ten sam stack z rebuildami NEAC po patchach."
+				"Jedna licencja obejmuje pełny stack match: ESP graczy z dystansem, markery bohaterów, radar 2D na flanki i konfigurowalne profile soft aim na broń.",
+				"Plany miesięczne i lifetime obejmują ten sam stack funkcji z rebuildami NEAC."
 			],
 			"ru": [
-				"Одна лицензия покрывает полный match stack на Windows PC.",
-				"Месячные и lifetime-планы включают тот же стек с NEAC rebuilds после патчей."
+				"Одна лицензия покрывает полный match-стек: ESP игроков с дистанцией, маркеры героев, 2D radar для флангов и настраиваемые soft aim профили по оружию.",
+				"Месячные и lifetime-планы включают тот же набор функций с NEAC rebuilds."
 			],
 			"tr": [
-				"Tek lisans Windows PC'de tam match stack'ini kapsar.",
-				"Aylık ve lifetime planlar patch sonrası NEAC rebuilds ile aynı stack'i içerir."
+				"Tek lisans tam match yığınını kapsar: mesafeli oyuncu ESP, kahraman işaretleri, kanat için 2D radar ve silah başına yapılandırılabilir soft aim profilleri.",
+				"Aylık ve lifetime planlar aynı özellik yığınını NEAC rebuilds ile içerir."
 			],
 			"ar": [
-				"ترخيص واحد يغطي stack المباراة الكامل على Windows PC.",
-				"تتضمن خطط الشهرية ومدى الحياة نفس الميزات مع NEAC rebuilds بعد التحديثات."
+				"ترخيص واحد يغطي stack المباراة الكامل: ESP للاعبين مع المسافة وعلامات الأبطال وradar 2D للمناورات وملفات soft aim قابلة للضبط لكل سلاح.",
+				"تتضمن خطط الشهرية ومدى الحياة نفس مجموعة الميزات مع NEAC rebuilds."
 			],
 			"ja": [
-				"1ライセンスで Windows PC 向けのフル match stack をカバーします。",
+				"1ライセンスでフル match stack をカバー: 距離付きプレイヤーESP、ヒーローマーカー、側面用2D radar、武器別soft aimプロファイル。",
 				"月額とライフタイムプランは同じ機能 stack を NEAC rebuilds 付きで含みます。"
 			],
 			"ko": [
-				"하나의 라이선스로 Windows PC에서 전체 match stack을 제공합니다.",
-				"월간 및 lifetime 플랜은 패치 후 NEAC rebuilds가 포함된 동일 stack을 제공합니다."
+				"하나의 라이선스로 전체 match stack: 거리 표시 플레이어 ESP, 영웅 마커, 측면 2D radar, 무기별 soft aim 프로필.",
+				"월간 및 lifetime 플랜은 NEAC rebuilds가 포함된 동일한 기능 stack을 제공합니다."
 			],
 			"zh": [
-				"一份许可证覆盖 Windows PC 上的完整 match stack。",
-				"月付和终身计划包含相同功能 stack，并在补丁后提供 NEAC rebuilds。"
+				"一份许可证覆盖完整 match 套件：带距离的玩家 ESP、英雄标记、侧翼 2D radar 和按武器可调的 soft aim 配置。",
+				"月付和终身计划包含相同功能 stack，并提供 NEAC rebuilds。"
 			],
 			"hi": [
-				"एक लाइसेंस Windows PC पर पूरा match stack कवर करता है।",
-				"Monthly और lifetime plans में patches के बाद NEAC rebuilds के साथ same stack शामिल है।"
+				"एक लाइसेंस पूरा match stack कवर करता है: दूरी के साथ player ESP, hero markers, flanks के लिए 2D radar, और प्रति हथियार soft aim profiles।",
+				"Monthly और lifetime plans में NEAC rebuilds के साथ same feature stack शामिल है।"
 			],
 			"id": [
-				"Satu lisensi mencakup stack match lengkap di Windows PC.",
-				"Paket bulanan dan lifetime mencakup stack yang sama dengan NEAC rebuilds setelah patch."
+				"Satu lisensi mencakup stack match lengkap: ESP pemain dengan jarak, marker hero, radar 2D untuk flank, dan profil soft aim per senjata.",
+				"Paket bulanan dan lifetime mencakup stack fitur yang sama dengan NEAC rebuilds."
 			],
 			"th": [
-				"ใบอนุญาตเดียวครอบคลุม match stack เต็มรูปแบบบน Windows PC",
-				"แผนรายเดือนและตลอดชีพรวม stack เดียวกันพร้อม NEAC rebuilds หลังแพตช์"
+				"ใบอนุญาตเดียวครอบคลุม match stack เต็ม: ESP ผู้เล่นพร้อมระยะ มาร์กเกอร์ฮีโร่ radar 2D สำหรับ flank และโปรไฟล์ soft aim ต่ออาวุธ",
+				"แผนรายเดือนและตลอดชีพรวม feature stack เดียวกันพร้อม NEAC rebuilds"
 			],
 			"vi": [
-				"Một giấy phép bao phủ toàn bộ match stack trên Windows PC.",
-				"Gói tháng và lifetime gồm cùng stack với NEAC rebuilds sau bản vá."
+				"Một giấy phép bao trùm stack match đầy đủ: ESP người chơi kèm khoảng cách, marker tướng, radar 2D cho flank, profile soft aim theo vũ khí.",
+				"Gói tháng và lifetime bao gồm cùng feature stack với NEAC rebuilds."
 			],
 			"uk": [
-				"Одна ліцензія покриває повний match stack на Windows PC.",
-				"Місячні та lifetime плани включають той самий stack з NEAC rebuilds після патчів."
+				"Одна ліцензія покриває повний match stack: ESP гравців з дистанцією, маркери героїв, 2D radar для флангів і профілі soft aim на зброю.",
+				"Місячні та lifetime тарифи включають той самий feature stack з NEAC rebuilds."
 			],
 			"cs": [
-				"Jedna licence pokrývá celý match stack na Windows PC.",
-				"Měsíční a lifetime plány zahrnují stejný stack s NEAC rebuilds po patchech."
+				"Jedna licence pokrývá celý match stack: ESP hráčů s distancí, hero markery, 2D radar pro flanky a konfigurovatelné soft aim profily na zbraň.",
+				"Měsíční i lifetime plány obsahují stejný feature stack s NEAC rebuilds."
 			],
 			"ro": [
-				"O licență acoperă stack-ul complet de match pe Windows PC.",
-				"Planurile lunar și lifetime includ același stack cu NEAC rebuilds după patch-uri."
+				"O licență acoperă stack-ul complet de match: ESP jucători cu distanță, markeri eroi, radar 2D pentru flancuri și profile soft aim per armă.",
+				"Planurile lunare și lifetime includ același feature stack cu NEAC rebuilds."
 			],
 			"sv": [
-				"En licens täcker hela match-stacken på Windows PC.",
-				"Månads- och lifetime-planer inkluderar samma stack med NEAC rebuilds efter patchar."
+				"En licens täcker hela match-stacken: spelar-ESP med avstånd, hjältemarkörer, 2D-radar för flanker och konfigurerbara soft aim-profiler per vapen.",
+				"Månads- och lifetime-planer inkluderar samma feature stack med NEAC rebuilds."
 			]
 		},
 		"2": {
 			"en": [
-				"Each tool has its own deep-dive page if you want details before checkout."
+				"Each tool has its own deep-dive page if you want details before checkout.",
+				"Read ESP, aimbot, radar, and feature guides before you buy."
 			],
 			"es": [
 				"Cada herramienta tiene su propia página detallada si quieres más info antes del checkout."
@@ -1404,7 +1386,8 @@ export const PAGE_CONTENT = {
 		},
 		"3": {
 			"en": [
-				"Naraka uses NEAC. No cheat stays undetected forever — maintenance after patches is what matters. Check the Status page after every Naraka or NEAC update before you load in."
+				"Naraka uses NEAC. No cheat stays undetected forever — maintenance after patches is what matters. Check the Status page after every Naraka or NEAC update before you load in.",
+				"Read the undetected cheats guide and NEAC maintenance notes for the full workflow."
 			],
 			"es": [
 				"Naraka usa NEAC. Ningún cheat permanece indetectable para siempre — lo importante es el mantenimiento tras parches. Revisa la página de Estado tras cada actualización de Naraka o NEAC antes de entrar."
@@ -1472,7 +1455,8 @@ export const PAGE_CONTENT = {
 		},
 		"4": {
 			"en": [
-				"Pick monthly ($35) or lifetime ($150) on the store — same features on both. After checkout you receive license details by email. Follow the setup guide, then check status after major patches."
+				"Pick monthly ($35) or lifetime ($150) on the store — same features on both. After checkout you receive license details by email. Follow the setup guide, then check status after major patches.",
+				"Compare plans, complete setup, and bookmark support for license questions."
 			],
 			"es": [
 				"Elige mensual ($35) o de por vida ($150) en la tienda — mismas funciones en ambos. Tras el checkout recibes la licencia por email. Sigue la guía de instalación y revisa el estado tras parches importantes."
@@ -1900,133 +1884,133 @@ export const PAGE_CONTENT = {
 			"en": [
 				"<a href=\"/updates/\">Live status & patch notes</a>",
 				"<a href=\"/updates/\">Undetected cheats guide</a>",
-				"<a href=\"/neac-bypass/\">NEAC maintenance</a>",
+				"<a href=\"/updates/\">NEAC maintenance</a>",
 				"<a href=\"/faq/\">FAQ before you buy</a>"
 			],
 			"es": [
 				"<a href=\"/updates/\">Estado en vivo y notas de parche</a>",
 				"<a href=\"/updates/\">Guía de trucos indetectables</a>",
-				"<a href=\"/neac-bypass/\">Mantenimiento NEAC</a>",
+				"<a href=\"/updates/\">Mantenimiento NEAC</a>",
 				"<a href=\"/faq/\">FAQ antes de comprar</a>"
 			],
 			"fr": [
 				"<a href=\"/updates/\">Statut en direct et notes de patch</a>",
 				"<a href=\"/updates/\">Guide triches indétectables</a>",
-				"<a href=\"/neac-bypass/\">Maintenance NEAC</a>",
+				"<a href=\"/updates/\">Maintenance NEAC</a>",
 				"<a href=\"/faq/\">FAQ avant achat</a>"
 			],
 			"de": [
 				"<a href=\"/updates/\">Live-Status & Patchnotes</a>",
 				"<a href=\"/updates/\">Undetected Cheats Guide</a>",
-				"<a href=\"/neac-bypass/\">NEAC Wartung</a>",
+				"<a href=\"/updates/\">NEAC Wartung</a>",
 				"<a href=\"/faq/\">FAQ vor dem Kauf</a>"
 			],
 			"pt": [
 				"<a href=\"/updates/\">Status ao vivo e notas de patch</a>",
 				"<a href=\"/updates/\">Guia de cheats indetectáveis</a>",
-				"<a href=\"/neac-bypass/\">Manutenção NEAC</a>",
+				"<a href=\"/updates/\">Manutenção NEAC</a>",
 				"<a href=\"/faq/\">FAQ antes de comprar</a>"
 			],
 			"it": [
 				"<a href=\"/updates/\">Stato live e note patch</a>",
 				"<a href=\"/updates/\">Guida cheat indetectable</a>",
-				"<a href=\"/neac-bypass/\">Manutenzione NEAC</a>",
+				"<a href=\"/updates/\">Manutenzione NEAC</a>",
 				"<a href=\"/faq/\">FAQ prima di acquistare</a>"
 			],
 			"nl": [
 				"<a href=\"/updates/\">Live status en patchnotes</a>",
 				"<a href=\"/updates/\">Undetected cheats gids</a>",
-				"<a href=\"/neac-bypass/\">NEAC onderhoud</a>",
+				"<a href=\"/updates/\">NEAC onderhoud</a>",
 				"<a href=\"/faq/\">FAQ voor aankoop</a>"
 			],
 			"pl": [
 				"<a href=\"/updates/\">Status na żywo i notatki patch</a>",
 				"<a href=\"/updates/\">Przewodnik cheatów undetected</a>",
-				"<a href=\"/neac-bypass/\">Konserwacja NEAC</a>",
+				"<a href=\"/updates/\">Konserwacja NEAC</a>",
 				"<a href=\"/faq/\">FAQ przed zakupem</a>"
 			],
 			"ru": [
 				"<a href=\"/updates/\">Статус онлайн и патч-ноуты</a>",
 				"<a href=\"/updates/\">Гайд undetected читов</a>",
-				"<a href=\"/neac-bypass/\">Обслуживание NEAC</a>",
+				"<a href=\"/updates/\">Обслуживание NEAC</a>",
 				"<a href=\"/faq/\">FAQ перед покупкой</a>"
 			],
 			"tr": [
 				"<a href=\"/updates/\">Canlı durum ve yama notları</a>",
 				"<a href=\"/updates/\">Undetected hile rehberi</a>",
-				"<a href=\"/neac-bypass/\">NEAC bakımı</a>",
+				"<a href=\"/updates/\">NEAC bakımı</a>",
 				"<a href=\"/faq/\">Satın almadan önce SSS</a>"
 			],
 			"ar": [
 				"<a href=\"/updates/\">الحالة المباشرة وملاحظات التصحيح</a>",
 				"<a href=\"/updates/\">دليل الغش غير المكتشف</a>",
-				"<a href=\"/neac-bypass/\">صيانة NEAC</a>",
+				"<a href=\"/updates/\">صيانة NEAC</a>",
 				"<a href=\"/faq/\">الأسئلة الشائعة قبل الشراء</a>"
 			],
 			"ja": [
 				"<a href=\"/updates/\">ライブステータスとパッチノート</a>",
 				"<a href=\"/updates/\">Undetectedチートガイド</a>",
-				"<a href=\"/neac-bypass/\">NEACメンテナンス</a>",
+				"<a href=\"/updates/\">NEACメンテナンス</a>",
 				"<a href=\"/faq/\">購入前FAQ</a>"
 			],
 			"ko": [
 				"<a href=\"/updates/\">실시간 상태 및 패치 노트</a>",
 				"<a href=\"/updates/\">Undetected 치트 가이드</a>",
-				"<a href=\"/neac-bypass/\">NEAC 유지보수</a>",
+				"<a href=\"/updates/\">NEAC 유지보수</a>",
 				"<a href=\"/faq/\">구매 전 FAQ</a>"
 			],
 			"zh": [
 				"<a href=\"/updates/\">实时状态和补丁说明</a>",
 				"<a href=\"/updates/\">Undetected作弊指南</a>",
-				"<a href=\"/neac-bypass/\">NEAC维护</a>",
+				"<a href=\"/updates/\">NEAC维护</a>",
 				"<a href=\"/faq/\">购买前常见问题</a>"
 			],
 			"hi": [
 				"<a href=\"/updates/\">लाइव स्टेटस और पैच नोट्स</a>",
 				"<a href=\"/updates/\">Undetected cheats गाइड</a>",
-				"<a href=\"/neac-bypass/\">NEAC रखरखाव</a>",
+				"<a href=\"/updates/\">NEAC रखरखाव</a>",
 				"<a href=\"/faq/\">खरीदने से पहले FAQ</a>"
 			],
 			"id": [
 				"<a href=\"/updates/\">Status langsung & catatan patch</a>",
 				"<a href=\"/updates/\">Panduan cheat undetected</a>",
-				"<a href=\"/neac-bypass/\">Pemeliharaan NEAC</a>",
+				"<a href=\"/updates/\">Pemeliharaan NEAC</a>",
 				"<a href=\"/faq/\">FAQ sebelum membeli</a>"
 			],
 			"th": [
 				"<a href=\"/updates/\">สถานะสดและบันทึกแพตช์</a>",
 				"<a href=\"/updates/\">คู่มือ cheat undetected</a>",
-				"<a href=\"/neac-bypass/\">การดูแล NEAC</a>",
+				"<a href=\"/updates/\">การดูแล NEAC</a>",
 				"<a href=\"/faq/\">FAQ ก่อนซื้อ</a>"
 			],
 			"vi": [
 				"<a href=\"/updates/\">Trạng thái trực tiếp & ghi chú bản vá</a>",
 				"<a href=\"/updates/\">Hướng dẫn cheat undetected</a>",
-				"<a href=\"/neac-bypass/\">Bảo trì NEAC</a>",
+				"<a href=\"/updates/\">Bảo trì NEAC</a>",
 				"<a href=\"/faq/\">FAQ trước khi mua</a>"
 			],
 			"uk": [
 				"<a href=\"/updates/\">Статус онлайн і патч-ноти</a>",
 				"<a href=\"/updates/\">Гайд undetected чітів</a>",
-				"<a href=\"/neac-bypass/\">Обслуговування NEAC</a>",
+				"<a href=\"/updates/\">Обслуговування NEAC</a>",
 				"<a href=\"/faq/\">FAQ перед покупкою</a>"
 			],
 			"cs": [
 				"<a href=\"/updates/\">Živý stav a patch poznámky</a>",
 				"<a href=\"/updates/\">Průvodce undetected cheaty</a>",
-				"<a href=\"/neac-bypass/\">Údržba NEAC</a>",
+				"<a href=\"/updates/\">Údržba NEAC</a>",
 				"<a href=\"/faq/\">FAQ před nákupem</a>"
 			],
 			"ro": [
 				"<a href=\"/updates/\">Status live și note patch</a>",
 				"<a href=\"/updates/\">Ghid cheats undetected</a>",
-				"<a href=\"/neac-bypass/\">Mentenanță NEAC</a>",
+				"<a href=\"/updates/\">Mentenanță NEAC</a>",
 				"<a href=\"/faq/\">FAQ înainte de cumpărare</a>"
 			],
 			"sv": [
 				"<a href=\"/updates/\">Livestatus och patchanteckningar</a>",
 				"<a href=\"/updates/\">Undetected cheats-guide</a>",
-				"<a href=\"/neac-bypass/\">NEAC-underhåll</a>",
+				"<a href=\"/updates/\">NEAC-underhåll</a>",
 				"<a href=\"/faq/\">FAQ innan köp</a>"
 			]
 		},
@@ -2146,7 +2130,8 @@ export const PAGE_CONTENT = {
 	"naraka-esp": {
 		"0": {
 			"en": [
-				"Boxes, distance, and filters for players, objects, and loot."
+				"Boxes, distance, and filters for players, objects, and loot.",
+				"Toggle categories so only match-critical overlays stay active during rotations."
 			],
 			"es": [
 				"Cajas, distancia y filtros para jugadores, científicos y loot."
@@ -2214,7 +2199,8 @@ export const PAGE_CONTENT = {
 		},
 		"1": {
 			"en": [
-				"Clear bomb sites and grapple routes without flooding the screen."
+				"Clear bomb sites and grapple routes without flooding the screen.",
+				"Tune opacity and filters for arena zones, vault sectors, and high-traffic PvP areas."
 			],
 			"es": [
 				"Limpia zonas de sitios de bomba y grapple routes sin inundar la pantalla."
@@ -2282,7 +2268,8 @@ export const PAGE_CONTENT = {
 		},
 		"2": {
 			"en": [
-				"ESP is included with aimbot and radar in one plan."
+				"ESP is included with aimbot and radar in one plan.",
+				"Compare monthly and lifetime options on the store before checkout."
 			],
 			"es": [
 				"ESP incluido con aimbot y radar en un solo plan."
@@ -2756,7 +2743,8 @@ export const PAGE_CONTENT = {
 	"naraka-aimbot": {
 		"0": {
 			"en": [
-				"Set FOV, smoothness, and bone priority before you queue."
+				"Set FOV, smoothness, and bone priority before you queue.",
+				"Save per-weapon profiles for ARs, SMGs, and long-range rifles."
 			],
 			"es": [
 				"Configura FOV, suavidad y prioridad de huesos antes del match."
@@ -2824,7 +2812,8 @@ export const PAGE_CONTENT = {
 		},
 		"1": {
 			"en": [
-				"Keep settings subtle for longer matches. Raise strength only when you accept more risk."
+				"Keep settings subtle for longer matches. Raise strength only when you accept more risk.",
+				"Soft aim works alongside ESP and radar in the same license."
 			],
 			"es": [
 				"Mantén ajustes sutiles para matches largos. Sube la fuerza solo cuando aceptes más riesgo."
@@ -2892,7 +2881,8 @@ export const PAGE_CONTENT = {
 		},
 		"2": {
 			"en": [
-				"Aimbot ships with ESP and radar in one license."
+				"Aimbot ships with ESP and radar in one license.",
+				"Read the full feature list and compare plans on the store."
 			],
 			"es": [
 				"Aimbot incluido con ESP y radar en una licencia."
@@ -3366,7 +3356,8 @@ export const PAGE_CONTENT = {
 	"radar": {
 		"0": {
 			"en": [
-				"Nearby enemy cues with adjustable range for solo farmers and matchers."
+				"Nearby enemy cues with adjustable range for solo farmers and matchers.",
+				"Directional threat cues for players outside your line of sight."
 			],
 			"es": [
 				"Señales de enemigos cercanos con rango ajustable para farmers y matchers solitarios."
@@ -3434,7 +3425,8 @@ export const PAGE_CONTENT = {
 		},
 		"1": {
 			"en": [
-				"Use radar for threats you cannot see yet. Use ESP when you push."
+				"Use radar for threats you cannot see yet. Use ESP when you push.",
+				"Radar complements ESP markers during squad pushes and zone fights."
 			],
 			"es": [
 				"Usa radar para amenazas que aún no ves. Usa ESP cuando avances."
@@ -3796,7 +3788,9 @@ export const PAGE_CONTENT = {
 	"setup": {
 		"0": {
 			"en": [
-				"Buy a plan first. You get a license by email."
+				"Buy a plan first. You get a license by email.",
+				"Have your order email ready before you start installation.",
+				"Naraka Cheats runs on Windows 10 or 11 (64-bit) with administrator rights for the loader. Close conflicting overlays and aim for 8 GB RAM minimum (16 GB recommended) for smooth ESP in busy melee combats."
 			],
 			"es": [
 				"Compra un plan primero. Recibes la licencia por email."
@@ -3864,7 +3858,8 @@ export const PAGE_CONTENT = {
 		},
 		"1": {
 			"en": [
-				"Run the loader as admin, paste your license, then launch Naraka."
+				"Run the loader as admin, paste your license, then launch Naraka.",
+				"Download the loader from your delivery email and follow the steps in order."
 			],
 			"es": [
 				"Ejecuta el loader como admin, pega tu licencia y lanza Naraka."
@@ -3891,7 +3886,7 @@ export const PAGE_CONTENT = {
 				"Запустите loader от админа, вставьте лицензию, запустите Naraka."
 			],
 			"tr": [
-				"Loader'ı yönetici olarak çalıştırın, lisansı yapıştırın, Narakaı başlatın."
+				"Loader'ı yönetici olarak çalıştırın, lisansı yapıştırın, Naraka'ı başlatın."
 			],
 			"ar": [
 				"شغّل loader كمسؤول، الصق الترخيص، ثم شغّل Naraka."
@@ -3932,7 +3927,8 @@ export const PAGE_CONTENT = {
 		},
 		"2": {
 			"en": [
-				"Check Status after a patch. Email support@narakacheats.org with your order ID."
+				"Check Status after a patch. Email support@narakacheats.org with your order ID.",
+				"Include your Windows version and what you already tried for faster replies."
 			],
 			"es": [
 				"Revisa Estado tras un parche. Email a support@narakacheats.org con tu ID de pedido."
@@ -4406,7 +4402,8 @@ export const PAGE_CONTENT = {
 	"support": {
 		"0": {
 			"en": [
-				"Email support@narakacheats.org. Include your order ID and a short note about the issue."
+				"Email support@narakacheats.org. Include your order ID and a short note about the issue.",
+				"We review support requests daily for delivery, billing, and setup issues."
 			],
 			"es": [
 				"Email a support@narakacheats.org. Incluye tu ID de pedido y una nota breve sobre el problema."
@@ -4474,7 +4471,8 @@ export const PAGE_CONTENT = {
 		},
 		"1": {
 			"en": [
-				"Check FAQ and Status before you write. Many setup questions are already covered."
+				"Check FAQ and Status before you write. Many setup questions are already covered.",
+				"Self-service guides often resolve activation issues faster than a new ticket. For patch timing, follow official Naraka channels on Riot and the <a href=\"https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/\" target=\"_blank\" rel=\"noopener noreferrer\">official site</a>."
 			],
 			"es": [
 				"Revisa FAQ y Estado antes de escribir. Muchas dudas de instalación ya están cubiertas."
@@ -4836,7 +4834,8 @@ export const PAGE_CONTENT = {
 	"faq": {
 		"0": {
 			"en": [
-				"You get a digital license by email after payment."
+				"You get a digital license by email after payment.",
+				"Keep your order confirmation email for support and activation."
 			],
 			"es": [
 				"Recibes una licencia digital por email tras el pago."
@@ -4904,7 +4903,8 @@ export const PAGE_CONTENT = {
 		},
 		"1": {
 			"en": [
-				"Follow Setup after you buy. Check Status after big Naraka or NEAC patches."
+				"Follow Setup after you buy. Check Status after big Naraka or NEAC patches.",
+				"Maintenance rebuilds publish on the Status page when patches require updates."
 			],
 			"es": [
 				"Sigue Instalación tras comprar. Revisa Estado tras parches grandes de Naraka o NEAC."
@@ -4972,7 +4972,8 @@ export const PAGE_CONTENT = {
 		},
 		"2": {
 			"en": [
-				"Read the refund policy before you buy if you need details."
+				"Read the refund policy before you buy if you need details.",
+				"Contact support with your order ID for billing or delivery questions."
 			],
 			"es": [
 				"Lee la política de reembolso antes de comprar si necesitas detalles."

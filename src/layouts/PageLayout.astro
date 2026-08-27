@@ -198,7 +198,7 @@ const useHomeHero =
 		</section>
 
 		<div class="shell page__wrap">
-			<article class="article">
+			<article class:list={['article', pageId === 'hacks' && 'article--guide']}>
 				<slot />
 				{showRelatedPages && pageId && (
 					<RelatedPages locale={locale} pageId={pageId} />
@@ -434,6 +434,114 @@ const useHomeHero =
 			column-gap: 1.25rem;
 			row-gap: 0.65rem;
 		}
+	}
+
+	.article--guide {
+		gap: 1.35rem;
+	}
+
+	.article--guide :global(.card-panel) {
+		padding: 1.5rem 1.55rem;
+	}
+
+	.article--guide :global(.card-panel__body) {
+		display: grid;
+	}
+
+	.article--guide :global(.card-panel--intro) {
+		border-left: 3px solid var(--magenta);
+		background: linear-gradient(
+			135deg,
+			color-mix(in srgb, var(--magenta) 6%, var(--bg-panel)),
+			var(--bg-panel)
+		);
+	}
+
+	.article--guide :global(.card-panel--intro h2),
+	.article--guide :global(.card-panel--features h2) {
+		font-size: 1.28rem;
+	}
+
+	.article--guide :global(.card-panel--intro p:first-child) {
+		font-size: 1.02rem;
+		line-height: 1.7;
+		color: var(--ink);
+	}
+
+	.article--guide :global(.card-panel--features) {
+		border-color: color-mix(in srgb, var(--magenta) 22%, var(--line));
+		background: linear-gradient(
+			180deg,
+			color-mix(in srgb, var(--magenta) 4%, var(--bg-panel)),
+			var(--bg-panel)
+		);
+	}
+
+	.article--guide :global(.card-panel--features p:first-child) {
+		font-size: 1rem;
+		color: var(--ink);
+	}
+
+	.article--guide :global(.card-panel--features p + p) {
+		margin-top: 0.65rem;
+		padding-top: 0.65rem;
+		border-top: 1px solid var(--line-soft);
+		font-size: 0.925rem;
+		color: var(--ink-muted);
+	}
+
+	.article--guide :global(.feature-grid) {
+		margin-top: 1.1rem;
+		padding-top: 0;
+		border-top: none;
+		grid-template-columns: 1fr;
+		gap: 0.6rem;
+	}
+
+	@media (min-width: 640px) {
+		.article--guide :global(.feature-grid) {
+			grid-template-columns: repeat(2, minmax(0, 1fr));
+		}
+	}
+
+	@media (min-width: 768px) {
+		.article--guide :global(.feature-grid) {
+			grid-template-columns: repeat(6, minmax(0, 1fr));
+		}
+
+		.article--guide :global(.feature-grid li:nth-child(-n + 3)) {
+			grid-column: span 2;
+		}
+
+		.article--guide :global(.feature-grid li:nth-child(4)),
+		.article--guide :global(.feature-grid li:nth-child(5)) {
+			grid-column: span 3;
+		}
+	}
+
+	.article--guide :global(.feature-grid li) {
+		padding: 0.85rem 1rem 0.85rem 2.35rem;
+		border: 1px solid var(--line);
+		border-radius: var(--radius-sm);
+		background: var(--bg-elevated);
+		font-size: 0.9375rem;
+		font-weight: 500;
+		transition:
+			border-color 0.2s ease,
+			background 0.2s ease;
+	}
+
+	.article--guide :global(.feature-grid li:hover) {
+		border-color: color-mix(in srgb, var(--magenta) 35%, var(--line));
+		background: color-mix(in srgb, var(--magenta) 5%, var(--bg-elevated));
+	}
+
+	.article--guide :global(.feature-grid li::before) {
+		top: 1.05rem;
+		left: 1rem;
+		width: 0.45rem;
+		height: 0.45rem;
+		box-shadow: 0 0 0 3px color-mix(in srgb, var(--magenta) 18%, transparent);
 	}
 
 	.article :global(li) {
