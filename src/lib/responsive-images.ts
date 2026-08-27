@@ -47,6 +47,7 @@ export function contentSrcSet(baseSrc: string): string | undefined {
  * Homepage / banner hero — wide banner (~2.37:1); LCP uses the 1199w WebP variant.
  */
 export const heroResponsive: ResponsiveWidth[] = [
+	{ src: '/images/naraka-cheats-hero-480w.webp', width: 480 },
 	{ src: '/images/naraka-cheats-hero-640w.webp', width: 640 },
 	{ src: '/images/naraka-cheats-hero-1024w.webp', width: 1024 },
 	{ src: '/images/naraka-cheats-hero-1199w.webp', width: 1199 },
@@ -57,7 +58,7 @@ export const heroDesktopResponsive: ResponsiveWidth[] = heroResponsive;
 /** Default LCP src — full native-width WebP for retina desktops. */
 export const heroSrc = '/images/naraka-cheats-hero-1199w.webp';
 export const heroSrcSet = buildSrcSet(heroResponsive);
-export const heroSizes = '100vw';
+export const heroSizes = '(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 1199px';
 
 /** LCP preload — same compressed WebP. */
 export const heroPreloadSrc = heroSrc;

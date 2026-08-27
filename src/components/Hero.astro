@@ -39,48 +39,52 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 	.hero {
 		--hero-pad-y: clamp(1rem, 2vw, 1.75rem);
 		--hero-stack: clamp(0.5rem, 1.1vw, 0.75rem);
-		/*
-		 * Wide banner bar (~3.15:1). Image is cropped with cover; character stays on the right.
-		 */
-		--hero-ratio: 3.15 / 1;
+		--hero-ratio: 1199 / 506;
 		position: relative;
 		isolation: isolate;
 		display: grid;
-		align-items: center;
+		width: 100%;
 		overflow: hidden;
 		background: #070707;
-		aspect-ratio: var(--hero-ratio);
-		width: 100%;
-		height: auto;
-		min-height: 0;
-		max-height: clamp(14rem, 28vw, 21rem);
+	}
+
+	.hero__media,
+	.hero__veil,
+	.hero__content {
+		grid-area: 1 / 1;
 	}
 
 	.hero__media {
-		position: absolute;
-		inset: 0;
+		position: relative;
 		z-index: 0;
+		width: 100%;
+		min-width: 0;
 	}
 
 	.hero__media picture,
 	.hero__media img {
 		display: block;
 		width: 100%;
-		height: 100%;
+		height: auto;
 	}
 
 	.hero__media img {
-		object-fit: cover;
-		object-position: 72% center;
+		width: 100%;
+		height: auto;
+		object-fit: contain;
+		object-position: center;
 		image-rendering: auto;
 		transform: translateZ(0);
 		animation: hero-in 0.9s ease-out both;
 	}
 
 	.hero__veil {
-		position: absolute;
-		inset: 0;
+		position: relative;
 		z-index: 1;
+		align-self: stretch;
+		justify-self: stretch;
+		width: 100%;
+		height: 100%;
 		pointer-events: none;
 		background: linear-gradient(
 			90deg,
@@ -97,6 +101,8 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 		pointer-events: none;
 		padding-block: var(--hero-pad-y);
 		align-self: center;
+		justify-self: start;
+		width: 100%;
 		/* Sit a touch above true center so title reads mid-image */
 		transform: translateY(clamp(-1.5rem, -3vw, -0.35rem));
 		display: grid;
@@ -288,31 +294,24 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 	}
 
 	/*
-	 * Phones / small tablets: stop using the ultra-wide 3.15:1 bar.
-	 * That ratio collapses to ~120px tall on a 390px phone and clips the CTA.
-	 * Mobile = taller full-bleed panel; height grows with copy.
+	 * Mobile: full image on top (no crop), copy overlays the lower third.
 	 */
 	@media (max-width: 900px) {
 		.hero {
-			aspect-ratio: auto;
-			min-height: 0;
-			max-height: none;
-			height: auto;
-			display: block;
-			overflow: hidden;
+			display: grid;
 		}
 
 		.hero__media {
 			position: relative;
 			inset: auto;
 			width: 100%;
-			aspect-ratio: var(--hero-ratio);
-			max-height: min(46vw, 12rem);
 		}
 
 		.hero__media img {
-			object-fit: cover;
-			object-position: 72% center;
+			width: 100%;
+			height: auto;
+			object-fit: contain;
+			object-position: center;
 		}
 
 		.hero__veil {
@@ -329,11 +328,12 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 			position: relative;
 			z-index: 2;
 			transform: none;
+			align-self: end;
 			width: 100%;
-			min-height: clamp(15rem, 42svh, 22rem);
+			min-height: 0;
 			display: flex;
 			align-items: flex-end;
-			padding-block: 1.1rem 1rem;
+			padding-block: 1.35rem 1.2rem;
 			padding-bottom: max(1.2rem, env(safe-area-inset-bottom, 0px));
 			box-sizing: border-box;
 		}
@@ -390,8 +390,7 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 
 	@media (max-width: 480px) {
 		.hero__content {
-			min-height: clamp(14rem, 48svh, 20rem);
-			padding-block: 1rem 0.95rem;
+			padding-block: 1.2rem 1.1rem;
 		}
 
 		.hero__brand {
@@ -413,10 +412,6 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 	}
 
 	@media (max-width: 360px) {
-		.hero__content {
-			min-height: clamp(13rem, 50svh, 18rem);
-		}
-
 		.hero__brand {
 			font-size: 1.45rem;
 		}
