@@ -4,7 +4,7 @@ type Props = {
 	className?: string;
 };
 
-/** Classy minimal tech mark — clear geometric N for Naraka. */
+/** Classy minimal tech mark — refined geometric N for Naraka. */
 export default function BrandLogo({ alt, className }: Props) {
 	return (
 		<svg
@@ -16,25 +16,35 @@ export default function BrandLogo({ alt, className }: Props) {
 			role={alt ? 'img' : undefined}
 			aria-label={alt}
 		>
+			{/* Soft frame */}
 			<rect
-				x="1"
-				y="1"
-				width="38"
-				height="38"
-				rx="9"
-				fill="currentColor"
-				fillOpacity="0.05"
+				x="1.25"
+				y="1.25"
+				width="37.5"
+				height="37.5"
+				rx="11"
 				stroke="currentColor"
-				strokeOpacity="0.16"
-				strokeWidth="1.25"
+				strokeOpacity="0.18"
+				strokeWidth="1"
 			/>
-			{/* Geometric N: left stem, diagonal, right stem */}
+			{/* Inner hairline for depth */}
+			<rect
+				x="3.5"
+				y="3.5"
+				width="33"
+				height="33"
+				rx="9"
+				stroke="currentColor"
+				strokeOpacity="0.06"
+				strokeWidth="0.75"
+			/>
+			{/* Refined N — balanced stems + clean diagonal */}
 			<path
-				d="M12 28V12h3.2L24.8 24.2V12H28v16h-3.2L14.8 15.8V28H12z"
+				d="M13.2 27.4V12.6h2.1L24.7 24.1V12.6h2.1v14.8h-2.1L15.3 16V27.4h-2.1z"
 				fill="currentColor"
 			/>
-			{/* Red accent bar under the mark */}
-			<rect x="12" y="30.2" width="16" height="1.6" rx="0.8" fill="var(--magenta, #e50920)" />
+			{/* Quiet red accent — small corner node */}
+			<circle cx="28.6" cy="12.6" r="1.35" fill="var(--magenta, #e50920)" />
 		</svg>
 	);
 }

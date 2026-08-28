@@ -245,17 +245,21 @@ const links = [
 		align-items: center;
 		justify-content: center;
 		flex-shrink: 0;
-		width: 2.35rem;
-		height: 2.35rem;
-		margin-right: 0.2rem;
-		color: var(--ink);
+		width: 2.2rem;
+		height: 2.2rem;
+		margin-right: 0.25rem;
+		color: var(--ink-heading);
 		text-decoration: none;
-		transition: opacity 0.15s ease, transform 0.15s ease;
+		transition:
+			opacity 0.2s ease,
+			transform 0.2s ease,
+			color 0.2s ease;
 	}
 
 	.site-brand:hover {
-		opacity: 0.9;
-		transform: translateY(-1px);
+		opacity: 1;
+		color: #fff;
+		transform: translateY(-0.5px);
 	}
 
 	.site-brand__mark {
@@ -515,8 +519,8 @@ const links = [
 
 	@media (max-width: 480px) {
 		.site-brand {
-			width: 2.15rem;
-			height: 2.15rem;
+			width: 2rem;
+			height: 2rem;
 		}
 
 		.site-tools {
