@@ -1,6 +1,9 @@
 /**
- * Near-duplicate pageIds → stronger pillars.
- * Kept free of routing imports to avoid circular deps with localizeInternalHref.
+ * Near-duplicate pageIds → stronger pillars (301 in production via Worker + path-redirects).
+ *
+ * Long-tail URLs (/naraka-wallhack/, /naraka-mod-menu/, /naraka-cheat-download/, etc.)
+ * stay on 301 — not thin indexable stubs — to consolidate link equity on pillar pages
+ * and avoid SERP cannibalization against /naraka-esp/, /naraka-aimbot/, /, and /naraka-cheats/.
  */
 export const cannibalRedirectTargets = {
 	'mod-menu': 'home',

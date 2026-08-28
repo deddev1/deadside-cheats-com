@@ -106,30 +106,30 @@ export const brand = {
 	 * Aim ~50–60 chars titles, ~140–160 chars descriptions.
 	 */
 	seo: {
-		homeTitle: 'Naraka Cheats 2026 | Undetected ESP, Aimbot & Radar',
+		homeTitle: 'Naraka Bladepoint Cheats 2026 | ESP, Aimbot & Radar',
 		homeDescription:
-			'Buy undetected Naraka cheats at narakacheats.org — ESP, aimbot, wallhack & radar for PC. NEAC updates included. Plans from $35/month on Windows.',
-		featuresTitle: 'Naraka Cheats Features | ESP, Aimbot & Radar',
+			'Buy undetected Naraka Bladepoint cheats — ESP, aimbot, wallhack & radar for ranked & Showdown on PC. NEAC updates included. Plans from $35/month.',
+		featuresTitle: 'Naraka Bladepoint Cheats Features | ESP & Aimbot',
 		featuresDescription:
-			'Full Naraka cheats feature list — ESP wallhack, soft aim, 2D radar & mod menu toggles on PC. {antiCheat} maintenance and setup guides at narakacheats.org.',
-		storeTitle: 'Naraka Cheats Pricing | $35/mo or $150 Lifetime',
+			'Full Naraka Bladepoint cheats feature list — ESP wallhack, soft aim, 2D radar & toggles for ranked & Showdown on PC. NEAC maintenance at narakacheats.org.',
+		storeTitle: 'Naraka Bladepoint Cheats Pricing | $35/mo Lifetime',
 		storeDescription:
-			'Buy Naraka cheats at narakacheats.org — $35/month or $150 lifetime. ESP, aimbot & radar on PC. Same features, instant digital delivery worldwide.',
+			'Buy Naraka Bladepoint cheats — $35/month or $150 lifetime. ESP, aimbot & radar for ranked & Showdown on PC. Instant digital delivery worldwide.',
 		statusTitle: 'Naraka Status | Undetected {antiCheat} Updates',
 		statusDescription:
 			'Live status after {game} & {antiCheat} patches. Check undetected ESP, aimbot & radar rebuilds on PC before you queue. Status updated at narakacheats.org.',
-		previewTitle: 'Naraka Cheats | ESP, Aimbot & Wallhack Guide',
+		previewTitle: 'Naraka Bladepoint Cheats | ESP, Aimbot & Radar Guide',
 		previewDescription:
-			'Naraka cheats guide — undetected ESP wallhack, soft aim, radar & {antiCheat} rebuilds on PC. Compare features & buy from $35 at narakacheats.org today.',
+			'Naraka Bladepoint cheats guide — undetected ESP wallhack, soft aim, radar & {antiCheat} rebuilds for ranked & Showdown on PC. Buy from $35 at narakacheats.org.',
 		setupTitle: 'Naraka Cheats Setup | Windows PC Install Guide',
 		setupDescription:
 			'Install {brand} on PC — activate ESP, soft aim & radar step by step. Setup guide at narakacheats.org. Check {antiCheat} status before your first match.',
 		supportTitle: 'Naraka Cheats Support | License & Setup Help',
 		supportDescription:
 			'Support for license delivery, ESP setup & billing on PC. Email {email} with your order ID. Fast help at narakacheats.org/support before you play.',
-		faqTitle: 'Naraka Cheats FAQ | ESP, Aimbot & {antiCheat}',
+		faqTitle: 'Naraka Bladepoint Cheats FAQ | ESP, Aimbot & NEAC',
 		faqDescription:
-			'FAQ for naraka cheats — delivery, setup, undetected status, {antiCheat} updates & pricing on PC. Read answers at narakacheats.org before you buy today.',
+			'FAQ for Naraka Bladepoint cheats — delivery, setup, ranked & Showdown use, {antiCheat} updates & pricing on PC. Answers at narakacheats.org before you buy.',
 		reviewsTitle: 'Naraka Cheats Reviews | Bladepoint Hacks & Cheats',
 		reviewsDescription:
 			'Real buyer reviews for Naraka cheats and Naraka Bladepoint hacks — ESP, soft aim, radar & {antiCheat} maintenance on PC. See license holder feedback at narakacheats.org.',

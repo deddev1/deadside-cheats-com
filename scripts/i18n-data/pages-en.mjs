@@ -3,10 +3,10 @@ import { HERO_IMAGES, clampTitle, clampDesc, section, stripZadeyoFromMeta, EXT }
 /** Richest English page content — source of truth for structure. */
 export const enPages = {
 	home: {
-		title: 'Naraka Cheats 2026 | Undetected ESP, Aimbot & Radar',
+		title: 'Naraka Bladepoint Cheats 2026 | ESP, Aimbot & Radar',
 		description:
-			'Buy undetected Naraka cheats at narakacheats.org — ESP, aimbot, wallhack & radar for PC. NEAC updates included. From $35/month.',
-		h1: 'Naraka Cheats',
+			'Buy undetected Naraka Bladepoint cheats — ESP, aimbot, wallhack & radar for ranked & Showdown on PC. NEAC updates included. From $35/month.',
+		h1: 'Naraka Bladepoint Cheats',
 		intro:
 			'Naraka Cheats is the undetected Naraka cheats and naraka cheats package for Windows PC — ESP wallhack, 2D radar, and soft aim with NEAC maintenance after every major patch.',
 		imageAlt: 'Naraka characters in front of a glowing red neon logo — Naraka Cheats hero',

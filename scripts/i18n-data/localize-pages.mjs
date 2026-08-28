@@ -60,10 +60,10 @@ function localizeMeta(enPage, locale, pageKey) {
 		title: clampTitle(stripZadeyoFromMeta(`${topicName} | ${suffix}`)),
 		description: clampDesc(
 			stripZadeyoFromMeta(
-				`${topicName} for Naraka Bladepoint on Windows PC — ${focus}. ${p.delivery}. ${p.undetected}. Official naraka cheats at narakacheats.org.`,
+				`${topicName} for Naraka Bladepoint ranked & Showdown on Windows PC — ${focus}. ${p.delivery}. ${p.undetected}. Official naraka cheats at narakacheats.org.`,
 			),
 		),
-		h1: topicName,
+		h1: `${topicName} — ${suffix}`,
 		intro: p.s1(`${topicName}. ${focus}.`),
 		imageAlt: PAGE_IMAGE_ALTS[pageKey] || `${topicName} — Naraka Cheats`,
 		galleryTitle: topicName,

@@ -17,10 +17,10 @@ export const SIMPLE_PAGE_IDS = [
 
 export const simplePagesEn = {
 	features: {
-		title: 'Naraka Cheats Features | ESP, Aimbot & Radar',
+		title: 'Naraka Bladepoint Cheats Features | ESP, Aimbot & Radar',
 		description:
-			'Full Naraka cheats feature list — ESP wallhack, soft aim, 2D radar & mod menu toggles on PC. NEAC maintenance at narakacheats.org.',
-		h1: 'Features',
+			'Full Naraka Bladepoint cheats feature list — ESP wallhack, soft aim, 2D radar & toggles for ranked & Showdown on PC. NEAC maintenance at narakacheats.org.',
+		h1: 'Naraka Cheats Features — Full Control List',
 		intro: 'Everything included in one license for Naraka on Windows PC.',
 		ctaPrimary: 'Get Access',
 		ctaSecondary: 'View store',
@@ -80,10 +80,10 @@ export const simplePagesEn = {
 		],
 	},
 	pricing: {
-		title: 'Naraka Cheats Pricing | $35/mo or $150 Lifetime',
+		title: 'Naraka Bladepoint Cheats Pricing | $35/mo or $150',
 		description:
-			'Buy Naraka cheats at narakacheats.org — $35/month or $150 lifetime. ESP, aimbot & radar on PC. Same features, instant delivery.',
-		h1: 'Store',
+			'Buy Naraka Bladepoint cheats — $35/month or $150 lifetime. ESP, aimbot & radar for ranked & Showdown on PC. Same features, instant delivery.',
+		h1: 'Naraka Cheats Pricing — Monthly & Lifetime',
 		intro: 'Monthly and lifetime plans with the same ESP, soft aim, and radar stack.',
 		ctaPrimary: 'Get Access',
 		ctaSecondary: 'Setup guide',
@@ -162,10 +162,10 @@ export const simplePagesEn = {
 		],
 	},
 	hacks: {
-		title: 'Naraka Cheats Guide | ESP, Aimbot & Wallhack',
+		title: 'Naraka Bladepoint Cheats Guide | ESP, Aimbot & Radar',
 		description:
-			'Naraka cheats guide — undetected ESP wallhack, soft aim, radar & NEAC rebuilds on PC. Compare features & buy from $35 at narakacheats.org.',
-		h1: 'Naraka Cheats — Full Guide',
+			'Naraka Bladepoint cheats guide — undetected ESP wallhack, soft aim, radar & NEAC rebuilds for ranked & Showdown on PC. Buy from $35 at narakacheats.org.',
+		h1: 'Naraka Bladepoint Cheats — Full Guide',
 		intro:
 			'Naraka cheats add ESP, radar, and soft aim on top of the base game. This page explains what naraka cheats are, what Naraka Cheats includes, how NEAC maintenance works, and where to go next before you buy.',
 		ctaPrimary: 'Get Access',
@@ -235,10 +235,10 @@ export const simplePagesEn = {
 		],
 	},
 	'naraka-esp': {
-		title: 'Naraka ESP | Wallhack & Player Boxes | Naraka Cheats',
+		title: 'Naraka Bladepoint ESP | Wallhack & Player Boxes',
 		description:
-			'Naraka ESP wallhack — player boxes, hero markers & distance tags on PC. Undetected naraka cheats with aimbot & radar. Shop at narakacheats.org.',
-		h1: 'ESP',
+			'Naraka Bladepoint ESP wallhack — player boxes, hero markers & distance for ranked & Showdown on PC. Bundled with aimbot & radar at narakacheats.org.',
+		h1: 'Naraka ESP — Player Boxes & Wallhack',
 		intro: 'See players and loot through walls during Naraka matches. Part of the same Naraka Cheats license.',
 		ctaPrimary: 'Get Access',
 		ctaSecondary: 'Naraka Cheats overview',
@@ -276,10 +276,10 @@ export const simplePagesEn = {
 		],
 	},
 	'naraka-aimbot': {
-		title: 'Naraka Aimbot | Soft Aim & FOV Settings | Naraka Cheats',
+		title: 'Naraka Bladepoint Aimbot | Soft Aim & FOV Settings',
 		description:
-			'Naraka aimbot with soft aim, FOV, bone priority & hotkeys on PC. Undetected Naraka Cheats with ESP & radar included. narakacheats.org.',
-		h1: 'Aimbot',
+			'Naraka Bladepoint aimbot with soft aim, FOV & bone priority for ranked melee fights on PC. Undetected package with ESP & radar at narakacheats.org.',
+		h1: 'Naraka Aimbot — Soft Aim for Windows PC',
 		intro: 'Soft aim and aim assist you can tune for Naraka. Included in the same Naraka Cheats license.',
 		ctaPrimary: 'Get Access',
 		ctaSecondary: 'Naraka Cheats overview',
@@ -317,10 +317,10 @@ export const simplePagesEn = {
 		],
 	},
 	radar: {
-		title: 'Naraka Radar Hack | 2D Threat Map | Naraka Cheats',
+		title: 'Naraka Bladepoint Radar Hack | 2D Threat Map',
 		description:
-			'2D radar hack for flank awareness on PC. Bundled with ESP wallhack & soft aim in one license. NEAC maintenance at narakacheats.org.',
-		h1: 'Radar',
+			'2D radar hack for flank reads in Naraka Bladepoint ranked & Showdown on PC. Bundled with ESP wallhack & soft aim in one license at narakacheats.org.',
+		h1: 'Naraka Radar Hack — 2D Threat Awareness',
 		intro: 'A simple 2D radar for threats outside your view. Included in the same Naraka Cheats license.',
 		ctaPrimary: 'Get Access',
 		ctaSecondary: 'Naraka Cheats overview',
@@ -417,10 +417,10 @@ export const simplePagesEn = {
 		],
 	},
 	faq: {
-		title: 'Naraka Cheats FAQ | ESP, Aimbot & NEAC',
+		title: 'Naraka Bladepoint Cheats FAQ | ESP, Aimbot & NEAC',
 		description:
-			'FAQ for naraka cheats — delivery, setup, undetected status, NEAC updates & pricing on PC. Answers at narakacheats.org before you buy.',
-		h1: 'FAQ',
+			'FAQ for Naraka Bladepoint cheats — delivery, setup, ranked & Showdown use, NEAC updates & pricing on PC. Answers at narakacheats.org before you buy.',
+		h1: 'Naraka Cheats FAQ — Common Questions',
 		intro: 'Common questions about Naraka Cheats — delivery, setup, updates, and refunds.',
 		ctaPrimary: 'Get Access',
 		ctaSecondary: 'Support',

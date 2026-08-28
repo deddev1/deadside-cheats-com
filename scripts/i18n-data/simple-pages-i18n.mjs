@@ -8,6 +8,15 @@ import { FOCUS_I18N } from './focus-i18n.mjs';
 import { simplePagesEn } from './simple-pages-en.mjs';
 import { PAGE_CONTENT } from './simple-page-content.mjs';
 import { clampTitle, clampDesc, stripZadeyoFromMeta } from './constants.mjs';
+import { PAGE_META_TAILS, SUFFIX_I18N, TOPIC_NAMES } from './pages-i18n.mjs';
+
+/** Align visible H1 with title intent: topic + localized suffix. */
+function modulePageH1(pageId, locale) {
+	const topic = TOPIC_NAMES[pageId]?.[locale] ?? TOPIC_NAMES[pageId]?.en;
+	const suffix = SUFFIX_I18N[locale]?.[pageId] ?? PAGE_META_TAILS[pageId]?.suffix;
+	if (!topic || !suffix) return null;
+	return `${topic} — ${suffix}`;
+}
 
 /** Per-locale UI labels used across simple pages. */
 const UI = {
@@ -207,7 +216,7 @@ function buildFeatures(locale, u, p) {
 		return {
 			title: clampTitle(`${u.features} 2026 | ESP, Aimbot & Radar | Naraka Cheats`),
 			description: clampDesc(stripZadeyoFromMeta(`${u.features}: ${focus}. ${p.delivery}. ${p.undetected}.`)),
-			h1: u.features,
+			h1: modulePageH1('features', locale) ?? u.features,
 			intro: p.s1(`${u.features} für Naraka auf ${p.win}.`),
 			ctaPrimary: u.buy,
 			ctaSecondary: u.viewStore,
@@ -224,7 +233,7 @@ function buildFeatures(locale, u, p) {
 	return {
 		title: clampTitle(`${u.features} 2026 | ESP, Aimbot & Radar | Naraka Cheats`),
 		description: clampDesc(stripZadeyoFromMeta(`${u.features}: ${focus}. ${p.delivery}. ${p.undetected}.`)),
-		h1: u.features,
+		h1: modulePageH1('features', locale) ?? u.features,
 		intro: p.s1(`${u.features} für Naraka auf ${p.win}.`),
 		ctaPrimary: u.buy,
 		ctaSecondary: u.viewStore,
@@ -262,22 +271,17 @@ export function buildSimplePagesForLocale(locale) {
 	for (const [pageId, enPage] of Object.entries(simplePagesEn)) {
 		if (pageId === 'features') continue;
 		const focus = FOCUS_I18N[locale]?.[pageId] ?? pageId;
-		const h1Map = {
-			features: u.features, pricing: u.store, updates: u.status, hacks: u.fullGuide,
-			'naraka-esp': 'ESP', 'naraka-aimbot': 'Aimbot', radar: 'Radar', setup: u.setup,
-			support: u.support, faq: u.faq,
-		};
-		const h1 = h1Map[pageId] ?? enPage.h1;
+		const h1 = modulePageH1(pageId, locale) ?? enPage.h1;
 		pages[pageId] = {
 			...enPage,
 			title: clampTitle(simplePageTitle(h1, enPage.title)),
 			description: clampDesc(
 				stripZadeyoFromMeta(
-					`${h1} for Naraka Bladepoint on Windows PC — ${focus}. ${p.delivery}. Official naraka cheats at narakacheats.org.`,
+					`${h1} for Naraka Bladepoint ranked & Showdown on Windows PC — ${focus}. ${p.delivery}. Official naraka cheats at narakacheats.org.`,
 				),
 			),
 			h1,
-			intro: p.s1(`${h1Map[pageId] ?? enPage.h1}. ${focus}.`),
+			intro: p.s1(`${h1}. ${focus}.`),
 			ctaPrimary: u.buy,
 			galleryTitle: u.inGame,
 			sections: enPage.sections.map((sec) => locSection({ ...sec, h2: sec.h2 }, locale)),
@@ -314,7 +318,7 @@ function getNativeSimpleContent(locale, u, p) {
 
 	// Pricing
 	mk('pricing', {
-		h1: u.store,
+		h1: modulePageH1('pricing', L) ?? u.store,
 		intro: p.s1(`${u.store} — ${p.monthly} y ${p.lifetime}.`),
 		ctaSecondary: u.setupGuide,
 		sections: [
@@ -349,7 +353,7 @@ function getNativeSimpleContent(locale, u, p) {
 	});
 
 	mk('naraka-esp', {
-		h1: 'ESP',
+		h1: modulePageH1('naraka-esp', L) ?? 'Naraka ESP',
 		intro: sectionParas(L, 'naraka-esp', 'intro', p)[0],
 		sections: [
 			{ h2: sectionTitle(L, 'whatEspShows'), paragraphs: sectionParas(L, 'naraka-esp', 0, p), list: sectionList(L, 'naraka-esp', 0) },
@@ -359,7 +363,7 @@ function getNativeSimpleContent(locale, u, p) {
 	});
 
 	mk('naraka-aimbot', {
-		h1: 'Aimbot',
+		h1: modulePageH1('naraka-aimbot', L) ?? 'Naraka Aimbot',
 		intro: sectionParas(L, 'naraka-aimbot', 'intro', p)[0],
 		sections: [
 			{ h2: sectionTitle(L, 'controls'), paragraphs: sectionParas(L, 'naraka-aimbot', 0, p), list: sectionList(L, 'naraka-aimbot', 0) },
@@ -369,7 +373,7 @@ function getNativeSimpleContent(locale, u, p) {
 	});
 
 	mk('radar', {
-		h1: 'Radar',
+		h1: modulePageH1('radar', L) ?? 'Radar Hack',
 		intro: sectionParas(L, 'radar', 'intro', p)[0],
 		sections: [
 			{ h2: sectionTitle(L, 'whatItShows'), paragraphs: sectionParas(L, 'radar', 0, p), list: sectionList(L, 'radar', 0) },
@@ -399,7 +403,7 @@ function getNativeSimpleContent(locale, u, p) {
 	});
 
 	mk('faq', {
-		h1: u.faq,
+		h1: modulePageH1('faq', L) ?? u.faq,
 		intro: sectionParas(L, 'faq', 'intro', p)[0],
 		ctaSecondary: u.support,
 		sections: [
