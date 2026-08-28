@@ -13,7 +13,7 @@ export const brand = {
 	locale: 'en',
 	market: 'Worldwide',
 	supportEmail: 'support@narakacheats.org',
-	checkoutUrl: 'https://zadeyo.com/go/QRH?to=%2Fproducts%2Fnaraka',
+	checkoutUrl: 'https://zadeyo.com/go/QRH?to=%2Fproducts%2Fnaraka-bladepoint-novaxware',
 
 	/** Public profiles for Organization sameAs + Twitter cards (edit in Brand Studio). */
 	social: {
