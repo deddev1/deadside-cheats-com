@@ -62,7 +62,6 @@ const links = [
 	checkoutUrl={siteConfig.checkoutUrl}
 	homeHref={getLocalizedPath('home', locale)}
 	logoAlt={siteConfig.logoAlt}
-	brandName={siteConfig.name}
 	currentPath={current}
 	reviewsBasePath={reviewsBasePath}
 	locales={localeMetas}
@@ -244,34 +243,25 @@ const links = [
 	.site-brand {
 		display: inline-flex;
 		align-items: center;
-		gap: 0.55rem;
+		justify-content: center;
 		flex-shrink: 0;
-		min-height: 2.15rem;
-		margin-right: 0.15rem;
+		width: 2.35rem;
+		height: 2.35rem;
+		margin-right: 0.2rem;
 		color: var(--ink);
 		text-decoration: none;
-		transition: opacity 0.15s ease;
+		transition: opacity 0.15s ease, transform 0.15s ease;
 	}
 
 	.site-brand:hover {
-		opacity: 0.92;
+		opacity: 0.9;
+		transform: translateY(-1px);
 	}
 
 	.site-brand__mark {
-		width: 2rem;
-		height: 2rem;
-		flex-shrink: 0;
+		width: 100%;
+		height: 100%;
 		display: block;
-	}
-
-	.site-brand__name {
-		font-family: var(--font-display);
-		font-size: 0.9rem;
-		font-weight: 700;
-		letter-spacing: -0.03em;
-		line-height: 1;
-		color: var(--ink-heading);
-		white-space: nowrap;
 	}
 
 	.site-nav {
@@ -503,10 +493,6 @@ const links = [
 			margin-right: auto;
 		}
 
-		.site-brand__name {
-			display: none;
-		}
-
 		.site-tools__buy {
 			min-height: var(--touch-min, 2.75rem);
 			padding-inline: 0.85rem;
@@ -528,9 +514,9 @@ const links = [
 	}
 
 	@media (max-width: 480px) {
-		.site-brand__mark {
-			width: 1.85rem;
-			height: 1.85rem;
+		.site-brand {
+			width: 2.15rem;
+			height: 2.15rem;
 		}
 
 		.site-tools {

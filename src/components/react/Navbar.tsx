@@ -16,7 +16,6 @@ type Props = {
 	checkoutUrl: string;
 	homeHref: string;
 	logoAlt: string;
-	brandName: string;
 	currentPath: string;
 	reviewsBasePath: string;
 	locales: LocaleMeta[];
@@ -42,7 +41,6 @@ function NavbarInner({
 	checkoutUrl,
 	homeHref,
 	logoAlt,
-	brandName,
 	currentPath,
 	reviewsBasePath,
 	locales,
@@ -101,7 +99,6 @@ function NavbarInner({
 			<div className="shell site-header__bar">
 				<a href={homeHref} className="site-brand" aria-label={logoAlt}>
 					<BrandLogo className="site-brand__mark" alt={logoAlt} />
-					<span className="site-brand__name">{brandName}</span>
 				</a>
 
 				<nav className="site-nav" aria-label={t('nav.primaryAria')}>
