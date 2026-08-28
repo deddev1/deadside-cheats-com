@@ -60,6 +60,9 @@ const links = [
 	client:idle
 	locale={locale}
 	checkoutUrl={siteConfig.checkoutUrl}
+	homeHref={getLocalizedPath('home', locale)}
+	logoAlt={siteConfig.logoAlt}
+	brandName={siteConfig.name}
 	currentPath={current}
 	reviewsBasePath={reviewsBasePath}
 	locales={localeMetas}
@@ -233,15 +236,50 @@ const links = [
 	.site-header__bar {
 		display: flex;
 		align-items: center;
-		justify-content: space-between;
+		justify-content: flex-start;
 		min-height: var(--header-h);
-		gap: 0.75rem;
+		gap: 0.85rem;
+	}
+
+	.site-brand {
+		display: inline-flex;
+		align-items: center;
+		gap: 0.55rem;
+		flex-shrink: 0;
+		min-height: 2.15rem;
+		margin-right: 0.15rem;
+		color: var(--ink);
+		text-decoration: none;
+		transition: opacity 0.15s ease;
+	}
+
+	.site-brand:hover {
+		opacity: 0.92;
+	}
+
+	.site-brand__mark {
+		width: 2rem;
+		height: 2rem;
+		flex-shrink: 0;
+		display: block;
+	}
+
+	.site-brand__name {
+		font-family: var(--font-display);
+		font-size: 0.9rem;
+		font-weight: 700;
+		letter-spacing: -0.03em;
+		line-height: 1;
+		color: var(--ink-heading);
+		white-space: nowrap;
 	}
 
 	.site-nav {
 		display: flex;
 		align-items: center;
 		justify-content: flex-start;
+		flex: 1;
+		min-width: 0;
 		gap: 0.1rem;
 		padding: 0.22rem;
 		border: 1px solid var(--line-soft);
@@ -457,8 +495,16 @@ const links = [
 		}
 
 		.site-header__bar {
-			justify-content: flex-end;
+			justify-content: space-between;
 			gap: 0.55rem;
+		}
+
+		.site-brand {
+			margin-right: auto;
+		}
+
+		.site-brand__name {
+			display: none;
 		}
 
 		.site-tools__buy {
@@ -482,6 +528,11 @@ const links = [
 	}
 
 	@media (max-width: 480px) {
+		.site-brand__mark {
+			width: 1.85rem;
+			height: 1.85rem;
+		}
+
 		.site-tools {
 			gap: 0.4rem;
 		}
