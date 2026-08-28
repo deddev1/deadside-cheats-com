@@ -506,7 +506,7 @@ export const localizedSlugs: Record<PageId, Record<LocaleCode, string>> = {
 	'best-cheats': {
 		en: 'best-naraka-cheats',
 		es: 'mejores-trucos-naraka',
-		fr: 'meilleures-triches-finals',
+		fr: 'meilleures-triches-naraka',
 		de: 'beste-naraka-cheats',
 		pt: 'melhores-cheats-naraka',
 		it: 'migliori-trucchi-naraka',

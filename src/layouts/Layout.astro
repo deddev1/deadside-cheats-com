@@ -2,7 +2,6 @@
 import '../styles/global.css';
 import Analytics from '../components/Analytics.astro';
 import { productInfo, siteConfig } from '../data/site';
-import { getPageSeoKeywords } from '../data/seo-keywords';
 import { brandTheme, brandThemeInlineStyle, brandThemeRootCss } from '../data/brand-theme';
 import I18nHead from '../components/I18nHead.astro';
 import LocaleSuggest from '../components/LocaleSuggest.astro';
@@ -30,7 +29,6 @@ interface Props {
 	pageId?: PageId;
 	hreflangAlternates?: HreflangAlternate[];
 	extraGraph?: Record<string, unknown>[];
-	keywords?: string[];
 	lcpImage?: string;
 	lcpImageSrcSet?: string;
 	lcpImageSizes?: string;
@@ -51,14 +49,11 @@ const {
 	pageId,
 	hreflangAlternates,
 	extraGraph = [],
-	keywords: keywordsProp,
 	lcpImage,
 	lcpImageSrcSet,
 	lcpImageSizes = '100vw',
 	ogLocaleAlternates = true,
 } = Astro.props;
-
-const keywords = keywordsProp?.length ? keywordsProp : getPageSeoKeywords(pageId);
 
 const canonicalURL = buildCanonicalUrl(canonicalPath);
 const ogImageURL = new URL(ogImage, siteConfig.url).href;

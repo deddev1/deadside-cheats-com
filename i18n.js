@@ -1,6 +1,7 @@
 import i18n from 'i18next';
 import { initReactI18next } from 'react-i18next';
 import LanguageDetector from 'i18next-browser-languagedetector';
+import enTranslation from './public/locales/en/translation.json';
 
 export const supportedLngs = [
 	'en',
@@ -27,14 +28,22 @@ export const supportedLngs = [
 	'sv',
 ];
 
-const localeModules = import.meta.glob('./public/locales/*/translation.json', { eager: true });
+/** Lazy locale chunks — one JSON file per language instead of one 400KB+ bundle. */
+const localeModules = import.meta.glob('./public/locales/*/translation.json');
 
-const resources = {};
-for (const [path, mod] of Object.entries(localeModules)) {
-	const match = path.match(/locales\/([^/]+)\/translation\.json$/);
-	if (match) {
-		resources[match[1]] = { translation: mod.default };
-	}
+const loadedLocales = new Set(['en']);
+
+export async function ensureLocale(locale) {
+	const lng = locale?.split('-')[0] || 'en';
+	if (loadedLocales.has(lng)) return lng;
+
+	const loader = localeModules[`./public/locales/${lng}/translation.json`];
+	if (!loader) return 'en';
+
+	const mod = await loader();
+	i18n.addResourceBundle(lng, 'translation', mod.default, true, true);
+	loadedLocales.add(lng);
+	return lng;
 }
 
 if (!i18n.isInitialized) {
@@ -42,7 +51,9 @@ if (!i18n.isInitialized) {
 		.use(LanguageDetector)
 		.use(initReactI18next)
 		.init({
-			resources,
+			resources: {
+				en: { translation: enTranslation },
+			},
 			fallbackLng: 'en',
 			supportedLngs,
 			nonExplicitSupportedLngs: true,

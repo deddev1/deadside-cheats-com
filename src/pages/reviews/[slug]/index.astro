@@ -5,7 +5,6 @@ import SiteFooter from '../../../components/SiteFooter.astro';
 import { customerReviewStats, customerReviews, productInfo, siteConfig } from '../../../data/site';
 import { getSelfHreflangAlternates } from '../../../data/i18n/routing';
 import { getReviewPath, getReviewCrawlImage, reviewsBasePath } from '../../../data/reviews';
-import { reviewsSeoKeywords } from '../../../data/seo-keywords';
 import type { CustomerReview } from '../../../data/site';
 import { contentSrcSet, productMainSizes } from '../../../lib/responsive-images';
 import RelatedPages from '../../../components/RelatedPages.astro';
@@ -70,7 +69,6 @@ const extraGraph: Record<string, unknown>[] = [
 	hreflangAlternates={hreflangAlternates}
 	ogImage={photo.src}
 	ogImageAlt={`${siteConfig.name} review — Naraka cheats & Naraka Bladepoint hacks by @${review.handle}`}
-	keywords={[...reviewsSeoKeywords]}
 	type="article"
 	locale="en"
 	breadcrumbs={[

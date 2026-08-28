@@ -23,10 +23,7 @@ export const globalSeoKeywords = [
 	'naraka neac bypass',
 	'naraka cheats pc',
 	'naraka cheat download',
-	'naraka cheats',
 	'naraka mod menu',
-	'naraka cheats',
-	'undetected naraka cheats',
 	'naraka cheats undetected',
 	'naraka aimbot hack',
 	'naraka esp hack',
@@ -46,7 +43,6 @@ export const pageSeoKeywords: Partial<Record<PageId, readonly string[]>> = {
 		'naraka aimbot',
 	],
 	hacks: [
-		'naraka cheats',
 		'naraka cheats',
 		'naraka cheats pc',
 		'undetected naraka cheats',
@@ -89,18 +85,15 @@ export const pageSeoKeywords: Partial<Record<PageId, readonly string[]>> = {
 		'naraka cheats price',
 		'naraka cheats monthly',
 		'naraka cheats lifetime',
-		'naraka cheats price',
 	],
 	setup: [
 		'naraka cheats setup',
 		'naraka cheat download',
 		'install naraka cheats',
-		'naraka cheats setup',
 	],
 	'cheat-download': [
 		'naraka cheat download',
 		'naraka cheats download',
-		'naraka cheat download',
 		'naraka cheats setup',
 	],
 	updates: [
@@ -110,7 +103,6 @@ export const pageSeoKeywords: Partial<Record<PageId, readonly string[]>> = {
 		'naraka cheats undetected',
 	],
 	undetected: [
-		'undetected naraka cheats',
 		'undetected naraka cheats',
 		'naraka cheats undetected',
 		'NEAC undetected',
@@ -123,19 +115,17 @@ export const pageSeoKeywords: Partial<Record<PageId, readonly string[]>> = {
 	],
 	'cheats-2026': [
 		'naraka cheats 2026',
-		'naraka cheats 2026',
 		'best naraka cheats 2026',
 		'undetected naraka cheats 2026',
 	],
 	'best-cheats': [
 		'best naraka cheats',
 		'best naraka cheats 2026',
-		'best naraka cheats',
 		'naraka cheats comparison',
 	],
-	'mod-menu': ['naraka mod menu', 'naraka cheat menu', 'naraka cheats menu', 'naraka cheats menu'],
-	faq: ['naraka cheats faq', 'naraka cheats faq', 'naraka cheats setup', 'undetected naraka cheats'],
-	support: ['naraka cheats support', 'naraka cheats support', 'naraka cheats license help'],
+	'mod-menu': ['naraka mod menu', 'naraka cheat menu', 'naraka cheats menu'],
+	faq: ['naraka cheats faq', 'naraka cheats setup', 'undetected naraka cheats'],
+	support: ['naraka cheats support', 'naraka cheats license help'],
 };
 
 /** Meta keywords for /reviews/ and individual review pages (English-only routes). */

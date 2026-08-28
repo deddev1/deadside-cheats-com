@@ -75,8 +75,8 @@ writeFileSync(redirectsPath, `${JSON.stringify(redirects, null, 2)}\n`, 'utf8');
 
 const cannibalPath = join(ROOT, 'functions', 'cannibal-redirects.json');
 const cannibal = JSON.parse(readFileSync(cannibalPath, 'utf8'));
-cannibal['/fr/meilleures-triches-finals/'] = '/fr/';
-cannibal['/fr/meilleures-triches-finals'] = '/fr/';
+cannibal['/fr/meilleures-triches-finals/'] = '/fr/meilleures-triches-naraka/';
+cannibal['/fr/meilleures-triches-finals'] = '/fr/meilleures-triches-naraka/';
 delete cannibal['/fr/meilleures-triches-rust/'];
 delete cannibal['/fr/meilleures-triches-rust'];
 writeFileSync(cannibalPath, `${JSON.stringify(cannibal, null, 2)}\n`, 'utf8');
