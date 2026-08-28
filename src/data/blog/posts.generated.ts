@@ -38,7 +38,7 @@ export const blogPosts: BlogPostDefinition[] = [
 				h2: "How patches reshuffle loadouts and map plans",
 				paragraphs: [
 					"When mid-tier ARs feel strong, prioritize optics and stats that win 40–70 meter peeks. When recoil gets tighter, play more conservatively near maps and combat zones and avoid ego third-parties. When a map POI shifts — new locked rooms, moved spawns, heli spawn changes — rewrite your first three minutes on that map before you farm it for match goals.",
-					"Keep in-game cosmetics chatter out of patch-day focus. Skin talk is fun; TTK and camping bomb sites patterns are what get you killed. For aggressive juvenile timing after a meta shift, see our <a href=\"/blog/naraka-loot-run-strategies/\">farming-run strategies</a>.",
+					"Keep in-game cosmetics chatter out of patch-day focus. Skin talk is fun; TTK and camping combat-zone patterns are what get you killed. For aggressive juvenile timing after a meta shift, see our <a href=\"/blog/naraka-loot-run-strategies/\">farming-run strategies</a>.",
 					"On big mornings, confirm <a href=\"https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT//\" target=\"_blank\" rel=\"noopener noreferrer\">Naraka on PC</a> looks healthy before you assume your client is broken. Then run a short checklist: note removed items, update your progress “buy list,” play five intentional matches, and only then lock a new main kit.",
 				],
 			},
@@ -137,7 +137,7 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Loadout pairings and common mistakes",
 				paragraphs: [
-					"A durable kit is usually a reliable mid-tier AR, an SMG build in combat zones or high-traffic zones, enough meds, and an armor tier you can replace after deaths. In unrated matches, that same spine supports the aggression patterns in our <a href=\"/blog/naraka-loot-run-strategies/\">economy round strategies article</a>.",
+					"A durable kit is usually a reliable mid-tier AR, an SMG build in combat zones or high-traffic zones, enough meds, and an armor tier you can replace after deaths. In Quick Match sessions, that same spine supports the aggression patterns in our <a href=\"/blog/naraka-loot-run-strategies/\">economy round strategies article</a>.",
 					"Common mistakes: full-spraying from eighty meters, re-peeking the same pixel, swapping to an SMG at forty meters out of habit, and never practicing controlled bursts offline. If you also use aim-assist tooling, lock aim smoothing and fundamentals first, then review <a href=\"/naraka-aimbot/\">Naraka Aimbot settings</a>.",
 				],
 			},
@@ -167,10 +167,10 @@ export const blogPosts: BlogPostDefinition[] = [
 		h1: "Naraka Economy Round Strategies",
 		intro: "Passive players save every round and show up with weak buys while the enemy stacks rifles. Strong eco rounds manufacture a short advantage, buy what matters, and swing before the round timer collapses on you.",
 		keywords: ["Naraka eco rounds","economy strategies","melee combats"],
-		imageAlt: "Naraka agents pushing toward a bomb site",
+		imageAlt: "Naraka heroes pushing toward a contested POI",
 		sections: [
 			{
-				h2: "Why so many unrated matches feel soft",
+				h2: "Why so many Quick Match lobbies feel soft",
 				paragraphs: [
 					"starter kits are random, timers are limited, and player enemy players can turn on you. Waiting forever for a “perfect” third-party often means you arrive late to a patched lobby with nothing left. Information tools like <a href=\"/naraka-esp/\">Naraka ESP</a> can help you see fights early — but you still need an exit plan.",
 					"Decide your match route before you swing. Take a clear damage window, grab high-value loot, then leave. The usual third-party clock in hot POIs is only a few seconds long once gunfire starts.",
@@ -194,7 +194,7 @@ export const blogPosts: BlogPostDefinition[] = [
 				h2: "Growth runs and information tools work together",
 				paragraphs: [
 					"Juvenile timing is about seconds. Seeing a fight early — through sound, map knowledge, or <a href=\"/naraka-esp/\">ESP</a> — lets you third-party with a plan instead of sprinting into a crossfire.",
-					"After a strong unrated matches, protect the kit with conservative settings from our <a href=\"/naraka-aimbot/\">aimbot guide</a> and check <a href=\"/updates/\">Updates</a> before long matches on patch weeks.",
+					"After a strong Quick Match session, protect the kit with conservative settings from our <a href=\"/naraka-aimbot/\">aimbot guide</a> and check <a href=\"/updates/\">Updates</a> before long matches on patch weeks.",
 				],
 			}
 		],
@@ -292,7 +292,7 @@ export const blogPosts: BlogPostDefinition[] = [
 				h2: "Route discipline plus loot awareness",
 				paragraphs: [
 					"Routes fail when players loot like tourists. Mark your ninety-second plan, stick to cover ladders, and use <a href=\"/naraka-esp/\">hero ESP filters</a> only to confirm what your route already predicted — not to replace map knowledge.",
-					"Strong routes feed into unrated matches and competitive spawns. Link this guide with <a href=\"/naraka-cheats/\">Naraka Cheats</a> if you want radar for combat zones after your kit is online.",
+					"Strong routes feed into Quick Match sessions and Ranked spawns. Link this guide with <a href=\"/naraka-cheats/\">Naraka Cheats</a> if you want radar for combat zones after your kit is online.",
 				],
 			}
 		],
@@ -369,7 +369,7 @@ export const blogPosts: BlogPostDefinition[] = [
 				h2: "Why your first match should not be the warmup",
 				paragraphs: [
 					"Most players boot the game, slap on a kit, and die to the first clean peeker. Hands are cold, audio is not dialed, and map timing feels off. Treat warmup as part of the match, not optional fluff.",
-					"Offline practice, practice server habits, and a couple of low-stakes unrated matches exist so your expensive grown player is not the experiment.",
+					"Offline practice, practice server habits, and a couple of low-stakes Quick Match sessions exist so your expensive grown player is not the experiment.",
 				],
 			},
 			{
@@ -765,7 +765,7 @@ export const blogPosts: BlogPostDefinition[] = [
 				h2: "Week one — setup and first impressions",
 				paragraphs: [
 					"Delivery was fine: license in email, loader as admin, overlays disabled. Menu learning took a couple evenings. Player ESP was readable. Loot ESP felt secondary. I ran several nights with information tools only and no aim assist so I could judge visibility on its own.",
-					"Naraka Cheats later felt similar on install time, but filters for abilities and bomb sites were easier to toggle independently during grapple routes.",
+					"Naraka Cheats later felt similar on install time, but filters for abilities and POI markers were easier to toggle independently during grapple routes.",
 				],
 			},
 			{
