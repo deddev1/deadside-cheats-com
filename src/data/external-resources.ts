@@ -17,9 +17,9 @@ export type GuideCta = {
 export const externalUrls = {
 	steam: brand.gameUrl,
 	steamNews: 'https://store.steampowered.com/app/1203220/news/',
-	officialSite: 'https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/',
+	officialSite: 'https://www.narakathegame.com/',
 	wiki: 'https://naraka.fandom.com/wiki/NARAKA:_BLADEPOINT',
-	steamCommunity: 'https://store.steampowered.com/app/1203220',
+	steamCommunity: 'https://steamcommunity.com/app/1203220',
 } as const;
 
 /** Authoritative third-party guides — cite official game sources for readers and search engines. */
