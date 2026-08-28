@@ -125,7 +125,7 @@ const IGN_IMAGES = {
 	Battlefield: 'https://assets-prd.ignimgs.com/2024/03/20/battlefields7-1710977997041.jpg',
 	'League of Legends': 'https://assets-prd.ignimgs.com/2021/12/14/leagueoflegends-1639513774570.jpg',
 	'Call of Duty: Warzone': 'https://sm.ign.com/t/ign_pk/screenshot/default/wz-verdansksubway-1601169413816_x2hg.1400.jpg',
-	Naraka: 'https://assets-prd.ignimgs.com/2021/12/21/valorant-1640045685890.jpg',
+	Valorant: 'https://assets-prd.ignimgs.com/2021/12/21/valorant-1640045685890.jpg',
 	'Gray Zone Warfare': 'https://assets-prd.ignimgs.com/2023/11/30/gray-zone-warfare-button-1701383116349.jpg',
 	'Overwatch 2': 'https://assets-prd.ignimgs.com/2026/03/11/overwatch-1773211203379.jpg',
 	'The Isle': 'https://assets-prd.ignimgs.com/2023/09/12/library-600x900-1694540297721.jpg',
@@ -215,11 +215,11 @@ const GAME_PROFILES = {
 		mechanics: ['loadout metas', 'buy stations', 'gulag resets'],
 		antiCheat: 'Ricochet anti-cheat with kernel-level monitoring',
 	},
-	Naraka: {
+	Valorant: {
 		genre: 'tactical FPS',
 		setting: '5v5 rounds with agent abilities and spike plants',
 		mechanics: ['ability combos', 'crosshair placement', 'economy rounds'],
-		antiCheat: 'NEAC kernel driver running at boot',
+		antiCheat: 'Vanguard kernel driver running at boot',
 	},
 	'Gray Zone Warfare': {
 		genre: 'open-world tactical FPS',
@@ -364,7 +364,7 @@ function classifyGame(host) {
 	if (h.includes('battlefield')) return 'Battlefield';
 	if (h.includes('lol')) return 'League of Legends';
 	if (h.includes('warzone') || h.includes('codcheat')) return 'Call of Duty: Warzone';
-	if (h.includes('valo') || h.includes('valorant')) return 'Naraka';
+	if (h.includes('valo') || h.includes('valorant')) return 'Valorant';
 	if (h.includes('grayzone')) return 'Gray Zone Warfare';
 	if (h.includes('overwatch')) return 'Overwatch 2';
 	if (h.includes('theisle') || h.includes('islecheat')) return 'The Isle';

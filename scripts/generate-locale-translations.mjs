@@ -188,7 +188,7 @@ async function main() {
 		steam: { label: 'Naraka on PC', note: 'Official store page, system requirements, and player reviews.' },
 		patch: { label: 'Naraka patch notes & news', note: 'Read official update posts before you change your loadout.' },
 		official: { label: 'Official Naraka website', note: 'Game overview from 24 Entertainment.' },
-		wiki: { label: 'Naraka Wiki (Fandom)', note: 'Player stats, maps, and agent abilities.' },
+		wiki: { label: 'Naraka Wiki (Fandom)', note: 'Player stats, maps, and hero abilities.' },
 		community: { label: 'Naraka community hub', note: 'Announcements and community discussions.' },
 	};
 	en.internalLinks = {
@@ -216,9 +216,9 @@ async function main() {
 		eyebrow: 'Naraka Cheats',
 		title: 'Naraka Cheats gallery',
 		subtitle: 'Naraka Cheats visuals — ESP, wallhack, aimbot, and radar for Naraka on PC.',
-		lead: 'Naraka Cheats helps you spot enemy agents, utility, and bomb sites with ESP, aimbot, and radar in one license.',
+		lead: 'Naraka Cheats helps you spot enemy heroes, loot, and high-traffic POIs with ESP, aimbot, and radar in one license.',
 		highlightEspTitle: 'Naraka Cheats ESP',
-		highlightEspCopy: 'See enemy agents through walls with Naraka Cheats ESP and wallhack overlays.',
+		highlightEspCopy: 'See enemy heroes through walls with Naraka Cheats ESP and wallhack overlays.',
 		highlightRadarTitle: 'Naraka Cheats radar',
 		highlightRadarCopy: 'Track nearby threats with Naraka Cheats radar before you push or rotate.',
 		highlightAimbotTitle: 'Naraka Cheats aimbot',
@@ -256,7 +256,7 @@ async function main() {
 			'Naraka guides — battle royale tips, ESP, aimbot notes, grapple routes, and NEAC update coverage. English blog at narakacheats.org/blog/.',
 		blogH1: 'Naraka Cheats Intel',
 		blogIntro:
-			'Actionable Naraka guides for ranked and unrated matches — meta breakdowns, grapple routes, hero tiers, and pro warmup routines. Pair these tips with our Naraka Cheats pages for ESP, soft aim, and radar when you need in-match tools.',
+			'Actionable Naraka guides for ranked and Quick Match sessions — meta breakdowns, grapple routes, hero tiers, and pro warmup routines. Pair these tips with our Naraka Cheats pages for ESP, soft aim, and radar when you need in-match tools.',
 	};
 
 	let es;

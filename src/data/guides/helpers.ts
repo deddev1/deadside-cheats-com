@@ -89,6 +89,7 @@ export function getGuidesSitemapEntries(): GuideSitemapEntry[] {
 
 	const posts = getAllGuides()
 		.filter((guide) => !LEGACY_GUIDE_SLUGS.has(guide.slug))
+		.filter((guide) => isNarakaGuide(guide))
 		.map((guide) => ({
 		path: guide.canonicalPath,
 		lastmod: guide.updated,

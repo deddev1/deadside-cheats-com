@@ -169,9 +169,9 @@ function buildFeatures(locale, u, p) {
 		fr: {
 			h2: ['ESP et wallhack', 'Aimbot et soft aim', 'Radar', 'Explorer les sujets liés', 'Mises à jour et support'],
 			p: [
-				['Voyez joueurs, scientifiques et loot à travers les murs avec distances.', 'Utilisez des filtres pour garder l\'overlay lisible dans les bomb sites et zones PvP.'],
+				['Voyez joueurs, héros et loot à travers les murs avec distances.', 'Utilisez des filtres pour garder l\'overlay lisible dans les POI et zones PvP.'],
 				['Aide à la visée réglable pour un rendu naturel.', 'Définissez FOV, fluidité et priorité d\'os par arme avant le match.'],
-				['Un radar 2D simple pour les menaces hors champ.', 'Repérez les flancs près des bomb sites sans remplir l\'écran.'],
+				['Un radar 2D simple pour les menaces hors champ.', 'Repérez les flancs près des POI sans remplir l\'écran.'],
 				['La plupart des sites couvrent ESP, aimbot, radar, installation et statut sur des pages séparées. Utilisez ces guides :', 'Chaque guide couvre une partie du stack de match pour comparer avant le checkout.'],
 				['Nous reconstruisons après les gros patchs Naraka ou NEAC.', 'Consultez Statut avant de jouer après un jour de patch.', 'Vérifiez les notes Naraka et le Wiki Naraka avant d\'ajuster les overlays.'],
 			],

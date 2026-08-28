@@ -557,45 +557,45 @@ export const guides: GuideDefinition[] = [
 	{
 	id: "valorant-valocheats-com-guide",
 	slug: "valorant-valocheats-com-guide",
-	game: "Naraka",
+	game: "Valorant",
 	gameSlug: "valorant",
 	externalUrl: "https://valocheats.com",
 	anchorText: "this resource",
 	published: "2026-05-17",
 	updated: "2026-03-15",
-	title: "Naraka Guide: Beginner Onboarding (2026)",
-	metaDescription: "A practical Naraka guide covering tactical FPS fundamentals, ability combos, and 5v5 rounds with agent abilities and spike plants — updated for 2026 PC players.",
-	h1: "Naraka Beginner Onboarding Guide",
-	intro: "Naraka remains one of the most discussed tactical FPS titles on PC, especially for players who want sharper reads in 5v5 rounds with agent abilities and spike plants. This guide focuses on beginner onboarding without skipping the basics: how rounds flow, where teams win fights, and why ability combos often decides outcomes before aim ever matters.",
+	title: "Valorant Guide: Beginner Onboarding (2026)",
+	metaDescription: "A practical Valorant guide covering tactical FPS fundamentals, ability combos, and 5v5 rounds with agent abilities and spike plants — updated for 2026 PC players.",
+	h1: "Valorant Beginner Onboarding Guide",
+	intro: "Valorant remains one of the most discussed tactical FPS titles on PC, especially for players who want sharper reads in 5v5 rounds with agent abilities and spike plants. This guide focuses on beginner onboarding without skipping the basics: how rounds flow, where teams win fights, and why ability combos often decides outcomes before aim ever matters.",
 	imageUrl: "https://assets-prd.ignimgs.com/2021/12/21/valorant-1640045685890.jpg",
-	imageAlt: "Naraka gameplay — IGN screenshot",
+	imageAlt: "Valorant gameplay — IGN screenshot",
 	sections: [
 		{
-			h2: "How Naraka matches actually play out",
+			h2: "How Valorant matches actually play out",
 			paragraphs: [
-				"Most Naraka sessions are won in the minutes before a fight starts. Learn the default routes players take through 5v5 rounds with agent abilities and spike plants, which angles give free information, and when to disengage. In tactical FPS titles, map timing beats raw reflexes more often than new players expect.",
+				"Most Valorant sessions are won in the minutes before a fight starts. Learn the default routes players take through 5v5 rounds with agent abilities and spike plants, which angles give free information, and when to disengage. In tactical FPS titles, map timing beats raw reflexes more often than new players expect.",
 				"Treat ability combos as a repeatable checklist rather than a highlight-reel skill. When your plan is explicit — where you rotate, what you contest, and what you give up — you stop panic-switching mid-round and start forcing opponents into bad trades."
 			]
 		},
 		{
 			h2: "crosshair placement and mid-game decisions",
 			paragraphs: [
-				"crosshair placement separates players who float with the lobby from players who steer it. Watch for audio cues, ability cooldowns, and objective timers that reveal when a squad is committed. In Naraka, the team that recognizes a committed enemy first usually wins the exchange.",
+				"crosshair placement separates players who float with the lobby from players who steer it. Watch for audio cues, ability cooldowns, and objective timers that reveal when a squad is committed. In Valorant, the team that recognizes a committed enemy first usually wins the exchange.",
 				"If you queue solo, ping information consistently and play for space instead of hero plays. Even in chaotic tactical FPS lobbies, disciplined spacing around 5v5 rounds with agent abilities and spike plants creates openings that raw aggression cannot."
 			]
 		},
 		{
 			h2: "Performance, settings, and fair-play context",
 			paragraphs: [
-				"Stable FPS and clean audio matter in Naraka. Cap background apps, use a sensible sensitivity, and keep drivers current so you are not fighting input lag during clutch moments. Small setting tweaks often produce bigger gains than switching gear every month.",
-				"Naraka uses NEAC kernel driver running at boot. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
+				"Stable FPS and clean audio matter in Valorant. Cap background apps, use a sensible sensitivity, and keep drivers current so you are not fighting input lag during clutch moments. Small setting tweaks often produce bigger gains than switching gear every month.",
+				"Valorant uses Vanguard kernel driver running at boot. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
 			]
 		},
 		{
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: ability combos, crosshair placement, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"/naraka-cheats/\">Naraka cheats guides</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://valocheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">this resource</a>."
 			]
 		}
 	]
@@ -3639,45 +3639,45 @@ export const guides: GuideDefinition[] = [
 	{
 	id: "valorant-valoranthack-net-guide",
 	slug: "valorant-valoranthack-net-guide",
-	game: "Naraka",
+	game: "Valorant",
 	gameSlug: "valorant",
 	externalUrl: "https://valoranthack.net",
 	anchorText: "additional guides",
 	published: "2026-08-24",
 	updated: "2026-03-15",
-	title: "Naraka Guide: Patch-Day Preparation (2026)",
-	metaDescription: "A practical Naraka guide covering tactical FPS fundamentals, crosshair placement, and 5v5 rounds with agent abilities and spike plants — updated for 2026 PC players.",
-	h1: "Naraka Patch-Day Preparation Guide",
-	intro: "Naraka remains one of the most discussed tactical FPS titles on PC, especially for players who want sharper reads in 5v5 rounds with agent abilities and spike plants. This guide focuses on patch-day preparation without skipping the basics: how rounds flow, where teams win fights, and why crosshair placement often decides outcomes before aim ever matters.",
+	title: "Valorant Guide: Patch-Day Preparation (2026)",
+	metaDescription: "A practical Valorant guide covering tactical FPS fundamentals, crosshair placement, and 5v5 rounds with agent abilities and spike plants — updated for 2026 PC players.",
+	h1: "Valorant Patch-Day Preparation Guide",
+	intro: "Valorant remains one of the most discussed tactical FPS titles on PC, especially for players who want sharper reads in 5v5 rounds with agent abilities and spike plants. This guide focuses on patch-day preparation without skipping the basics: how rounds flow, where teams win fights, and why crosshair placement often decides outcomes before aim ever matters.",
 	imageUrl: "https://assets-prd.ignimgs.com/2021/12/21/valorant-1640045685890.jpg",
-	imageAlt: "Naraka gameplay — IGN screenshot",
+	imageAlt: "Valorant gameplay — IGN screenshot",
 	sections: [
 		{
-			h2: "How Naraka matches actually play out",
+			h2: "How Valorant matches actually play out",
 			paragraphs: [
-				"Most Naraka sessions are won in the minutes before a fight starts. Learn the default routes players take through 5v5 rounds with agent abilities and spike plants, which angles give free information, and when to disengage. In tactical FPS titles, map timing beats raw reflexes more often than new players expect.",
+				"Most Valorant sessions are won in the minutes before a fight starts. Learn the default routes players take through 5v5 rounds with agent abilities and spike plants, which angles give free information, and when to disengage. In tactical FPS titles, map timing beats raw reflexes more often than new players expect.",
 				"Treat crosshair placement as a repeatable checklist rather than a highlight-reel skill. When your plan is explicit — where you rotate, what you contest, and what you give up — you stop panic-switching mid-round and start forcing opponents into bad trades."
 			]
 		},
 		{
 			h2: "economy rounds and mid-game decisions",
 			paragraphs: [
-				"economy rounds separates players who float with the lobby from players who steer it. Watch for audio cues, ability cooldowns, and objective timers that reveal when a squad is committed. In Naraka, the team that recognizes a committed enemy first usually wins the exchange.",
+				"economy rounds separates players who float with the lobby from players who steer it. Watch for audio cues, ability cooldowns, and objective timers that reveal when a squad is committed. In Valorant, the team that recognizes a committed enemy first usually wins the exchange.",
 				"If you queue solo, ping information consistently and play for space instead of hero plays. Even in chaotic tactical FPS lobbies, disciplined spacing around 5v5 rounds with agent abilities and spike plants creates openings that raw aggression cannot."
 			]
 		},
 		{
 			h2: "Performance, settings, and fair-play context",
 			paragraphs: [
-				"Stable FPS and clean audio matter in Naraka. Cap background apps, use a sensible sensitivity, and keep drivers current so you are not fighting input lag during clutch moments. Small setting tweaks often produce bigger gains than switching gear every month.",
-				"Naraka uses NEAC kernel driver running at boot. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
+				"Stable FPS and clean audio matter in Valorant. Cap background apps, use a sensible sensitivity, and keep drivers current so you are not fighting input lag during clutch moments. Small setting tweaks often produce bigger gains than switching gear every month.",
+				"Valorant uses Vanguard kernel driver running at boot. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
 			]
 		},
 		{
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: crosshair placement, economy rounds, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"/naraka-cheats/\">Naraka cheats guides</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://valoranthack.net\" target=\"_blank\" rel=\"noopener noreferrer\">additional guides</a>."
 			]
 		}
 	]

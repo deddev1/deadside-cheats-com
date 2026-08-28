@@ -1,7 +1,7 @@
 /** Descriptive image alts — Google rejects empty or keyword-only alts. */
 export const DESCRIPTIVE_IMAGE_ALTS = {
 	hero: 'Naraka Cheats hero — ESP and aimbot overlay in Naraka',
-	espWallhack: 'Wallhack outlines showing agents through walls',
+	espWallhack: 'Wallhack outlines showing enemy heroes through walls',
 	aimbotCombat: 'Soft aim assist overlay during a Naraka match',
 	squadFight: 'Naraka Cheats combat overlay during a team fight',
 	playerEsp: 'Player ESP boxes and distance readouts in a Naraka match',
@@ -9,7 +9,7 @@ export const DESCRIPTIVE_IMAGE_ALTS = {
 	hacksPackage: '2D radar threat overlay for Naraka',
 	raidFight: 'Aimbot assist during a Naraka melee combat',
 	battleRoyale: 'Naraka Cheats in-session overview for Windows PC',
-	raidMap: 'ESP markers for abilities and bomb sites in Naraka',
+	raidMap: 'ESP markers for hero skills and POIs in Naraka',
 };
 
 /** Page-level image alt by pageId (EN source of truth). */

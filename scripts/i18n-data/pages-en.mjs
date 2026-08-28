@@ -17,10 +17,10 @@ export const enPages = {
 		sections: [
 			section(
 				'Why players choose naraka cheats in 2026',
-				'Naraka rewards map awareness. Naraka Cheats combines ESP wallhack for enemy players and abilities, radar-style threat cues, and configurable Aimbot so you can read fights before committing — on match, unrated matches, and official servers.',
+				'Naraka rewards map awareness. Naraka Cheats combines ESP wallhack for enemy heroes and player positions, radar-style threat cues, and configurable Aimbot so you can read fights before committing — in ranked, Quick Match, and official servers.',
 				`Official seasons, patches, and anti-cheat updates come from ${EXT.naraka} and ${EXT.eac}. We rebuild ESP, radar, and Aimbot modules when those patches require maintenance — then post status on the <a href="/updates/">Updates page</a>.`,
 				'Licenses ship digitally after payment confirmation. Monthly ($35) and lifetime ($150) plans include NEAC maintenance rebuilds when anti-cheat or game patches require updates.',
-				'Many shops sell ESP-only or aimbot-only modules. Naraka Cheats ships player ESP wallhack, agent ability markers, 2D radar overlays, and configurable soft aim in one license — with a public <a href="/updates/">status log</a> after NEAC patches.',
+				'Many shops sell ESP-only or aimbot-only modules. Naraka Cheats ships player ESP wallhack, hero skill markers, 2D radar overlays, and configurable soft aim in one license — with a public <a href="/updates/">status log</a> after NEAC patches.',
 				'Compare our stack on <a href="/compare/">Compare</a>, read <a href="/undetected-naraka-cheats/">undetected naraka cheats</a>, and review <a href="/best-naraka-cheats/">best naraka cheats 2026</a> criteria before checkout.',
 			),
 			section(
@@ -39,7 +39,7 @@ export const enPages = {
 			'Naraka ESP wallhack — player boxes, hero markers & distance tags on PC. Undetected naraka cheats with aimbot & radar. Shop at narakacheats.org.',
 		h1: 'Naraka ESP — Player Boxes & Wallhack',
 		intro:
-			'Naraka ESP visibility tools for ranked and unrated matches. Read enemy squads, players, agents, loot, and distance before you commit — toggleable Naraka ESP wallhack overlays bundled in our Naraka Cheats package.',
+			'Naraka ESP visibility tools for ranked and Quick Match sessions. Read enemy squads, heroes, loot, and distance before you commit — toggleable Naraka ESP wallhack overlays bundled in our Naraka Cheats package.',
 		imageAlt: "Naraka ESP player boxes and distance readouts in a match",
 		galleryTitle: 'Naraka ESP overlay visuals',
 		ctaPrimary: 'Buy Naraka Cheats',
@@ -48,8 +48,8 @@ export const enPages = {
 		sections: [
 			section(
 				'What Naraka ESP solves in matches',
-				'Naraka maps punish incomplete information. Naraka Cheats ESP wallhack helps you spot enemy squads early, spot agents before they push your angle, and mark high-value elimination worth the push.',
-				'On match, unrated matches, and official servers, that visibility gap is often the difference between a clean third-party and a patched squad. ESP ships bundled with radar overlays and Aimbot in one license.',
+				'Naraka maps punish incomplete information. Naraka Cheats ESP wallhack helps you spot enemy squads early, spot enemy heroes before they push your angle, and mark high-value eliminations worth the push.',
+				'In ranked, Quick Match, and official servers, that visibility gap is often the difference between a clean third-party and a patched squad. ESP ships bundled with radar overlays and Aimbot in one license.',
 				`Naraka’s live seasons and map updates are published by 24 Entertainment (${EXT.naraka}). When POIs or match rules shift, ESP categories stay useful because they track players and loot — not a single static landmark.`,
 			),
 			section(
@@ -60,7 +60,7 @@ export const enPages = {
 				[
 					'Enemy player ESP outlines with distance',
 					'Loot and hero markers for faster rotations',
-					'Heli and site awareness cues',
+					'Loot and POI awareness cues',
 					'Toggleable categories to reduce overlay noise',
 				],
 			),
@@ -77,9 +77,9 @@ export const enPages = {
 				'Still researching? The <a href="/naraka-cheats/">Naraka Cheats pillar</a> and <a href="/naraka-cheats-2026/">2026 buyer guide</a> summarize the full stack.',
 			),
 			section(
-				'Agent ESP, skeleton overlays, and spike awareness',
-				'Beyond basic player boxes, Naraka Cheats ESP supports agent ability markers, distance tags, and configurable skeleton-style outlines for ranked reads. Toggle categories so spike plants, retakes, and flank routes stay readable without screen clutter.',
-				'Pair ESP with <a href="/naraka-radar-hack/">2D radar</a> for off-screen threats during site executes. Map-specific awareness (Haven three-site rotates, Icebox vertical fights) matters as much as raw wallhack range.',
+				'Hero ESP, skeleton overlays, and threat awareness',
+				'Beyond basic player boxes, Naraka Cheats ESP supports hero skill markers, distance tags, and configurable skeleton-style outlines for ranked reads. Toggle categories so souljade contests, third-party fights, and flank routes stay readable without screen clutter.',
+				'Pair ESP with <a href="/naraka-radar-hack/">2D radar</a> for off-screen threats during zone pushes. Map-specific awareness (high-traffic POIs and vertical grapple routes) matters as much as raw wallhack range.',
 				'Stream-conscious players can reduce on-screen markers and rely on radar plus minimal boxes — see <a href="/features/">Features</a> for the full toggle list.',
 			),
 			section(
@@ -162,7 +162,7 @@ export const enPages = {
 		sections: [
 			section(
 				'ESP wallhack and visibility features',
-				'Enemy player ESP wallhack, objective and vault awareness cues, ability and utility markers, distance readouts, snaplines, and toggleable ESP categories for match-critical overlays only.',
+				'Enemy player ESP wallhack, objective and vault awareness cues, hero skill markers, distance readouts, snaplines, and toggleable ESP categories for match-critical overlays only.',
 				'Team and enemy colour coding supports battle royale rounds and ranked matches. Deep-dive the <a href="/naraka-esp/">ESP page</a> and <a href="/naraka-esp/">wallhack guide</a> for category-level detail.',
 				`mapy and loot systems evolve with ${EXT.naraka} patch cycle and map updates — toggleable ESP categories keep overlays useful when POIs rotate.`,
 			),
@@ -269,7 +269,7 @@ export const enPages = {
 				'Why the Updates page matters',
 				'Naraka and NEAC receive frequent patches. Naraka Cheats publishes maintenance notes when ESP wallhack, radar, or Aimbot behavior needs a rebuild.',
 				`Use ${EXT.status} for 24 Entertainment platform health and this page for Naraka Cheats build status — both matter on big update days.`,
-				'Checking this log before you queue reduces surprises after game days or seasonal launches on ranked and unrated matches.',
+				'Checking this log before you queue reduces surprises after game days or seasonal launches on ranked and Quick Match sessions.',
 			),
 			section(
 				'What maintenance entries cover',
@@ -286,7 +286,7 @@ export const enPages = {
 			section(
 				'Maintenance changelog — recent Naraka & NEAC windows',
 				'2026-08-25 — Full stack online: ESP wallhack, 2D radar, and soft aim profiles verified on Windows 10/11 after latest NEAC compatibility check. No rebuild required.',
-				'2026-08-17 — Post-patch review completed for ranked and unrated queues. ESP hero markers and radar range defaults refreshed in maintenance notes.',
+				'2026-08-17 — Post-patch review completed for ranked and Quick Match queues. ESP hero markers and radar range defaults refreshed in maintenance notes.',
 				'2026-08-10 — Seasonal content update: map rotation awareness copy refreshed; core ESP and aimbot modules unchanged. Check <a href="/neac-bypass/">NEAC guide</a> before major patch days.',
 				'Always confirm Steam service health on the official status page before assuming a product outage. When in doubt, skip the queue until this log shows a green build.',
 			),
@@ -308,7 +308,7 @@ export const enPages = {
 			section(
 				'What is Naraka Cheats?',
 				'Naraka Cheats is an undetected cheat package for Naraka on Windows PC. It includes ESP wallhack, 2D radar-style awareness, and Aimbot controls with NEAC maintenance updates.',
-				'Packages cover ranked and unrated matches. Explore <a href="/features/">Features</a> for the full control list and <a href="/naraka-esp/">ESP</a> / <a href="/naraka-aimbot/">Aimbot</a> for module detail.',
+				'Packages cover ranked and Quick Match sessions. Explore <a href="/features/">Features</a> for the full control list and <a href="/naraka-esp/">ESP</a> / <a href="/naraka-aimbot/">Aimbot</a> for module detail.',
 				`Naraka itself is published by 24 Entertainment (${EXT.naraka}). Cheats are third-party tools and may violate 24 Entertainment rules — use is at your own risk.`,
 			),
 			section(
@@ -418,7 +418,7 @@ export const enPages = {
 			),
 			section(
 				'Map coverage for wallhack ESP',
-				'Wallhack overlays support match, unrated matches, and official servers with distance readouts and snaplines for engagement control.',
+				'Wallhack overlays support match, Quick Match sessions, and official servers with distance readouts and snaplines for engagement control.',
 				`Season maps and POI changes are announced via ${EXT.naraka}. Wallhack remains useful because it tracks entities, not fixed landmarks alone.`,
 				'Pair wallhack awareness with <a href="/naraka-radar-hack/">radar hack</a> cues for flanks during arena corners and vertical fights.',
 			),
@@ -451,7 +451,7 @@ export const enPages = {
 			),
 			section(
 				'Configurable radar range',
-				'Adjust radar range for early rotations versus tight combat zones. Directional cues highlight flanks during site retakes and flank pushes across ranked and unrated matches.',
+				'Adjust radar range for early rotations versus tight combat zones. Directional cues highlight flanks during zone recoveries and flank pushes across ranked and Quick Match sessions.',
 				'Toggle radar alongside ESP and Aimbot with in-client hotkeys during live matches — see the <a href="/naraka-cheats/">mod menu</a> page.',
 				'Combat follow-up lives on <a href="/naraka-aimbot/">Aimbot</a> when you convert radar info into a fight.',
 			),
@@ -525,7 +525,7 @@ export const enPages = {
 				'Why naraka cheats buyers choose Naraka Cheats in 2026',
 				'2026 updates bring new maps, player balance changes, and NEAC patches. Naraka Cheats bundles ESP wallhack, radar hack, and Aimbot with active maintenance — not a stale prior-year build.',
 				`Track official season messaging on ${EXT.naraka}, then use our <a href="/updates/">Updates log</a> for product rebuild timing.`,
-				'Monthly ($35) and lifetime ($150) plans cover ranked and unrated match loops — see <a href="/pricing/">Pricing</a>.',
+				'Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href="/pricing/">Pricing</a>.',
 			),
 			section(
 				'Full feature stack for 2026 buyers',
@@ -563,12 +563,12 @@ export const enPages = {
 			section(
 				'What are naraka cheats?',
 				'Naraka is an information-heavy survival game. Naraka cheats are third-party tools that add overlays and assist features — typically ESP to see players and loot through walls, radar for off-screen threats, and soft aim to smooth combat under pressure.',
-				'Naraka Cheats bundles those tools in one maintained package instead of juggling separate downloads. One license covers match sessions, unrated matches, and official servers on Windows 10 and 11.',
+				'Naraka Cheats bundles those tools in one maintained package instead of juggling separate downloads. One license covers match sessions, Quick Match sessions, and official servers on Windows 10 and 11.',
 				`Game updates publish on ${EXT.naraka}. Our rebuild notes live on the <a href="/updates/">Updates page</a> so you know when to load in after a patch.`,
 			),
 			section(
 				'What Naraka Cheats includes',
-				'Player ESP wallhack outlines enemies and agents with distance readouts. Loot ESP highlights crates, corpses, and high-value resources. A 2D radar shows threats outside your view. Soft aim profiles let you tune FOV and smoothness per weapon.',
+				'Player ESP wallhack outlines enemies and heroes with distance readouts. Loot ESP highlights crates, corpses, and high-value resources. A 2D radar shows threats outside your view. Soft aim profiles let you tune FOV and smoothness per weapon.',
 				'Monthly ($35) and lifetime ($150) plans include the same feature stack — compare options on <a href="/pricing/">Pricing</a>.',
 				'Deep dives: <a href="/naraka-esp/">Naraka ESP</a>, <a href="/naraka-aimbot/">Naraka Aimbot</a>, <a href="/naraka-radar-hack/">radar hack</a>, and the full <a href="/features/">Features</a> list.',
 			),
@@ -646,7 +646,7 @@ export const enPages = {
 			),
 			section(
 				'Mod menu categories for battle royale rounds and ranked matches',
-				'Separate ESP wallhack categories for players, agents, abilities, and enemy players let you reduce overlay noise during rotations and combat zones.',
+				'Separate ESP wallhack categories for players, heroes, hero skills, and loot let you reduce overlay noise during rotations and combat zones.',
 				`Radar hack range and Aimbot smoothness adjust from the same mod menu — useful when ${EXT.naraka} seasons change fight distances and mobility.`,
 				'Soft tracking players should start with <a href="/naraka-aimbot/">soft aim</a> profiles before aggressive FOV.',
 			),
@@ -707,7 +707,7 @@ export const enPages = {
 			section(
 				'What makes naraka cheats in 2026',
 				'The naraka cheats combine active NEAC maintenance, a full ESP wallhack and radar stack, configurable Aimbot, and clear update communication — not a stale build from a prior season.',
-				'Naraka Cheats covers ranked and unrated matches with in-client toggles and post-patch rebuilds.',
+				'Naraka Cheats covers ranked and Quick Match sessions with in-client toggles and post-patch rebuilds.',
 				`Verify the live game is healthy via ${EXT.status}, then confirm our <a href="/updates/">Updates</a> note before you judge any package “best.”`,
 			),
 			section(
@@ -769,7 +769,7 @@ export const enPages = {
 			'Naraka ESP hack with player boxes & hero markers on PC. Wallhack, radar & aimbot included in one license. Buy at narakacheats.org from $35.',
 		h1: 'Naraka ESP Hack — Player Boxes Guide',
 		intro:
-			'Naraka ESP hack overlays for Naraka — player outlines, threat cues, ability and utility markers with distance readouts across ranked and unrated matches.',
+			'Naraka ESP hack overlays for Naraka — player outlines, threat cues, hero skill markers with distance readouts across ranked and Quick Match sessions.',
 		imageAlt: "Naraka ESP hack boxes and hero markers",
 		galleryTitle: 'Naraka ESP hack gallery',
 		ctaPrimary: 'Buy Naraka Cheats',

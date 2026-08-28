@@ -104,7 +104,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Naraka",
 					raidFight: "Aimbot assist during a Naraka melee combat",
 					battleRoyale: "Naraka Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for abilities and bomb sites in Naraka",
+					raidMap: "ESP markers for hero skills and POIs in Naraka",
 				},
 			},
 			pages: {
@@ -122,10 +122,10 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Why players choose naraka cheats in 2026",
 							paragraphs: [
-								"Naraka rewards map awareness. Naraka Cheats combines ESP wallhack for enemy players and abilities, radar-style threat cues, and configurable Aimbot so you can read fights before committing — on match, unrated matches, and official servers.",
+								"Naraka rewards map awareness. Naraka Cheats combines ESP wallhack for enemy heroes and player positions, radar-style threat cues, and configurable Aimbot so you can read fights before committing — in ranked, Quick Match, and official servers.",
 								"Official seasons, patches, and anti-cheat updates come from <a href=\"https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/\" target=\"_blank\" rel=\"noopener noreferrer\">Naraka</a> and <a href=\"https://www.naraka.com/en/\" target=\"_blank\" rel=\"noopener noreferrer\">NEAC</a>. We rebuild ESP, radar, and Aimbot modules when those patches require maintenance — then post status on the <a href=\"/updates/\">Updates page</a>.",
 								"Licenses ship digitally after payment confirmation. Monthly ($35) and lifetime ($150) plans include NEAC maintenance rebuilds when anti-cheat or game patches require updates.",
-								"Many shops sell ESP-only or aimbot-only modules. Naraka Cheats ships player ESP wallhack, agent ability markers, 2D radar overlays, and configurable soft aim in one license — with a public <a href=\"/updates/\">status log</a> after NEAC patches.",
+								"Many shops sell ESP-only or aimbot-only modules. Naraka Cheats ships player ESP wallhack, hero skill markers, 2D radar overlays, and configurable soft aim in one license — with a public <a href=\"/updates/\">status log</a> after NEAC patches.",
 								"Compare our stack on <a href=\"/compare/\">Compare</a>, read <a href=\"/undetected-naraka-cheats/\">undetected naraka cheats</a>, and review <a href=\"/best-naraka-cheats/\">best naraka cheats 2026</a> criteria before checkout.",
 							],
 						},
@@ -168,7 +168,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "When to use it",
 							paragraphs: [
-								"Clear bomb sites and grapple routes without flooding the screen.",
+								"Clear high-traffic POIs and grapple routes without flooding the screen.",
 								"Tune opacity and filters for arena zones, vault sectors, and high-traffic PvP areas.",
 							],
 							list: [
@@ -626,7 +626,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Map coverage for wallhack ESP",
 							paragraphs: [
-								"Wallhack overlays support match, unrated matches, and official servers with distance readouts and snaplines for engagement control.",
+								"Wallhack overlays support match, Quick Match sessions, and official servers with distance readouts and snaplines for engagement control.",
 								"Season maps and POI changes are announced via <a href=\"https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/\" target=\"_blank\" rel=\"noopener noreferrer\">Naraka</a>. Wallhack remains useful because it tracks entities, not fixed landmarks alone.",
 								"Pair wallhack awareness with <a href=\"/naraka-radar-hack/\">radar hack</a> cues for flanks during arena corners and vertical fights.",
 							],
@@ -750,7 +750,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"2026 updates bring new maps, player balance changes, and NEAC patches. Naraka Cheats bundles ESP wallhack, radar hack, and Aimbot with active maintenance — not a stale prior-year build.",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/\" target=\"_blank\" rel=\"noopener noreferrer\">Naraka</a>, then use our <a href=\"/updates/\">Updates log</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and unrated match loops — see <a href=\"/pricing/\">Pricing</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href=\"/pricing/\">Pricing</a>.",
 							],
 						},
 						{
@@ -913,7 +913,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Mod menu categories for battle royale rounds and ranked matches",
 							paragraphs: [
-								"Separate ESP wallhack categories for players, agents, abilities, and enemy players let you reduce overlay noise during rotations and combat zones.",
+								"Separate ESP wallhack categories for players, heroes, hero skills, and loot let you reduce overlay noise during rotations and combat zones.",
 								"Radar hack range and Aimbot smoothness adjust from the same mod menu — useful when <a href=\"https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/\" target=\"_blank\" rel=\"noopener noreferrer\">Naraka</a> seasons change fight distances and mobility.",
 								"Soft tracking players should start with <a href=\"/naraka-aimbot/\">soft aim</a> profiles before aggressive FOV.",
 							],
@@ -982,7 +982,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What makes naraka cheats in 2026",
 							paragraphs: [
 								"The naraka cheats combine active NEAC maintenance, a full ESP wallhack and radar stack, configurable Aimbot, and clear update communication — not a stale build from a prior season.",
-								"Naraka Cheats covers ranked and unrated matches with in-client toggles and post-patch rebuilds.",
+								"Naraka Cheats covers ranked and Quick Match sessions with in-client toggles and post-patch rebuilds.",
 								"Verify the live game is healthy via <a href=\"https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/\" target=\"_blank\" rel=\"noopener noreferrer\">Naraka on Steam</a>, then confirm our <a href=\"/updates/\">Updates</a> note before you judge any package “best.”",
 							],
 						},
@@ -1055,7 +1055,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Naraka ESP Hack | Wallhack Boxes | Naraka Cheats",
 					description: "Naraka ESP hack with player boxes & hero markers on PC. Wallhack, radar & aimbot included in one license. Buy at narakacheats.org from $35.",
 					h1: "Naraka ESP Hack — Player Boxes Guide",
-					intro: "Naraka ESP hack overlays for Naraka — player outlines, threat cues, ability and utility markers with distance readouts across ranked and unrated matches.",
+					intro: "Naraka ESP hack overlays for Naraka — player outlines, threat cues, hero skill markers with distance readouts across ranked and Quick Match sessions.",
 					imageAlt: "Naraka ESP hack boxes and hero markers",
 					galleryTitle: "Naraka ESP hack gallery",
 					ctaPrimary: "Buy Naraka Cheats",
@@ -1357,7 +1357,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Naraka",
 					raidFight: "Aimbot assist during a Naraka melee combat",
 					battleRoyale: "Naraka Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for abilities and bomb sites in Naraka",
+					raidMap: "ESP markers for hero skills and POIs in Naraka",
 				},
 			},
 			pages: {
@@ -1376,7 +1376,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Por qué eligen Naraka Cheats en 2026",
 							paragraphs: [
-								"Naraka Cheats ofrece ESP wallhack, radar hack y Naraka Aimbot indetectables para Naraka en Windows PC. Ideal para leer escuadrones enemigos en BR y unrated matches.",
+								"Naraka Cheats ofrece ESP wallhack, radar hack y Naraka Aimbot indetectables para Naraka en Windows PC. Ideal para leer escuadrones enemigos en BR y Quick Match sessions.",
 								"Licencias con entrega digital instantánea vía checkout Zadeyo. Planes $35/mes y $150 de por vida incluyen mantenimiento NEAC.",
 							],
 						},
@@ -1415,7 +1415,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Cuándo usarlo",
 							paragraphs: [
-								"Limpia zonas de sitios de bomba y grapple routes sin inundar la pantalla.",
+								"Limpia zonas de POI de alto tráfico y grapple routes sin inundar la pantalla.",
 								"Licencias con entrega digital instantánea vía checkout Zadeyo. Planes $35/mes y $150 de por vida incluyen mantenimiento NEAC.",
 							],
 							list: [
@@ -1996,7 +1996,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Naraka Cheats ofrece ESP wallhack, radar hack y Naraka Aimbot indetectables para Naraka en Windows PC. checklist de naraka cheats 2026 antes del checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/\" target=\"_blank\" rel=\"noopener noreferrer\">Naraka</a>, then use our <a href=\"/updates/\">Guía de trucos indetectables</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and unrated match loops — see <a href=\"/pricing/\">Tienda</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href=\"/pricing/\">Tienda</a>.",
 							],
 						},
 						{
@@ -2549,7 +2549,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Naraka",
 					raidFight: "Aimbot assist during a Naraka melee combat",
 					battleRoyale: "Naraka Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for abilities and bomb sites in Naraka",
+					raidMap: "ESP markers for hero skills and POIs in Naraka",
 				},
 			},
 			pages: {
@@ -2568,7 +2568,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Pourquoi choisir Naraka Cheats en 2026",
 							paragraphs: [
-								"Naraka Cheats combine ESP wallhack, radar hack et Naraka Aimbot indétectables pour Naraka sur PC Windows. Parfait pour lire les équipes ennemies en BR et unrated matches.",
+								"Naraka Cheats combine ESP wallhack, radar hack et Naraka Aimbot indétectables pour Naraka sur PC Windows. Parfait pour lire les équipes ennemies en BR et Quick Match sessions.",
 								"Licences avec livraison numérique instantanée via checkout Zadeyo. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance NEAC.",
 							],
 						},
@@ -2607,7 +2607,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Quand l'utiliser",
 							paragraphs: [
-								"Gardez les zones de bomb sites et grapple routes lisibles sans saturer l'écran.",
+								"Gardez les zones de high-traffic POIs et grapple routes lisibles sans saturer l'écran.",
 								"Licences avec livraison numérique instantanée via checkout Zadeyo. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance NEAC.",
 							],
 							list: [
@@ -2695,8 +2695,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "ESP et wallhack",
 							paragraphs: [
-								"Voyez joueurs, scientifiques et loot à travers les murs avec distances.",
-								"Utilisez des filtres pour garder l'overlay lisible dans les bomb sites et zones PvP.",
+								"Voyez joueurs, héros et loot à travers les murs avec distances.",
+								"Utilisez des filtres pour garder l'overlay lisible dans les POI et zones PvP.",
 							],
 							list: [
 								"Boîtes joueur et distance",
@@ -2720,7 +2720,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Radar",
 							paragraphs: [
 								"Un radar 2D simple pour les menaces hors champ.",
-								"Repérez les flancs près des bomb sites sans remplir l'écran.",
+								"Repérez les flancs près des POI sans remplir l'écran.",
 							],
 							list: [
 								"Indices d'ennemis proches",
@@ -3188,7 +3188,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Naraka Cheats combine ESP wallhack, radar hack et Naraka Aimbot indétectables pour Naraka sur PC Windows. checklist naraka cheats 2026 avant checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/\" target=\"_blank\" rel=\"noopener noreferrer\">Naraka</a>, then use our <a href=\"/updates/\">Guide triches indétectables</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and unrated match loops — see <a href=\"/pricing/\">Boutique</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href=\"/pricing/\">Boutique</a>.",
 							],
 						},
 						{
@@ -3741,7 +3741,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Naraka",
 					raidFight: "Aimbot assist during a Naraka melee combat",
 					battleRoyale: "Naraka Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for abilities and bomb sites in Naraka",
+					raidMap: "ESP markers for hero skills and POIs in Naraka",
 				},
 			},
 			pages: {
@@ -3760,7 +3760,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Warum Naraka Cheats 2026 führt",
 							paragraphs: [
-								"Naraka Cheats bündelt ESP wallhack, radar hack und Naraka Aimbot als undetected Paket für Naraka auf Windows PC. Ideal um feindliche Squads in BR und unrated matches zu lesen.",
+								"Naraka Cheats bündelt ESP wallhack, radar hack und Naraka Aimbot als undetected Paket für Naraka auf Windows PC. Ideal um feindliche Squads in BR und Quick Match sessions zu lesen.",
 								"Lizenzen mit sofortige digitale Lieferung über Zadeyo Checkout. $35/Monat und $150 Lifetime inkl. NEAC-Wartung.",
 							],
 						},
@@ -4380,7 +4380,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Naraka Cheats bündelt ESP wallhack, radar hack und Naraka Aimbot als undetected Paket für Naraka auf Windows PC. 2026 naraka cheats Checkliste vor dem Checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/\" target=\"_blank\" rel=\"noopener noreferrer\">Naraka</a>, then use our <a href=\"/updates/\">Undetected Cheats Guide</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and unrated match loops — see <a href=\"/pricing/\">Shop</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href=\"/pricing/\">Shop</a>.",
 							],
 						},
 						{
@@ -4933,7 +4933,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Naraka",
 					raidFight: "Aimbot assist during a Naraka melee combat",
 					battleRoyale: "Naraka Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for abilities and bomb sites in Naraka",
+					raidMap: "ESP markers for hero skills and POIs in Naraka",
 				},
 			},
 			pages: {
@@ -4952,7 +4952,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Por que escolher Naraka Cheats em 2026",
 							paragraphs: [
-								"Naraka Cheats reúne ESP wallhack, radar hack e Naraka Aimbot indetectáveis para Naraka no PC Windows. Ideal para ler equipes inimigos em BR e unrated matches.",
+								"Naraka Cheats reúne ESP wallhack, radar hack e Naraka Aimbot indetectáveis para Naraka no PC Windows. Ideal para ler equipes inimigos em BR e Quick Match sessions.",
 								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção NEAC.",
 							],
 						},
@@ -4991,7 +4991,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Quando usar",
 							paragraphs: [
-								"Mantenha sitios de bomba e grapple routes claros sem lotar a tela.",
+								"Mantenha POI de alto tráfico e grapple routes claros sem lotar a tela.",
 								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção NEAC.",
 							],
 							list: [
@@ -5571,7 +5571,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Naraka Cheats reúne ESP wallhack, radar hack e Naraka Aimbot indetectáveis para Naraka no PC Windows. checklist de naraka cheats 2026 antes do checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/\" target=\"_blank\" rel=\"noopener noreferrer\">Naraka</a>, then use our <a href=\"/updates/\">Guia de cheats indetectáveis</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and unrated match loops — see <a href=\"/pricing/\">Loja</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href=\"/pricing/\">Loja</a>.",
 							],
 						},
 						{
@@ -6124,7 +6124,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Naraka",
 					raidFight: "Aimbot assist during a Naraka melee combat",
 					battleRoyale: "Naraka Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for abilities and bomb sites in Naraka",
+					raidMap: "ESP markers for hero skills and POIs in Naraka",
 				},
 			},
 			pages: {
@@ -6143,7 +6143,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Perché scegliere Naraka Cheats nel 2026",
 							paragraphs: [
-								"Naraka Cheats unisce ESP wallhack, radar hack e Naraka Aimbot indetectable per Naraka su PC Windows. Ideale per leggere squadre nemiche in BR e unrated matches.",
+								"Naraka Cheats unisce ESP wallhack, radar hack e Naraka Aimbot indetectable per Naraka su PC Windows. Ideale per leggere squadre nemiche in BR e Quick Match sessions.",
 								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione NEAC.",
 							],
 						},
@@ -6182,7 +6182,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Quando usarlo",
 							paragraphs: [
-								"Siti bomba e percorsi spike chiari chiari senza riempire lo schermo.",
+								"POI e rotazioni chiari chiari senza riempire lo schermo.",
 								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione NEAC.",
 							],
 							list: [
@@ -6762,7 +6762,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Naraka Cheats unisce ESP wallhack, radar hack e Naraka Aimbot indetectable per Naraka su PC Windows. checklist naraka cheats 2026 prima del checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/\" target=\"_blank\" rel=\"noopener noreferrer\">Naraka</a>, then use our <a href=\"/updates/\">Guida cheat indetectable</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and unrated match loops — see <a href=\"/pricing/\">Negozio</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href=\"/pricing/\">Negozio</a>.",
 							],
 						},
 						{
@@ -7315,7 +7315,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Naraka",
 					raidFight: "Aimbot assist during a Naraka melee combat",
 					battleRoyale: "Naraka Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for abilities and bomb sites in Naraka",
+					raidMap: "ESP markers for hero skills and POIs in Naraka",
 				},
 			},
 			pages: {
@@ -7334,7 +7334,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Waarom Naraka Cheats in 2026",
 							paragraphs: [
-								"Naraka Cheats bundelt ESP wallhack, radar hack en Naraka Aimbot als undetected pakket voor Naraka op Windows PC. Ideaal om vijandelijke squads te lezen in BR en unrated matches.",
+								"Naraka Cheats bundelt ESP wallhack, radar hack en Naraka Aimbot als undetected pakket voor Naraka op Windows PC. Ideaal om vijandelijke squads te lezen in BR en Quick Match sessions.",
 								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. NEAC-onderhoud.",
 							],
 						},
@@ -7953,7 +7953,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Naraka Cheats bundelt ESP wallhack, radar hack en Naraka Aimbot als undetected pakket voor Naraka op Windows PC. 2026 naraka cheats checklist vóór checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/\" target=\"_blank\" rel=\"noopener noreferrer\">Naraka</a>, then use our <a href=\"/updates/\">Undetected cheats gids</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and unrated match loops — see <a href=\"/pricing/\">Winkel</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href=\"/pricing/\">Winkel</a>.",
 							],
 						},
 						{
@@ -8506,7 +8506,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Naraka",
 					raidFight: "Aimbot assist during a Naraka melee combat",
 					battleRoyale: "Naraka Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for abilities and bomb sites in Naraka",
+					raidMap: "ESP markers for hero skills and POIs in Naraka",
 				},
 			},
 			pages: {
@@ -8525,7 +8525,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Dlaczego Naraka Cheats w 2026",
 							paragraphs: [
-								"Naraka Cheats łączy ESP wallhack, radar hack i Naraka Aimbot jako pakiet undetected dla Naraka na PC Windows. Idealny do czytania wrogich squadów w BR i unrated matches.",
+								"Naraka Cheats łączy ESP wallhack, radar hack i Naraka Aimbot jako pakiet undetected dla Naraka na PC Windows. Idealny do czytania wrogich squadów w BR i Quick Match sessions.",
 								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją NEAC.",
 							],
 						},
@@ -8564,7 +8564,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Kiedy używać",
 							paragraphs: [
-								"Czytelne bomb sites i grapple routes bez przepełnienia ekranu.",
+								"Czytelne high-traffic POIs i grapple routes bez przepełnienia ekranu.",
 								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją NEAC.",
 							],
 							list: [
@@ -9144,7 +9144,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Naraka Cheats łączy ESP wallhack, radar hack i Naraka Aimbot jako pakiet undetected dla Naraka na PC Windows. checklista naraka cheats 2026 przed checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/\" target=\"_blank\" rel=\"noopener noreferrer\">Naraka</a>, then use our <a href=\"/updates/\">Przewodnik cheatów undetected</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and unrated match loops — see <a href=\"/pricing/\">Sklep</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href=\"/pricing/\">Sklep</a>.",
 							],
 						},
 						{
@@ -9697,7 +9697,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Naraka",
 					raidFight: "Aimbot assist during a Naraka melee combat",
 					battleRoyale: "Naraka Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for abilities and bomb sites in Naraka",
+					raidMap: "ESP markers for hero skills and POIs in Naraka",
 				},
 			},
 			pages: {
@@ -9716,7 +9716,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Почему выбирают Naraka Cheats в 2026",
 							paragraphs: [
-								"Naraka Cheats объединяет ESP wallhack, radar hack и Naraka Aimbot в undetected пакете для Naraka на Windows PC. Идеально для чтения вражеских отрядов в BR и unrated matches.",
+								"Naraka Cheats объединяет ESP wallhack, radar hack и Naraka Aimbot в undetected пакете для Naraka на Windows PC. Идеально для чтения вражеских отрядов в BR и Quick Match sessions.",
 								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание NEAC.",
 							],
 						},
@@ -9755,7 +9755,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Когда использовать",
 							paragraphs: [
-								"Чистые зоны бомб-сайтов и маршрутов spike без перегрузки экрана.",
+								"Чистые зоны POI и маршрутов ротации без перегрузки экрана.",
 								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание NEAC.",
 							],
 							list: [
@@ -10335,7 +10335,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Naraka Cheats объединяет ESP wallhack, radar hack и Naraka Aimbot в undetected пакете для Naraka на Windows PC. чеклист naraka cheats 2026 перед checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/\" target=\"_blank\" rel=\"noopener noreferrer\">Naraka</a>, then use our <a href=\"/updates/\">Гайд undetected читов</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and unrated match loops — see <a href=\"/pricing/\">Магазин</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href=\"/pricing/\">Магазин</a>.",
 							],
 						},
 						{
@@ -10888,7 +10888,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Naraka",
 					raidFight: "Aimbot assist during a Naraka melee combat",
 					battleRoyale: "Naraka Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for abilities and bomb sites in Naraka",
+					raidMap: "ESP markers for hero skills and POIs in Naraka",
 				},
 			},
 			pages: {
@@ -10907,7 +10907,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "2026'da neden Naraka Cheats",
 							paragraphs: [
-								"Naraka Cheats, Naraka için Windows PC üzerinde ESP wallhack, radar hack ve Naraka Aimbot undetected paket sunar. BR ve unrated matches'da düşman squad okumak için ideal.",
+								"Naraka Cheats, Naraka için Windows PC üzerinde ESP wallhack, radar hack ve Naraka Aimbot undetected paket sunar. BR ve Quick Match sessions'da düşman squad okumak için ideal.",
 								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları NEAC bakımı içerir.",
 							],
 						},
@@ -10946,7 +10946,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Ne zaman kullanılır",
 							paragraphs: [
-								"Ekranı doldurmadan bomb site ve grapple routes bölgelerini net tutun.",
+								"Ekranı doldurmadan POI ve grapple routes bölgelerini net tutun.",
 								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları NEAC bakımı içerir.",
 							],
 							list: [
@@ -11526,7 +11526,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Naraka Cheats, Naraka için Windows PC üzerinde ESP wallhack, radar hack ve Naraka Aimbot undetected paket sunar. checkout öncesi 2026 naraka cheats kontrol listesi",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/\" target=\"_blank\" rel=\"noopener noreferrer\">Naraka</a>, then use our <a href=\"/updates/\">Undetected hile rehberi</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and unrated match loops — see <a href=\"/pricing/\">Mağaza</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href=\"/pricing/\">Mağaza</a>.",
 							],
 						},
 						{
@@ -12079,7 +12079,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Naraka",
 					raidFight: "Aimbot assist during a Naraka melee combat",
 					battleRoyale: "Naraka Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for abilities and bomb sites in Naraka",
+					raidMap: "ESP markers for hero skills and POIs in Naraka",
 				},
 			},
 			pages: {
@@ -12098,7 +12098,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "لماذا Naraka Cheats في 2026",
 							paragraphs: [
-								"Naraka Cheats يجمع ESP wallhack وradar hack وNaraka Aimbot غير مكتشف لـ Naraka على Windows PC. مثالي لقراءة فرق العدو في BR وunrated matches.",
+								"Naraka Cheats يجمع ESP wallhack وradar hack وNaraka Aimbot غير مكتشف لـ Naraka على Windows PC. مثالي لقراءة فرق العدو في BR وQuick Match sessions.",
 								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة NEAC.",
 							],
 						},
@@ -12717,7 +12717,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Naraka Cheats يجمع ESP wallhack وradar hack وNaraka Aimbot غير مكتشف لـ Naraka على Windows PC. قائمة naraka cheats 2026 قبل checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/\" target=\"_blank\" rel=\"noopener noreferrer\">Naraka</a>, then use our <a href=\"/updates/\">دليل الغش غير المكتشف</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and unrated match loops — see <a href=\"/pricing/\">المتجر</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href=\"/pricing/\">المتجر</a>.",
 							],
 						},
 						{
@@ -13270,7 +13270,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Naraka",
 					raidFight: "Aimbot assist during a Naraka melee combat",
 					battleRoyale: "Naraka Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for abilities and bomb sites in Naraka",
+					raidMap: "ESP markers for hero skills and POIs in Naraka",
 				},
 			},
 			pages: {
@@ -13289,7 +13289,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "2026年にNaraka Cheatsを選ぶ理由",
 							paragraphs: [
-								"Naraka CheatsはNaraka向けWindows PC用ESP wallhack、radar hack、Naraka Aimbotのundetectedパッケージです。BRとunrated matchesで敵スクワッドを読むのに最適。",
+								"Naraka CheatsはNaraka向けWindows PC用ESP wallhack、radar hack、Naraka Aimbotのundetectedパッケージです。BRとQuick Match sessionsで敵スクワッドを読むのに最適。",
 								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにNEACメンテナンス含む。",
 							],
 						},
@@ -13908,7 +13908,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Naraka CheatsはNaraka向けWindows PC用ESP wallhack、radar hack、Naraka Aimbotのundetectedパッケージです。checkout前の2026 naraka cheatsチェックリスト",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/\" target=\"_blank\" rel=\"noopener noreferrer\">Naraka</a>, then use our <a href=\"/updates/\">Undetectedチートガイド</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and unrated match loops — see <a href=\"/pricing/\">ストア</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href=\"/pricing/\">ストア</a>.",
 							],
 						},
 						{
@@ -14461,7 +14461,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Naraka",
 					raidFight: "Aimbot assist during a Naraka melee combat",
 					battleRoyale: "Naraka Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for abilities and bomb sites in Naraka",
+					raidMap: "ESP markers for hero skills and POIs in Naraka",
 				},
 			},
 			pages: {
@@ -14480,7 +14480,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "2026년 Naraka Cheats를 선택하는 이유",
 							paragraphs: [
-								"Naraka Cheats는 Naraka Windows PC용 ESP wallhack, radar hack, Naraka Aimbot undetected 패키지입니다. BR 및 unrated matches에서 적 분대 읽기에 이상적.",
+								"Naraka Cheats는 Naraka Windows PC용 ESP wallhack, radar hack, Naraka Aimbot undetected 패키지입니다. BR 및 Quick Match sessions에서 적 분대 읽기에 이상적.",
 								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 NEAC 유지보수 포함.",
 							],
 						},
@@ -14519,7 +14519,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "사용 시기",
 							paragraphs: [
-								"화면을 가리지 않고 bomb site와 grapple routes 구역을 깔끔하게.",
+								"화면을 가리지 않고 POI와 grapple routes 구역을 깔끔하게.",
 								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 NEAC 유지보수 포함.",
 							],
 							list: [
@@ -15099,7 +15099,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Naraka Cheats는 Naraka Windows PC용 ESP wallhack, radar hack, Naraka Aimbot undetected 패키지입니다. checkout 전 2026 naraka cheats 체크리스트",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/\" target=\"_blank\" rel=\"noopener noreferrer\">Naraka</a>, then use our <a href=\"/updates/\">Undetected 치트 가이드</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and unrated match loops — see <a href=\"/pricing/\">스토어</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href=\"/pricing/\">스토어</a>.",
 							],
 						},
 						{
@@ -15652,7 +15652,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Naraka",
 					raidFight: "Aimbot assist during a Naraka melee combat",
 					battleRoyale: "Naraka Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for abilities and bomb sites in Naraka",
+					raidMap: "ESP markers for hero skills and POIs in Naraka",
 				},
 			},
 			pages: {
@@ -15671,7 +15671,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "2026年选择Naraka Cheats的原因",
 							paragraphs: [
-								"Naraka Cheats为NarakaWindows PC提供ESP wallhack、radar hack和Naraka Aimbotundetected套餐。适合在BR和unrated matches中读取敌方小队。",
+								"Naraka Cheats为NarakaWindows PC提供ESP wallhack、radar hack和Naraka Aimbotundetected套餐。适合在BR和Quick Match sessions中读取敌方小队。",
 								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含NEAC维护。",
 							],
 						},
@@ -15710,7 +15710,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "何时使用",
 							paragraphs: [
-								"清晰显示 bomb site 和 loot 路线，不遮挡屏幕。",
+								"清晰显示 POI 和 loot 路线，不遮挡屏幕。",
 								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含NEAC维护。",
 							],
 							list: [
@@ -16290,7 +16290,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Naraka Cheats为NarakaWindows PC提供ESP wallhack、radar hack和Naraka Aimbotundetected套餐。checkout前的2026 naraka cheats清单",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/\" target=\"_blank\" rel=\"noopener noreferrer\">Naraka</a>, then use our <a href=\"/updates/\">Undetected作弊指南</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and unrated match loops — see <a href=\"/pricing/\">商店</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href=\"/pricing/\">商店</a>.",
 							],
 						},
 						{
@@ -16843,7 +16843,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Naraka",
 					raidFight: "Aimbot assist during a Naraka melee combat",
 					battleRoyale: "Naraka Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for abilities and bomb sites in Naraka",
+					raidMap: "ESP markers for hero skills and POIs in Naraka",
 				},
 			},
 			pages: {
@@ -16862,7 +16862,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "2026 में Naraka Cheats क्यों",
 							paragraphs: [
-								"Naraka Cheats Naraka के लिए Windows PC पर ESP wallhack, radar hack और Naraka Aimbot undetected पैकेज देता है। BR और unrated matches में दुश्मन squad पढ़ने के लिए आदर्श.",
+								"Naraka Cheats Naraka के लिए Windows PC पर ESP wallhack, radar hack और Naraka Aimbot undetected पैकेज देता है। BR और Quick Match sessions में दुश्मन squad पढ़ने के लिए आदर्श.",
 								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में NEAC maintenance शामिल।",
 							],
 						},
@@ -16901,7 +16901,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "कब उपयोग करें",
 							paragraphs: [
-								"स्क्रीन भरे बिना bomb site zones और grapple routes साफ रखें।",
+								"स्क्रीन भरे बिना POI zones और grapple routes साफ रखें।",
 								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में NEAC maintenance शामिल।",
 							],
 							list: [
@@ -17481,7 +17481,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Naraka Cheats Naraka के लिए Windows PC पर ESP wallhack, radar hack और Naraka Aimbot undetected पैकेज देता है। checkout से पहले 2026 naraka cheats checklist",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/\" target=\"_blank\" rel=\"noopener noreferrer\">Naraka</a>, then use our <a href=\"/updates/\">Undetected cheats गाइड</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and unrated match loops — see <a href=\"/pricing/\">स्टोर</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href=\"/pricing/\">स्टोर</a>.",
 							],
 						},
 						{
@@ -18034,7 +18034,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Naraka",
 					raidFight: "Aimbot assist during a Naraka melee combat",
 					battleRoyale: "Naraka Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for abilities and bomb sites in Naraka",
+					raidMap: "ESP markers for hero skills and POIs in Naraka",
 				},
 			},
 			pages: {
@@ -18053,7 +18053,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Mengapa Naraka Cheats di 2026",
 							paragraphs: [
-								"Naraka Cheats menyediakan ESP wallhack, radar hack, dan Naraka Aimbot undetected untuk Naraka di PC Windows. Ideal membaca squad musuh di BR dan unrated matches.",
+								"Naraka Cheats menyediakan ESP wallhack, radar hack, dan Naraka Aimbot undetected untuk Naraka di PC Windows. Ideal membaca squad musuh di BR dan Quick Match sessions.",
 								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan NEAC.",
 							],
 						},
@@ -18092,7 +18092,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Kapan menggunakan",
 							paragraphs: [
-								"Jaga zona bomb site dan grapple routes jelas tanpa membanjiri layar.",
+								"Jaga zona POI dan grapple routes jelas tanpa membanjiri layar.",
 								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan NEAC.",
 							],
 							list: [
@@ -18672,7 +18672,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Naraka Cheats menyediakan ESP wallhack, radar hack, dan Naraka Aimbot undetected untuk Naraka di PC Windows. checklist naraka cheats 2026 sebelum checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/\" target=\"_blank\" rel=\"noopener noreferrer\">Naraka</a>, then use our <a href=\"/updates/\">Panduan cheat undetected</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and unrated match loops — see <a href=\"/pricing/\">Toko</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href=\"/pricing/\">Toko</a>.",
 							],
 						},
 						{
@@ -19225,7 +19225,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Naraka",
 					raidFight: "Aimbot assist during a Naraka melee combat",
 					battleRoyale: "Naraka Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for abilities and bomb sites in Naraka",
+					raidMap: "ESP markers for hero skills and POIs in Naraka",
 				},
 			},
 			pages: {
@@ -19244,7 +19244,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "ทำไมเลือก Naraka Cheats ปี 2026",
 							paragraphs: [
-								"Naraka Cheats รวม ESP wallhack, radar hack และ Naraka Aimbot แบบ undetected สำหรับ Naraka บน Windows PC เหมาะสำหรับอ่าน squad ศัตรูใน BR และ unrated matches",
+								"Naraka Cheats รวม ESP wallhack, radar hack และ Naraka Aimbot แบบ undetected สำหรับ Naraka บน Windows PC เหมาะสำหรับอ่าน squad ศัตรูใน BR และ Quick Match sessions",
 								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล NEAC",
 							],
 						},
@@ -19283,7 +19283,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "เมื่อไหร่ควรใช้",
 							paragraphs: [
-								"ทำให้ bomb site และ grapple routes ชัดเจนโดยไม่เต็มหน้าจอ",
+								"ทำให้ POI และ grapple routes ชัดเจนโดยไม่เต็มหน้าจอ",
 								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล NEAC",
 							],
 							list: [
@@ -19863,7 +19863,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Naraka Cheats รวม ESP wallhack, radar hack และ Naraka Aimbot แบบ undetected สำหรับ Naraka บน Windows PC checklist naraka cheats 2026 ก่อน checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/\" target=\"_blank\" rel=\"noopener noreferrer\">Naraka</a>, then use our <a href=\"/updates/\">คู่มือ cheat undetected</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and unrated match loops — see <a href=\"/pricing/\">ร้านค้า</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href=\"/pricing/\">ร้านค้า</a>.",
 							],
 						},
 						{
@@ -20416,7 +20416,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Naraka",
 					raidFight: "Aimbot assist during a Naraka melee combat",
 					battleRoyale: "Naraka Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for abilities and bomb sites in Naraka",
+					raidMap: "ESP markers for hero skills and POIs in Naraka",
 				},
 			},
 			pages: {
@@ -20435,7 +20435,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Vì sao chọn Naraka Cheats 2026",
 							paragraphs: [
-								"Naraka Cheats cung cấp ESP wallhack, radar hack và Naraka Aimbot undetected cho Naraka trên PC Windows. Lý tưởng đọc squad địch trong BR và unrated matches.",
+								"Naraka Cheats cung cấp ESP wallhack, radar hack và Naraka Aimbot undetected cho Naraka trên PC Windows. Lý tưởng đọc squad địch trong BR và Quick Match sessions.",
 								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì NEAC.",
 							],
 						},
@@ -20474,7 +20474,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Khi nào sử dụng",
 							paragraphs: [
-								"Giữ vùng bomb site và grapple routes rõ ràng không che màn hình.",
+								"Giữ vùng POI và grapple routes rõ ràng không che màn hình.",
 								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì NEAC.",
 							],
 							list: [
@@ -21054,7 +21054,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Naraka Cheats cung cấp ESP wallhack, radar hack và Naraka Aimbot undetected cho Naraka trên PC Windows. checklist naraka cheats 2026 trước checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/\" target=\"_blank\" rel=\"noopener noreferrer\">Naraka</a>, then use our <a href=\"/updates/\">Hướng dẫn cheat undetected</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and unrated match loops — see <a href=\"/pricing/\">Cửa hàng</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href=\"/pricing/\">Cửa hàng</a>.",
 							],
 						},
 						{
@@ -21607,7 +21607,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Naraka",
 					raidFight: "Aimbot assist during a Naraka melee combat",
 					battleRoyale: "Naraka Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for abilities and bomb sites in Naraka",
+					raidMap: "ESP markers for hero skills and POIs in Naraka",
 				},
 			},
 			pages: {
@@ -21626,7 +21626,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Чому Naraka Cheats у 2026",
 							paragraphs: [
-								"Naraka Cheats об'єднує ESP wallhack, radar hack і Naraka Aimbot у undetected пакеті для Naraka на Windows PC. Ідеально для читання ворожих загонів у BR і unrated matches.",
+								"Naraka Cheats об'єднує ESP wallhack, radar hack і Naraka Aimbot у undetected пакеті для Naraka на Windows PC. Ідеально для читання ворожих загонів у BR і Quick Match sessions.",
 								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування NEAC.",
 							],
 						},
@@ -21665,7 +21665,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Коли використовувати",
 							paragraphs: [
-								"Чіткі зони bomb site і grapple routes без перевантаження екрана.",
+								"Чіткі зони POI і grapple routes без перевантаження екрана.",
 								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування NEAC.",
 							],
 							list: [
@@ -22245,7 +22245,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Naraka Cheats об'єднує ESP wallhack, radar hack і Naraka Aimbot у undetected пакеті для Naraka на Windows PC. чеклист naraka cheats 2026 перед checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/\" target=\"_blank\" rel=\"noopener noreferrer\">Naraka</a>, then use our <a href=\"/updates/\">Гайд undetected чітів</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and unrated match loops — see <a href=\"/pricing/\">Магазин</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href=\"/pricing/\">Магазин</a>.",
 							],
 						},
 						{
@@ -22798,7 +22798,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Naraka",
 					raidFight: "Aimbot assist during a Naraka melee combat",
 					battleRoyale: "Naraka Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for abilities and bomb sites in Naraka",
+					raidMap: "ESP markers for hero skills and POIs in Naraka",
 				},
 			},
 			pages: {
@@ -22817,7 +22817,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Proč Naraka Cheats v roce 2026",
 							paragraphs: [
-								"Naraka Cheats spojuje ESP wallhack, radar hack a Naraka Aimbot jako undetected balíček pro Naraka na Windows PC. Ideální pro čtení nepřátelských squadů v BR a unrated matches.",
+								"Naraka Cheats spojuje ESP wallhack, radar hack a Naraka Aimbot jako undetected balíček pro Naraka na Windows PC. Ideální pro čtení nepřátelských squadů v BR a Quick Match sessions.",
 								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby NEAC.",
 							],
 						},
@@ -22856,7 +22856,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Kdy použít",
 							paragraphs: [
-								"Přehledné bomb sites a grapple routes bez zaplnění obrazovky.",
+								"Přehledné high-traffic POIs a grapple routes bez zaplnění obrazovky.",
 								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby NEAC.",
 							],
 							list: [
@@ -23436,7 +23436,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Naraka Cheats spojuje ESP wallhack, radar hack a Naraka Aimbot jako undetected balíček pro Naraka na Windows PC. checklist naraka cheats 2026 před checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/\" target=\"_blank\" rel=\"noopener noreferrer\">Naraka</a>, then use our <a href=\"/updates/\">Průvodce undetected cheaty</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and unrated match loops — see <a href=\"/pricing/\">Obchod</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href=\"/pricing/\">Obchod</a>.",
 							],
 						},
 						{
@@ -23989,7 +23989,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Naraka",
 					raidFight: "Aimbot assist during a Naraka melee combat",
 					battleRoyale: "Naraka Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for abilities and bomb sites in Naraka",
+					raidMap: "ESP markers for hero skills and POIs in Naraka",
 				},
 			},
 			pages: {
@@ -24008,7 +24008,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "De ce Naraka Cheats în 2026",
 							paragraphs: [
-								"Naraka Cheats combină ESP wallhack, radar hack și Naraka Aimbot undetected pentru Naraka pe PC Windows. Ideal pentru citirea squad-urilor inamice în BR și unrated matches.",
+								"Naraka Cheats combină ESP wallhack, radar hack și Naraka Aimbot undetected pentru Naraka pe PC Windows. Ideal pentru citirea squad-urilor inamice în BR și Quick Match sessions.",
 								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță NEAC.",
 							],
 						},
@@ -24047,7 +24047,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Când să folosești",
 							paragraphs: [
-								"Zone bomb site și grapple routes clare fără a umple ecranul.",
+								"Zone POI și grapple routes clare fără a umple ecranul.",
 								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță NEAC.",
 							],
 							list: [
@@ -24627,7 +24627,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Naraka Cheats combină ESP wallhack, radar hack și Naraka Aimbot undetected pentru Naraka pe PC Windows. checklist naraka cheats 2026 înainte de checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/\" target=\"_blank\" rel=\"noopener noreferrer\">Naraka</a>, then use our <a href=\"/updates/\">Ghid cheats undetected</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and unrated match loops — see <a href=\"/pricing/\">Magazin</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href=\"/pricing/\">Magazin</a>.",
 							],
 						},
 						{
@@ -25180,7 +25180,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Naraka",
 					raidFight: "Aimbot assist during a Naraka melee combat",
 					battleRoyale: "Naraka Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for abilities and bomb sites in Naraka",
+					raidMap: "ESP markers for hero skills and POIs in Naraka",
 				},
 			},
 			pages: {
@@ -25199,7 +25199,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Varför Naraka Cheats 2026",
 							paragraphs: [
-								"Naraka Cheats kombinerar ESP wallhack, radar hack och Naraka Aimbot som undetected paket för Naraka på Windows PC. Ideal för att läsa fiendesquads i BR och unrated matches.",
+								"Naraka Cheats kombinerar ESP wallhack, radar hack och Naraka Aimbot som undetected paket för Naraka på Windows PC. Ideal för att läsa fiendesquads i BR och Quick Match sessions.",
 								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. NEAC-underhåll.",
 							],
 						},
@@ -25238,7 +25238,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "När du använder det",
 							paragraphs: [
-								"Håll bomb sitezoner och grapple routes tydliga utan att fylla skärmen.",
+								"Håll POIzoner och grapple routes tydliga utan att fylla skärmen.",
 								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. NEAC-underhåll.",
 							],
 							list: [
@@ -25818,7 +25818,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Naraka Cheats kombinerar ESP wallhack, radar hack och Naraka Aimbot som undetected paket för Naraka på Windows PC. 2026 naraka cheats checklist före checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/\" target=\"_blank\" rel=\"noopener noreferrer\">Naraka</a>, then use our <a href=\"/updates/\">Undetected cheats-guide</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and unrated match loops — see <a href=\"/pricing/\">Butik</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href=\"/pricing/\">Butik</a>.",
 							],
 						},
 						{

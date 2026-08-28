@@ -237,7 +237,7 @@
     },
     "wiki": {
       "label": "Naraka Wiki (Fandom)",
-      "note": "Player stats, maps, and agent abilities."
+      "note": "Player stats, maps, and hero abilities."
     },
     "community": {
       "label": "Naraka community hub",
@@ -254,7 +254,7 @@
     "hacksPackage": "2D radar threat overlay for Naraka",
     "raidFight": "Aimbot assist during a Naraka melee combat",
     "battleRoyale": "Naraka Cheats in-session overview for Windows PC",
-    "raidMap": "ESP markers for abilities and bomb sites in Naraka"
+    "raidMap": "ESP markers for hero skills and POIs in Naraka"
   },
   "guides": {
     "hubTitle": "Game Guides Hub",
@@ -271,7 +271,7 @@
     "blogTitle": "Naraka Cheats Blog | Guides & Patch Tips",
     "blogDescription": "Naraka guides — battle royale tips, ESP, aimbot notes, grapple routes, and NEAC update coverage. English blog at narakacheats.org/blog/.",
     "blogH1": "Naraka Cheats Intel",
-    "blogIntro": "Actionable Naraka guides for ranked and unrated matches — meta breakdowns, grapple routes, hero tiers, and pro warmup routines. Pair these tips with our Naraka Cheats pages for ESP, soft aim, and radar when you need in-match tools.",
+    "blogIntro": "Actionable Naraka guides for ranked and Quick Match sessions — meta breakdowns, grapple routes, hero tiers, and pro warmup routines. Pair these tips with our Naraka Cheats pages for ESP, soft aim, and radar when you need in-match tools.",
     "readMore": "Read guide",
     "published": "Published",
     "updated": "Updated",
@@ -285,9 +285,9 @@
     "eyebrow": "Naraka Cheats",
     "title": "Naraka Cheats gallery",
     "subtitle": "Naraka Cheats visuals — ESP, wallhack, aimbot, and radar for Naraka on PC.",
-    "lead": "Naraka Cheats helps you spot enemy agents, utility, and bomb sites with ESP, aimbot, and radar in one license.",
+    "lead": "Naraka Cheats helps you spot enemy heroes, loot, and high-traffic POIs with ESP, aimbot, and radar in one license.",
     "highlightEspTitle": "Naraka Cheats ESP",
-    "highlightEspCopy": "See enemy agents through walls with Naraka Cheats ESP and wallhack overlays.",
+    "highlightEspCopy": "See enemy heroes through walls with Naraka Cheats ESP and wallhack overlays.",
     "highlightRadarTitle": "Naraka Cheats radar",
     "highlightRadarCopy": "Track nearby threats with Naraka Cheats radar before you push or rotate.",
     "highlightAimbotTitle": "Naraka Cheats aimbot",

@@ -12,7 +12,7 @@ export const nativeGuides: NativeGuideLink[] = [
 		slug: 'naraka-esp',
 		href: '/naraka-esp/',
 		title: 'Naraka ESP & Wallhack',
-		description: 'How ESP overlays work in Naraka — hero markers, spike cues, and distance readouts.',
+		description: 'How ESP overlays work in Naraka — hero markers, threat cues, and distance readouts.',
 	},
 	{
 		slug: 'naraka-aimbot',
@@ -24,7 +24,7 @@ export const nativeGuides: NativeGuideLink[] = [
 		slug: 'naraka-radar-hack',
 		href: '/naraka-radar-hack/',
 		title: 'Naraka Radar Hack',
-		description: '2D radar overlays for flanks, rotates, and spike-zone awareness.',
+		description: '2D radar overlays for flanks, rotates, and zone awareness.',
 	},
 	{
 		slug: 'setup',

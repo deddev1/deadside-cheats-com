@@ -256,7 +256,7 @@ export const simplePagesEn = {
 			{
 				h2: 'When to use it',
 				paragraphs: [
-					'Clear bomb sites and grapple routes without flooding the screen.',
+					'Clear high-traffic POIs and grapple routes without flooding the screen.',
 					'Tune opacity and filters for arena zones, vault sectors, and high-traffic PvP areas.',
 				],
 				list: ['Tune opacity', 'Filter noise', 'Pair with radar'],

@@ -19,7 +19,7 @@ export const uiStringsPart2 = {
 		hacksPackage: "2D radar threat overlay for Naraka",
 		raidFight: "Aimbot assist during a Naraka melee combat",
 		battleRoyale: "Naraka Cheats in-session overview for Windows PC",
-		raidMap: "ESP markers for abilities and bomb sites in Naraka",
+		raidMap: "ESP markers for hero skills and POIs in Naraka",
 	},
 	},
 	ja: {
@@ -40,7 +40,7 @@ export const uiStringsPart2 = {
 		hacksPackage: "2D radar threat overlay for Naraka",
 		raidFight: "Aimbot assist during a Naraka melee combat",
 		battleRoyale: "Naraka Cheats in-session overview for Windows PC",
-		raidMap: "ESP markers for abilities and bomb sites in Naraka",
+		raidMap: "ESP markers for hero skills and POIs in Naraka",
 	},
 	},
 	ko: {
@@ -61,7 +61,7 @@ export const uiStringsPart2 = {
 		hacksPackage: "2D radar threat overlay for Naraka",
 		raidFight: "Aimbot assist during a Naraka melee combat",
 		battleRoyale: "Naraka Cheats in-session overview for Windows PC",
-		raidMap: "ESP markers for abilities and bomb sites in Naraka",
+		raidMap: "ESP markers for hero skills and POIs in Naraka",
 	},
 	},
 	zh: {
@@ -82,7 +82,7 @@ export const uiStringsPart2 = {
 		hacksPackage: "2D radar threat overlay for Naraka",
 		raidFight: "Aimbot assist during a Naraka melee combat",
 		battleRoyale: "Naraka Cheats in-session overview for Windows PC",
-		raidMap: "ESP markers for abilities and bomb sites in Naraka",
+		raidMap: "ESP markers for hero skills and POIs in Naraka",
 	},
 	},
 	hi: {
@@ -103,7 +103,7 @@ export const uiStringsPart2 = {
 		hacksPackage: "2D radar threat overlay for Naraka",
 		raidFight: "Aimbot assist during a Naraka melee combat",
 		battleRoyale: "Naraka Cheats in-session overview for Windows PC",
-		raidMap: "ESP markers for abilities and bomb sites in Naraka",
+		raidMap: "ESP markers for hero skills and POIs in Naraka",
 	},
 	},
 	id: {
@@ -124,7 +124,7 @@ export const uiStringsPart2 = {
 		hacksPackage: "2D radar threat overlay for Naraka",
 		raidFight: "Aimbot assist during a Naraka melee combat",
 		battleRoyale: "Naraka Cheats in-session overview for Windows PC",
-		raidMap: "ESP markers for abilities and bomb sites in Naraka",
+		raidMap: "ESP markers for hero skills and POIs in Naraka",
 	},
 	},
 	th: {
@@ -145,7 +145,7 @@ export const uiStringsPart2 = {
 		hacksPackage: "2D radar threat overlay for Naraka",
 		raidFight: "Aimbot assist during a Naraka melee combat",
 		battleRoyale: "Naraka Cheats in-session overview for Windows PC",
-		raidMap: "ESP markers for abilities and bomb sites in Naraka",
+		raidMap: "ESP markers for hero skills and POIs in Naraka",
 	},
 	},
 	vi: {
@@ -166,7 +166,7 @@ export const uiStringsPart2 = {
 		hacksPackage: "2D radar threat overlay for Naraka",
 		raidFight: "Aimbot assist during a Naraka melee combat",
 		battleRoyale: "Naraka Cheats in-session overview for Windows PC",
-		raidMap: "ESP markers for abilities and bomb sites in Naraka",
+		raidMap: "ESP markers for hero skills and POIs in Naraka",
 	},
 	},
 	uk: {
@@ -187,7 +187,7 @@ export const uiStringsPart2 = {
 		hacksPackage: "2D radar threat overlay for Naraka",
 		raidFight: "Aimbot assist during a Naraka melee combat",
 		battleRoyale: "Naraka Cheats in-session overview for Windows PC",
-		raidMap: "ESP markers for abilities and bomb sites in Naraka",
+		raidMap: "ESP markers for hero skills and POIs in Naraka",
 	},
 	},
 	cs: {
@@ -208,7 +208,7 @@ export const uiStringsPart2 = {
 		hacksPackage: "2D radar threat overlay for Naraka",
 		raidFight: "Aimbot assist during a Naraka melee combat",
 		battleRoyale: "Naraka Cheats in-session overview for Windows PC",
-		raidMap: "ESP markers for abilities and bomb sites in Naraka",
+		raidMap: "ESP markers for hero skills and POIs in Naraka",
 	},
 	},
 	ro: {
@@ -229,7 +229,7 @@ export const uiStringsPart2 = {
 		hacksPackage: "2D radar threat overlay for Naraka",
 		raidFight: "Aimbot assist during a Naraka melee combat",
 		battleRoyale: "Naraka Cheats in-session overview for Windows PC",
-		raidMap: "ESP markers for abilities and bomb sites in Naraka",
+		raidMap: "ESP markers for hero skills and POIs in Naraka",
 	},
 	},
 	sv: {
@@ -250,7 +250,7 @@ export const uiStringsPart2 = {
 		hacksPackage: "2D radar threat overlay for Naraka",
 		raidFight: "Aimbot assist during a Naraka melee combat",
 		battleRoyale: "Naraka Cheats in-session overview for Windows PC",
-		raidMap: "ESP markers for abilities and bomb sites in Naraka",
+		raidMap: "ESP markers for hero skills and POIs in Naraka",
 	},
 	},
 };

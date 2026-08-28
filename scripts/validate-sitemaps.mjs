@@ -55,7 +55,7 @@ const IMAGE_SITEMAP_ENTRIES = countBrandSitemapImages();
 const BLOG_PAGES = 18; // /blog/ index + 17 posts
 const REVIEW_PAGES = 11; // /reviews/ index + 10 review detail pages
 const FAQ_PAGES = 26; // standalone FAQ answer pages (index is in product pages)
-const GUIDE_SITEMAP_PAGES = 80; // /guides/ hub + 79 posts (2 legacy-brand guides omitted)
+const GUIDE_SITEMAP_PAGES = 1; // /guides/ hub only (competitor guide posts are noindex)
 const GUIDE_HTML_PAGES = 82; // /guides/ hub + 81 posts (all built)
 const STANDALONE_PAGES = 3; // /about/ /compare/ /write-for-us/
 /** Product pages in sitemap — excludes cannibal EN URLs that 301 to stronger pillars */
@@ -541,6 +541,16 @@ async function main() {
 		if (sitemapPaths.has(p) || REDIRECT_ONLY_PATHS.has(p) || SITEMAP_OMIT_PATHS.has(p)) return false;
 		// Locale blog stubs 301 to EN — intentionally omitted from sitemaps
 		if (/^\/[a-z]{2}\/blog(\/|$)/.test(p)) return false;
+		// Competitor guide posts are noindex — omitted from sitemaps by design
+		if (/^\/guides\/[^/]+\/$/.test(p)) {
+			const rel = p === '/' ? 'index.html' : `${p.slice(1)}index.html`;
+			try {
+				const html = readFileSync(path.join(DIST, rel), 'utf8');
+				if (html.includes('content="noindex')) return false;
+			} catch {
+				// fall through — require sitemap entry if HTML unreadable
+			}
+		}
 		return true;
 	});
 	const extraInSitemap = [...sitemapPaths].filter((p) => !htmlSet.has(p));

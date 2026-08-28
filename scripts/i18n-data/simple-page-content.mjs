@@ -2199,35 +2199,35 @@ export const PAGE_CONTENT = {
 		},
 		"1": {
 			"en": [
-				"Clear bomb sites and grapple routes without flooding the screen.",
+				"Clear high-traffic POIs and grapple routes without flooding the screen.",
 				"Tune opacity and filters for arena zones, vault sectors, and high-traffic PvP areas."
 			],
 			"es": [
-				"Limpia zonas de sitios de bomba y grapple routes sin inundar la pantalla."
+				"Limpia zonas de POI de alto tráfico y grapple routes sin inundar la pantalla."
 			],
 			"fr": [
-				"Gardez les zones de bomb sites et grapple routes lisibles sans saturer l'écran."
+				"Gardez les zones de high-traffic POIs et grapple routes lisibles sans saturer l'écran."
 			],
 			"de": [
 				"Monument-Zonen und Loot-Runs klar halten, ohne den Bildschirm zu überladen."
 			],
 			"pt": [
-				"Mantenha sitios de bomba e grapple routes claros sem lotar a tela."
+				"Mantenha POI de alto tráfico e grapple routes claros sem lotar a tela."
 			],
 			"it": [
-				"Siti bomba e percorsi spike chiari chiari senza riempire lo schermo."
+				"POI e rotazioni chiari chiari senza riempire lo schermo."
 			],
 			"nl": [
 				"Monumentzones en grapple routes helder houden zonder scherm overload."
 			],
 			"pl": [
-				"Czytelne bomb sites i grapple routes bez przepełnienia ekranu."
+				"Czytelne high-traffic POIs i grapple routes bez przepełnienia ekranu."
 			],
 			"ru": [
-				"Чистые зоны бомб-сайтов и маршрутов spike без перегрузки экрана."
+				"Чистые зоны POI и маршрутов ротации без перегрузки экрана."
 			],
 			"tr": [
-				"Ekranı doldurmadan bomb site ve grapple routes bölgelerini net tutun."
+				"Ekranı doldurmadan POI ve grapple routes bölgelerini net tutun."
 			],
 			"ar": [
 				"اجعل مناطق المعالم وgrapple routes واضحة دون إغراق الشاشة."
@@ -2236,34 +2236,34 @@ export const PAGE_CONTENT = {
 				"画面を埋め尽くさずマップとスパイク設置ルートを見やすく。"
 			],
 			"ko": [
-				"화면을 가리지 않고 bomb site와 grapple routes 구역을 깔끔하게."
+				"화면을 가리지 않고 POI와 grapple routes 구역을 깔끔하게."
 			],
 			"zh": [
-				"清晰显示 bomb site 和 loot 路线，不遮挡屏幕。"
+				"清晰显示 POI 和 loot 路线，不遮挡屏幕。"
 			],
 			"hi": [
-				"स्क्रीन भरे बिना bomb site zones और grapple routes साफ रखें।"
+				"स्क्रीन भरे बिना POI zones और grapple routes साफ रखें।"
 			],
 			"id": [
-				"Jaga zona bomb site dan grapple routes jelas tanpa membanjiri layar."
+				"Jaga zona POI dan grapple routes jelas tanpa membanjiri layar."
 			],
 			"th": [
-				"ทำให้ bomb site และ grapple routes ชัดเจนโดยไม่เต็มหน้าจอ"
+				"ทำให้ POI และ grapple routes ชัดเจนโดยไม่เต็มหน้าจอ"
 			],
 			"vi": [
-				"Giữ vùng bomb site và grapple routes rõ ràng không che màn hình."
+				"Giữ vùng POI và grapple routes rõ ràng không che màn hình."
 			],
 			"uk": [
-				"Чіткі зони bomb site і grapple routes без перевантаження екрана."
+				"Чіткі зони POI і grapple routes без перевантаження екрана."
 			],
 			"cs": [
-				"Přehledné bomb sites a grapple routes bez zaplnění obrazovky."
+				"Přehledné high-traffic POIs a grapple routes bez zaplnění obrazovky."
 			],
 			"ro": [
-				"Zone bomb site și grapple routes clare fără a umple ecranul."
+				"Zone POI și grapple routes clare fără a umple ecranul."
 			],
 			"sv": [
-				"Håll bomb sitezoner och grapple routes tydliga utan att fylla skärmen."
+				"Håll POIzoner och grapple routes tydliga utan att fylla skärmen."
 			]
 		},
 		"2": {
