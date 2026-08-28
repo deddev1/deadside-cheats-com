@@ -1,7 +1,9 @@
 ---
+import LazyDemoVideo from './LazyDemoVideo.astro';
 import { getLocalizedPath } from '../data/i18n/routing';
 import type { LocaleCode } from '../data/i18n/locales';
 import { getT } from '../i18n/server';
+import { siteConfig } from '../data/site';
 
 interface Props {
 	locale: LocaleCode;
@@ -16,20 +18,34 @@ const updatesHref = getLocalizedPath('updates', locale);
 ---
 
 <section class="shell home__prose home__prose--en" aria-labelledby="home-about-title">
-	<div class="home__prose-callout">
-		<h2 id="home-about-title">{t('home.aboutTitle')}</h2>
-		<p>{t('home.aboutP1')}</p>
-		<p>
-			{t('home.aboutP2Before')}{' '}
-			<a href={pillarHref}>{t('home.aboutPillar')}</a>
-			{t('home.aboutP2Mid')}
-			<a href={espHref}>{t('home.aboutEsp')}</a>
-			{t('home.aboutP2Mid')}
-			<a href={aimbotHref}>{t('home.aboutAimbot')}</a>
-			{t('home.aboutP2Or')}
-			<a href={updatesHref}>{t('home.aboutUndetected')}</a>
-			{t('home.aboutP2After')}
-		</p>
+	<div class="home__prose-grid">
+		<div class="home__prose-callout">
+			<h2 id="home-about-title">{t('home.aboutTitle')}</h2>
+			<p>{t('home.aboutP1')}</p>
+			<p>
+				{t('home.aboutP2Before')}{' '}
+				<a href={pillarHref}>{t('home.aboutPillar')}</a>
+				{t('home.aboutP2Mid')}
+				<a href={espHref}>{t('home.aboutEsp')}</a>
+				{t('home.aboutP2Mid')}
+				<a href={aimbotHref}>{t('home.aboutAimbot')}</a>
+				{t('home.aboutP2Or')}
+				<a href={updatesHref}>{t('home.aboutUndetected')}</a>
+				{t('home.aboutP2After')}
+			</p>
+		</div>
+		<div class="home__prose-video">
+			<LazyDemoVideo
+				src={siteConfig.demoVideoUrl}
+				poster={siteConfig.demoVideoPoster}
+				playLabel={t('home.playDemoVideo')}
+				pauseLabel={t('home.pauseDemoVideo')}
+				caption={t('home.demoVideoCaption')}
+				volumeLabel={t('home.volumeLabel')}
+				muteLabel={t('home.muteVideo')}
+				unmuteLabel={t('home.unmuteVideo')}
+			/>
+		</div>
 	</div>
 </section>
 
@@ -39,10 +55,22 @@ const updatesHref = getLocalizedPath('updates', locale);
 		border-bottom: 1px solid var(--line-soft);
 	}
 
+	.home__prose-grid {
+		display: grid;
+		grid-template-columns: minmax(0, 1fr);
+		gap: clamp(1.25rem, 3vw, 2rem);
+		align-items: center;
+	}
+
 	.home__prose-callout {
-		max-width: 42rem;
+		max-width: none;
 		padding-left: 1.1rem;
 		border-left: 3px solid var(--magenta);
+	}
+
+	.home__prose-video {
+		width: 100%;
+		min-width: 0;
 	}
 
 	.home__prose-callout h2 {
@@ -74,5 +102,18 @@ const updatesHref = getLocalizedPath('updates', locale);
 
 	.home__prose--en a:hover {
 		color: var(--accent-hover);
+	}
+
+	@media (min-width: 56rem) {
+		.home__prose-grid {
+			grid-template-columns: minmax(0, 1.05fr) minmax(16rem, 0.95fr);
+			gap: clamp(1.5rem, 3.5vw, 2.75rem);
+			align-items: center;
+		}
+
+		.home__prose-video {
+			justify-self: end;
+			max-width: 34rem;
+		}
 	}
 </style>
