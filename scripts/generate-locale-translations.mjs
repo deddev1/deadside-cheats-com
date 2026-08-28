@@ -228,7 +228,7 @@ async function main() {
 	};
 	en.home = {
 		...en.home,
-		aboutTitle: 'undetected hacks for Naraka',
+		aboutTitle: 'undetected cheats for Naraka',
 		aboutP1:
 			'Naraka Cheats is an undetected naraka cheats package for Naraka on Windows PC. One license includes ESP wallhack, soft aim, and 2D radar, with NEAC rebuilds after game patches. Check Status before you queue.',
 		volumeLabel: 'Volume',
@@ -265,7 +265,7 @@ async function main() {
 		es.faq = { items: FAQ_I18N.es };
 		es.home = {
 			...(es.home ?? {}),
-			aboutTitle: 'hacks indetectables para Naraka',
+			aboutTitle: 'cheats indetectables para Naraka',
 		};
 	} catch {
 		es = en;

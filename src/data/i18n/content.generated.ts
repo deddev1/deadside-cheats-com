@@ -1364,7 +1364,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				home: {
 					title: "Naraka Cheats 2026 | ESP, Wallhack y Aimbot",
 					description: "Trucos Naraka indetectables para Naraka en PC. ESP wallhack, radar hack y Aimbot con mantenimiento NEAC. Entrega digital instantánea. Compare plans and guides",
-					h1: "hacks indetectables para Naraka",
+					h1: "cheats indetectables para Naraka",
 					intro: "Paquete undetected para Naraka en Windows PC: ESP wallhack, radar y Aimbot con mantenimiento NEAC tras cada parche.",
 					imageAlt: "Naraka ESP — etiquetas de jugador hack",
 					galleryTitle: "Galería Naraka Cheats — ESP, Aimbot y wallhack",
@@ -2556,7 +2556,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				home: {
 					title: "Naraka Cheats 2026 | ESP, Wallhack et Aimbot",
 					description: "Triches Naraka indétectables pour Naraka sur PC. ESP wallhack, radar hack et Aimbot avec maintenance NEAC. Livraison numérique instantanée. Compare plans and",
-					h1: "hacks indétectables pour Naraka",
+					h1: "triches indétectables pour Naraka",
 					intro: "Pack undetected pour Naraka sur PC Windows : ESP wallhack, radar et Aimbot avec maintenance NEAC après chaque patch.",
 					imageAlt: "Naraka ESP — tags joueur hack",
 					galleryTitle: "Galerie Naraka Cheats — ESP, Aimbot et wallhack",
@@ -3748,7 +3748,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				home: {
 					title: "Naraka Cheats 2026 | ESP, Wallhack & Aimbot",
 					description: "Undetected Naraka Cheats für Naraka auf PC. ESP Wallhack, Radar Hack und Aimbot mit NEAC-Wartung. Sofortige digitale Lieferung. Compare plans and guides at",
-					h1: "undetected Hacks für Naraka",
+					h1: "undetected Cheats für Naraka",
 					intro: "Undetected Windows PC Paket für Naraka: ESP Wallhack, Radar und Aimbot mit NEAC-Wartung nach jedem Patch.",
 					imageAlt: "Naraka ESP — Spieler-Tags Hack",
 					galleryTitle: "Naraka Cheats Galerie — ESP, Aimbot und Wallhack",
@@ -4940,7 +4940,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				home: {
 					title: "Naraka Cheats 2026 | ESP, Wallhack e Aimbot",
 					description: "Cheats Naraka indetectáveis para Naraka no PC. ESP wallhack, radar hack e Aimbot com manutenção NEAC. Entrega digital instantánea. Compare plans and guides at",
-					h1: "hacks indetectáveis para Naraka",
+					h1: "cheats indetectáveis para Naraka",
 					intro: "Pacote undetected para Naraka no Windows PC: ESP wallhack, radar e Aimbot com manutenção NEAC após cada patch.",
 					imageAlt: "Naraka ESP player tags hack",
 					galleryTitle: "Galeria Naraka Cheats — ESP, Aimbot e wallhack",
@@ -6131,7 +6131,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				home: {
 					title: "Naraka Cheats 2026 | ESP, Wallhack e Aimbot",
 					description: "Cheat Naraka indetectable per Naraka su PC. ESP wallhack, radar hack e Aimbot con manutenzione NEAC. Consegna digitale istantanea. Compare plans and guides at",
-					h1: "hacks indetectable per Naraka",
+					h1: "cheat indetectable per Naraka",
 					intro: "Pacchetto undetected per Naraka su PC Windows: ESP wallhack, radar e Aimbot con manutenzione NEAC dopo ogni patch.",
 					imageAlt: "Naraka ESP player tags hack",
 					galleryTitle: "Galleria Naraka Cheats — ESP, Aimbot e wallhack",
@@ -7322,7 +7322,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				home: {
 					title: "Naraka Cheats 2026 | ESP, Wallhack & Aimbot",
 					description: "Undetected naraka cheats voor Naraka op PC. ESP wallhack, radar hack en Aimbot met NEAC-onderhoud. Directe digitale levering. Compare plans and guides at",
-					h1: "undetected hacks voor Naraka",
+					h1: "undetected cheats voor Naraka",
 					intro: "Undetected Windows PC pakket voor Naraka: ESP wallhack, radar en Aimbot met NEAC-onderhoud na elke patch.",
 					imageAlt: "Naraka ESP player tags hack",
 					galleryTitle: "Naraka Cheats galerij — ESP, Aimbot en wallhack",
@@ -8513,7 +8513,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				home: {
 					title: "Naraka Cheats 2026 | ESP, Wallhack i Aimbot",
 					description: "Undetected cheaty Naraka dla Naraka na PC. ESP wallhack, radar hack i Aimbot z konserwacją NEAC. Natychmiastowa dostawa cyfrowa. Compare plans and guides at",
-					h1: "undetected hacki dla Naraka",
+					h1: "undetected cheaty dla Naraka",
 					intro: "Pakiet undetected dla Naraka na Windows PC: ESP wallhack, radar i Aimbot z konserwacją NEAC po każdym patchu.",
 					imageAlt: "Naraka ESP player tags hack",
 					galleryTitle: "Galeria Naraka Cheats — ESP, Aimbot i wallhack",
@@ -10895,7 +10895,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				home: {
 					title: "Naraka Cheats 2026 | ESP, Wallhack ve Aimbot",
 					description: "Naraka için undetected hileler. ESP wallhack, radar hack ve Aimbot — NEAC bakımı. Anında dijital teslimat. Compare plans and guides at narakacheats.org.",
-					h1: "Naraka için undetected hackler",
+					h1: "Naraka için undetected hileler",
 					intro: "Naraka Windows PC undetected paketi: ESP wallhack, radar ve Aimbot — NEAC bakımı dahil.",
 					imageAlt: "Naraka ESP player tags hack",
 					galleryTitle: "Naraka Cheats galeri — ESP, Aimbot ve wallhack",
@@ -12086,7 +12086,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				home: {
 					title: "Naraka Cheats 2026 | ESP وWallhack وAimbot",
 					description: "غش Naraka undetected لـ Naraka على PC. ESP wallhack ورadar hack وAimbot مع صيانة NEAC. تسليم رقمي فوري. Compare plans and guides at narakacheats.org.",
-					h1: "اختراقات غير مكتشفة لـ Naraka",
+					h1: "غش غير مكتشف لـ Naraka",
 					intro: "حزمة undetected لـ Naraka على Windows PC: ESP wallhack ورadar وAimbot مع صيانة NEAC.",
 					imageAlt: "Naraka ESP player tags hack",
 					galleryTitle: "معرض Naraka Cheats — ESP وAimbot وwallhack",
@@ -13277,7 +13277,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				home: {
 					title: "Naraka Cheats 2026 | ESP・Wallhack・Aimbot",
 					description: "Naraka向けundetectedチート。ESP wallhack、radar hack、Aimbot、NEACメンテナンス。即時デジタル配信。. Compare plans and guides at narakacheats.org.",
-					h1: "Naraka向けundetectedハック",
+					h1: "Naraka向けundetectedチート",
 					intro: "Naraka Windows PC向けundetectedパッケージ：ESP wallhack、radar、Aimbot、NEACメンテナンス付き。",
 					imageAlt: "naraka cheats hero ESP aimbot wallhack",
 					galleryTitle: "Naraka Cheatsギャラリー — ESP、Aimbot、wallhack",
@@ -14468,7 +14468,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				home: {
 					title: "Naraka Cheats 2026 | ESP, Wallhack, Aimbot",
 					description: "Naraka undetected 치트. ESP wallhack, radar hack, Aimbot, NEAC 유지보수. 즉시 디지털 배송. Compare plans and guides at narakacheats.org.",
-					h1: "Naraka용 undetected 핵",
+					h1: "Naraka용 undetected 치트",
 					intro: "Naraka Windows PC undetected 패키지: ESP wallhack, radar, Aimbot, NEAC 유지보수 포함.",
 					imageAlt: "naraka cheats hero ESP aimbot wallhack",
 					galleryTitle: "Naraka Cheats 갤러리 — ESP, Aimbot, wallhack",
@@ -16850,7 +16850,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				home: {
 					title: "Naraka Cheats 2026 | ESP, Wallhack और Aimbot",
 					description: "Naraka undetected hacks. ESP wallhack, radar hack, Aimbot, NEAC maintenance. Instant digital delivery. Compare plans and guides at narakacheats.org.",
-					h1: "Naraka ke liye undetected hacks",
+					h1: "Naraka ke liye undetected cheats",
 					intro: "Naraka Windows PC undetected पैकेज: ESP wallhack, radar, Aimbot, NEAC maintenance सहित.",
 					imageAlt: "naraka cheats hero ESP aimbot wallhack",
 					galleryTitle: "Naraka Cheats gallery — ESP, Aimbot, wallhack",
@@ -18041,7 +18041,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				home: {
 					title: "Naraka Cheats 2026 | ESP, Wallhack & Aimbot",
 					description: "Cheat Naraka undetected untuk Naraka di PC. ESP wallhack, radar hack, Aimbot, pemeliharaan NEAC. Pengiriman digital instan. Compare plans and guides at",
-					h1: "hack undetected untuk Naraka",
+					h1: "cheat undetected untuk Naraka",
 					intro: "Paket undetected Naraka di Windows PC: ESP wallhack, radar, Aimbot dengan pemeliharaan NEAC.",
 					imageAlt: "Naraka ESP player tags hack",
 					galleryTitle: "Galeri Naraka Cheats — ESP, Aimbot, wallhack",
@@ -19232,7 +19232,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				home: {
 					title: "Naraka Cheats 2026 | ESP, Wallhack และ Aimbot",
 					description: "Cheat Naraka undetected สำหรับ Naraka บน PC. ESP wallhack, radar hack, Aimbot, NEAC maintenance. จัดส่งดิจิทัลทันที. Compare plans and guides at",
-					h1: "hack undetected สำหรับ Naraka",
+					h1: "cheat undetected สำหรับ Naraka",
 					intro: "แพ็ก undetected สำหรับ Naraka บน Windows PC: ESP wallhack, radar, Aimbot พร้อม NEAC maintenance",
 					imageAlt: "Naraka ESP player tags hack",
 					galleryTitle: "แกลเลอรี Naraka Cheats — ESP, Aimbot, wallhack",
@@ -20423,7 +20423,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				home: {
 					title: "Naraka Cheats 2026 | ESP, Wallhack & Aimbot",
 					description: "Cheat Naraka undetected cho Naraka trên PC. ESP wallhack, radar hack, Aimbot, bảo trì NEAC. Giao hàng kỹ thuật số tức thì. Compare plans and guides at",
-					h1: "hack undetected cho Naraka",
+					h1: "cheat undetected cho Naraka",
 					intro: "Gói undetected Naraka trên Windows PC: ESP wallhack, radar, Aimbot với bảo trì NEAC.",
 					imageAlt: "Naraka ESP player tags hack",
 					galleryTitle: "Thư viện Naraka Cheats — ESP, Aimbot, wallhack",
@@ -22805,7 +22805,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				home: {
 					title: "Naraka Cheats 2026 | ESP, Wallhack a Aimbot",
 					description: "Undetected naraka cheaty pro Naraka na PC. ESP wallhack, radar hack, Aimbot, údržba NEAC. Okamžité digitální doručení. Compare plans and guides at",
-					h1: "undetected hacky pro Naraka",
+					h1: "undetected cheaty pro Naraka",
 					intro: "Undetected balíček pro Naraka na Windows PC: ESP wallhack, radar, Aimbot s údržbou NEAC.",
 					imageAlt: "Naraka ESP player tags hack",
 					galleryTitle: "Galerie Naraka Cheats — ESP, Aimbot, wallhack",
@@ -23996,7 +23996,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				home: {
 					title: "Naraka Cheats 2026 | ESP, Wallhack și Aimbot",
 					description: "Cheats Naraka undetected pentru Naraka pe PC. ESP wallhack, radar hack, Aimbot, mentenanță NEAC. Livrare digitală instantă. Compare plans and guides at",
-					h1: "hack-uri undetected pentru Naraka",
+					h1: "cheat-uri undetected pentru Naraka",
 					intro: "Pachet undetected Naraka pe Windows PC: ESP wallhack, radar, Aimbot cu mentenanță NEAC.",
 					imageAlt: "Naraka ESP player tags hack",
 					galleryTitle: "Galerie Naraka Cheats — ESP, Aimbot, wallhack",
@@ -25187,7 +25187,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				home: {
 					title: "Naraka Cheats 2026 | ESP, Wallhack & Aimbot",
 					description: "Undetected naraka cheats för Naraka på PC. ESP wallhack, radar hack, Aimbot, NEAC-underhåll. Omedelbar digital leverans. Compare plans and guides at",
-					h1: "undetected hacks för Naraka",
+					h1: "undetected cheats för Naraka",
 					intro: "Undetected paket för Naraka på Windows PC: ESP wallhack, radar, Aimbot med NEAC-underhåll.",
 					imageAlt: "Naraka ESP player tags hack",
 					galleryTitle: "Naraka Cheats galleri — ESP, Aimbot, wallhack",
