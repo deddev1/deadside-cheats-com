@@ -6,9 +6,15 @@ import { globalSeoKeywords } from './seo-keywords';
  * Brand Studio rewrites brand.ts on every save; helpers here stay stable.
  */
 export function seoPageTitle(template: string): string {
-	const text = fillBrandTokens(template).trim();
+	let text = fillBrandTokens(template).trim();
+	if (text.length < 30) {
+		text = `${text} | Naraka Cheats PC`;
+	}
 	/** Google SERP titles typically display ~50–60 chars; clamp at 60. */
-	return text.length <= 60 ? text : `${text.slice(0, 57).trim()}…`;
+	if (text.length <= 60) return text;
+	const trimmed = text.slice(0, 60);
+	const lastSpace = trimmed.lastIndexOf(' ');
+	return lastSpace > 45 ? trimmed.slice(0, lastSpace) : trimmed.slice(0, 60);
 }
 
 export { brand, fillBrandTokens, seoDescription, seoTitle };

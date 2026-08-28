@@ -82,10 +82,19 @@ export function clampTitle(s) {
 }
 
 export function clampDesc(s) {
-	if (s.length <= 160) return s;
-	const trimmed = s.slice(0, 160);
+	let text = s.trim();
+	const MIN = 140;
+	const MAX = 160;
+	if (text.length < MIN) {
+		const pad = text.toLowerCase().includes('narakacheats.org')
+			? ' Windows PC license with NEAC maintenance after patches.'
+			: ' Compare plans and guides at narakacheats.org.';
+		text = `${text.replace(/[.…]+$/, '')}.${pad}`;
+	}
+	if (text.length <= MAX) return text;
+	const trimmed = text.slice(0, MAX);
 	const lastSpace = trimmed.lastIndexOf(' ');
-	return lastSpace > 130 ? trimmed.slice(0, lastSpace) : trimmed.slice(0, 160);
+	return lastSpace > 130 ? trimmed.slice(0, lastSpace) : trimmed.slice(0, MAX);
 }
 
 /** Remove Zadeyo from meta title/description strings only. */

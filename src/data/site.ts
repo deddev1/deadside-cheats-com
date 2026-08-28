@@ -201,7 +201,7 @@ export const seoFaqs: readonly FaqItem[] = [
 		slug: 'does-naraka-cheats-include-radar-hack',
 		seoTitle: 'Does {brand} Include a Radar Hack? | FAQ',
 		seoDescription:
-			'Yes — {brand} includes 2D radar overlays for nearby threats outside your FOV.',
+			'Yes — {brand} includes 2D radar overlays for nearby threats outside your FOV. Compare ESP, aimbot, and radar in one license at narakacheats.org.',
 	}),
 	faq({
 		question: 'How does {antiCheat} affect {primaryKeyword}?',
@@ -264,7 +264,7 @@ export const seoFaqs: readonly FaqItem[] = [
 		slug: 'naraka-cheats-windows-11',
 		seoTitle: 'Do {game} Hacks Work on Windows 11? | FAQ',
 		seoDescription:
-			'{brand} runs on Windows 10 and 11 — ESP, aimbot, and radar with {antiCheat} maintenance on PC.',
+			'{brand} runs on Windows 10 and 11 — ESP, aimbot, and radar with {antiCheat} maintenance on PC. Read setup notes at narakacheats.org before you buy.',
 	}),
 	faq({
 		question: 'What is {game} soft aim?',

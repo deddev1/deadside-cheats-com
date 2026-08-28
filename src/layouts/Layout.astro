@@ -10,6 +10,7 @@ import { defaultLocale, localeMap, locales, type LocaleCode } from '../data/i18n
 import type { PageId } from '../data/i18n/content.generated';
 import { buildCanonicalUrl, type HreflangAlternate } from '../data/i18n/routing';
 import { heroHeight, heroWidth } from '../lib/responsive-images';
+import { seoDescription, seoPageTitle } from '../data/site-core';
 
 interface Crumb {
 	label: string;
@@ -55,6 +56,10 @@ const {
 	ogLocaleAlternates = true,
 } = Astro.props;
 
+/** Normalize SERP title/description on every indexable page. */
+const pageTitle = seoPageTitle(title);
+const pageDescription = seoDescription(description);
+
 const canonicalURL = buildCanonicalUrl(canonicalPath);
 const ogImageURL = new URL(ogImage, siteConfig.url).href;
 const logoURL = new URL(siteConfig.logoRaster, siteConfig.url).href;
@@ -76,8 +81,8 @@ const graph: Record<string, unknown>[] = [
 		'@type': 'WebPage',
 		'@id': `${canonicalURL}#webpage`,
 		url: canonicalURL,
-		name: title,
-		description,
+		name: pageTitle,
+		description: pageDescription,
 		isPartOf: { '@id': `${siteConfig.url}/#website` },
 		inLanguage: schemaLanguage,
 		primaryImageOfPage: {
@@ -192,7 +197,7 @@ if (aboutNode) {
 		<script is:inline src="/trusted-types-policy.js"></script>
 		<meta name="robots" content={robots} />
 		<meta name="googlebot" content={robots} />
-		<meta name="description" content={description} />
+		<meta name="description" content={pageDescription} />
 		<meta name="author" content={siteConfig.name} />
 		<link rel="canonical" href={canonicalURL} />
 		{
@@ -228,8 +233,8 @@ if (aboutNode) {
 
 		<meta property="og:type" content={type} />
 		<meta property="og:site_name" content={siteConfig.name} />
-		<meta property="og:title" content={title} />
-		<meta property="og:description" content={description} />
+		<meta property="og:title" content={pageTitle} />
+		<meta property="og:description" content={pageDescription} />
 		<meta property="og:url" content={canonicalURL} />
 		<meta property="og:image" content={ogImageURL} />
 		<meta property="og:image:secure_url" content={ogImageURL} />
@@ -244,8 +249,8 @@ if (aboutNode) {
 
 		<meta name="twitter:card" content={twitterCard} />
 		{siteConfig.twitterSite ? <meta name="twitter:site" content={siteConfig.twitterSite} /> : null}
-		<meta name="twitter:title" content={title} />
-		<meta name="twitter:description" content={description} />
+		<meta name="twitter:title" content={pageTitle} />
+		<meta name="twitter:description" content={pageDescription} />
 		<meta name="twitter:image" content={ogImageURL} />
 		<meta name="twitter:image:alt" content={ogImageAlt} />
 
@@ -253,7 +258,7 @@ if (aboutNode) {
 			<script type="application/ld+json" set:html={JSON.stringify({ '@context': 'https://schema.org', '@graph': graph })} />
 		)}
 
-		<title>{title}</title>
+		<title>{pageTitle}</title>
 		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
 		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
 		<link rel="icon" type="image/png" sizes="192x192" href="/favicon.png" />

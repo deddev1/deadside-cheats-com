@@ -7,6 +7,7 @@ import { phrases } from './phrases.mjs';
 import { FOCUS_I18N } from './focus-i18n.mjs';
 import { simplePagesEn } from './simple-pages-en.mjs';
 import { PAGE_CONTENT } from './simple-page-content.mjs';
+import { clampTitle, clampDesc, stripZadeyoFromMeta } from './constants.mjs';
 
 /** Per-locale UI labels used across simple pages. */
 const UI = {
@@ -204,8 +205,8 @@ function buildFeatures(locale, u, p) {
 	const content = t[locale];
 	if (!content) {
 		return {
-			title: `${u.features} 2026 | ESP, Aimbot & Radar | Naraka Cheats`,
-			description: p.s1(focus).slice(0, 160),
+			title: clampTitle(`${u.features} 2026 | ESP, Aimbot & Radar | Naraka Cheats`),
+			description: clampDesc(stripZadeyoFromMeta(`${u.features}: ${focus}. ${p.delivery}. ${p.undetected}.`)),
 			h1: u.features,
 			intro: p.s1(`${u.features} für Naraka auf ${p.win}.`),
 			ctaPrimary: u.buy,
@@ -221,8 +222,8 @@ function buildFeatures(locale, u, p) {
 	}
 	const en = simplePagesEn.features;
 	return {
-		title: `${u.features} 2026 | ESP, Aimbot & Radar | Naraka Cheats`,
-		description: clampDesc(`${u.features}: ${focus}. ${p.delivery}.`),
+		title: clampTitle(`${u.features} 2026 | ESP, Aimbot & Radar | Naraka Cheats`),
+		description: clampDesc(stripZadeyoFromMeta(`${u.features}: ${focus}. ${p.delivery}. ${p.undetected}.`)),
 		h1: u.features,
 		intro: p.s1(`${u.features} für Naraka auf ${p.win}.`),
 		ctaPrimary: u.buy,
@@ -241,11 +242,10 @@ function buildFeatures(locale, u, p) {
 	};
 }
 
-function clampDesc(s) {
-	if (s.length <= 160) return s;
-	const trimmed = s.slice(0, 160);
-	const lastSpace = trimmed.lastIndexOf(' ');
-	return lastSpace > 130 ? trimmed.slice(0, lastSpace) : trimmed;
+function simplePageTitle(h1, enTitle) {
+	const pipe = enTitle.indexOf('|');
+	const suffix = pipe >= 0 ? enTitle.slice(pipe).replace(/\s*Guide\s*$/i, '').trim() : '| Naraka Cheats';
+	return `${h1} ${suffix.startsWith('|') ? suffix : `| ${suffix}`}`.replace(/\s+/g, ' ').trim();
 }
 
 /** Build localized simple-page content for one locale. */
@@ -267,10 +267,16 @@ export function buildSimplePagesForLocale(locale) {
 			'naraka-esp': 'ESP', 'naraka-aimbot': 'Aimbot', radar: 'Radar', setup: u.setup,
 			support: u.support, faq: u.faq,
 		};
+		const h1 = h1Map[pageId] ?? enPage.h1;
 		pages[pageId] = {
 			...enPage,
-			title: enPage.title.replace(/^[^|]+/, h1Map[pageId] ?? enPage.h1).replace('Naraka Cheats', 'Naraka Cheats'),
-			h1: h1Map[pageId] ?? enPage.h1,
+			title: clampTitle(simplePageTitle(h1, enPage.title)),
+			description: clampDesc(
+				stripZadeyoFromMeta(
+					`${h1} for Naraka Bladepoint on Windows PC — ${focus}. ${p.delivery}. Official naraka cheats at narakacheats.org.`,
+				),
+			),
+			h1,
 			intro: p.s1(`${h1Map[pageId] ?? enPage.h1}. ${focus}.`),
 			ctaPrimary: u.buy,
 			galleryTitle: u.inGame,

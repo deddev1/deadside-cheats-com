@@ -5,7 +5,7 @@
 import { clampTitle, clampDesc, stripZadeyoFromMeta, HERO_IMAGES } from './constants.mjs';
 import { phrases } from './phrases.mjs';
 import { FOCUS_I18N } from './focus-i18n.mjs';
-import { PAGE_META_HOME, SUFFIX_I18N, TOPIC_NAMES, CTA2_HREF, buildHome, buildLegal } from './pages-i18n.mjs';
+import { PAGE_META_HOME, SUFFIX_I18N, TOPIC_NAMES, CTA2_HREF, buildHome, buildLegal, PAGE_META_TAILS } from './pages-i18n.mjs';
 import { getCanonicalEnPages } from './canonical-en-pages.mjs';
 import { SIMPLE_PAGE_IDS } from './simple-pages-en.mjs';
 import { buildSimplePagesForLocale } from './simple-pages-i18n.mjs';
@@ -51,13 +51,18 @@ function localizeSection(enSection, locale, pageKey, sectionIndex) {
 function localizeMeta(enPage, locale, pageKey) {
 	const p = phrases[locale];
 	const home = PAGE_META_HOME[locale];
-	const suffix = SUFFIX_I18N[locale]?.[pageKey] ?? pageKey;
-	const focus = FOCUS_I18N[locale]?.[pageKey] ?? pageKey;
+	const meta = PAGE_META_TAILS[pageKey] ?? { suffix: 'Naraka Cheats', focus: pageKey };
+	const suffix = SUFFIX_I18N[locale]?.[pageKey] ?? meta.suffix;
+	const focus = FOCUS_I18N[locale]?.[pageKey] ?? meta.focus;
 	const topicName = TOPIC_NAMES[pageKey]?.[locale] ?? TOPIC_NAMES[pageKey]?.en ?? pageKey;
 
 	return {
 		title: clampTitle(stripZadeyoFromMeta(`${topicName} | ${suffix}`)),
-		description: clampDesc(stripZadeyoFromMeta(`${topicName}: ${focus}. ${p.delivery}. ${p.undetected} — ${p.win}.`)),
+		description: clampDesc(
+			stripZadeyoFromMeta(
+				`${topicName} for Naraka Bladepoint on Windows PC — ${focus}. ${p.delivery}. ${p.undetected}. Official naraka cheats at narakacheats.org.`,
+			),
+		),
 		h1: topicName,
 		intro: p.s1(`${topicName}. ${focus}.`),
 		imageAlt: PAGE_IMAGE_ALTS[pageKey] || `${topicName} — Naraka Cheats`,
@@ -82,6 +87,9 @@ function localizeRichPage(enPage, locale, pageKey) {
 	return {
 		...enPage,
 		...meta,
+		h1: locale === 'en' && enPage.h1 ? enPage.h1 : meta.h1,
+		title: locale === 'en' && enPage.title ? enPage.title : meta.title,
+		description: locale === 'en' && enPage.description ? enPage.description : meta.description,
 		heroImage: HERO_IMAGES[pageKey],
 		sections,
 	};

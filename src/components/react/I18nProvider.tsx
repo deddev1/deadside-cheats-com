@@ -9,7 +9,8 @@ type Props = {
 
 /** Syncs react-i18next with the Astro page locale (URL is source of truth for SEO). */
 export default function I18nProvider({ locale, children }: Props) {
-	const [ready, setReady] = useState(() => i18n.language === locale);
+	const isServer = typeof window === 'undefined';
+	const [ready, setReady] = useState(() => isServer || i18n.language === locale);
 
 	useEffect(() => {
 		let cancelled = false;
@@ -25,7 +26,8 @@ export default function I18nProvider({ locale, children }: Props) {
 		};
 	}, [locale]);
 
-	if (!ready && locale !== 'en') {
+	// Keep SSR output for crawlers; only hide on client while a non-EN bundle loads.
+	if (!ready && locale !== 'en' && !isServer) {
 		return null;
 	}
 

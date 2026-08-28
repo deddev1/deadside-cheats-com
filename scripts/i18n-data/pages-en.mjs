@@ -21,7 +21,7 @@ export const enPages = {
 				`Official seasons, patches, and anti-cheat updates come from ${EXT.naraka} and ${EXT.eac}. We rebuild ESP, radar, and Aimbot modules when those patches require maintenance — then post status on the <a href="/updates/">Updates page</a>.`,
 				'Licenses ship digitally after payment confirmation. Monthly ($35) and lifetime ($150) plans include NEAC maintenance rebuilds when anti-cheat or game patches require updates.',
 				'Many shops sell ESP-only or aimbot-only modules. Naraka Cheats ships player ESP wallhack, hero skill markers, 2D radar overlays, and configurable soft aim in one license — with a public <a href="/updates/">status log</a> after NEAC patches.',
-				'Compare our stack on <a href="/compare/">Compare</a>, read <a href="/undetected-naraka-cheats/">undetected naraka cheats</a>, and review <a href="/best-naraka-cheats/">best naraka cheats 2026</a> criteria before checkout.',
+				'Compare our stack on <a href="/compare/">Compare</a>, read <a href="/undetected-naraka-cheats/">undetected naraka cheats</a>, and review <a href="/">naraka cheats 2026</a> criteria before checkout.',
 			),
 			section(
 				'ESP wallhack, radar hack, and Aimbot in one license',
@@ -29,7 +29,7 @@ export const enPages = {
 				'Browse the <a href="/naraka-esp/">ESP</a>, <a href="/naraka-aimbot/">Aimbot</a>, <a href="/naraka-esp/">wallhack</a>, and <a href="/naraka-radar-hack/">radar</a> pages for control details — or jump to <a href="/pricing/">Pricing</a> for monthly and lifetime options.',
 				`Before patch days, check ${EXT.status} for Naraka server status, then confirm our maintenance notes so you are not loading in on an outdated build.`,
 				'Naraka runs NEAC at kernel level. No package stays undetected forever without rebuilds. We publish maintenance on <a href="/updates/">Updates</a> and explain the workflow on <a href="/neac-bypass/">NEAC bypass</a>.',
-				'Use conservative soft aim FOV, enable ESP categories selectively, and avoid rage settings that attract reports even when the build is clean. Read <a href="/naraka-aimbot/">legit aimbot settings</a> and <a href="/naraka-cheats-2026/">naraka cheats 2026</a> before ranked queues.',
+				'Use conservative soft aim FOV, enable ESP categories selectively, and avoid rage settings that attract reports even when the build is clean. Read <a href="/naraka-aimbot/">legit aimbot settings</a> and <a href="/naraka-cheats-2026/">naraka cheats 2026</a> before you queue.',
 			),
 		],
 	},
@@ -542,7 +542,7 @@ export const enPages = {
 			section(
 				'Episode 10+ and ranked meta in 2026',
 				'2026 ranked play rewards information speed — ESP hero markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href="/naraka-aimbot/">aimbot profiles</a> and ESP toggles.',
-				'Compare against <a href="/best-naraka-cheats/">best naraka cheats</a> criteria and <a href="/undetected-naraka-cheats/">undetected maintenance</a> before switching shops mid-season.',
+				'Compare against <a href="/">naraka cheats</a> criteria and <a href="/undetected-naraka-cheats/">undetected maintenance</a> before switching shops mid-season.',
 				'Blog: <a href="/blog/naraka-cheats-2026-whats-new/">what changed in 2026</a> · <a href="/blog/naraka-cheats-complete-guide-2026/">complete guide</a>.',
 			),
 		],
@@ -587,7 +587,7 @@ export const enPages = {
 			section(
 				'Why search “naraka cheats” and “naraka cheats” together',
 				'Players use both terms interchangeably. This pillar targets naraka cheats intent while linking to <a href="/">naraka cheats</a> on the homepage. Feature depth lives on <a href="/naraka-esp/">ESP</a>, <a href="/naraka-aimbot/">aimbot</a>, and <a href="/naraka-radar-hack/">radar</a> pages.',
-				'For 2026 seasonal buyers, open <a href="/naraka-cheats-2026/">naraka cheats 2026</a> and <a href="/best-naraka-cheats/">best naraka cheats</a> checklists before comparing budget shops on <a href="/compare/">Compare</a>.',
+				'For 2026 seasonal buyers, open <a href="/naraka-cheats-2026/">naraka cheats 2026</a> and <a href="/">naraka cheats</a> checklists before comparing budget shops on <a href="/compare/">Compare</a>.',
 				'Honest comparisons: <a href="/blog/naraka-cheats-vs-cheatvault-comparison/">vs budget shops</a> · <a href="/blog/naraka-cheats-vs-ghostware-features-pricing/">vs ESP-only tools</a>.',
 			),
 		],

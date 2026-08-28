@@ -110,7 +110,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Naraka Cheats 2026 | Undetected ESP, Aimbot & Radar",
-					description: "Buy undetected Naraka cheats at narakacheats.org — ESP, aimbot, wallhack & radar for PC. NEAC updates included. From $35/month.",
+					description: "Buy undetected Naraka cheats at narakacheats.org — ESP, aimbot, wallhack & radar for PC. NEAC updates included. From $35/month. Windows PC license with NEAC",
 					h1: "Naraka Cheats",
 					intro: "Naraka Cheats is the undetected Naraka cheats and naraka cheats package for Windows PC — ESP wallhack, 2D radar, and soft aim with NEAC maintenance after every major patch.",
 					imageAlt: "Naraka characters in front of a glowing red neon logo — Naraka Cheats hero",
@@ -126,7 +126,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 								"Official seasons, patches, and anti-cheat updates come from <a href=\"https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/\" target=\"_blank\" rel=\"noopener noreferrer\">Naraka</a> and <a href=\"https://www.naraka.com/en/\" target=\"_blank\" rel=\"noopener noreferrer\">NEAC</a>. We rebuild ESP, radar, and Aimbot modules when those patches require maintenance — then post status on the <a href=\"/updates/\">Updates page</a>.",
 								"Licenses ship digitally after payment confirmation. Monthly ($35) and lifetime ($150) plans include NEAC maintenance rebuilds when anti-cheat or game patches require updates.",
 								"Many shops sell ESP-only or aimbot-only modules. Naraka Cheats ships player ESP wallhack, hero skill markers, 2D radar overlays, and configurable soft aim in one license — with a public <a href=\"/updates/\">status log</a> after NEAC patches.",
-								"Compare our stack on <a href=\"/compare/\">Compare</a>, read <a href=\"/undetected-naraka-cheats/\">undetected naraka cheats</a>, and review <a href=\"/best-naraka-cheats/\">best naraka cheats 2026</a> criteria before checkout.",
+								"Compare our stack on <a href=\"/compare/\">Compare</a>, read <a href=\"/undetected-naraka-cheats/\">undetected naraka cheats</a>, and review <a href=\"/\">naraka cheats 2026</a> criteria before checkout.",
 							],
 						},
 						{
@@ -136,7 +136,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 								"Browse the <a href=\"/naraka-esp/\">ESP</a>, <a href=\"/naraka-aimbot/\">Aimbot</a>, <a href=\"/naraka-esp/\">wallhack</a>, and <a href=\"/naraka-radar-hack/\">radar</a> pages for control details — or jump to <a href=\"/pricing/\">Pricing</a> for monthly and lifetime options.",
 								"Before patch days, check <a href=\"https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/\" target=\"_blank\" rel=\"noopener noreferrer\">Naraka on Steam</a> for Naraka server status, then confirm our maintenance notes so you are not loading in on an outdated build.",
 								"Naraka runs NEAC at kernel level. No package stays undetected forever without rebuilds. We publish maintenance on <a href=\"/updates/\">Updates</a> and explain the workflow on <a href=\"/neac-bypass/\">NEAC bypass</a>.",
-								"Use conservative soft aim FOV, enable ESP categories selectively, and avoid rage settings that attract reports even when the build is clean. Read <a href=\"/naraka-aimbot/\">legit aimbot settings</a> and <a href=\"/naraka-cheats-2026/\">naraka cheats 2026</a> before ranked queues.",
+								"Use conservative soft aim FOV, enable ESP categories selectively, and avoid rage settings that attract reports even when the build is clean. Read <a href=\"/naraka-aimbot/\">legit aimbot settings</a> and <a href=\"/naraka-cheats-2026/\">naraka cheats 2026</a> before you queue.",
 							],
 						},
 					],
@@ -736,7 +736,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Naraka Cheats 2026 | Undetected PC Hacks",
-					description: "Best Naraka cheats 2026 — undetected ESP, soft aim & 2D radar on PC. NEAC maintenance & instant delivery at narakacheats.org.",
+					description: "Best Naraka cheats 2026 — undetected ESP, soft aim & 2D radar on PC. NEAC maintenance & instant delivery at narakacheats.org. Windows PC license with NEAC",
 					h1: "Naraka Cheats 2026 — ESP, Soft Aim & Radar",
 					intro: "The 2026 Naraka Cheats package for Naraka — undetected ESP wallhack, radar hack, and Aimbot with NEAC maintenance, instant delivery, and Windows PC support.",
 					imageAlt: "Naraka Cheats product overview for Naraka",
@@ -773,7 +773,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Episode 10+ and ranked meta in 2026",
 							paragraphs: [
 								"2026 ranked play rewards information speed — ESP hero markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/naraka-aimbot/\">aimbot profiles</a> and ESP toggles.",
-								"Compare against <a href=\"/best-naraka-cheats/\">best naraka cheats</a> criteria and <a href=\"/undetected-naraka-cheats/\">undetected maintenance</a> before switching shops mid-season.",
+								"Compare against <a href=\"/\">naraka cheats</a> criteria and <a href=\"/undetected-naraka-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/naraka-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/naraka-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
 						},
@@ -893,7 +893,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"mod-menu": {
 					title: "Naraka Mod Menu | In-Match Toggles | Naraka Cheats",
-					description: "Naraka mod menu for in-match ESP, soft aim & radar toggles on PC. Hotkeys & NEAC maintenance included. Get access at narakacheats.org.",
+					description: "Naraka mod menu for in-match ESP, soft aim & radar toggles on PC. Hotkeys & NEAC maintenance included. Get access at narakacheats.org. Windows PC license with",
 					h1: "Naraka Mod Menu — In-Client Control Panel",
 					intro: "Naraka mod menu controls for Naraka — toggle ESP wallhack categories, radar range, and Aimbot profiles mid-match without leaving your Naraka match on Windows PC.",
 					imageAlt: "Naraka Cheats in-game menu controls",
@@ -931,7 +931,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"soft-aim": {
 					title: "Naraka Soft Aim | Aimbot Settings | Naraka Cheats",
-					description: "Soft aim settings for natural tracking on PC — smoothness, FOV & bone priority. Included in undetected Naraka Cheats at narakacheats.org.",
+					description: "Soft aim settings for natural tracking on PC — smoothness, FOV & bone priority. Included in undetected Naraka Cheats at narakacheats.org. Windows PC license",
 					h1: "Naraka Soft Aim — Smooth Aimbot Controls",
 					intro: "Naraka soft aim settings for Naraka — configurable Aimbot smoothness, FOV, bone priority, and hotkey toggles bundled with ESP wallhack and radar in one undetected license.",
 					imageAlt: "Naraka soft aim FOV and smoothness settings",
@@ -969,7 +969,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"best-cheats": {
 					title: "Best Naraka Cheats 2026 | Compare & Buy | Naraka Cheats",
-					description: "Best Naraka cheats for 2026 — undetected ESP, soft aim & NEAC maintenance on PC. Buyer checklist before checkout at narakacheats.org.",
+					description: "Best Naraka cheats for 2026 — undetected ESP, soft aim & NEAC maintenance on PC. Buyer checklist before checkout at narakacheats.org. Windows PC license with",
 					h1: "Best Naraka Cheats — 2026 Buyer Guide",
 					intro: "Compare naraka cheats for Naraka in 2026 — undetected ESP wallhack, radar hack, and Aimbot in one maintained package with NEAC rebuilds and instant delivery.",
 					imageAlt: "Naraka Cheats overview for Naraka on PC",
@@ -1053,7 +1053,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"esp-hack": {
 					title: "Naraka ESP Hack | Wallhack Boxes | Naraka Cheats",
-					description: "Naraka ESP hack with player boxes & hero markers on PC. Wallhack, radar & aimbot included in one license. Buy at narakacheats.org from $35.",
+					description: "Naraka ESP hack with player boxes & hero markers on PC. Wallhack, radar & aimbot included in one license. Buy at narakacheats.org from $35. Windows PC license",
 					h1: "Naraka ESP Hack — Player Boxes Guide",
 					intro: "Naraka ESP hack overlays for Naraka — player outlines, threat cues, hero skill markers with distance readouts across ranked and Quick Match sessions.",
 					imageAlt: "Naraka ESP hack boxes and hero markers",
@@ -1091,7 +1091,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"unlock-all": {
 					title: "Naraka Unlock All | What It Really Means",
-					description: "Unlock-all vs real Naraka cheats — ESP wallhack, soft aim & radar on PC. What Naraka Cheats offers before you buy at narakacheats.org.",
+					description: "Unlock-all vs real Naraka cheats — ESP wallhack, soft aim & radar on PC. What Naraka Cheats offers before you buy at narakacheats.org. Windows PC license with",
 					h1: "Naraka Unlock All — What Players Search For",
 					intro: "Naraka unlock-all is a common search term for Naraka — this page clarifies what unlock-all tools claim versus the ESP wallhack, radar hack, and Aimbot tools Naraka Cheats actually provides on Windows PC.",
 					imageAlt: "Naraka Cheats license features overview",
@@ -1129,7 +1129,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Privacy Policy | Naraka Cheats",
-					description: "Privacy policy for Naraka Cheats at narakacheats.org. How we handle support emails, order data & checkout for naraka cheats licenses on PC.",
+					description: "Privacy policy for Naraka Cheats at narakacheats.org. How we handle support emails, order data & checkout for naraka cheats licenses on PC. Windows PC license",
 					h1: "Privacy Policy",
 					intro: "How Naraka Cheats handles information when you browse narakacheats.org or contact support about a Naraka license.",
 					imageAlt: "Naraka Cheats privacy policy page",
@@ -1239,7 +1239,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				terms: {
 					title: "Terms of Use | Naraka Cheats",
-					description: "Terms of use for narakacheats.org & Naraka Cheats licenses. Usage rules, NEAC risk disclaimer & liability for PC naraka cheats.",
+					description: "Terms of use for narakacheats.org & Naraka Cheats licenses. Usage rules, NEAC risk disclaimer & liability for PC naraka cheats. Windows PC license with NEAC",
 					h1: "Terms of Use",
 					intro: "Terms governing use of narakacheats.org and Naraka Cheats licenses for Naraka on Windows PC.",
 					imageAlt: "Naraka Cheats terms of use page",
@@ -1363,7 +1363,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Naraka Cheats 2026 | ESP, Wallhack y Aimbot",
-					description: "Trucos Naraka indetectables para Naraka en PC. ESP wallhack, radar hack y Aimbot con mantenimiento NEAC. Entrega digital instantánea.",
+					description: "Trucos Naraka indetectables para Naraka en PC. ESP wallhack, radar hack y Aimbot con mantenimiento NEAC. Entrega digital instantánea. Compare plans and guides",
 					h1: "hacks indetectables para Naraka",
 					intro: "Paquete undetected para Naraka en Windows PC: ESP wallhack, radar y Aimbot con mantenimiento NEAC tras cada parche.",
 					imageAlt: "Naraka ESP — etiquetas de jugador hack",
@@ -1390,8 +1390,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				"naraka-esp": {
-					title: "ESP| Wallhack & Player Boxes | Naraka Cheats",
-					description: "Naraka ESP wallhack — player boxes, hero markers & distance tags on PC. Undetected naraka cheats with aimbot & radar. Shop at narakacheats.org.",
+					title: "ESP | Wallhack & Player Boxes | Naraka Cheats",
+					description: "ESP for Naraka Bladepoint on Windows PC — cajas de jugador, marcadores de carcasa y overlays wallhack. entrega digital instantánea. Official naraka cheats at",
 					h1: "ESP",
 					intro: "Ve jugadores y loot a través de las paredes durante matches de Naraka. Parte de la misma licencia Naraka Cheats.",
 					imageAlt: "Naraka ESP player boxes and distance readouts in a match",
@@ -1440,8 +1440,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				"naraka-aimbot": {
-					title: "Aimbot| Soft Aim & FOV Settings | Naraka Cheats",
-					description: "Naraka aimbot with soft aim, FOV, bone priority & hotkeys on PC. Undetected Naraka Cheats with ESP & radar included. narakacheats.org.",
+					title: "Aimbot | Soft Aim & FOV Settings | Naraka Cheats",
+					description: "Aimbot for Naraka Bladepoint on Windows PC — soft aim, FOV y perfiles Aimbot por especie. entrega digital instantánea. Official naraka cheats at",
 					h1: "Aimbot",
 					intro: "Soft aim y asistencia de puntería que puedes ajustar para Naraka. Incluido en la misma licencia Naraka Cheats.",
 					imageAlt: "Naraka Aimbot and soft aim controls on Windows PC",
@@ -1491,7 +1491,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Funciones 2026 | ESP, Aimbot & Radar | Naraka Cheats",
-					description: "Funciones: ESP, soft aim, controles de radar. entrega digital instantánea.",
+					description: "Funciones: ESP, soft aim, controles de radar. entrega digital instantánea. indetectables. Compare plans and guides at narakacheats.org.",
 					h1: "Funciones",
 					intro: "Naraka Cheats ofrece ESP wallhack, radar hack y Naraka Aimbot indetectables para Naraka en Windows PC. Funciones für Naraka auf Windows PC.",
 					imageAlt: "Naraka Cheats features — ESP, soft aim, and radar screenshots",
@@ -1570,8 +1570,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				pricing: {
-					title: "Tienda| $35/mo or $150 Lifetime",
-					description: "Buy Naraka cheats at narakacheats.org — $35/month or $150 lifetime. ESP, aimbot & radar on PC. Same features, instant delivery.",
+					title: "Tienda | $35/mo or $150 Lifetime",
+					description: "Tienda for Naraka Bladepoint on Windows PC — licencias de $35 mensuales o $150 de por vida. entrega digital instantánea. Official naraka cheats at",
 					h1: "Tienda",
 					intro: "Naraka Cheats ofrece ESP wallhack, radar hack y Naraka Aimbot indetectables para Naraka en Windows PC. Tienda — $35/mes y $150 de por vida.",
 					imageAlt: "Naraka Cheats store plans for monthly and lifetime licenses",
@@ -1620,8 +1620,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				setup: {
-					title: "Instalación| Windows PC Install Guide",
-					description: "Install Naraka Cheats on PC — activate ESP, soft aim & radar step by step. Setup guide at narakacheats.org. Check NEAC status first.",
+					title: "Instalación | Windows PC Install",
+					description: "Instalación for Naraka Bladepoint on Windows PC — activación en Windows PC y configuración del primer arranque. entrega digital instantánea. Official naraka",
 					h1: "Instalación",
 					intro: "Instala y activa tu licencia en Windows 10 u 11 antes de tu primer match.",
 					imageAlt: "Naraka Cheats setup guide screenshot for Windows PC",
@@ -1670,8 +1670,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				updates: {
-					title: "Estado| NEAC Updates | Naraka Cheats",
-					description: "Live status after Naraka & NEAC patches. Check undetected ESP, aimbot & radar rebuilds on PC before you queue. narakacheats.org.",
+					title: "Estado | NEAC Updates | Naraka Cheats",
+					description: "Estado for Naraka Bladepoint on Windows PC — estado de parches NEAC y notas de reconstrucción. entrega digital instantánea. Official naraka cheats at",
 					h1: "Estado",
 					intro: "Consulta la página Updates antes de jugar tras parches de NEAC. Ningún cheat garantiza estado indetectable permanente.",
 					imageAlt: "Naraka Cheats live status after NEAC and game patches",
@@ -1719,8 +1719,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				faq: {
-					title: "FAQ| ESP, Aimbot & NEAC",
-					description: "FAQ for naraka cheats — delivery, setup, undetected status, NEAC updates & pricing on PC. Answers at narakacheats.org before you buy.",
+					title: "FAQ | ESP, Aimbot & NEAC",
+					description: "FAQ for Naraka Bladepoint on Windows PC — preguntas sobre ESP, soft aim, entrega y NEAC. entrega digital instantánea. Official naraka cheats at",
 					h1: "FAQ",
 					intro: "Preguntas frecuentes sobre Naraka Cheats — entrega, instalación, actualizaciones y reembolsos.",
 					imageAlt: "Naraka Cheats FAQ — delivery, setup, and update answers",
@@ -1767,8 +1767,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				support: {
-					title: "Soporte| License & Setup Help",
-					description: "Support for license delivery, ESP setup & billing on PC. Email support@narakacheats.org with your order ID. narakacheats.org/support.",
+					title: "Soporte | License & Setup Help",
+					description: "Soporte for Naraka Bladepoint on Windows PC — ayuda con pedidos y contacto de soporte de licencias. entrega digital instantánea. Official naraka cheats at",
 					h1: "Soporte",
 					intro: "Obtén ayuda con licencias, instalación y facturación de Naraka Cheats en Windows PC.",
 					imageAlt: "Naraka Cheats support page for license and setup help",
@@ -1806,7 +1806,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				undetected: {
 					title: "Trucos indetectables | Estado indetectable",
-					description: "Trucos indetectables: mantenimiento undetected tras parches NEAC. entrega digital instantánea. indetectables — Windows PC.",
+					description: "Trucos indetectables for Naraka Bladepoint on Windows PC — mantenimiento undetected tras parches NEAC. entrega digital instantánea. indetectables. Official",
 					h1: "Trucos indetectables",
 					intro: "Naraka Cheats ofrece ESP wallhack, radar hack y Naraka Aimbot indetectables para Naraka en Windows PC. Trucos indetectables. mantenimiento undetected tras parches NEAC.",
 					imageAlt: "Naraka Cheats undetected status overview for Windows PC",
@@ -1852,7 +1852,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				wallhack: {
 					title: "Naraka Wallhack | Visibilidad ESP",
-					description: "Naraka Wallhack: wallhack ESP para jugadores, loot y distancia. entrega digital instantánea. indetectables — Windows PC.",
+					description: "Naraka Wallhack for Naraka Bladepoint on Windows PC — wallhack ESP para jugadores, loot y distancia. entrega digital instantánea. indetectables. Official",
 					h1: "Naraka Wallhack",
 					intro: "Naraka Cheats ofrece ESP wallhack, radar hack y Naraka Aimbot indetectables para Naraka en Windows PC. Naraka Wallhack. wallhack ESP para jugadores, loot y distancia.",
 					imageAlt: "naraka wallhack visibility through walls in a match",
@@ -1889,8 +1889,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				radar: {
-					title: "Radar| 2D Threat Map | Naraka Cheats",
-					description: "2D radar hack for flank awareness on PC. Bundled with ESP wallhack & soft aim in one license. NEAC maintenance at narakacheats.org.",
+					title: "Radar | 2D Threat Map | Naraka Cheats",
+					description: "Radar for Naraka Bladepoint on Windows PC — señales de radar 2D para flancos y rotaciones. entrega digital instantánea. Official naraka cheats at",
 					h1: "Radar",
 					intro: "Un radar 2D simple para amenazas fuera de tu vista. Incluido en la misma licencia Naraka Cheats.",
 					imageAlt: "Naraka 2D radar overlay showing nearby threats",
@@ -1927,15 +1927,15 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				neac: {
-					title: "neac | neac",
-					description: "neac: neac. entrega digital instantánea. indetectables — Windows PC.",
-					h1: "neac",
-					intro: "Naraka Cheats ofrece ESP wallhack, radar hack y Naraka Aimbot indetectables para Naraka en Windows PC. neac. neac.",
-					imageAlt: "neac — Naraka Cheats",
-					galleryTitle: "neac",
+					title: "Bypass NEAC | Mantenimiento de parches",
+					description: "Bypass NEAC for Naraka Bladepoint on Windows PC — cómo se gestionan las actualizaciones NEAC para Naraka cheats. entrega digital instantánea. indetectables.",
+					h1: "Bypass NEAC",
+					intro: "Naraka Cheats ofrece ESP wallhack, radar hack y Naraka Aimbot indetectables para Naraka en Windows PC. Bypass NEAC. cómo se gestionan las actualizaciones NEAC para Naraka cheats.",
+					imageAlt: "Naraka Cheats maintenance after a NEAC patch",
+					galleryTitle: "Bypass NEAC",
 					ctaPrimary: "Comprar Naraka Cheats",
 					ctaSecondary: "Ver funciones",
-					ctaSecondaryHref: "/",
+					ctaSecondaryHref: "/updates/",
 					sections: [
 						{
 							h2: "NEAC overview",
@@ -1964,7 +1964,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "HWID bans, spoofers, and what we do not sell",
 							paragraphs: [
-								"Naraka Cheats ofrece ESP wallhack, radar hack y Naraka Aimbot indetectables para Naraka en Windows PC. neac",
+								"Naraka Cheats ofrece ESP wallhack, radar hack y Naraka Aimbot indetectables para Naraka en Windows PC. cómo se gestionan las actualizaciones NEAC para Naraka cheats",
 								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/naraka-neac-bypass/\">NEAC FAQ</a> before buying anywhere.",
 								"Consulta la página Updates antes de jugar tras parches de NEAC. Ningún cheat garantiza estado indetectable permanente.",
 							],
@@ -1972,7 +1972,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "External architecture, stream proofing, and patch-day checklist",
 							paragraphs: [
-								"Naraka Cheats ofrece ESP wallhack, radar hack y Naraka Aimbot indetectables para Naraka en Windows PC. neac",
+								"Naraka Cheats ofrece ESP wallhack, radar hack y Naraka Aimbot indetectables para Naraka en Windows PC. cómo se gestionan las actualizaciones NEAC para Naraka cheats",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">Guía de trucos indetectables</a>, (2) confirm NEAC notes on <a href=\"/neac-bypass/\">Mantenimiento NEAC</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
 								"Deep dives: <a href=\"/undetected-naraka-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-naraka-cheats-eac/\">NEAC reality blog</a> · <a href=\"/naraka-cheats/\">Resumen Naraka Cheats</a>.",
 							],
@@ -1982,7 +1982,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Trucos Naraka 2026 | Guía del comprador",
-					description: "Trucos Naraka 2026: checklist de naraka cheats 2026 antes del checkout. entrega digital instantánea. indetectables — Windows PC.",
+					description: "Trucos Naraka 2026 for Naraka Bladepoint on Windows PC — checklist de naraka cheats 2026 antes del checkout. entrega digital instantánea. indetectables.",
 					h1: "Trucos Naraka 2026",
 					intro: "Naraka Cheats ofrece ESP wallhack, radar hack y Naraka Aimbot indetectables para Naraka en Windows PC. Trucos Naraka 2026. checklist de naraka cheats 2026 antes del checkout.",
 					imageAlt: "Naraka Cheats product overview for Naraka",
@@ -2019,7 +2019,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Episode 10+ and ranked meta in 2026",
 							paragraphs: [
 								"2026 ranked play rewards information speed — ESP hero markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/naraka-aimbot/\">Aimbot y soft aim</a> and ESP toggles.",
-								"Compare against <a href=\"/best-naraka-cheats/\">best naraka cheats</a> criteria and <a href=\"/undetected-naraka-cheats/\">undetected maintenance</a> before switching shops mid-season.",
+								"Compare against <a href=\"/\">Producto completo</a> criteria and <a href=\"/undetected-naraka-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/naraka-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/naraka-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
 						},
@@ -2027,8 +2027,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				hacks: {
-					title: "Naraka Cheats — Guía completa| ESP, Aimbot & Wallhack",
-					description: "Naraka cheats guide — undetected ESP wallhack, soft aim, radar & NEAC rebuilds on PC. Compare features & buy from $35 at narakacheats.org.",
+					title: "Naraka Cheats — Guía completa | ESP, Aimbot & Wallhack",
+					description: "Naraka Cheats — Guía completa for Naraka Bladepoint on Windows PC — pilar Naraka Cheats para ESP y Aimbot. entrega digital instantánea. Official naraka cheats",
 					h1: "Naraka Cheats — Guía completa",
 					intro: "Los trucos de Naraka añaden ESP, radar y soft aim sobre el juego base. Esta página explica qué son los naraka cheats, qué incluye Naraka Cheats, cómo funciona el mantenimiento de NEAC y dónde ir antes de comprar.",
 					imageAlt: "Naraka Cheats overview — ESP, aimbot, and radar for Naraka",
@@ -2101,7 +2101,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheat-download": {
 					title: "Descarga Naraka Cheats | Acceso instantáneo",
-					description: "Descarga Naraka Cheats: descarga de licencia digital tras el pago. entrega digital instantánea. indetectables — Windows PC.",
+					description: "Descarga Naraka Cheats for Naraka Bladepoint on Windows PC — descarga de licencia digital tras el pago. entrega digital instantánea. indetectables. Official",
 					h1: "Descarga Naraka Cheats",
 					intro: "Naraka Cheats ofrece ESP wallhack, radar hack y Naraka Aimbot indetectables para Naraka en Windows PC. Descarga Naraka Cheats. descarga de licencia digital tras el pago.",
 					imageAlt: "Naraka Cheats download and install delivery flow",
@@ -2139,7 +2139,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"mod-menu": {
 					title: "Menú mod Naraka | Controles en partida",
-					description: "Menú mod Naraka: toggles de ESP y soft aim en el cliente. entrega digital instantánea. indetectables — Windows PC.",
+					description: "Menú mod Naraka for Naraka Bladepoint on Windows PC — toggles de ESP y soft aim en el cliente. entrega digital instantánea. indetectables. Official naraka",
 					h1: "Menú mod Naraka",
 					intro: "Naraka Cheats ofrece ESP wallhack, radar hack y Naraka Aimbot indetectables para Naraka en Windows PC. Menú mod Naraka. toggles de ESP y soft aim en el cliente.",
 					imageAlt: "Naraka Cheats in-game menu controls",
@@ -2177,7 +2177,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"soft-aim": {
 					title: "Soft aim Naraka | Ajustes soft aim",
-					description: "Soft aim Naraka: ajustes suaves de soft aim para Windows PC. entrega digital instantánea. indetectables — Windows PC.",
+					description: "Soft aim Naraka for Naraka Bladepoint on Windows PC — ajustes suaves de soft aim para Windows PC. entrega digital instantánea. indetectables. Official naraka",
 					h1: "Soft aim Naraka",
 					intro: "Naraka Cheats ofrece ESP wallhack, radar hack y Naraka Aimbot indetectables para Naraka en Windows PC. Soft aim Naraka. ajustes suaves de soft aim para Windows PC.",
 					imageAlt: "Naraka soft aim FOV and smoothness settings",
@@ -2215,7 +2215,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"best-cheats": {
 					title: "Mejores trucos Naraka | Lista de compra",
-					description: "Mejores trucos Naraka: qué comparar antes de comprar naraka cheats. entrega digital instantánea. indetectables — Windows PC.",
+					description: "Mejores trucos Naraka for Naraka Bladepoint on Windows PC — qué comparar antes de comprar naraka cheats. entrega digital instantánea. indetectables. Official",
 					h1: "Mejores trucos Naraka",
 					intro: "Naraka Cheats ofrece ESP wallhack, radar hack y Naraka Aimbot indetectables para Naraka en Windows PC. Mejores trucos Naraka. qué comparar antes de comprar naraka cheats.",
 					imageAlt: "Naraka Cheats overview for Naraka on PC",
@@ -2261,7 +2261,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"aimbot-hack": {
 					title: "Hack aimbot Naraka | Asistencia soft aim",
-					description: "Hack aimbot Naraka: asistencia undetected de hack Aimbot para Naraka. entrega digital instantánea. indetectables — Windows PC.",
+					description: "Hack aimbot Naraka for Naraka Bladepoint on Windows PC — asistencia undetected de hack Aimbot para Naraka. entrega digital instantánea. indetectables. Official",
 					h1: "Hack aimbot Naraka",
 					intro: "Naraka Cheats ofrece ESP wallhack, radar hack y Naraka Aimbot indetectables para Naraka en Windows PC. Hack aimbot Naraka. asistencia undetected de hack Aimbot para Naraka.",
 					imageAlt: "Naraka Aimbot hack controls and bone priority",
@@ -2299,7 +2299,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"esp-hack": {
 					title: "Hack ESP Naraka | Cajas y loot",
-					description: "Hack ESP Naraka: cajas ESP hack, pins de carcasa y distancia. entrega digital instantánea. indetectables — Windows PC.",
+					description: "Hack ESP Naraka for Naraka Bladepoint on Windows PC — cajas ESP hack, pins de carcasa y distancia. entrega digital instantánea. indetectables. Official naraka",
 					h1: "Hack ESP Naraka",
 					intro: "Naraka Cheats ofrece ESP wallhack, radar hack y Naraka Aimbot indetectables para Naraka en Windows PC. Hack ESP Naraka. cajas ESP hack, pins de carcasa y distancia.",
 					imageAlt: "Naraka ESP hack boxes and hero markers",
@@ -2337,7 +2337,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"unlock-all": {
 					title: "Unlock all Naraka | Qué significa",
-					description: "Unlock all Naraka: búsquedas unlock-all vs herramientas reales ESP y Aimbot. entrega digital instantánea. indetectables — Windows PC.",
+					description: "Unlock all Naraka for Naraka Bladepoint on Windows PC — búsquedas unlock-all vs herramientas reales ESP y Aimbot. entrega digital instantánea. indetectables.",
 					h1: "Unlock all Naraka",
 					intro: "Naraka Cheats ofrece ESP wallhack, radar hack y Naraka Aimbot indetectables para Naraka en Windows PC. Unlock all Naraka. búsquedas unlock-all vs herramientas reales ESP y Aimbot.",
 					imageAlt: "Naraka Cheats license features overview",
@@ -2375,7 +2375,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Política de privacidad | Naraka Cheats",
-					description: "Política de privacidad para Naraka Cheats — ESP wallhack, Aimbot, Windows PC.",
+					description: "Política de privacidad para Naraka Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at narakacheats.org.",
 					h1: "Política de privacidad",
 					intro: "Naraka Cheats ofrece ESP wallhack, radar hack y Naraka Aimbot indetectables para Naraka en Windows PC. Política de privacidad para narakacheats.org y licencias de Naraka.",
 					imageAlt: "Naraka Cheats",
@@ -2410,7 +2410,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				refund: {
 					title: "Política de reembolso | Naraka Cheats",
-					description: "Política de reembolso para Naraka Cheats — ESP wallhack, Aimbot, Windows PC.",
+					description: "Política de reembolso para Naraka Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at narakacheats.org.",
 					h1: "Política de reembolso",
 					intro: "Naraka Cheats ofrece ESP wallhack, radar hack y Naraka Aimbot indetectables para Naraka en Windows PC. Política de reembolso para narakacheats.org y licencias de Naraka.",
 					imageAlt: "Naraka Cheats",
@@ -2445,7 +2445,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				terms: {
 					title: "Términos de uso | Naraka Cheats",
-					description: "Términos de uso para Naraka Cheats — ESP wallhack, Aimbot, Windows PC.",
+					description: "Términos de uso para Naraka Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at narakacheats.org.",
 					h1: "Términos de uso",
 					intro: "Naraka Cheats ofrece ESP wallhack, radar hack y Naraka Aimbot indetectables para Naraka en Windows PC. Términos de uso para narakacheats.org y licencias de Naraka.",
 					imageAlt: "Naraka Cheats",
@@ -2555,7 +2555,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Naraka Cheats 2026 | ESP, Wallhack et Aimbot",
-					description: "Triches Naraka indétectables pour Naraka sur PC. ESP wallhack, radar hack et Aimbot avec maintenance NEAC. Livraison numérique instantanée.",
+					description: "Triches Naraka indétectables pour Naraka sur PC. ESP wallhack, radar hack et Aimbot avec maintenance NEAC. Livraison numérique instantanée. Compare plans and",
 					h1: "hacks indétectables pour Naraka",
 					intro: "Pack undetected pour Naraka sur PC Windows : ESP wallhack, radar et Aimbot avec maintenance NEAC après chaque patch.",
 					imageAlt: "Naraka ESP — tags joueur hack",
@@ -2582,8 +2582,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				"naraka-esp": {
-					title: "ESP| Wallhack & Player Boxes | Naraka Cheats",
-					description: "Naraka ESP wallhack — player boxes, hero markers & distance tags on PC. Undetected naraka cheats with aimbot & radar. Shop at narakacheats.org.",
+					title: "ESP | Wallhack & Player Boxes | Naraka Cheats",
+					description: "ESP for Naraka Bladepoint on Windows PC — boîtes joueur, marqueurs de loote et overlays wallhack. livraison numérique instantanée. Official naraka cheats at",
 					h1: "ESP",
 					intro: "Voyez joueurs et loot à travers les murs pendant les matches Naraka. Inclus dans la même licence Naraka Cheats.",
 					imageAlt: "Naraka ESP player boxes and distance readouts in a match",
@@ -2632,8 +2632,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				"naraka-aimbot": {
-					title: "Aimbot| Soft Aim & FOV Settings | Naraka Cheats",
-					description: "Naraka aimbot with soft aim, FOV, bone priority & hotkeys on PC. Undetected Naraka Cheats with ESP & radar included. narakacheats.org.",
+					title: "Aimbot | Soft Aim & FOV Settings | Naraka Cheats",
+					description: "Aimbot for Naraka Bladepoint on Windows PC — soft aim, FOV et profils Aimbot par espèce. livraison numérique instantanée. Official naraka cheats at",
 					h1: "Aimbot",
 					intro: "Soft aim et aide à la visée réglables pour Naraka. Inclus dans la même licence Naraka Cheats.",
 					imageAlt: "Naraka Aimbot and soft aim controls on Windows PC",
@@ -2683,7 +2683,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Fonctions 2026 | ESP, Aimbot & Radar | Naraka Cheats",
-					description: "Fonctions: ESP, soft aim, contrôles radar. livraison numérique instantanée.",
+					description: "Fonctions: ESP, soft aim, contrôles radar. livraison numérique instantanée. indétectables. Compare plans and guides at narakacheats.org.",
 					h1: "Fonctions",
 					intro: "Naraka Cheats combine ESP wallhack, radar hack et Naraka Aimbot indétectables pour Naraka sur PC Windows. Fonctions für Naraka auf PC Windows.",
 					imageAlt: "Naraka Cheats features — ESP, soft aim, and radar screenshots",
@@ -2762,8 +2762,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				pricing: {
-					title: "Boutique| $35/mo or $150 Lifetime",
-					description: "Buy Naraka cheats at narakacheats.org — $35/month or $150 lifetime. ESP, aimbot & radar on PC. Same features, instant delivery.",
+					title: "Boutique | $35/mo or $150 Lifetime",
+					description: "Boutique for Naraka Bladepoint on Windows PC — licences à $35/mois ou $150 à vie. livraison numérique instantanée. Official naraka cheats at narakacheats.org.",
 					h1: "Boutique",
 					intro: "Naraka Cheats combine ESP wallhack, radar hack et Naraka Aimbot indétectables pour Naraka sur PC Windows. Boutique — 35 $/mois y 150 $ à vie.",
 					imageAlt: "Naraka Cheats store plans for monthly and lifetime licenses",
@@ -2812,8 +2812,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				setup: {
-					title: "Installation| Windows PC Install Guide",
-					description: "Install Naraka Cheats on PC — activate ESP, soft aim & radar step by step. Setup guide at narakacheats.org. Check NEAC status first.",
+					title: "Installation | Windows PC Install",
+					description: "Installation for Naraka Bladepoint on Windows PC — activation Windows PC et configuration au premier lancement. livraison numérique instantanée. Official",
 					h1: "Installation",
 					intro: "Installez et activez votre licence sur Windows 10 ou 11 avant votre premier match.",
 					imageAlt: "Naraka Cheats setup guide screenshot for Windows PC",
@@ -2862,8 +2862,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				updates: {
-					title: "Statut| NEAC Updates | Naraka Cheats",
-					description: "Live status after Naraka & NEAC patches. Check undetected ESP, aimbot & radar rebuilds on PC before you queue. narakacheats.org.",
+					title: "Statut | NEAC Updates | Naraka Cheats",
+					description: "Statut for Naraka Bladepoint on Windows PC — statut des patchs NEAC et notes de rebuild. livraison numérique instantanée. Official naraka cheats at",
 					h1: "Statut",
 					intro: "Consultez Updates après les patchs NEAC. Aucune triche ne garantit un statut indétectable permanent.",
 					imageAlt: "Naraka Cheats live status after NEAC and game patches",
@@ -2911,8 +2911,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				faq: {
-					title: "FAQ| ESP, Aimbot & NEAC",
-					description: "FAQ for naraka cheats — delivery, setup, undetected status, NEAC updates & pricing on PC. Answers at narakacheats.org before you buy.",
+					title: "FAQ | ESP, Aimbot & NEAC",
+					description: "FAQ for Naraka Bladepoint on Windows PC — questions ESP, soft aim, livraison et NEAC. livraison numérique instantanée. Official naraka cheats at",
 					h1: "FAQ",
 					intro: "Questions fréquentes sur Naraka Cheats — livraison, installation, mises à jour et remboursements.",
 					imageAlt: "Naraka Cheats FAQ — delivery, setup, and update answers",
@@ -2959,8 +2959,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				support: {
-					title: "Support| License & Setup Help",
-					description: "Support for license delivery, ESP setup & billing on PC. Email support@narakacheats.org with your order ID. narakacheats.org/support.",
+					title: "Support | License & Setup Help",
+					description: "Support for Naraka Bladepoint on Windows PC — aide commande et contact support licence. livraison numérique instantanée. Official naraka cheats at",
 					h1: "Support",
 					intro: "Obtenez de l'aide pour licences, installation et facturation Naraka Cheats sur PC Windows.",
 					imageAlt: "Naraka Cheats support page for license and setup help",
@@ -2998,7 +2998,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				undetected: {
 					title: "Triches indétectables | Statut indétectable",
-					description: "Triches indétectables: maintenance undetected après patchs NEAC. livraison numérique instantanée. indétectables — PC Windows.",
+					description: "Triches indétectables for Naraka Bladepoint on Windows PC — maintenance undetected après patchs NEAC. livraison numérique instantanée. indétectables. Official",
 					h1: "Triches indétectables",
 					intro: "Naraka Cheats combine ESP wallhack, radar hack et Naraka Aimbot indétectables pour Naraka sur PC Windows. Triches indétectables. maintenance undetected après patchs NEAC.",
 					imageAlt: "Naraka Cheats undetected status overview for Windows PC",
@@ -3044,7 +3044,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				wallhack: {
 					title: "Naraka Wallhack | Visibilité ESP",
-					description: "Naraka Wallhack: wallhack ESP pour joueurs, loot et distance. livraison numérique instantanée. indétectables — PC Windows.",
+					description: "Naraka Wallhack for Naraka Bladepoint on Windows PC — wallhack ESP pour joueurs, loot et distance. livraison numérique instantanée. indétectables. Official",
 					h1: "Naraka Wallhack",
 					intro: "Naraka Cheats combine ESP wallhack, radar hack et Naraka Aimbot indétectables pour Naraka sur PC Windows. Naraka Wallhack. wallhack ESP pour joueurs, loot et distance.",
 					imageAlt: "naraka wallhack visibility through walls in a match",
@@ -3081,8 +3081,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				radar: {
-					title: "Radar| 2D Threat Map | Naraka Cheats",
-					description: "2D radar hack for flank awareness on PC. Bundled with ESP wallhack & soft aim in one license. NEAC maintenance at narakacheats.org.",
+					title: "Radar | 2D Threat Map | Naraka Cheats",
+					description: "Radar for Naraka Bladepoint on Windows PC — indices radar 2D pour flancs et rotations. livraison numérique instantanée. Official naraka cheats at",
 					h1: "Radar",
 					intro: "Un radar 2D simple pour les menaces hors champ. Inclus dans la même licence Naraka Cheats.",
 					imageAlt: "Naraka 2D radar overlay showing nearby threats",
@@ -3119,15 +3119,15 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				neac: {
-					title: "neac | neac",
-					description: "neac: neac. livraison numérique instantanée. indétectables — PC Windows.",
-					h1: "neac",
-					intro: "Naraka Cheats combine ESP wallhack, radar hack et Naraka Aimbot indétectables pour Naraka sur PC Windows. neac. neac.",
-					imageAlt: "neac — Naraka Cheats",
-					galleryTitle: "neac",
+					title: "Bypass NEAC | Maintenance des patchs",
+					description: "Bypass NEAC for Naraka Bladepoint on Windows PC — gestion des mises à jour NEAC pour Naraka cheats. livraison numérique instantanée. indétectables. Official",
+					h1: "Bypass NEAC",
+					intro: "Naraka Cheats combine ESP wallhack, radar hack et Naraka Aimbot indétectables pour Naraka sur PC Windows. Bypass NEAC. gestion des mises à jour NEAC pour Naraka cheats.",
+					imageAlt: "Naraka Cheats maintenance after a NEAC patch",
+					galleryTitle: "Bypass NEAC",
 					ctaPrimary: "Acheter Naraka Cheats",
 					ctaSecondary: "Voir les fonctions",
-					ctaSecondaryHref: "/",
+					ctaSecondaryHref: "/updates/",
 					sections: [
 						{
 							h2: "NEAC overview",
@@ -3156,7 +3156,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "HWID bans, spoofers, and what we do not sell",
 							paragraphs: [
-								"Naraka Cheats combine ESP wallhack, radar hack et Naraka Aimbot indétectables pour Naraka sur PC Windows. neac",
+								"Naraka Cheats combine ESP wallhack, radar hack et Naraka Aimbot indétectables pour Naraka sur PC Windows. gestion des mises à jour NEAC pour Naraka cheats",
 								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/naraka-neac-bypass/\">NEAC FAQ</a> before buying anywhere.",
 								"Consultez Updates après les patchs NEAC. Aucune triche ne garantit un statut indétectable permanent.",
 							],
@@ -3164,7 +3164,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "External architecture, stream proofing, and patch-day checklist",
 							paragraphs: [
-								"Naraka Cheats combine ESP wallhack, radar hack et Naraka Aimbot indétectables pour Naraka sur PC Windows. neac",
+								"Naraka Cheats combine ESP wallhack, radar hack et Naraka Aimbot indétectables pour Naraka sur PC Windows. gestion des mises à jour NEAC pour Naraka cheats",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">Guide triches indétectables</a>, (2) confirm NEAC notes on <a href=\"/neac-bypass/\">Maintenance NEAC</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
 								"Deep dives: <a href=\"/undetected-naraka-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-naraka-cheats-eac/\">NEAC reality blog</a> · <a href=\"/naraka-cheats/\">Aperçu Naraka Cheats</a>.",
 							],
@@ -3174,7 +3174,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Triches Naraka 2026 | Guide acheteur",
-					description: "Triches Naraka 2026: checklist naraka cheats 2026 avant checkout. livraison numérique instantanée. indétectables — PC Windows.",
+					description: "Triches Naraka 2026 for Naraka Bladepoint on Windows PC — checklist naraka cheats 2026 avant checkout. livraison numérique instantanée. indétectables. Official",
 					h1: "Triches Naraka 2026",
 					intro: "Naraka Cheats combine ESP wallhack, radar hack et Naraka Aimbot indétectables pour Naraka sur PC Windows. Triches Naraka 2026. checklist naraka cheats 2026 avant checkout.",
 					imageAlt: "Naraka Cheats product overview for Naraka",
@@ -3211,7 +3211,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Episode 10+ and ranked meta in 2026",
 							paragraphs: [
 								"2026 ranked play rewards information speed — ESP hero markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/naraka-aimbot/\">Aimbot et soft aim</a> and ESP toggles.",
-								"Compare against <a href=\"/best-naraka-cheats/\">best naraka cheats</a> criteria and <a href=\"/undetected-naraka-cheats/\">undetected maintenance</a> before switching shops mid-season.",
+								"Compare against <a href=\"/\">Produit complet</a> criteria and <a href=\"/undetected-naraka-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/naraka-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/naraka-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
 						},
@@ -3219,8 +3219,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				hacks: {
-					title: "Naraka Cheats — Guide complet| ESP, Aimbot & Wallhack",
-					description: "Naraka cheats guide — undetected ESP wallhack, soft aim, radar & NEAC rebuilds on PC. Compare features & buy from $35 at narakacheats.org.",
+					title: "Naraka Cheats — Guide complet | ESP, Aimbot & Wallhack",
+					description: "Naraka Cheats — Guide complet for Naraka Bladepoint on Windows PC — pilier Naraka Cheats pour ESP et Aimbot. livraison numérique instantanée. Official naraka",
 					h1: "Naraka Cheats — Guide complet",
 					intro: "Les triches Naraka ajoutent ESP, radar et soft aim au jeu de base. Cette page explique ce que sont les naraka cheats, ce que Naraka Cheats inclut, la maintenance NEAC et où aller avant d'acheter.",
 					imageAlt: "Naraka Cheats overview — ESP, aimbot, and radar for Naraka",
@@ -3293,7 +3293,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheat-download": {
 					title: "Téléchargement Naraka Cheats | Accès instantané",
-					description: "Téléchargement Naraka Cheats: téléchargement licence numérique après paiement. livraison numérique instantanée. indétectables — PC Windows.",
+					description: "Téléchargement Naraka Cheats for Naraka Bladepoint on Windows PC — téléchargement licence numérique après paiement. livraison numérique instantanée.",
 					h1: "Téléchargement Naraka Cheats",
 					intro: "Naraka Cheats combine ESP wallhack, radar hack et Naraka Aimbot indétectables pour Naraka sur PC Windows. Téléchargement Naraka Cheats. téléchargement licence numérique après paiement.",
 					imageAlt: "Naraka Cheats download and install delivery flow",
@@ -3331,7 +3331,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"mod-menu": {
 					title: "Menu mod Naraka | Contrôles en jeu",
-					description: "Menu mod Naraka: toggles ESP et soft aim in-client. livraison numérique instantanée. indétectables — PC Windows.",
+					description: "Menu mod Naraka for Naraka Bladepoint on Windows PC — toggles ESP et soft aim in-client. livraison numérique instantanée. indétectables. Official naraka cheats",
 					h1: "Menu mod Naraka",
 					intro: "Naraka Cheats combine ESP wallhack, radar hack et Naraka Aimbot indétectables pour Naraka sur PC Windows. Menu mod Naraka. toggles ESP et soft aim in-client.",
 					imageAlt: "Naraka Cheats in-game menu controls",
@@ -3369,7 +3369,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"soft-aim": {
 					title: "Soft aim Naraka | Réglages soft aim",
-					description: "Soft aim Naraka: réglages soft aim fluides pour Windows PC. livraison numérique instantanée. indétectables — PC Windows.",
+					description: "Soft aim Naraka for Naraka Bladepoint on Windows PC — réglages soft aim fluides pour Windows PC. livraison numérique instantanée. indétectables. Official",
 					h1: "Soft aim Naraka",
 					intro: "Naraka Cheats combine ESP wallhack, radar hack et Naraka Aimbot indétectables pour Naraka sur PC Windows. Soft aim Naraka. réglages soft aim fluides pour Windows PC.",
 					imageAlt: "Naraka soft aim FOV and smoothness settings",
@@ -3407,7 +3407,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"best-cheats": {
 					title: "Meilleures triches Naraka | Checklist acheteur",
-					description: "Meilleures triches Naraka: quoi comparer avant d'acheter naraka cheats. livraison numérique instantanée. indétectables — PC Windows.",
+					description: "Meilleures triches Naraka for Naraka Bladepoint on Windows PC — quoi comparer avant d'acheter naraka cheats. livraison numérique instantanée. indétectables.",
 					h1: "Meilleures triches Naraka",
 					intro: "Naraka Cheats combine ESP wallhack, radar hack et Naraka Aimbot indétectables pour Naraka sur PC Windows. Meilleures triches Naraka. quoi comparer avant d'acheter naraka cheats.",
 					imageAlt: "Naraka Cheats overview for Naraka on PC",
@@ -3453,7 +3453,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"aimbot-hack": {
 					title: "Hack aimbot Naraka | Assistance soft aim",
-					description: "Hack aimbot Naraka: assist hack Aimbot undetected pour Naraka. livraison numérique instantanée. indétectables — PC Windows.",
+					description: "Hack aimbot Naraka for Naraka Bladepoint on Windows PC — assist hack Aimbot undetected pour Naraka. livraison numérique instantanée. indétectables. Official",
 					h1: "Hack aimbot Naraka",
 					intro: "Naraka Cheats combine ESP wallhack, radar hack et Naraka Aimbot indétectables pour Naraka sur PC Windows. Hack aimbot Naraka. assist hack Aimbot undetected pour Naraka.",
 					imageAlt: "Naraka Aimbot hack controls and bone priority",
@@ -3491,7 +3491,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"esp-hack": {
 					title: "Hack ESP Naraka | Boîtes et loot",
-					description: "Hack ESP Naraka: boîtes ESP hack, pins loote et distance. livraison numérique instantanée. indétectables — PC Windows.",
+					description: "Hack ESP Naraka for Naraka Bladepoint on Windows PC — boîtes ESP hack, pins loote et distance. livraison numérique instantanée. indétectables. Official naraka",
 					h1: "Hack ESP Naraka",
 					intro: "Naraka Cheats combine ESP wallhack, radar hack et Naraka Aimbot indétectables pour Naraka sur PC Windows. Hack ESP Naraka. boîtes ESP hack, pins loote et distance.",
 					imageAlt: "Naraka ESP hack boxes and hero markers",
@@ -3529,7 +3529,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"unlock-all": {
 					title: "Unlock all Naraka | Ce que ça signifie",
-					description: "Unlock all Naraka: recherches unlock-all vs vrais outils ESP et Aimbot. livraison numérique instantanée. indétectables — PC Windows.",
+					description: "Unlock all Naraka for Naraka Bladepoint on Windows PC — recherches unlock-all vs vrais outils ESP et Aimbot. livraison numérique instantanée. indétectables.",
 					h1: "Unlock all Naraka",
 					intro: "Naraka Cheats combine ESP wallhack, radar hack et Naraka Aimbot indétectables pour Naraka sur PC Windows. Unlock all Naraka. recherches unlock-all vs vrais outils ESP et Aimbot.",
 					imageAlt: "Naraka Cheats license features overview",
@@ -3567,7 +3567,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Politique de confidentialité | Naraka Cheats",
-					description: "Politique de confidentialité pour Naraka Cheats — ESP wallhack, Aimbot, PC Windows.",
+					description: "Politique de confidentialité pour Naraka Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at narakacheats.org.",
 					h1: "Politique de confidentialité",
 					intro: "Naraka Cheats combine ESP wallhack, radar hack et Naraka Aimbot indétectables pour Naraka sur PC Windows. Politique de confidentialité pour narakacheats.org et les licences Naraka.",
 					imageAlt: "Naraka Cheats",
@@ -3602,7 +3602,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				refund: {
 					title: "Politique de remboursement | Naraka Cheats",
-					description: "Politique de remboursement pour Naraka Cheats — ESP wallhack, Aimbot, PC Windows.",
+					description: "Politique de remboursement pour Naraka Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at narakacheats.org.",
 					h1: "Politique de remboursement",
 					intro: "Naraka Cheats combine ESP wallhack, radar hack et Naraka Aimbot indétectables pour Naraka sur PC Windows. Politique de remboursement pour narakacheats.org et les licences Naraka.",
 					imageAlt: "Naraka Cheats",
@@ -3637,7 +3637,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				terms: {
 					title: "Conditions d'utilisation | Naraka Cheats",
-					description: "Conditions d'utilisation pour Naraka Cheats — ESP wallhack, Aimbot, PC Windows.",
+					description: "Conditions d'utilisation pour Naraka Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at narakacheats.org.",
 					h1: "Conditions d'utilisation",
 					intro: "Naraka Cheats combine ESP wallhack, radar hack et Naraka Aimbot indétectables pour Naraka sur PC Windows. Conditions d'utilisation pour narakacheats.org et les licences Naraka.",
 					imageAlt: "Naraka Cheats",
@@ -3747,7 +3747,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Naraka Cheats 2026 | ESP, Wallhack & Aimbot",
-					description: "Undetected Naraka Cheats für Naraka auf PC. ESP Wallhack, Radar Hack und Aimbot mit NEAC-Wartung. Sofortige digitale Lieferung.",
+					description: "Undetected Naraka Cheats für Naraka auf PC. ESP Wallhack, Radar Hack und Aimbot mit NEAC-Wartung. Sofortige digitale Lieferung. Compare plans and guides at",
 					h1: "undetected Hacks für Naraka",
 					intro: "Undetected Windows PC Paket für Naraka: ESP Wallhack, Radar und Aimbot mit NEAC-Wartung nach jedem Patch.",
 					imageAlt: "Naraka ESP — Spieler-Tags Hack",
@@ -3774,8 +3774,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				"naraka-esp": {
-					title: "ESP| Wallhack & Player Boxes | Naraka Cheats",
-					description: "Naraka ESP wallhack — player boxes, hero markers & distance tags on PC. Undetected naraka cheats with aimbot & radar. Shop at narakacheats.org.",
+					title: "ESP | Wallhack & Player Boxes | Naraka Cheats",
+					description: "ESP for Naraka Bladepoint on Windows PC — Spielerboxen, Kadaver-Marker und Wallhack-Overlays. sofortige digitale Lieferung. Official naraka cheats at",
 					h1: "ESP",
 					intro: "Sieh Spieler und Loot durch Wände bei Naraka matches. Teil derselben Naraka Cheats-Lizenz.",
 					imageAlt: "Naraka ESP player boxes and distance readouts in a match",
@@ -3824,8 +3824,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				"naraka-aimbot": {
-					title: "Aimbot| Soft Aim & FOV Settings | Naraka Cheats",
-					description: "Naraka aimbot with soft aim, FOV, bone priority & hotkeys on PC. Undetected Naraka Cheats with ESP & radar included. narakacheats.org.",
+					title: "Aimbot | Soft Aim & FOV Settings | Naraka Cheats",
+					description: "Aimbot for Naraka Bladepoint on Windows PC — Soft Aim, FOV und Aimbot-Profile pro Spezies. sofortige digitale Lieferung. Official naraka cheats at",
 					h1: "Aimbot",
 					intro: "Soft Aim und Zielhilfe, die du für Naraka einstellen kannst. In derselben Naraka Cheats-Lizenz enthalten.",
 					imageAlt: "Naraka Aimbot and soft aim controls on Windows PC",
@@ -3875,7 +3875,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Features 2026 | ESP, Aimbot & Radar | Naraka Cheats",
-					description: "Features: ESP, Soft Aim, Radar-Steuerung. sofortige digitale Lieferung.",
+					description: "Features: ESP, Soft Aim, Radar-Steuerung. sofortige digitale Lieferung. undetected. Compare plans and guides at narakacheats.org.",
 					h1: "Features",
 					intro: "Naraka Cheats bündelt ESP wallhack, radar hack und Naraka Aimbot als undetected Paket für Naraka auf Windows PC. Features für Naraka auf Windows PC.",
 					imageAlt: "Naraka Cheats features — ESP, soft aim, and radar screenshots",
@@ -3954,8 +3954,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				pricing: {
-					title: "Shop| $35/mo or $150 Lifetime",
-					description: "Buy Naraka cheats at narakacheats.org — $35/month or $150 lifetime. ESP, aimbot & radar on PC. Same features, instant delivery.",
+					title: "Shop | $35/mo or $150 Lifetime",
+					description: "Shop for Naraka Bladepoint on Windows PC — $35 monatliche oder $150 Lifetime-Lizenzen. sofortige digitale Lieferung. Official naraka cheats at narakacheats.org.",
 					h1: "Shop",
 					intro: "Naraka Cheats bündelt ESP wallhack, radar hack und Naraka Aimbot als undetected Paket für Naraka auf Windows PC. Shop — $35/Monat y $150 Lifetime.",
 					imageAlt: "Naraka Cheats store plans for monthly and lifetime licenses",
@@ -4004,8 +4004,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				setup: {
-					title: "Setup| Windows PC Install Guide",
-					description: "Install Naraka Cheats on PC — activate ESP, soft aim & radar step by step. Setup guide at narakacheats.org. Check NEAC status first.",
+					title: "Setup | Windows PC Install",
+					description: "Setup for Naraka Bladepoint on Windows PC — Windows PC Aktivierung und Erststart-Setup. sofortige digitale Lieferung. Official naraka cheats at",
 					h1: "Setup",
 					intro: "Installiere und aktiviere deine Lizenz auf Windows 10 oder 11 before your first match.",
 					imageAlt: "Naraka Cheats setup guide screenshot for Windows PC",
@@ -4054,8 +4054,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				updates: {
-					title: "Status| NEAC Updates | Naraka Cheats",
-					description: "Live status after Naraka & NEAC patches. Check undetected ESP, aimbot & radar rebuilds on PC before you queue. narakacheats.org.",
+					title: "Status | NEAC Updates | Naraka Cheats",
+					description: "Status for Naraka Bladepoint on Windows PC — NEAC Patch-Status und Rebuild-Notizen. sofortige digitale Lieferung. Official naraka cheats at narakacheats.org.",
 					h1: "Status",
 					intro: "Updates-Seite nach NEAC-Patches prüfen. Kein Cheat garantiert dauerhaft undetected Status.",
 					imageAlt: "Naraka Cheats live status after NEAC and game patches",
@@ -4103,8 +4103,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				faq: {
-					title: "FAQ| ESP, Aimbot & NEAC",
-					description: "FAQ for naraka cheats — delivery, setup, undetected status, NEAC updates & pricing on PC. Answers at narakacheats.org before you buy.",
+					title: "FAQ | ESP, Aimbot & NEAC",
+					description: "FAQ for Naraka Bladepoint on Windows PC — Fragen zu ESP, Soft Aim, Lieferung und NEAC. sofortige digitale Lieferung. Official naraka cheats at narakacheats.org.",
 					h1: "FAQ",
 					intro: "Häufige Fragen zu Naraka Cheats — Lieferung, Setup, Updates und Rückerstattungen.",
 					imageAlt: "Naraka Cheats FAQ — delivery, setup, and update answers",
@@ -4151,8 +4151,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				support: {
-					title: "Support| License & Setup Help",
-					description: "Support for license delivery, ESP setup & billing on PC. Email support@narakacheats.org with your order ID. narakacheats.org/support.",
+					title: "Support | License & Setup Help",
+					description: "Support for Naraka Bladepoint on Windows PC — Bestellhilfe und Lizenz-Support-Kontakt. sofortige digitale Lieferung. Official naraka cheats at narakacheats.org.",
 					h1: "Support",
 					intro: "Hilfe zu Lizenzen, Setup und Abrechnung für Naraka Cheats auf Windows PC.",
 					imageAlt: "Naraka Cheats support page for license and setup help",
@@ -4190,7 +4190,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				undetected: {
 					title: "Undetected Cheats | Undetected Status",
-					description: "Undetected Cheats: Undetected-Wartung nach NEAC Patches. sofortige digitale Lieferung. undetected — Windows PC.",
+					description: "Undetected Cheats for Naraka Bladepoint on Windows PC — Undetected-Wartung nach NEAC Patches. sofortige digitale Lieferung. undetected. Official naraka cheats",
 					h1: "Undetected Cheats",
 					intro: "Naraka Cheats bündelt ESP wallhack, radar hack und Naraka Aimbot als undetected Paket für Naraka auf Windows PC. Undetected Cheats. Undetected-Wartung nach NEAC Patches.",
 					imageAlt: "Naraka Cheats undetected status overview for Windows PC",
@@ -4236,7 +4236,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				wallhack: {
 					title: "Naraka Wallhack | ESP Sichtbarkeit",
-					description: "Naraka Wallhack: Wallhack ESP für Spieler, Kadaver und Entfernung. sofortige digitale Lieferung. undetected — Windows PC.",
+					description: "Naraka Wallhack for Naraka Bladepoint on Windows PC — Wallhack ESP für Spieler, Kadaver und Entfernung. sofortige digitale Lieferung. undetected. Official",
 					h1: "Naraka Wallhack",
 					intro: "Naraka Cheats bündelt ESP wallhack, radar hack und Naraka Aimbot als undetected Paket für Naraka auf Windows PC. Naraka Wallhack. Wallhack ESP für Spieler, Kadaver und Entfernung.",
 					imageAlt: "naraka wallhack visibility through walls in a match",
@@ -4273,8 +4273,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				radar: {
-					title: "Radar| 2D Threat Map | Naraka Cheats",
-					description: "2D radar hack for flank awareness on PC. Bundled with ESP wallhack & soft aim in one license. NEAC maintenance at narakacheats.org.",
+					title: "Radar | 2D Threat Map | Naraka Cheats",
+					description: "Radar for Naraka Bladepoint on Windows PC — 2D-Radar-Hinweise für Flanken und Rotationen. sofortige digitale Lieferung. Official naraka cheats at",
 					h1: "Radar",
 					intro: "Ein einfaches 2D-Radar für Bedrohungen außerhalb deines Sichtfelds. In derselben Naraka Cheats-Lizenz enthalten.",
 					imageAlt: "Naraka 2D radar overlay showing nearby threats",
@@ -4311,15 +4311,15 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				neac: {
-					title: "neac | neac",
-					description: "neac: neac. sofortige digitale Lieferung. undetected — Windows PC.",
-					h1: "neac",
-					intro: "Naraka Cheats bündelt ESP wallhack, radar hack und Naraka Aimbot als undetected Paket für Naraka auf Windows PC. neac. neac.",
-					imageAlt: "neac — Naraka Cheats",
-					galleryTitle: "neac",
+					title: "NEAC Bypass | Patch-Wartung",
+					description: "NEAC Bypass for Naraka Bladepoint on Windows PC — wie NEAC Updates für Naraka Cheats gehandhabt werden. sofortige digitale Lieferung. undetected. Official",
+					h1: "NEAC Bypass",
+					intro: "Naraka Cheats bündelt ESP wallhack, radar hack und Naraka Aimbot als undetected Paket für Naraka auf Windows PC. NEAC Bypass. wie NEAC Updates für Naraka Cheats gehandhabt werden.",
+					imageAlt: "Naraka Cheats maintenance after a NEAC patch",
+					galleryTitle: "NEAC Bypass",
 					ctaPrimary: "Naraka Cheats kaufen",
 					ctaSecondary: "Features ansehen",
-					ctaSecondaryHref: "/",
+					ctaSecondaryHref: "/updates/",
 					sections: [
 						{
 							h2: "NEAC overview",
@@ -4348,7 +4348,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "HWID bans, spoofers, and what we do not sell",
 							paragraphs: [
-								"Naraka Cheats bündelt ESP wallhack, radar hack und Naraka Aimbot als undetected Paket für Naraka auf Windows PC. neac",
+								"Naraka Cheats bündelt ESP wallhack, radar hack und Naraka Aimbot als undetected Paket für Naraka auf Windows PC. wie NEAC Updates für Naraka Cheats gehandhabt werden",
 								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/naraka-neac-bypass/\">NEAC FAQ</a> before buying anywhere.",
 								"Updates-Seite nach NEAC-Patches prüfen. Kein Cheat garantiert dauerhaft undetected Status.",
 							],
@@ -4356,7 +4356,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "External architecture, stream proofing, and patch-day checklist",
 							paragraphs: [
-								"Naraka Cheats bündelt ESP wallhack, radar hack und Naraka Aimbot als undetected Paket für Naraka auf Windows PC. neac",
+								"Naraka Cheats bündelt ESP wallhack, radar hack und Naraka Aimbot als undetected Paket für Naraka auf Windows PC. wie NEAC Updates für Naraka Cheats gehandhabt werden",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">Undetected Cheats Guide</a>, (2) confirm NEAC notes on <a href=\"/neac-bypass/\">NEAC Wartung</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
 								"Deep dives: <a href=\"/undetected-naraka-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-naraka-cheats-eac/\">NEAC reality blog</a> · <a href=\"/naraka-cheats/\">Naraka Cheats Übersicht</a>.",
 							],
@@ -4366,7 +4366,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Naraka Cheats 2026 | Käuferleitfaden",
-					description: "Naraka Cheats 2026: 2026 naraka cheats Checkliste vor dem Checkout. sofortige digitale Lieferung. undetected — Windows PC.",
+					description: "Naraka Cheats 2026 for Naraka Bladepoint on Windows PC — 2026 naraka cheats Checkliste vor dem Checkout. sofortige digitale Lieferung. undetected. Official",
 					h1: "Naraka Cheats 2026",
 					intro: "Naraka Cheats bündelt ESP wallhack, radar hack und Naraka Aimbot als undetected Paket für Naraka auf Windows PC. Naraka Cheats 2026. 2026 naraka cheats Checkliste vor dem Checkout.",
 					imageAlt: "Naraka Cheats product overview for Naraka",
@@ -4403,7 +4403,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Episode 10+ and ranked meta in 2026",
 							paragraphs: [
 								"2026 ranked play rewards information speed — ESP hero markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/naraka-aimbot/\">Aimbot und Soft Aim</a> and ESP toggles.",
-								"Compare against <a href=\"/best-naraka-cheats/\">best naraka cheats</a> criteria and <a href=\"/undetected-naraka-cheats/\">undetected maintenance</a> before switching shops mid-season.",
+								"Compare against <a href=\"/\">Vollständiges Produkt</a> criteria and <a href=\"/undetected-naraka-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/naraka-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/naraka-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
 						},
@@ -4411,8 +4411,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				hacks: {
-					title: "Naraka Cheats — Vollständiger Guide| ESP, Aimbot & Wallhack",
-					description: "Naraka cheats guide — undetected ESP wallhack, soft aim, radar & NEAC rebuilds on PC. Compare features & buy from $35 at narakacheats.org.",
+					title: "Naraka Cheats — Vollständiger Guide | ESP, Aimbot & Wallhack",
+					description: "Naraka Cheats — Vollständiger Guide for Naraka Bladepoint on Windows PC — Naraka Cheats Säule für ESP und Aimbot. sofortige digitale Lieferung. Official naraka",
 					h1: "Naraka Cheats — Vollständiger Guide",
 					intro: "Naraka Cheats fügen ESP, Radar und Soft Aim zum Basisspiel hinzu. Diese Seite erklärt naraka cheats, den Naraka Cheats-Umfang, NEAC-Wartung und nächste Schritte vor dem Kauf.",
 					imageAlt: "Naraka Cheats overview — ESP, aimbot, and radar for Naraka",
@@ -4485,7 +4485,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheat-download": {
 					title: "Naraka Cheat Download | Sofortzugang",
-					description: "Naraka Cheat Download: digitaler Lizenz-Download nach Zahlung. sofortige digitale Lieferung. undetected — Windows PC.",
+					description: "Naraka Cheat Download for Naraka Bladepoint on Windows PC — digitaler Lizenz-Download nach Zahlung. sofortige digitale Lieferung. undetected. Official naraka",
 					h1: "Naraka Cheat Download",
 					intro: "Naraka Cheats bündelt ESP wallhack, radar hack und Naraka Aimbot als undetected Paket für Naraka auf Windows PC. Naraka Cheat Download. digitaler Lizenz-Download nach Zahlung.",
 					imageAlt: "Naraka Cheats download and install delivery flow",
@@ -4523,7 +4523,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"mod-menu": {
 					title: "Naraka Mod-Menü | In-Game Toggles",
-					description: "Naraka Mod-Menü: In-Client ESP- und Soft-Aim-Toggles. sofortige digitale Lieferung. undetected — Windows PC.",
+					description: "Naraka Mod-Menü for Naraka Bladepoint on Windows PC — In-Client ESP- und Soft-Aim-Toggles. sofortige digitale Lieferung. undetected. Official naraka cheats at",
 					h1: "Naraka Mod-Menü",
 					intro: "Naraka Cheats bündelt ESP wallhack, radar hack und Naraka Aimbot als undetected Paket für Naraka auf Windows PC. Naraka Mod-Menü. In-Client ESP- und Soft-Aim-Toggles.",
 					imageAlt: "Naraka Cheats in-game menu controls",
@@ -4561,7 +4561,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"soft-aim": {
 					title: "Naraka Soft Aim | Soft-Aim Einstellungen",
-					description: "Naraka Soft Aim: sanfte Soft-Aim-Einstellungen für Windows PC. sofortige digitale Lieferung. undetected — Windows PC.",
+					description: "Naraka Soft Aim for Naraka Bladepoint on Windows PC — sanfte Soft-Aim-Einstellungen für Windows PC. sofortige digitale Lieferung. undetected. Official naraka",
 					h1: "Naraka Soft Aim",
 					intro: "Naraka Cheats bündelt ESP wallhack, radar hack und Naraka Aimbot als undetected Paket für Naraka auf Windows PC. Naraka Soft Aim. sanfte Soft-Aim-Einstellungen für Windows PC.",
 					imageAlt: "Naraka soft aim FOV and smoothness settings",
@@ -4599,7 +4599,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"best-cheats": {
 					title: "Beste Naraka Cheats | Käufer-Checkliste",
-					description: "Beste Naraka Cheats: was vor dem Kauf der naraka cheats verglichen werden sollte. sofortige digitale Lieferung. undetected — Windows PC.",
+					description: "Beste Naraka Cheats for Naraka Bladepoint on Windows PC — was vor dem Kauf der naraka cheats verglichen werden sollte. sofortige digitale Lieferung.",
 					h1: "Beste Naraka Cheats",
 					intro: "Naraka Cheats bündelt ESP wallhack, radar hack und Naraka Aimbot als undetected Paket für Naraka auf Windows PC. Beste Naraka Cheats. was vor dem Kauf der naraka cheats verglichen werden sollte.",
 					imageAlt: "Naraka Cheats overview for Naraka on PC",
@@ -4645,7 +4645,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"aimbot-hack": {
 					title: "Naraka Aimbot Hack | Soft-Aim Assist",
-					description: "Naraka Aimbot Hack: undetected Aimbot-Hack-Assist für Naraka. sofortige digitale Lieferung. undetected — Windows PC.",
+					description: "Naraka Aimbot Hack for Naraka Bladepoint on Windows PC — undetected Aimbot-Hack-Assist für Naraka. sofortige digitale Lieferung. undetected. Official naraka",
 					h1: "Naraka Aimbot Hack",
 					intro: "Naraka Cheats bündelt ESP wallhack, radar hack und Naraka Aimbot als undetected Paket für Naraka auf Windows PC. Naraka Aimbot Hack. undetected Aimbot-Hack-Assist für Naraka.",
 					imageAlt: "Naraka Aimbot hack controls and bone priority",
@@ -4683,7 +4683,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"esp-hack": {
 					title: "Naraka ESP Hack | Boxen & Loot",
-					description: "Naraka ESP Hack: ESP-Hack-Boxen, Kadaver-Pins und Entfernung. sofortige digitale Lieferung. undetected — Windows PC.",
+					description: "Naraka ESP Hack for Naraka Bladepoint on Windows PC — ESP-Hack-Boxen, Kadaver-Pins und Entfernung. sofortige digitale Lieferung. undetected. Official naraka",
 					h1: "Naraka ESP Hack",
 					intro: "Naraka Cheats bündelt ESP wallhack, radar hack und Naraka Aimbot als undetected Paket für Naraka auf Windows PC. Naraka ESP Hack. ESP-Hack-Boxen, Kadaver-Pins und Entfernung.",
 					imageAlt: "Naraka ESP hack boxes and hero markers",
@@ -4721,7 +4721,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"unlock-all": {
 					title: "Naraka Unlock All | Was es bedeutet",
-					description: "Naraka Unlock All: unlock-all Suchen vs echte ESP- und Aimbot-Tools. sofortige digitale Lieferung. undetected — Windows PC.",
+					description: "Naraka Unlock All for Naraka Bladepoint on Windows PC — unlock-all Suchen vs echte ESP- und Aimbot-Tools. sofortige digitale Lieferung. undetected. Official",
 					h1: "Naraka Unlock All",
 					intro: "Naraka Cheats bündelt ESP wallhack, radar hack und Naraka Aimbot als undetected Paket für Naraka auf Windows PC. Naraka Unlock All. unlock-all Suchen vs echte ESP- und Aimbot-Tools.",
 					imageAlt: "Naraka Cheats license features overview",
@@ -4759,7 +4759,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Datenschutz | Naraka Cheats",
-					description: "Datenschutz für Naraka Cheats — ESP wallhack, Aimbot, Windows PC.",
+					description: "Datenschutz für Naraka Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at narakacheats.org.",
 					h1: "Datenschutz",
 					intro: "Naraka Cheats bündelt ESP wallhack, radar hack und Naraka Aimbot als undetected Paket für Naraka auf Windows PC. Datenschutz für narakacheats.org und Naraka-Lizenzen.",
 					imageAlt: "Naraka Cheats",
@@ -4794,7 +4794,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				refund: {
 					title: "Rückerstattung | Naraka Cheats",
-					description: "Rückerstattung für Naraka Cheats — ESP wallhack, Aimbot, Windows PC.",
+					description: "Rückerstattung für Naraka Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at narakacheats.org.",
 					h1: "Rückerstattung",
 					intro: "Naraka Cheats bündelt ESP wallhack, radar hack und Naraka Aimbot als undetected Paket für Naraka auf Windows PC. Rückerstattung für narakacheats.org und Naraka-Lizenzen.",
 					imageAlt: "Naraka Cheats",
@@ -4829,7 +4829,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				terms: {
 					title: "Nutzungsbedingungen | Naraka Cheats",
-					description: "Nutzungsbedingungen für Naraka Cheats — ESP wallhack, Aimbot, Windows PC.",
+					description: "Nutzungsbedingungen für Naraka Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at narakacheats.org.",
 					h1: "Nutzungsbedingungen",
 					intro: "Naraka Cheats bündelt ESP wallhack, radar hack und Naraka Aimbot als undetected Paket für Naraka auf Windows PC. Nutzungsbedingungen für narakacheats.org und Naraka-Lizenzen.",
 					imageAlt: "Naraka Cheats",
@@ -4939,7 +4939,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Naraka Cheats 2026 | ESP, Wallhack e Aimbot",
-					description: "Cheats Naraka indetectáveis para Naraka no PC. ESP wallhack, radar hack e Aimbot com manutenção NEAC. Entrega digital instantánea.",
+					description: "Cheats Naraka indetectáveis para Naraka no PC. ESP wallhack, radar hack e Aimbot com manutenção NEAC. Entrega digital instantánea. Compare plans and guides at",
 					h1: "hacks indetectáveis para Naraka",
 					intro: "Pacote undetected para Naraka no Windows PC: ESP wallhack, radar e Aimbot com manutenção NEAC após cada patch.",
 					imageAlt: "Naraka ESP player tags hack",
@@ -4966,8 +4966,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				"naraka-esp": {
-					title: "ESP| Wallhack & Player Boxes | Naraka Cheats",
-					description: "Naraka ESP wallhack — player boxes, hero markers & distance tags on PC. Undetected naraka cheats with aimbot & radar. Shop at narakacheats.org.",
+					title: "ESP | Wallhack & Player Boxes | Naraka Cheats",
+					description: "ESP for Naraka Bladepoint on Windows PC — caixas de jogador, marcadores de carcaça e overlays wallhack. entrega digital instantânea. Official naraka cheats at",
 					h1: "ESP",
 					intro: "Veja jogadores e loot através das paredes em matches de Naraka. Parte da mesma licença Naraka Cheats.",
 					imageAlt: "Naraka ESP player boxes and distance readouts in a match",
@@ -5016,8 +5016,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				"naraka-aimbot": {
-					title: "Aimbot| Soft Aim & FOV Settings | Naraka Cheats",
-					description: "Naraka aimbot with soft aim, FOV, bone priority & hotkeys on PC. Undetected Naraka Cheats with ESP & radar included. narakacheats.org.",
+					title: "Aimbot | Soft Aim & FOV Settings | Naraka Cheats",
+					description: "Aimbot for Naraka Bladepoint on Windows PC — soft aim, FOV e perfis Aimbot por espécie. entrega digital instantânea. Official naraka cheats at narakacheats.org.",
 					h1: "Aimbot",
 					intro: "Soft aim e assistência de mira ajustáveis para Naraka. Incluído na mesma licença Naraka Cheats.",
 					imageAlt: "Naraka Aimbot and soft aim controls on Windows PC",
@@ -5067,7 +5067,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Recursos 2026 | ESP, Aimbot & Radar | Naraka Cheats",
-					description: "Naraka Cheats reúne ESP wallhack, radar hack e Naraka Aimbot indetectáveis para Naraka no PC Windows. ESP, soft aim, controles de radar",
+					description: "Recursos: ESP, soft aim, controles de radar. entrega digital instantânea. indetectáveis. Compare plans and guides at narakacheats.org.",
 					h1: "Recursos",
 					intro: "Naraka Cheats reúne ESP wallhack, radar hack e Naraka Aimbot indetectáveis para Naraka no PC Windows. Recursos für Naraka auf PC Windows.",
 					imageAlt: "Naraka Cheats features — ESP, soft aim, and radar screenshots",
@@ -5145,8 +5145,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				pricing: {
-					title: "Loja| $35/mo or $150 Lifetime",
-					description: "Buy Naraka cheats at narakacheats.org — $35/month or $150 lifetime. ESP, aimbot & radar on PC. Same features, instant delivery.",
+					title: "Loja | $35/mo or $150 Lifetime",
+					description: "Loja for Naraka Bladepoint on Windows PC — licenças de $35 mensais ou $150 vitalícias. entrega digital instantânea. Official naraka cheats at narakacheats.org.",
 					h1: "Loja",
 					intro: "Naraka Cheats reúne ESP wallhack, radar hack e Naraka Aimbot indetectáveis para Naraka no PC Windows. Loja — $35/mês y $150 vitalício.",
 					imageAlt: "Naraka Cheats store plans for monthly and lifetime licenses",
@@ -5195,8 +5195,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				setup: {
-					title: "Instalação| Windows PC Install Guide",
-					description: "Install Naraka Cheats on PC — activate ESP, soft aim & radar step by step. Setup guide at narakacheats.org. Check NEAC status first.",
+					title: "Instalação | Windows PC Install",
+					description: "Instalação for Naraka Bladepoint on Windows PC — ativação no Windows PC e configuração do primeiro lançamento. entrega digital instantânea. Official naraka",
 					h1: "Instalação",
 					intro: "Instale e ative sua licença no Windows 10 ou 11 antes do primeiro match.",
 					imageAlt: "Naraka Cheats setup guide screenshot for Windows PC",
@@ -5245,8 +5245,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				updates: {
-					title: "Status| NEAC Updates | Naraka Cheats",
-					description: "Live status after Naraka & NEAC patches. Check undetected ESP, aimbot & radar rebuilds on PC before you queue. narakacheats.org.",
+					title: "Status | NEAC Updates | Naraka Cheats",
+					description: "Status for Naraka Bladepoint on Windows PC — status de patches NEAC e notas de rebuild. entrega digital instantânea. Official naraka cheats at narakacheats.org.",
 					h1: "Status",
 					intro: "Verifique Updates após patches NEAC. Nenhum cheat garante status indetectável permanente.",
 					imageAlt: "Naraka Cheats live status after NEAC and game patches",
@@ -5294,8 +5294,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				faq: {
-					title: "FAQ| ESP, Aimbot & NEAC",
-					description: "FAQ for naraka cheats — delivery, setup, undetected status, NEAC updates & pricing on PC. Answers at narakacheats.org before you buy.",
+					title: "FAQ | ESP, Aimbot & NEAC",
+					description: "FAQ for Naraka Bladepoint on Windows PC — perguntas sobre ESP, soft aim, entrega e NEAC. entrega digital instantânea. Official naraka cheats at",
 					h1: "FAQ",
 					intro: "Perguntas frequentes sobre Naraka Cheats — entrega, instalação, atualizações e reembolsos.",
 					imageAlt: "Naraka Cheats FAQ — delivery, setup, and update answers",
@@ -5342,8 +5342,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				support: {
-					title: "Suporte| License & Setup Help",
-					description: "Support for license delivery, ESP setup & billing on PC. Email support@narakacheats.org with your order ID. narakacheats.org/support.",
+					title: "Suporte | License & Setup Help",
+					description: "Suporte for Naraka Bladepoint on Windows PC — ajuda com pedidos e contato de suporte de licenças. entrega digital instantânea. Official naraka cheats at",
 					h1: "Suporte",
 					intro: "Obtenha ajuda com licenças, instalação e faturamento do Naraka Cheats no Windows PC.",
 					imageAlt: "Naraka Cheats support page for license and setup help",
@@ -5381,7 +5381,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				undetected: {
 					title: "Cheats indetectáveis | Status indetectável",
-					description: "Cheats indetectáveis: manutenção undetected após patches NEAC. entrega digital instantânea. indetectáveis — PC Windows.",
+					description: "Cheats indetectáveis for Naraka Bladepoint on Windows PC — manutenção undetected após patches NEAC. entrega digital instantânea. indetectáveis. Official naraka",
 					h1: "Cheats indetectáveis",
 					intro: "Naraka Cheats reúne ESP wallhack, radar hack e Naraka Aimbot indetectáveis para Naraka no PC Windows. Cheats indetectáveis. manutenção undetected após patches NEAC.",
 					imageAlt: "Naraka Cheats undetected status overview for Windows PC",
@@ -5427,7 +5427,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				wallhack: {
 					title: "Naraka Wallhack | Visibilidade ESP",
-					description: "Naraka Wallhack: wallhack ESP para jogadores, carcaças e distância. entrega digital instantânea. indetectáveis — PC Windows.",
+					description: "Naraka Wallhack for Naraka Bladepoint on Windows PC — wallhack ESP para jogadores, carcaças e distância. entrega digital instantânea. indetectáveis. Official",
 					h1: "Naraka Wallhack",
 					intro: "Naraka Cheats reúne ESP wallhack, radar hack e Naraka Aimbot indetectáveis para Naraka no PC Windows. Naraka Wallhack. wallhack ESP para jogadores, carcaças e distância.",
 					imageAlt: "naraka wallhack visibility through walls in a match",
@@ -5464,8 +5464,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				radar: {
-					title: "Radar| 2D Threat Map | Naraka Cheats",
-					description: "2D radar hack for flank awareness on PC. Bundled with ESP wallhack & soft aim in one license. NEAC maintenance at narakacheats.org.",
+					title: "Radar | 2D Threat Map | Naraka Cheats",
+					description: "Radar for Naraka Bladepoint on Windows PC — sinais de radar 2D para flancos e rotações. entrega digital instantânea. Official naraka cheats at narakacheats.org.",
 					h1: "Radar",
 					intro: "Um radar 2D simples para ameaças fora da sua visão. Incluído na mesma licença Naraka Cheats.",
 					imageAlt: "Naraka 2D radar overlay showing nearby threats",
@@ -5502,15 +5502,15 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				neac: {
-					title: "neac | neac",
-					description: "neac: neac. entrega digital instantânea. indetectáveis — PC Windows.",
-					h1: "neac",
-					intro: "Naraka Cheats reúne ESP wallhack, radar hack e Naraka Aimbot indetectáveis para Naraka no PC Windows. neac. neac.",
-					imageAlt: "neac — Naraka Cheats",
-					galleryTitle: "neac",
+					title: "Bypass NEAC | Manutenção de patches",
+					description: "Bypass NEAC for Naraka Bladepoint on Windows PC — como as atualizações NEAC são tratadas para Naraka cheats. entrega digital instantânea. indetectáveis.",
+					h1: "Bypass NEAC",
+					intro: "Naraka Cheats reúne ESP wallhack, radar hack e Naraka Aimbot indetectáveis para Naraka no PC Windows. Bypass NEAC. como as atualizações NEAC são tratadas para Naraka cheats.",
+					imageAlt: "Naraka Cheats maintenance after a NEAC patch",
+					galleryTitle: "Bypass NEAC",
 					ctaPrimary: "Comprar Naraka Cheats",
 					ctaSecondary: "Ver recursos",
-					ctaSecondaryHref: "/",
+					ctaSecondaryHref: "/updates/",
 					sections: [
 						{
 							h2: "NEAC overview",
@@ -5539,7 +5539,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "HWID bans, spoofers, and what we do not sell",
 							paragraphs: [
-								"Naraka Cheats reúne ESP wallhack, radar hack e Naraka Aimbot indetectáveis para Naraka no PC Windows. neac",
+								"Naraka Cheats reúne ESP wallhack, radar hack e Naraka Aimbot indetectáveis para Naraka no PC Windows. como as atualizações NEAC são tratadas para Naraka cheats",
 								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/naraka-neac-bypass/\">NEAC FAQ</a> before buying anywhere.",
 								"Verifique Updates após patches NEAC. Nenhum cheat garante status indetectável permanente.",
 							],
@@ -5547,7 +5547,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "External architecture, stream proofing, and patch-day checklist",
 							paragraphs: [
-								"Naraka Cheats reúne ESP wallhack, radar hack e Naraka Aimbot indetectáveis para Naraka no PC Windows. neac",
+								"Naraka Cheats reúne ESP wallhack, radar hack e Naraka Aimbot indetectáveis para Naraka no PC Windows. como as atualizações NEAC são tratadas para Naraka cheats",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">Guia de cheats indetectáveis</a>, (2) confirm NEAC notes on <a href=\"/neac-bypass/\">Manutenção NEAC</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
 								"Deep dives: <a href=\"/undetected-naraka-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-naraka-cheats-eac/\">NEAC reality blog</a> · <a href=\"/naraka-cheats/\">Visão geral Naraka Cheats</a>.",
 							],
@@ -5557,7 +5557,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Cheats Naraka 2026 | Guia do comprador",
-					description: "Cheats Naraka 2026: checklist de naraka cheats 2026 antes do checkout. entrega digital instantânea. indetectáveis — PC Windows.",
+					description: "Cheats Naraka 2026 for Naraka Bladepoint on Windows PC — checklist de naraka cheats 2026 antes do checkout. entrega digital instantânea. indetectáveis.",
 					h1: "Cheats Naraka 2026",
 					intro: "Naraka Cheats reúne ESP wallhack, radar hack e Naraka Aimbot indetectáveis para Naraka no PC Windows. Cheats Naraka 2026. checklist de naraka cheats 2026 antes do checkout.",
 					imageAlt: "Naraka Cheats product overview for Naraka",
@@ -5594,7 +5594,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Episode 10+ and ranked meta in 2026",
 							paragraphs: [
 								"2026 ranked play rewards information speed — ESP hero markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/naraka-aimbot/\">Aimbot e soft aim</a> and ESP toggles.",
-								"Compare against <a href=\"/best-naraka-cheats/\">best naraka cheats</a> criteria and <a href=\"/undetected-naraka-cheats/\">undetected maintenance</a> before switching shops mid-season.",
+								"Compare against <a href=\"/\">Produto completo</a> criteria and <a href=\"/undetected-naraka-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/naraka-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/naraka-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
 						},
@@ -5602,8 +5602,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				hacks: {
-					title: "Naraka Cheats — Guia completo| ESP, Aimbot & Wallhack",
-					description: "Naraka cheats guide — undetected ESP wallhack, soft aim, radar & NEAC rebuilds on PC. Compare features & buy from $35 at narakacheats.org.",
+					title: "Naraka Cheats — Guia completo | ESP, Aimbot & Wallhack",
+					description: "Naraka Cheats — Guia completo for Naraka Bladepoint on Windows PC — pilar Naraka Cheats para ESP e Aimbot. entrega digital instantânea. Official naraka cheats",
 					h1: "Naraka Cheats — Guia completo",
 					intro: "Naraka cheats adicionam ESP, radar e soft aim ao jogo base. Esta página explica o que são naraka cheats, o que o Naraka Cheats inclui, manutenção NEAC e próximos passos antes de comprar.",
 					imageAlt: "Naraka Cheats overview — ESP, aimbot, and radar for Naraka",
@@ -5676,7 +5676,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheat-download": {
 					title: "Download Naraka Cheats | Acesso instantâneo",
-					description: "Download Naraka Cheats: download de licença digital após pagamento. entrega digital instantânea. indetectáveis — PC Windows.",
+					description: "Download Naraka Cheats for Naraka Bladepoint on Windows PC — download de licença digital após pagamento. entrega digital instantânea. indetectáveis. Official",
 					h1: "Download Naraka Cheats",
 					intro: "Naraka Cheats reúne ESP wallhack, radar hack e Naraka Aimbot indetectáveis para Naraka no PC Windows. Download Naraka Cheats. download de licença digital após pagamento.",
 					imageAlt: "Naraka Cheats download and install delivery flow",
@@ -5714,7 +5714,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"mod-menu": {
 					title: "Menu mod Naraka | Controles in-game",
-					description: "Menu mod Naraka: toggles de ESP e soft aim no cliente. entrega digital instantânea. indetectáveis — PC Windows.",
+					description: "Menu mod Naraka for Naraka Bladepoint on Windows PC — toggles de ESP e soft aim no cliente. entrega digital instantânea. indetectáveis. Official naraka cheats",
 					h1: "Menu mod Naraka",
 					intro: "Naraka Cheats reúne ESP wallhack, radar hack e Naraka Aimbot indetectáveis para Naraka no PC Windows. Menu mod Naraka. toggles de ESP e soft aim no cliente.",
 					imageAlt: "Naraka Cheats in-game menu controls",
@@ -5752,7 +5752,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"soft-aim": {
 					title: "Soft aim Naraka | Ajustes soft aim",
-					description: "Soft aim Naraka: ajustes suaves de soft aim para Windows PC. entrega digital instantânea. indetectáveis — PC Windows.",
+					description: "Soft aim Naraka for Naraka Bladepoint on Windows PC — ajustes suaves de soft aim para Windows PC. entrega digital instantânea. indetectáveis. Official naraka",
 					h1: "Soft aim Naraka",
 					intro: "Naraka Cheats reúne ESP wallhack, radar hack e Naraka Aimbot indetectáveis para Naraka no PC Windows. Soft aim Naraka. ajustes suaves de soft aim para Windows PC.",
 					imageAlt: "Naraka soft aim FOV and smoothness settings",
@@ -5790,7 +5790,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"best-cheats": {
 					title: "Melhores cheats Naraka | Checklist do comprador",
-					description: "Melhores cheats Naraka: o que comparar antes de comprar naraka cheats. entrega digital instantânea. indetectáveis — PC Windows.",
+					description: "Melhores cheats Naraka for Naraka Bladepoint on Windows PC — o que comparar antes de comprar naraka cheats. entrega digital instantânea. indetectáveis.",
 					h1: "Melhores cheats Naraka",
 					intro: "Naraka Cheats reúne ESP wallhack, radar hack e Naraka Aimbot indetectáveis para Naraka no PC Windows. Melhores cheats Naraka. o que comparar antes de comprar naraka cheats.",
 					imageAlt: "Naraka Cheats overview for Naraka on PC",
@@ -5836,7 +5836,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"aimbot-hack": {
 					title: "Hack aimbot Naraka | Assistência soft aim",
-					description: "Hack aimbot Naraka: assistência undetected de hack Aimbot para Naraka. entrega digital instantânea. indetectáveis — PC Windows.",
+					description: "Hack aimbot Naraka for Naraka Bladepoint on Windows PC — assistência undetected de hack Aimbot para Naraka. entrega digital instantânea. indetectáveis.",
 					h1: "Hack aimbot Naraka",
 					intro: "Naraka Cheats reúne ESP wallhack, radar hack e Naraka Aimbot indetectáveis para Naraka no PC Windows. Hack aimbot Naraka. assistência undetected de hack Aimbot para Naraka.",
 					imageAlt: "Naraka Aimbot hack controls and bone priority",
@@ -5874,7 +5874,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"esp-hack": {
 					title: "Hack ESP Naraka | Caixas e loot",
-					description: "Hack ESP Naraka: caixas ESP hack, pins de carcaça e distância. entrega digital instantânea. indetectáveis — PC Windows.",
+					description: "Hack ESP Naraka for Naraka Bladepoint on Windows PC — caixas ESP hack, pins de carcaça e distância. entrega digital instantânea. indetectáveis. Official naraka",
 					h1: "Hack ESP Naraka",
 					intro: "Naraka Cheats reúne ESP wallhack, radar hack e Naraka Aimbot indetectáveis para Naraka no PC Windows. Hack ESP Naraka. caixas ESP hack, pins de carcaça e distância.",
 					imageAlt: "Naraka ESP hack boxes and hero markers",
@@ -5912,7 +5912,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"unlock-all": {
 					title: "Unlock all Naraka | O que significa",
-					description: "Unlock all Naraka: buscas unlock-all vs ferramentas reais ESP e Aimbot. entrega digital instantânea. indetectáveis — PC Windows.",
+					description: "Unlock all Naraka for Naraka Bladepoint on Windows PC — buscas unlock-all vs ferramentas reais ESP e Aimbot. entrega digital instantânea. indetectáveis.",
 					h1: "Unlock all Naraka",
 					intro: "Naraka Cheats reúne ESP wallhack, radar hack e Naraka Aimbot indetectáveis para Naraka no PC Windows. Unlock all Naraka. buscas unlock-all vs ferramentas reais ESP e Aimbot.",
 					imageAlt: "Naraka Cheats license features overview",
@@ -5950,7 +5950,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Política de privacidade | Naraka Cheats",
-					description: "Política de privacidade para Naraka Cheats — ESP wallhack, Aimbot, PC Windows.",
+					description: "Política de privacidade para Naraka Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at narakacheats.org.",
 					h1: "Política de privacidade",
 					intro: "Naraka Cheats reúne ESP wallhack, radar hack e Naraka Aimbot indetectáveis para Naraka no PC Windows. Política de privacidade para narakacheats.org e licenças Naraka.",
 					imageAlt: "Naraka Cheats",
@@ -5985,7 +5985,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				refund: {
 					title: "Política de reembolso | Naraka Cheats",
-					description: "Política de reembolso para Naraka Cheats — ESP wallhack, Aimbot, PC Windows.",
+					description: "Política de reembolso para Naraka Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at narakacheats.org.",
 					h1: "Política de reembolso",
 					intro: "Naraka Cheats reúne ESP wallhack, radar hack e Naraka Aimbot indetectáveis para Naraka no PC Windows. Política de reembolso para narakacheats.org e licenças Naraka.",
 					imageAlt: "Naraka Cheats",
@@ -6020,7 +6020,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				terms: {
 					title: "Termos de uso | Naraka Cheats",
-					description: "Termos de uso para Naraka Cheats — ESP wallhack, Aimbot, PC Windows.",
+					description: "Termos de uso para Naraka Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at narakacheats.org.",
 					h1: "Termos de uso",
 					intro: "Naraka Cheats reúne ESP wallhack, radar hack e Naraka Aimbot indetectáveis para Naraka no PC Windows. Termos de uso para narakacheats.org e licenças Naraka.",
 					imageAlt: "Naraka Cheats",
@@ -6130,7 +6130,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Naraka Cheats 2026 | ESP, Wallhack e Aimbot",
-					description: "Cheat Naraka indetectable per Naraka su PC. ESP wallhack, radar hack e Aimbot con manutenzione NEAC. Consegna digitale istantanea.",
+					description: "Cheat Naraka indetectable per Naraka su PC. ESP wallhack, radar hack e Aimbot con manutenzione NEAC. Consegna digitale istantanea. Compare plans and guides at",
 					h1: "hacks indetectable per Naraka",
 					intro: "Pacchetto undetected per Naraka su PC Windows: ESP wallhack, radar e Aimbot con manutenzione NEAC dopo ogni patch.",
 					imageAlt: "Naraka ESP player tags hack",
@@ -6157,8 +6157,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				"naraka-esp": {
-					title: "ESP| Wallhack & Player Boxes | Naraka Cheats",
-					description: "Naraka ESP wallhack — player boxes, hero markers & distance tags on PC. Undetected naraka cheats with aimbot & radar. Shop at narakacheats.org.",
+					title: "ESP | Wallhack & Player Boxes | Naraka Cheats",
+					description: "ESP for Naraka Bladepoint on Windows PC — box giocatore, marcatori loota e overlay wallhack. consegna digitale istantanea. Official naraka cheats at",
 					h1: "ESP",
 					intro: "Vedi giocatori e loot attraverso i muri durante i match Naraka. Parte della stessa licenza Naraka Cheats.",
 					imageAlt: "Naraka ESP player boxes and distance readouts in a match",
@@ -6207,8 +6207,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				"naraka-aimbot": {
-					title: "Aimbot| Soft Aim & FOV Settings | Naraka Cheats",
-					description: "Naraka aimbot with soft aim, FOV, bone priority & hotkeys on PC. Undetected Naraka Cheats with ESP & radar included. narakacheats.org.",
+					title: "Aimbot | Soft Aim & FOV Settings | Naraka Cheats",
+					description: "Aimbot for Naraka Bladepoint on Windows PC — soft aim, FOV e profili Aimbot per specie. consegna digitale istantanea. Official naraka cheats at",
 					h1: "Aimbot",
 					intro: "Soft aim e assistenza mira regolabili per Naraka. Incluso nella stessa licenza Naraka Cheats.",
 					imageAlt: "Naraka Aimbot and soft aim controls on Windows PC",
@@ -6258,7 +6258,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Funzioni 2026 | ESP, Aimbot & Radar | Naraka Cheats",
-					description: "Naraka Cheats unisce ESP wallhack, radar hack e Naraka Aimbot indetectable per Naraka su PC Windows. ESP, soft aim, controlli radar",
+					description: "Funzioni: ESP, soft aim, controlli radar. consegna digitale istantanea. indetectable. Compare plans and guides at narakacheats.org.",
 					h1: "Funzioni",
 					intro: "Naraka Cheats unisce ESP wallhack, radar hack e Naraka Aimbot indetectable per Naraka su PC Windows. Funzioni für Naraka auf PC Windows.",
 					imageAlt: "Naraka Cheats features — ESP, soft aim, and radar screenshots",
@@ -6336,8 +6336,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				pricing: {
-					title: "Negozio| $35/mo or $150 Lifetime",
-					description: "Buy Naraka cheats at narakacheats.org — $35/month or $150 lifetime. ESP, aimbot & radar on PC. Same features, instant delivery.",
+					title: "Negozio | $35/mo or $150 Lifetime",
+					description: "Negozio for Naraka Bladepoint on Windows PC — licenze $35 mensili o $150 lifetime. consegna digitale istantanea. Official naraka cheats at narakacheats.org.",
 					h1: "Negozio",
 					intro: "Naraka Cheats unisce ESP wallhack, radar hack e Naraka Aimbot indetectable per Naraka su PC Windows. Negozio — $35/mese y $150 a vita.",
 					imageAlt: "Naraka Cheats store plans for monthly and lifetime licenses",
@@ -6386,8 +6386,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				setup: {
-					title: "Setup| Windows PC Install Guide",
-					description: "Install Naraka Cheats on PC — activate ESP, soft aim & radar step by step. Setup guide at narakacheats.org. Check NEAC status first.",
+					title: "Setup | Windows PC Install",
+					description: "Setup for Naraka Bladepoint on Windows PC — attivazione Windows PC e setup al primo avvio. consegna digitale istantanea. Official naraka cheats at",
 					h1: "Setup",
 					intro: "Installa e attiva la licenza su Windows 10 o 11 prima del primo match.",
 					imageAlt: "Naraka Cheats setup guide screenshot for Windows PC",
@@ -6436,8 +6436,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				updates: {
-					title: "Stato| NEAC Updates | Naraka Cheats",
-					description: "Live status after Naraka & NEAC patches. Check undetected ESP, aimbot & radar rebuilds on PC before you queue. narakacheats.org.",
+					title: "Stato | NEAC Updates | Naraka Cheats",
+					description: "Stato for Naraka Bladepoint on Windows PC — stato patch NEAC e note di rebuild. consegna digitale istantanea. Official naraka cheats at narakacheats.org.",
 					h1: "Stato",
 					intro: "Controlla Updates dopo patch NEAC. Nessun cheat garantisce stato indetectable permanente.",
 					imageAlt: "Naraka Cheats live status after NEAC and game patches",
@@ -6485,8 +6485,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				faq: {
-					title: "FAQ| ESP, Aimbot & NEAC",
-					description: "FAQ for naraka cheats — delivery, setup, undetected status, NEAC updates & pricing on PC. Answers at narakacheats.org before you buy.",
+					title: "FAQ | ESP, Aimbot & NEAC",
+					description: "FAQ for Naraka Bladepoint on Windows PC — domande su ESP, soft aim, consegna e NEAC. consegna digitale istantanea. Official naraka cheats at narakacheats.org.",
 					h1: "FAQ",
 					intro: "Domande frequenti su Naraka Cheats — consegna, setup, aggiornamenti e rimborsi.",
 					imageAlt: "Naraka Cheats FAQ — delivery, setup, and update answers",
@@ -6533,8 +6533,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				support: {
-					title: "Supporto| License & Setup Help",
-					description: "Support for license delivery, ESP setup & billing on PC. Email support@narakacheats.org with your order ID. narakacheats.org/support.",
+					title: "Supporto | License & Setup Help",
+					description: "Supporto for Naraka Bladepoint on Windows PC — aiuto ordini e contatto supporto licenze. consegna digitale istantanea. Official naraka cheats at",
 					h1: "Supporto",
 					intro: "Assistenza per licenze, setup e fatturazione Naraka Cheats su Windows PC.",
 					imageAlt: "Naraka Cheats support page for license and setup help",
@@ -6572,7 +6572,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				undetected: {
 					title: "Cheat indetectable | Stato indetectable",
-					description: "Cheat indetectable: manutenzione undetected dopo patch NEAC. consegna digitale istantanea. indetectable — PC Windows.",
+					description: "Cheat indetectable for Naraka Bladepoint on Windows PC — manutenzione undetected dopo patch NEAC. consegna digitale istantanea. indetectable. Official naraka",
 					h1: "Cheat indetectable",
 					intro: "Naraka Cheats unisce ESP wallhack, radar hack e Naraka Aimbot indetectable per Naraka su PC Windows. Cheat indetectable. manutenzione undetected dopo patch NEAC.",
 					imageAlt: "Naraka Cheats undetected status overview for Windows PC",
@@ -6618,7 +6618,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				wallhack: {
 					title: "Naraka Wallhack | Visibilità ESP",
-					description: "Naraka Wallhack: wallhack ESP per giocatori, loot e distanza. consegna digitale istantanea. indetectable — PC Windows.",
+					description: "Naraka Wallhack for Naraka Bladepoint on Windows PC — wallhack ESP per giocatori, loot e distanza. consegna digitale istantanea. indetectable. Official naraka",
 					h1: "Naraka Wallhack",
 					intro: "Naraka Cheats unisce ESP wallhack, radar hack e Naraka Aimbot indetectable per Naraka su PC Windows. Naraka Wallhack. wallhack ESP per giocatori, loot e distanza.",
 					imageAlt: "naraka wallhack visibility through walls in a match",
@@ -6655,8 +6655,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				radar: {
-					title: "Radar| 2D Threat Map | Naraka Cheats",
-					description: "2D radar hack for flank awareness on PC. Bundled with ESP wallhack & soft aim in one license. NEAC maintenance at narakacheats.org.",
+					title: "Radar | 2D Threat Map | Naraka Cheats",
+					description: "Radar for Naraka Bladepoint on Windows PC — segnali radar 2D per flanchi e rotazioni. consegna digitale istantanea. Official naraka cheats at narakacheats.org.",
 					h1: "Radar",
 					intro: "Un radar 2D semplice per minacce fuori vista. Incluso nella stessa licenza Naraka Cheats.",
 					imageAlt: "Naraka 2D radar overlay showing nearby threats",
@@ -6693,15 +6693,15 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				neac: {
-					title: "neac | neac",
-					description: "neac: neac. consegna digitale istantanea. indetectable — PC Windows.",
-					h1: "neac",
-					intro: "Naraka Cheats unisce ESP wallhack, radar hack e Naraka Aimbot indetectable per Naraka su PC Windows. neac. neac.",
-					imageAlt: "neac — Naraka Cheats",
-					galleryTitle: "neac",
+					title: "Bypass NEAC | Manutenzione patch",
+					description: "Bypass NEAC for Naraka Bladepoint on Windows PC — come vengono gestiti gli aggiornamenti NEAC per Naraka cheats. consegna digitale istantanea. indetectable.",
+					h1: "Bypass NEAC",
+					intro: "Naraka Cheats unisce ESP wallhack, radar hack e Naraka Aimbot indetectable per Naraka su PC Windows. Bypass NEAC. come vengono gestiti gli aggiornamenti NEAC per Naraka cheats.",
+					imageAlt: "Naraka Cheats maintenance after a NEAC patch",
+					galleryTitle: "Bypass NEAC",
 					ctaPrimary: "Acquista Naraka Cheats",
 					ctaSecondary: "Vedi funzioni",
-					ctaSecondaryHref: "/",
+					ctaSecondaryHref: "/updates/",
 					sections: [
 						{
 							h2: "NEAC overview",
@@ -6730,7 +6730,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "HWID bans, spoofers, and what we do not sell",
 							paragraphs: [
-								"Naraka Cheats unisce ESP wallhack, radar hack e Naraka Aimbot indetectable per Naraka su PC Windows. neac",
+								"Naraka Cheats unisce ESP wallhack, radar hack e Naraka Aimbot indetectable per Naraka su PC Windows. come vengono gestiti gli aggiornamenti NEAC per Naraka cheats",
 								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/naraka-neac-bypass/\">NEAC FAQ</a> before buying anywhere.",
 								"Controlla Updates dopo patch NEAC. Nessun cheat garantisce stato indetectable permanente.",
 							],
@@ -6738,7 +6738,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "External architecture, stream proofing, and patch-day checklist",
 							paragraphs: [
-								"Naraka Cheats unisce ESP wallhack, radar hack e Naraka Aimbot indetectable per Naraka su PC Windows. neac",
+								"Naraka Cheats unisce ESP wallhack, radar hack e Naraka Aimbot indetectable per Naraka su PC Windows. come vengono gestiti gli aggiornamenti NEAC per Naraka cheats",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">Guida cheat indetectable</a>, (2) confirm NEAC notes on <a href=\"/neac-bypass/\">Manutenzione NEAC</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
 								"Deep dives: <a href=\"/undetected-naraka-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-naraka-cheats-eac/\">NEAC reality blog</a> · <a href=\"/naraka-cheats/\">Panoramica Naraka Cheats</a>.",
 							],
@@ -6748,7 +6748,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Cheat Naraka 2026 | Guida acquirente",
-					description: "Cheat Naraka 2026: checklist naraka cheats 2026 prima del checkout. consegna digitale istantanea. indetectable — PC Windows.",
+					description: "Cheat Naraka 2026 for Naraka Bladepoint on Windows PC — checklist naraka cheats 2026 prima del checkout. consegna digitale istantanea. indetectable. Official",
 					h1: "Cheat Naraka 2026",
 					intro: "Naraka Cheats unisce ESP wallhack, radar hack e Naraka Aimbot indetectable per Naraka su PC Windows. Cheat Naraka 2026. checklist naraka cheats 2026 prima del checkout.",
 					imageAlt: "Naraka Cheats product overview for Naraka",
@@ -6785,7 +6785,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Episode 10+ and ranked meta in 2026",
 							paragraphs: [
 								"2026 ranked play rewards information speed — ESP hero markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/naraka-aimbot/\">Aimbot e soft aim</a> and ESP toggles.",
-								"Compare against <a href=\"/best-naraka-cheats/\">best naraka cheats</a> criteria and <a href=\"/undetected-naraka-cheats/\">undetected maintenance</a> before switching shops mid-season.",
+								"Compare against <a href=\"/\">Prodotto completo</a> criteria and <a href=\"/undetected-naraka-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/naraka-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/naraka-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
 						},
@@ -6793,8 +6793,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				hacks: {
-					title: "Naraka Cheats — Guida completa| ESP, Aimbot & Wallhack",
-					description: "Naraka cheats guide — undetected ESP wallhack, soft aim, radar & NEAC rebuilds on PC. Compare features & buy from $35 at narakacheats.org.",
+					title: "Naraka Cheats — Guida completa | ESP, Aimbot & Wallhack",
+					description: "Naraka Cheats — Guida completa for Naraka Bladepoint on Windows PC — pilastro Naraka Cheats per ESP e Aimbot. consegna digitale istantanea. Official naraka",
 					h1: "Naraka Cheats — Guida completa",
 					intro: "I cheat Naraka aggiungono ESP, radar e soft aim al gioco base. Questa pagina spiega cosa sono i naraka cheats, cosa include Naraka Cheats, manutenzione NEAC e dove andare prima dell'acquisto.",
 					imageAlt: "Naraka Cheats overview — ESP, aimbot, and radar for Naraka",
@@ -6867,7 +6867,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheat-download": {
 					title: "Download Naraka Cheats | Accesso istantaneo",
-					description: "Download Naraka Cheats: download licenza digitale dopo il pagamento. consegna digitale istantanea. indetectable — PC Windows.",
+					description: "Download Naraka Cheats for Naraka Bladepoint on Windows PC — download licenza digitale dopo il pagamento. consegna digitale istantanea. indetectable. Official",
 					h1: "Download Naraka Cheats",
 					intro: "Naraka Cheats unisce ESP wallhack, radar hack e Naraka Aimbot indetectable per Naraka su PC Windows. Download Naraka Cheats. download licenza digitale dopo il pagamento.",
 					imageAlt: "Naraka Cheats download and install delivery flow",
@@ -6905,7 +6905,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"mod-menu": {
 					title: "Mod menu Naraka | Toggle in-game",
-					description: "Mod menu Naraka: toggle ESP e soft aim in-client. consegna digitale istantanea. indetectable — PC Windows.",
+					description: "Mod menu Naraka for Naraka Bladepoint on Windows PC — toggle ESP e soft aim in-client. consegna digitale istantanea. indetectable. Official naraka cheats at",
 					h1: "Mod menu Naraka",
 					intro: "Naraka Cheats unisce ESP wallhack, radar hack e Naraka Aimbot indetectable per Naraka su PC Windows. Mod menu Naraka. toggle ESP e soft aim in-client.",
 					imageAlt: "Naraka Cheats in-game menu controls",
@@ -6943,7 +6943,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"soft-aim": {
 					title: "Soft aim Naraka | Impostazioni soft aim",
-					description: "Soft aim Naraka: impostazioni soft aim fluide per Windows PC. consegna digitale istantanea. indetectable — PC Windows.",
+					description: "Soft aim Naraka for Naraka Bladepoint on Windows PC — impostazioni soft aim fluide per Windows PC. consegna digitale istantanea. indetectable. Official naraka",
 					h1: "Soft aim Naraka",
 					intro: "Naraka Cheats unisce ESP wallhack, radar hack e Naraka Aimbot indetectable per Naraka su PC Windows. Soft aim Naraka. impostazioni soft aim fluide per Windows PC.",
 					imageAlt: "Naraka soft aim FOV and smoothness settings",
@@ -6981,7 +6981,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"best-cheats": {
 					title: "Migliori cheat Naraka | Checklist acquirente",
-					description: "Migliori cheat Naraka: cosa confrontare prima di acquistare naraka cheats. consegna digitale istantanea. indetectable — PC Windows.",
+					description: "Migliori cheat Naraka for Naraka Bladepoint on Windows PC — cosa confrontare prima di acquistare naraka cheats. consegna digitale istantanea. indetectable.",
 					h1: "Migliori cheat Naraka",
 					intro: "Naraka Cheats unisce ESP wallhack, radar hack e Naraka Aimbot indetectable per Naraka su PC Windows. Migliori cheat Naraka. cosa confrontare prima di acquistare naraka cheats.",
 					imageAlt: "Naraka Cheats overview for Naraka on PC",
@@ -7027,7 +7027,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"aimbot-hack": {
 					title: "Hack aimbot Naraka | Assist soft aim",
-					description: "Hack aimbot Naraka: assist undetected hack Aimbot per Naraka. consegna digitale istantanea. indetectable — PC Windows.",
+					description: "Hack aimbot Naraka for Naraka Bladepoint on Windows PC — assist undetected hack Aimbot per Naraka. consegna digitale istantanea. indetectable. Official naraka",
 					h1: "Hack aimbot Naraka",
 					intro: "Naraka Cheats unisce ESP wallhack, radar hack e Naraka Aimbot indetectable per Naraka su PC Windows. Hack aimbot Naraka. assist undetected hack Aimbot per Naraka.",
 					imageAlt: "Naraka Aimbot hack controls and bone priority",
@@ -7065,7 +7065,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"esp-hack": {
 					title: "Hack ESP Naraka | Box e loot",
-					description: "Hack ESP Naraka: box ESP hack, pin loota e distanza. consegna digitale istantanea. indetectable — PC Windows.",
+					description: "Hack ESP Naraka for Naraka Bladepoint on Windows PC — box ESP hack, pin loota e distanza. consegna digitale istantanea. indetectable. Official naraka cheats at",
 					h1: "Hack ESP Naraka",
 					intro: "Naraka Cheats unisce ESP wallhack, radar hack e Naraka Aimbot indetectable per Naraka su PC Windows. Hack ESP Naraka. box ESP hack, pin loota e distanza.",
 					imageAlt: "Naraka ESP hack boxes and hero markers",
@@ -7103,7 +7103,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"unlock-all": {
 					title: "Unlock all Naraka | Cosa significa",
-					description: "Unlock all Naraka: ricerche unlock-all vs veri strumenti ESP e Aimbot. consegna digitale istantanea. indetectable — PC Windows.",
+					description: "Unlock all Naraka for Naraka Bladepoint on Windows PC — ricerche unlock-all vs veri strumenti ESP e Aimbot. consegna digitale istantanea. indetectable.",
 					h1: "Unlock all Naraka",
 					intro: "Naraka Cheats unisce ESP wallhack, radar hack e Naraka Aimbot indetectable per Naraka su PC Windows. Unlock all Naraka. ricerche unlock-all vs veri strumenti ESP e Aimbot.",
 					imageAlt: "Naraka Cheats license features overview",
@@ -7141,7 +7141,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Informativa privacy | Naraka Cheats",
-					description: "Informativa privacy per Naraka Cheats — ESP wallhack, Aimbot, PC Windows.",
+					description: "Informativa privacy per Naraka Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at narakacheats.org.",
 					h1: "Informativa privacy",
 					intro: "Naraka Cheats unisce ESP wallhack, radar hack e Naraka Aimbot indetectable per Naraka su PC Windows. Informativa privacy per narakacheats.org e licenze Naraka.",
 					imageAlt: "Naraka Cheats",
@@ -7176,7 +7176,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				refund: {
 					title: "Politica di rimborso | Naraka Cheats",
-					description: "Politica di rimborso per Naraka Cheats — ESP wallhack, Aimbot, PC Windows.",
+					description: "Politica di rimborso per Naraka Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at narakacheats.org.",
 					h1: "Politica di rimborso",
 					intro: "Naraka Cheats unisce ESP wallhack, radar hack e Naraka Aimbot indetectable per Naraka su PC Windows. Politica di rimborso per narakacheats.org e licenze Naraka.",
 					imageAlt: "Naraka Cheats",
@@ -7211,7 +7211,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				terms: {
 					title: "Termini di utilizzo | Naraka Cheats",
-					description: "Termini di utilizzo per Naraka Cheats — ESP wallhack, Aimbot, PC Windows.",
+					description: "Termini di utilizzo per Naraka Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at narakacheats.org.",
 					h1: "Termini di utilizzo",
 					intro: "Naraka Cheats unisce ESP wallhack, radar hack e Naraka Aimbot indetectable per Naraka su PC Windows. Termini di utilizzo per narakacheats.org e licenze Naraka.",
 					imageAlt: "Naraka Cheats",
@@ -7321,7 +7321,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Naraka Cheats 2026 | ESP, Wallhack & Aimbot",
-					description: "Undetected naraka cheats voor Naraka op PC. ESP wallhack, radar hack en Aimbot met NEAC-onderhoud. Directe digitale levering.",
+					description: "Undetected naraka cheats voor Naraka op PC. ESP wallhack, radar hack en Aimbot met NEAC-onderhoud. Directe digitale levering. Compare plans and guides at",
 					h1: "undetected hacks voor Naraka",
 					intro: "Undetected Windows PC pakket voor Naraka: ESP wallhack, radar en Aimbot met NEAC-onderhoud na elke patch.",
 					imageAlt: "Naraka ESP player tags hack",
@@ -7348,8 +7348,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				"naraka-esp": {
-					title: "ESP| Wallhack & Player Boxes | Naraka Cheats",
-					description: "Naraka ESP wallhack — player boxes, hero markers & distance tags on PC. Undetected naraka cheats with aimbot & radar. Shop at narakacheats.org.",
+					title: "ESP | Wallhack & Player Boxes | Naraka Cheats",
+					description: "ESP for Naraka Bladepoint on Windows PC — spelerboxen, karkas-markers en wallhack overlays. directe digitale levering. Official naraka cheats at",
 					h1: "ESP",
 					intro: "Zie spelers en loot door muren tijdens Naraka matches. Onderdeel van dezelfde Naraka Cheats-licentie.",
 					imageAlt: "Naraka ESP player boxes and distance readouts in a match",
@@ -7398,8 +7398,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				"naraka-aimbot": {
-					title: "Aimbot| Soft Aim & FOV Settings | Naraka Cheats",
-					description: "Naraka aimbot with soft aim, FOV, bone priority & hotkeys on PC. Undetected Naraka Cheats with ESP & radar included. narakacheats.org.",
+					title: "Aimbot | Soft Aim & FOV Settings | Naraka Cheats",
+					description: "Aimbot for Naraka Bladepoint on Windows PC — soft aim, FOV en Aimbot-profielen per soort. directe digitale levering. Official naraka cheats at narakacheats.org.",
 					h1: "Aimbot",
 					intro: "Soft aim en richt-hulp die je voor Naraka kunt afstellen. Inbegrepen in dezelfde Naraka Cheats-licentie.",
 					imageAlt: "Naraka Aimbot and soft aim controls on Windows PC",
@@ -7449,7 +7449,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Functies 2026 | ESP, Aimbot & Radar | Naraka Cheats",
-					description: "Naraka Cheats bundelt ESP wallhack, radar hack en Naraka Aimbot als undetected pakket voor Naraka op Windows PC. ESP, soft aim, radar bediening",
+					description: "Functies: ESP, soft aim, radar bediening. directe digitale levering. undetected. Compare plans and guides at narakacheats.org.",
 					h1: "Functies",
 					intro: "Naraka Cheats bundelt ESP wallhack, radar hack en Naraka Aimbot als undetected pakket voor Naraka op Windows PC. Functies für Naraka auf Windows PC.",
 					imageAlt: "Naraka Cheats features — ESP, soft aim, and radar screenshots",
@@ -7527,8 +7527,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				pricing: {
-					title: "Winkel| $35/mo or $150 Lifetime",
-					description: "Buy Naraka cheats at narakacheats.org — $35/month or $150 lifetime. ESP, aimbot & radar on PC. Same features, instant delivery.",
+					title: "Winkel | $35/mo or $150 Lifetime",
+					description: "Winkel for Naraka Bladepoint on Windows PC — $35 maandelijkse of $150 lifetime licenties. directe digitale levering. Official naraka cheats at narakacheats.org.",
 					h1: "Winkel",
 					intro: "Naraka Cheats bundelt ESP wallhack, radar hack en Naraka Aimbot als undetected pakket voor Naraka op Windows PC. Winkel — $35/maand y $150 lifetime.",
 					imageAlt: "Naraka Cheats store plans for monthly and lifetime licenses",
@@ -7577,8 +7577,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				setup: {
-					title: "Setup| Windows PC Install Guide",
-					description: "Install Naraka Cheats on PC — activate ESP, soft aim & radar step by step. Setup guide at narakacheats.org. Check NEAC status first.",
+					title: "Setup | Windows PC Install",
+					description: "Setup for Naraka Bladepoint on Windows PC — Windows PC activatie en eerste-start setup. directe digitale levering. Official naraka cheats at narakacheats.org.",
 					h1: "Setup",
 					intro: "Installeer en activeer je licentie op Windows 10 of 11 vóór je eerste match.",
 					imageAlt: "Naraka Cheats setup guide screenshot for Windows PC",
@@ -7627,8 +7627,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				updates: {
-					title: "Status| NEAC Updates | Naraka Cheats",
-					description: "Live status after Naraka & NEAC patches. Check undetected ESP, aimbot & radar rebuilds on PC before you queue. narakacheats.org.",
+					title: "Status | NEAC Updates | Naraka Cheats",
+					description: "Status for Naraka Bladepoint on Windows PC — NEAC patchstatus en rebuild-notities. directe digitale levering. Official naraka cheats at narakacheats.org.",
 					h1: "Status",
 					intro: "Check Updates na NEAC-patches. Geen cheat garandeert permanent undetected status.",
 					imageAlt: "Naraka Cheats live status after NEAC and game patches",
@@ -7676,8 +7676,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				faq: {
-					title: "FAQ| ESP, Aimbot & NEAC",
-					description: "FAQ for naraka cheats — delivery, setup, undetected status, NEAC updates & pricing on PC. Answers at narakacheats.org before you buy.",
+					title: "FAQ | ESP, Aimbot & NEAC",
+					description: "FAQ for Naraka Bladepoint on Windows PC — vragen over ESP, soft aim, levering en NEAC. directe digitale levering. Official naraka cheats at narakacheats.org.",
 					h1: "FAQ",
 					intro: "Veelgestelde vragen over Naraka Cheats — levering, setup, updates en restituties.",
 					imageAlt: "Naraka Cheats FAQ — delivery, setup, and update answers",
@@ -7724,8 +7724,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				support: {
-					title: "Support| License & Setup Help",
-					description: "Support for license delivery, ESP setup & billing on PC. Email support@narakacheats.org with your order ID. narakacheats.org/support.",
+					title: "Support | License & Setup Help",
+					description: "Support for Naraka Bladepoint on Windows PC — bestelhulp en licentie support contact. directe digitale levering. Official naraka cheats at narakacheats.org.",
 					h1: "Support",
 					intro: "Hulp bij licenties, setup en facturering voor Naraka Cheats op Windows PC.",
 					imageAlt: "Naraka Cheats support page for license and setup help",
@@ -7762,8 +7762,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				undetected: {
-					title: "Undetected Cheats | undetected",
-					description: "Undetected Cheats: undetected onderhoud na NEAC patches. directe digitale levering. undetected — Windows PC.",
+					title: "Undetected Cheats | NEAC Safe Status",
+					description: "Undetected Cheats for Naraka Bladepoint on Windows PC — undetected onderhoud na NEAC patches. directe digitale levering. undetected. Official naraka cheats at",
 					h1: "Undetected Cheats",
 					intro: "Naraka Cheats bundelt ESP wallhack, radar hack en Naraka Aimbot als undetected pakket voor Naraka op Windows PC. Undetected Cheats. undetected onderhoud na NEAC patches.",
 					imageAlt: "Naraka Cheats undetected status overview for Windows PC",
@@ -7808,8 +7808,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				wallhack: {
-					title: "Naraka Wallhack | wallhack",
-					description: "Naraka Wallhack: wallhack ESP voor spelers, karkassen en afstand. directe digitale levering. undetected — Windows PC.",
+					title: "Naraka Wallhack | ESP Visibility",
+					description: "Naraka Wallhack for Naraka Bladepoint on Windows PC — wallhack ESP voor spelers, karkassen en afstand. directe digitale levering. undetected. Official naraka",
 					h1: "Naraka Wallhack",
 					intro: "Naraka Cheats bundelt ESP wallhack, radar hack en Naraka Aimbot als undetected pakket voor Naraka op Windows PC. Naraka Wallhack. wallhack ESP voor spelers, karkassen en afstand.",
 					imageAlt: "naraka wallhack visibility through walls in a match",
@@ -7846,8 +7846,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				radar: {
-					title: "Radar| 2D Threat Map | Naraka Cheats",
-					description: "2D radar hack for flank awareness on PC. Bundled with ESP wallhack & soft aim in one license. NEAC maintenance at narakacheats.org.",
+					title: "Radar | 2D Threat Map | Naraka Cheats",
+					description: "Radar for Naraka Bladepoint on Windows PC — 2D radar signalen voor flanks en rotaties. directe digitale levering. Official naraka cheats at narakacheats.org.",
 					h1: "Radar",
 					intro: "Een eenvoudige 2D-radar voor dreigingen buiten beeld. Inbegrepen in dezelfde Naraka Cheats-licentie.",
 					imageAlt: "Naraka 2D radar overlay showing nearby threats",
@@ -7884,15 +7884,15 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				neac: {
-					title: "neac | neac",
-					description: "neac: neac. directe digitale levering. undetected — Windows PC.",
-					h1: "neac",
-					intro: "Naraka Cheats bundelt ESP wallhack, radar hack en Naraka Aimbot als undetected pakket voor Naraka op Windows PC. neac. neac.",
-					imageAlt: "neac — Naraka Cheats",
-					galleryTitle: "neac",
+					title: "NEAC Bypass | Patch Maintenance",
+					description: "NEAC Bypass for Naraka Bladepoint on Windows PC — hoe NEAC updates worden afgehandeld voor Naraka cheats. directe digitale levering. undetected. Official",
+					h1: "NEAC Bypass",
+					intro: "Naraka Cheats bundelt ESP wallhack, radar hack en Naraka Aimbot als undetected pakket voor Naraka op Windows PC. NEAC Bypass. hoe NEAC updates worden afgehandeld voor Naraka cheats.",
+					imageAlt: "Naraka Cheats maintenance after a NEAC patch",
+					galleryTitle: "NEAC Bypass",
 					ctaPrimary: "Naraka Cheats kopen",
 					ctaSecondary: "Bekijk functies",
-					ctaSecondaryHref: "/",
+					ctaSecondaryHref: "/updates/",
 					sections: [
 						{
 							h2: "NEAC overview",
@@ -7921,7 +7921,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "HWID bans, spoofers, and what we do not sell",
 							paragraphs: [
-								"Naraka Cheats bundelt ESP wallhack, radar hack en Naraka Aimbot als undetected pakket voor Naraka op Windows PC. neac",
+								"Naraka Cheats bundelt ESP wallhack, radar hack en Naraka Aimbot als undetected pakket voor Naraka op Windows PC. hoe NEAC updates worden afgehandeld voor Naraka cheats",
 								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/naraka-neac-bypass/\">NEAC FAQ</a> before buying anywhere.",
 								"Check Updates na NEAC-patches. Geen cheat garandeert permanent undetected status.",
 							],
@@ -7929,7 +7929,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "External architecture, stream proofing, and patch-day checklist",
 							paragraphs: [
-								"Naraka Cheats bundelt ESP wallhack, radar hack en Naraka Aimbot als undetected pakket voor Naraka op Windows PC. neac",
+								"Naraka Cheats bundelt ESP wallhack, radar hack en Naraka Aimbot als undetected pakket voor Naraka op Windows PC. hoe NEAC updates worden afgehandeld voor Naraka cheats",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">Undetected cheats gids</a>, (2) confirm NEAC notes on <a href=\"/neac-bypass/\">NEAC onderhoud</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
 								"Deep dives: <a href=\"/undetected-naraka-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-naraka-cheats-eac/\">NEAC reality blog</a> · <a href=\"/naraka-cheats/\">Naraka Cheats overzicht</a>.",
 							],
@@ -7938,8 +7938,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot.webp",
 				},
 				"cheats-2026": {
-					title: "Naraka Cheats 2026 | cheats-2026",
-					description: "Naraka Cheats 2026: 2026 naraka cheats checklist vóór checkout. directe digitale levering. undetected — Windows PC.",
+					title: "Naraka Cheats 2026 | Buyer Guide",
+					description: "Naraka Cheats 2026 for Naraka Bladepoint on Windows PC — 2026 naraka cheats checklist vóór checkout. directe digitale levering. undetected. Official naraka",
 					h1: "Naraka Cheats 2026",
 					intro: "Naraka Cheats bundelt ESP wallhack, radar hack en Naraka Aimbot als undetected pakket voor Naraka op Windows PC. Naraka Cheats 2026. 2026 naraka cheats checklist vóór checkout.",
 					imageAlt: "Naraka Cheats product overview for Naraka",
@@ -7976,7 +7976,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Episode 10+ and ranked meta in 2026",
 							paragraphs: [
 								"2026 ranked play rewards information speed — ESP hero markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/naraka-aimbot/\">Aimbot en soft aim</a> and ESP toggles.",
-								"Compare against <a href=\"/best-naraka-cheats/\">best naraka cheats</a> criteria and <a href=\"/undetected-naraka-cheats/\">undetected maintenance</a> before switching shops mid-season.",
+								"Compare against <a href=\"/\">Volledig product</a> criteria and <a href=\"/undetected-naraka-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/naraka-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/naraka-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
 						},
@@ -7984,8 +7984,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				hacks: {
-					title: "Naraka Cheats — Volledige gids| ESP, Aimbot & Wallhack",
-					description: "Naraka cheats guide — undetected ESP wallhack, soft aim, radar & NEAC rebuilds on PC. Compare features & buy from $35 at narakacheats.org.",
+					title: "Naraka Cheats — Volledige gids | ESP, Aimbot & Wallhack",
+					description: "Naraka Cheats — Volledige gids for Naraka Bladepoint on Windows PC — Naraka Cheats pijler voor ESP en Aimbot. directe digitale levering. Official naraka cheats",
 					h1: "Naraka Cheats — Volledige gids",
 					intro: "Naraka cheats voegen ESP, radar en soft aim toe aan het basisspel. Deze pagina legt uit wat naraka cheats zijn, wat Naraka Cheats bevat, NEAC-onderhoud en volgende stappen vóór aankoop.",
 					imageAlt: "Naraka Cheats overview — ESP, aimbot, and radar for Naraka",
@@ -8057,8 +8057,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-combat.webp",
 				},
 				"cheat-download": {
-					title: "Naraka Cheat Download | cheat-download",
-					description: "Naraka Cheat Download: digitale licentiedownload na betaling. directe digitale levering. undetected — Windows PC.",
+					title: "Naraka Cheat Download | Instant Access",
+					description: "Naraka Cheat Download for Naraka Bladepoint on Windows PC — digitale licentiedownload na betaling. directe digitale levering. undetected. Official naraka",
 					h1: "Naraka Cheat Download",
 					intro: "Naraka Cheats bundelt ESP wallhack, radar hack en Naraka Aimbot als undetected pakket voor Naraka op Windows PC. Naraka Cheat Download. digitale licentiedownload na betaling.",
 					imageAlt: "Naraka Cheats download and install delivery flow",
@@ -8095,8 +8095,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				"mod-menu": {
-					title: "Naraka Mod Menu | mod-menu",
-					description: "Naraka Mod Menu: in-client ESP en soft aim toggles. directe digitale levering. undetected — Windows PC.",
+					title: "Naraka Mod Menu | In-Game Toggles",
+					description: "Naraka Mod Menu for Naraka Bladepoint on Windows PC — in-client ESP en soft aim toggles. directe digitale levering. undetected. Official naraka cheats at",
 					h1: "Naraka Mod Menu",
 					intro: "Naraka Cheats bundelt ESP wallhack, radar hack en Naraka Aimbot als undetected pakket voor Naraka op Windows PC. Naraka Mod Menu. in-client ESP en soft aim toggles.",
 					imageAlt: "Naraka Cheats in-game menu controls",
@@ -8133,8 +8133,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				"soft-aim": {
-					title: "Naraka Soft Aim | soft-aim",
-					description: "Naraka Soft Aim: vloeiende soft aim instellingen voor Windows PC. directe digitale levering. undetected — Windows PC.",
+					title: "Naraka Soft Aim | Smooth Aim Settings",
+					description: "Naraka Soft Aim for Naraka Bladepoint on Windows PC — vloeiende soft aim instellingen voor Windows PC. directe digitale levering. undetected. Official naraka",
 					h1: "Naraka Soft Aim",
 					intro: "Naraka Cheats bundelt ESP wallhack, radar hack en Naraka Aimbot als undetected pakket voor Naraka op Windows PC. Naraka Soft Aim. vloeiende soft aim instellingen voor Windows PC.",
 					imageAlt: "Naraka soft aim FOV and smoothness settings",
@@ -8171,8 +8171,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				"best-cheats": {
-					title: "Beste Naraka Cheats | best-cheats",
-					description: "Beste Naraka Cheats: wat te vergelijken vóór aankoop van naraka cheats. directe digitale levering. undetected — Windows PC.",
+					title: "Beste Naraka Cheats | Buyer Checklist",
+					description: "Beste Naraka Cheats for Naraka Bladepoint on Windows PC — wat te vergelijken vóór aankoop van naraka cheats. directe digitale levering. undetected. Official",
 					h1: "Beste Naraka Cheats",
 					intro: "Naraka Cheats bundelt ESP wallhack, radar hack en Naraka Aimbot als undetected pakket voor Naraka op Windows PC. Beste Naraka Cheats. wat te vergelijken vóór aankoop van naraka cheats.",
 					imageAlt: "Naraka Cheats overview for Naraka on PC",
@@ -8217,8 +8217,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				"aimbot-hack": {
-					title: "Naraka Aimbot Hack | aimbot-hack",
-					description: "Naraka Aimbot Hack: undetected Aimbot hack assist voor Naraka. directe digitale levering. undetected — Windows PC.",
+					title: "Naraka Aimbot Hack | Soft Aim Assist",
+					description: "Naraka Aimbot Hack for Naraka Bladepoint on Windows PC — undetected Aimbot hack assist voor Naraka. directe digitale levering. undetected. Official naraka",
 					h1: "Naraka Aimbot Hack",
 					intro: "Naraka Cheats bundelt ESP wallhack, radar hack en Naraka Aimbot als undetected pakket voor Naraka op Windows PC. Naraka Aimbot Hack. undetected Aimbot hack assist voor Naraka.",
 					imageAlt: "Naraka Aimbot hack controls and bone priority",
@@ -8255,8 +8255,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				"esp-hack": {
-					title: "Naraka ESP Hack | esp-hack",
-					description: "Naraka ESP Hack: ESP hack boxen, karkas pins en afstand. directe digitale levering. undetected — Windows PC.",
+					title: "Naraka ESP Hack | Boxes & Loot",
+					description: "Naraka ESP Hack for Naraka Bladepoint on Windows PC — ESP hack boxen, karkas pins en afstand. directe digitale levering. undetected. Official naraka cheats at",
 					h1: "Naraka ESP Hack",
 					intro: "Naraka Cheats bundelt ESP wallhack, radar hack en Naraka Aimbot als undetected pakket voor Naraka op Windows PC. Naraka ESP Hack. ESP hack boxen, karkas pins en afstand.",
 					imageAlt: "Naraka ESP hack boxes and hero markers",
@@ -8293,8 +8293,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				"unlock-all": {
-					title: "Naraka Unlock All | unlock-all",
-					description: "Naraka Unlock All: unlock-all zoekopdrachten vs echte ESP en Aimbot tools. directe digitale levering. undetected — Windows PC.",
+					title: "Naraka Unlock All | What It Means",
+					description: "Naraka Unlock All for Naraka Bladepoint on Windows PC — unlock-all zoekopdrachten vs echte ESP en Aimbot tools. directe digitale levering. undetected. Official",
 					h1: "Naraka Unlock All",
 					intro: "Naraka Cheats bundelt ESP wallhack, radar hack en Naraka Aimbot als undetected pakket voor Naraka op Windows PC. Naraka Unlock All. unlock-all zoekopdrachten vs echte ESP en Aimbot tools.",
 					imageAlt: "Naraka Cheats license features overview",
@@ -8332,7 +8332,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Privacybeleid | Naraka Cheats",
-					description: "Privacybeleid voor Naraka Cheats — ESP wallhack, Aimbot, Windows PC.",
+					description: "Privacybeleid voor Naraka Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at narakacheats.org.",
 					h1: "Privacybeleid",
 					intro: "Naraka Cheats bundelt ESP wallhack, radar hack en Naraka Aimbot als undetected pakket voor Naraka op Windows PC. Privacybeleid voor narakacheats.org en Naraka-licenties.",
 					imageAlt: "Naraka Cheats",
@@ -8367,7 +8367,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				refund: {
 					title: "Restitutiebeleid | Naraka Cheats",
-					description: "Restitutiebeleid voor Naraka Cheats — ESP wallhack, Aimbot, Windows PC.",
+					description: "Restitutiebeleid voor Naraka Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at narakacheats.org.",
 					h1: "Restitutiebeleid",
 					intro: "Naraka Cheats bundelt ESP wallhack, radar hack en Naraka Aimbot als undetected pakket voor Naraka op Windows PC. Restitutiebeleid voor narakacheats.org en Naraka-licenties.",
 					imageAlt: "Naraka Cheats",
@@ -8402,7 +8402,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				terms: {
 					title: "Gebruiksvoorwaarden | Naraka Cheats",
-					description: "Gebruiksvoorwaarden voor Naraka Cheats — ESP wallhack, Aimbot, Windows PC.",
+					description: "Gebruiksvoorwaarden voor Naraka Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at narakacheats.org.",
 					h1: "Gebruiksvoorwaarden",
 					intro: "Naraka Cheats bundelt ESP wallhack, radar hack en Naraka Aimbot als undetected pakket voor Naraka op Windows PC. Gebruiksvoorwaarden voor narakacheats.org en Naraka-licenties.",
 					imageAlt: "Naraka Cheats",
@@ -8512,7 +8512,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Naraka Cheats 2026 | ESP, Wallhack i Aimbot",
-					description: "Undetected cheaty Naraka dla Naraka na PC. ESP wallhack, radar hack i Aimbot z konserwacją NEAC. Natychmiastowa dostawa cyfrowa.",
+					description: "Undetected cheaty Naraka dla Naraka na PC. ESP wallhack, radar hack i Aimbot z konserwacją NEAC. Natychmiastowa dostawa cyfrowa. Compare plans and guides at",
 					h1: "undetected hacki dla Naraka",
 					intro: "Pakiet undetected dla Naraka na Windows PC: ESP wallhack, radar i Aimbot z konserwacją NEAC po każdym patchu.",
 					imageAlt: "Naraka ESP player tags hack",
@@ -8539,8 +8539,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				"naraka-esp": {
-					title: "ESP| Wallhack & Player Boxes | Naraka Cheats",
-					description: "Naraka ESP wallhack — player boxes, hero markers & distance tags on PC. Undetected naraka cheats with aimbot & radar. Shop at narakacheats.org.",
+					title: "ESP | Wallhack & Player Boxes | Naraka Cheats",
+					description: "ESP for Naraka Bladepoint on Windows PC — boxy graczy, markery tusz i overlay wallhack. natychmiastowa dostawa cyfrowa. Official naraka cheats at",
 					h1: "ESP",
 					intro: "Widz graczy i loot przez ściany podczas matchów Naraka. Część tej samej licencji Naraka Cheats.",
 					imageAlt: "Naraka ESP player boxes and distance readouts in a match",
@@ -8589,8 +8589,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				"naraka-aimbot": {
-					title: "Aimbot| Soft Aim & FOV Settings | Naraka Cheats",
-					description: "Naraka aimbot with soft aim, FOV, bone priority & hotkeys on PC. Undetected Naraka Cheats with ESP & radar included. narakacheats.org.",
+					title: "Aimbot | Soft Aim & FOV Settings | Naraka Cheats",
+					description: "Aimbot for Naraka Bladepoint on Windows PC — soft aim, FOV i profile Aimbot per gatunek. natychmiastowa dostawa cyfrowa. Official naraka cheats at",
 					h1: "Aimbot",
 					intro: "Soft aim i asysta celowania do ustawienia w Naraka. W tej samej licencji Naraka Cheats.",
 					imageAlt: "Naraka Aimbot and soft aim controls on Windows PC",
@@ -8640,7 +8640,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Funkcje 2026 | ESP, Aimbot & Radar | Naraka Cheats",
-					description: "Naraka Cheats łączy ESP wallhack, radar hack i Naraka Aimbot jako pakiet undetected dla Naraka na PC Windows. ESP, soft aim, sterowanie radar",
+					description: "Funkcje: ESP, soft aim, sterowanie radar. natychmiastowa dostawa cyfrowa. undetected. Compare plans and guides at narakacheats.org.",
 					h1: "Funkcje",
 					intro: "Naraka Cheats łączy ESP wallhack, radar hack i Naraka Aimbot jako pakiet undetected dla Naraka na PC Windows. Funkcje für Naraka auf PC Windows.",
 					imageAlt: "Naraka Cheats features — ESP, soft aim, and radar screenshots",
@@ -8718,8 +8718,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				pricing: {
-					title: "Sklep| $35/mo or $150 Lifetime",
-					description: "Buy Naraka cheats at narakacheats.org — $35/month or $150 lifetime. ESP, aimbot & radar on PC. Same features, instant delivery.",
+					title: "Sklep | $35/mo or $150 Lifetime",
+					description: "Sklep for Naraka Bladepoint on Windows PC — licencje $35 miesięcznie lub $150 lifetime. natychmiastowa dostawa cyfrowa. Official naraka cheats at",
 					h1: "Sklep",
 					intro: "Naraka Cheats łączy ESP wallhack, radar hack i Naraka Aimbot jako pakiet undetected dla Naraka na PC Windows. Sklep — $35/mies. y $150 lifetime.",
 					imageAlt: "Naraka Cheats store plans for monthly and lifetime licenses",
@@ -8768,8 +8768,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				setup: {
-					title: "Instalacja| Windows PC Install Guide",
-					description: "Install Naraka Cheats on PC — activate ESP, soft aim & radar step by step. Setup guide at narakacheats.org. Check NEAC status first.",
+					title: "Instalacja | Windows PC Install",
+					description: "Instalacja for Naraka Bladepoint on Windows PC — aktywacja Windows PC i konfiguracja pierwszego uruchomienia. natychmiastowa dostawa cyfrowa. Official naraka",
 					h1: "Instalacja",
 					intro: "Zainstaluj i aktywuj licencję na Windows 10 lub 11 przed pierwszym match.",
 					imageAlt: "Naraka Cheats setup guide screenshot for Windows PC",
@@ -8818,8 +8818,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				updates: {
-					title: "Status| NEAC Updates | Naraka Cheats",
-					description: "Live status after Naraka & NEAC patches. Check undetected ESP, aimbot & radar rebuilds on PC before you queue. narakacheats.org.",
+					title: "Status | NEAC Updates | Naraka Cheats",
+					description: "Status for Naraka Bladepoint on Windows PC — status patchy NEAC i notatki rebuild. natychmiastowa dostawa cyfrowa. Official naraka cheats at narakacheats.org.",
 					h1: "Status",
 					intro: "Sprawdź Updates po patchach NEAC. Żaden cheat nie gwarantuje permanentnego undetected statusu.",
 					imageAlt: "Naraka Cheats live status after NEAC and game patches",
@@ -8867,8 +8867,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				faq: {
-					title: "FAQ| ESP, Aimbot & NEAC",
-					description: "FAQ for naraka cheats — delivery, setup, undetected status, NEAC updates & pricing on PC. Answers at narakacheats.org before you buy.",
+					title: "FAQ | ESP, Aimbot & NEAC",
+					description: "FAQ for Naraka Bladepoint on Windows PC — pytania o ESP, soft aim, dostawę i NEAC. natychmiastowa dostawa cyfrowa. Official naraka cheats at narakacheats.org.",
 					h1: "FAQ",
 					intro: "FAQ o Naraka Cheats — dostawa, instalacja, aktualizacje i zwroty.",
 					imageAlt: "Naraka Cheats FAQ — delivery, setup, and update answers",
@@ -8915,8 +8915,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				support: {
-					title: "Wsparcie| License & Setup Help",
-					description: "Support for license delivery, ESP setup & billing on PC. Email support@narakacheats.org with your order ID. narakacheats.org/support.",
+					title: "Wsparcie | License & Setup Help",
+					description: "Wsparcie for Naraka Bladepoint on Windows PC — pomoc przy zamówieniu i kontakt wsparcia licencji. natychmiastowa dostawa cyfrowa. Official naraka cheats at",
 					h1: "Wsparcie",
 					intro: "Pomoc z licencjami, instalacją i rozliczeniami Naraka Cheats na Windows PC.",
 					imageAlt: "Naraka Cheats support page for license and setup help",
@@ -8953,8 +8953,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				undetected: {
-					title: "Cheaty undetected | undetected",
-					description: "Cheaty undetected: undetected konserwacja po patchach NEAC. natychmiastowa dostawa cyfrowa. undetected — PC Windows.",
+					title: "Cheaty undetected | NEAC Safe Status",
+					description: "Cheaty undetected for Naraka Bladepoint on Windows PC — undetected konserwacja po patchach NEAC. natychmiastowa dostawa cyfrowa. undetected. Official naraka",
 					h1: "Cheaty undetected",
 					intro: "Naraka Cheats łączy ESP wallhack, radar hack i Naraka Aimbot jako pakiet undetected dla Naraka na PC Windows. Cheaty undetected. undetected konserwacja po patchach NEAC.",
 					imageAlt: "Naraka Cheats undetected status overview for Windows PC",
@@ -8999,8 +8999,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				wallhack: {
-					title: "Naraka Wallhack | wallhack",
-					description: "Naraka Wallhack: wallhack ESP dla graczy, tusz i dystansu. natychmiastowa dostawa cyfrowa. undetected — PC Windows.",
+					title: "Naraka Wallhack | ESP Visibility",
+					description: "Naraka Wallhack for Naraka Bladepoint on Windows PC — wallhack ESP dla graczy, tusz i dystansu. natychmiastowa dostawa cyfrowa. undetected. Official naraka",
 					h1: "Naraka Wallhack",
 					intro: "Naraka Cheats łączy ESP wallhack, radar hack i Naraka Aimbot jako pakiet undetected dla Naraka na PC Windows. Naraka Wallhack. wallhack ESP dla graczy, tusz i dystansu.",
 					imageAlt: "naraka wallhack visibility through walls in a match",
@@ -9037,8 +9037,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				radar: {
-					title: "Radar| 2D Threat Map | Naraka Cheats",
-					description: "2D radar hack for flank awareness on PC. Bundled with ESP wallhack & soft aim in one license. NEAC maintenance at narakacheats.org.",
+					title: "Radar | 2D Threat Map | Naraka Cheats",
+					description: "Radar for Naraka Bladepoint on Windows PC — 2D radar wskazówki dla flank i rotacji. natychmiastowa dostawa cyfrowa. Official naraka cheats at narakacheats.org.",
 					h1: "Radar",
 					intro: "Prosty radar 2D na zagrożenia poza widokiem. W tej samej licencji Naraka Cheats.",
 					imageAlt: "Naraka 2D radar overlay showing nearby threats",
@@ -9075,15 +9075,15 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				neac: {
-					title: "neac | neac",
-					description: "neac: neac. natychmiastowa dostawa cyfrowa. undetected — PC Windows.",
-					h1: "neac",
-					intro: "Naraka Cheats łączy ESP wallhack, radar hack i Naraka Aimbot jako pakiet undetected dla Naraka na PC Windows. neac. neac.",
-					imageAlt: "neac — Naraka Cheats",
-					galleryTitle: "neac",
+					title: "Bypass NEAC | Patch Maintenance",
+					description: "Bypass NEAC for Naraka Bladepoint on Windows PC — jak obsługiwane są aktualizacje NEAC dla Naraka cheats. natychmiastowa dostawa cyfrowa. undetected. Official",
+					h1: "Bypass NEAC",
+					intro: "Naraka Cheats łączy ESP wallhack, radar hack i Naraka Aimbot jako pakiet undetected dla Naraka na PC Windows. Bypass NEAC. jak obsługiwane są aktualizacje NEAC dla Naraka cheats.",
+					imageAlt: "Naraka Cheats maintenance after a NEAC patch",
+					galleryTitle: "Bypass NEAC",
 					ctaPrimary: "Kup Naraka Cheats",
 					ctaSecondary: "Zobacz funkcje",
-					ctaSecondaryHref: "/",
+					ctaSecondaryHref: "/updates/",
 					sections: [
 						{
 							h2: "NEAC overview",
@@ -9112,7 +9112,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "HWID bans, spoofers, and what we do not sell",
 							paragraphs: [
-								"Naraka Cheats łączy ESP wallhack, radar hack i Naraka Aimbot jako pakiet undetected dla Naraka na PC Windows. neac",
+								"Naraka Cheats łączy ESP wallhack, radar hack i Naraka Aimbot jako pakiet undetected dla Naraka na PC Windows. jak obsługiwane są aktualizacje NEAC dla Naraka cheats",
 								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/naraka-neac-bypass/\">NEAC FAQ</a> before buying anywhere.",
 								"Sprawdź Updates po patchach NEAC. Żaden cheat nie gwarantuje permanentnego undetected statusu.",
 							],
@@ -9120,7 +9120,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "External architecture, stream proofing, and patch-day checklist",
 							paragraphs: [
-								"Naraka Cheats łączy ESP wallhack, radar hack i Naraka Aimbot jako pakiet undetected dla Naraka na PC Windows. neac",
+								"Naraka Cheats łączy ESP wallhack, radar hack i Naraka Aimbot jako pakiet undetected dla Naraka na PC Windows. jak obsługiwane są aktualizacje NEAC dla Naraka cheats",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">Przewodnik cheatów undetected</a>, (2) confirm NEAC notes on <a href=\"/neac-bypass/\">Konserwacja NEAC</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
 								"Deep dives: <a href=\"/undetected-naraka-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-naraka-cheats-eac/\">NEAC reality blog</a> · <a href=\"/naraka-cheats/\">Przegląd Naraka Cheats</a>.",
 							],
@@ -9129,8 +9129,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot.webp",
 				},
 				"cheats-2026": {
-					title: "Cheaty Naraka 2026 | cheats-2026",
-					description: "Cheaty Naraka 2026: checklista naraka cheats 2026 przed checkout. natychmiastowa dostawa cyfrowa. undetected — PC Windows.",
+					title: "Cheaty Naraka 2026 | Buyer Guide",
+					description: "Cheaty Naraka 2026 for Naraka Bladepoint on Windows PC — checklista naraka cheats 2026 przed checkout. natychmiastowa dostawa cyfrowa. undetected. Official",
 					h1: "Cheaty Naraka 2026",
 					intro: "Naraka Cheats łączy ESP wallhack, radar hack i Naraka Aimbot jako pakiet undetected dla Naraka na PC Windows. Cheaty Naraka 2026. checklista naraka cheats 2026 przed checkout.",
 					imageAlt: "Naraka Cheats product overview for Naraka",
@@ -9167,7 +9167,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Episode 10+ and ranked meta in 2026",
 							paragraphs: [
 								"2026 ranked play rewards information speed — ESP hero markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/naraka-aimbot/\">Aimbot i soft aim</a> and ESP toggles.",
-								"Compare against <a href=\"/best-naraka-cheats/\">best naraka cheats</a> criteria and <a href=\"/undetected-naraka-cheats/\">undetected maintenance</a> before switching shops mid-season.",
+								"Compare against <a href=\"/\">Pełny produkt</a> criteria and <a href=\"/undetected-naraka-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/naraka-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/naraka-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
 						},
@@ -9175,8 +9175,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				hacks: {
-					title: "Naraka Cheats — Pełny przewodnik| ESP, Aimbot & Wallhack",
-					description: "Naraka cheats guide — undetected ESP wallhack, soft aim, radar & NEAC rebuilds on PC. Compare features & buy from $35 at narakacheats.org.",
+					title: "Naraka Cheats — Pełny przewodnik | ESP, Aimbot & Wallhack",
+					description: "Naraka Cheats — Pełny przewodnik for Naraka Bladepoint on Windows PC — filary Naraka Cheats dla ESP i Aimbot. natychmiastowa dostawa cyfrowa. Official naraka",
 					h1: "Naraka Cheats — Pełny przewodnik",
 					intro: "Naraka cheats dodają ESP, radar i soft aim do gry bazowej. Ta strona wyjaśnia czym są naraka cheats, co zawiera Naraka Cheats, konserwację NEAC i co dalej przed zakupem.",
 					imageAlt: "Naraka Cheats overview — ESP, aimbot, and radar for Naraka",
@@ -9248,8 +9248,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-combat.webp",
 				},
 				"cheat-download": {
-					title: "Pobieranie Naraka Cheats | cheat-download",
-					description: "Pobieranie Naraka Cheats: cyfrowe pobranie licencji po płatności. natychmiastowa dostawa cyfrowa. undetected — PC Windows.",
+					title: "Pobieranie Naraka Cheats | Instant Access",
+					description: "Pobieranie Naraka Cheats for Naraka Bladepoint on Windows PC — cyfrowe pobranie licencji po płatności. natychmiastowa dostawa cyfrowa. undetected. Official",
 					h1: "Pobieranie Naraka Cheats",
 					intro: "Naraka Cheats łączy ESP wallhack, radar hack i Naraka Aimbot jako pakiet undetected dla Naraka na PC Windows. Pobieranie Naraka Cheats. cyfrowe pobranie licencji po płatności.",
 					imageAlt: "Naraka Cheats download and install delivery flow",
@@ -9286,8 +9286,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				"mod-menu": {
-					title: "Mod menu Naraka | mod-menu",
-					description: "Mod menu Naraka: przełączniki ESP i soft aim w kliencie. natychmiastowa dostawa cyfrowa. undetected — PC Windows.",
+					title: "Mod menu Naraka | In-Game Toggles",
+					description: "Mod menu Naraka for Naraka Bladepoint on Windows PC — przełączniki ESP i soft aim w kliencie. natychmiastowa dostawa cyfrowa. undetected. Official naraka",
 					h1: "Mod menu Naraka",
 					intro: "Naraka Cheats łączy ESP wallhack, radar hack i Naraka Aimbot jako pakiet undetected dla Naraka na PC Windows. Mod menu Naraka. przełączniki ESP i soft aim w kliencie.",
 					imageAlt: "Naraka Cheats in-game menu controls",
@@ -9324,8 +9324,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				"soft-aim": {
-					title: "Soft aim Naraka | soft-aim",
-					description: "Soft aim Naraka: płynne ustawienia soft aim dla Windows PC. natychmiastowa dostawa cyfrowa. undetected — PC Windows.",
+					title: "Soft aim Naraka | Smooth Aim Settings",
+					description: "Soft aim Naraka for Naraka Bladepoint on Windows PC — płynne ustawienia soft aim dla Windows PC. natychmiastowa dostawa cyfrowa. undetected. Official naraka",
 					h1: "Soft aim Naraka",
 					intro: "Naraka Cheats łączy ESP wallhack, radar hack i Naraka Aimbot jako pakiet undetected dla Naraka na PC Windows. Soft aim Naraka. płynne ustawienia soft aim dla Windows PC.",
 					imageAlt: "Naraka soft aim FOV and smoothness settings",
@@ -9362,8 +9362,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				"best-cheats": {
-					title: "Najlepsze cheaty Naraka | best-cheats",
-					description: "Najlepsze cheaty Naraka: co porównać przed zakupem naraka cheats. natychmiastowa dostawa cyfrowa. undetected — PC Windows.",
+					title: "Najlepsze cheaty Naraka | Buyer Checklist",
+					description: "Najlepsze cheaty Naraka for Naraka Bladepoint on Windows PC — co porównać przed zakupem naraka cheats. natychmiastowa dostawa cyfrowa. undetected. Official",
 					h1: "Najlepsze cheaty Naraka",
 					intro: "Naraka Cheats łączy ESP wallhack, radar hack i Naraka Aimbot jako pakiet undetected dla Naraka na PC Windows. Najlepsze cheaty Naraka. co porównać przed zakupem naraka cheats.",
 					imageAlt: "Naraka Cheats overview for Naraka on PC",
@@ -9408,8 +9408,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				"aimbot-hack": {
-					title: "Hack aimbot Naraka | aimbot-hack",
-					description: "Hack aimbot Naraka: undetected Aimbot hack assist dla Naraka. natychmiastowa dostawa cyfrowa. undetected — PC Windows.",
+					title: "Hack aimbot Naraka | Soft Aim Assist",
+					description: "Hack aimbot Naraka for Naraka Bladepoint on Windows PC — undetected Aimbot hack assist dla Naraka. natychmiastowa dostawa cyfrowa. undetected. Official naraka",
 					h1: "Hack aimbot Naraka",
 					intro: "Naraka Cheats łączy ESP wallhack, radar hack i Naraka Aimbot jako pakiet undetected dla Naraka na PC Windows. Hack aimbot Naraka. undetected Aimbot hack assist dla Naraka.",
 					imageAlt: "Naraka Aimbot hack controls and bone priority",
@@ -9446,8 +9446,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				"esp-hack": {
-					title: "Hack ESP Naraka | esp-hack",
-					description: "Hack ESP Naraka: boxy ESP hack, piny tusz i dystans. natychmiastowa dostawa cyfrowa. undetected — PC Windows.",
+					title: "Hack ESP Naraka | Boxes & Loot",
+					description: "Hack ESP Naraka for Naraka Bladepoint on Windows PC — boxy ESP hack, piny tusz i dystans. natychmiastowa dostawa cyfrowa. undetected. Official naraka cheats at",
 					h1: "Hack ESP Naraka",
 					intro: "Naraka Cheats łączy ESP wallhack, radar hack i Naraka Aimbot jako pakiet undetected dla Naraka na PC Windows. Hack ESP Naraka. boxy ESP hack, piny tusz i dystans.",
 					imageAlt: "Naraka ESP hack boxes and hero markers",
@@ -9484,8 +9484,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				"unlock-all": {
-					title: "Unlock all Naraka | unlock-all",
-					description: "Unlock all Naraka: wyszukiwania unlock-all vs prawdziwe narzędzia ESP i Aimbot. natychmiastowa dostawa cyfrowa. undetected — PC Windows.",
+					title: "Unlock all Naraka | What It Means",
+					description: "Unlock all Naraka for Naraka Bladepoint on Windows PC — wyszukiwania unlock-all vs prawdziwe narzędzia ESP i Aimbot. natychmiastowa dostawa cyfrowa.",
 					h1: "Unlock all Naraka",
 					intro: "Naraka Cheats łączy ESP wallhack, radar hack i Naraka Aimbot jako pakiet undetected dla Naraka na PC Windows. Unlock all Naraka. wyszukiwania unlock-all vs prawdziwe narzędzia ESP i Aimbot.",
 					imageAlt: "Naraka Cheats license features overview",
@@ -9523,7 +9523,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Polityka prywatności | Naraka Cheats",
-					description: "Polityka prywatności dla Naraka Cheats — ESP wallhack, Aimbot, PC Windows.",
+					description: "Polityka prywatności dla Naraka Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at narakacheats.org.",
 					h1: "Polityka prywatności",
 					intro: "Naraka Cheats łączy ESP wallhack, radar hack i Naraka Aimbot jako pakiet undetected dla Naraka na PC Windows. Polityka prywatności dla narakacheats.org i licencji Naraka.",
 					imageAlt: "Naraka Cheats",
@@ -9558,7 +9558,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				refund: {
 					title: "Polityka zwrotów | Naraka Cheats",
-					description: "Polityka zwrotów dla Naraka Cheats — ESP wallhack, Aimbot, PC Windows.",
+					description: "Polityka zwrotów dla Naraka Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at narakacheats.org.",
 					h1: "Polityka zwrotów",
 					intro: "Naraka Cheats łączy ESP wallhack, radar hack i Naraka Aimbot jako pakiet undetected dla Naraka na PC Windows. Polityka zwrotów dla narakacheats.org i licencji Naraka.",
 					imageAlt: "Naraka Cheats",
@@ -9593,7 +9593,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				terms: {
 					title: "Warunki użytkowania | Naraka Cheats",
-					description: "Warunki użytkowania dla Naraka Cheats — ESP wallhack, Aimbot, PC Windows.",
+					description: "Warunki użytkowania dla Naraka Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at narakacheats.org.",
 					h1: "Warunki użytkowania",
 					intro: "Naraka Cheats łączy ESP wallhack, radar hack i Naraka Aimbot jako pakiet undetected dla Naraka na PC Windows. Warunki użytkowania dla narakacheats.org i licencji Naraka.",
 					imageAlt: "Naraka Cheats",
@@ -9703,7 +9703,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Naraka Cheats 2026 | ESP, Wallhack и Aimbot",
-					description: "Undetected читы Naraka для Naraka на PC. ESP wallhack, radar hack и Aimbot с обслуживанием NEAC. Мгновенная цифровая доставка.",
+					description: "Undetected читы Naraka для Naraka на PC. ESP wallhack, radar hack и Aimbot с обслуживанием NEAC. Мгновенная цифровая доставка. Compare plans and guides at",
 					h1: "undetected хаки для Naraka",
 					intro: "Undetected пакет для Naraka на Windows PC: ESP wallhack, radar и Aimbot с обслуживанием NEAC после патчей.",
 					imageAlt: "Naraka ESP — теги игроков hack",
@@ -9730,8 +9730,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				"naraka-esp": {
-					title: "ESP| Wallhack & Player Boxes | Naraka Cheats",
-					description: "Naraka ESP wallhack — player boxes, hero markers & distance tags on PC. Undetected naraka cheats with aimbot & radar. Shop at narakacheats.org.",
+					title: "ESP | Wallhack & Player Boxes | Naraka Cheats",
+					description: "ESP for Naraka Bladepoint on Windows PC — боксы игроков, маркеры туш и wallhack overlays. мгновенная цифровая доставка. Official naraka cheats at",
 					h1: "ESP",
 					intro: "Видьте игроков и лут сквозь стены в рейдах Naraka. Часть той же лицензии Naraka Cheats.",
 					imageAlt: "Naraka ESP player boxes and distance readouts in a match",
@@ -9780,8 +9780,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				"naraka-aimbot": {
-					title: "Aimbot| Soft Aim & FOV Settings | Naraka Cheats",
-					description: "Naraka aimbot with soft aim, FOV, bone priority & hotkeys on PC. Undetected Naraka Cheats with ESP & radar included. narakacheats.org.",
+					title: "Aimbot | Soft Aim & FOV Settings | Naraka Cheats",
+					description: "Aimbot for Naraka Bladepoint on Windows PC — soft aim, FOV и профили Aimbot по видам. мгновенная цифровая доставка. Official naraka cheats at narakacheats.org.",
 					h1: "Aimbot",
 					intro: "Soft aim и помощь прицеливания, настраиваемые для Naraka. Включено в ту же лицензию Naraka Cheats.",
 					imageAlt: "Naraka Aimbot and soft aim controls on Windows PC",
@@ -9831,7 +9831,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Функции 2026 | ESP, Aimbot & Radar | Naraka Cheats",
-					description: "Naraka Cheats объединяет ESP wallhack, radar hack и Naraka Aimbot в undetected пакете для Naraka на Windows PC. ESP, soft aim, управление radar",
+					description: "Функции: ESP, soft aim, управление radar. мгновенная цифровая доставка. undetected. Compare plans and guides at narakacheats.org.",
 					h1: "Функции",
 					intro: "Naraka Cheats объединяет ESP wallhack, radar hack и Naraka Aimbot в undetected пакете для Naraka на Windows PC. Функции für Naraka auf Windows PC.",
 					imageAlt: "Naraka Cheats features — ESP, soft aim, and radar screenshots",
@@ -9909,8 +9909,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				pricing: {
-					title: "Магазин| $35/mo or $150 Lifetime",
-					description: "Buy Naraka cheats at narakacheats.org — $35/month or $150 lifetime. ESP, aimbot & radar on PC. Same features, instant delivery.",
+					title: "Магазин | $35/mo or $150 Lifetime",
+					description: "Магазин for Naraka Bladepoint on Windows PC — лицензии $35 в месяц или $150 lifetime. мгновенная цифровая доставка. Official naraka cheats at narakacheats.org.",
 					h1: "Магазин",
 					intro: "Naraka Cheats объединяет ESP wallhack, radar hack и Naraka Aimbot в undetected пакете для Naraka на Windows PC. Магазин — $35/мес y $150 навсегда.",
 					imageAlt: "Naraka Cheats store plans for monthly and lifetime licenses",
@@ -9959,8 +9959,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				setup: {
-					title: "Установка| Windows PC Install Guide",
-					description: "Install Naraka Cheats on PC — activate ESP, soft aim & radar step by step. Setup guide at narakacheats.org. Check NEAC status first.",
+					title: "Установка | Windows PC Install",
+					description: "Установка for Naraka Bladepoint on Windows PC — активация на Windows PC и настройка первого запуска. мгновенная цифровая доставка. Official naraka cheats at",
 					h1: "Установка",
 					intro: "Установите и активируйте лицензию на Windows 10 или 11 перед первым рейдом.",
 					imageAlt: "Naraka Cheats setup guide screenshot for Windows PC",
@@ -10009,8 +10009,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				updates: {
-					title: "Статус| NEAC Updates | Naraka Cheats",
-					description: "Live status after Naraka & NEAC patches. Check undetected ESP, aimbot & radar rebuilds on PC before you queue. narakacheats.org.",
+					title: "Статус | NEAC Updates | Naraka Cheats",
+					description: "Статус for Naraka Bladepoint on Windows PC — статус патчей NEAC и заметки о rebuild. мгновенная цифровая доставка. Official naraka cheats at narakacheats.org.",
 					h1: "Статус",
 					intro: "Проверяйте Updates после патчей NEAC. Ни один чит не гарантирует постоянный undetected статус.",
 					imageAlt: "Naraka Cheats live status after NEAC and game patches",
@@ -10058,8 +10058,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				faq: {
-					title: "FAQ| ESP, Aimbot & NEAC",
-					description: "FAQ for naraka cheats — delivery, setup, undetected status, NEAC updates & pricing on PC. Answers at narakacheats.org before you buy.",
+					title: "FAQ | ESP, Aimbot & NEAC",
+					description: "FAQ for Naraka Bladepoint on Windows PC — вопросы об ESP, soft aim, доставке и NEAC. мгновенная цифровая доставка. Official naraka cheats at narakacheats.org.",
 					h1: "FAQ",
 					intro: "Частые вопросы о Naraka Cheats — доставка, установка, обновления и возвраты.",
 					imageAlt: "Naraka Cheats FAQ — delivery, setup, and update answers",
@@ -10106,8 +10106,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				support: {
-					title: "Поддержка| License & Setup Help",
-					description: "Support for license delivery, ESP setup & billing on PC. Email support@narakacheats.org with your order ID. narakacheats.org/support.",
+					title: "Поддержка | License & Setup Help",
+					description: "Поддержка for Naraka Bladepoint on Windows PC — помощь с заказом и контакт поддержки лицензий. мгновенная цифровая доставка. Official naraka cheats at",
 					h1: "Поддержка",
 					intro: "Помощь с лицензиями, установкой и оплатой Naraka Cheats на Windows PC.",
 					imageAlt: "Naraka Cheats support page for license and setup help",
@@ -10145,7 +10145,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				undetected: {
 					title: "Undetected читы | Статус undetected",
-					description: "Undetected читы: undetected обслуживание после патчей NEAC. мгновенная цифровая доставка. undetected — Windows PC.",
+					description: "Undetected читы for Naraka Bladepoint on Windows PC — undetected обслуживание после патчей NEAC. мгновенная цифровая доставка. undetected. Official naraka",
 					h1: "Undetected читы",
 					intro: "Naraka Cheats объединяет ESP wallhack, radar hack и Naraka Aimbot в undetected пакете для Naraka на Windows PC. Undetected читы. undetected обслуживание после патчей NEAC.",
 					imageAlt: "Naraka Cheats undetected status overview for Windows PC",
@@ -10191,7 +10191,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				wallhack: {
 					title: "Naraka Wallhack | Видимость ESP",
-					description: "Naraka Wallhack: wallhack ESP для игроков, туш и дистанции. мгновенная цифровая доставка. undetected — Windows PC.",
+					description: "Naraka Wallhack for Naraka Bladepoint on Windows PC — wallhack ESP для игроков, туш и дистанции. мгновенная цифровая доставка. undetected. Official naraka",
 					h1: "Naraka Wallhack",
 					intro: "Naraka Cheats объединяет ESP wallhack, radar hack и Naraka Aimbot в undetected пакете для Naraka на Windows PC. Naraka Wallhack. wallhack ESP для игроков, туш и дистанции.",
 					imageAlt: "naraka wallhack visibility through walls in a match",
@@ -10228,8 +10228,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				radar: {
-					title: "Radar| 2D Threat Map | Naraka Cheats",
-					description: "2D radar hack for flank awareness on PC. Bundled with ESP wallhack & soft aim in one license. NEAC maintenance at narakacheats.org.",
+					title: "Radar | 2D Threat Map | Naraka Cheats",
+					description: "Radar for Naraka Bladepoint on Windows PC — 2D radar подсказки для флангов и ротаций. мгновенная цифровая доставка. Official naraka cheats at narakacheats.org.",
 					h1: "Radar",
 					intro: "Простой 2D radar для угроз вне поля зрения. Включён в ту же лицензию Naraka Cheats.",
 					imageAlt: "Naraka 2D radar overlay showing nearby threats",
@@ -10266,15 +10266,15 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				neac: {
-					title: "neac | neac",
-					description: "neac: neac. мгновенная цифровая доставка. undetected — Windows PC.",
-					h1: "neac",
-					intro: "Naraka Cheats объединяет ESP wallhack, radar hack и Naraka Aimbot в undetected пакете для Naraka на Windows PC. neac. neac.",
-					imageAlt: "neac — Naraka Cheats",
-					galleryTitle: "neac",
+					title: "Bypass NEAC | Обслуживание патчей",
+					description: "Bypass NEAC for Naraka Bladepoint on Windows PC — как обрабатываются обновления NEAC для Naraka cheats. мгновенная цифровая доставка. undetected. Official",
+					h1: "Bypass NEAC",
+					intro: "Naraka Cheats объединяет ESP wallhack, radar hack и Naraka Aimbot в undetected пакете для Naraka на Windows PC. Bypass NEAC. как обрабатываются обновления NEAC для Naraka cheats.",
+					imageAlt: "Naraka Cheats maintenance after a NEAC patch",
+					galleryTitle: "Bypass NEAC",
 					ctaPrimary: "Купить Naraka Cheats",
 					ctaSecondary: "Смотреть функции",
-					ctaSecondaryHref: "/",
+					ctaSecondaryHref: "/updates/",
 					sections: [
 						{
 							h2: "NEAC overview",
@@ -10303,7 +10303,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "HWID bans, spoofers, and what we do not sell",
 							paragraphs: [
-								"Naraka Cheats объединяет ESP wallhack, radar hack и Naraka Aimbot в undetected пакете для Naraka на Windows PC. neac",
+								"Naraka Cheats объединяет ESP wallhack, radar hack и Naraka Aimbot в undetected пакете для Naraka на Windows PC. как обрабатываются обновления NEAC для Naraka cheats",
 								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/naraka-neac-bypass/\">NEAC FAQ</a> before buying anywhere.",
 								"Проверяйте Updates после патчей NEAC. Ни один чит не гарантирует постоянный undetected статус.",
 							],
@@ -10311,7 +10311,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "External architecture, stream proofing, and patch-day checklist",
 							paragraphs: [
-								"Naraka Cheats объединяет ESP wallhack, radar hack и Naraka Aimbot в undetected пакете для Naraka на Windows PC. neac",
+								"Naraka Cheats объединяет ESP wallhack, radar hack и Naraka Aimbot в undetected пакете для Naraka на Windows PC. как обрабатываются обновления NEAC для Naraka cheats",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">Гайд undetected читов</a>, (2) confirm NEAC notes on <a href=\"/neac-bypass/\">Обслуживание NEAC</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
 								"Deep dives: <a href=\"/undetected-naraka-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-naraka-cheats-eac/\">NEAC reality blog</a> · <a href=\"/naraka-cheats/\">Обзор Naraka Cheats</a>.",
 							],
@@ -10321,7 +10321,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Читы Naraka 2026 | Гайд покупателя",
-					description: "Читы Naraka 2026: чеклист naraka cheats 2026 перед checkout. мгновенная цифровая доставка. undetected — Windows PC.",
+					description: "Читы Naraka 2026 for Naraka Bladepoint on Windows PC — чеклист naraka cheats 2026 перед checkout. мгновенная цифровая доставка. undetected. Official naraka",
 					h1: "Читы Naraka 2026",
 					intro: "Naraka Cheats объединяет ESP wallhack, radar hack и Naraka Aimbot в undetected пакете для Naraka на Windows PC. Читы Naraka 2026. чеклист naraka cheats 2026 перед checkout.",
 					imageAlt: "Naraka Cheats product overview for Naraka",
@@ -10358,7 +10358,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Episode 10+ and ranked meta in 2026",
 							paragraphs: [
 								"2026 ranked play rewards information speed — ESP hero markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/naraka-aimbot/\">Aimbot и soft aim</a> and ESP toggles.",
-								"Compare against <a href=\"/best-naraka-cheats/\">best naraka cheats</a> criteria and <a href=\"/undetected-naraka-cheats/\">undetected maintenance</a> before switching shops mid-season.",
+								"Compare against <a href=\"/\">Полный продукт</a> criteria and <a href=\"/undetected-naraka-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/naraka-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/naraka-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
 						},
@@ -10366,8 +10366,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				hacks: {
-					title: "Naraka Cheats — Полный гайд| ESP, Aimbot & Wallhack",
-					description: "Naraka cheats guide — undetected ESP wallhack, soft aim, radar & NEAC rebuilds on PC. Compare features & buy from $35 at narakacheats.org.",
+					title: "Naraka Cheats — Полный гайд | ESP, Aimbot & Wallhack",
+					description: "Naraka Cheats — Полный гайд for Naraka Bladepoint on Windows PC — столп Naraka Cheats для ESP и Aimbot. мгновенная цифровая доставка. Official naraka cheats at",
 					h1: "Naraka Cheats — Полный гайд",
 					intro: "Naraka cheats добавляют ESP, radar и soft aim к базовой игре. Эта страница объясняет что такое naraka cheats, что входит в Naraka Cheats, обслуживание NEAC и куда идти перед покупкой.",
 					imageAlt: "Naraka Cheats overview — ESP, aimbot, and radar for Naraka",
@@ -10440,7 +10440,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheat-download": {
 					title: "Скачать Naraka Cheats | Мгновенный доступ",
-					description: "Скачать Naraka Cheats: цифровая загрузка лицензии после оплаты. мгновенная цифровая доставка. undetected — Windows PC.",
+					description: "Скачать Naraka Cheats for Naraka Bladepoint on Windows PC — цифровая загрузка лицензии после оплаты. мгновенная цифровая доставка. undetected. Official naraka",
 					h1: "Скачать Naraka Cheats",
 					intro: "Naraka Cheats объединяет ESP wallhack, radar hack и Naraka Aimbot в undetected пакете для Naraka на Windows PC. Скачать Naraka Cheats. цифровая загрузка лицензии после оплаты.",
 					imageAlt: "Naraka Cheats download and install delivery flow",
@@ -10478,7 +10478,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"mod-menu": {
 					title: "Мод-меню Naraka | Игровые переключатели",
-					description: "Мод-меню Naraka: переключатели ESP и soft aim в клиенте. мгновенная цифровая доставка. undetected — Windows PC.",
+					description: "Мод-меню Naraka for Naraka Bladepoint on Windows PC — переключатели ESP и soft aim в клиенте. мгновенная цифровая доставка. undetected. Official naraka cheats",
 					h1: "Мод-меню Naraka",
 					intro: "Naraka Cheats объединяет ESP wallhack, radar hack и Naraka Aimbot в undetected пакете для Naraka на Windows PC. Мод-меню Naraka. переключатели ESP и soft aim в клиенте.",
 					imageAlt: "Naraka Cheats in-game menu controls",
@@ -10516,7 +10516,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"soft-aim": {
 					title: "Soft aim Naraka | Настройки soft aim",
-					description: "Soft aim Naraka: плавные настройки soft aim для Windows PC. мгновенная цифровая доставка. undetected — Windows PC.",
+					description: "Soft aim Naraka for Naraka Bladepoint on Windows PC — плавные настройки soft aim для Windows PC. мгновенная цифровая доставка. undetected. Official naraka",
 					h1: "Soft aim Naraka",
 					intro: "Naraka Cheats объединяет ESP wallhack, radar hack и Naraka Aimbot в undetected пакете для Naraka на Windows PC. Soft aim Naraka. плавные настройки soft aim для Windows PC.",
 					imageAlt: "Naraka soft aim FOV and smoothness settings",
@@ -10554,7 +10554,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"best-cheats": {
 					title: "Лучшие читы Naraka | Чеклист покупателя",
-					description: "Лучшие читы Naraka: что сравнить перед покупкой naraka cheats. мгновенная цифровая доставка. undetected — Windows PC.",
+					description: "Лучшие читы Naraka for Naraka Bladepoint on Windows PC — что сравнить перед покупкой naraka cheats. мгновенная цифровая доставка. undetected. Official naraka",
 					h1: "Лучшие читы Naraka",
 					intro: "Naraka Cheats объединяет ESP wallhack, radar hack и Naraka Aimbot в undetected пакете для Naraka на Windows PC. Лучшие читы Naraka. что сравнить перед покупкой naraka cheats.",
 					imageAlt: "Naraka Cheats overview for Naraka on PC",
@@ -10600,7 +10600,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"aimbot-hack": {
 					title: "Хак aimbot Naraka | Soft aim ассист",
-					description: "Хак aimbot Naraka: undetected Aimbot hack assist для Naraka. мгновенная цифровая доставка. undetected — Windows PC.",
+					description: "Хак aimbot Naraka for Naraka Bladepoint on Windows PC — undetected Aimbot hack assist для Naraka. мгновенная цифровая доставка. undetected. Official naraka",
 					h1: "Хак aimbot Naraka",
 					intro: "Naraka Cheats объединяет ESP wallhack, radar hack и Naraka Aimbot в undetected пакете для Naraka на Windows PC. Хак aimbot Naraka. undetected Aimbot hack assist для Naraka.",
 					imageAlt: "Naraka Aimbot hack controls and bone priority",
@@ -10638,7 +10638,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"esp-hack": {
 					title: "Хак ESP Naraka | Боксы и лут",
-					description: "Хак ESP Naraka: ESP hack боксы, pins туш и дистанция. мгновенная цифровая доставка. undetected — Windows PC.",
+					description: "Хак ESP Naraka for Naraka Bladepoint on Windows PC — ESP hack боксы, pins туш и дистанция. мгновенная цифровая доставка. undetected. Official naraka cheats at",
 					h1: "Хак ESP Naraka",
 					intro: "Naraka Cheats объединяет ESP wallhack, radar hack и Naraka Aimbot в undetected пакете для Naraka на Windows PC. Хак ESP Naraka. ESP hack боксы, pins туш и дистанция.",
 					imageAlt: "Naraka ESP hack boxes and hero markers",
@@ -10676,7 +10676,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"unlock-all": {
 					title: "Unlock all Naraka | Что это значит",
-					description: "Unlock all Naraka: поиски unlock-all vs настоящие ESP и Aimbot инструменты. мгновенная цифровая доставка. undetected — Windows PC.",
+					description: "Unlock all Naraka for Naraka Bladepoint on Windows PC — поиски unlock-all vs настоящие ESP и Aimbot инструменты. мгновенная цифровая доставка. undetected.",
 					h1: "Unlock all Naraka",
 					intro: "Naraka Cheats объединяет ESP wallhack, radar hack и Naraka Aimbot в undetected пакете для Naraka на Windows PC. Unlock all Naraka. поиски unlock-all vs настоящие ESP и Aimbot инструменты.",
 					imageAlt: "Naraka Cheats license features overview",
@@ -10714,7 +10714,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Политика конфиденциальности | Naraka Cheats",
-					description: "Политика конфиденциальности для Naraka Cheats — ESP wallhack, Aimbot, Windows PC.",
+					description: "Политика конфиденциальности для Naraka Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at narakacheats.org.",
 					h1: "Политика конфиденциальности",
 					intro: "Naraka Cheats объединяет ESP wallhack, radar hack и Naraka Aimbot в undetected пакете для Naraka на Windows PC. Политика конфиденциальности для narakacheats.org и лицензий Naraka.",
 					imageAlt: "Naraka Cheats",
@@ -10749,7 +10749,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				refund: {
 					title: "Политика возврата | Naraka Cheats",
-					description: "Политика возврата для Naraka Cheats — ESP wallhack, Aimbot, Windows PC.",
+					description: "Политика возврата для Naraka Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at narakacheats.org.",
 					h1: "Политика возврата",
 					intro: "Naraka Cheats объединяет ESP wallhack, radar hack и Naraka Aimbot в undetected пакете для Naraka на Windows PC. Политика возврата для narakacheats.org и лицензий Naraka.",
 					imageAlt: "Naraka Cheats",
@@ -10784,7 +10784,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				terms: {
 					title: "Условия использования | Naraka Cheats",
-					description: "Условия использования для Naraka Cheats — ESP wallhack, Aimbot, Windows PC.",
+					description: "Условия использования для Naraka Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at narakacheats.org.",
 					h1: "Условия использования",
 					intro: "Naraka Cheats объединяет ESP wallhack, radar hack и Naraka Aimbot в undetected пакете для Naraka на Windows PC. Условия использования для narakacheats.org и лицензий Naraka.",
 					imageAlt: "Naraka Cheats",
@@ -10894,7 +10894,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Naraka Cheats 2026 | ESP, Wallhack ve Aimbot",
-					description: "Naraka için undetected hileler. ESP wallhack, radar hack ve Aimbot — NEAC bakımı. Anında dijital teslimat.",
+					description: "Naraka için undetected hileler. ESP wallhack, radar hack ve Aimbot — NEAC bakımı. Anında dijital teslimat. Compare plans and guides at narakacheats.org.",
 					h1: "Naraka için undetected hackler",
 					intro: "Naraka Windows PC undetected paketi: ESP wallhack, radar ve Aimbot — NEAC bakımı dahil.",
 					imageAlt: "Naraka ESP player tags hack",
@@ -10921,8 +10921,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				"naraka-esp": {
-					title: "ESP| Wallhack & Player Boxes | Naraka Cheats",
-					description: "Naraka ESP wallhack — player boxes, hero markers & distance tags on PC. Undetected naraka cheats with aimbot & radar. Shop at narakacheats.org.",
+					title: "ESP | Wallhack & Player Boxes | Naraka Cheats",
+					description: "ESP for Naraka Bladepoint on Windows PC — oyuncu kutuları, leş işaretleri ve wallhack overlay'leri. anında dijital teslimat. Official naraka cheats at",
 					h1: "ESP",
 					intro: "Naraka matchlerinde duvarların ardından oyuncuları ve loot'u görün. Aynı Naraka Cheats lisansının parçası.",
 					imageAlt: "Naraka ESP player boxes and distance readouts in a match",
@@ -10971,8 +10971,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				"naraka-aimbot": {
-					title: "Aimbot| Soft Aim & FOV Settings | Naraka Cheats",
-					description: "Naraka aimbot with soft aim, FOV, bone priority & hotkeys on PC. Undetected Naraka Cheats with ESP & radar included. narakacheats.org.",
+					title: "Aimbot | Soft Aim & FOV Settings | Naraka Cheats",
+					description: "Aimbot for Naraka Bladepoint on Windows PC — soft aim, FOV ve türe özel Aimbot profilleri. anında dijital teslimat. Official naraka cheats at narakacheats.org.",
 					h1: "Aimbot",
 					intro: "Naraka için ayarlayabileceğiniz soft aim ve nişan desteği. Aynı Naraka Cheats lisansına dahil.",
 					imageAlt: "Naraka Aimbot and soft aim controls on Windows PC",
@@ -11022,7 +11022,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Özellikler 2026 | ESP, Aimbot & Radar | Naraka Cheats",
-					description: "Naraka Cheats, Naraka için Windows PC üzerinde ESP wallhack, radar hack ve Naraka Aimbot undetected paket sunar. ESP, soft aim, radar kontrolleri",
+					description: "Özellikler: ESP, soft aim, radar kontrolleri. anında dijital teslimat. undetected. Compare plans and guides at narakacheats.org.",
 					h1: "Özellikler",
 					intro: "Naraka Cheats, Naraka için Windows PC üzerinde ESP wallhack, radar hack ve Naraka Aimbot undetected paket sunar. Özellikler für Naraka auf Windows PC.",
 					imageAlt: "Naraka Cheats features — ESP, soft aim, and radar screenshots",
@@ -11100,8 +11100,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				pricing: {
-					title: "Mağaza| $35/mo or $150 Lifetime",
-					description: "Buy Naraka cheats at narakacheats.org — $35/month or $150 lifetime. ESP, aimbot & radar on PC. Same features, instant delivery.",
+					title: "Mağaza | $35/mo or $150 Lifetime",
+					description: "Mağaza for Naraka Bladepoint on Windows PC — aylık $35 veya lifetime $150 lisanslar. anında dijital teslimat. Official naraka cheats at narakacheats.org.",
 					h1: "Mağaza",
 					intro: "Naraka Cheats, Naraka için Windows PC üzerinde ESP wallhack, radar hack ve Naraka Aimbot undetected paket sunar. Mağaza — $35/ay y $150 ömür boyu.",
 					imageAlt: "Naraka Cheats store plans for monthly and lifetime licenses",
@@ -11150,8 +11150,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				setup: {
-					title: "Kurulum| Windows PC Install Guide",
-					description: "Install Naraka Cheats on PC — activate ESP, soft aim & radar step by step. Setup guide at narakacheats.org. Check NEAC status first.",
+					title: "Kurulum | Windows PC Install",
+					description: "Kurulum for Naraka Bladepoint on Windows PC — Windows PC aktivasyonu ve ilk açılış kurulumu. anında dijital teslimat. Official naraka cheats at",
 					h1: "Kurulum",
 					intro: "İlk match öncesi Windows 10 veya 11'de lisansınızı kurun ve etkinleştirin.",
 					imageAlt: "Naraka Cheats setup guide screenshot for Windows PC",
@@ -11200,8 +11200,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				updates: {
-					title: "Durum| NEAC Updates | Naraka Cheats",
-					description: "Live status after Naraka & NEAC patches. Check undetected ESP, aimbot & radar rebuilds on PC before you queue. narakacheats.org.",
+					title: "Durum | NEAC Updates | Naraka Cheats",
+					description: "Durum for Naraka Bladepoint on Windows PC — NEAC yama durumu ve rebuild notları. anında dijital teslimat. Official naraka cheats at narakacheats.org.",
 					h1: "Durum",
 					intro: "NEAC yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı undetected garantisi vermez.",
 					imageAlt: "Naraka Cheats live status after NEAC and game patches",
@@ -11249,8 +11249,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				faq: {
-					title: "SSS| ESP, Aimbot & NEAC",
-					description: "FAQ for naraka cheats — delivery, setup, undetected status, NEAC updates & pricing on PC. Answers at narakacheats.org before you buy.",
+					title: "SSS | ESP, Aimbot & NEAC",
+					description: "SSS for Naraka Bladepoint on Windows PC — ESP, soft aim, teslimat ve NEAC soruları. anında dijital teslimat. Official naraka cheats at narakacheats.org.",
 					h1: "SSS",
 					intro: "Naraka Cheats SSS — teslimat, kurulum, güncellemeler ve iadeler.",
 					imageAlt: "Naraka Cheats FAQ — delivery, setup, and update answers",
@@ -11297,8 +11297,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				support: {
-					title: "Destek| License & Setup Help",
-					description: "Support for license delivery, ESP setup & billing on PC. Email support@narakacheats.org with your order ID. narakacheats.org/support.",
+					title: "Destek | License & Setup Help",
+					description: "Destek for Naraka Bladepoint on Windows PC — sipariş yardımı ve lisans destek iletişimi. anında dijital teslimat. Official naraka cheats at narakacheats.org.",
 					h1: "Destek",
 					intro: "Windows PC'de Naraka Cheats lisans, kurulum ve faturalama desteği.",
 					imageAlt: "Naraka Cheats support page for license and setup help",
@@ -11335,8 +11335,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				undetected: {
-					title: "Undetected hileler | undetected",
-					description: "Undetected hileler: NEAC yamalarından sonra undetected bakım. anında dijital teslimat. undetected — Windows PC.",
+					title: "Undetected hileler | NEAC Safe Status",
+					description: "Undetected hileler for Naraka Bladepoint on Windows PC — NEAC yamalarından sonra undetected bakım. anında dijital teslimat. undetected. Official naraka cheats",
 					h1: "Undetected hileler",
 					intro: "Naraka Cheats, Naraka için Windows PC üzerinde ESP wallhack, radar hack ve Naraka Aimbot undetected paket sunar. Undetected hileler. NEAC yamalarından sonra undetected bakım.",
 					imageAlt: "Naraka Cheats undetected status overview for Windows PC",
@@ -11381,8 +11381,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				wallhack: {
-					title: "Naraka Wallhack | wallhack",
-					description: "Naraka Wallhack: oyuncular, leşler ve mesafe için wallhack ESP. anında dijital teslimat. undetected — Windows PC.",
+					title: "Naraka Wallhack | ESP Visibility",
+					description: "Naraka Wallhack for Naraka Bladepoint on Windows PC — oyuncular, leşler ve mesafe için wallhack ESP. anında dijital teslimat. undetected. Official naraka",
 					h1: "Naraka Wallhack",
 					intro: "Naraka Cheats, Naraka için Windows PC üzerinde ESP wallhack, radar hack ve Naraka Aimbot undetected paket sunar. Naraka Wallhack. oyuncular, leşler ve mesafe için wallhack ESP.",
 					imageAlt: "naraka wallhack visibility through walls in a match",
@@ -11419,8 +11419,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				radar: {
-					title: "Radar| 2D Threat Map | Naraka Cheats",
-					description: "2D radar hack for flank awareness on PC. Bundled with ESP wallhack & soft aim in one license. NEAC maintenance at narakacheats.org.",
+					title: "Radar | 2D Threat Map | Naraka Cheats",
+					description: "Radar for Naraka Bladepoint on Windows PC — flank ve rotasyonlar için 2D radar ipuçları. anında dijital teslimat. Official naraka cheats at narakacheats.org.",
 					h1: "Radar",
 					intro: "Görüş alanı dışındaki tehditler için basit 2D radar. Aynı Naraka Cheats lisansına dahil.",
 					imageAlt: "Naraka 2D radar overlay showing nearby threats",
@@ -11457,15 +11457,15 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				neac: {
-					title: "neac | neac",
-					description: "neac: neac. anında dijital teslimat. undetected — Windows PC.",
-					h1: "neac",
-					intro: "Naraka Cheats, Naraka için Windows PC üzerinde ESP wallhack, radar hack ve Naraka Aimbot undetected paket sunar. neac. neac.",
-					imageAlt: "neac — Naraka Cheats",
-					galleryTitle: "neac",
+					title: "NEAC bypass | Patch Maintenance",
+					description: "NEAC bypass for Naraka Bladepoint on Windows PC — Naraka cheats için NEAC güncellemelerinin nasıl yönetildiği. anında dijital teslimat. undetected. Official",
+					h1: "NEAC bypass",
+					intro: "Naraka Cheats, Naraka için Windows PC üzerinde ESP wallhack, radar hack ve Naraka Aimbot undetected paket sunar. NEAC bypass. Naraka cheats için NEAC güncellemelerinin nasıl yönetildiği.",
+					imageAlt: "Naraka Cheats maintenance after a NEAC patch",
+					galleryTitle: "NEAC bypass",
 					ctaPrimary: "Naraka Cheats satın al",
 					ctaSecondary: "Özellikleri gör",
-					ctaSecondaryHref: "/",
+					ctaSecondaryHref: "/updates/",
 					sections: [
 						{
 							h2: "NEAC overview",
@@ -11494,7 +11494,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "HWID bans, spoofers, and what we do not sell",
 							paragraphs: [
-								"Naraka Cheats, Naraka için Windows PC üzerinde ESP wallhack, radar hack ve Naraka Aimbot undetected paket sunar. neac",
+								"Naraka Cheats, Naraka için Windows PC üzerinde ESP wallhack, radar hack ve Naraka Aimbot undetected paket sunar. Naraka cheats için NEAC güncellemelerinin nasıl yönetildiği",
 								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/naraka-neac-bypass/\">NEAC FAQ</a> before buying anywhere.",
 								"NEAC yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı undetected garantisi vermez.",
 							],
@@ -11502,7 +11502,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "External architecture, stream proofing, and patch-day checklist",
 							paragraphs: [
-								"Naraka Cheats, Naraka için Windows PC üzerinde ESP wallhack, radar hack ve Naraka Aimbot undetected paket sunar. neac",
+								"Naraka Cheats, Naraka için Windows PC üzerinde ESP wallhack, radar hack ve Naraka Aimbot undetected paket sunar. Naraka cheats için NEAC güncellemelerinin nasıl yönetildiği",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">Undetected hile rehberi</a>, (2) confirm NEAC notes on <a href=\"/neac-bypass/\">NEAC bakımı</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
 								"Deep dives: <a href=\"/undetected-naraka-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-naraka-cheats-eac/\">NEAC reality blog</a> · <a href=\"/naraka-cheats/\">Naraka Cheats genel bakış</a>.",
 							],
@@ -11511,8 +11511,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot.webp",
 				},
 				"cheats-2026": {
-					title: "Naraka Hileleri 2026 | cheats-2026",
-					description: "Naraka Hileleri 2026: checkout öncesi 2026 naraka cheats kontrol listesi. anında dijital teslimat. undetected — Windows PC.",
+					title: "Naraka Hileleri 2026 | Buyer Guide",
+					description: "Naraka Hileleri 2026 for Naraka Bladepoint on Windows PC — checkout öncesi 2026 naraka cheats kontrol listesi. anında dijital teslimat. undetected. Official",
 					h1: "Naraka Hileleri 2026",
 					intro: "Naraka Cheats, Naraka için Windows PC üzerinde ESP wallhack, radar hack ve Naraka Aimbot undetected paket sunar. Naraka Hileleri 2026. checkout öncesi 2026 naraka cheats kontrol listesi.",
 					imageAlt: "Naraka Cheats product overview for Naraka",
@@ -11549,7 +11549,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Episode 10+ and ranked meta in 2026",
 							paragraphs: [
 								"2026 ranked play rewards information speed — ESP hero markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/naraka-aimbot/\">Aimbot ve soft aim</a> and ESP toggles.",
-								"Compare against <a href=\"/best-naraka-cheats/\">best naraka cheats</a> criteria and <a href=\"/undetected-naraka-cheats/\">undetected maintenance</a> before switching shops mid-season.",
+								"Compare against <a href=\"/\">Tam ürün</a> criteria and <a href=\"/undetected-naraka-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/naraka-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/naraka-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
 						},
@@ -11557,8 +11557,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				hacks: {
-					title: "Naraka Cheats — Tam rehber| ESP, Aimbot & Wallhack",
-					description: "Naraka cheats guide — undetected ESP wallhack, soft aim, radar & NEAC rebuilds on PC. Compare features & buy from $35 at narakacheats.org.",
+					title: "Naraka Cheats — Tam rehber | ESP, Aimbot & Wallhack",
+					description: "Naraka Cheats — Tam rehber for Naraka Bladepoint on Windows PC — ESP ve Aimbot için Naraka Cheats sütunu. anında dijital teslimat. Official naraka cheats at",
 					h1: "Naraka Cheats — Tam rehber",
 					intro: "Naraka hileleri temel oyuna ESP, radar ve soft aim ekler. Bu sayfa naraka cheats nedir, Naraka Cheats neleri içerir, NEAC bakımı ve satın almadan önce nereye gidileceğini açıklar.",
 					imageAlt: "Naraka Cheats overview — ESP, aimbot, and radar for Naraka",
@@ -11630,8 +11630,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-combat.webp",
 				},
 				"cheat-download": {
-					title: "Naraka Hile İndir | cheat-download",
-					description: "Naraka Hile İndir: ödeme sonrası dijital lisans indirme. anında dijital teslimat. undetected — Windows PC.",
+					title: "Naraka Hile İndir | Instant Access",
+					description: "Naraka Hile İndir for Naraka Bladepoint on Windows PC — ödeme sonrası dijital lisans indirme. anında dijital teslimat. undetected. Official naraka cheats at",
 					h1: "Naraka Hile İndir",
 					intro: "Naraka Cheats, Naraka için Windows PC üzerinde ESP wallhack, radar hack ve Naraka Aimbot undetected paket sunar. Naraka Hile İndir. ödeme sonrası dijital lisans indirme.",
 					imageAlt: "Naraka Cheats download and install delivery flow",
@@ -11668,8 +11668,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				"mod-menu": {
-					title: "Naraka Mod Menü | mod-menu",
-					description: "Naraka Mod Menü: istemci içi ESP ve soft aim toggle'ları. anında dijital teslimat. undetected — Windows PC.",
+					title: "Naraka Mod Menü | In-Game Toggles",
+					description: "Naraka Mod Menü for Naraka Bladepoint on Windows PC — istemci içi ESP ve soft aim toggle'ları. anında dijital teslimat. undetected. Official naraka cheats at",
 					h1: "Naraka Mod Menü",
 					intro: "Naraka Cheats, Naraka için Windows PC üzerinde ESP wallhack, radar hack ve Naraka Aimbot undetected paket sunar. Naraka Mod Menü. istemci içi ESP ve soft aim toggle'ları.",
 					imageAlt: "Naraka Cheats in-game menu controls",
@@ -11706,8 +11706,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				"soft-aim": {
-					title: "Naraka Soft Aim | soft-aim",
-					description: "Naraka Soft Aim: Windows PC için akıcı soft aim ayarları. anında dijital teslimat. undetected — Windows PC.",
+					title: "Naraka Soft Aim | Smooth Aim Settings",
+					description: "Naraka Soft Aim for Naraka Bladepoint on Windows PC — Windows PC için akıcı soft aim ayarları. anında dijital teslimat. undetected. Official naraka cheats at",
 					h1: "Naraka Soft Aim",
 					intro: "Naraka Cheats, Naraka için Windows PC üzerinde ESP wallhack, radar hack ve Naraka Aimbot undetected paket sunar. Naraka Soft Aim. Windows PC için akıcı soft aim ayarları.",
 					imageAlt: "Naraka soft aim FOV and smoothness settings",
@@ -11744,8 +11744,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				"best-cheats": {
-					title: "En İyi Naraka Hileleri | best-cheats",
-					description: "En İyi Naraka Hileleri: naraka cheats satın almadan önce ne karşılaştırılmalı. anında dijital teslimat. undetected — Windows PC.",
+					title: "En İyi Naraka Hileleri | Buyer Checklist",
+					description: "En İyi Naraka Hileleri for Naraka Bladepoint on Windows PC — naraka cheats satın almadan önce ne karşılaştırılmalı. anında dijital teslimat. undetected.",
 					h1: "En İyi Naraka Hileleri",
 					intro: "Naraka Cheats, Naraka için Windows PC üzerinde ESP wallhack, radar hack ve Naraka Aimbot undetected paket sunar. En İyi Naraka Hileleri. naraka cheats satın almadan önce ne karşılaştırılmalı.",
 					imageAlt: "Naraka Cheats overview for Naraka on PC",
@@ -11790,8 +11790,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				"aimbot-hack": {
-					title: "Naraka Aimbot Hilesi | aimbot-hack",
-					description: "Naraka Aimbot Hilesi: Naraka için undetected Aimbot hack assist. anında dijital teslimat. undetected — Windows PC.",
+					title: "Naraka Aimbot Hilesi | Soft Aim Assist",
+					description: "Naraka Aimbot Hilesi for Naraka Bladepoint on Windows PC — Naraka için undetected Aimbot hack assist. anında dijital teslimat. undetected. Official naraka",
 					h1: "Naraka Aimbot Hilesi",
 					intro: "Naraka Cheats, Naraka için Windows PC üzerinde ESP wallhack, radar hack ve Naraka Aimbot undetected paket sunar. Naraka Aimbot Hilesi. Naraka için undetected Aimbot hack assist.",
 					imageAlt: "Naraka Aimbot hack controls and bone priority",
@@ -11828,8 +11828,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				"esp-hack": {
-					title: "Naraka ESP Hilesi | esp-hack",
-					description: "Naraka ESP Hilesi: ESP hack kutuları, leş pinleri ve mesafe. anında dijital teslimat. undetected — Windows PC.",
+					title: "Naraka ESP Hilesi | Boxes & Loot",
+					description: "Naraka ESP Hilesi for Naraka Bladepoint on Windows PC — ESP hack kutuları, leş pinleri ve mesafe. anında dijital teslimat. undetected. Official naraka cheats",
 					h1: "Naraka ESP Hilesi",
 					intro: "Naraka Cheats, Naraka için Windows PC üzerinde ESP wallhack, radar hack ve Naraka Aimbot undetected paket sunar. Naraka ESP Hilesi. ESP hack kutuları, leş pinleri ve mesafe.",
 					imageAlt: "Naraka ESP hack boxes and hero markers",
@@ -11866,8 +11866,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				"unlock-all": {
-					title: "Naraka Unlock All | unlock-all",
-					description: "Naraka Unlock All: unlock-all aramaları vs gerçek ESP ve Aimbot araçları. anında dijital teslimat. undetected — Windows PC.",
+					title: "Naraka Unlock All | What It Means",
+					description: "Naraka Unlock All for Naraka Bladepoint on Windows PC — unlock-all aramaları vs gerçek ESP ve Aimbot araçları. anında dijital teslimat. undetected. Official",
 					h1: "Naraka Unlock All",
 					intro: "Naraka Cheats, Naraka için Windows PC üzerinde ESP wallhack, radar hack ve Naraka Aimbot undetected paket sunar. Naraka Unlock All. unlock-all aramaları vs gerçek ESP ve Aimbot araçları.",
 					imageAlt: "Naraka Cheats license features overview",
@@ -11905,7 +11905,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Gizlilik politikası | Naraka Cheats",
-					description: "Gizlilik politikası Naraka Cheats — ESP wallhack, Aimbot için, Windows PC.",
+					description: "Gizlilik politikası Naraka Cheats — ESP wallhack, Aimbot için, Windows PC. Compare plans and guides at narakacheats.org.",
 					h1: "Gizlilik politikası",
 					intro: "Naraka Cheats, Naraka için Windows PC üzerinde ESP wallhack, radar hack ve Naraka Aimbot undetected paket sunar. Gizlilik politikası narakacheats.org ve Naraka lisansları için.",
 					imageAlt: "Naraka Cheats",
@@ -11940,7 +11940,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				refund: {
 					title: "İade politikası | Naraka Cheats",
-					description: "İade politikası Naraka Cheats — ESP wallhack, Aimbot için, Windows PC.",
+					description: "İade politikası Naraka Cheats — ESP wallhack, Aimbot için, Windows PC. Compare plans and guides at narakacheats.org.",
 					h1: "İade politikası",
 					intro: "Naraka Cheats, Naraka için Windows PC üzerinde ESP wallhack, radar hack ve Naraka Aimbot undetected paket sunar. İade politikası narakacheats.org ve Naraka lisansları için.",
 					imageAlt: "Naraka Cheats",
@@ -11975,7 +11975,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				terms: {
 					title: "Kullanım şartları | Naraka Cheats",
-					description: "Kullanım şartları Naraka Cheats — ESP wallhack, Aimbot için, Windows PC.",
+					description: "Kullanım şartları Naraka Cheats — ESP wallhack, Aimbot için, Windows PC. Compare plans and guides at narakacheats.org.",
 					h1: "Kullanım şartları",
 					intro: "Naraka Cheats, Naraka için Windows PC üzerinde ESP wallhack, radar hack ve Naraka Aimbot undetected paket sunar. Kullanım şartları narakacheats.org ve Naraka lisansları için.",
 					imageAlt: "Naraka Cheats",
@@ -12085,7 +12085,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Naraka Cheats 2026 | ESP وWallhack وAimbot",
-					description: "غش Naraka undetected لـ Naraka على PC. ESP wallhack ورadar hack وAimbot مع صيانة NEAC. تسليم رقمي فوري.",
+					description: "غش Naraka undetected لـ Naraka على PC. ESP wallhack ورadar hack وAimbot مع صيانة NEAC. تسليم رقمي فوري. Compare plans and guides at narakacheats.org.",
 					h1: "اختراقات غير مكتشفة لـ Naraka",
 					intro: "حزمة undetected لـ Naraka على Windows PC: ESP wallhack ورadar وAimbot مع صيانة NEAC.",
 					imageAlt: "Naraka ESP player tags hack",
@@ -12112,8 +12112,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				"naraka-esp": {
-					title: "ESP| Wallhack & Player Boxes | Naraka Cheats",
-					description: "Naraka ESP wallhack — player boxes, hero markers & distance tags on PC. Undetected naraka cheats with aimbot & radar. Shop at narakacheats.org.",
+					title: "ESP | Wallhack & Player Boxes | Naraka Cheats",
+					description: "ESP for Naraka Bladepoint on Windows PC — صناديق اللاعبين وعلامات الجيفة وoverlays wallhack. تسليم رقمي فوري. Official naraka cheats at narakacheats.org.",
 					h1: "ESP",
 					intro: "شاهد اللاعبين والloot عبر الجدران أثناء matches في Naraka. جزء من نفس ترخيص Naraka Cheats.",
 					imageAlt: "Naraka ESP player boxes and distance readouts in a match",
@@ -12162,8 +12162,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				"naraka-aimbot": {
-					title: "Aimbot| Soft Aim & FOV Settings | Naraka Cheats",
-					description: "Naraka aimbot with soft aim, FOV, bone priority & hotkeys on PC. Undetected Naraka Cheats with ESP & radar included. narakacheats.org.",
+					title: "Aimbot | Soft Aim & FOV Settings | Naraka Cheats",
+					description: "Aimbot for Naraka Bladepoint on Windows PC — soft aim وFOV وملفات Aimbot لكل نوع. تسليم رقمي فوري. Official naraka cheats at narakacheats.org.",
 					h1: "Aimbot",
 					intro: "Soft aim ومساعدة تصويب قابلة للضبط لـ Naraka. مضمن في نفس ترخيص Naraka Cheats.",
 					imageAlt: "Naraka Aimbot and soft aim controls on Windows PC",
@@ -12213,7 +12213,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "الميزات 2026 | ESP, Aimbot & Radar | Naraka Cheats",
-					description: "Naraka Cheats يجمع ESP wallhack وradar hack وNaraka Aimbot غير مكتشف لـ Naraka على Windows PC. ESP وsoft aim وضوابط radar",
+					description: "الميزات: ESP وsoft aim وضوابط radar. تسليم رقمي فوري. غير مكتشف. Compare plans and guides at narakacheats.org.",
 					h1: "الميزات",
 					intro: "Naraka Cheats يجمع ESP wallhack وradar hack وNaraka Aimbot غير مكتشف لـ Naraka على Windows PC. الميزات für Naraka auf Windows PC.",
 					imageAlt: "Naraka Cheats features — ESP, soft aim, and radar screenshots",
@@ -12291,8 +12291,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				pricing: {
-					title: "المتجر| $35/mo or $150 Lifetime",
-					description: "Buy Naraka cheats at narakacheats.org — $35/month or $150 lifetime. ESP, aimbot & radar on PC. Same features, instant delivery.",
+					title: "المتجر | $35/mo or $150 Lifetime",
+					description: "المتجر for Naraka Bladepoint on Windows PC — تراخيص $35 شهرياً أو $150 lifetime. تسليم رقمي فوري. Official naraka cheats at narakacheats.org.",
 					h1: "المتجر",
 					intro: "Naraka Cheats يجمع ESP wallhack وradar hack وNaraka Aimbot غير مكتشف لـ Naraka على Windows PC. المتجر — 35$/شهر y 150$ مدى الحياة.",
 					imageAlt: "Naraka Cheats store plans for monthly and lifetime licenses",
@@ -12341,8 +12341,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				setup: {
-					title: "التثبيت| Windows PC Install Guide",
-					description: "Install Naraka Cheats on PC — activate ESP, soft aim & radar step by step. Setup guide at narakacheats.org. Check NEAC status first.",
+					title: "التثبيت | Windows PC Install",
+					description: "التثبيت for Naraka Bladepoint on Windows PC — تفعيل Windows PC وإعداد أول تشغيل. تسليم رقمي فوري. Official naraka cheats at narakacheats.org.",
 					h1: "التثبيت",
 					intro: "ثبّت وفعّل ترخيصك على Windows 10 أو 11 قبل أول match.",
 					imageAlt: "Naraka Cheats setup guide screenshot for Windows PC",
@@ -12391,8 +12391,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				updates: {
-					title: "الحالة| NEAC Updates | Naraka Cheats",
-					description: "Live status after Naraka & NEAC patches. Check undetected ESP, aimbot & radar rebuilds on PC before you queue. narakacheats.org.",
+					title: "الحالة | NEAC Updates | Naraka Cheats",
+					description: "الحالة for Naraka Bladepoint on Windows PC — حالة patch NEAC وملاحظات rebuild. تسليم رقمي فوري. Official naraka cheats at narakacheats.org. Windows PC license",
 					h1: "الحالة",
 					intro: "راجع Updates بعد تص patches NEAC. لا يضمن أي غش حالة undetected دائمة.",
 					imageAlt: "Naraka Cheats live status after NEAC and game patches",
@@ -12440,8 +12440,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				faq: {
-					title: "الأسئلة الشائعة| ESP, Aimbot & NEAC",
-					description: "FAQ for naraka cheats — delivery, setup, undetected status, NEAC updates & pricing on PC. Answers at narakacheats.org before you buy.",
+					title: "الأسئلة الشائعة | ESP, Aimbot & NEAC",
+					description: "الأسئلة الشائعة for Naraka Bladepoint on Windows PC — أسئلة ESP وsoft aim والتسليم وNEAC. تسليم رقمي فوري. Official naraka cheats at narakacheats.org.",
 					h1: "الأسئلة الشائعة",
 					intro: "أسئلة شائعة عن Naraka Cheats — التسليم والتثبيت والتحديثات والاسترداد.",
 					imageAlt: "Naraka Cheats FAQ — delivery, setup, and update answers",
@@ -12488,8 +12488,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				support: {
-					title: "الدعم| License & Setup Help",
-					description: "Support for license delivery, ESP setup & billing on PC. Email support@narakacheats.org with your order ID. narakacheats.org/support.",
+					title: "الدعم | License & Setup Help",
+					description: "الدعم for Naraka Bladepoint on Windows PC — مساعدة الطلبات واتصال دعم التراخيص. تسليم رقمي فوري. Official naraka cheats at narakacheats.org.",
 					h1: "الدعم",
 					intro: "احصل على مساعدة للتراخيص والتثبيت والفوترة لـ Naraka Cheats على Windows PC.",
 					imageAlt: "Naraka Cheats support page for license and setup help",
@@ -12526,8 +12526,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				undetected: {
-					title: "غش undetected | undetected",
-					description: "غش undetected: صيانة undetected بعد patch NEAC. تسليم رقمي فوري. غير مكتشف — Windows PC.",
+					title: "غش undetected | NEAC Safe Status",
+					description: "غش undetected for Naraka Bladepoint on Windows PC — صيانة undetected بعد patch NEAC. تسليم رقمي فوري. غير مكتشف. Official naraka cheats at narakacheats.org.",
 					h1: "غش undetected",
 					intro: "Naraka Cheats يجمع ESP wallhack وradar hack وNaraka Aimbot غير مكتشف لـ Naraka على Windows PC. غش undetected. صيانة undetected بعد patch NEAC.",
 					imageAlt: "Naraka Cheats undetected status overview for Windows PC",
@@ -12572,8 +12572,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				wallhack: {
-					title: "Naraka Wallhack | wallhack",
-					description: "Naraka Wallhack: wallhack ESP للاعبين والجيف والمسافة. تسليم رقمي فوري. غير مكتشف — Windows PC.",
+					title: "Naraka Wallhack | ESP Visibility",
+					description: "Naraka Wallhack for Naraka Bladepoint on Windows PC — wallhack ESP للاعبين والجيف والمسافة. تسليم رقمي فوري. غير مكتشف. Official naraka cheats at",
 					h1: "Naraka Wallhack",
 					intro: "Naraka Cheats يجمع ESP wallhack وradar hack وNaraka Aimbot غير مكتشف لـ Naraka على Windows PC. Naraka Wallhack. wallhack ESP للاعبين والجيف والمسافة.",
 					imageAlt: "naraka wallhack visibility through walls in a match",
@@ -12610,8 +12610,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				radar: {
-					title: "Radar| 2D Threat Map | Naraka Cheats",
-					description: "2D radar hack for flank awareness on PC. Bundled with ESP wallhack & soft aim in one license. NEAC maintenance at narakacheats.org.",
+					title: "Radar | 2D Threat Map | Naraka Cheats",
+					description: "Radar for Naraka Bladepoint on Windows PC — إشارات radar ثنائية الأبعاد للهجمات الجانبية والتدوير. تسليم رقمي فوري. Official naraka cheats at narakacheats.org.",
 					h1: "Radar",
 					intro: "radar 2D بسيط للتهديدات خارج مجال رؤيتك. مضمن في نفس ترخيص Naraka Cheats.",
 					imageAlt: "Naraka 2D radar overlay showing nearby threats",
@@ -12648,15 +12648,15 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				neac: {
-					title: "neac | neac",
-					description: "neac: neac. تسليم رقمي فوري. غير مكتشف — Windows PC.",
-					h1: "neac",
-					intro: "Naraka Cheats يجمع ESP wallhack وradar hack وNaraka Aimbot غير مكتشف لـ Naraka على Windows PC. neac. neac.",
-					imageAlt: "neac — Naraka Cheats",
-					galleryTitle: "neac",
+					title: "Bypass NEAC | Patch Maintenance",
+					description: "Bypass NEAC for Naraka Bladepoint on Windows PC — كيف تُدار تحديثات NEAC لـ Naraka cheats. تسليم رقمي فوري. غير مكتشف. Official naraka cheats at",
+					h1: "Bypass NEAC",
+					intro: "Naraka Cheats يجمع ESP wallhack وradar hack وNaraka Aimbot غير مكتشف لـ Naraka على Windows PC. Bypass NEAC. كيف تُدار تحديثات NEAC لـ Naraka cheats.",
+					imageAlt: "Naraka Cheats maintenance after a NEAC patch",
+					galleryTitle: "Bypass NEAC",
 					ctaPrimary: "اشترِ Naraka Cheats",
 					ctaSecondary: "عرض الميزات",
-					ctaSecondaryHref: "/",
+					ctaSecondaryHref: "/updates/",
 					sections: [
 						{
 							h2: "NEAC overview",
@@ -12685,7 +12685,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "HWID bans, spoofers, and what we do not sell",
 							paragraphs: [
-								"Naraka Cheats يجمع ESP wallhack وradar hack وNaraka Aimbot غير مكتشف لـ Naraka على Windows PC. neac",
+								"Naraka Cheats يجمع ESP wallhack وradar hack وNaraka Aimbot غير مكتشف لـ Naraka على Windows PC. كيف تُدار تحديثات NEAC لـ Naraka cheats",
 								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/naraka-neac-bypass/\">NEAC FAQ</a> before buying anywhere.",
 								"راجع Updates بعد تص patches NEAC. لا يضمن أي غش حالة undetected دائمة.",
 							],
@@ -12693,7 +12693,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "External architecture, stream proofing, and patch-day checklist",
 							paragraphs: [
-								"Naraka Cheats يجمع ESP wallhack وradar hack وNaraka Aimbot غير مكتشف لـ Naraka على Windows PC. neac",
+								"Naraka Cheats يجمع ESP wallhack وradar hack وNaraka Aimbot غير مكتشف لـ Naraka على Windows PC. كيف تُدار تحديثات NEAC لـ Naraka cheats",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">دليل الغش غير المكتشف</a>, (2) confirm NEAC notes on <a href=\"/neac-bypass/\">صيانة NEAC</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
 								"Deep dives: <a href=\"/undetected-naraka-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-naraka-cheats-eac/\">NEAC reality blog</a> · <a href=\"/naraka-cheats/\">نظرة عامة على Naraka Cheats</a>.",
 							],
@@ -12702,8 +12702,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot.webp",
 				},
 				"cheats-2026": {
-					title: "غش Naraka 2026 | cheats-2026",
-					description: "غش Naraka 2026: قائمة naraka cheats 2026 قبل checkout. تسليم رقمي فوري. غير مكتشف — Windows PC.",
+					title: "غش Naraka 2026 | Buyer Guide",
+					description: "غش Naraka 2026 for Naraka Bladepoint on Windows PC — قائمة naraka cheats 2026 قبل checkout. تسليم رقمي فوري. غير مكتشف. Official naraka cheats at",
 					h1: "غش Naraka 2026",
 					intro: "Naraka Cheats يجمع ESP wallhack وradar hack وNaraka Aimbot غير مكتشف لـ Naraka على Windows PC. غش Naraka 2026. قائمة naraka cheats 2026 قبل checkout.",
 					imageAlt: "Naraka Cheats product overview for Naraka",
@@ -12740,7 +12740,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Episode 10+ and ranked meta in 2026",
 							paragraphs: [
 								"2026 ranked play rewards information speed — ESP hero markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/naraka-aimbot/\">Aimbot وSoft aim</a> and ESP toggles.",
-								"Compare against <a href=\"/best-naraka-cheats/\">best naraka cheats</a> criteria and <a href=\"/undetected-naraka-cheats/\">undetected maintenance</a> before switching shops mid-season.",
+								"Compare against <a href=\"/\">المنتج الكامل</a> criteria and <a href=\"/undetected-naraka-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/naraka-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/naraka-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
 						},
@@ -12748,8 +12748,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				hacks: {
-					title: "Naraka Cheats — دليل كامل| ESP, Aimbot & Wallhack",
-					description: "Naraka cheats guide — undetected ESP wallhack, soft aim, radar & NEAC rebuilds on PC. Compare features & buy from $35 at narakacheats.org.",
+					title: "Naraka Cheats — دليل كامل | ESP, Aimbot & Wallhack",
+					description: "Naraka Cheats — دليل كامل for Naraka Bladepoint on Windows PC — ركيزة Naraka Cheats لـ ESP وAimbot. تسليم رقمي فوري. Official naraka cheats at narakacheats.org.",
 					h1: "Naraka Cheats — دليل كامل",
 					intro: "تضيف naraka cheats الـ ESP والرادار وsoft aim فوق اللعبة الأساسية. تشرح هذه الصفحة ما هي naraka cheats وما يتضمنه Naraka Cheats وصيانة NEAC وأين تذهب قبل الشراء.",
 					imageAlt: "Naraka Cheats overview — ESP, aimbot, and radar for Naraka",
@@ -12821,8 +12821,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-combat.webp",
 				},
 				"cheat-download": {
-					title: "تحميل Naraka Cheats | cheat-download",
-					description: "تحميل Naraka Cheats: تنزيل ترخيص رقمي بعد الدفع. تسليم رقمي فوري. غير مكتشف — Windows PC.",
+					title: "تحميل Naraka Cheats | Instant Access",
+					description: "تحميل Naraka Cheats for Naraka Bladepoint on Windows PC — تنزيل ترخيص رقمي بعد الدفع. تسليم رقمي فوري. غير مكتشف. Official naraka cheats at narakacheats.org.",
 					h1: "تحميل Naraka Cheats",
 					intro: "Naraka Cheats يجمع ESP wallhack وradar hack وNaraka Aimbot غير مكتشف لـ Naraka على Windows PC. تحميل Naraka Cheats. تنزيل ترخيص رقمي بعد الدفع.",
 					imageAlt: "Naraka Cheats download and install delivery flow",
@@ -12859,8 +12859,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				"mod-menu": {
-					title: "قائمة مود Naraka | mod-menu",
-					description: "قائمة مود Naraka: مفاتيح ESP وsoft aim داخل العميل. تسليم رقمي فوري. غير مكتشف — Windows PC.",
+					title: "قائمة مود Naraka | In-Game Toggles",
+					description: "قائمة مود Naraka for Naraka Bladepoint on Windows PC — مفاتيح ESP وsoft aim داخل العميل. تسليم رقمي فوري. غير مكتشف. Official naraka cheats at narakacheats.org.",
 					h1: "قائمة مود Naraka",
 					intro: "Naraka Cheats يجمع ESP wallhack وradar hack وNaraka Aimbot غير مكتشف لـ Naraka على Windows PC. قائمة مود Naraka. مفاتيح ESP وsoft aim داخل العميل.",
 					imageAlt: "Naraka Cheats in-game menu controls",
@@ -12897,8 +12897,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				"soft-aim": {
-					title: "Soft aim Naraka | soft-aim",
-					description: "Soft aim Naraka: إعدادات soft aim سلسة لـ Windows PC. تسليم رقمي فوري. غير مكتشف — Windows PC.",
+					title: "Soft aim Naraka | Smooth Aim Settings",
+					description: "Soft aim Naraka for Naraka Bladepoint on Windows PC — إعدادات soft aim سلسة لـ Windows PC. تسليم رقمي فوري. غير مكتشف. Official naraka cheats at",
 					h1: "Soft aim Naraka",
 					intro: "Naraka Cheats يجمع ESP wallhack وradar hack وNaraka Aimbot غير مكتشف لـ Naraka على Windows PC. Soft aim Naraka. إعدادات soft aim سلسة لـ Windows PC.",
 					imageAlt: "Naraka soft aim FOV and smoothness settings",
@@ -12935,8 +12935,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				"best-cheats": {
-					title: "أفضل غش Naraka | best-cheats",
-					description: "أفضل غش Naraka: ما يجب مقارنته قبل شراء naraka cheats. تسليم رقمي فوري. غير مكتشف — Windows PC.",
+					title: "أفضل غش Naraka | Buyer Checklist",
+					description: "أفضل غش Naraka for Naraka Bladepoint on Windows PC — ما يجب مقارنته قبل شراء naraka cheats. تسليم رقمي فوري. غير مكتشف. Official naraka cheats at",
 					h1: "أفضل غش Naraka",
 					intro: "Naraka Cheats يجمع ESP wallhack وradar hack وNaraka Aimbot غير مكتشف لـ Naraka على Windows PC. أفضل غش Naraka. ما يجب مقارنته قبل شراء naraka cheats.",
 					imageAlt: "Naraka Cheats overview for Naraka on PC",
@@ -12981,8 +12981,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				"aimbot-hack": {
-					title: "هاك Aimbot Naraka | aimbot-hack",
-					description: "هاك Aimbot Naraka: مساعدة hack Aimbot undetected لـ Naraka. تسليم رقمي فوري. غير مكتشف — Windows PC.",
+					title: "هاك Aimbot Naraka | Soft Aim Assist",
+					description: "هاك Aimbot Naraka for Naraka Bladepoint on Windows PC — مساعدة hack Aimbot undetected لـ Naraka. تسليم رقمي فوري. غير مكتشف. Official naraka cheats at",
 					h1: "هاك Aimbot Naraka",
 					intro: "Naraka Cheats يجمع ESP wallhack وradar hack وNaraka Aimbot غير مكتشف لـ Naraka على Windows PC. هاك Aimbot Naraka. مساعدة hack Aimbot undetected لـ Naraka.",
 					imageAlt: "Naraka Aimbot hack controls and bone priority",
@@ -13019,8 +13019,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				"esp-hack": {
-					title: "هاك ESP Naraka | esp-hack",
-					description: "هاك ESP Naraka: صناديق ESP hack وpins الجيف والمسافة. تسليم رقمي فوري. غير مكتشف — Windows PC.",
+					title: "هاك ESP Naraka | Boxes & Loot",
+					description: "هاك ESP Naraka for Naraka Bladepoint on Windows PC — صناديق ESP hack وpins الجيف والمسافة. تسليم رقمي فوري. غير مكتشف. Official naraka cheats at",
 					h1: "هاك ESP Naraka",
 					intro: "Naraka Cheats يجمع ESP wallhack وradar hack وNaraka Aimbot غير مكتشف لـ Naraka على Windows PC. هاك ESP Naraka. صناديق ESP hack وpins الجيف والمسافة.",
 					imageAlt: "Naraka ESP hack boxes and hero markers",
@@ -13057,8 +13057,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				"unlock-all": {
-					title: "Unlock all Naraka | unlock-all",
-					description: "Unlock all Naraka: بحث unlock-all مقابل أدوات ESP وAimbot الحقيقية. تسليم رقمي فوري. غير مكتشف — Windows PC.",
+					title: "Unlock all Naraka | What It Means",
+					description: "Unlock all Naraka for Naraka Bladepoint on Windows PC — بحث unlock-all مقابل أدوات ESP وAimbot الحقيقية. تسليم رقمي فوري. غير مكتشف. Official naraka cheats at",
 					h1: "Unlock all Naraka",
 					intro: "Naraka Cheats يجمع ESP wallhack وradar hack وNaraka Aimbot غير مكتشف لـ Naraka على Windows PC. Unlock all Naraka. بحث unlock-all مقابل أدوات ESP وAimbot الحقيقية.",
 					imageAlt: "Naraka Cheats license features overview",
@@ -13096,7 +13096,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "سياسة الخصوصية | Naraka Cheats",
-					description: "سياسة الخصوصية لـ Naraka Cheats — ESP wallhack, Aimbot, Windows PC.",
+					description: "سياسة الخصوصية لـ Naraka Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at narakacheats.org.",
 					h1: "سياسة الخصوصية",
 					intro: "Naraka Cheats يجمع ESP wallhack وradar hack وNaraka Aimbot غير مكتشف لـ Naraka على Windows PC. سياسة الخصوصية لـ narakacheats.org وتراخيص Naraka.",
 					imageAlt: "Naraka Cheats",
@@ -13131,7 +13131,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				refund: {
 					title: "سياسة الاسترداد | Naraka Cheats",
-					description: "سياسة الاسترداد لـ Naraka Cheats — ESP wallhack, Aimbot, Windows PC.",
+					description: "سياسة الاسترداد لـ Naraka Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at narakacheats.org.",
 					h1: "سياسة الاسترداد",
 					intro: "Naraka Cheats يجمع ESP wallhack وradar hack وNaraka Aimbot غير مكتشف لـ Naraka على Windows PC. سياسة الاسترداد لـ narakacheats.org وتراخيص Naraka.",
 					imageAlt: "Naraka Cheats",
@@ -13166,7 +13166,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				terms: {
 					title: "شروط الاستخدام | Naraka Cheats",
-					description: "شروط الاستخدام لـ Naraka Cheats — ESP wallhack, Aimbot, Windows PC.",
+					description: "شروط الاستخدام لـ Naraka Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at narakacheats.org.",
 					h1: "شروط الاستخدام",
 					intro: "Naraka Cheats يجمع ESP wallhack وradar hack وNaraka Aimbot غير مكتشف لـ Naraka على Windows PC. شروط الاستخدام لـ narakacheats.org وتراخيص Naraka.",
 					imageAlt: "Naraka Cheats",
@@ -13276,7 +13276,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Naraka Cheats 2026 | ESP・Wallhack・Aimbot",
-					description: "Naraka向けundetectedチート。ESP wallhack、radar hack、Aimbot、NEACメンテナンス。即時デジタル配信。",
+					description: "Naraka向けundetectedチート。ESP wallhack、radar hack、Aimbot、NEACメンテナンス。即時デジタル配信。. Compare plans and guides at narakacheats.org.",
 					h1: "Naraka向けundetectedハック",
 					intro: "Naraka Windows PC向けundetectedパッケージ：ESP wallhack、radar、Aimbot、NEACメンテナンス付き。",
 					imageAlt: "naraka cheats hero ESP aimbot wallhack",
@@ -13303,8 +13303,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				"naraka-esp": {
-					title: "ESP| Wallhack & Player Boxes | Naraka Cheats",
-					description: "Naraka ESP wallhack — player boxes, hero markers & distance tags on PC. Undetected naraka cheats with aimbot & radar. Shop at narakacheats.org.",
+					title: "ESP | Wallhack & Player Boxes | Naraka Cheats",
+					description: "ESP for Naraka Bladepoint on Windows PC — プレイヤーボックス、死体マーカー、wallhackオーバーレイ. 即時デジタル配信. Official naraka cheats at narakacheats.org. Windows PC license with NEAC",
 					h1: "ESP",
 					intro: "Narakaレイド中に壁越しでプレイヤーとlootを確認。同じNaraka Cheatsライセンスに含まれます。",
 					imageAlt: "Naraka ESP player boxes and distance readouts in a match",
@@ -13353,8 +13353,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				"naraka-aimbot": {
-					title: "Aimbot| Soft Aim & FOV Settings | Naraka Cheats",
-					description: "Naraka aimbot with soft aim, FOV, bone priority & hotkeys on PC. Undetected Naraka Cheats with ESP & radar included. narakacheats.org.",
+					title: "Aimbot | Soft Aim & FOV Settings | Naraka Cheats",
+					description: "Aimbot for Naraka Bladepoint on Windows PC — soft aim、FOV、種別ごとのAimbotプロファイル. 即時デジタル配信. Official naraka cheats at narakacheats.org. Windows PC license with NEAC",
 					h1: "Aimbot",
 					intro: "Naraka向けに調整できるsoft aimとエイム支援。同じNaraka Cheatsライセンスに含まれます。",
 					imageAlt: "Naraka Aimbot and soft aim controls on Windows PC",
@@ -13404,7 +13404,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "機能 2026 | ESP, Aimbot & Radar | Naraka Cheats",
-					description: "Naraka CheatsはNaraka向けWindows PC用ESP wallhack、radar hack、Naraka Aimbotのundetectedパッケージです。ESP、soft aim、radarコントロール",
+					description: "機能: ESP、soft aim、radarコントロール. 即時デジタル配信. undetected. Compare plans and guides at narakacheats.org.",
 					h1: "機能",
 					intro: "Naraka CheatsはNaraka向けWindows PC用ESP wallhack、radar hack、Naraka Aimbotのundetectedパッケージです。機能 für Naraka auf Windows PC.",
 					imageAlt: "Naraka Cheats features — ESP, soft aim, and radar screenshots",
@@ -13482,8 +13482,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				pricing: {
-					title: "ストア| $35/mo or $150 Lifetime",
-					description: "Buy Naraka cheats at narakacheats.org — $35/month or $150 lifetime. ESP, aimbot & radar on PC. Same features, instant delivery.",
+					title: "ストア | $35/mo or $150 Lifetime",
+					description: "ストア for Naraka Bladepoint on Windows PC — 月額$35またはlifetime $150ライセンス. 即時デジタル配信. Official naraka cheats at narakacheats.org. Windows PC license with NEAC",
 					h1: "ストア",
 					intro: "Naraka CheatsはNaraka向けWindows PC用ESP wallhack、radar hack、Naraka Aimbotのundetectedパッケージです。ストア — $35/月 y $150永久.",
 					imageAlt: "Naraka Cheats store plans for monthly and lifetime licenses",
@@ -13532,8 +13532,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				setup: {
-					title: "セットアップ| Windows PC Install Guide",
-					description: "Install Naraka Cheats on PC — activate ESP, soft aim & radar step by step. Setup guide at narakacheats.org. Check NEAC status first.",
+					title: "セットアップ | Windows PC Install",
+					description: "セットアップ for Naraka Bladepoint on Windows PC — Windows PCアクティベーションと初回起動セットアップ. 即時デジタル配信. Official naraka cheats at narakacheats.org. Windows PC license with NEAC",
 					h1: "セットアップ",
 					intro: "初回レイド前にWindows 10または11でライセンスをインストール・有効化。",
 					imageAlt: "Naraka Cheats setup guide screenshot for Windows PC",
@@ -13582,8 +13582,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				updates: {
-					title: "ステータス| NEAC Updates | Naraka Cheats",
-					description: "Live status after Naraka & NEAC patches. Check undetected ESP, aimbot & radar rebuilds on PC before you queue. narakacheats.org.",
+					title: "ステータス | NEAC Updates | Naraka Cheats",
+					description: "ステータス for Naraka Bladepoint on Windows PC — NEACパッチ状況とrebuildメモ. 即時デジタル配信. Official naraka cheats at narakacheats.org. Windows PC license with NEAC maintenance",
 					h1: "ステータス",
 					intro: "NEACパッチ後はUpdatesページを確認。永久undetectedは保証されません。",
 					imageAlt: "Naraka Cheats live status after NEAC and game patches",
@@ -13631,8 +13631,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				faq: {
-					title: "FAQ| ESP, Aimbot & NEAC",
-					description: "FAQ for naraka cheats — delivery, setup, undetected status, NEAC updates & pricing on PC. Answers at narakacheats.org before you buy.",
+					title: "FAQ | ESP, Aimbot & NEAC",
+					description: "FAQ for Naraka Bladepoint on Windows PC — ESP、soft aim、配信、NEACに関する質問. 即時デジタル配信. Official naraka cheats at narakacheats.org. Windows PC license with NEAC",
 					h1: "FAQ",
 					intro: "Naraka Cheats FAQ — 配信、セットアップ、更新、返金。",
 					imageAlt: "Naraka Cheats FAQ — delivery, setup, and update answers",
@@ -13679,8 +13679,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				support: {
-					title: "サポート| License & Setup Help",
-					description: "Support for license delivery, ESP setup & billing on PC. Email support@narakacheats.org with your order ID. narakacheats.org/support.",
+					title: "サポート | License & Setup Help",
+					description: "サポート for Naraka Bladepoint on Windows PC — 注文ヘルプとライセンスサポート連絡先. 即時デジタル配信. Official naraka cheats at narakacheats.org. Windows PC license with NEAC maintenance",
 					h1: "サポート",
 					intro: "Windows PC向けNaraka Cheatsのライセンス、セットアップ、請求のサポート。",
 					imageAlt: "Naraka Cheats support page for license and setup help",
@@ -13717,8 +13717,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				undetected: {
-					title: "Undetectedチート | undetected",
-					description: "Undetectedチート: NEACパッチ後のundetectedメンテナンス. 即時デジタル配信. undetected — Windows PC.",
+					title: "Undetectedチート | NEAC Safe Status",
+					description: "Undetectedチート for Naraka Bladepoint on Windows PC — NEACパッチ後のundetectedメンテナンス. 即時デジタル配信. undetected. Official naraka cheats at narakacheats.org.",
 					h1: "Undetectedチート",
 					intro: "Naraka CheatsはNaraka向けWindows PC用ESP wallhack、radar hack、Naraka Aimbotのundetectedパッケージです。Undetectedチート. NEACパッチ後のundetectedメンテナンス.",
 					imageAlt: "Naraka Cheats undetected status overview for Windows PC",
@@ -13763,8 +13763,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				wallhack: {
-					title: "Naraka Wallhack | wallhack",
-					description: "Naraka Wallhack: プレイヤー、死体、距離向けwallhack ESP. 即時デジタル配信. undetected — Windows PC.",
+					title: "Naraka Wallhack | ESP Visibility",
+					description: "Naraka Wallhack for Naraka Bladepoint on Windows PC — プレイヤー、死体、距離向けwallhack ESP. 即時デジタル配信. undetected. Official naraka cheats at narakacheats.org.",
 					h1: "Naraka Wallhack",
 					intro: "Naraka CheatsはNaraka向けWindows PC用ESP wallhack、radar hack、Naraka Aimbotのundetectedパッケージです。Naraka Wallhack. プレイヤー、死体、距離向けwallhack ESP.",
 					imageAlt: "naraka wallhack visibility through walls in a match",
@@ -13801,8 +13801,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				radar: {
-					title: "Radar| 2D Threat Map | Naraka Cheats",
-					description: "2D radar hack for flank awareness on PC. Bundled with ESP wallhack & soft aim in one license. NEAC maintenance at narakacheats.org.",
+					title: "Radar | 2D Threat Map | Naraka Cheats",
+					description: "Radar for Naraka Bladepoint on Windows PC — 側面攻撃とローテーション向け2D radarキュー. 即時デジタル配信. Official naraka cheats at narakacheats.org. Windows PC license with NEAC",
 					h1: "Radar",
 					intro: "視界外の脅威向けシンプル2D radar。同じNaraka Cheatsライセンスに含まれます。",
 					imageAlt: "Naraka 2D radar overlay showing nearby threats",
@@ -13839,15 +13839,15 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				neac: {
-					title: "neac | neac",
-					description: "neac: neac. 即時デジタル配信. undetected — Windows PC.",
-					h1: "neac",
-					intro: "Naraka CheatsはNaraka向けWindows PC用ESP wallhack、radar hack、Naraka Aimbotのundetectedパッケージです。neac. neac.",
-					imageAlt: "neac — Naraka Cheats",
-					galleryTitle: "neac",
+					title: "NEAC Bypass | Patch Maintenance",
+					description: "NEAC Bypass for Naraka Bladepoint on Windows PC — Naraka cheats向けNEAC更新の対応方法. 即時デジタル配信. undetected. Official naraka cheats at narakacheats.org.",
+					h1: "NEAC Bypass",
+					intro: "Naraka CheatsはNaraka向けWindows PC用ESP wallhack、radar hack、Naraka Aimbotのundetectedパッケージです。NEAC Bypass. Naraka cheats向けNEAC更新の対応方法.",
+					imageAlt: "Naraka Cheats maintenance after a NEAC patch",
+					galleryTitle: "NEAC Bypass",
 					ctaPrimary: "Naraka Cheatsを購入",
 					ctaSecondary: "機能を見る",
-					ctaSecondaryHref: "/",
+					ctaSecondaryHref: "/updates/",
 					sections: [
 						{
 							h2: "NEAC overview",
@@ -13876,7 +13876,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "HWID bans, spoofers, and what we do not sell",
 							paragraphs: [
-								"Naraka CheatsはNaraka向けWindows PC用ESP wallhack、radar hack、Naraka Aimbotのundetectedパッケージです。neac",
+								"Naraka CheatsはNaraka向けWindows PC用ESP wallhack、radar hack、Naraka Aimbotのundetectedパッケージです。Naraka cheats向けNEAC更新の対応方法",
 								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/naraka-neac-bypass/\">NEAC FAQ</a> before buying anywhere.",
 								"NEACパッチ後はUpdatesページを確認。永久undetectedは保証されません。",
 							],
@@ -13884,7 +13884,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "External architecture, stream proofing, and patch-day checklist",
 							paragraphs: [
-								"Naraka CheatsはNaraka向けWindows PC用ESP wallhack、radar hack、Naraka Aimbotのundetectedパッケージです。neac",
+								"Naraka CheatsはNaraka向けWindows PC用ESP wallhack、radar hack、Naraka Aimbotのundetectedパッケージです。Naraka cheats向けNEAC更新の対応方法",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">Undetectedチートガイド</a>, (2) confirm NEAC notes on <a href=\"/neac-bypass/\">NEACメンテナンス</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
 								"Deep dives: <a href=\"/undetected-naraka-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-naraka-cheats-eac/\">NEAC reality blog</a> · <a href=\"/naraka-cheats/\">Naraka Cheats概要</a>.",
 							],
@@ -13893,8 +13893,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot.webp",
 				},
 				"cheats-2026": {
-					title: "Naraka Cheats 2026 | cheats-2026",
-					description: "Naraka Cheats 2026: checkout前の2026 naraka cheatsチェックリスト. 即時デジタル配信. undetected — Windows PC.",
+					title: "Naraka Cheats 2026 | Buyer Guide",
+					description: "Naraka Cheats 2026 for Naraka Bladepoint on Windows PC — checkout前の2026 naraka cheatsチェックリスト. 即時デジタル配信. undetected. Official naraka cheats at narakacheats.org.",
 					h1: "Naraka Cheats 2026",
 					intro: "Naraka CheatsはNaraka向けWindows PC用ESP wallhack、radar hack、Naraka Aimbotのundetectedパッケージです。Naraka Cheats 2026. checkout前の2026 naraka cheatsチェックリスト.",
 					imageAlt: "Naraka Cheats product overview for Naraka",
@@ -13931,7 +13931,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Episode 10+ and ranked meta in 2026",
 							paragraphs: [
 								"2026 ranked play rewards information speed — ESP hero markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/naraka-aimbot/\">Aimbot・Soft aim</a> and ESP toggles.",
-								"Compare against <a href=\"/best-naraka-cheats/\">best naraka cheats</a> criteria and <a href=\"/undetected-naraka-cheats/\">undetected maintenance</a> before switching shops mid-season.",
+								"Compare against <a href=\"/\">製品全体</a> criteria and <a href=\"/undetected-naraka-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/naraka-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/naraka-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
 						},
@@ -13939,8 +13939,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				hacks: {
-					title: "Naraka Cheats — 完全ガイド| ESP, Aimbot & Wallhack",
-					description: "Naraka cheats guide — undetected ESP wallhack, soft aim, radar & NEAC rebuilds on PC. Compare features & buy from $35 at narakacheats.org.",
+					title: "Naraka Cheats — 完全ガイド | ESP, Aimbot & Wallhack",
+					description: "Naraka Cheats — 完全ガイド for Naraka Bladepoint on Windows PC — ESPとAimbotのNaraka Cheats柱. 即時デジタル配信. Official naraka cheats at narakacheats.org.",
 					h1: "Naraka Cheats — 完全ガイド",
 					intro: "NarakaチートはベースゲームにESP、radar、soft aimを追加します。このページではnaraka cheatsの概要、Naraka Cheatsの内容、NEACメンテナンス、購入前の確認先を説明します。",
 					imageAlt: "Naraka Cheats overview — ESP, aimbot, and radar for Naraka",
@@ -14012,8 +14012,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-combat.webp",
 				},
 				"cheat-download": {
-					title: "Naraka Cheat Download | cheat-download",
-					description: "Naraka Cheat Download: 支払い後のデジタルライセンスダウンロード. 即時デジタル配信. undetected — Windows PC.",
+					title: "Naraka Cheat Download | Instant Access",
+					description: "Naraka Cheat Download for Naraka Bladepoint on Windows PC — 支払い後のデジタルライセンスダウンロード. 即時デジタル配信. undetected. Official naraka cheats at narakacheats.org.",
 					h1: "Naraka Cheat Download",
 					intro: "Naraka CheatsはNaraka向けWindows PC用ESP wallhack、radar hack、Naraka Aimbotのundetectedパッケージです。Naraka Cheat Download. 支払い後のデジタルライセンスダウンロード.",
 					imageAlt: "Naraka Cheats download and install delivery flow",
@@ -14050,8 +14050,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				"mod-menu": {
-					title: "Naraka Mod Menu | mod-menu",
-					description: "Naraka Mod Menu: クライアント内ESPとsoft aimトグル. 即時デジタル配信. undetected — Windows PC.",
+					title: "Naraka Mod Menu | In-Game Toggles",
+					description: "Naraka Mod Menu for Naraka Bladepoint on Windows PC — クライアント内ESPとsoft aimトグル. 即時デジタル配信. undetected. Official naraka cheats at narakacheats.org.",
 					h1: "Naraka Mod Menu",
 					intro: "Naraka CheatsはNaraka向けWindows PC用ESP wallhack、radar hack、Naraka Aimbotのundetectedパッケージです。Naraka Mod Menu. クライアント内ESPとsoft aimトグル.",
 					imageAlt: "Naraka Cheats in-game menu controls",
@@ -14088,8 +14088,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				"soft-aim": {
-					title: "Naraka Soft Aim | soft-aim",
-					description: "Naraka Soft Aim: Windows PC向けスムーズなsoft aim設定. 即時デジタル配信. undetected — Windows PC.",
+					title: "Naraka Soft Aim | Smooth Aim Settings",
+					description: "Naraka Soft Aim for Naraka Bladepoint on Windows PC — Windows PC向けスムーズなsoft aim設定. 即時デジタル配信. undetected. Official naraka cheats at narakacheats.org.",
 					h1: "Naraka Soft Aim",
 					intro: "Naraka CheatsはNaraka向けWindows PC用ESP wallhack、radar hack、Naraka Aimbotのundetectedパッケージです。Naraka Soft Aim. Windows PC向けスムーズなsoft aim設定.",
 					imageAlt: "Naraka soft aim FOV and smoothness settings",
@@ -14126,8 +14126,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				"best-cheats": {
-					title: "最強Narakaチート | best-cheats",
-					description: "最強Narakaチート: naraka cheats購入前に比較すべき点. 即時デジタル配信. undetected — Windows PC.",
+					title: "最強Narakaチート | Buyer Checklist",
+					description: "最強Narakaチート for Naraka Bladepoint on Windows PC — naraka cheats購入前に比較すべき点. 即時デジタル配信. undetected. Official naraka cheats at narakacheats.org.",
 					h1: "最強Narakaチート",
 					intro: "Naraka CheatsはNaraka向けWindows PC用ESP wallhack、radar hack、Naraka Aimbotのundetectedパッケージです。最強Narakaチート. naraka cheats購入前に比較すべき点.",
 					imageAlt: "Naraka Cheats overview for Naraka on PC",
@@ -14172,8 +14172,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				"aimbot-hack": {
-					title: "Naraka Aimbot Hack | aimbot-hack",
-					description: "Naraka Aimbot Hack: Naraka向けundetected Aimbot hack assist. 即時デジタル配信. undetected — Windows PC.",
+					title: "Naraka Aimbot Hack | Soft Aim Assist",
+					description: "Naraka Aimbot Hack for Naraka Bladepoint on Windows PC — Naraka向けundetected Aimbot hack assist. 即時デジタル配信. undetected. Official naraka cheats at",
 					h1: "Naraka Aimbot Hack",
 					intro: "Naraka CheatsはNaraka向けWindows PC用ESP wallhack、radar hack、Naraka Aimbotのundetectedパッケージです。Naraka Aimbot Hack. Naraka向けundetected Aimbot hack assist.",
 					imageAlt: "Naraka Aimbot hack controls and bone priority",
@@ -14210,8 +14210,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				"esp-hack": {
-					title: "Naraka ESP Hack | esp-hack",
-					description: "Naraka ESP Hack: ESP hackボックス、死体pin、距離. 即時デジタル配信. undetected — Windows PC.",
+					title: "Naraka ESP Hack | Boxes & Loot",
+					description: "Naraka ESP Hack for Naraka Bladepoint on Windows PC — ESP hackボックス、死体pin、距離. 即時デジタル配信. undetected. Official naraka cheats at narakacheats.org.",
 					h1: "Naraka ESP Hack",
 					intro: "Naraka CheatsはNaraka向けWindows PC用ESP wallhack、radar hack、Naraka Aimbotのundetectedパッケージです。Naraka ESP Hack. ESP hackボックス、死体pin、距離.",
 					imageAlt: "Naraka ESP hack boxes and hero markers",
@@ -14248,8 +14248,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				"unlock-all": {
-					title: "Naraka Unlock All | unlock-all",
-					description: "Naraka Unlock All: unlock-all検索 vs 本物のESPとAimbotツール. 即時デジタル配信. undetected — Windows PC.",
+					title: "Naraka Unlock All | What It Means",
+					description: "Naraka Unlock All for Naraka Bladepoint on Windows PC — unlock-all検索 vs 本物のESPとAimbotツール. 即時デジタル配信. undetected. Official naraka cheats at narakacheats.org.",
 					h1: "Naraka Unlock All",
 					intro: "Naraka CheatsはNaraka向けWindows PC用ESP wallhack、radar hack、Naraka Aimbotのundetectedパッケージです。Naraka Unlock All. unlock-all検索 vs 本物のESPとAimbotツール.",
 					imageAlt: "Naraka Cheats license features overview",
@@ -14287,7 +14287,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "プライバシーポリシー | Naraka Cheats",
-					description: "プライバシーポリシー Naraka Cheats — ESP wallhack、Aimbot向け, Windows PC.",
+					description: "プライバシーポリシー Naraka Cheats — ESP wallhack、Aimbot向け, Windows PC. Compare plans and guides at narakacheats.org.",
 					h1: "プライバシーポリシー",
 					intro: "Naraka CheatsはNaraka向けWindows PC用ESP wallhack、radar hack、Naraka Aimbotのundetectedパッケージです。プライバシーポリシー narakacheats.orgおよびNarakaライセンス向け。",
 					imageAlt: "Naraka Cheats",
@@ -14322,7 +14322,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				refund: {
 					title: "返金ポリシー | Naraka Cheats",
-					description: "返金ポリシー Naraka Cheats — ESP wallhack、Aimbot向け, Windows PC.",
+					description: "返金ポリシー Naraka Cheats — ESP wallhack、Aimbot向け, Windows PC. Compare plans and guides at narakacheats.org.",
 					h1: "返金ポリシー",
 					intro: "Naraka CheatsはNaraka向けWindows PC用ESP wallhack、radar hack、Naraka Aimbotのundetectedパッケージです。返金ポリシー narakacheats.orgおよびNarakaライセンス向け。",
 					imageAlt: "Naraka Cheats",
@@ -14357,7 +14357,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				terms: {
 					title: "利用規約 | Naraka Cheats",
-					description: "利用規約 Naraka Cheats — ESP wallhack、Aimbot向け, Windows PC.",
+					description: "利用規約 Naraka Cheats — ESP wallhack、Aimbot向け, Windows PC. Compare plans and guides at narakacheats.org.",
 					h1: "利用規約",
 					intro: "Naraka CheatsはNaraka向けWindows PC用ESP wallhack、radar hack、Naraka Aimbotのundetectedパッケージです。利用規約 narakacheats.orgおよびNarakaライセンス向け。",
 					imageAlt: "Naraka Cheats",
@@ -14467,7 +14467,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Naraka Cheats 2026 | ESP, Wallhack, Aimbot",
-					description: "Naraka undetected 치트. ESP wallhack, radar hack, Aimbot, NEAC 유지보수. 즉시 디지털 배송.",
+					description: "Naraka undetected 치트. ESP wallhack, radar hack, Aimbot, NEAC 유지보수. 즉시 디지털 배송. Compare plans and guides at narakacheats.org.",
 					h1: "Naraka용 undetected 핵",
 					intro: "Naraka Windows PC undetected 패키지: ESP wallhack, radar, Aimbot, NEAC 유지보수 포함.",
 					imageAlt: "naraka cheats hero ESP aimbot wallhack",
@@ -14494,8 +14494,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				"naraka-esp": {
-					title: "ESP| Wallhack & Player Boxes | Naraka Cheats",
-					description: "Naraka ESP wallhack — player boxes, hero markers & distance tags on PC. Undetected naraka cheats with aimbot & radar. Shop at narakacheats.org.",
+					title: "ESP | Wallhack & Player Boxes | Naraka Cheats",
+					description: "ESP for Naraka Bladepoint on Windows PC — 플레이어 박스, 시체 마커, wallhack 오버레이. 즉시 디지털 배송. Official naraka cheats at narakacheats.org. Windows PC license with NEAC",
 					h1: "ESP",
 					intro: "Naraka 레이드 중 벽 너머로 플레이어와 loot를 확인하세요. 동일 Naraka Cheats 라이선스에 포함됩니다.",
 					imageAlt: "Naraka ESP player boxes and distance readouts in a match",
@@ -14544,8 +14544,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				"naraka-aimbot": {
-					title: "Aimbot| Soft Aim & FOV Settings | Naraka Cheats",
-					description: "Naraka aimbot with soft aim, FOV, bone priority & hotkeys on PC. Undetected Naraka Cheats with ESP & radar included. narakacheats.org.",
+					title: "Aimbot | Soft Aim & FOV Settings | Naraka Cheats",
+					description: "Aimbot for Naraka Bladepoint on Windows PC — soft aim, FOV, 종별 Aimbot 프로필. 즉시 디지털 배송. Official naraka cheats at narakacheats.org. Windows PC license with NEAC",
 					h1: "Aimbot",
 					intro: "Naraka용으로 조절 가능한 soft aim 및 에임 보조. 동일 Naraka Cheats 라이선스에 포함.",
 					imageAlt: "Naraka Aimbot and soft aim controls on Windows PC",
@@ -14595,7 +14595,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "기능 2026 | ESP, Aimbot & Radar | Naraka Cheats",
-					description: "Naraka Cheats는 Naraka Windows PC용 ESP wallhack, radar hack, Naraka Aimbot undetected 패키지입니다. ESP, soft aim, radar 컨트롤",
+					description: "기능: ESP, soft aim, radar 컨트롤. 즉시 디지털 배송. undetected. Compare plans and guides at narakacheats.org.",
 					h1: "기능",
 					intro: "Naraka Cheats는 Naraka Windows PC용 ESP wallhack, radar hack, Naraka Aimbot undetected 패키지입니다. 기능 für Naraka auf Windows PC.",
 					imageAlt: "Naraka Cheats features — ESP, soft aim, and radar screenshots",
@@ -14673,8 +14673,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				pricing: {
-					title: "스토어| $35/mo or $150 Lifetime",
-					description: "Buy Naraka cheats at narakacheats.org — $35/month or $150 lifetime. ESP, aimbot & radar on PC. Same features, instant delivery.",
+					title: "스토어 | $35/mo or $150 Lifetime",
+					description: "스토어 for Naraka Bladepoint on Windows PC — 월 $35 또는 lifetime $150 라이선스. 즉시 디지털 배송. Official naraka cheats at narakacheats.org. Windows PC license with NEAC",
 					h1: "스토어",
 					intro: "Naraka Cheats는 Naraka Windows PC용 ESP wallhack, radar hack, Naraka Aimbot undetected 패키지입니다. 스토어 — $35/월 y $150 평생.",
 					imageAlt: "Naraka Cheats store plans for monthly and lifetime licenses",
@@ -14723,8 +14723,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				setup: {
-					title: "설치| Windows PC Install Guide",
-					description: "Install Naraka Cheats on PC — activate ESP, soft aim & radar step by step. Setup guide at narakacheats.org. Check NEAC status first.",
+					title: "설치 | Windows PC Install",
+					description: "설치 for Naraka Bladepoint on Windows PC — Windows PC 활성화 및 첫 실행 설정. 즉시 디지털 배송. Official naraka cheats at narakacheats.org. Windows PC license with NEAC",
 					h1: "설치",
 					intro: "첫 레이드 전 Windows 10 또는 11에서 라이선스를 설치하고 활성화하세요.",
 					imageAlt: "Naraka Cheats setup guide screenshot for Windows PC",
@@ -14773,8 +14773,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				updates: {
-					title: "상태| NEAC Updates | Naraka Cheats",
-					description: "Live status after Naraka & NEAC patches. Check undetected ESP, aimbot & radar rebuilds on PC before you queue. narakacheats.org.",
+					title: "상태 | NEAC Updates | Naraka Cheats",
+					description: "상태 for Naraka Bladepoint on Windows PC — NEAC 패치 상태 및 rebuild 메모. 즉시 디지털 배송. Official naraka cheats at narakacheats.org. Windows PC license with NEAC",
 					h1: "상태",
 					intro: "NEAC 패치 후 Updates 페이지 확인. 영구 undetected 보장 없음.",
 					imageAlt: "Naraka Cheats live status after NEAC and game patches",
@@ -14822,8 +14822,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				faq: {
-					title: "FAQ| ESP, Aimbot & NEAC",
-					description: "FAQ for naraka cheats — delivery, setup, undetected status, NEAC updates & pricing on PC. Answers at narakacheats.org before you buy.",
+					title: "FAQ | ESP, Aimbot & NEAC",
+					description: "FAQ for Naraka Bladepoint on Windows PC — ESP, soft aim, 배송, NEAC 질문. 즉시 디지털 배송. Official naraka cheats at narakacheats.org. Windows PC license with NEAC",
 					h1: "FAQ",
 					intro: "Naraka Cheats FAQ — 배송, 설치, 업데이트, 환불.",
 					imageAlt: "Naraka Cheats FAQ — delivery, setup, and update answers",
@@ -14870,8 +14870,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				support: {
-					title: "지원| License & Setup Help",
-					description: "Support for license delivery, ESP setup & billing on PC. Email support@narakacheats.org with your order ID. narakacheats.org/support.",
+					title: "지원 | License & Setup Help",
+					description: "지원 for Naraka Bladepoint on Windows PC — 주문 도움 및 라이선스 지원 연락처. 즉시 디지털 배송. Official naraka cheats at narakacheats.org. Windows PC license with NEAC maintenance",
 					h1: "지원",
 					intro: "Windows PC Naraka Cheats 라이선스, 설치, 결제 지원.",
 					imageAlt: "Naraka Cheats support page for license and setup help",
@@ -14908,8 +14908,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				undetected: {
-					title: "Undetected 치트 | undetected",
-					description: "Undetected 치트: NEAC 패치 후 undetected 유지보수. 즉시 디지털 배송. undetected — Windows PC.",
+					title: "Undetected 치트 | NEAC Safe Status",
+					description: "Undetected 치트 for Naraka Bladepoint on Windows PC — NEAC 패치 후 undetected 유지보수. 즉시 디지털 배송. undetected. Official naraka cheats at narakacheats.org.",
 					h1: "Undetected 치트",
 					intro: "Naraka Cheats는 Naraka Windows PC용 ESP wallhack, radar hack, Naraka Aimbot undetected 패키지입니다. Undetected 치트. NEAC 패치 후 undetected 유지보수.",
 					imageAlt: "Naraka Cheats undetected status overview for Windows PC",
@@ -14954,8 +14954,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				wallhack: {
-					title: "Naraka Wallhack | wallhack",
-					description: "Naraka Wallhack: 플레이어, 시체, 거리용 wallhack ESP. 즉시 디지털 배송. undetected — Windows PC.",
+					title: "Naraka Wallhack | ESP Visibility",
+					description: "Naraka Wallhack for Naraka Bladepoint on Windows PC — 플레이어, 시체, 거리용 wallhack ESP. 즉시 디지털 배송. undetected. Official naraka cheats at narakacheats.org.",
 					h1: "Naraka Wallhack",
 					intro: "Naraka Cheats는 Naraka Windows PC용 ESP wallhack, radar hack, Naraka Aimbot undetected 패키지입니다. Naraka Wallhack. 플레이어, 시체, 거리용 wallhack ESP.",
 					imageAlt: "naraka wallhack visibility through walls in a match",
@@ -14992,8 +14992,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				radar: {
-					title: "Radar| 2D Threat Map | Naraka Cheats",
-					description: "2D radar hack for flank awareness on PC. Bundled with ESP wallhack & soft aim in one license. NEAC maintenance at narakacheats.org.",
+					title: "Radar | 2D Threat Map | Naraka Cheats",
+					description: "Radar for Naraka Bladepoint on Windows PC — 측면 공격과 로테이션용 2D radar 신호. 즉시 디지털 배송. Official naraka cheats at narakacheats.org. Windows PC license with NEAC",
 					h1: "Radar",
 					intro: "시야 밖 위협을 위한 간단한 2D radar. 동일 Naraka Cheats 라이선스에 포함.",
 					imageAlt: "Naraka 2D radar overlay showing nearby threats",
@@ -15030,15 +15030,15 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				neac: {
-					title: "neac | neac",
-					description: "neac: neac. 즉시 디지털 배송. undetected — Windows PC.",
-					h1: "neac",
-					intro: "Naraka Cheats는 Naraka Windows PC용 ESP wallhack, radar hack, Naraka Aimbot undetected 패키지입니다. neac. neac.",
-					imageAlt: "neac — Naraka Cheats",
-					galleryTitle: "neac",
+					title: "NEAC Bypass | Patch Maintenance",
+					description: "NEAC Bypass for Naraka Bladepoint on Windows PC — Naraka cheats용 NEAC 업데이트 처리 방법. 즉시 디지털 배송. undetected. Official naraka cheats at narakacheats.org.",
+					h1: "NEAC Bypass",
+					intro: "Naraka Cheats는 Naraka Windows PC용 ESP wallhack, radar hack, Naraka Aimbot undetected 패키지입니다. NEAC Bypass. Naraka cheats용 NEAC 업데이트 처리 방법.",
+					imageAlt: "Naraka Cheats maintenance after a NEAC patch",
+					galleryTitle: "NEAC Bypass",
 					ctaPrimary: "Naraka Cheats 구매",
 					ctaSecondary: "기능 보기",
-					ctaSecondaryHref: "/",
+					ctaSecondaryHref: "/updates/",
 					sections: [
 						{
 							h2: "NEAC overview",
@@ -15067,7 +15067,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "HWID bans, spoofers, and what we do not sell",
 							paragraphs: [
-								"Naraka Cheats는 Naraka Windows PC용 ESP wallhack, radar hack, Naraka Aimbot undetected 패키지입니다. neac",
+								"Naraka Cheats는 Naraka Windows PC용 ESP wallhack, radar hack, Naraka Aimbot undetected 패키지입니다. Naraka cheats용 NEAC 업데이트 처리 방법",
 								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/naraka-neac-bypass/\">NEAC FAQ</a> before buying anywhere.",
 								"NEAC 패치 후 Updates 페이지 확인. 영구 undetected 보장 없음.",
 							],
@@ -15075,7 +15075,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "External architecture, stream proofing, and patch-day checklist",
 							paragraphs: [
-								"Naraka Cheats는 Naraka Windows PC용 ESP wallhack, radar hack, Naraka Aimbot undetected 패키지입니다. neac",
+								"Naraka Cheats는 Naraka Windows PC용 ESP wallhack, radar hack, Naraka Aimbot undetected 패키지입니다. Naraka cheats용 NEAC 업데이트 처리 방법",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">Undetected 치트 가이드</a>, (2) confirm NEAC notes on <a href=\"/neac-bypass/\">NEAC 유지보수</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
 								"Deep dives: <a href=\"/undetected-naraka-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-naraka-cheats-eac/\">NEAC reality blog</a> · <a href=\"/naraka-cheats/\">Naraka Cheats 개요</a>.",
 							],
@@ -15084,8 +15084,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot.webp",
 				},
 				"cheats-2026": {
-					title: "Naraka Cheats 2026 | cheats-2026",
-					description: "Naraka Cheats 2026: checkout 전 2026 naraka cheats 체크리스트. 즉시 디지털 배송. undetected — Windows PC.",
+					title: "Naraka Cheats 2026 | Buyer Guide",
+					description: "Naraka Cheats 2026 for Naraka Bladepoint on Windows PC — checkout 전 2026 naraka cheats 체크리스트. 즉시 디지털 배송. undetected. Official naraka cheats at narakacheats.org.",
 					h1: "Naraka Cheats 2026",
 					intro: "Naraka Cheats는 Naraka Windows PC용 ESP wallhack, radar hack, Naraka Aimbot undetected 패키지입니다. Naraka Cheats 2026. checkout 전 2026 naraka cheats 체크리스트.",
 					imageAlt: "Naraka Cheats product overview for Naraka",
@@ -15122,7 +15122,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Episode 10+ and ranked meta in 2026",
 							paragraphs: [
 								"2026 ranked play rewards information speed — ESP hero markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/naraka-aimbot/\">Aimbot 및 soft aim</a> and ESP toggles.",
-								"Compare against <a href=\"/best-naraka-cheats/\">best naraka cheats</a> criteria and <a href=\"/undetected-naraka-cheats/\">undetected maintenance</a> before switching shops mid-season.",
+								"Compare against <a href=\"/\">전체 제품</a> criteria and <a href=\"/undetected-naraka-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/naraka-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/naraka-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
 						},
@@ -15130,8 +15130,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				hacks: {
-					title: "Naraka Cheats — 전체 가이드| ESP, Aimbot & Wallhack",
-					description: "Naraka cheats guide — undetected ESP wallhack, soft aim, radar & NEAC rebuilds on PC. Compare features & buy from $35 at narakacheats.org.",
+					title: "Naraka Cheats — 전체 가이드 | ESP, Aimbot & Wallhack",
+					description: "Naraka Cheats — 전체 가이드 for Naraka Bladepoint on Windows PC — ESP와 Aimbot을 위한 Naraka Cheats 기둥. 즉시 디지털 배송. Official naraka cheats at narakacheats.org.",
 					h1: "Naraka Cheats — 전체 가이드",
 					intro: "Naraka 치트는 기본 게임 위에 ESP, radar, soft aim을 추가합니다. 이 페이지는 naraka cheats란, Naraka Cheats 포함 사항, NEAC 유지보수, 구매 전 확인할 곳을 설명합니다.",
 					imageAlt: "Naraka Cheats overview — ESP, aimbot, and radar for Naraka",
@@ -15203,8 +15203,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-combat.webp",
 				},
 				"cheat-download": {
-					title: "Naraka Cheat Download | cheat-download",
-					description: "Naraka Cheat Download: 결제 후 디지털 라이선스 다운로드. 즉시 디지털 배송. undetected — Windows PC.",
+					title: "Naraka Cheat Download | Instant Access",
+					description: "Naraka Cheat Download for Naraka Bladepoint on Windows PC — 결제 후 디지털 라이선스 다운로드. 즉시 디지털 배송. undetected. Official naraka cheats at narakacheats.org.",
 					h1: "Naraka Cheat Download",
 					intro: "Naraka Cheats는 Naraka Windows PC용 ESP wallhack, radar hack, Naraka Aimbot undetected 패키지입니다. Naraka Cheat Download. 결제 후 디지털 라이선스 다운로드.",
 					imageAlt: "Naraka Cheats download and install delivery flow",
@@ -15241,8 +15241,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				"mod-menu": {
-					title: "Naraka 모드 메뉴 | mod-menu",
-					description: "Naraka 모드 메뉴: 클라이언트 내 ESP 및 soft aim 토글. 즉시 디지털 배송. undetected — Windows PC.",
+					title: "Naraka 모드 메뉴 | In-Game Toggles",
+					description: "Naraka 모드 메뉴 for Naraka Bladepoint on Windows PC — 클라이언트 내 ESP 및 soft aim 토글. 즉시 디지털 배송. undetected. Official naraka cheats at narakacheats.org.",
 					h1: "Naraka 모드 메뉴",
 					intro: "Naraka Cheats는 Naraka Windows PC용 ESP wallhack, radar hack, Naraka Aimbot undetected 패키지입니다. Naraka 모드 메뉴. 클라이언트 내 ESP 및 soft aim 토글.",
 					imageAlt: "Naraka Cheats in-game menu controls",
@@ -15279,8 +15279,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				"soft-aim": {
-					title: "Naraka Soft Aim | soft-aim",
-					description: "Naraka Soft Aim: Windows PC용 부드러운 soft aim 설정. 즉시 디지털 배송. undetected — Windows PC.",
+					title: "Naraka Soft Aim | Smooth Aim Settings",
+					description: "Naraka Soft Aim for Naraka Bladepoint on Windows PC — Windows PC용 부드러운 soft aim 설정. 즉시 디지털 배송. undetected. Official naraka cheats at narakacheats.org.",
 					h1: "Naraka Soft Aim",
 					intro: "Naraka Cheats는 Naraka Windows PC용 ESP wallhack, radar hack, Naraka Aimbot undetected 패키지입니다. Naraka Soft Aim. Windows PC용 부드러운 soft aim 설정.",
 					imageAlt: "Naraka soft aim FOV and smoothness settings",
@@ -15317,8 +15317,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				"best-cheats": {
-					title: "최고의 Naraka 치트 | best-cheats",
-					description: "최고의 Naraka 치트: naraka cheats 구매 전 비교할 항목. 즉시 디지털 배송. undetected — Windows PC.",
+					title: "최고의 Naraka 치트 | Buyer Checklist",
+					description: "최고의 Naraka 치트 for Naraka Bladepoint on Windows PC — naraka cheats 구매 전 비교할 항목. 즉시 디지털 배송. undetected. Official naraka cheats at narakacheats.org.",
 					h1: "최고의 Naraka 치트",
 					intro: "Naraka Cheats는 Naraka Windows PC용 ESP wallhack, radar hack, Naraka Aimbot undetected 패키지입니다. 최고의 Naraka 치트. naraka cheats 구매 전 비교할 항목.",
 					imageAlt: "Naraka Cheats overview for Naraka on PC",
@@ -15363,8 +15363,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				"aimbot-hack": {
-					title: "Naraka 에임봇 핵 | aimbot-hack",
-					description: "Naraka 에임봇 핵: Naraka용 undetected Aimbot hack assist. 즉시 디지털 배송. undetected — Windows PC.",
+					title: "Naraka 에임봇 핵 | Soft Aim Assist",
+					description: "Naraka 에임봇 핵 for Naraka Bladepoint on Windows PC — Naraka용 undetected Aimbot hack assist. 즉시 디지털 배송. undetected. Official naraka cheats at narakacheats.org.",
 					h1: "Naraka 에임봇 핵",
 					intro: "Naraka Cheats는 Naraka Windows PC용 ESP wallhack, radar hack, Naraka Aimbot undetected 패키지입니다. Naraka 에임봇 핵. Naraka용 undetected Aimbot hack assist.",
 					imageAlt: "Naraka Aimbot hack controls and bone priority",
@@ -15401,8 +15401,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				"esp-hack": {
-					title: "Naraka ESP 핵 | esp-hack",
-					description: "Naraka ESP 핵: ESP hack 박스, 시체 pin, 거리. 즉시 디지털 배송. undetected — Windows PC.",
+					title: "Naraka ESP 핵 | Boxes & Loot",
+					description: "Naraka ESP 핵 for Naraka Bladepoint on Windows PC — ESP hack 박스, 시체 pin, 거리. 즉시 디지털 배송. undetected. Official naraka cheats at narakacheats.org.",
 					h1: "Naraka ESP 핵",
 					intro: "Naraka Cheats는 Naraka Windows PC용 ESP wallhack, radar hack, Naraka Aimbot undetected 패키지입니다. Naraka ESP 핵. ESP hack 박스, 시체 pin, 거리.",
 					imageAlt: "Naraka ESP hack boxes and hero markers",
@@ -15439,8 +15439,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				"unlock-all": {
-					title: "Naraka Unlock All | unlock-all",
-					description: "Naraka Unlock All: unlock-all 검색 vs 실제 ESP 및 Aimbot 도구. 즉시 디지털 배송. undetected — Windows PC.",
+					title: "Naraka Unlock All | What It Means",
+					description: "Naraka Unlock All for Naraka Bladepoint on Windows PC — unlock-all 검색 vs 실제 ESP 및 Aimbot 도구. 즉시 디지털 배송. undetected. Official naraka cheats at narakacheats.org.",
 					h1: "Naraka Unlock All",
 					intro: "Naraka Cheats는 Naraka Windows PC용 ESP wallhack, radar hack, Naraka Aimbot undetected 패키지입니다. Naraka Unlock All. unlock-all 검색 vs 실제 ESP 및 Aimbot 도구.",
 					imageAlt: "Naraka Cheats license features overview",
@@ -15478,7 +15478,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "개인정보 처리방침 | Naraka Cheats",
-					description: "개인정보 처리방침 Naraka Cheats — ESP wallhack, Aimbot용, Windows PC.",
+					description: "개인정보 처리방침 Naraka Cheats — ESP wallhack, Aimbot용, Windows PC. Compare plans and guides at narakacheats.org.",
 					h1: "개인정보 처리방침",
 					intro: "Naraka Cheats는 Naraka Windows PC용 ESP wallhack, radar hack, Naraka Aimbot undetected 패키지입니다. 개인정보 처리방침 narakacheats.org 및 Naraka 라이선스용.",
 					imageAlt: "Naraka Cheats",
@@ -15513,7 +15513,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				refund: {
 					title: "환불 정책 | Naraka Cheats",
-					description: "환불 정책 Naraka Cheats — ESP wallhack, Aimbot용, Windows PC.",
+					description: "환불 정책 Naraka Cheats — ESP wallhack, Aimbot용, Windows PC. Compare plans and guides at narakacheats.org.",
 					h1: "환불 정책",
 					intro: "Naraka Cheats는 Naraka Windows PC용 ESP wallhack, radar hack, Naraka Aimbot undetected 패키지입니다. 환불 정책 narakacheats.org 및 Naraka 라이선스용.",
 					imageAlt: "Naraka Cheats",
@@ -15548,7 +15548,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				terms: {
 					title: "이용 약관 | Naraka Cheats",
-					description: "이용 약관 Naraka Cheats — ESP wallhack, Aimbot용, Windows PC.",
+					description: "이용 약관 Naraka Cheats — ESP wallhack, Aimbot용, Windows PC. Compare plans and guides at narakacheats.org.",
 					h1: "이용 약관",
 					intro: "Naraka Cheats는 Naraka Windows PC용 ESP wallhack, radar hack, Naraka Aimbot undetected 패키지입니다. 이용 약관 narakacheats.org 및 Naraka 라이선스용.",
 					imageAlt: "Naraka Cheats",
@@ -15658,7 +15658,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Naraka Cheats 2026 | ESP、Wallhack、Aimbot",
-					description: "Naraka undetected作弊。ESP wallhack、radar hack、Aimbot、NEAC维护。即时数字交付。",
+					description: "Naraka undetected作弊。ESP wallhack、radar hack、Aimbot、NEAC维护。即时数字交付。. Compare plans and guides at narakacheats.org.",
 					h1: "Naraka的undetected外挂",
 					intro: "Naraka Windows PC undetected套餐：ESP wallhack、radar、Aimbot，含NEAC维护。",
 					imageAlt: "naraka cheats hero ESP aimbot wallhack",
@@ -15685,8 +15685,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				"naraka-esp": {
-					title: "ESP| Wallhack & Player Boxes | Naraka Cheats",
-					description: "Naraka ESP wallhack — player boxes, hero markers & distance tags on PC. Undetected naraka cheats with aimbot & radar. Shop at narakacheats.org.",
+					title: "ESP | Wallhack & Player Boxes | Naraka Cheats",
+					description: "ESP for Naraka Bladepoint on Windows PC — 玩家方框、尸体标记和wallhack overlay. 即时数字交付. Official naraka cheats at narakacheats.org. Windows PC license with NEAC",
 					h1: "ESP",
 					intro: "在 Naraka match 中透视玩家和物资。包含在同一 Naraka Cheats 许可证中。",
 					imageAlt: "Naraka ESP player boxes and distance readouts in a match",
@@ -15735,8 +15735,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				"naraka-aimbot": {
-					title: "Aimbot| Soft Aim & FOV Settings | Naraka Cheats",
-					description: "Naraka aimbot with soft aim, FOV, bone priority & hotkeys on PC. Undetected Naraka Cheats with ESP & radar included. narakacheats.org.",
+					title: "Aimbot | Soft Aim & FOV Settings | Naraka Cheats",
+					description: "Aimbot for Naraka Bladepoint on Windows PC — soft aim、FOV和按物种的Aimbot配置. 即时数字交付. Official naraka cheats at narakacheats.org. Windows PC license with NEAC",
 					h1: "Aimbot",
 					intro: "可为 Naraka 调节的 soft aim 和瞄准辅助。包含在同一 Naraka Cheats 许可证中。",
 					imageAlt: "Naraka Aimbot and soft aim controls on Windows PC",
@@ -15786,7 +15786,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "功能 2026 | ESP, Aimbot & Radar | Naraka Cheats",
-					description: "Naraka Cheats为NarakaWindows PC提供ESP wallhack、radar hack和Naraka Aimbotundetected套餐。ESP、soft aim、radar控制",
+					description: "功能: ESP、soft aim、radar控制. 即时数字交付. undetected. Compare plans and guides at narakacheats.org.",
 					h1: "功能",
 					intro: "Naraka Cheats为NarakaWindows PC提供ESP wallhack、radar hack和Naraka Aimbotundetected套餐。功能 für Naraka auf Windows PC.",
 					imageAlt: "Naraka Cheats features — ESP, soft aim, and radar screenshots",
@@ -15864,8 +15864,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				pricing: {
-					title: "商店| $35/mo or $150 Lifetime",
-					description: "Buy Naraka cheats at narakacheats.org — $35/month or $150 lifetime. ESP, aimbot & radar on PC. Same features, instant delivery.",
+					title: "商店 | $35/mo or $150 Lifetime",
+					description: "商店 for Naraka Bladepoint on Windows PC — 月付$35或lifetime $150许可证. 即时数字交付. Official naraka cheats at narakacheats.org. Windows PC license with NEAC maintenance",
 					h1: "商店",
 					intro: "Naraka Cheats为NarakaWindows PC提供ESP wallhack、radar hack和Naraka Aimbotundetected套餐。商店 — $35/月 y $150终身.",
 					imageAlt: "Naraka Cheats store plans for monthly and lifetime licenses",
@@ -15914,8 +15914,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				setup: {
-					title: "安装| Windows PC Install Guide",
-					description: "Install Naraka Cheats on PC — activate ESP, soft aim & radar step by step. Setup guide at narakacheats.org. Check NEAC status first.",
+					title: "安装 | Windows PC Install",
+					description: "安装 for Naraka Bladepoint on Windows PC — Windows PC激活和首次启动设置. 即时数字交付. Official naraka cheats at narakacheats.org. Windows PC license with NEAC maintenance",
 					h1: "安装",
 					intro: "首次 match 前在 Windows 10 或 11 上安装并激活许可证。",
 					imageAlt: "Naraka Cheats setup guide screenshot for Windows PC",
@@ -15964,8 +15964,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				updates: {
-					title: "状态| NEAC Updates | Naraka Cheats",
-					description: "Live status after Naraka & NEAC patches. Check undetected ESP, aimbot & radar rebuilds on PC before you queue. narakacheats.org.",
+					title: "状态 | NEAC Updates | Naraka Cheats",
+					description: "状态 for Naraka Bladepoint on Windows PC — NEAC补丁状态和rebuild说明. 即时数字交付. Official naraka cheats at narakacheats.org. Windows PC license with NEAC maintenance after",
 					h1: "状态",
 					intro: "NEAC补丁后请查看Updates页面。无任何作弊保证永久undetected。",
 					imageAlt: "Naraka Cheats live status after NEAC and game patches",
@@ -16013,8 +16013,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				faq: {
-					title: "常见问题| ESP, Aimbot & NEAC",
-					description: "FAQ for naraka cheats — delivery, setup, undetected status, NEAC updates & pricing on PC. Answers at narakacheats.org before you buy.",
+					title: "常见问题 | ESP, Aimbot & NEAC",
+					description: "常见问题 for Naraka Bladepoint on Windows PC — ESP、soft aim、交付和NEAC问题. 即时数字交付. Official naraka cheats at narakacheats.org. Windows PC license with NEAC maintenance",
 					h1: "常见问题",
 					intro: "Naraka Cheats 常见问题 — 交付、安装、更新和退款。",
 					imageAlt: "Naraka Cheats FAQ — delivery, setup, and update answers",
@@ -16061,8 +16061,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				support: {
-					title: "支持| License & Setup Help",
-					description: "Support for license delivery, ESP setup & billing on PC. Email support@narakacheats.org with your order ID. narakacheats.org/support.",
+					title: "支持 | License & Setup Help",
+					description: "支持 for Naraka Bladepoint on Windows PC — 订单帮助和许可证支持联系方式. 即时数字交付. Official naraka cheats at narakacheats.org. Windows PC license with NEAC maintenance after",
 					h1: "支持",
 					intro: "获取 Windows PC 上 Naraka Cheats 的许可证、安装和账单帮助。",
 					imageAlt: "Naraka Cheats support page for license and setup help",
@@ -16099,8 +16099,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				undetected: {
-					title: "Undetected作弊 | undetected",
-					description: "Undetected作弊: NEAC补丁后的undetected维护. 即时数字交付. undetected — Windows PC.",
+					title: "Undetected作弊 | NEAC Safe Status",
+					description: "Undetected作弊 for Naraka Bladepoint on Windows PC — NEAC补丁后的undetected维护. 即时数字交付. undetected. Official naraka cheats at narakacheats.org. Windows PC license",
 					h1: "Undetected作弊",
 					intro: "Naraka Cheats为NarakaWindows PC提供ESP wallhack、radar hack和Naraka Aimbotundetected套餐。Undetected作弊. NEAC补丁后的undetected维护.",
 					imageAlt: "Naraka Cheats undetected status overview for Windows PC",
@@ -16145,8 +16145,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				wallhack: {
-					title: "Naraka Wallhack | wallhack",
-					description: "Naraka Wallhack: 玩家、尸体和距离的wallhack ESP. 即时数字交付. undetected — Windows PC.",
+					title: "Naraka Wallhack | ESP Visibility",
+					description: "Naraka Wallhack for Naraka Bladepoint on Windows PC — 玩家、尸体和距离的wallhack ESP. 即时数字交付. undetected. Official naraka cheats at narakacheats.org.",
 					h1: "Naraka Wallhack",
 					intro: "Naraka Cheats为NarakaWindows PC提供ESP wallhack、radar hack和Naraka Aimbotundetected套餐。Naraka Wallhack. 玩家、尸体和距离的wallhack ESP.",
 					imageAlt: "naraka wallhack visibility through walls in a match",
@@ -16183,8 +16183,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				radar: {
-					title: "Radar| 2D Threat Map | Naraka Cheats",
-					description: "2D radar hack for flank awareness on PC. Bundled with ESP wallhack & soft aim in one license. NEAC maintenance at narakacheats.org.",
+					title: "Radar | 2D Threat Map | Naraka Cheats",
+					description: "Radar for Naraka Bladepoint on Windows PC — 侧翼和轮换的2D radar提示. 即时数字交付. Official naraka cheats at narakacheats.org. Windows PC license with NEAC maintenance",
 					h1: "Radar",
 					intro: "用于屏幕外威胁的简单 2D radar。包含在同一 Naraka Cheats 许可证中。",
 					imageAlt: "Naraka 2D radar overlay showing nearby threats",
@@ -16221,15 +16221,15 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				neac: {
-					title: "neac | neac",
-					description: "neac: neac. 即时数字交付. undetected — Windows PC.",
-					h1: "neac",
-					intro: "Naraka Cheats为NarakaWindows PC提供ESP wallhack、radar hack和Naraka Aimbotundetected套餐。neac. neac.",
-					imageAlt: "neac — Naraka Cheats",
-					galleryTitle: "neac",
+					title: "NEAC Bypass | Patch Maintenance",
+					description: "NEAC Bypass for Naraka Bladepoint on Windows PC — Naraka cheats的NEAC更新处理方式. 即时数字交付. undetected. Official naraka cheats at narakacheats.org. Windows PC license",
+					h1: "NEAC Bypass",
+					intro: "Naraka Cheats为NarakaWindows PC提供ESP wallhack、radar hack和Naraka Aimbotundetected套餐。NEAC Bypass. Naraka cheats的NEAC更新处理方式.",
+					imageAlt: "Naraka Cheats maintenance after a NEAC patch",
+					galleryTitle: "NEAC Bypass",
 					ctaPrimary: "购买 Naraka Cheats",
 					ctaSecondary: "查看功能",
-					ctaSecondaryHref: "/",
+					ctaSecondaryHref: "/updates/",
 					sections: [
 						{
 							h2: "NEAC overview",
@@ -16258,7 +16258,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "HWID bans, spoofers, and what we do not sell",
 							paragraphs: [
-								"Naraka Cheats为NarakaWindows PC提供ESP wallhack、radar hack和Naraka Aimbotundetected套餐。neac",
+								"Naraka Cheats为NarakaWindows PC提供ESP wallhack、radar hack和Naraka Aimbotundetected套餐。Naraka cheats的NEAC更新处理方式",
 								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/naraka-neac-bypass/\">NEAC FAQ</a> before buying anywhere.",
 								"NEAC补丁后请查看Updates页面。无任何作弊保证永久undetected。",
 							],
@@ -16266,7 +16266,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "External architecture, stream proofing, and patch-day checklist",
 							paragraphs: [
-								"Naraka Cheats为NarakaWindows PC提供ESP wallhack、radar hack和Naraka Aimbotundetected套餐。neac",
+								"Naraka Cheats为NarakaWindows PC提供ESP wallhack、radar hack和Naraka Aimbotundetected套餐。Naraka cheats的NEAC更新处理方式",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">Undetected作弊指南</a>, (2) confirm NEAC notes on <a href=\"/neac-bypass/\">NEAC维护</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
 								"Deep dives: <a href=\"/undetected-naraka-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-naraka-cheats-eac/\">NEAC reality blog</a> · <a href=\"/naraka-cheats/\">Naraka Cheats概览</a>.",
 							],
@@ -16275,8 +16275,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot.webp",
 				},
 				"cheats-2026": {
-					title: "Naraka作弊 2026 | cheats-2026",
-					description: "Naraka作弊 2026: checkout前的2026 naraka cheats清单. 即时数字交付. undetected — Windows PC.",
+					title: "Naraka作弊 2026 | Buyer Guide",
+					description: "Naraka作弊 2026 for Naraka Bladepoint on Windows PC — checkout前的2026 naraka cheats清单. 即时数字交付. undetected. Official naraka cheats at narakacheats.org.",
 					h1: "Naraka作弊 2026",
 					intro: "Naraka Cheats为NarakaWindows PC提供ESP wallhack、radar hack和Naraka Aimbotundetected套餐。Naraka作弊 2026. checkout前的2026 naraka cheats清单.",
 					imageAlt: "Naraka Cheats product overview for Naraka",
@@ -16313,7 +16313,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Episode 10+ and ranked meta in 2026",
 							paragraphs: [
 								"2026 ranked play rewards information speed — ESP hero markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/naraka-aimbot/\">自瞄和软瞄准</a> and ESP toggles.",
-								"Compare against <a href=\"/best-naraka-cheats/\">best naraka cheats</a> criteria and <a href=\"/undetected-naraka-cheats/\">undetected maintenance</a> before switching shops mid-season.",
+								"Compare against <a href=\"/\">完整产品</a> criteria and <a href=\"/undetected-naraka-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/naraka-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/naraka-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
 						},
@@ -16321,8 +16321,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				hacks: {
-					title: "Naraka Cheats — 完整指南| ESP, Aimbot & Wallhack",
-					description: "Naraka cheats guide — undetected ESP wallhack, soft aim, radar & NEAC rebuilds on PC. Compare features & buy from $35 at narakacheats.org.",
+					title: "Naraka Cheats — 完整指南 | ESP, Aimbot & Wallhack",
+					description: "Naraka Cheats — 完整指南 for Naraka Bladepoint on Windows PC — ESP和Aimbot的Naraka Cheats支柱. 即时数字交付. Official naraka cheats at narakacheats.org. Windows PC license",
 					h1: "Naraka Cheats — 完整指南",
 					intro: "Naraka cheats 在基础游戏上添加 ESP、radar 和 soft aim。本页说明什么是 naraka cheats、Naraka Cheats 包含什么、NEAC 维护以及购买前该看哪里。",
 					imageAlt: "Naraka Cheats overview — ESP, aimbot, and radar for Naraka",
@@ -16394,8 +16394,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-combat.webp",
 				},
 				"cheat-download": {
-					title: "Naraka作弊下载 | cheat-download",
-					description: "Naraka作弊下载: 付款后的数字许可证下载. 即时数字交付. undetected — Windows PC.",
+					title: "Naraka作弊下载 | Instant Access",
+					description: "Naraka作弊下载 for Naraka Bladepoint on Windows PC — 付款后的数字许可证下载. 即时数字交付. undetected. Official naraka cheats at narakacheats.org. Windows PC license with NEAC",
 					h1: "Naraka作弊下载",
 					intro: "Naraka Cheats为NarakaWindows PC提供ESP wallhack、radar hack和Naraka Aimbotundetected套餐。Naraka作弊下载. 付款后的数字许可证下载.",
 					imageAlt: "Naraka Cheats download and install delivery flow",
@@ -16432,8 +16432,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				"mod-menu": {
-					title: "Naraka修改菜单 | mod-menu",
-					description: "Naraka修改菜单: 客户端内ESP和soft aim开关. 即时数字交付. undetected — Windows PC.",
+					title: "Naraka修改菜单 | In-Game Toggles",
+					description: "Naraka修改菜单 for Naraka Bladepoint on Windows PC — 客户端内ESP和soft aim开关. 即时数字交付. undetected. Official naraka cheats at narakacheats.org. Windows PC license with",
 					h1: "Naraka修改菜单",
 					intro: "Naraka Cheats为NarakaWindows PC提供ESP wallhack、radar hack和Naraka Aimbotundetected套餐。Naraka修改菜单. 客户端内ESP和soft aim开关.",
 					imageAlt: "Naraka Cheats in-game menu controls",
@@ -16470,8 +16470,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				"soft-aim": {
-					title: "Naraka Soft Aim | soft-aim",
-					description: "Naraka Soft Aim: Windows PC的流畅soft aim设置. 即时数字交付. undetected — Windows PC.",
+					title: "Naraka Soft Aim | Smooth Aim Settings",
+					description: "Naraka Soft Aim for Naraka Bladepoint on Windows PC — Windows PC的流畅soft aim设置. 即时数字交付. undetected. Official naraka cheats at narakacheats.org.",
 					h1: "Naraka Soft Aim",
 					intro: "Naraka Cheats为NarakaWindows PC提供ESP wallhack、radar hack和Naraka Aimbotundetected套餐。Naraka Soft Aim. Windows PC的流畅soft aim设置.",
 					imageAlt: "Naraka soft aim FOV and smoothness settings",
@@ -16508,8 +16508,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				"best-cheats": {
-					title: "最佳Naraka作弊 | best-cheats",
-					description: "最佳Naraka作弊: 购买naraka cheats前应比较的内容. 即时数字交付. undetected — Windows PC.",
+					title: "最佳Naraka作弊 | Buyer Checklist",
+					description: "最佳Naraka作弊 for Naraka Bladepoint on Windows PC — 购买naraka cheats前应比较的内容. 即时数字交付. undetected. Official naraka cheats at narakacheats.org. Windows PC license",
 					h1: "最佳Naraka作弊",
 					intro: "Naraka Cheats为NarakaWindows PC提供ESP wallhack、radar hack和Naraka Aimbotundetected套餐。最佳Naraka作弊. 购买naraka cheats前应比较的内容.",
 					imageAlt: "Naraka Cheats overview for Naraka on PC",
@@ -16554,8 +16554,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				"aimbot-hack": {
-					title: "Naraka自瞄外挂 | aimbot-hack",
-					description: "Naraka自瞄外挂: Naraka的undetected Aimbot hack assist. 即时数字交付. undetected — Windows PC.",
+					title: "Naraka自瞄外挂 | Soft Aim Assist",
+					description: "Naraka自瞄外挂 for Naraka Bladepoint on Windows PC — Naraka的undetected Aimbot hack assist. 即时数字交付. undetected. Official naraka cheats at narakacheats.org.",
 					h1: "Naraka自瞄外挂",
 					intro: "Naraka Cheats为NarakaWindows PC提供ESP wallhack、radar hack和Naraka Aimbotundetected套餐。Naraka自瞄外挂. Naraka的undetected Aimbot hack assist.",
 					imageAlt: "Naraka Aimbot hack controls and bone priority",
@@ -16592,8 +16592,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				"esp-hack": {
-					title: "Naraka ESP外挂 | esp-hack",
-					description: "Naraka ESP外挂: ESP hack方框、尸体pin和距离. 即时数字交付. undetected — Windows PC.",
+					title: "Naraka ESP外挂 | Boxes & Loot",
+					description: "Naraka ESP外挂 for Naraka Bladepoint on Windows PC — ESP hack方框、尸体pin和距离. 即时数字交付. undetected. Official naraka cheats at narakacheats.org. Windows PC license with",
 					h1: "Naraka ESP外挂",
 					intro: "Naraka Cheats为NarakaWindows PC提供ESP wallhack、radar hack和Naraka Aimbotundetected套餐。Naraka ESP外挂. ESP hack方框、尸体pin和距离.",
 					imageAlt: "Naraka ESP hack boxes and hero markers",
@@ -16630,8 +16630,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				"unlock-all": {
-					title: "Naraka Unlock All | unlock-all",
-					description: "Naraka Unlock All: unlock-all搜索 vs 真正的ESP和Aimbot工具. 即时数字交付. undetected — Windows PC.",
+					title: "Naraka Unlock All | What It Means",
+					description: "Naraka Unlock All for Naraka Bladepoint on Windows PC — unlock-all搜索 vs 真正的ESP和Aimbot工具. 即时数字交付. undetected. Official naraka cheats at narakacheats.org.",
 					h1: "Naraka Unlock All",
 					intro: "Naraka Cheats为NarakaWindows PC提供ESP wallhack、radar hack和Naraka Aimbotundetected套餐。Naraka Unlock All. unlock-all搜索 vs 真正的ESP和Aimbot工具.",
 					imageAlt: "Naraka Cheats license features overview",
@@ -16669,7 +16669,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "隐私政策 | Naraka Cheats",
-					description: "隐私政策 Naraka Cheats — ESP wallhack、Aimbot, Windows PC.",
+					description: "隐私政策 Naraka Cheats — ESP wallhack、Aimbot, Windows PC. Compare plans and guides at narakacheats.org.",
 					h1: "隐私政策",
 					intro: "Naraka Cheats为NarakaWindows PC提供ESP wallhack、radar hack和Naraka Aimbotundetected套餐。隐私政策 适用于 narakacheats.org 和 Naraka 许可证。",
 					imageAlt: "Naraka Cheats",
@@ -16704,7 +16704,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				refund: {
 					title: "退款政策 | Naraka Cheats",
-					description: "退款政策 Naraka Cheats — ESP wallhack、Aimbot, Windows PC.",
+					description: "退款政策 Naraka Cheats — ESP wallhack、Aimbot, Windows PC. Compare plans and guides at narakacheats.org.",
 					h1: "退款政策",
 					intro: "Naraka Cheats为NarakaWindows PC提供ESP wallhack、radar hack和Naraka Aimbotundetected套餐。退款政策 适用于 narakacheats.org 和 Naraka 许可证。",
 					imageAlt: "Naraka Cheats",
@@ -16739,7 +16739,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				terms: {
 					title: "使用条款 | Naraka Cheats",
-					description: "使用条款 Naraka Cheats — ESP wallhack、Aimbot, Windows PC.",
+					description: "使用条款 Naraka Cheats — ESP wallhack、Aimbot, Windows PC. Compare plans and guides at narakacheats.org.",
 					h1: "使用条款",
 					intro: "Naraka Cheats为NarakaWindows PC提供ESP wallhack、radar hack和Naraka Aimbotundetected套餐。使用条款 适用于 narakacheats.org 和 Naraka 许可证。",
 					imageAlt: "Naraka Cheats",
@@ -16849,7 +16849,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Naraka Cheats 2026 | ESP, Wallhack और Aimbot",
-					description: "Naraka undetected hacks. ESP wallhack, radar hack, Aimbot, NEAC maintenance. Instant digital delivery.",
+					description: "Naraka undetected hacks. ESP wallhack, radar hack, Aimbot, NEAC maintenance. Instant digital delivery. Compare plans and guides at narakacheats.org.",
 					h1: "Naraka ke liye undetected hacks",
 					intro: "Naraka Windows PC undetected पैकेज: ESP wallhack, radar, Aimbot, NEAC maintenance सहित.",
 					imageAlt: "naraka cheats hero ESP aimbot wallhack",
@@ -16876,8 +16876,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				"naraka-esp": {
-					title: "ESP| Wallhack & Player Boxes | Naraka Cheats",
-					description: "Naraka ESP wallhack — player boxes, hero markers & distance tags on PC. Undetected naraka cheats with aimbot & radar. Shop at narakacheats.org.",
+					title: "ESP | Wallhack & Player Boxes | Naraka Cheats",
+					description: "ESP for Naraka Bladepoint on Windows PC — प्लेयर बॉक्स, hero markers और wallhack overlays. तुरंत डिजिटल डिलीवरी. Official naraka cheats at narakacheats.org.",
 					h1: "ESP",
 					intro: "Naraka matches में दीवारों के पार players और loot देखें। उसी Naraka Cheats लाइसेंस का हिस्सा।",
 					imageAlt: "Naraka ESP player boxes and distance readouts in a match",
@@ -16926,8 +16926,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				"naraka-aimbot": {
-					title: "Aimbot| Soft Aim & FOV Settings | Naraka Cheats",
-					description: "Naraka aimbot with soft aim, FOV, bone priority & hotkeys on PC. Undetected Naraka Cheats with ESP & radar included. narakacheats.org.",
+					title: "Aimbot | Soft Aim & FOV Settings | Naraka Cheats",
+					description: "Aimbot for Naraka Bladepoint on Windows PC — soft aim, FOV और प्रजाति-वार Aimbot profiles. तुरंत डिजिटल डिलीवरी. Official naraka cheats at narakacheats.org.",
 					h1: "Aimbot",
 					intro: "Naraka के लिए ट्यून करने योग्य soft aim और aim assist। उसी Naraka Cheats लाइसेंस में शामिल।",
 					imageAlt: "Naraka Aimbot and soft aim controls on Windows PC",
@@ -16977,7 +16977,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "फ़ीचर्स 2026 | ESP, Aimbot & Radar | Naraka Cheats",
-					description: "Naraka Cheats Naraka के लिए Windows PC पर ESP wallhack, radar hack और Naraka Aimbot undetected पैकेज देता है। ESP, soft aim, radar controls",
+					description: "फ़ीचर्स: ESP, soft aim, radar controls. तुरंत डिजिटल डिलीवरी. undetected. Compare plans and guides at narakacheats.org.",
 					h1: "फ़ीचर्स",
 					intro: "Naraka Cheats Naraka के लिए Windows PC पर ESP wallhack, radar hack और Naraka Aimbot undetected पैकेज देता है। फ़ीचर्स für Naraka auf Windows PC.",
 					imageAlt: "Naraka Cheats features — ESP, soft aim, and radar screenshots",
@@ -17055,8 +17055,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				pricing: {
-					title: "स्टोर| $35/mo or $150 Lifetime",
-					description: "Buy Naraka cheats at narakacheats.org — $35/month or $150 lifetime. ESP, aimbot & radar on PC. Same features, instant delivery.",
+					title: "स्टोर | $35/mo or $150 Lifetime",
+					description: "स्टोर for Naraka Bladepoint on Windows PC — $35 monthly या $150 lifetime licenses. तुरंत डिजिटल डिलीवरी. Official naraka cheats at narakacheats.org.",
 					h1: "स्टोर",
 					intro: "Naraka Cheats Naraka के लिए Windows PC पर ESP wallhack, radar hack और Naraka Aimbot undetected पैकेज देता है। स्टोर — $35/माह y $150 लाइफ़टाइम.",
 					imageAlt: "Naraka Cheats store plans for monthly and lifetime licenses",
@@ -17105,8 +17105,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				setup: {
-					title: "सेटअप| Windows PC Install Guide",
-					description: "Install Naraka Cheats on PC — activate ESP, soft aim & radar step by step. Setup guide at narakacheats.org. Check NEAC status first.",
+					title: "सेटअप | Windows PC Install",
+					description: "सेटअप for Naraka Bladepoint on Windows PC — Windows PC activation और first-launch setup. तुरंत डिजिटल डिलीवरी. Official naraka cheats at narakacheats.org.",
 					h1: "सेटअप",
 					intro: "पहले match से पहले Windows 10 या 11 पर लाइसेंस इंस्टॉल और सक्रिय करें।",
 					imageAlt: "Naraka Cheats setup guide screenshot for Windows PC",
@@ -17155,8 +17155,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				updates: {
-					title: "स्टेटस| NEAC Updates | Naraka Cheats",
-					description: "Live status after Naraka & NEAC patches. Check undetected ESP, aimbot & radar rebuilds on PC before you queue. narakacheats.org.",
+					title: "स्टेटस | NEAC Updates | Naraka Cheats",
+					description: "स्टेटस for Naraka Bladepoint on Windows PC — NEAC patch status और rebuild notes. तुरंत डिजिटल डिलीवरी. Official naraka cheats at narakacheats.org.",
 					h1: "स्टेटस",
 					intro: "NEAC पैच के बाद Updates पेज देखें। कोई भी cheat permanent undetected गारंटी नहीं देता।",
 					imageAlt: "Naraka Cheats live status after NEAC and game patches",
@@ -17204,8 +17204,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				faq: {
-					title: "FAQ| ESP, Aimbot & NEAC",
-					description: "FAQ for naraka cheats — delivery, setup, undetected status, NEAC updates & pricing on PC. Answers at narakacheats.org before you buy.",
+					title: "FAQ | ESP, Aimbot & NEAC",
+					description: "FAQ for Naraka Bladepoint on Windows PC — ESP, soft aim, delivery और NEAC questions. तुरंत डिजिटल डिलीवरी. Official naraka cheats at narakacheats.org.",
 					h1: "FAQ",
 					intro: "Naraka Cheats FAQ — डिलीवरी, setup, अपडेट और रिफंड।",
 					imageAlt: "Naraka Cheats FAQ — delivery, setup, and update answers",
@@ -17252,8 +17252,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				support: {
-					title: "सहायता| License & Setup Help",
-					description: "Support for license delivery, ESP setup & billing on PC. Email support@narakacheats.org with your order ID. narakacheats.org/support.",
+					title: "सहायता | License & Setup Help",
+					description: "सहायता for Naraka Bladepoint on Windows PC — order help और license support contact. तुरंत डिजिटल डिलीवरी. Official naraka cheats at narakacheats.org.",
 					h1: "सहायता",
 					intro: "Windows PC पर Naraka Cheats लाइसेंस, setup और billing सहायता।",
 					imageAlt: "Naraka Cheats support page for license and setup help",
@@ -17290,8 +17290,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				undetected: {
-					title: "Undetected cheats | undetected",
-					description: "Undetected cheats: NEAC patches के बाद undetected maintenance. तुरंत डिजिटल डिलीवरी. undetected — Windows PC.",
+					title: "Undetected cheats | NEAC Safe Status",
+					description: "Undetected cheats for Naraka Bladepoint on Windows PC — NEAC patches के बाद undetected maintenance. तुरंत डिजिटल डिलीवरी. undetected. Official naraka cheats at",
 					h1: "Undetected cheats",
 					intro: "Naraka Cheats Naraka के लिए Windows PC पर ESP wallhack, radar hack और Naraka Aimbot undetected पैकेज देता है। Undetected cheats. NEAC patches के बाद undetected maintenance.",
 					imageAlt: "Naraka Cheats undetected status overview for Windows PC",
@@ -17336,8 +17336,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				wallhack: {
-					title: "Naraka Wallhack | wallhack",
-					description: "Naraka Wallhack: players, loot और distance के लिए wallhack ESP. तुरंत डिजिटल डिलीवरी. undetected — Windows PC.",
+					title: "Naraka Wallhack | ESP Visibility",
+					description: "Naraka Wallhack for Naraka Bladepoint on Windows PC — players, loot और distance के लिए wallhack ESP. तुरंत डिजिटल डिलीवरी. undetected. Official naraka cheats",
 					h1: "Naraka Wallhack",
 					intro: "Naraka Cheats Naraka के लिए Windows PC पर ESP wallhack, radar hack और Naraka Aimbot undetected पैकेज देता है। Naraka Wallhack. players, loot और distance के लिए wallhack ESP.",
 					imageAlt: "naraka wallhack visibility through walls in a match",
@@ -17374,8 +17374,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				radar: {
-					title: "Radar| 2D Threat Map | Naraka Cheats",
-					description: "2D radar hack for flank awareness on PC. Bundled with ESP wallhack & soft aim in one license. NEAC maintenance at narakacheats.org.",
+					title: "Radar | 2D Threat Map | Naraka Cheats",
+					description: "Radar for Naraka Bladepoint on Windows PC — flanks और rotations के लिए 2D radar cues. तुरंत डिजिटल डिलीवरी. Official naraka cheats at narakacheats.org.",
 					h1: "Radar",
 					intro: "आपकी दृष्टि से बाहर threats के लिए सरल 2D radar। उसी Naraka Cheats लाइसेंस में शामिल।",
 					imageAlt: "Naraka 2D radar overlay showing nearby threats",
@@ -17412,15 +17412,15 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				neac: {
-					title: "neac | neac",
-					description: "neac: neac. तुरंत डिजिटल डिलीवरी. undetected — Windows PC.",
-					h1: "neac",
-					intro: "Naraka Cheats Naraka के लिए Windows PC पर ESP wallhack, radar hack और Naraka Aimbot undetected पैकेज देता है। neac. neac.",
-					imageAlt: "neac — Naraka Cheats",
-					galleryTitle: "neac",
+					title: "NEAC Bypass | Patch Maintenance",
+					description: "NEAC Bypass for Naraka Bladepoint on Windows PC — Naraka cheats के लिए NEAC updates कैसे handle होते हैं. तुरंत डिजिटल डिलीवरी. undetected. Official naraka",
+					h1: "NEAC Bypass",
+					intro: "Naraka Cheats Naraka के लिए Windows PC पर ESP wallhack, radar hack और Naraka Aimbot undetected पैकेज देता है। NEAC Bypass. Naraka cheats के लिए NEAC updates कैसे handle होते हैं.",
+					imageAlt: "Naraka Cheats maintenance after a NEAC patch",
+					galleryTitle: "NEAC Bypass",
 					ctaPrimary: "Naraka Cheats खरीदें",
 					ctaSecondary: "फ़ीचर्स देखें",
-					ctaSecondaryHref: "/",
+					ctaSecondaryHref: "/updates/",
 					sections: [
 						{
 							h2: "NEAC overview",
@@ -17449,7 +17449,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "HWID bans, spoofers, and what we do not sell",
 							paragraphs: [
-								"Naraka Cheats Naraka के लिए Windows PC पर ESP wallhack, radar hack और Naraka Aimbot undetected पैकेज देता है। neac",
+								"Naraka Cheats Naraka के लिए Windows PC पर ESP wallhack, radar hack और Naraka Aimbot undetected पैकेज देता है। Naraka cheats के लिए NEAC updates कैसे handle होते हैं",
 								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/naraka-neac-bypass/\">NEAC FAQ</a> before buying anywhere.",
 								"NEAC पैच के बाद Updates पेज देखें। कोई भी cheat permanent undetected गारंटी नहीं देता।",
 							],
@@ -17457,7 +17457,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "External architecture, stream proofing, and patch-day checklist",
 							paragraphs: [
-								"Naraka Cheats Naraka के लिए Windows PC पर ESP wallhack, radar hack और Naraka Aimbot undetected पैकेज देता है। neac",
+								"Naraka Cheats Naraka के लिए Windows PC पर ESP wallhack, radar hack और Naraka Aimbot undetected पैकेज देता है। Naraka cheats के लिए NEAC updates कैसे handle होते हैं",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">Undetected cheats गाइड</a>, (2) confirm NEAC notes on <a href=\"/neac-bypass/\">NEAC रखरखाव</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
 								"Deep dives: <a href=\"/undetected-naraka-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-naraka-cheats-eac/\">NEAC reality blog</a> · <a href=\"/naraka-cheats/\">Naraka Cheats अवलोकन</a>.",
 							],
@@ -17466,8 +17466,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot.webp",
 				},
 				"cheats-2026": {
-					title: "Naraka Cheats 2026 | cheats-2026",
-					description: "Naraka Cheats 2026: checkout से पहले 2026 naraka cheats checklist. तुरंत डिजिटल डिलीवरी. undetected — Windows PC.",
+					title: "Naraka Cheats 2026 | Buyer Guide",
+					description: "Naraka Cheats 2026 for Naraka Bladepoint on Windows PC — checkout से पहले 2026 naraka cheats checklist. तुरंत डिजिटल डिलीवरी. undetected. Official naraka",
 					h1: "Naraka Cheats 2026",
 					intro: "Naraka Cheats Naraka के लिए Windows PC पर ESP wallhack, radar hack और Naraka Aimbot undetected पैकेज देता है। Naraka Cheats 2026. checkout से पहले 2026 naraka cheats checklist.",
 					imageAlt: "Naraka Cheats product overview for Naraka",
@@ -17504,7 +17504,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Episode 10+ and ranked meta in 2026",
 							paragraphs: [
 								"2026 ranked play rewards information speed — ESP hero markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/naraka-aimbot/\">Aimbot और soft aim</a> and ESP toggles.",
-								"Compare against <a href=\"/best-naraka-cheats/\">best naraka cheats</a> criteria and <a href=\"/undetected-naraka-cheats/\">undetected maintenance</a> before switching shops mid-season.",
+								"Compare against <a href=\"/\">पूरा उत्पाद</a> criteria and <a href=\"/undetected-naraka-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/naraka-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/naraka-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
 						},
@@ -17512,8 +17512,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				hacks: {
-					title: "Naraka Cheats — पूर्ण गाइड| ESP, Aimbot & Wallhack",
-					description: "Naraka cheats guide — undetected ESP wallhack, soft aim, radar & NEAC rebuilds on PC. Compare features & buy from $35 at narakacheats.org.",
+					title: "Naraka Cheats — पूर्ण गाइड | ESP, Aimbot & Wallhack",
+					description: "Naraka Cheats — पूर्ण गाइड for Naraka Bladepoint on Windows PC — ESP और Aimbot के लिए Naraka Cheats pillar. तुरंत डिजिटल डिलीवरी. Official naraka cheats at",
 					h1: "Naraka Cheats — पूर्ण गाइड",
 					intro: "Naraka cheats बेस गेम पर ESP, radar और soft aim जोड़ते हैं। यह पेज बताता है naraka cheats क्या हैं, Naraka Cheats में क्या है, NEAC रखरखाव और खरीद से पहले कहाँ जाएँ।",
 					imageAlt: "Naraka Cheats overview — ESP, aimbot, and radar for Naraka",
@@ -17585,8 +17585,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-combat.webp",
 				},
 				"cheat-download": {
-					title: "Naraka Cheat Download | cheat-download",
-					description: "Naraka Cheat Download: payment के बाद digital license download. तुरंत डिजिटल डिलीवरी. undetected — Windows PC.",
+					title: "Naraka Cheat Download | Instant Access",
+					description: "Naraka Cheat Download for Naraka Bladepoint on Windows PC — payment के बाद digital license download. तुरंत डिजिटल डिलीवरी. undetected. Official naraka cheats",
 					h1: "Naraka Cheat Download",
 					intro: "Naraka Cheats Naraka के लिए Windows PC पर ESP wallhack, radar hack और Naraka Aimbot undetected पैकेज देता है। Naraka Cheat Download. payment के बाद digital license download.",
 					imageAlt: "Naraka Cheats download and install delivery flow",
@@ -17623,8 +17623,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				"mod-menu": {
-					title: "Naraka Mod Menu | mod-menu",
-					description: "Naraka Mod Menu: in-client ESP और soft aim toggles. तुरंत डिजिटल डिलीवरी. undetected — Windows PC.",
+					title: "Naraka Mod Menu | In-Game Toggles",
+					description: "Naraka Mod Menu for Naraka Bladepoint on Windows PC — in-client ESP और soft aim toggles. तुरंत डिजिटल डिलीवरी. undetected. Official naraka cheats at",
 					h1: "Naraka Mod Menu",
 					intro: "Naraka Cheats Naraka के लिए Windows PC पर ESP wallhack, radar hack और Naraka Aimbot undetected पैकेज देता है। Naraka Mod Menu. in-client ESP और soft aim toggles.",
 					imageAlt: "Naraka Cheats in-game menu controls",
@@ -17661,8 +17661,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				"soft-aim": {
-					title: "Naraka Soft Aim | soft-aim",
-					description: "Naraka Soft Aim: Windows PC के लिए smooth soft aim settings. तुरंत डिजिटल डिलीवरी. undetected — Windows PC.",
+					title: "Naraka Soft Aim | Smooth Aim Settings",
+					description: "Naraka Soft Aim for Naraka Bladepoint on Windows PC — Windows PC के लिए smooth soft aim settings. तुरंत डिजिटल डिलीवरी. undetected. Official naraka cheats at",
 					h1: "Naraka Soft Aim",
 					intro: "Naraka Cheats Naraka के लिए Windows PC पर ESP wallhack, radar hack और Naraka Aimbot undetected पैकेज देता है। Naraka Soft Aim. Windows PC के लिए smooth soft aim settings.",
 					imageAlt: "Naraka soft aim FOV and smoothness settings",
@@ -17699,8 +17699,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				"best-cheats": {
-					title: "सर्वश्रेष्ठ Naraka Cheats | best-cheats",
-					description: "सर्वश्रेष्ठ Naraka Cheats: naraka cheats खरीदने से पहले क्या compare करें. तुरंत डिजिटल डिलीवरी. undetected — Windows PC.",
+					title: "सर्वश्रेष्ठ Naraka Cheats | Buyer Checklist",
+					description: "सर्वश्रेष्ठ Naraka Cheats for Naraka Bladepoint on Windows PC — naraka cheats खरीदने से पहले क्या compare करें. तुरंत डिजिटल डिलीवरी. undetected. Official",
 					h1: "सर्वश्रेष्ठ Naraka Cheats",
 					intro: "Naraka Cheats Naraka के लिए Windows PC पर ESP wallhack, radar hack और Naraka Aimbot undetected पैकेज देता है। सर्वश्रेष्ठ Naraka Cheats. naraka cheats खरीदने से पहले क्या compare करें.",
 					imageAlt: "Naraka Cheats overview for Naraka on PC",
@@ -17745,8 +17745,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				"aimbot-hack": {
-					title: "Naraka Aimbot Hack | aimbot-hack",
-					description: "Naraka Aimbot Hack: Naraka के लिए undetected Aimbot hack assist. तुरंत डिजिटल डिलीवरी. undetected — Windows PC.",
+					title: "Naraka Aimbot Hack | Soft Aim Assist",
+					description: "Naraka Aimbot Hack for Naraka Bladepoint on Windows PC — Naraka के लिए undetected Aimbot hack assist. तुरंत डिजिटल डिलीवरी. undetected. Official naraka cheats",
 					h1: "Naraka Aimbot Hack",
 					intro: "Naraka Cheats Naraka के लिए Windows PC पर ESP wallhack, radar hack और Naraka Aimbot undetected पैकेज देता है। Naraka Aimbot Hack. Naraka के लिए undetected Aimbot hack assist.",
 					imageAlt: "Naraka Aimbot hack controls and bone priority",
@@ -17783,8 +17783,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				"esp-hack": {
-					title: "Naraka ESP Hack | esp-hack",
-					description: "Naraka ESP Hack: ESP hack boxes, loot pins और distance. तुरंत डिजिटल डिलीवरी. undetected — Windows PC.",
+					title: "Naraka ESP Hack | Boxes & Loot",
+					description: "Naraka ESP Hack for Naraka Bladepoint on Windows PC — ESP hack boxes, loot pins और distance. तुरंत डिजिटल डिलीवरी. undetected. Official naraka cheats at",
 					h1: "Naraka ESP Hack",
 					intro: "Naraka Cheats Naraka के लिए Windows PC पर ESP wallhack, radar hack और Naraka Aimbot undetected पैकेज देता है। Naraka ESP Hack. ESP hack boxes, loot pins और distance.",
 					imageAlt: "Naraka ESP hack boxes and hero markers",
@@ -17821,8 +17821,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				"unlock-all": {
-					title: "Naraka Unlock All | unlock-all",
-					description: "Naraka Unlock All: unlock-all searches vs real ESP और Aimbot tools. तुरंत डिजिटल डिलीवरी. undetected — Windows PC.",
+					title: "Naraka Unlock All | What It Means",
+					description: "Naraka Unlock All for Naraka Bladepoint on Windows PC — unlock-all searches vs real ESP और Aimbot tools. तुरंत डिजिटल डिलीवरी. undetected. Official naraka",
 					h1: "Naraka Unlock All",
 					intro: "Naraka Cheats Naraka के लिए Windows PC पर ESP wallhack, radar hack और Naraka Aimbot undetected पैकेज देता है। Naraka Unlock All. unlock-all searches vs real ESP और Aimbot tools.",
 					imageAlt: "Naraka Cheats license features overview",
@@ -17860,7 +17860,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "गोपनीयता नीति | Naraka Cheats",
-					description: "गोपनीयता नीति Naraka Cheats — ESP wallhack, Aimbot के लिए, Windows PC.",
+					description: "गोपनीयता नीति Naraka Cheats — ESP wallhack, Aimbot के लिए, Windows PC. Compare plans and guides at narakacheats.org.",
 					h1: "गोपनीयता नीति",
 					intro: "Naraka Cheats Naraka के लिए Windows PC पर ESP wallhack, radar hack और Naraka Aimbot undetected पैकेज देता है। गोपनीयता नीति narakacheats.org और Naraka लाइसेंस के लिए।",
 					imageAlt: "Naraka Cheats",
@@ -17895,7 +17895,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				refund: {
 					title: "रिफंड नीति | Naraka Cheats",
-					description: "रिफंड नीति Naraka Cheats — ESP wallhack, Aimbot के लिए, Windows PC.",
+					description: "रिफंड नीति Naraka Cheats — ESP wallhack, Aimbot के लिए, Windows PC. Compare plans and guides at narakacheats.org.",
 					h1: "रिफंड नीति",
 					intro: "Naraka Cheats Naraka के लिए Windows PC पर ESP wallhack, radar hack और Naraka Aimbot undetected पैकेज देता है। रिफंड नीति narakacheats.org और Naraka लाइसेंस के लिए।",
 					imageAlt: "Naraka Cheats",
@@ -17930,7 +17930,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				terms: {
 					title: "उपयोग की शर्तें | Naraka Cheats",
-					description: "उपयोग की शर्तें Naraka Cheats — ESP wallhack, Aimbot के लिए, Windows PC.",
+					description: "उपयोग की शर्तें Naraka Cheats — ESP wallhack, Aimbot के लिए, Windows PC. Compare plans and guides at narakacheats.org.",
 					h1: "उपयोग की शर्तें",
 					intro: "Naraka Cheats Naraka के लिए Windows PC पर ESP wallhack, radar hack और Naraka Aimbot undetected पैकेज देता है। उपयोग की शर्तें narakacheats.org और Naraka लाइसेंस के लिए।",
 					imageAlt: "Naraka Cheats",
@@ -18040,7 +18040,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Naraka Cheats 2026 | ESP, Wallhack & Aimbot",
-					description: "Cheat Naraka undetected untuk Naraka di PC. ESP wallhack, radar hack, Aimbot, pemeliharaan NEAC. Pengiriman digital instan.",
+					description: "Cheat Naraka undetected untuk Naraka di PC. ESP wallhack, radar hack, Aimbot, pemeliharaan NEAC. Pengiriman digital instan. Compare plans and guides at",
 					h1: "hack undetected untuk Naraka",
 					intro: "Paket undetected Naraka di Windows PC: ESP wallhack, radar, Aimbot dengan pemeliharaan NEAC.",
 					imageAlt: "Naraka ESP player tags hack",
@@ -18067,8 +18067,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				"naraka-esp": {
-					title: "ESP| Wallhack & Player Boxes | Naraka Cheats",
-					description: "Naraka ESP wallhack — player boxes, hero markers & distance tags on PC. Undetected naraka cheats with aimbot & radar. Shop at narakacheats.org.",
+					title: "ESP | Wallhack & Player Boxes | Naraka Cheats",
+					description: "ESP for Naraka Bladepoint on Windows PC — kotak pemain, penanda bangkai, dan overlay wallhack. pengiriman digital instan. Official naraka cheats at",
 					h1: "ESP",
 					intro: "Lihat pemain dan loot menembus dinding saat match Naraka. Bagian dari lisensi Naraka Cheats yang sama.",
 					imageAlt: "Naraka ESP player boxes and distance readouts in a match",
@@ -18117,8 +18117,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				"naraka-aimbot": {
-					title: "Aimbot| Soft Aim & FOV Settings | Naraka Cheats",
-					description: "Naraka aimbot with soft aim, FOV, bone priority & hotkeys on PC. Undetected Naraka Cheats with ESP & radar included. narakacheats.org.",
+					title: "Aimbot | Soft Aim & FOV Settings | Naraka Cheats",
+					description: "Aimbot for Naraka Bladepoint on Windows PC — soft aim, FOV, dan profil Aimbot per spesies. pengiriman digital instan. Official naraka cheats at",
 					h1: "Aimbot",
 					intro: "Soft aim dan bantuan aim yang bisa disesuaikan untuk Naraka. Termasuk dalam lisensi Naraka Cheats yang sama.",
 					imageAlt: "Naraka Aimbot and soft aim controls on Windows PC",
@@ -18168,7 +18168,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Fitur 2026 | ESP, Aimbot & Radar | Naraka Cheats",
-					description: "Naraka Cheats menyediakan ESP wallhack, radar hack, dan Naraka Aimbot undetected untuk Naraka di PC Windows. ESP, soft aim, kontrol radar",
+					description: "Fitur: ESP, soft aim, kontrol radar. pengiriman digital instan. undetected. Compare plans and guides at narakacheats.org.",
 					h1: "Fitur",
 					intro: "Naraka Cheats menyediakan ESP wallhack, radar hack, dan Naraka Aimbot undetected untuk Naraka di PC Windows. Fitur für Naraka auf PC Windows.",
 					imageAlt: "Naraka Cheats features — ESP, soft aim, and radar screenshots",
@@ -18246,8 +18246,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				pricing: {
-					title: "Toko| $35/mo or $150 Lifetime",
-					description: "Buy Naraka cheats at narakacheats.org — $35/month or $150 lifetime. ESP, aimbot & radar on PC. Same features, instant delivery.",
+					title: "Toko | $35/mo or $150 Lifetime",
+					description: "Toko for Naraka Bladepoint on Windows PC — lisensi $35 bulanan atau $150 lifetime. pengiriman digital instan. Official naraka cheats at narakacheats.org.",
 					h1: "Toko",
 					intro: "Naraka Cheats menyediakan ESP wallhack, radar hack, dan Naraka Aimbot undetected untuk Naraka di PC Windows. Toko — $35/bulan y $150 seumur hidup.",
 					imageAlt: "Naraka Cheats store plans for monthly and lifetime licenses",
@@ -18296,8 +18296,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				setup: {
-					title: "Setup| Windows PC Install Guide",
-					description: "Install Naraka Cheats on PC — activate ESP, soft aim & radar step by step. Setup guide at narakacheats.org. Check NEAC status first.",
+					title: "Setup | Windows PC Install",
+					description: "Setup for Naraka Bladepoint on Windows PC — aktivasi Windows PC dan setup peluncuran pertama. pengiriman digital instan. Official naraka cheats at",
 					h1: "Setup",
 					intro: "Instal dan aktifkan lisensi di Windows 10 atau 11 sebelum match pertama.",
 					imageAlt: "Naraka Cheats setup guide screenshot for Windows PC",
@@ -18346,8 +18346,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				updates: {
-					title: "Status| NEAC Updates | Naraka Cheats",
-					description: "Live status after Naraka & NEAC patches. Check undetected ESP, aimbot & radar rebuilds on PC before you queue. narakacheats.org.",
+					title: "Status | NEAC Updates | Naraka Cheats",
+					description: "Status for Naraka Bladepoint on Windows PC — status patch NEAC dan catatan rebuild. pengiriman digital instan. Official naraka cheats at narakacheats.org.",
 					h1: "Status",
 					intro: "Periksa Updates setelah patch NEAC. Tidak ada cheat yang menjamin undetected permanen.",
 					imageAlt: "Naraka Cheats live status after NEAC and game patches",
@@ -18395,8 +18395,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				faq: {
-					title: "FAQ| ESP, Aimbot & NEAC",
-					description: "FAQ for naraka cheats — delivery, setup, undetected status, NEAC updates & pricing on PC. Answers at narakacheats.org before you buy.",
+					title: "FAQ | ESP, Aimbot & NEAC",
+					description: "FAQ for Naraka Bladepoint on Windows PC — pertanyaan ESP, soft aim, pengiriman, dan NEAC. pengiriman digital instan. Official naraka cheats at narakacheats.org.",
 					h1: "FAQ",
 					intro: "FAQ Naraka Cheats — pengiriman, setup, pembaruan, dan refund.",
 					imageAlt: "Naraka Cheats FAQ — delivery, setup, and update answers",
@@ -18443,8 +18443,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				support: {
-					title: "Dukungan| License & Setup Help",
-					description: "Support for license delivery, ESP setup & billing on PC. Email support@narakacheats.org with your order ID. narakacheats.org/support.",
+					title: "Dukungan | License & Setup Help",
+					description: "Dukungan for Naraka Bladepoint on Windows PC — bantuan pesanan dan kontak dukungan lisensi. pengiriman digital instan. Official naraka cheats at",
 					h1: "Dukungan",
 					intro: "Bantuan lisensi, setup, dan billing Naraka Cheats di Windows PC.",
 					imageAlt: "Naraka Cheats support page for license and setup help",
@@ -18481,8 +18481,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				undetected: {
-					title: "Cheat undetected | undetected",
-					description: "Cheat undetected: pemeliharaan undetected setelah patch NEAC. pengiriman digital instan. undetected — PC Windows.",
+					title: "Cheat undetected | NEAC Safe Status",
+					description: "Cheat undetected for Naraka Bladepoint on Windows PC — pemeliharaan undetected setelah patch NEAC. pengiriman digital instan. undetected. Official naraka",
 					h1: "Cheat undetected",
 					intro: "Naraka Cheats menyediakan ESP wallhack, radar hack, dan Naraka Aimbot undetected untuk Naraka di PC Windows. Cheat undetected. pemeliharaan undetected setelah patch NEAC.",
 					imageAlt: "Naraka Cheats undetected status overview for Windows PC",
@@ -18527,8 +18527,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				wallhack: {
-					title: "Naraka Wallhack | wallhack",
-					description: "Naraka Wallhack: wallhack ESP untuk pemain, bangkai, dan jarak. pengiriman digital instan. undetected — PC Windows.",
+					title: "Naraka Wallhack | ESP Visibility",
+					description: "Naraka Wallhack for Naraka Bladepoint on Windows PC — wallhack ESP untuk pemain, bangkai, dan jarak. pengiriman digital instan. undetected. Official naraka",
 					h1: "Naraka Wallhack",
 					intro: "Naraka Cheats menyediakan ESP wallhack, radar hack, dan Naraka Aimbot undetected untuk Naraka di PC Windows. Naraka Wallhack. wallhack ESP untuk pemain, bangkai, dan jarak.",
 					imageAlt: "naraka wallhack visibility through walls in a match",
@@ -18565,8 +18565,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				radar: {
-					title: "Radar| 2D Threat Map | Naraka Cheats",
-					description: "2D radar hack for flank awareness on PC. Bundled with ESP wallhack & soft aim in one license. NEAC maintenance at narakacheats.org.",
+					title: "Radar | 2D Threat Map | Naraka Cheats",
+					description: "Radar for Naraka Bladepoint on Windows PC — petunjuk radar 2D untuk flanking dan rotasi. pengiriman digital instan. Official naraka cheats at narakacheats.org.",
 					h1: "Radar",
 					intro: "Radar 2D sederhana untuk ancaman di luar pandangan. Termasuk dalam lisensi Naraka Cheats yang sama.",
 					imageAlt: "Naraka 2D radar overlay showing nearby threats",
@@ -18603,15 +18603,15 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				neac: {
-					title: "neac | neac",
-					description: "neac: neac. pengiriman digital instan. undetected — PC Windows.",
-					h1: "neac",
-					intro: "Naraka Cheats menyediakan ESP wallhack, radar hack, dan Naraka Aimbot undetected untuk Naraka di PC Windows. neac. neac.",
-					imageAlt: "neac — Naraka Cheats",
-					galleryTitle: "neac",
+					title: "Bypass NEAC | Patch Maintenance",
+					description: "Bypass NEAC for Naraka Bladepoint on Windows PC — cara pembaruan NEAC ditangani untuk Naraka cheats. pengiriman digital instan. undetected. Official naraka",
+					h1: "Bypass NEAC",
+					intro: "Naraka Cheats menyediakan ESP wallhack, radar hack, dan Naraka Aimbot undetected untuk Naraka di PC Windows. Bypass NEAC. cara pembaruan NEAC ditangani untuk Naraka cheats.",
+					imageAlt: "Naraka Cheats maintenance after a NEAC patch",
+					galleryTitle: "Bypass NEAC",
 					ctaPrimary: "Beli Naraka Cheats",
 					ctaSecondary: "Lihat fitur",
-					ctaSecondaryHref: "/",
+					ctaSecondaryHref: "/updates/",
 					sections: [
 						{
 							h2: "NEAC overview",
@@ -18640,7 +18640,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "HWID bans, spoofers, and what we do not sell",
 							paragraphs: [
-								"Naraka Cheats menyediakan ESP wallhack, radar hack, dan Naraka Aimbot undetected untuk Naraka di PC Windows. neac",
+								"Naraka Cheats menyediakan ESP wallhack, radar hack, dan Naraka Aimbot undetected untuk Naraka di PC Windows. cara pembaruan NEAC ditangani untuk Naraka cheats",
 								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/naraka-neac-bypass/\">NEAC FAQ</a> before buying anywhere.",
 								"Periksa Updates setelah patch NEAC. Tidak ada cheat yang menjamin undetected permanen.",
 							],
@@ -18648,7 +18648,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "External architecture, stream proofing, and patch-day checklist",
 							paragraphs: [
-								"Naraka Cheats menyediakan ESP wallhack, radar hack, dan Naraka Aimbot undetected untuk Naraka di PC Windows. neac",
+								"Naraka Cheats menyediakan ESP wallhack, radar hack, dan Naraka Aimbot undetected untuk Naraka di PC Windows. cara pembaruan NEAC ditangani untuk Naraka cheats",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">Panduan cheat undetected</a>, (2) confirm NEAC notes on <a href=\"/neac-bypass/\">Pemeliharaan NEAC</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
 								"Deep dives: <a href=\"/undetected-naraka-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-naraka-cheats-eac/\">NEAC reality blog</a> · <a href=\"/naraka-cheats/\">Ringkasan Naraka Cheats</a>.",
 							],
@@ -18657,8 +18657,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot.webp",
 				},
 				"cheats-2026": {
-					title: "Cheat Naraka 2026 | cheats-2026",
-					description: "Cheat Naraka 2026: checklist naraka cheats 2026 sebelum checkout. pengiriman digital instan. undetected — PC Windows.",
+					title: "Cheat Naraka 2026 | Buyer Guide",
+					description: "Cheat Naraka 2026 for Naraka Bladepoint on Windows PC — checklist naraka cheats 2026 sebelum checkout. pengiriman digital instan. undetected. Official naraka",
 					h1: "Cheat Naraka 2026",
 					intro: "Naraka Cheats menyediakan ESP wallhack, radar hack, dan Naraka Aimbot undetected untuk Naraka di PC Windows. Cheat Naraka 2026. checklist naraka cheats 2026 sebelum checkout.",
 					imageAlt: "Naraka Cheats product overview for Naraka",
@@ -18695,7 +18695,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Episode 10+ and ranked meta in 2026",
 							paragraphs: [
 								"2026 ranked play rewards information speed — ESP hero markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/naraka-aimbot/\">Aimbot & soft aim</a> and ESP toggles.",
-								"Compare against <a href=\"/best-naraka-cheats/\">best naraka cheats</a> criteria and <a href=\"/undetected-naraka-cheats/\">undetected maintenance</a> before switching shops mid-season.",
+								"Compare against <a href=\"/\">Produk lengkap</a> criteria and <a href=\"/undetected-naraka-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/naraka-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/naraka-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
 						},
@@ -18703,8 +18703,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				hacks: {
-					title: "Naraka Cheats — Panduan lengkap| ESP, Aimbot & Wallhack",
-					description: "Naraka cheats guide — undetected ESP wallhack, soft aim, radar & NEAC rebuilds on PC. Compare features & buy from $35 at narakacheats.org.",
+					title: "Naraka Cheats — Panduan lengkap | ESP, Aimbot & Wallhack",
+					description: "Naraka Cheats — Panduan lengkap for Naraka Bladepoint on Windows PC — pilar Naraka Cheats untuk ESP dan Aimbot. pengiriman digital instan. Official naraka",
 					h1: "Naraka Cheats — Panduan lengkap",
 					intro: "Naraka cheats menambahkan ESP, radar, dan soft aim di atas game dasar. Halaman ini menjelaskan apa itu naraka cheats, apa yang termasuk Naraka Cheats, pemeliharaan NEAC, dan langkah sebelum membeli.",
 					imageAlt: "Naraka Cheats overview — ESP, aimbot, and radar for Naraka",
@@ -18776,8 +18776,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-combat.webp",
 				},
 				"cheat-download": {
-					title: "Download Cheat Naraka | cheat-download",
-					description: "Download Cheat Naraka: unduhan lisensi digital setelah pembayaran. pengiriman digital instan. undetected — PC Windows.",
+					title: "Download Cheat Naraka | Instant Access",
+					description: "Download Cheat Naraka for Naraka Bladepoint on Windows PC — unduhan lisensi digital setelah pembayaran. pengiriman digital instan. undetected. Official naraka",
 					h1: "Download Cheat Naraka",
 					intro: "Naraka Cheats menyediakan ESP wallhack, radar hack, dan Naraka Aimbot undetected untuk Naraka di PC Windows. Download Cheat Naraka. unduhan lisensi digital setelah pembayaran.",
 					imageAlt: "Naraka Cheats download and install delivery flow",
@@ -18814,8 +18814,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				"mod-menu": {
-					title: "Menu mod Naraka | mod-menu",
-					description: "Menu mod Naraka: toggle ESP dan soft aim in-client. pengiriman digital instan. undetected — PC Windows.",
+					title: "Menu mod Naraka | In-Game Toggles",
+					description: "Menu mod Naraka for Naraka Bladepoint on Windows PC — toggle ESP dan soft aim in-client. pengiriman digital instan. undetected. Official naraka cheats at",
 					h1: "Menu mod Naraka",
 					intro: "Naraka Cheats menyediakan ESP wallhack, radar hack, dan Naraka Aimbot undetected untuk Naraka di PC Windows. Menu mod Naraka. toggle ESP dan soft aim in-client.",
 					imageAlt: "Naraka Cheats in-game menu controls",
@@ -18852,8 +18852,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				"soft-aim": {
-					title: "Soft aim Naraka | soft-aim",
-					description: "Soft aim Naraka: pengaturan soft aim halus untuk Windows PC. pengiriman digital instan. undetected — PC Windows.",
+					title: "Soft aim Naraka | Smooth Aim Settings",
+					description: "Soft aim Naraka for Naraka Bladepoint on Windows PC — pengaturan soft aim halus untuk Windows PC. pengiriman digital instan. undetected. Official naraka cheats",
 					h1: "Soft aim Naraka",
 					intro: "Naraka Cheats menyediakan ESP wallhack, radar hack, dan Naraka Aimbot undetected untuk Naraka di PC Windows. Soft aim Naraka. pengaturan soft aim halus untuk Windows PC.",
 					imageAlt: "Naraka soft aim FOV and smoothness settings",
@@ -18890,8 +18890,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				"best-cheats": {
-					title: "Cheat Naraka terbaik | best-cheats",
-					description: "Cheat Naraka terbaik: apa yang dibandingkan sebelum membeli naraka cheats. pengiriman digital instan. undetected — PC Windows.",
+					title: "Cheat Naraka terbaik | Buyer Checklist",
+					description: "Cheat Naraka terbaik for Naraka Bladepoint on Windows PC — apa yang dibandingkan sebelum membeli naraka cheats. pengiriman digital instan. undetected. Official",
 					h1: "Cheat Naraka terbaik",
 					intro: "Naraka Cheats menyediakan ESP wallhack, radar hack, dan Naraka Aimbot undetected untuk Naraka di PC Windows. Cheat Naraka terbaik. apa yang dibandingkan sebelum membeli naraka cheats.",
 					imageAlt: "Naraka Cheats overview for Naraka on PC",
@@ -18936,8 +18936,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				"aimbot-hack": {
-					title: "Hack aimbot Naraka | aimbot-hack",
-					description: "Hack aimbot Naraka: assist hack Aimbot undetected untuk Naraka. pengiriman digital instan. undetected — PC Windows.",
+					title: "Hack aimbot Naraka | Soft Aim Assist",
+					description: "Hack aimbot Naraka for Naraka Bladepoint on Windows PC — assist hack Aimbot undetected untuk Naraka. pengiriman digital instan. undetected. Official naraka",
 					h1: "Hack aimbot Naraka",
 					intro: "Naraka Cheats menyediakan ESP wallhack, radar hack, dan Naraka Aimbot undetected untuk Naraka di PC Windows. Hack aimbot Naraka. assist hack Aimbot undetected untuk Naraka.",
 					imageAlt: "Naraka Aimbot hack controls and bone priority",
@@ -18974,8 +18974,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				"esp-hack": {
-					title: "Hack ESP Naraka | esp-hack",
-					description: "Hack ESP Naraka: kotak ESP hack, pin bangkai, dan jarak. pengiriman digital instan. undetected — PC Windows.",
+					title: "Hack ESP Naraka | Boxes & Loot",
+					description: "Hack ESP Naraka for Naraka Bladepoint on Windows PC — kotak ESP hack, pin bangkai, dan jarak. pengiriman digital instan. undetected. Official naraka cheats at",
 					h1: "Hack ESP Naraka",
 					intro: "Naraka Cheats menyediakan ESP wallhack, radar hack, dan Naraka Aimbot undetected untuk Naraka di PC Windows. Hack ESP Naraka. kotak ESP hack, pin bangkai, dan jarak.",
 					imageAlt: "Naraka ESP hack boxes and hero markers",
@@ -19012,8 +19012,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				"unlock-all": {
-					title: "Unlock all Naraka | unlock-all",
-					description: "Unlock all Naraka: pencarian unlock-all vs alat ESP dan Aimbot asli. pengiriman digital instan. undetected — PC Windows.",
+					title: "Unlock all Naraka | What It Means",
+					description: "Unlock all Naraka for Naraka Bladepoint on Windows PC — pencarian unlock-all vs alat ESP dan Aimbot asli. pengiriman digital instan. undetected. Official",
 					h1: "Unlock all Naraka",
 					intro: "Naraka Cheats menyediakan ESP wallhack, radar hack, dan Naraka Aimbot undetected untuk Naraka di PC Windows. Unlock all Naraka. pencarian unlock-all vs alat ESP dan Aimbot asli.",
 					imageAlt: "Naraka Cheats license features overview",
@@ -19051,7 +19051,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Kebijakan privasi | Naraka Cheats",
-					description: "Kebijakan privasi untuk Naraka Cheats — ESP wallhack, Aimbot, PC Windows.",
+					description: "Kebijakan privasi untuk Naraka Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at narakacheats.org.",
 					h1: "Kebijakan privasi",
 					intro: "Naraka Cheats menyediakan ESP wallhack, radar hack, dan Naraka Aimbot undetected untuk Naraka di PC Windows. Kebijakan privasi untuk narakacheats.org dan lisensi Naraka.",
 					imageAlt: "Naraka Cheats",
@@ -19086,7 +19086,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				refund: {
 					title: "Kebijakan refund | Naraka Cheats",
-					description: "Kebijakan refund untuk Naraka Cheats — ESP wallhack, Aimbot, PC Windows.",
+					description: "Kebijakan refund untuk Naraka Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at narakacheats.org.",
 					h1: "Kebijakan refund",
 					intro: "Naraka Cheats menyediakan ESP wallhack, radar hack, dan Naraka Aimbot undetected untuk Naraka di PC Windows. Kebijakan refund untuk narakacheats.org dan lisensi Naraka.",
 					imageAlt: "Naraka Cheats",
@@ -19121,7 +19121,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				terms: {
 					title: "Syarat penggunaan | Naraka Cheats",
-					description: "Syarat penggunaan untuk Naraka Cheats — ESP wallhack, Aimbot, PC Windows.",
+					description: "Syarat penggunaan untuk Naraka Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at narakacheats.org.",
 					h1: "Syarat penggunaan",
 					intro: "Naraka Cheats menyediakan ESP wallhack, radar hack, dan Naraka Aimbot undetected untuk Naraka di PC Windows. Syarat penggunaan untuk narakacheats.org dan lisensi Naraka.",
 					imageAlt: "Naraka Cheats",
@@ -19231,7 +19231,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Naraka Cheats 2026 | ESP, Wallhack และ Aimbot",
-					description: "Cheat Naraka undetected สำหรับ Naraka บน PC. ESP wallhack, radar hack, Aimbot, NEAC maintenance. จัดส่งดิจิทัลทันที.",
+					description: "Cheat Naraka undetected สำหรับ Naraka บน PC. ESP wallhack, radar hack, Aimbot, NEAC maintenance. จัดส่งดิจิทัลทันที. Compare plans and guides at",
 					h1: "hack undetected สำหรับ Naraka",
 					intro: "แพ็ก undetected สำหรับ Naraka บน Windows PC: ESP wallhack, radar, Aimbot พร้อม NEAC maintenance",
 					imageAlt: "Naraka ESP player tags hack",
@@ -19258,8 +19258,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				"naraka-esp": {
-					title: "ESP| Wallhack & Player Boxes | Naraka Cheats",
-					description: "Naraka ESP wallhack — player boxes, hero markers & distance tags on PC. Undetected naraka cheats with aimbot & radar. Shop at narakacheats.org.",
+					title: "ESP | Wallhack & Player Boxes | Naraka Cheats",
+					description: "ESP for Naraka Bladepoint on Windows PC — กล่องผู้เล่น มาร์กเกอร์ซาก และ overlay wallhack. จัดส่งดิจิทัลทันที. Official naraka cheats at narakacheats.org.",
 					h1: "ESP",
 					intro: "มองเห็นผู้เล่นและ loot ผ่านกำแพงระหว่าง match ใน Naraka ส่วนหนึ่งของใบอนุญาต Naraka Cheats เดียวกัน",
 					imageAlt: "Naraka ESP player boxes and distance readouts in a match",
@@ -19308,8 +19308,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				"naraka-aimbot": {
-					title: "Aimbot| Soft Aim & FOV Settings | Naraka Cheats",
-					description: "Naraka aimbot with soft aim, FOV, bone priority & hotkeys on PC. Undetected Naraka Cheats with ESP & radar included. narakacheats.org.",
+					title: "Aimbot | Soft Aim & FOV Settings | Naraka Cheats",
+					description: "Aimbot for Naraka Bladepoint on Windows PC — soft aim, FOV และโปรไฟล์ Aimbot ตามสายพันธุ์. จัดส่งดิจิทัลทันที. Official naraka cheats at narakacheats.org.",
 					h1: "Aimbot",
 					intro: "Soft aim และการช่วยเล็งที่ปรับได้สำหรับ Naraka รวมในใบอนุญาต Naraka Cheats เดียวกัน",
 					imageAlt: "Naraka Aimbot and soft aim controls on Windows PC",
@@ -19359,7 +19359,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "ฟีเจอร์ 2026 | ESP, Aimbot & Radar | Naraka Cheats",
-					description: "Naraka Cheats รวม ESP wallhack, radar hack และ Naraka Aimbot แบบ undetected สำหรับ Naraka บน Windows PC ESP, soft aim, การควบคุม radar",
+					description: "ฟีเจอร์: ESP, soft aim, การควบคุม radar. จัดส่งดิจิทัลทันที. undetected. Compare plans and guides at narakacheats.org.",
 					h1: "ฟีเจอร์",
 					intro: "Naraka Cheats รวม ESP wallhack, radar hack และ Naraka Aimbot แบบ undetected สำหรับ Naraka บน Windows PC ฟีเจอร์ für Naraka auf Windows PC.",
 					imageAlt: "Naraka Cheats features — ESP, soft aim, and radar screenshots",
@@ -19437,8 +19437,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				pricing: {
-					title: "ร้านค้า| $35/mo or $150 Lifetime",
-					description: "Buy Naraka cheats at narakacheats.org — $35/month or $150 lifetime. ESP, aimbot & radar on PC. Same features, instant delivery.",
+					title: "ร้านค้า | $35/mo or $150 Lifetime",
+					description: "ร้านค้า for Naraka Bladepoint on Windows PC — ใบอนุญาต $35 รายเดือนหรือ $150 lifetime. จัดส่งดิจิทัลทันที. Official naraka cheats at narakacheats.org.",
 					h1: "ร้านค้า",
 					intro: "Naraka Cheats รวม ESP wallhack, radar hack และ Naraka Aimbot แบบ undetected สำหรับ Naraka บน Windows PC ร้านค้า — $35/เดือน y $150 ตลอดชีพ.",
 					imageAlt: "Naraka Cheats store plans for monthly and lifetime licenses",
@@ -19487,8 +19487,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				setup: {
-					title: "ติดตั้ง| Windows PC Install Guide",
-					description: "Install Naraka Cheats on PC — activate ESP, soft aim & radar step by step. Setup guide at narakacheats.org. Check NEAC status first.",
+					title: "ติดตั้ง | Windows PC Install",
+					description: "ติดตั้ง for Naraka Bladepoint on Windows PC — การเปิดใช้งาน Windows PC และการตั้งค่าเปิดครั้งแรก. จัดส่งดิจิทัลทันที. Official naraka cheats at",
 					h1: "ติดตั้ง",
 					intro: "ติดตั้งและเปิดใช้ใบอนุญาตบน Windows 10 หรือ 11 ก่อน match ครั้งแรก",
 					imageAlt: "Naraka Cheats setup guide screenshot for Windows PC",
@@ -19537,8 +19537,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				updates: {
-					title: "สถานะ| NEAC Updates | Naraka Cheats",
-					description: "Live status after Naraka & NEAC patches. Check undetected ESP, aimbot & radar rebuilds on PC before you queue. narakacheats.org.",
+					title: "สถานะ | NEAC Updates | Naraka Cheats",
+					description: "สถานะ for Naraka Bladepoint on Windows PC — สถานะ patch NEAC และบันทึก rebuild. จัดส่งดิจิทัลทันที. Official naraka cheats at narakacheats.org.",
 					h1: "สถานะ",
 					intro: "ตรวจ Updates หลังแพตช์ NEAC ไม่มี cheat รับประกัน undetected ถาวร",
 					imageAlt: "Naraka Cheats live status after NEAC and game patches",
@@ -19586,8 +19586,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				faq: {
-					title: "FAQ| ESP, Aimbot & NEAC",
-					description: "FAQ for naraka cheats — delivery, setup, undetected status, NEAC updates & pricing on PC. Answers at narakacheats.org before you buy.",
+					title: "FAQ | ESP, Aimbot & NEAC",
+					description: "FAQ for Naraka Bladepoint on Windows PC — คำถาม ESP, soft aim, การจัดส่ง และ NEAC. จัดส่งดิจิทัลทันที. Official naraka cheats at narakacheats.org.",
 					h1: "FAQ",
 					intro: "FAQ Naraka Cheats — การจัดส่ง การติดตั้ง อัปเดต และการคืนเงิน",
 					imageAlt: "Naraka Cheats FAQ — delivery, setup, and update answers",
@@ -19634,8 +19634,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				support: {
-					title: "สนับสนุน| License & Setup Help",
-					description: "Support for license delivery, ESP setup & billing on PC. Email support@narakacheats.org with your order ID. narakacheats.org/support.",
+					title: "สนับสนุน | License & Setup Help",
+					description: "สนับสนุน for Naraka Bladepoint on Windows PC — ความช่วยเหลือคำสั่งซื้อและติดต่อสนับสนุนใบอนุญาต. จัดส่งดิจิทัลทันที. Official naraka cheats at narakacheats.org.",
 					h1: "สนับสนุน",
 					intro: "ความช่วยเหลือด้านใบอนุญาต การติดตั้ง และการเรียกเก็บเงิน Naraka Cheats บน Windows PC",
 					imageAlt: "Naraka Cheats support page for license and setup help",
@@ -19672,8 +19672,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				undetected: {
-					title: "Cheats undetected | undetected",
-					description: "Cheats undetected: การบำรุงรักษา undetected หลัง patch NEAC. จัดส่งดิจิทัลทันที. undetected — Windows PC.",
+					title: "Cheats undetected | NEAC Safe Status",
+					description: "Cheats undetected for Naraka Bladepoint on Windows PC — การบำรุงรักษา undetected หลัง patch NEAC. จัดส่งดิจิทัลทันที. undetected. Official naraka cheats at",
 					h1: "Cheats undetected",
 					intro: "Naraka Cheats รวม ESP wallhack, radar hack และ Naraka Aimbot แบบ undetected สำหรับ Naraka บน Windows PC Cheats undetected. การบำรุงรักษา undetected หลัง patch NEAC.",
 					imageAlt: "Naraka Cheats undetected status overview for Windows PC",
@@ -19718,8 +19718,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				wallhack: {
-					title: "Naraka Wallhack | wallhack",
-					description: "Naraka Wallhack: wallhack ESP สำหรับผู้เล่น ซาก และระยะทาง. จัดส่งดิจิทัลทันที. undetected — Windows PC.",
+					title: "Naraka Wallhack | ESP Visibility",
+					description: "Naraka Wallhack for Naraka Bladepoint on Windows PC — wallhack ESP สำหรับผู้เล่น ซาก และระยะทาง. จัดส่งดิจิทัลทันที. undetected. Official naraka cheats at",
 					h1: "Naraka Wallhack",
 					intro: "Naraka Cheats รวม ESP wallhack, radar hack และ Naraka Aimbot แบบ undetected สำหรับ Naraka บน Windows PC Naraka Wallhack. wallhack ESP สำหรับผู้เล่น ซาก และระยะทาง.",
 					imageAlt: "naraka wallhack visibility through walls in a match",
@@ -19756,8 +19756,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				radar: {
-					title: "Radar| 2D Threat Map | Naraka Cheats",
-					description: "2D radar hack for flank awareness on PC. Bundled with ESP wallhack & soft aim in one license. NEAC maintenance at narakacheats.org.",
+					title: "Radar | 2D Threat Map | Naraka Cheats",
+					description: "Radar for Naraka Bladepoint on Windows PC — สัญญาณ radar 2D สำหรับการโจมตีด้านข้างและการหมุน. จัดส่งดิจิทัลทันที. Official naraka cheats at narakacheats.org.",
 					h1: "Radar",
 					intro: "radar 2D เรียบง่ายสำหรับภัยคุกคามนอกสายตา รวมในใบอนุญาต Naraka Cheats เดียวกัน",
 					imageAlt: "Naraka 2D radar overlay showing nearby threats",
@@ -19794,15 +19794,15 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				neac: {
-					title: "neac | neac",
-					description: "neac: neac. จัดส่งดิจิทัลทันที. undetected — Windows PC.",
-					h1: "neac",
-					intro: "Naraka Cheats รวม ESP wallhack, radar hack และ Naraka Aimbot แบบ undetected สำหรับ Naraka บน Windows PC neac. neac.",
-					imageAlt: "neac — Naraka Cheats",
-					galleryTitle: "neac",
+					title: "NEAC Bypass | Patch Maintenance",
+					description: "NEAC Bypass for Naraka Bladepoint on Windows PC — วิธีจัดการอัปเดต NEAC สำหรับ Naraka cheats. จัดส่งดิจิทัลทันที. undetected. Official naraka cheats at",
+					h1: "NEAC Bypass",
+					intro: "Naraka Cheats รวม ESP wallhack, radar hack และ Naraka Aimbot แบบ undetected สำหรับ Naraka บน Windows PC NEAC Bypass. วิธีจัดการอัปเดต NEAC สำหรับ Naraka cheats.",
+					imageAlt: "Naraka Cheats maintenance after a NEAC patch",
+					galleryTitle: "NEAC Bypass",
 					ctaPrimary: "ซื้อ Naraka Cheats",
 					ctaSecondary: "ดูฟีเจอร์",
-					ctaSecondaryHref: "/",
+					ctaSecondaryHref: "/updates/",
 					sections: [
 						{
 							h2: "NEAC overview",
@@ -19831,7 +19831,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "HWID bans, spoofers, and what we do not sell",
 							paragraphs: [
-								"Naraka Cheats รวม ESP wallhack, radar hack และ Naraka Aimbot แบบ undetected สำหรับ Naraka บน Windows PC neac",
+								"Naraka Cheats รวม ESP wallhack, radar hack และ Naraka Aimbot แบบ undetected สำหรับ Naraka บน Windows PC วิธีจัดการอัปเดต NEAC สำหรับ Naraka cheats",
 								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/naraka-neac-bypass/\">NEAC FAQ</a> before buying anywhere.",
 								"ตรวจ Updates หลังแพตช์ NEAC ไม่มี cheat รับประกัน undetected ถาวร",
 							],
@@ -19839,7 +19839,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "External architecture, stream proofing, and patch-day checklist",
 							paragraphs: [
-								"Naraka Cheats รวม ESP wallhack, radar hack และ Naraka Aimbot แบบ undetected สำหรับ Naraka บน Windows PC neac",
+								"Naraka Cheats รวม ESP wallhack, radar hack และ Naraka Aimbot แบบ undetected สำหรับ Naraka บน Windows PC วิธีจัดการอัปเดต NEAC สำหรับ Naraka cheats",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">คู่มือ cheat undetected</a>, (2) confirm NEAC notes on <a href=\"/neac-bypass/\">การดูแล NEAC</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
 								"Deep dives: <a href=\"/undetected-naraka-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-naraka-cheats-eac/\">NEAC reality blog</a> · <a href=\"/naraka-cheats/\">ภาพรวม Naraka Cheats</a>.",
 							],
@@ -19848,8 +19848,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot.webp",
 				},
 				"cheats-2026": {
-					title: "Naraka Cheats 2026 | cheats-2026",
-					description: "Naraka Cheats 2026: checklist naraka cheats 2026 ก่อน checkout. จัดส่งดิจิทัลทันที. undetected — Windows PC.",
+					title: "Naraka Cheats 2026 | Buyer Guide",
+					description: "Naraka Cheats 2026 for Naraka Bladepoint on Windows PC — checklist naraka cheats 2026 ก่อน checkout. จัดส่งดิจิทัลทันที. undetected. Official naraka cheats at",
 					h1: "Naraka Cheats 2026",
 					intro: "Naraka Cheats รวม ESP wallhack, radar hack และ Naraka Aimbot แบบ undetected สำหรับ Naraka บน Windows PC Naraka Cheats 2026. checklist naraka cheats 2026 ก่อน checkout.",
 					imageAlt: "Naraka Cheats product overview for Naraka",
@@ -19886,7 +19886,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Episode 10+ and ranked meta in 2026",
 							paragraphs: [
 								"2026 ranked play rewards information speed — ESP hero markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/naraka-aimbot/\">Aimbot และ soft aim</a> and ESP toggles.",
-								"Compare against <a href=\"/best-naraka-cheats/\">best naraka cheats</a> criteria and <a href=\"/undetected-naraka-cheats/\">undetected maintenance</a> before switching shops mid-season.",
+								"Compare against <a href=\"/\">ผลิตภัณฑ์เต็มรูปแบบ</a> criteria and <a href=\"/undetected-naraka-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/naraka-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/naraka-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
 						},
@@ -19894,8 +19894,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				hacks: {
-					title: "Naraka Cheats — คู่มือฉบับสมบูรณ์| ESP, Aimbot & Wallhack",
-					description: "Naraka cheats guide — undetected ESP wallhack, soft aim, radar & NEAC rebuilds on PC. Compare features & buy from $35 at narakacheats.org.",
+					title: "Naraka Cheats — คู่มือฉบับสมบูรณ์ | ESP, Aimbot & Wallhack",
+					description: "Naraka Cheats — คู่มือฉบับสมบูรณ์ for Naraka Bladepoint on Windows PC — เสาหลัก Naraka Cheats สำหรับ ESP และ Aimbot. จัดส่งดิจิทัลทันที. Official naraka cheats",
 					h1: "Naraka Cheats — คู่มือฉบับสมบูรณ์",
 					intro: "Naraka cheats เพิ่ม ESP, radar และ soft aim บนเกมหลัก หน้านี้อธิบาย naraka cheats คืออะไร Naraka Cheats รวมอะไร การดูแล NEAC และขั้นตอนก่อนซื้อ",
 					imageAlt: "Naraka Cheats overview — ESP, aimbot, and radar for Naraka",
@@ -19967,8 +19967,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-combat.webp",
 				},
 				"cheat-download": {
-					title: "ดาวน์โหลด Naraka Cheats | cheat-download",
-					description: "ดาวน์โหลด Naraka Cheats: ดาวน์โหลดใบอนุญาตดิจิทัลหลังชำระเงิน. จัดส่งดิจิทัลทันที. undetected — Windows PC.",
+					title: "ดาวน์โหลด Naraka Cheats | Instant Access",
+					description: "ดาวน์โหลด Naraka Cheats for Naraka Bladepoint on Windows PC — ดาวน์โหลดใบอนุญาตดิจิทัลหลังชำระเงิน. จัดส่งดิจิทัลทันที. undetected. Official naraka cheats at",
 					h1: "ดาวน์โหลด Naraka Cheats",
 					intro: "Naraka Cheats รวม ESP wallhack, radar hack และ Naraka Aimbot แบบ undetected สำหรับ Naraka บน Windows PC ดาวน์โหลด Naraka Cheats. ดาวน์โหลดใบอนุญาตดิจิทัลหลังชำระเงิน.",
 					imageAlt: "Naraka Cheats download and install delivery flow",
@@ -20005,8 +20005,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				"mod-menu": {
-					title: "เมนูมอด Naraka | mod-menu",
-					description: "เมนูมอด Naraka: สวิตช์ ESP และ soft aim ในไคลเอนต์. จัดส่งดิจิทัลทันที. undetected — Windows PC.",
+					title: "เมนูมอด Naraka | In-Game Toggles",
+					description: "เมนูมอด Naraka for Naraka Bladepoint on Windows PC — สวิตช์ ESP และ soft aim ในไคลเอนต์. จัดส่งดิจิทัลทันที. undetected. Official naraka cheats at",
 					h1: "เมนูมอด Naraka",
 					intro: "Naraka Cheats รวม ESP wallhack, radar hack และ Naraka Aimbot แบบ undetected สำหรับ Naraka บน Windows PC เมนูมอด Naraka. สวิตช์ ESP และ soft aim ในไคลเอนต์.",
 					imageAlt: "Naraka Cheats in-game menu controls",
@@ -20043,8 +20043,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				"soft-aim": {
-					title: "Naraka Soft Aim | soft-aim",
-					description: "Naraka Soft Aim: การตั้งค่า soft aim ที่ลื่นไหลสำหรับ Windows PC. จัดส่งดิจิทัลทันที. undetected — Windows PC.",
+					title: "Naraka Soft Aim | Smooth Aim Settings",
+					description: "Naraka Soft Aim for Naraka Bladepoint on Windows PC — การตั้งค่า soft aim ที่ลื่นไหลสำหรับ Windows PC. จัดส่งดิจิทัลทันที. undetected. Official naraka cheats",
 					h1: "Naraka Soft Aim",
 					intro: "Naraka Cheats รวม ESP wallhack, radar hack และ Naraka Aimbot แบบ undetected สำหรับ Naraka บน Windows PC Naraka Soft Aim. การตั้งค่า soft aim ที่ลื่นไหลสำหรับ Windows PC.",
 					imageAlt: "Naraka soft aim FOV and smoothness settings",
@@ -20081,8 +20081,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				"best-cheats": {
-					title: "Cheat Naraka ที่ดีที่สุด | best-cheats",
-					description: "Cheat Naraka ที่ดีที่สุด: สิ่งที่ควรเปรียบเทียบก่อนซื้อ naraka cheats. จัดส่งดิจิทัลทันที. undetected — Windows PC.",
+					title: "Cheat Naraka ที่ดีที่สุด | Buyer Checklist",
+					description: "Cheat Naraka ที่ดีที่สุด for Naraka Bladepoint on Windows PC — สิ่งที่ควรเปรียบเทียบก่อนซื้อ naraka cheats. จัดส่งดิจิทัลทันที. undetected. Official naraka",
 					h1: "Cheat Naraka ที่ดีที่สุด",
 					intro: "Naraka Cheats รวม ESP wallhack, radar hack และ Naraka Aimbot แบบ undetected สำหรับ Naraka บน Windows PC Cheat Naraka ที่ดีที่สุด. สิ่งที่ควรเปรียบเทียบก่อนซื้อ naraka cheats.",
 					imageAlt: "Naraka Cheats overview for Naraka on PC",
@@ -20127,8 +20127,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				"aimbot-hack": {
-					title: "Hack Aimbot Naraka | aimbot-hack",
-					description: "Hack Aimbot Naraka: assist hack Aimbot undetected สำหรับ Naraka. จัดส่งดิจิทัลทันที. undetected — Windows PC.",
+					title: "Hack Aimbot Naraka | Soft Aim Assist",
+					description: "Hack Aimbot Naraka for Naraka Bladepoint on Windows PC — assist hack Aimbot undetected สำหรับ Naraka. จัดส่งดิจิทัลทันที. undetected. Official naraka cheats at",
 					h1: "Hack Aimbot Naraka",
 					intro: "Naraka Cheats รวม ESP wallhack, radar hack และ Naraka Aimbot แบบ undetected สำหรับ Naraka บน Windows PC Hack Aimbot Naraka. assist hack Aimbot undetected สำหรับ Naraka.",
 					imageAlt: "Naraka Aimbot hack controls and bone priority",
@@ -20165,8 +20165,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				"esp-hack": {
-					title: "Hack ESP Naraka | esp-hack",
-					description: "Hack ESP Naraka: กล่อง ESP hack, pin ซาก และระยะทาง. จัดส่งดิจิทัลทันที. undetected — Windows PC.",
+					title: "Hack ESP Naraka | Boxes & Loot",
+					description: "Hack ESP Naraka for Naraka Bladepoint on Windows PC — กล่อง ESP hack, pin ซาก และระยะทาง. จัดส่งดิจิทัลทันที. undetected. Official naraka cheats at",
 					h1: "Hack ESP Naraka",
 					intro: "Naraka Cheats รวม ESP wallhack, radar hack และ Naraka Aimbot แบบ undetected สำหรับ Naraka บน Windows PC Hack ESP Naraka. กล่อง ESP hack, pin ซาก และระยะทาง.",
 					imageAlt: "Naraka ESP hack boxes and hero markers",
@@ -20203,8 +20203,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				"unlock-all": {
-					title: "Naraka Unlock All | unlock-all",
-					description: "Naraka Unlock All: การค้นหา unlock-all vs เครื่องมือ ESP และ Aimbot จริง. จัดส่งดิจิทัลทันที. undetected — Windows PC.",
+					title: "Naraka Unlock All | What It Means",
+					description: "Naraka Unlock All for Naraka Bladepoint on Windows PC — การค้นหา unlock-all vs เครื่องมือ ESP และ Aimbot จริง. จัดส่งดิจิทัลทันที. undetected. Official naraka",
 					h1: "Naraka Unlock All",
 					intro: "Naraka Cheats รวม ESP wallhack, radar hack และ Naraka Aimbot แบบ undetected สำหรับ Naraka บน Windows PC Naraka Unlock All. การค้นหา unlock-all vs เครื่องมือ ESP และ Aimbot จริง.",
 					imageAlt: "Naraka Cheats license features overview",
@@ -20242,7 +20242,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "นโยบายความเป็นส่วนตัว | Naraka Cheats",
-					description: "นโยบายความเป็นส่วนตัว สำหรับ Naraka Cheats — ESP wallhack, Aimbot, Windows PC.",
+					description: "นโยบายความเป็นส่วนตัว สำหรับ Naraka Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at narakacheats.org.",
 					h1: "นโยบายความเป็นส่วนตัว",
 					intro: "Naraka Cheats รวม ESP wallhack, radar hack และ Naraka Aimbot แบบ undetected สำหรับ Naraka บน Windows PC นโยบายความเป็นส่วนตัว สำหรับ narakacheats.org และใบอนุญาต Naraka",
 					imageAlt: "Naraka Cheats",
@@ -20277,7 +20277,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				refund: {
 					title: "นโยบายการคืนเงิน | Naraka Cheats",
-					description: "นโยบายการคืนเงิน สำหรับ Naraka Cheats — ESP wallhack, Aimbot, Windows PC.",
+					description: "นโยบายการคืนเงิน สำหรับ Naraka Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at narakacheats.org.",
 					h1: "นโยบายการคืนเงิน",
 					intro: "Naraka Cheats รวม ESP wallhack, radar hack และ Naraka Aimbot แบบ undetected สำหรับ Naraka บน Windows PC นโยบายการคืนเงิน สำหรับ narakacheats.org และใบอนุญาต Naraka",
 					imageAlt: "Naraka Cheats",
@@ -20312,7 +20312,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				terms: {
 					title: "ข้อกำหนดการใช้งาน | Naraka Cheats",
-					description: "ข้อกำหนดการใช้งาน สำหรับ Naraka Cheats — ESP wallhack, Aimbot, Windows PC.",
+					description: "ข้อกำหนดการใช้งาน สำหรับ Naraka Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at narakacheats.org.",
 					h1: "ข้อกำหนดการใช้งาน",
 					intro: "Naraka Cheats รวม ESP wallhack, radar hack และ Naraka Aimbot แบบ undetected สำหรับ Naraka บน Windows PC ข้อกำหนดการใช้งาน สำหรับ narakacheats.org และใบอนุญาต Naraka",
 					imageAlt: "Naraka Cheats",
@@ -20422,7 +20422,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Naraka Cheats 2026 | ESP, Wallhack & Aimbot",
-					description: "Cheat Naraka undetected cho Naraka trên PC. ESP wallhack, radar hack, Aimbot, bảo trì NEAC. Giao hàng kỹ thuật số tức thì.",
+					description: "Cheat Naraka undetected cho Naraka trên PC. ESP wallhack, radar hack, Aimbot, bảo trì NEAC. Giao hàng kỹ thuật số tức thì. Compare plans and guides at",
 					h1: "hack undetected cho Naraka",
 					intro: "Gói undetected Naraka trên Windows PC: ESP wallhack, radar, Aimbot với bảo trì NEAC.",
 					imageAlt: "Naraka ESP player tags hack",
@@ -20449,8 +20449,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				"naraka-esp": {
-					title: "ESP| Wallhack & Player Boxes | Naraka Cheats",
-					description: "Naraka ESP wallhack — player boxes, hero markers & distance tags on PC. Undetected naraka cheats with aimbot & radar. Shop at narakacheats.org.",
+					title: "ESP | Wallhack & Player Boxes | Naraka Cheats",
+					description: "ESP for Naraka Bladepoint on Windows PC — hộp người chơi, đánh dấu xác thịt và overlay wallhack. giao hàng kỹ thuật số tức thì. Official naraka cheats at",
 					h1: "ESP",
 					intro: "Nhìn xuyên tường thấy người chơi và loot khi match Naraka. Thuộc cùng giấy phép Naraka Cheats.",
 					imageAlt: "Naraka ESP player boxes and distance readouts in a match",
@@ -20499,8 +20499,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				"naraka-aimbot": {
-					title: "Aimbot| Soft Aim & FOV Settings | Naraka Cheats",
-					description: "Naraka aimbot with soft aim, FOV, bone priority & hotkeys on PC. Undetected Naraka Cheats with ESP & radar included. narakacheats.org.",
+					title: "Aimbot | Soft Aim & FOV Settings | Naraka Cheats",
+					description: "Aimbot for Naraka Bladepoint on Windows PC — soft aim, FOV và hồ sơ Aimbot theo loài. giao hàng kỹ thuật số tức thì. Official naraka cheats at narakacheats.org.",
 					h1: "Aimbot",
 					intro: "Soft aim và hỗ trợ ngắm có thể tinh chỉnh cho Naraka. Thuộc cùng giấy phép Naraka Cheats.",
 					imageAlt: "Naraka Aimbot and soft aim controls on Windows PC",
@@ -20550,7 +20550,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Tính năng 2026 | ESP, Aimbot & Radar | Naraka Cheats",
-					description: "Naraka Cheats cung cấp ESP wallhack, radar hack và Naraka Aimbot undetected cho Naraka trên PC Windows. ESP, soft aim, điều khiển radar",
+					description: "Tính năng: ESP, soft aim, điều khiển radar. giao hàng kỹ thuật số tức thì. undetected. Compare plans and guides at narakacheats.org.",
 					h1: "Tính năng",
 					intro: "Naraka Cheats cung cấp ESP wallhack, radar hack và Naraka Aimbot undetected cho Naraka trên PC Windows. Tính năng für Naraka auf PC Windows.",
 					imageAlt: "Naraka Cheats features — ESP, soft aim, and radar screenshots",
@@ -20628,8 +20628,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				pricing: {
-					title: "Cửa hàng| $35/mo or $150 Lifetime",
-					description: "Buy Naraka cheats at narakacheats.org — $35/month or $150 lifetime. ESP, aimbot & radar on PC. Same features, instant delivery.",
+					title: "Cửa hàng | $35/mo or $150 Lifetime",
+					description: "Cửa hàng for Naraka Bladepoint on Windows PC — giấy phép $35 hàng tháng hoặc $150 lifetime. giao hàng kỹ thuật số tức thì. Official naraka cheats at",
 					h1: "Cửa hàng",
 					intro: "Naraka Cheats cung cấp ESP wallhack, radar hack và Naraka Aimbot undetected cho Naraka trên PC Windows. Cửa hàng — $35/tháng y $150 trọn đời.",
 					imageAlt: "Naraka Cheats store plans for monthly and lifetime licenses",
@@ -20678,8 +20678,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				setup: {
-					title: "Cài đặt| Windows PC Install Guide",
-					description: "Install Naraka Cheats on PC — activate ESP, soft aim & radar step by step. Setup guide at narakacheats.org. Check NEAC status first.",
+					title: "Cài đặt | Windows PC Install",
+					description: "Cài đặt for Naraka Bladepoint on Windows PC — kích hoạt Windows PC và thiết lập lần chạy đầu. giao hàng kỹ thuật số tức thì. Official naraka cheats at",
 					h1: "Cài đặt",
 					intro: "Cài và kích hoạt giấy phép trên Windows 10 hoặc 11 trước match đầu tiên.",
 					imageAlt: "Naraka Cheats setup guide screenshot for Windows PC",
@@ -20728,8 +20728,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				updates: {
-					title: "Trạng thái| NEAC Updates | Naraka Cheats",
-					description: "Live status after Naraka & NEAC patches. Check undetected ESP, aimbot & radar rebuilds on PC before you queue. narakacheats.org.",
+					title: "Trạng thái | NEAC Updates | Naraka Cheats",
+					description: "Trạng thái for Naraka Bladepoint on Windows PC — trạng thái patch NEAC và ghi chú rebuild. giao hàng kỹ thuật số tức thì. Official naraka cheats at",
 					h1: "Trạng thái",
 					intro: "Kiểm tra Updates sau bản vá NEAC. Không cheat nào đảm bảo undetected vĩnh viễn.",
 					imageAlt: "Naraka Cheats live status after NEAC and game patches",
@@ -20777,8 +20777,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				faq: {
-					title: "FAQ| ESP, Aimbot & NEAC",
-					description: "FAQ for naraka cheats — delivery, setup, undetected status, NEAC updates & pricing on PC. Answers at narakacheats.org before you buy.",
+					title: "FAQ | ESP, Aimbot & NEAC",
+					description: "FAQ for Naraka Bladepoint on Windows PC — câu hỏi ESP, soft aim, giao hàng và NEAC. giao hàng kỹ thuật số tức thì. Official naraka cheats at narakacheats.org.",
 					h1: "FAQ",
 					intro: "FAQ Naraka Cheats — giao hàng, cài đặt, cập nhật và hoàn tiền.",
 					imageAlt: "Naraka Cheats FAQ — delivery, setup, and update answers",
@@ -20825,8 +20825,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				support: {
-					title: "Hỗ trợ| License & Setup Help",
-					description: "Support for license delivery, ESP setup & billing on PC. Email support@narakacheats.org with your order ID. narakacheats.org/support.",
+					title: "Hỗ trợ | License & Setup Help",
+					description: "Hỗ trợ for Naraka Bladepoint on Windows PC — trợ giúp đơn hàng và liên hệ hỗ trợ giấy phép. giao hàng kỹ thuật số tức thì. Official naraka cheats at",
 					h1: "Hỗ trợ",
 					intro: "Hỗ trợ giấy phép, cài đặt và thanh toán Naraka Cheats trên Windows PC.",
 					imageAlt: "Naraka Cheats support page for license and setup help",
@@ -20863,8 +20863,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				undetected: {
-					title: "Cheat undetected | undetected",
-					description: "Cheat undetected: bảo trì undetected sau patch NEAC. giao hàng kỹ thuật số tức thì. undetected — PC Windows.",
+					title: "Cheat undetected | NEAC Safe Status",
+					description: "Cheat undetected for Naraka Bladepoint on Windows PC — bảo trì undetected sau patch NEAC. giao hàng kỹ thuật số tức thì. undetected. Official naraka cheats at",
 					h1: "Cheat undetected",
 					intro: "Naraka Cheats cung cấp ESP wallhack, radar hack và Naraka Aimbot undetected cho Naraka trên PC Windows. Cheat undetected. bảo trì undetected sau patch NEAC.",
 					imageAlt: "Naraka Cheats undetected status overview for Windows PC",
@@ -20909,8 +20909,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				wallhack: {
-					title: "Naraka Wallhack | wallhack",
-					description: "Naraka Wallhack: wallhack ESP cho người chơi, xác thịt và khoảng cách. giao hàng kỹ thuật số tức thì. undetected — PC Windows.",
+					title: "Naraka Wallhack | ESP Visibility",
+					description: "Naraka Wallhack for Naraka Bladepoint on Windows PC — wallhack ESP cho người chơi, xác thịt và khoảng cách. giao hàng kỹ thuật số tức thì. undetected. Official",
 					h1: "Naraka Wallhack",
 					intro: "Naraka Cheats cung cấp ESP wallhack, radar hack và Naraka Aimbot undetected cho Naraka trên PC Windows. Naraka Wallhack. wallhack ESP cho người chơi, xác thịt và khoảng cách.",
 					imageAlt: "naraka wallhack visibility through walls in a match",
@@ -20947,8 +20947,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				radar: {
-					title: "Radar| 2D Threat Map | Naraka Cheats",
-					description: "2D radar hack for flank awareness on PC. Bundled with ESP wallhack & soft aim in one license. NEAC maintenance at narakacheats.org.",
+					title: "Radar | 2D Threat Map | Naraka Cheats",
+					description: "Radar for Naraka Bladepoint on Windows PC — tín hiệu radar 2D cho đánh hông và xoay vòng. giao hàng kỹ thuật số tức thì. Official naraka cheats at",
 					h1: "Radar",
 					intro: "Radar 2D đơn giản cho mối đe dọa ngoài tầm nhìn. Thuộc cùng giấy phép Naraka Cheats.",
 					imageAlt: "Naraka 2D radar overlay showing nearby threats",
@@ -20985,15 +20985,15 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				neac: {
-					title: "neac | neac",
-					description: "neac: neac. giao hàng kỹ thuật số tức thì. undetected — PC Windows.",
-					h1: "neac",
-					intro: "Naraka Cheats cung cấp ESP wallhack, radar hack và Naraka Aimbot undetected cho Naraka trên PC Windows. neac. neac.",
-					imageAlt: "neac — Naraka Cheats",
-					galleryTitle: "neac",
+					title: "Bypass NEAC | Patch Maintenance",
+					description: "Bypass NEAC for Naraka Bladepoint on Windows PC — cách xử lý cập nhật NEAC cho Naraka cheats. giao hàng kỹ thuật số tức thì. undetected. Official naraka cheats",
+					h1: "Bypass NEAC",
+					intro: "Naraka Cheats cung cấp ESP wallhack, radar hack và Naraka Aimbot undetected cho Naraka trên PC Windows. Bypass NEAC. cách xử lý cập nhật NEAC cho Naraka cheats.",
+					imageAlt: "Naraka Cheats maintenance after a NEAC patch",
+					galleryTitle: "Bypass NEAC",
 					ctaPrimary: "Mua Naraka Cheats",
 					ctaSecondary: "Xem tính năng",
-					ctaSecondaryHref: "/",
+					ctaSecondaryHref: "/updates/",
 					sections: [
 						{
 							h2: "NEAC overview",
@@ -21022,7 +21022,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "HWID bans, spoofers, and what we do not sell",
 							paragraphs: [
-								"Naraka Cheats cung cấp ESP wallhack, radar hack và Naraka Aimbot undetected cho Naraka trên PC Windows. neac",
+								"Naraka Cheats cung cấp ESP wallhack, radar hack và Naraka Aimbot undetected cho Naraka trên PC Windows. cách xử lý cập nhật NEAC cho Naraka cheats",
 								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/naraka-neac-bypass/\">NEAC FAQ</a> before buying anywhere.",
 								"Kiểm tra Updates sau bản vá NEAC. Không cheat nào đảm bảo undetected vĩnh viễn.",
 							],
@@ -21030,7 +21030,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "External architecture, stream proofing, and patch-day checklist",
 							paragraphs: [
-								"Naraka Cheats cung cấp ESP wallhack, radar hack và Naraka Aimbot undetected cho Naraka trên PC Windows. neac",
+								"Naraka Cheats cung cấp ESP wallhack, radar hack và Naraka Aimbot undetected cho Naraka trên PC Windows. cách xử lý cập nhật NEAC cho Naraka cheats",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">Hướng dẫn cheat undetected</a>, (2) confirm NEAC notes on <a href=\"/neac-bypass/\">Bảo trì NEAC</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
 								"Deep dives: <a href=\"/undetected-naraka-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-naraka-cheats-eac/\">NEAC reality blog</a> · <a href=\"/naraka-cheats/\">Tổng quan Naraka Cheats</a>.",
 							],
@@ -21039,8 +21039,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot.webp",
 				},
 				"cheats-2026": {
-					title: "Cheat Naraka 2026 | cheats-2026",
-					description: "Cheat Naraka 2026: checklist naraka cheats 2026 trước checkout. giao hàng kỹ thuật số tức thì. undetected — PC Windows.",
+					title: "Cheat Naraka 2026 | Buyer Guide",
+					description: "Cheat Naraka 2026 for Naraka Bladepoint on Windows PC — checklist naraka cheats 2026 trước checkout. giao hàng kỹ thuật số tức thì. undetected. Official naraka",
 					h1: "Cheat Naraka 2026",
 					intro: "Naraka Cheats cung cấp ESP wallhack, radar hack và Naraka Aimbot undetected cho Naraka trên PC Windows. Cheat Naraka 2026. checklist naraka cheats 2026 trước checkout.",
 					imageAlt: "Naraka Cheats product overview for Naraka",
@@ -21077,7 +21077,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Episode 10+ and ranked meta in 2026",
 							paragraphs: [
 								"2026 ranked play rewards information speed — ESP hero markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/naraka-aimbot/\">Aimbot & soft aim</a> and ESP toggles.",
-								"Compare against <a href=\"/best-naraka-cheats/\">best naraka cheats</a> criteria and <a href=\"/undetected-naraka-cheats/\">undetected maintenance</a> before switching shops mid-season.",
+								"Compare against <a href=\"/\">Sản phẩm đầy đủ</a> criteria and <a href=\"/undetected-naraka-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/naraka-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/naraka-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
 						},
@@ -21085,8 +21085,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				hacks: {
-					title: "Naraka Cheats — Hướng dẫn đầy đủ| ESP, Aimbot & Wallhack",
-					description: "Naraka cheats guide — undetected ESP wallhack, soft aim, radar & NEAC rebuilds on PC. Compare features & buy from $35 at narakacheats.org.",
+					title: "Naraka Cheats — Hướng dẫn đầy đủ | ESP, Aimbot & Wallhack",
+					description: "Naraka Cheats — Hướng dẫn đầy đủ for Naraka Bladepoint on Windows PC — trụ cột Naraka Cheats cho ESP và Aimbot. giao hàng kỹ thuật số tức thì. Official naraka",
 					h1: "Naraka Cheats — Hướng dẫn đầy đủ",
 					intro: "Naraka cheats thêm ESP, radar và soft aim lên game gốc. Trang này giải thích naraka cheats là gì, Naraka Cheats gồm gì, bảo trì NEAC và bước tiếp theo trước khi mua.",
 					imageAlt: "Naraka Cheats overview — ESP, aimbot, and radar for Naraka",
@@ -21158,8 +21158,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-combat.webp",
 				},
 				"cheat-download": {
-					title: "Tải Cheat Naraka | cheat-download",
-					description: "Tải Cheat Naraka: tải giấy phép kỹ thuật số sau thanh toán. giao hàng kỹ thuật số tức thì. undetected — PC Windows.",
+					title: "Tải Cheat Naraka | Instant Access",
+					description: "Tải Cheat Naraka for Naraka Bladepoint on Windows PC — tải giấy phép kỹ thuật số sau thanh toán. giao hàng kỹ thuật số tức thì. undetected. Official naraka",
 					h1: "Tải Cheat Naraka",
 					intro: "Naraka Cheats cung cấp ESP wallhack, radar hack và Naraka Aimbot undetected cho Naraka trên PC Windows. Tải Cheat Naraka. tải giấy phép kỹ thuật số sau thanh toán.",
 					imageAlt: "Naraka Cheats download and install delivery flow",
@@ -21196,8 +21196,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				"mod-menu": {
-					title: "Mod menu Naraka | mod-menu",
-					description: "Mod menu Naraka: công tắc ESP và soft aim trong client. giao hàng kỹ thuật số tức thì. undetected — PC Windows.",
+					title: "Mod menu Naraka | In-Game Toggles",
+					description: "Mod menu Naraka for Naraka Bladepoint on Windows PC — công tắc ESP và soft aim trong client. giao hàng kỹ thuật số tức thì. undetected. Official naraka cheats",
 					h1: "Mod menu Naraka",
 					intro: "Naraka Cheats cung cấp ESP wallhack, radar hack và Naraka Aimbot undetected cho Naraka trên PC Windows. Mod menu Naraka. công tắc ESP và soft aim trong client.",
 					imageAlt: "Naraka Cheats in-game menu controls",
@@ -21234,8 +21234,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				"soft-aim": {
-					title: "Soft aim Naraka | soft-aim",
-					description: "Soft aim Naraka: cài đặt soft aim mượt cho Windows PC. giao hàng kỹ thuật số tức thì. undetected — PC Windows.",
+					title: "Soft aim Naraka | Smooth Aim Settings",
+					description: "Soft aim Naraka for Naraka Bladepoint on Windows PC — cài đặt soft aim mượt cho Windows PC. giao hàng kỹ thuật số tức thì. undetected. Official naraka cheats",
 					h1: "Soft aim Naraka",
 					intro: "Naraka Cheats cung cấp ESP wallhack, radar hack và Naraka Aimbot undetected cho Naraka trên PC Windows. Soft aim Naraka. cài đặt soft aim mượt cho Windows PC.",
 					imageAlt: "Naraka soft aim FOV and smoothness settings",
@@ -21272,8 +21272,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				"best-cheats": {
-					title: "Cheat Naraka tốt nhất | best-cheats",
-					description: "Cheat Naraka tốt nhất: nên so sánh gì trước khi mua naraka cheats. giao hàng kỹ thuật số tức thì. undetected — PC Windows.",
+					title: "Cheat Naraka tốt nhất | Buyer Checklist",
+					description: "Cheat Naraka tốt nhất for Naraka Bladepoint on Windows PC — nên so sánh gì trước khi mua naraka cheats. giao hàng kỹ thuật số tức thì. undetected. Official",
 					h1: "Cheat Naraka tốt nhất",
 					intro: "Naraka Cheats cung cấp ESP wallhack, radar hack và Naraka Aimbot undetected cho Naraka trên PC Windows. Cheat Naraka tốt nhất. nên so sánh gì trước khi mua naraka cheats.",
 					imageAlt: "Naraka Cheats overview for Naraka on PC",
@@ -21318,8 +21318,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				"aimbot-hack": {
-					title: "Hack aimbot Naraka | aimbot-hack",
-					description: "Hack aimbot Naraka: hỗ trợ hack Aimbot undetected cho Naraka. giao hàng kỹ thuật số tức thì. undetected — PC Windows.",
+					title: "Hack aimbot Naraka | Soft Aim Assist",
+					description: "Hack aimbot Naraka for Naraka Bladepoint on Windows PC — hỗ trợ hack Aimbot undetected cho Naraka. giao hàng kỹ thuật số tức thì. undetected. Official naraka",
 					h1: "Hack aimbot Naraka",
 					intro: "Naraka Cheats cung cấp ESP wallhack, radar hack và Naraka Aimbot undetected cho Naraka trên PC Windows. Hack aimbot Naraka. hỗ trợ hack Aimbot undetected cho Naraka.",
 					imageAlt: "Naraka Aimbot hack controls and bone priority",
@@ -21356,8 +21356,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				"esp-hack": {
-					title: "Hack ESP Naraka | esp-hack",
-					description: "Hack ESP Naraka: hộp ESP hack, pin xác thịt và khoảng cách. giao hàng kỹ thuật số tức thì. undetected — PC Windows.",
+					title: "Hack ESP Naraka | Boxes & Loot",
+					description: "Hack ESP Naraka for Naraka Bladepoint on Windows PC — hộp ESP hack, pin xác thịt và khoảng cách. giao hàng kỹ thuật số tức thì. undetected. Official naraka",
 					h1: "Hack ESP Naraka",
 					intro: "Naraka Cheats cung cấp ESP wallhack, radar hack và Naraka Aimbot undetected cho Naraka trên PC Windows. Hack ESP Naraka. hộp ESP hack, pin xác thịt và khoảng cách.",
 					imageAlt: "Naraka ESP hack boxes and hero markers",
@@ -21394,8 +21394,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				"unlock-all": {
-					title: "Unlock all Naraka | unlock-all",
-					description: "Unlock all Naraka: tìm kiếm unlock-all vs công cụ ESP và Aimbot thật. giao hàng kỹ thuật số tức thì. undetected — PC Windows.",
+					title: "Unlock all Naraka | What It Means",
+					description: "Unlock all Naraka for Naraka Bladepoint on Windows PC — tìm kiếm unlock-all vs công cụ ESP và Aimbot thật. giao hàng kỹ thuật số tức thì. undetected. Official",
 					h1: "Unlock all Naraka",
 					intro: "Naraka Cheats cung cấp ESP wallhack, radar hack và Naraka Aimbot undetected cho Naraka trên PC Windows. Unlock all Naraka. tìm kiếm unlock-all vs công cụ ESP và Aimbot thật.",
 					imageAlt: "Naraka Cheats license features overview",
@@ -21433,7 +21433,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Chính sách bảo mật | Naraka Cheats",
-					description: "Chính sách bảo mật cho Naraka Cheats — ESP wallhack, Aimbot, PC Windows.",
+					description: "Chính sách bảo mật cho Naraka Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at narakacheats.org.",
 					h1: "Chính sách bảo mật",
 					intro: "Naraka Cheats cung cấp ESP wallhack, radar hack và Naraka Aimbot undetected cho Naraka trên PC Windows. Chính sách bảo mật cho narakacheats.org và giấy phép Naraka.",
 					imageAlt: "Naraka Cheats",
@@ -21468,7 +21468,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				refund: {
 					title: "Chính sách hoàn tiền | Naraka Cheats",
-					description: "Chính sách hoàn tiền cho Naraka Cheats — ESP wallhack, Aimbot, PC Windows.",
+					description: "Chính sách hoàn tiền cho Naraka Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at narakacheats.org.",
 					h1: "Chính sách hoàn tiền",
 					intro: "Naraka Cheats cung cấp ESP wallhack, radar hack và Naraka Aimbot undetected cho Naraka trên PC Windows. Chính sách hoàn tiền cho narakacheats.org và giấy phép Naraka.",
 					imageAlt: "Naraka Cheats",
@@ -21503,7 +21503,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				terms: {
 					title: "Điều khoản sử dụng | Naraka Cheats",
-					description: "Điều khoản sử dụng cho Naraka Cheats — ESP wallhack, Aimbot, PC Windows.",
+					description: "Điều khoản sử dụng cho Naraka Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at narakacheats.org.",
 					h1: "Điều khoản sử dụng",
 					intro: "Naraka Cheats cung cấp ESP wallhack, radar hack và Naraka Aimbot undetected cho Naraka trên PC Windows. Điều khoản sử dụng cho narakacheats.org và giấy phép Naraka.",
 					imageAlt: "Naraka Cheats",
@@ -21613,7 +21613,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Naraka Cheats 2026 | ESP, Wallhack і Aimbot",
-					description: "Undetected чіти Naraka для Naraka на PC. ESP wallhack, radar hack, Aimbot, обслуговування NEAC. Мгновенная цифровая доставка.",
+					description: "Undetected чіти Naraka для Naraka на PC. ESP wallhack, radar hack, Aimbot, обслуговування NEAC. Мгновенная цифровая доставка. Compare plans and guides at",
 					h1: "undetected хаки для Naraka",
 					intro: "Undetected пакет для Naraka на Windows PC: ESP wallhack, radar, Aimbot з обслуговуванням NEAC.",
 					imageAlt: "Naraka ESP player tags hack",
@@ -21640,8 +21640,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				"naraka-esp": {
-					title: "ESP| Wallhack & Player Boxes | Naraka Cheats",
-					description: "Naraka ESP wallhack — player boxes, hero markers & distance tags on PC. Undetected naraka cheats with aimbot & radar. Shop at narakacheats.org.",
+					title: "ESP | Wallhack & Player Boxes | Naraka Cheats",
+					description: "ESP for Naraka Bladepoint on Windows PC — бокси гравців, маркери туш і wallhack overlays. миттєва цифрова доставка. Official naraka cheats at narakacheats.org.",
 					h1: "ESP",
 					intro: "Бачте гравців і loot крізь стіни під час match у Naraka. Частина тієї самої ліцензії Naraka Cheats.",
 					imageAlt: "Naraka ESP player boxes and distance readouts in a match",
@@ -21690,8 +21690,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				"naraka-aimbot": {
-					title: "Aimbot| Soft Aim & FOV Settings | Naraka Cheats",
-					description: "Naraka aimbot with soft aim, FOV, bone priority & hotkeys on PC. Undetected Naraka Cheats with ESP & radar included. narakacheats.org.",
+					title: "Aimbot | Soft Aim & FOV Settings | Naraka Cheats",
+					description: "Aimbot for Naraka Bladepoint on Windows PC — soft aim, FOV і профілі Aimbot за видами. миттєва цифрова доставка. Official naraka cheats at narakacheats.org.",
 					h1: "Aimbot",
 					intro: "Soft aim і допомога прицілювання, які можна налаштувати для Naraka. У тій самій ліцензії Naraka Cheats.",
 					imageAlt: "Naraka Aimbot and soft aim controls on Windows PC",
@@ -21741,7 +21741,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Функції 2026 | ESP, Aimbot & Radar | Naraka Cheats",
-					description: "Naraka Cheats об'єднує ESP wallhack, radar hack і Naraka Aimbot у undetected пакеті для Naraka на Windows PC. ESP, soft aim, керування radar",
+					description: "Функції: ESP, soft aim, керування radar. миттєва цифрова доставка. undetected. Compare plans and guides at narakacheats.org.",
 					h1: "Функції",
 					intro: "Naraka Cheats об'єднує ESP wallhack, radar hack і Naraka Aimbot у undetected пакеті для Naraka на Windows PC. Функції für Naraka auf Windows PC.",
 					imageAlt: "Naraka Cheats features — ESP, soft aim, and radar screenshots",
@@ -21819,8 +21819,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				pricing: {
-					title: "Магазин| $35/mo or $150 Lifetime",
-					description: "Buy Naraka cheats at narakacheats.org — $35/month or $150 lifetime. ESP, aimbot & radar on PC. Same features, instant delivery.",
+					title: "Магазин | $35/mo or $150 Lifetime",
+					description: "Магазин for Naraka Bladepoint on Windows PC — ліцензії $35 на місяць або $150 lifetime. миттєва цифрова доставка. Official naraka cheats at narakacheats.org.",
 					h1: "Магазин",
 					intro: "Naraka Cheats об'єднує ESP wallhack, radar hack і Naraka Aimbot у undetected пакеті для Naraka на Windows PC. Магазин — $35/міс y $150 назавжди.",
 					imageAlt: "Naraka Cheats store plans for monthly and lifetime licenses",
@@ -21869,8 +21869,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				setup: {
-					title: "Встановлення| Windows PC Install Guide",
-					description: "Install Naraka Cheats on PC — activate ESP, soft aim & radar step by step. Setup guide at narakacheats.org. Check NEAC status first.",
+					title: "Встановлення | Windows PC Install",
+					description: "Встановлення for Naraka Bladepoint on Windows PC — активація Windows PC і налаштування першого запуску. миттєва цифрова доставка. Official naraka cheats at",
 					h1: "Встановлення",
 					intro: "Встановіть і активуйте ліцензію на Windows 10 або 11 перед першим match.",
 					imageAlt: "Naraka Cheats setup guide screenshot for Windows PC",
@@ -21919,8 +21919,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				updates: {
-					title: "Статус| NEAC Updates | Naraka Cheats",
-					description: "Live status after Naraka & NEAC patches. Check undetected ESP, aimbot & radar rebuilds on PC before you queue. narakacheats.org.",
+					title: "Статус | NEAC Updates | Naraka Cheats",
+					description: "Статус for Naraka Bladepoint on Windows PC — статус патчів NEAC і нотатки rebuild. миттєва цифрова доставка. Official naraka cheats at narakacheats.org.",
 					h1: "Статус",
 					intro: "Перевіряйте Updates після патчів NEAC. Жоден чит не гарантує постійний undetected статус.",
 					imageAlt: "Naraka Cheats live status after NEAC and game patches",
@@ -21968,8 +21968,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				faq: {
-					title: "FAQ| ESP, Aimbot & NEAC",
-					description: "FAQ for naraka cheats — delivery, setup, undetected status, NEAC updates & pricing on PC. Answers at narakacheats.org before you buy.",
+					title: "FAQ | ESP, Aimbot & NEAC",
+					description: "FAQ for Naraka Bladepoint on Windows PC — питання про ESP, soft aim, доставку та NEAC. миттєва цифрова доставка. Official naraka cheats at narakacheats.org.",
 					h1: "FAQ",
 					intro: "FAQ Naraka Cheats — доставка, встановлення, оновлення та повернення.",
 					imageAlt: "Naraka Cheats FAQ — delivery, setup, and update answers",
@@ -22016,8 +22016,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				support: {
-					title: "Підтримка| License & Setup Help",
-					description: "Support for license delivery, ESP setup & billing on PC. Email support@narakacheats.org with your order ID. narakacheats.org/support.",
+					title: "Підтримка | License & Setup Help",
+					description: "Підтримка for Naraka Bladepoint on Windows PC — допомога з замовленням і контакт підтримки ліцензій. миттєва цифрова доставка. Official naraka cheats at",
 					h1: "Підтримка",
 					intro: "Допомога з ліцензіями, встановленням і оплатою Naraka Cheats на Windows PC.",
 					imageAlt: "Naraka Cheats support page for license and setup help",
@@ -22054,8 +22054,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				undetected: {
-					title: "Undetected чіти | undetected",
-					description: "Undetected чіти: undetected обслуговування після патчів NEAC. миттєва цифрова доставка. undetected — Windows PC.",
+					title: "Undetected чіти | NEAC Safe Status",
+					description: "Undetected чіти for Naraka Bladepoint on Windows PC — undetected обслуговування після патчів NEAC. миттєва цифрова доставка. undetected. Official naraka cheats",
 					h1: "Undetected чіти",
 					intro: "Naraka Cheats об'єднує ESP wallhack, radar hack і Naraka Aimbot у undetected пакеті для Naraka на Windows PC. Undetected чіти. undetected обслуговування після патчів NEAC.",
 					imageAlt: "Naraka Cheats undetected status overview for Windows PC",
@@ -22100,8 +22100,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				wallhack: {
-					title: "Naraka Wallhack | wallhack",
-					description: "Naraka Wallhack: wallhack ESP для гравців, туш і дистанції. миттєва цифрова доставка. undetected — Windows PC.",
+					title: "Naraka Wallhack | ESP Visibility",
+					description: "Naraka Wallhack for Naraka Bladepoint on Windows PC — wallhack ESP для гравців, туш і дистанції. миттєва цифрова доставка. undetected. Official naraka cheats",
 					h1: "Naraka Wallhack",
 					intro: "Naraka Cheats об'єднує ESP wallhack, radar hack і Naraka Aimbot у undetected пакеті для Naraka на Windows PC. Naraka Wallhack. wallhack ESP для гравців, туш і дистанції.",
 					imageAlt: "naraka wallhack visibility through walls in a match",
@@ -22138,8 +22138,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				radar: {
-					title: "Radar| 2D Threat Map | Naraka Cheats",
-					description: "2D radar hack for flank awareness on PC. Bundled with ESP wallhack & soft aim in one license. NEAC maintenance at narakacheats.org.",
+					title: "Radar | 2D Threat Map | Naraka Cheats",
+					description: "Radar for Naraka Bladepoint on Windows PC — 2D radar підказки для флангів і ротацій. миттєва цифрова доставка. Official naraka cheats at narakacheats.org.",
 					h1: "Radar",
 					intro: "Простий 2D radar для загроз поза полем зору. У тій самій ліцензії Naraka Cheats.",
 					imageAlt: "Naraka 2D radar overlay showing nearby threats",
@@ -22176,15 +22176,15 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				neac: {
-					title: "neac | neac",
-					description: "neac: neac. миттєва цифрова доставка. undetected — Windows PC.",
-					h1: "neac",
-					intro: "Naraka Cheats об'єднує ESP wallhack, radar hack і Naraka Aimbot у undetected пакеті для Naraka на Windows PC. neac. neac.",
-					imageAlt: "neac — Naraka Cheats",
-					galleryTitle: "neac",
+					title: "Bypass NEAC | Patch Maintenance",
+					description: "Bypass NEAC for Naraka Bladepoint on Windows PC — як обробляються оновлення NEAC для Naraka cheats. миттєва цифрова доставка. undetected. Official naraka",
+					h1: "Bypass NEAC",
+					intro: "Naraka Cheats об'єднує ESP wallhack, radar hack і Naraka Aimbot у undetected пакеті для Naraka на Windows PC. Bypass NEAC. як обробляються оновлення NEAC для Naraka cheats.",
+					imageAlt: "Naraka Cheats maintenance after a NEAC patch",
+					galleryTitle: "Bypass NEAC",
 					ctaPrimary: "Купити Naraka Cheats",
 					ctaSecondary: "Дивитися функції",
-					ctaSecondaryHref: "/",
+					ctaSecondaryHref: "/updates/",
 					sections: [
 						{
 							h2: "NEAC overview",
@@ -22213,7 +22213,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "HWID bans, spoofers, and what we do not sell",
 							paragraphs: [
-								"Naraka Cheats об'єднує ESP wallhack, radar hack і Naraka Aimbot у undetected пакеті для Naraka на Windows PC. neac",
+								"Naraka Cheats об'єднує ESP wallhack, radar hack і Naraka Aimbot у undetected пакеті для Naraka на Windows PC. як обробляються оновлення NEAC для Naraka cheats",
 								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/naraka-neac-bypass/\">NEAC FAQ</a> before buying anywhere.",
 								"Перевіряйте Updates після патчів NEAC. Жоден чит не гарантує постійний undetected статус.",
 							],
@@ -22221,7 +22221,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "External architecture, stream proofing, and patch-day checklist",
 							paragraphs: [
-								"Naraka Cheats об'єднує ESP wallhack, radar hack і Naraka Aimbot у undetected пакеті для Naraka на Windows PC. neac",
+								"Naraka Cheats об'єднує ESP wallhack, radar hack і Naraka Aimbot у undetected пакеті для Naraka на Windows PC. як обробляються оновлення NEAC для Naraka cheats",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">Гайд undetected чітів</a>, (2) confirm NEAC notes on <a href=\"/neac-bypass/\">Обслуговування NEAC</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
 								"Deep dives: <a href=\"/undetected-naraka-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-naraka-cheats-eac/\">NEAC reality blog</a> · <a href=\"/naraka-cheats/\">Огляд Naraka Cheats</a>.",
 							],
@@ -22230,8 +22230,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot.webp",
 				},
 				"cheats-2026": {
-					title: "Чіти Naraka 2026 | cheats-2026",
-					description: "Чіти Naraka 2026: чеклист naraka cheats 2026 перед checkout. миттєва цифрова доставка. undetected — Windows PC.",
+					title: "Чіти Naraka 2026 | Buyer Guide",
+					description: "Чіти Naraka 2026 for Naraka Bladepoint on Windows PC — чеклист naraka cheats 2026 перед checkout. миттєва цифрова доставка. undetected. Official naraka cheats",
 					h1: "Чіти Naraka 2026",
 					intro: "Naraka Cheats об'єднує ESP wallhack, radar hack і Naraka Aimbot у undetected пакеті для Naraka на Windows PC. Чіти Naraka 2026. чеклист naraka cheats 2026 перед checkout.",
 					imageAlt: "Naraka Cheats product overview for Naraka",
@@ -22268,7 +22268,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Episode 10+ and ranked meta in 2026",
 							paragraphs: [
 								"2026 ranked play rewards information speed — ESP hero markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/naraka-aimbot/\">Aimbot і soft aim</a> and ESP toggles.",
-								"Compare against <a href=\"/best-naraka-cheats/\">best naraka cheats</a> criteria and <a href=\"/undetected-naraka-cheats/\">undetected maintenance</a> before switching shops mid-season.",
+								"Compare against <a href=\"/\">Повний продукт</a> criteria and <a href=\"/undetected-naraka-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/naraka-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/naraka-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
 						},
@@ -22276,8 +22276,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				hacks: {
-					title: "Naraka Cheats — Повний гайд| ESP, Aimbot & Wallhack",
-					description: "Naraka cheats guide — undetected ESP wallhack, soft aim, radar & NEAC rebuilds on PC. Compare features & buy from $35 at narakacheats.org.",
+					title: "Naraka Cheats — Повний гайд | ESP, Aimbot & Wallhack",
+					description: "Naraka Cheats — Повний гайд for Naraka Bladepoint on Windows PC — стовп Naraka Cheats для ESP і Aimbot. миттєва цифрова доставка. Official naraka cheats at",
 					h1: "Naraka Cheats — Повний гайд",
 					intro: "Naraka cheats додають ESP, radar і soft aim до базової гри. Ця сторінка пояснює що таке naraka cheats, що входить у Naraka Cheats, обслуговування NEAC і куди йти перед покупкою.",
 					imageAlt: "Naraka Cheats overview — ESP, aimbot, and radar for Naraka",
@@ -22349,8 +22349,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-combat.webp",
 				},
 				"cheat-download": {
-					title: "Завантаження Naraka Cheats | cheat-download",
-					description: "Завантаження Naraka Cheats: цифрове завантаження ліцензії після оплати. миттєва цифрова доставка. undetected — Windows PC.",
+					title: "Завантаження Naraka Cheats | Instant Access",
+					description: "Завантаження Naraka Cheats for Naraka Bladepoint on Windows PC — цифрове завантаження ліцензії після оплати. миттєва цифрова доставка. undetected. Official",
 					h1: "Завантаження Naraka Cheats",
 					intro: "Naraka Cheats об'єднує ESP wallhack, radar hack і Naraka Aimbot у undetected пакеті для Naraka на Windows PC. Завантаження Naraka Cheats. цифрове завантаження ліцензії після оплати.",
 					imageAlt: "Naraka Cheats download and install delivery flow",
@@ -22387,8 +22387,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				"mod-menu": {
-					title: "Мод-меню Naraka | mod-menu",
-					description: "Мод-меню Naraka: перемикачі ESP і soft aim у клієнті. миттєва цифрова доставка. undetected — Windows PC.",
+					title: "Мод-меню Naraka | In-Game Toggles",
+					description: "Мод-меню Naraka for Naraka Bladepoint on Windows PC — перемикачі ESP і soft aim у клієнті. миттєва цифрова доставка. undetected. Official naraka cheats at",
 					h1: "Мод-меню Naraka",
 					intro: "Naraka Cheats об'єднує ESP wallhack, radar hack і Naraka Aimbot у undetected пакеті для Naraka на Windows PC. Мод-меню Naraka. перемикачі ESP і soft aim у клієнті.",
 					imageAlt: "Naraka Cheats in-game menu controls",
@@ -22425,8 +22425,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				"soft-aim": {
-					title: "Soft aim Naraka | soft-aim",
-					description: "Soft aim Naraka: плавні налаштування soft aim для Windows PC. миттєва цифрова доставка. undetected — Windows PC.",
+					title: "Soft aim Naraka | Smooth Aim Settings",
+					description: "Soft aim Naraka for Naraka Bladepoint on Windows PC — плавні налаштування soft aim для Windows PC. миттєва цифрова доставка. undetected. Official naraka cheats",
 					h1: "Soft aim Naraka",
 					intro: "Naraka Cheats об'єднує ESP wallhack, radar hack і Naraka Aimbot у undetected пакеті для Naraka на Windows PC. Soft aim Naraka. плавні налаштування soft aim для Windows PC.",
 					imageAlt: "Naraka soft aim FOV and smoothness settings",
@@ -22463,8 +22463,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				"best-cheats": {
-					title: "Найкращі чіти Naraka | best-cheats",
-					description: "Найкращі чіти Naraka: що порівняти перед покупкою naraka cheats. миттєва цифрова доставка. undetected — Windows PC.",
+					title: "Найкращі чіти Naraka | Buyer Checklist",
+					description: "Найкращі чіти Naraka for Naraka Bladepoint on Windows PC — що порівняти перед покупкою naraka cheats. миттєва цифрова доставка. undetected. Official naraka",
 					h1: "Найкращі чіти Naraka",
 					intro: "Naraka Cheats об'єднує ESP wallhack, radar hack і Naraka Aimbot у undetected пакеті для Naraka на Windows PC. Найкращі чіти Naraka. що порівняти перед покупкою naraka cheats.",
 					imageAlt: "Naraka Cheats overview for Naraka on PC",
@@ -22509,8 +22509,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				"aimbot-hack": {
-					title: "Хак aimbot Naraka | aimbot-hack",
-					description: "Хак aimbot Naraka: undetected Aimbot hack assist для Naraka. миттєва цифрова доставка. undetected — Windows PC.",
+					title: "Хак aimbot Naraka | Soft Aim Assist",
+					description: "Хак aimbot Naraka for Naraka Bladepoint on Windows PC — undetected Aimbot hack assist для Naraka. миттєва цифрова доставка. undetected. Official naraka cheats",
 					h1: "Хак aimbot Naraka",
 					intro: "Naraka Cheats об'єднує ESP wallhack, radar hack і Naraka Aimbot у undetected пакеті для Naraka на Windows PC. Хак aimbot Naraka. undetected Aimbot hack assist для Naraka.",
 					imageAlt: "Naraka Aimbot hack controls and bone priority",
@@ -22547,8 +22547,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				"esp-hack": {
-					title: "Хак ESP Naraka | esp-hack",
-					description: "Хак ESP Naraka: ESP hack бокси, pins туш і дистанція. миттєва цифрова доставка. undetected — Windows PC.",
+					title: "Хак ESP Naraka | Boxes & Loot",
+					description: "Хак ESP Naraka for Naraka Bladepoint on Windows PC — ESP hack бокси, pins туш і дистанція. миттєва цифрова доставка. undetected. Official naraka cheats at",
 					h1: "Хак ESP Naraka",
 					intro: "Naraka Cheats об'єднує ESP wallhack, radar hack і Naraka Aimbot у undetected пакеті для Naraka на Windows PC. Хак ESP Naraka. ESP hack бокси, pins туш і дистанція.",
 					imageAlt: "Naraka ESP hack boxes and hero markers",
@@ -22585,8 +22585,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				"unlock-all": {
-					title: "Unlock all Naraka | unlock-all",
-					description: "Unlock all Naraka: пошуки unlock-all vs справжні ESP і Aimbot інструменти. миттєва цифрова доставка. undetected — Windows PC.",
+					title: "Unlock all Naraka | What It Means",
+					description: "Unlock all Naraka for Naraka Bladepoint on Windows PC — пошуки unlock-all vs справжні ESP і Aimbot інструменти. миттєва цифрова доставка. undetected. Official",
 					h1: "Unlock all Naraka",
 					intro: "Naraka Cheats об'єднує ESP wallhack, radar hack і Naraka Aimbot у undetected пакеті для Naraka на Windows PC. Unlock all Naraka. пошуки unlock-all vs справжні ESP і Aimbot інструменти.",
 					imageAlt: "Naraka Cheats license features overview",
@@ -22624,7 +22624,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Політика конфіденційності | Naraka Cheats",
-					description: "Політика конфіденційності для Naraka Cheats — ESP wallhack, Aimbot, Windows PC.",
+					description: "Політика конфіденційності для Naraka Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at narakacheats.org.",
 					h1: "Політика конфіденційності",
 					intro: "Naraka Cheats об'єднує ESP wallhack, radar hack і Naraka Aimbot у undetected пакеті для Naraka на Windows PC. Політика конфіденційності для narakacheats.org та ліцензій Naraka.",
 					imageAlt: "Naraka Cheats",
@@ -22659,7 +22659,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				refund: {
 					title: "Політика повернення | Naraka Cheats",
-					description: "Політика повернення для Naraka Cheats — ESP wallhack, Aimbot, Windows PC.",
+					description: "Політика повернення для Naraka Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at narakacheats.org.",
 					h1: "Політика повернення",
 					intro: "Naraka Cheats об'єднує ESP wallhack, radar hack і Naraka Aimbot у undetected пакеті для Naraka на Windows PC. Політика повернення для narakacheats.org та ліцензій Naraka.",
 					imageAlt: "Naraka Cheats",
@@ -22694,7 +22694,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				terms: {
 					title: "Умови використання | Naraka Cheats",
-					description: "Умови використання для Naraka Cheats — ESP wallhack, Aimbot, Windows PC.",
+					description: "Умови використання для Naraka Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at narakacheats.org.",
 					h1: "Умови використання",
 					intro: "Naraka Cheats об'єднує ESP wallhack, radar hack і Naraka Aimbot у undetected пакеті для Naraka на Windows PC. Умови використання для narakacheats.org та ліцензій Naraka.",
 					imageAlt: "Naraka Cheats",
@@ -22804,7 +22804,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Naraka Cheats 2026 | ESP, Wallhack a Aimbot",
-					description: "Undetected naraka cheaty pro Naraka na PC. ESP wallhack, radar hack, Aimbot, údržba NEAC. Okamžité digitální doručení.",
+					description: "Undetected naraka cheaty pro Naraka na PC. ESP wallhack, radar hack, Aimbot, údržba NEAC. Okamžité digitální doručení. Compare plans and guides at",
 					h1: "undetected hacky pro Naraka",
 					intro: "Undetected balíček pro Naraka na Windows PC: ESP wallhack, radar, Aimbot s údržbou NEAC.",
 					imageAlt: "Naraka ESP player tags hack",
@@ -22831,8 +22831,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				"naraka-esp": {
-					title: "ESP| Wallhack & Player Boxes | Naraka Cheats",
-					description: "Naraka ESP wallhack — player boxes, hero markers & distance tags on PC. Undetected naraka cheats with aimbot & radar. Shop at narakacheats.org.",
+					title: "ESP | Wallhack & Player Boxes | Naraka Cheats",
+					description: "ESP for Naraka Bladepoint on Windows PC — hráčské boxy, markery kadáverů a wallhack overlaye. okamžité digitální doručení. Official naraka cheats at",
 					h1: "ESP",
 					intro: "Vidíte hráče a loot skrz zdi během matchů Naraka. Součást stejné licence Naraka Cheats.",
 					imageAlt: "Naraka ESP player boxes and distance readouts in a match",
@@ -22881,8 +22881,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				"naraka-aimbot": {
-					title: "Aimbot| Soft Aim & FOV Settings | Naraka Cheats",
-					description: "Naraka aimbot with soft aim, FOV, bone priority & hotkeys on PC. Undetected Naraka Cheats with ESP & radar included. narakacheats.org.",
+					title: "Aimbot | Soft Aim & FOV Settings | Naraka Cheats",
+					description: "Aimbot for Naraka Bladepoint on Windows PC — soft aim, FOV a Aimbot profily podle druhu. okamžité digitální doručení. Official naraka cheats at",
 					h1: "Aimbot",
 					intro: "Soft aim a aim assist nastavitelný pro Naraka. Součást stejné licence Naraka Cheats.",
 					imageAlt: "Naraka Aimbot and soft aim controls on Windows PC",
@@ -22932,7 +22932,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Funkce 2026 | ESP, Aimbot & Radar | Naraka Cheats",
-					description: "Naraka Cheats spojuje ESP wallhack, radar hack a Naraka Aimbot jako undetected balíček pro Naraka na Windows PC. ESP, soft aim, ovládání radar",
+					description: "Funkce: ESP, soft aim, ovládání radar. okamžité digitální doručení. undetected. Compare plans and guides at narakacheats.org.",
 					h1: "Funkce",
 					intro: "Naraka Cheats spojuje ESP wallhack, radar hack a Naraka Aimbot jako undetected balíček pro Naraka na Windows PC. Funkce für Naraka auf Windows PC.",
 					imageAlt: "Naraka Cheats features — ESP, soft aim, and radar screenshots",
@@ -23010,8 +23010,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				pricing: {
-					title: "Obchod| $35/mo or $150 Lifetime",
-					description: "Buy Naraka cheats at narakacheats.org — $35/month or $150 lifetime. ESP, aimbot & radar on PC. Same features, instant delivery.",
+					title: "Obchod | $35/mo or $150 Lifetime",
+					description: "Obchod for Naraka Bladepoint on Windows PC — licence $35 měsíčně nebo $150 lifetime. okamžité digitální doručení. Official naraka cheats at narakacheats.org.",
 					h1: "Obchod",
 					intro: "Naraka Cheats spojuje ESP wallhack, radar hack a Naraka Aimbot jako undetected balíček pro Naraka na Windows PC. Obchod — $35/měs. y $150 lifetime.",
 					imageAlt: "Naraka Cheats store plans for monthly and lifetime licenses",
@@ -23060,8 +23060,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				setup: {
-					title: "Instalace| Windows PC Install Guide",
-					description: "Install Naraka Cheats on PC — activate ESP, soft aim & radar step by step. Setup guide at narakacheats.org. Check NEAC status first.",
+					title: "Instalace | Windows PC Install",
+					description: "Instalace for Naraka Bladepoint on Windows PC — aktivace Windows PC a nastavení prvního spuštění. okamžité digitální doručení. Official naraka cheats at",
 					h1: "Instalace",
 					intro: "Nainstalujte a aktivujte licenci na Windows 10 nebo 11 před prvním match.",
 					imageAlt: "Naraka Cheats setup guide screenshot for Windows PC",
@@ -23110,8 +23110,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				updates: {
-					title: "Stav| NEAC Updates | Naraka Cheats",
-					description: "Live status after Naraka & NEAC patches. Check undetected ESP, aimbot & radar rebuilds on PC before you queue. narakacheats.org.",
+					title: "Stav | NEAC Updates | Naraka Cheats",
+					description: "Stav for Naraka Bladepoint on Windows PC — stav patchů NEAC a poznámky k rebuild. okamžité digitální doručení. Official naraka cheats at narakacheats.org.",
 					h1: "Stav",
 					intro: "Po patchích NEAC zkontrolujte Updates. Žádný cheat negarantuje trvalý undetected stav.",
 					imageAlt: "Naraka Cheats live status after NEAC and game patches",
@@ -23159,8 +23159,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				faq: {
-					title: "FAQ| ESP, Aimbot & NEAC",
-					description: "FAQ for naraka cheats — delivery, setup, undetected status, NEAC updates & pricing on PC. Answers at narakacheats.org before you buy.",
+					title: "FAQ | ESP, Aimbot & NEAC",
+					description: "FAQ for Naraka Bladepoint on Windows PC — otázky k ESP, soft aim, doručení a NEAC. okamžité digitální doručení. Official naraka cheats at narakacheats.org.",
 					h1: "FAQ",
 					intro: "FAQ Naraka Cheats — doručení, instalace, aktualizace a vrácení peněz.",
 					imageAlt: "Naraka Cheats FAQ — delivery, setup, and update answers",
@@ -23207,8 +23207,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				support: {
-					title: "Podpora| License & Setup Help",
-					description: "Support for license delivery, ESP setup & billing on PC. Email support@narakacheats.org with your order ID. narakacheats.org/support.",
+					title: "Podpora | License & Setup Help",
+					description: "Podpora for Naraka Bladepoint on Windows PC — pomoc s objednávkou a kontakt podpory licencí. okamžité digitální doručení. Official naraka cheats at",
 					h1: "Podpora",
 					intro: "Pomoc s licencemi, instalací a fakturací Naraka Cheats na Windows PC.",
 					imageAlt: "Naraka Cheats support page for license and setup help",
@@ -23245,8 +23245,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				undetected: {
-					title: "Undetected cheaty | undetected",
-					description: "Undetected cheaty: undetected údržba po patchech NEAC. okamžité digitální doručení. undetected — Windows PC.",
+					title: "Undetected cheaty | NEAC Safe Status",
+					description: "Undetected cheaty for Naraka Bladepoint on Windows PC — undetected údržba po patchech NEAC. okamžité digitální doručení. undetected. Official naraka cheats at",
 					h1: "Undetected cheaty",
 					intro: "Naraka Cheats spojuje ESP wallhack, radar hack a Naraka Aimbot jako undetected balíček pro Naraka na Windows PC. Undetected cheaty. undetected údržba po patchech NEAC.",
 					imageAlt: "Naraka Cheats undetected status overview for Windows PC",
@@ -23291,8 +23291,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				wallhack: {
-					title: "Naraka Wallhack | wallhack",
-					description: "Naraka Wallhack: wallhack ESP pro hráče, kadávery a vzdálenost. okamžité digitální doručení. undetected — Windows PC.",
+					title: "Naraka Wallhack | ESP Visibility",
+					description: "Naraka Wallhack for Naraka Bladepoint on Windows PC — wallhack ESP pro hráče, kadávery a vzdálenost. okamžité digitální doručení. undetected. Official naraka",
 					h1: "Naraka Wallhack",
 					intro: "Naraka Cheats spojuje ESP wallhack, radar hack a Naraka Aimbot jako undetected balíček pro Naraka na Windows PC. Naraka Wallhack. wallhack ESP pro hráče, kadávery a vzdálenost.",
 					imageAlt: "naraka wallhack visibility through walls in a match",
@@ -23329,8 +23329,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				radar: {
-					title: "Radar| 2D Threat Map | Naraka Cheats",
-					description: "2D radar hack for flank awareness on PC. Bundled with ESP wallhack & soft aim in one license. NEAC maintenance at narakacheats.org.",
+					title: "Radar | 2D Threat Map | Naraka Cheats",
+					description: "Radar for Naraka Bladepoint on Windows PC — 2D radar signály pro flanly a rotace. okamžité digitální doručení. Official naraka cheats at narakacheats.org.",
 					h1: "Radar",
 					intro: "Jednoduchý 2D radar pro hrozby mimo dohled. Součást stejné licence Naraka Cheats.",
 					imageAlt: "Naraka 2D radar overlay showing nearby threats",
@@ -23367,15 +23367,15 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				neac: {
-					title: "neac | neac",
-					description: "neac: neac. okamžité digitální doručení. undetected — Windows PC.",
-					h1: "neac",
-					intro: "Naraka Cheats spojuje ESP wallhack, radar hack a Naraka Aimbot jako undetected balíček pro Naraka na Windows PC. neac. neac.",
-					imageAlt: "neac — Naraka Cheats",
-					galleryTitle: "neac",
+					title: "NEAC Bypass | Patch Maintenance",
+					description: "NEAC Bypass for Naraka Bladepoint on Windows PC — jak se řeší aktualizace NEAC pro Naraka cheats. okamžité digitální doručení. undetected. Official naraka",
+					h1: "NEAC Bypass",
+					intro: "Naraka Cheats spojuje ESP wallhack, radar hack a Naraka Aimbot jako undetected balíček pro Naraka na Windows PC. NEAC Bypass. jak se řeší aktualizace NEAC pro Naraka cheats.",
+					imageAlt: "Naraka Cheats maintenance after a NEAC patch",
+					galleryTitle: "NEAC Bypass",
 					ctaPrimary: "Koupit Naraka Cheats",
 					ctaSecondary: "Zobrazit funkce",
-					ctaSecondaryHref: "/",
+					ctaSecondaryHref: "/updates/",
 					sections: [
 						{
 							h2: "NEAC overview",
@@ -23404,7 +23404,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "HWID bans, spoofers, and what we do not sell",
 							paragraphs: [
-								"Naraka Cheats spojuje ESP wallhack, radar hack a Naraka Aimbot jako undetected balíček pro Naraka na Windows PC. neac",
+								"Naraka Cheats spojuje ESP wallhack, radar hack a Naraka Aimbot jako undetected balíček pro Naraka na Windows PC. jak se řeší aktualizace NEAC pro Naraka cheats",
 								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/naraka-neac-bypass/\">NEAC FAQ</a> before buying anywhere.",
 								"Po patchích NEAC zkontrolujte Updates. Žádný cheat negarantuje trvalý undetected stav.",
 							],
@@ -23412,7 +23412,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "External architecture, stream proofing, and patch-day checklist",
 							paragraphs: [
-								"Naraka Cheats spojuje ESP wallhack, radar hack a Naraka Aimbot jako undetected balíček pro Naraka na Windows PC. neac",
+								"Naraka Cheats spojuje ESP wallhack, radar hack a Naraka Aimbot jako undetected balíček pro Naraka na Windows PC. jak se řeší aktualizace NEAC pro Naraka cheats",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">Průvodce undetected cheaty</a>, (2) confirm NEAC notes on <a href=\"/neac-bypass/\">Údržba NEAC</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
 								"Deep dives: <a href=\"/undetected-naraka-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-naraka-cheats-eac/\">NEAC reality blog</a> · <a href=\"/naraka-cheats/\">Přehled Naraka Cheats</a>.",
 							],
@@ -23421,8 +23421,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot.webp",
 				},
 				"cheats-2026": {
-					title: "naraka cheaty 2026 | cheats-2026",
-					description: "naraka cheaty 2026: checklist naraka cheats 2026 před checkout. okamžité digitální doručení. undetected — Windows PC.",
+					title: "naraka cheaty 2026 | Buyer Guide",
+					description: "naraka cheaty 2026 for Naraka Bladepoint on Windows PC — checklist naraka cheats 2026 před checkout. okamžité digitální doručení. undetected. Official naraka",
 					h1: "naraka cheaty 2026",
 					intro: "Naraka Cheats spojuje ESP wallhack, radar hack a Naraka Aimbot jako undetected balíček pro Naraka na Windows PC. naraka cheaty 2026. checklist naraka cheats 2026 před checkout.",
 					imageAlt: "Naraka Cheats product overview for Naraka",
@@ -23459,7 +23459,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Episode 10+ and ranked meta in 2026",
 							paragraphs: [
 								"2026 ranked play rewards information speed — ESP hero markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/naraka-aimbot/\">Aimbot a soft aim</a> and ESP toggles.",
-								"Compare against <a href=\"/best-naraka-cheats/\">best naraka cheats</a> criteria and <a href=\"/undetected-naraka-cheats/\">undetected maintenance</a> before switching shops mid-season.",
+								"Compare against <a href=\"/\">Kompletní produkt</a> criteria and <a href=\"/undetected-naraka-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/naraka-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/naraka-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
 						},
@@ -23467,8 +23467,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				hacks: {
-					title: "Naraka Cheats — Kompletní průvodce| ESP, Aimbot & Wallhack",
-					description: "Naraka cheats guide — undetected ESP wallhack, soft aim, radar & NEAC rebuilds on PC. Compare features & buy from $35 at narakacheats.org.",
+					title: "Naraka Cheats — Kompletní průvodce | ESP, Aimbot & Wallhack",
+					description: "Naraka Cheats — Kompletní průvodce for Naraka Bladepoint on Windows PC — pilíř Naraka Cheats pro ESP a Aimbot. okamžité digitální doručení. Official naraka",
 					h1: "Naraka Cheats — Kompletní průvodce",
 					intro: "Naraka cheaty přidávají ESP, radar a soft aim k základní hře. Tato stránka vysvětluje co jsou naraka cheats, co obsahuje Naraka Cheats, údržbu NEAC a kam jít před nákupem.",
 					imageAlt: "Naraka Cheats overview — ESP, aimbot, and radar for Naraka",
@@ -23540,8 +23540,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-combat.webp",
 				},
 				"cheat-download": {
-					title: "Stáhnout Naraka Cheats | cheat-download",
-					description: "Stáhnout Naraka Cheats: digitální stažení licence po platbě. okamžité digitální doručení. undetected — Windows PC.",
+					title: "Stáhnout Naraka Cheats | Instant Access",
+					description: "Stáhnout Naraka Cheats for Naraka Bladepoint on Windows PC — digitální stažení licence po platbě. okamžité digitální doručení. undetected. Official naraka",
 					h1: "Stáhnout Naraka Cheats",
 					intro: "Naraka Cheats spojuje ESP wallhack, radar hack a Naraka Aimbot jako undetected balíček pro Naraka na Windows PC. Stáhnout Naraka Cheats. digitální stažení licence po platbě.",
 					imageAlt: "Naraka Cheats download and install delivery flow",
@@ -23578,8 +23578,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				"mod-menu": {
-					title: "Naraka mod menu | mod-menu",
-					description: "Naraka mod menu: přepínače ESP a soft aim v klientu. okamžité digitální doručení. undetected — Windows PC.",
+					title: "Naraka mod menu | In-Game Toggles",
+					description: "Naraka mod menu for Naraka Bladepoint on Windows PC — přepínače ESP a soft aim v klientu. okamžité digitální doručení. undetected. Official naraka cheats at",
 					h1: "Naraka mod menu",
 					intro: "Naraka Cheats spojuje ESP wallhack, radar hack a Naraka Aimbot jako undetected balíček pro Naraka na Windows PC. Naraka mod menu. přepínače ESP a soft aim v klientu.",
 					imageAlt: "Naraka Cheats in-game menu controls",
@@ -23616,8 +23616,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				"soft-aim": {
-					title: "Naraka Soft Aim | soft-aim",
-					description: "Naraka Soft Aim: plynulé nastavení soft aim pro Windows PC. okamžité digitální doručení. undetected — Windows PC.",
+					title: "Naraka Soft Aim | Smooth Aim Settings",
+					description: "Naraka Soft Aim for Naraka Bladepoint on Windows PC — plynulé nastavení soft aim pro Windows PC. okamžité digitální doručení. undetected. Official naraka",
 					h1: "Naraka Soft Aim",
 					intro: "Naraka Cheats spojuje ESP wallhack, radar hack a Naraka Aimbot jako undetected balíček pro Naraka na Windows PC. Naraka Soft Aim. plynulé nastavení soft aim pro Windows PC.",
 					imageAlt: "Naraka soft aim FOV and smoothness settings",
@@ -23654,8 +23654,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				"best-cheats": {
-					title: "Nejlepší naraka cheaty | best-cheats",
-					description: "Nejlepší naraka cheaty: co porovnat před nákupem naraka cheats. okamžité digitální doručení. undetected — Windows PC.",
+					title: "Nejlepší naraka cheaty | Buyer Checklist",
+					description: "Nejlepší naraka cheaty for Naraka Bladepoint on Windows PC — co porovnat před nákupem naraka cheats. okamžité digitální doručení. undetected. Official naraka",
 					h1: "Nejlepší naraka cheaty",
 					intro: "Naraka Cheats spojuje ESP wallhack, radar hack a Naraka Aimbot jako undetected balíček pro Naraka na Windows PC. Nejlepší naraka cheaty. co porovnat před nákupem naraka cheats.",
 					imageAlt: "Naraka Cheats overview for Naraka on PC",
@@ -23700,8 +23700,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				"aimbot-hack": {
-					title: "Naraka Aimbot hack | aimbot-hack",
-					description: "Naraka Aimbot hack: undetected Aimbot hack assist pro Naraka. okamžité digitální doručení. undetected — Windows PC.",
+					title: "Naraka Aimbot hack | Soft Aim Assist",
+					description: "Naraka Aimbot hack for Naraka Bladepoint on Windows PC — undetected Aimbot hack assist pro Naraka. okamžité digitální doručení. undetected. Official naraka",
 					h1: "Naraka Aimbot hack",
 					intro: "Naraka Cheats spojuje ESP wallhack, radar hack a Naraka Aimbot jako undetected balíček pro Naraka na Windows PC. Naraka Aimbot hack. undetected Aimbot hack assist pro Naraka.",
 					imageAlt: "Naraka Aimbot hack controls and bone priority",
@@ -23738,8 +23738,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				"esp-hack": {
-					title: "Naraka ESP hack | esp-hack",
-					description: "Naraka ESP hack: ESP hack boxy, piny kadáverů a vzdálenost. okamžité digitální doručení. undetected — Windows PC.",
+					title: "Naraka ESP hack | Boxes & Loot",
+					description: "Naraka ESP hack for Naraka Bladepoint on Windows PC — ESP hack boxy, piny kadáverů a vzdálenost. okamžité digitální doručení. undetected. Official naraka",
 					h1: "Naraka ESP hack",
 					intro: "Naraka Cheats spojuje ESP wallhack, radar hack a Naraka Aimbot jako undetected balíček pro Naraka na Windows PC. Naraka ESP hack. ESP hack boxy, piny kadáverů a vzdálenost.",
 					imageAlt: "Naraka ESP hack boxes and hero markers",
@@ -23776,8 +23776,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				"unlock-all": {
-					title: "Naraka Unlock All | unlock-all",
-					description: "Naraka Unlock All: vyhledávání unlock-all vs skutečné ESP a Aimbot nástroje. okamžité digitální doručení. undetected — Windows PC.",
+					title: "Naraka Unlock All | What It Means",
+					description: "Naraka Unlock All for Naraka Bladepoint on Windows PC — vyhledávání unlock-all vs skutečné ESP a Aimbot nástroje. okamžité digitální doručení. undetected.",
 					h1: "Naraka Unlock All",
 					intro: "Naraka Cheats spojuje ESP wallhack, radar hack a Naraka Aimbot jako undetected balíček pro Naraka na Windows PC. Naraka Unlock All. vyhledávání unlock-all vs skutečné ESP a Aimbot nástroje.",
 					imageAlt: "Naraka Cheats license features overview",
@@ -23815,7 +23815,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Zásady ochrany soukromí | Naraka Cheats",
-					description: "Zásady ochrany soukromí pro Naraka Cheats — ESP wallhack, Aimbot, Windows PC.",
+					description: "Zásady ochrany soukromí pro Naraka Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at narakacheats.org.",
 					h1: "Zásady ochrany soukromí",
 					intro: "Naraka Cheats spojuje ESP wallhack, radar hack a Naraka Aimbot jako undetected balíček pro Naraka na Windows PC. Zásady ochrany soukromí pro narakacheats.org a licence Naraka.",
 					imageAlt: "Naraka Cheats",
@@ -23850,7 +23850,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				refund: {
 					title: "Zásady vrácení peněz | Naraka Cheats",
-					description: "Zásady vrácení peněz pro Naraka Cheats — ESP wallhack, Aimbot, Windows PC.",
+					description: "Zásady vrácení peněz pro Naraka Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at narakacheats.org.",
 					h1: "Zásady vrácení peněz",
 					intro: "Naraka Cheats spojuje ESP wallhack, radar hack a Naraka Aimbot jako undetected balíček pro Naraka na Windows PC. Zásady vrácení peněz pro narakacheats.org a licence Naraka.",
 					imageAlt: "Naraka Cheats",
@@ -23885,7 +23885,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				terms: {
 					title: "Podmínky použití | Naraka Cheats",
-					description: "Podmínky použití pro Naraka Cheats — ESP wallhack, Aimbot, Windows PC.",
+					description: "Podmínky použití pro Naraka Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at narakacheats.org.",
 					h1: "Podmínky použití",
 					intro: "Naraka Cheats spojuje ESP wallhack, radar hack a Naraka Aimbot jako undetected balíček pro Naraka na Windows PC. Podmínky použití pro narakacheats.org a licence Naraka.",
 					imageAlt: "Naraka Cheats",
@@ -23995,7 +23995,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Naraka Cheats 2026 | ESP, Wallhack și Aimbot",
-					description: "Cheats Naraka undetected pentru Naraka pe PC. ESP wallhack, radar hack, Aimbot, mentenanță NEAC. Livrare digitală instantă.",
+					description: "Cheats Naraka undetected pentru Naraka pe PC. ESP wallhack, radar hack, Aimbot, mentenanță NEAC. Livrare digitală instantă. Compare plans and guides at",
 					h1: "hack-uri undetected pentru Naraka",
 					intro: "Pachet undetected Naraka pe Windows PC: ESP wallhack, radar, Aimbot cu mentenanță NEAC.",
 					imageAlt: "Naraka ESP player tags hack",
@@ -24022,8 +24022,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				"naraka-esp": {
-					title: "ESP| Wallhack & Player Boxes | Naraka Cheats",
-					description: "Naraka ESP wallhack — player boxes, hero markers & distance tags on PC. Undetected naraka cheats with aimbot & radar. Shop at narakacheats.org.",
+					title: "ESP | Wallhack & Player Boxes | Naraka Cheats",
+					description: "ESP for Naraka Bladepoint on Windows PC — casete jucător, markere carcase și overlay-uri wallhack. livrare digitală instantă. Official naraka cheats at",
 					h1: "ESP",
 					intro: "Vezi jucători și loot prin pereți în match-uri Naraka. Parte din aceeași licență Naraka Cheats.",
 					imageAlt: "Naraka ESP player boxes and distance readouts in a match",
@@ -24072,8 +24072,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				"naraka-aimbot": {
-					title: "Aimbot| Soft Aim & FOV Settings | Naraka Cheats",
-					description: "Naraka aimbot with soft aim, FOV, bone priority & hotkeys on PC. Undetected Naraka Cheats with ESP & radar included. narakacheats.org.",
+					title: "Aimbot | Soft Aim & FOV Settings | Naraka Cheats",
+					description: "Aimbot for Naraka Bladepoint on Windows PC — soft aim, FOV și profile Aimbot pe specie. livrare digitală instantă. Official naraka cheats at narakacheats.org.",
 					h1: "Aimbot",
 					intro: "Soft aim și asistență țintire reglabile pentru Naraka. Inclus în aceeași licență Naraka Cheats.",
 					imageAlt: "Naraka Aimbot and soft aim controls on Windows PC",
@@ -24123,7 +24123,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Funcții 2026 | ESP, Aimbot & Radar | Naraka Cheats",
-					description: "Naraka Cheats combină ESP wallhack, radar hack și Naraka Aimbot undetected pentru Naraka pe PC Windows. ESP, soft aim, controale radar",
+					description: "Funcții: ESP, soft aim, controale radar. livrare digitală instantă. undetected. Compare plans and guides at narakacheats.org.",
 					h1: "Funcții",
 					intro: "Naraka Cheats combină ESP wallhack, radar hack și Naraka Aimbot undetected pentru Naraka pe PC Windows. Funcții für Naraka auf PC Windows.",
 					imageAlt: "Naraka Cheats features — ESP, soft aim, and radar screenshots",
@@ -24201,8 +24201,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				pricing: {
-					title: "Magazin| $35/mo or $150 Lifetime",
-					description: "Buy Naraka cheats at narakacheats.org — $35/month or $150 lifetime. ESP, aimbot & radar on PC. Same features, instant delivery.",
+					title: "Magazin | $35/mo or $150 Lifetime",
+					description: "Magazin for Naraka Bladepoint on Windows PC — licențe $35 lunar sau $150 lifetime. livrare digitală instantă. Official naraka cheats at narakacheats.org.",
 					h1: "Magazin",
 					intro: "Naraka Cheats combină ESP wallhack, radar hack și Naraka Aimbot undetected pentru Naraka pe PC Windows. Magazin — $35/lună y $150 pe viață.",
 					imageAlt: "Naraka Cheats store plans for monthly and lifetime licenses",
@@ -24251,8 +24251,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				setup: {
-					title: "Instalare| Windows PC Install Guide",
-					description: "Install Naraka Cheats on PC — activate ESP, soft aim & radar step by step. Setup guide at narakacheats.org. Check NEAC status first.",
+					title: "Instalare | Windows PC Install",
+					description: "Instalare for Naraka Bladepoint on Windows PC — activare Windows PC și setup la prima lansare. livrare digitală instantă. Official naraka cheats at",
 					h1: "Instalare",
 					intro: "Instalează și activează licența pe Windows 10 sau 11 înainte de primul match.",
 					imageAlt: "Naraka Cheats setup guide screenshot for Windows PC",
@@ -24301,8 +24301,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				updates: {
-					title: "Status| NEAC Updates | Naraka Cheats",
-					description: "Live status after Naraka & NEAC patches. Check undetected ESP, aimbot & radar rebuilds on PC before you queue. narakacheats.org.",
+					title: "Status | NEAC Updates | Naraka Cheats",
+					description: "Status for Naraka Bladepoint on Windows PC — status patch NEAC și note rebuild. livrare digitală instantă. Official naraka cheats at narakacheats.org.",
 					h1: "Status",
 					intro: "Verificați Updates după patch-uri NEAC. Niciun cheat nu garantează undetected permanent.",
 					imageAlt: "Naraka Cheats live status after NEAC and game patches",
@@ -24350,8 +24350,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				faq: {
-					title: "FAQ| ESP, Aimbot & NEAC",
-					description: "FAQ for naraka cheats — delivery, setup, undetected status, NEAC updates & pricing on PC. Answers at narakacheats.org before you buy.",
+					title: "FAQ | ESP, Aimbot & NEAC",
+					description: "FAQ for Naraka Bladepoint on Windows PC — întrebări ESP, soft aim, livrare și NEAC. livrare digitală instantă. Official naraka cheats at narakacheats.org.",
 					h1: "FAQ",
 					intro: "FAQ Naraka Cheats — livrare, instalare, actualizări și rambursări.",
 					imageAlt: "Naraka Cheats FAQ — delivery, setup, and update answers",
@@ -24398,8 +24398,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				support: {
-					title: "Suport| License & Setup Help",
-					description: "Support for license delivery, ESP setup & billing on PC. Email support@narakacheats.org with your order ID. narakacheats.org/support.",
+					title: "Suport | License & Setup Help",
+					description: "Suport for Naraka Bladepoint on Windows PC — ajutor comenzi și contact suport licențe. livrare digitală instantă. Official naraka cheats at narakacheats.org.",
 					h1: "Suport",
 					intro: "Ajutor pentru licențe, instalare și facturare Naraka Cheats pe Windows PC.",
 					imageAlt: "Naraka Cheats support page for license and setup help",
@@ -24436,8 +24436,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				undetected: {
-					title: "Cheats undetected | undetected",
-					description: "Cheats undetected: mentenanță undetected după patch-uri NEAC. livrare digitală instantă. undetected — PC Windows.",
+					title: "Cheats undetected | NEAC Safe Status",
+					description: "Cheats undetected for Naraka Bladepoint on Windows PC — mentenanță undetected după patch-uri NEAC. livrare digitală instantă. undetected. Official naraka",
 					h1: "Cheats undetected",
 					intro: "Naraka Cheats combină ESP wallhack, radar hack și Naraka Aimbot undetected pentru Naraka pe PC Windows. Cheats undetected. mentenanță undetected după patch-uri NEAC.",
 					imageAlt: "Naraka Cheats undetected status overview for Windows PC",
@@ -24482,8 +24482,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				wallhack: {
-					title: "Naraka Wallhack | wallhack",
-					description: "Naraka Wallhack: wallhack ESP pentru jucători, carcase și distanță. livrare digitală instantă. undetected — PC Windows.",
+					title: "Naraka Wallhack | ESP Visibility",
+					description: "Naraka Wallhack for Naraka Bladepoint on Windows PC — wallhack ESP pentru jucători, carcase și distanță. livrare digitală instantă. undetected. Official naraka",
 					h1: "Naraka Wallhack",
 					intro: "Naraka Cheats combină ESP wallhack, radar hack și Naraka Aimbot undetected pentru Naraka pe PC Windows. Naraka Wallhack. wallhack ESP pentru jucători, carcase și distanță.",
 					imageAlt: "naraka wallhack visibility through walls in a match",
@@ -24520,8 +24520,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				radar: {
-					title: "Radar| 2D Threat Map | Naraka Cheats",
-					description: "2D radar hack for flank awareness on PC. Bundled with ESP wallhack & soft aim in one license. NEAC maintenance at narakacheats.org.",
+					title: "Radar | 2D Threat Map | Naraka Cheats",
+					description: "Radar for Naraka Bladepoint on Windows PC — indicii radar 2D pentru flancuri și rotații. livrare digitală instantă. Official naraka cheats at narakacheats.org.",
 					h1: "Radar",
 					intro: "Radar 2D simplu pentru amenințări în afara vederii. Inclus în aceeași licență Naraka Cheats.",
 					imageAlt: "Naraka 2D radar overlay showing nearby threats",
@@ -24558,15 +24558,15 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				neac: {
-					title: "neac | neac",
-					description: "neac: neac. livrare digitală instantă. undetected — PC Windows.",
-					h1: "neac",
-					intro: "Naraka Cheats combină ESP wallhack, radar hack și Naraka Aimbot undetected pentru Naraka pe PC Windows. neac. neac.",
-					imageAlt: "neac — Naraka Cheats",
-					galleryTitle: "neac",
+					title: "Bypass NEAC | Patch Maintenance",
+					description: "Bypass NEAC for Naraka Bladepoint on Windows PC — cum sunt gestionate actualizările NEAC pentru Naraka cheats. livrare digitală instantă. undetected. Official",
+					h1: "Bypass NEAC",
+					intro: "Naraka Cheats combină ESP wallhack, radar hack și Naraka Aimbot undetected pentru Naraka pe PC Windows. Bypass NEAC. cum sunt gestionate actualizările NEAC pentru Naraka cheats.",
+					imageAlt: "Naraka Cheats maintenance after a NEAC patch",
+					galleryTitle: "Bypass NEAC",
 					ctaPrimary: "Cumpără Naraka Cheats",
 					ctaSecondary: "Vezi funcții",
-					ctaSecondaryHref: "/",
+					ctaSecondaryHref: "/updates/",
 					sections: [
 						{
 							h2: "NEAC overview",
@@ -24595,7 +24595,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "HWID bans, spoofers, and what we do not sell",
 							paragraphs: [
-								"Naraka Cheats combină ESP wallhack, radar hack și Naraka Aimbot undetected pentru Naraka pe PC Windows. neac",
+								"Naraka Cheats combină ESP wallhack, radar hack și Naraka Aimbot undetected pentru Naraka pe PC Windows. cum sunt gestionate actualizările NEAC pentru Naraka cheats",
 								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/naraka-neac-bypass/\">NEAC FAQ</a> before buying anywhere.",
 								"Verificați Updates după patch-uri NEAC. Niciun cheat nu garantează undetected permanent.",
 							],
@@ -24603,7 +24603,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "External architecture, stream proofing, and patch-day checklist",
 							paragraphs: [
-								"Naraka Cheats combină ESP wallhack, radar hack și Naraka Aimbot undetected pentru Naraka pe PC Windows. neac",
+								"Naraka Cheats combină ESP wallhack, radar hack și Naraka Aimbot undetected pentru Naraka pe PC Windows. cum sunt gestionate actualizările NEAC pentru Naraka cheats",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">Ghid cheats undetected</a>, (2) confirm NEAC notes on <a href=\"/neac-bypass/\">Mentenanță NEAC</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
 								"Deep dives: <a href=\"/undetected-naraka-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-naraka-cheats-eac/\">NEAC reality blog</a> · <a href=\"/naraka-cheats/\">Prezentare Naraka Cheats</a>.",
 							],
@@ -24612,8 +24612,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot.webp",
 				},
 				"cheats-2026": {
-					title: "Cheats Naraka 2026 | cheats-2026",
-					description: "Cheats Naraka 2026: checklist naraka cheats 2026 înainte de checkout. livrare digitală instantă. undetected — PC Windows.",
+					title: "Cheats Naraka 2026 | Buyer Guide",
+					description: "Cheats Naraka 2026 for Naraka Bladepoint on Windows PC — checklist naraka cheats 2026 înainte de checkout. livrare digitală instantă. undetected. Official",
 					h1: "Cheats Naraka 2026",
 					intro: "Naraka Cheats combină ESP wallhack, radar hack și Naraka Aimbot undetected pentru Naraka pe PC Windows. Cheats Naraka 2026. checklist naraka cheats 2026 înainte de checkout.",
 					imageAlt: "Naraka Cheats product overview for Naraka",
@@ -24650,7 +24650,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Episode 10+ and ranked meta in 2026",
 							paragraphs: [
 								"2026 ranked play rewards information speed — ESP hero markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/naraka-aimbot/\">Aimbot și soft aim</a> and ESP toggles.",
-								"Compare against <a href=\"/best-naraka-cheats/\">best naraka cheats</a> criteria and <a href=\"/undetected-naraka-cheats/\">undetected maintenance</a> before switching shops mid-season.",
+								"Compare against <a href=\"/\">Produs complet</a> criteria and <a href=\"/undetected-naraka-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/naraka-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/naraka-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
 						},
@@ -24658,8 +24658,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				hacks: {
-					title: "Naraka Cheats — Ghid complet| ESP, Aimbot & Wallhack",
-					description: "Naraka cheats guide — undetected ESP wallhack, soft aim, radar & NEAC rebuilds on PC. Compare features & buy from $35 at narakacheats.org.",
+					title: "Naraka Cheats — Ghid complet | ESP, Aimbot & Wallhack",
+					description: "Naraka Cheats — Ghid complet for Naraka Bladepoint on Windows PC — pilon Naraka Cheats pentru ESP și Aimbot. livrare digitală instantă. Official naraka cheats",
 					h1: "Naraka Cheats — Ghid complet",
 					intro: "Naraka cheats adaugă ESP, radar și soft aim peste jocul de bază. Această pagină explică ce sunt naraka cheats, ce include Naraka Cheats, mentenanța NEAC și pașii înainte de cumpărare.",
 					imageAlt: "Naraka Cheats overview — ESP, aimbot, and radar for Naraka",
@@ -24731,8 +24731,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-combat.webp",
 				},
 				"cheat-download": {
-					title: "Descărcare Naraka Cheats | cheat-download",
-					description: "Descărcare Naraka Cheats: descărcare licență digitală după plată. livrare digitală instantă. undetected — PC Windows.",
+					title: "Descărcare Naraka Cheats | Instant Access",
+					description: "Descărcare Naraka Cheats for Naraka Bladepoint on Windows PC — descărcare licență digitală după plată. livrare digitală instantă. undetected. Official naraka",
 					h1: "Descărcare Naraka Cheats",
 					intro: "Naraka Cheats combină ESP wallhack, radar hack și Naraka Aimbot undetected pentru Naraka pe PC Windows. Descărcare Naraka Cheats. descărcare licență digitală după plată.",
 					imageAlt: "Naraka Cheats download and install delivery flow",
@@ -24769,8 +24769,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				"mod-menu": {
-					title: "Meniu mod Naraka | mod-menu",
-					description: "Meniu mod Naraka: toggle-uri ESP și soft aim in-client. livrare digitală instantă. undetected — PC Windows.",
+					title: "Meniu mod Naraka | In-Game Toggles",
+					description: "Meniu mod Naraka for Naraka Bladepoint on Windows PC — toggle-uri ESP și soft aim in-client. livrare digitală instantă. undetected. Official naraka cheats at",
 					h1: "Meniu mod Naraka",
 					intro: "Naraka Cheats combină ESP wallhack, radar hack și Naraka Aimbot undetected pentru Naraka pe PC Windows. Meniu mod Naraka. toggle-uri ESP și soft aim in-client.",
 					imageAlt: "Naraka Cheats in-game menu controls",
@@ -24807,8 +24807,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				"soft-aim": {
-					title: "Soft aim Naraka | soft-aim",
-					description: "Soft aim Naraka: setări soft aim fluide pentru Windows PC. livrare digitală instantă. undetected — PC Windows.",
+					title: "Soft aim Naraka | Smooth Aim Settings",
+					description: "Soft aim Naraka for Naraka Bladepoint on Windows PC — setări soft aim fluide pentru Windows PC. livrare digitală instantă. undetected. Official naraka cheats",
 					h1: "Soft aim Naraka",
 					intro: "Naraka Cheats combină ESP wallhack, radar hack și Naraka Aimbot undetected pentru Naraka pe PC Windows. Soft aim Naraka. setări soft aim fluide pentru Windows PC.",
 					imageAlt: "Naraka soft aim FOV and smoothness settings",
@@ -24845,8 +24845,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				"best-cheats": {
-					title: "Cele mai bune cheats Naraka | best-cheats",
-					description: "Cele mai bune cheats Naraka: ce să compari înainte de a cumpăra naraka cheats. livrare digitală instantă. undetected — PC Windows.",
+					title: "Cele mai bune cheats Naraka | Buyer Checklist",
+					description: "Cele mai bune cheats Naraka for Naraka Bladepoint on Windows PC — ce să compari înainte de a cumpăra naraka cheats. livrare digitală instantă. undetected.",
 					h1: "Cele mai bune cheats Naraka",
 					intro: "Naraka Cheats combină ESP wallhack, radar hack și Naraka Aimbot undetected pentru Naraka pe PC Windows. Cele mai bune cheats Naraka. ce să compari înainte de a cumpăra naraka cheats.",
 					imageAlt: "Naraka Cheats overview for Naraka on PC",
@@ -24891,8 +24891,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				"aimbot-hack": {
-					title: "Hack aimbot Naraka | aimbot-hack",
-					description: "Hack aimbot Naraka: assist hack Aimbot undetected pentru Naraka. livrare digitală instantă. undetected — PC Windows.",
+					title: "Hack aimbot Naraka | Soft Aim Assist",
+					description: "Hack aimbot Naraka for Naraka Bladepoint on Windows PC — assist hack Aimbot undetected pentru Naraka. livrare digitală instantă. undetected. Official naraka",
 					h1: "Hack aimbot Naraka",
 					intro: "Naraka Cheats combină ESP wallhack, radar hack și Naraka Aimbot undetected pentru Naraka pe PC Windows. Hack aimbot Naraka. assist hack Aimbot undetected pentru Naraka.",
 					imageAlt: "Naraka Aimbot hack controls and bone priority",
@@ -24929,8 +24929,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				"esp-hack": {
-					title: "Hack ESP Naraka | esp-hack",
-					description: "Hack ESP Naraka: casete ESP hack, pin-uri carcase și distanță. livrare digitală instantă. undetected — PC Windows.",
+					title: "Hack ESP Naraka | Boxes & Loot",
+					description: "Hack ESP Naraka for Naraka Bladepoint on Windows PC — casete ESP hack, pin-uri carcase și distanță. livrare digitală instantă. undetected. Official naraka",
 					h1: "Hack ESP Naraka",
 					intro: "Naraka Cheats combină ESP wallhack, radar hack și Naraka Aimbot undetected pentru Naraka pe PC Windows. Hack ESP Naraka. casete ESP hack, pin-uri carcase și distanță.",
 					imageAlt: "Naraka ESP hack boxes and hero markers",
@@ -24967,8 +24967,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				"unlock-all": {
-					title: "Unlock all Naraka | unlock-all",
-					description: "Unlock all Naraka: căutări unlock-all vs instrumente reale ESP și Aimbot. livrare digitală instantă. undetected — PC Windows.",
+					title: "Unlock all Naraka | What It Means",
+					description: "Unlock all Naraka for Naraka Bladepoint on Windows PC — căutări unlock-all vs instrumente reale ESP și Aimbot. livrare digitală instantă. undetected. Official",
 					h1: "Unlock all Naraka",
 					intro: "Naraka Cheats combină ESP wallhack, radar hack și Naraka Aimbot undetected pentru Naraka pe PC Windows. Unlock all Naraka. căutări unlock-all vs instrumente reale ESP și Aimbot.",
 					imageAlt: "Naraka Cheats license features overview",
@@ -25006,7 +25006,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Politica de confidențialitate | Naraka Cheats",
-					description: "Politica de confidențialitate pentru Naraka Cheats — ESP wallhack, Aimbot, PC Windows.",
+					description: "Politica de confidențialitate pentru Naraka Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at narakacheats.org.",
 					h1: "Politica de confidențialitate",
 					intro: "Naraka Cheats combină ESP wallhack, radar hack și Naraka Aimbot undetected pentru Naraka pe PC Windows. Politica de confidențialitate pentru narakacheats.org și licențe Naraka.",
 					imageAlt: "Naraka Cheats",
@@ -25041,7 +25041,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				refund: {
 					title: "Politica de rambursare | Naraka Cheats",
-					description: "Politica de rambursare pentru Naraka Cheats — ESP wallhack, Aimbot, PC Windows.",
+					description: "Politica de rambursare pentru Naraka Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at narakacheats.org.",
 					h1: "Politica de rambursare",
 					intro: "Naraka Cheats combină ESP wallhack, radar hack și Naraka Aimbot undetected pentru Naraka pe PC Windows. Politica de rambursare pentru narakacheats.org și licențe Naraka.",
 					imageAlt: "Naraka Cheats",
@@ -25076,7 +25076,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				terms: {
 					title: "Termeni de utilizare | Naraka Cheats",
-					description: "Termeni de utilizare pentru Naraka Cheats — ESP wallhack, Aimbot, PC Windows.",
+					description: "Termeni de utilizare pentru Naraka Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at narakacheats.org.",
 					h1: "Termeni de utilizare",
 					intro: "Naraka Cheats combină ESP wallhack, radar hack și Naraka Aimbot undetected pentru Naraka pe PC Windows. Termeni de utilizare pentru narakacheats.org și licențe Naraka.",
 					imageAlt: "Naraka Cheats",
@@ -25186,7 +25186,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Naraka Cheats 2026 | ESP, Wallhack & Aimbot",
-					description: "Undetected naraka cheats för Naraka på PC. ESP wallhack, radar hack, Aimbot, NEAC-underhåll. Omedelbar digital leverans.",
+					description: "Undetected naraka cheats för Naraka på PC. ESP wallhack, radar hack, Aimbot, NEAC-underhåll. Omedelbar digital leverans. Compare plans and guides at",
 					h1: "undetected hacks för Naraka",
 					intro: "Undetected paket för Naraka på Windows PC: ESP wallhack, radar, Aimbot med NEAC-underhåll.",
 					imageAlt: "Naraka ESP player tags hack",
@@ -25213,8 +25213,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				"naraka-esp": {
-					title: "ESP| Wallhack & Player Boxes | Naraka Cheats",
-					description: "Naraka ESP wallhack — player boxes, hero markers & distance tags on PC. Undetected naraka cheats with aimbot & radar. Shop at narakacheats.org.",
+					title: "ESP | Wallhack & Player Boxes | Naraka Cheats",
+					description: "ESP for Naraka Bladepoint on Windows PC — spelarboxar, kadavermarkörer och wallhack-overlays. omedelbar digital leverans. Official naraka cheats at",
 					h1: "ESP",
 					intro: "Se spelare och loot genom väggar under Naraka matches. Ingår i samma Naraka Cheats-licens.",
 					imageAlt: "Naraka ESP player boxes and distance readouts in a match",
@@ -25263,8 +25263,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				"naraka-aimbot": {
-					title: "Aimbot| Soft Aim & FOV Settings | Naraka Cheats",
-					description: "Naraka aimbot with soft aim, FOV, bone priority & hotkeys on PC. Undetected Naraka Cheats with ESP & radar included. narakacheats.org.",
+					title: "Aimbot | Soft Aim & FOV Settings | Naraka Cheats",
+					description: "Aimbot for Naraka Bladepoint on Windows PC — soft aim, FOV och Aimbot-profiler per art. omedelbar digital leverans. Official naraka cheats at narakacheats.org.",
 					h1: "Aimbot",
 					intro: "Soft aim och siktehjälp du kan ställa in för Naraka. Ingår i samma Naraka Cheats-licens.",
 					imageAlt: "Naraka Aimbot and soft aim controls on Windows PC",
@@ -25314,7 +25314,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Funktioner 2026 | ESP, Aimbot & Radar | Naraka Cheats",
-					description: "Naraka Cheats kombinerar ESP wallhack, radar hack och Naraka Aimbot som undetected paket för Naraka på Windows PC. ESP, soft aim, radar-kontroller",
+					description: "Funktioner: ESP, soft aim, radar-kontroller. omedelbar digital leverans. undetected. Compare plans and guides at narakacheats.org.",
 					h1: "Funktioner",
 					intro: "Naraka Cheats kombinerar ESP wallhack, radar hack och Naraka Aimbot som undetected paket för Naraka på Windows PC. Funktioner für Naraka auf Windows PC.",
 					imageAlt: "Naraka Cheats features — ESP, soft aim, and radar screenshots",
@@ -25392,8 +25392,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				pricing: {
-					title: "Butik| $35/mo or $150 Lifetime",
-					description: "Buy Naraka cheats at narakacheats.org — $35/month or $150 lifetime. ESP, aimbot & radar on PC. Same features, instant delivery.",
+					title: "Butik | $35/mo or $150 Lifetime",
+					description: "Butik for Naraka Bladepoint on Windows PC — $35 månatliga eller $150 lifetime-licenser. omedelbar digital leverans. Official naraka cheats at narakacheats.org.",
 					h1: "Butik",
 					intro: "Naraka Cheats kombinerar ESP wallhack, radar hack och Naraka Aimbot som undetected paket för Naraka på Windows PC. Butik — $35/mån y $150 lifetime.",
 					imageAlt: "Naraka Cheats store plans for monthly and lifetime licenses",
@@ -25442,8 +25442,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				setup: {
-					title: "Installation| Windows PC Install Guide",
-					description: "Install Naraka Cheats on PC — activate ESP, soft aim & radar step by step. Setup guide at narakacheats.org. Check NEAC status first.",
+					title: "Installation | Windows PC Install",
+					description: "Installation for Naraka Bladepoint on Windows PC — Windows PC-aktivering och första-start setup. omedelbar digital leverans. Official naraka cheats at",
 					h1: "Installation",
 					intro: "Installera och aktivera din licens på Windows 10 eller 11 före din första match.",
 					imageAlt: "Naraka Cheats setup guide screenshot for Windows PC",
@@ -25492,8 +25492,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				updates: {
-					title: "Status| NEAC Updates | Naraka Cheats",
-					description: "Live status after Naraka & NEAC patches. Check undetected ESP, aimbot & radar rebuilds on PC before you queue. narakacheats.org.",
+					title: "Status | NEAC Updates | Naraka Cheats",
+					description: "Status for Naraka Bladepoint on Windows PC — NEAC patchstatus och rebuild-anteckningar. omedelbar digital leverans. Official naraka cheats at narakacheats.org.",
 					h1: "Status",
 					intro: "Kontrollera Updates ruster NEAC-patchar. Ingen cheat garanterar permanent undetected status.",
 					imageAlt: "Naraka Cheats live status after NEAC and game patches",
@@ -25541,8 +25541,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				faq: {
-					title: "FAQ| ESP, Aimbot & NEAC",
-					description: "FAQ for naraka cheats — delivery, setup, undetected status, NEAC updates & pricing on PC. Answers at narakacheats.org before you buy.",
+					title: "FAQ | ESP, Aimbot & NEAC",
+					description: "FAQ for Naraka Bladepoint on Windows PC — frågor om ESP, soft aim, leverans och NEAC. omedelbar digital leverans. Official naraka cheats at narakacheats.org.",
 					h1: "FAQ",
 					intro: "Naraka Cheats FAQ — leverans, setup, uppdateringar och återbetalningar.",
 					imageAlt: "Naraka Cheats FAQ — delivery, setup, and update answers",
@@ -25589,8 +25589,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				support: {
-					title: "Support| License & Setup Help",
-					description: "Support for license delivery, ESP setup & billing on PC. Email support@narakacheats.org with your order ID. narakacheats.org/support.",
+					title: "Support | License & Setup Help",
+					description: "Support for Naraka Bladepoint on Windows PC — orderhjälp och licens support-kontakt. omedelbar digital leverans. Official naraka cheats at narakacheats.org.",
 					h1: "Support",
 					intro: "Hjälp med licenser, setup och fakturering för Naraka Cheats på Windows PC.",
 					imageAlt: "Naraka Cheats support page for license and setup help",
@@ -25627,8 +25627,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				undetected: {
-					title: "Undetected cheats | undetected",
-					description: "Undetected cheats: undetected underhåll efter NEAC patchar. omedelbar digital leverans. undetected — Windows PC.",
+					title: "Undetected cheats | NEAC Safe Status",
+					description: "Undetected cheats for Naraka Bladepoint on Windows PC — undetected underhåll efter NEAC patchar. omedelbar digital leverans. undetected. Official naraka cheats",
 					h1: "Undetected cheats",
 					intro: "Naraka Cheats kombinerar ESP wallhack, radar hack och Naraka Aimbot som undetected paket för Naraka på Windows PC. Undetected cheats. undetected underhåll efter NEAC patchar.",
 					imageAlt: "Naraka Cheats undetected status overview for Windows PC",
@@ -25673,8 +25673,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				wallhack: {
-					title: "Naraka Wallhack | wallhack",
-					description: "Naraka Wallhack: wallhack ESP för spelare, kadaver och avstånd. omedelbar digital leverans. undetected — Windows PC.",
+					title: "Naraka Wallhack | ESP Visibility",
+					description: "Naraka Wallhack for Naraka Bladepoint on Windows PC — wallhack ESP för spelare, kadaver och avstånd. omedelbar digital leverans. undetected. Official naraka",
 					h1: "Naraka Wallhack",
 					intro: "Naraka Cheats kombinerar ESP wallhack, radar hack och Naraka Aimbot som undetected paket för Naraka på Windows PC. Naraka Wallhack. wallhack ESP för spelare, kadaver och avstånd.",
 					imageAlt: "naraka wallhack visibility through walls in a match",
@@ -25711,8 +25711,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				radar: {
-					title: "Radar| 2D Threat Map | Naraka Cheats",
-					description: "2D radar hack for flank awareness on PC. Bundled with ESP wallhack & soft aim in one license. NEAC maintenance at narakacheats.org.",
+					title: "Radar | 2D Threat Map | Naraka Cheats",
+					description: "Radar for Naraka Bladepoint on Windows PC — 2D radar-signaler för flanker och rotationer. omedelbar digital leverans. Official naraka cheats at",
 					h1: "Radar",
 					intro: "En enkel 2D-radar för hot utanför synfältet. Ingår i samma Naraka Cheats-licens.",
 					imageAlt: "Naraka 2D radar overlay showing nearby threats",
@@ -25749,15 +25749,15 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				neac: {
-					title: "neac | neac",
-					description: "neac: neac. omedelbar digital leverans. undetected — Windows PC.",
-					h1: "neac",
-					intro: "Naraka Cheats kombinerar ESP wallhack, radar hack och Naraka Aimbot som undetected paket för Naraka på Windows PC. neac. neac.",
-					imageAlt: "neac — Naraka Cheats",
-					galleryTitle: "neac",
+					title: "NEAC Bypass | Patch Maintenance",
+					description: "NEAC Bypass for Naraka Bladepoint on Windows PC — hur NEAC-uppdateringar hanteras för Naraka cheats. omedelbar digital leverans. undetected. Official naraka",
+					h1: "NEAC Bypass",
+					intro: "Naraka Cheats kombinerar ESP wallhack, radar hack och Naraka Aimbot som undetected paket för Naraka på Windows PC. NEAC Bypass. hur NEAC-uppdateringar hanteras för Naraka cheats.",
+					imageAlt: "Naraka Cheats maintenance after a NEAC patch",
+					galleryTitle: "NEAC Bypass",
 					ctaPrimary: "Köp Naraka Cheats",
 					ctaSecondary: "Se funktioner",
-					ctaSecondaryHref: "/",
+					ctaSecondaryHref: "/updates/",
 					sections: [
 						{
 							h2: "NEAC overview",
@@ -25786,7 +25786,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "HWID bans, spoofers, and what we do not sell",
 							paragraphs: [
-								"Naraka Cheats kombinerar ESP wallhack, radar hack och Naraka Aimbot som undetected paket för Naraka på Windows PC. neac",
+								"Naraka Cheats kombinerar ESP wallhack, radar hack och Naraka Aimbot som undetected paket för Naraka på Windows PC. hur NEAC-uppdateringar hanteras för Naraka cheats",
 								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/naraka-neac-bypass/\">NEAC FAQ</a> before buying anywhere.",
 								"Kontrollera Updates ruster NEAC-patchar. Ingen cheat garanterar permanent undetected status.",
 							],
@@ -25794,7 +25794,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "External architecture, stream proofing, and patch-day checklist",
 							paragraphs: [
-								"Naraka Cheats kombinerar ESP wallhack, radar hack och Naraka Aimbot som undetected paket för Naraka på Windows PC. neac",
+								"Naraka Cheats kombinerar ESP wallhack, radar hack och Naraka Aimbot som undetected paket för Naraka på Windows PC. hur NEAC-uppdateringar hanteras för Naraka cheats",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">Undetected cheats-guide</a>, (2) confirm NEAC notes on <a href=\"/neac-bypass/\">NEAC-underhåll</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
 								"Deep dives: <a href=\"/undetected-naraka-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-naraka-cheats-eac/\">NEAC reality blog</a> · <a href=\"/naraka-cheats/\">Naraka Cheats-översikt</a>.",
 							],
@@ -25803,8 +25803,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot.webp",
 				},
 				"cheats-2026": {
-					title: "Naraka Cheats 2026 | cheats-2026",
-					description: "Naraka Cheats 2026: 2026 naraka cheats checklist före checkout. omedelbar digital leverans. undetected — Windows PC.",
+					title: "Naraka Cheats 2026 | Buyer Guide",
+					description: "Naraka Cheats 2026 for Naraka Bladepoint on Windows PC — 2026 naraka cheats checklist före checkout. omedelbar digital leverans. undetected. Official naraka",
 					h1: "Naraka Cheats 2026",
 					intro: "Naraka Cheats kombinerar ESP wallhack, radar hack och Naraka Aimbot som undetected paket för Naraka på Windows PC. Naraka Cheats 2026. 2026 naraka cheats checklist före checkout.",
 					imageAlt: "Naraka Cheats product overview for Naraka",
@@ -25841,7 +25841,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Episode 10+ and ranked meta in 2026",
 							paragraphs: [
 								"2026 ranked play rewards information speed — ESP hero markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/naraka-aimbot/\">Aimbot och soft aim</a> and ESP toggles.",
-								"Compare against <a href=\"/best-naraka-cheats/\">best naraka cheats</a> criteria and <a href=\"/undetected-naraka-cheats/\">undetected maintenance</a> before switching shops mid-season.",
+								"Compare against <a href=\"/\">Fullständig produkt</a> criteria and <a href=\"/undetected-naraka-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/naraka-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/naraka-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
 						},
@@ -25849,8 +25849,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				hacks: {
-					title: "Naraka Cheats — Fullständig guide| ESP, Aimbot & Wallhack",
-					description: "Naraka cheats guide — undetected ESP wallhack, soft aim, radar & NEAC rebuilds on PC. Compare features & buy from $35 at narakacheats.org.",
+					title: "Naraka Cheats — Fullständig guide | ESP, Aimbot & Wallhack",
+					description: "Naraka Cheats — Fullständig guide for Naraka Bladepoint on Windows PC — Naraka Cheats pelare för ESP och Aimbot. omedelbar digital leverans. Official naraka",
 					h1: "Naraka Cheats — Fullständig guide",
 					intro: "Naraka cheats lägger till ESP, radar och soft aim ovanpå basspelet. Den här sidan förklarar vad naraka cheats är, vad Naraka Cheats innehåller, NEAC-underhåll och nästa steg före köp.",
 					imageAlt: "Naraka Cheats overview — ESP, aimbot, and radar for Naraka",
@@ -25922,8 +25922,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-combat.webp",
 				},
 				"cheat-download": {
-					title: "Naraka Cheat Download | cheat-download",
-					description: "Naraka Cheat Download: digital licensnedladdning efter betalning. omedelbar digital leverans. undetected — Windows PC.",
+					title: "Naraka Cheat Download | Instant Access",
+					description: "Naraka Cheat Download for Naraka Bladepoint on Windows PC — digital licensnedladdning efter betalning. omedelbar digital leverans. undetected. Official naraka",
 					h1: "Naraka Cheat Download",
 					intro: "Naraka Cheats kombinerar ESP wallhack, radar hack och Naraka Aimbot som undetected paket för Naraka på Windows PC. Naraka Cheat Download. digital licensnedladdning efter betalning.",
 					imageAlt: "Naraka Cheats download and install delivery flow",
@@ -25960,8 +25960,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-session.webp",
 				},
 				"mod-menu": {
-					title: "Naraka Mod-meny | mod-menu",
-					description: "Naraka Mod-meny: in-client ESP och soft aim-växlar. omedelbar digital leverans. undetected — Windows PC.",
+					title: "Naraka Mod-meny | In-Game Toggles",
+					description: "Naraka Mod-meny for Naraka Bladepoint on Windows PC — in-client ESP och soft aim-växlar. omedelbar digital leverans. undetected. Official naraka cheats at",
 					h1: "Naraka Mod-meny",
 					intro: "Naraka Cheats kombinerar ESP wallhack, radar hack och Naraka Aimbot som undetected paket för Naraka på Windows PC. Naraka Mod-meny. in-client ESP och soft aim-växlar.",
 					imageAlt: "Naraka Cheats in-game menu controls",
@@ -25998,8 +25998,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-radar.webp",
 				},
 				"soft-aim": {
-					title: "Naraka Soft Aim | soft-aim",
-					description: "Naraka Soft Aim: mjuka soft aim-inställningar för Windows PC. omedelbar digital leverans. undetected — Windows PC.",
+					title: "Naraka Soft Aim | Smooth Aim Settings",
+					description: "Naraka Soft Aim for Naraka Bladepoint on Windows PC — mjuka soft aim-inställningar för Windows PC. omedelbar digital leverans. undetected. Official naraka",
 					h1: "Naraka Soft Aim",
 					intro: "Naraka Cheats kombinerar ESP wallhack, radar hack och Naraka Aimbot som undetected paket för Naraka på Windows PC. Naraka Soft Aim. mjuka soft aim-inställningar för Windows PC.",
 					imageAlt: "Naraka soft aim FOV and smoothness settings",
@@ -26036,8 +26036,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				"best-cheats": {
-					title: "Bästa Naraka Cheats | best-cheats",
-					description: "Bästa Naraka Cheats: vad du ska jämföra innan du köper naraka cheats. omedelbar digital leverans. undetected — Windows PC.",
+					title: "Bästa Naraka Cheats | Buyer Checklist",
+					description: "Bästa Naraka Cheats for Naraka Bladepoint on Windows PC — vad du ska jämföra innan du köper naraka cheats. omedelbar digital leverans. undetected. Official",
 					h1: "Bästa Naraka Cheats",
 					intro: "Naraka Cheats kombinerar ESP wallhack, radar hack och Naraka Aimbot som undetected paket för Naraka på Windows PC. Bästa Naraka Cheats. vad du ska jämföra innan du köper naraka cheats.",
 					imageAlt: "Naraka Cheats overview for Naraka on PC",
@@ -26082,8 +26082,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-esp.webp",
 				},
 				"aimbot-hack": {
-					title: "Naraka Aimbot Hack | aimbot-hack",
-					description: "Naraka Aimbot Hack: undetected Aimbot hack assist för Naraka. omedelbar digital leverans. undetected — Windows PC.",
+					title: "Naraka Aimbot Hack | Soft Aim Assist",
+					description: "Naraka Aimbot Hack for Naraka Bladepoint on Windows PC — undetected Aimbot hack assist för Naraka. omedelbar digital leverans. undetected. Official naraka",
 					h1: "Naraka Aimbot Hack",
 					intro: "Naraka Cheats kombinerar ESP wallhack, radar hack och Naraka Aimbot som undetected paket för Naraka på Windows PC. Naraka Aimbot Hack. undetected Aimbot hack assist för Naraka.",
 					imageAlt: "Naraka Aimbot hack controls and bone priority",
@@ -26120,8 +26120,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-aimbot-view.webp",
 				},
 				"esp-hack": {
-					title: "Naraka ESP Hack | esp-hack",
-					description: "Naraka ESP Hack: ESP hack-boxar, kadaver-pins och avstånd. omedelbar digital leverans. undetected — Windows PC.",
+					title: "Naraka ESP Hack | Boxes & Loot",
+					description: "Naraka ESP Hack for Naraka Bladepoint on Windows PC — ESP hack-boxar, kadaver-pins och avstånd. omedelbar digital leverans. undetected. Official naraka cheats",
 					h1: "Naraka ESP Hack",
 					intro: "Naraka Cheats kombinerar ESP wallhack, radar hack och Naraka Aimbot som undetected paket för Naraka på Windows PC. Naraka ESP Hack. ESP hack-boxar, kadaver-pins och avstånd.",
 					imageAlt: "Naraka ESP hack boxes and hero markers",
@@ -26158,8 +26158,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/naraka-cheats-wallhack.webp",
 				},
 				"unlock-all": {
-					title: "Naraka Unlock All | unlock-all",
-					description: "Naraka Unlock All: unlock-all-sökningar vs riktiga ESP- och Aimbot-verktyg. omedelbar digital leverans. undetected — Windows PC.",
+					title: "Naraka Unlock All | What It Means",
+					description: "Naraka Unlock All for Naraka Bladepoint on Windows PC — unlock-all-sökningar vs riktiga ESP- och Aimbot-verktyg. omedelbar digital leverans. undetected.",
 					h1: "Naraka Unlock All",
 					intro: "Naraka Cheats kombinerar ESP wallhack, radar hack och Naraka Aimbot som undetected paket för Naraka på Windows PC. Naraka Unlock All. unlock-all-sökningar vs riktiga ESP- och Aimbot-verktyg.",
 					imageAlt: "Naraka Cheats license features overview",
@@ -26197,7 +26197,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Integritetspolicy | Naraka Cheats",
-					description: "Integritetspolicy för Naraka Cheats — ESP wallhack, Aimbot, Windows PC.",
+					description: "Integritetspolicy för Naraka Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at narakacheats.org.",
 					h1: "Integritetspolicy",
 					intro: "Naraka Cheats kombinerar ESP wallhack, radar hack och Naraka Aimbot som undetected paket för Naraka på Windows PC. Integritetspolicy för narakacheats.org och Naraka-licenser.",
 					imageAlt: "Naraka Cheats",
@@ -26232,7 +26232,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				refund: {
 					title: "Återbetalningspolicy | Naraka Cheats",
-					description: "Återbetalningspolicy för Naraka Cheats — ESP wallhack, Aimbot, Windows PC.",
+					description: "Återbetalningspolicy för Naraka Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at narakacheats.org.",
 					h1: "Återbetalningspolicy",
 					intro: "Naraka Cheats kombinerar ESP wallhack, radar hack och Naraka Aimbot som undetected paket för Naraka på Windows PC. Återbetalningspolicy för narakacheats.org och Naraka-licenser.",
 					imageAlt: "Naraka Cheats",
@@ -26267,7 +26267,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				terms: {
 					title: "Användarvillkor | Naraka Cheats",
-					description: "Användarvillkor för Naraka Cheats — ESP wallhack, Aimbot, Windows PC.",
+					description: "Användarvillkor för Naraka Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at narakacheats.org.",
 					h1: "Användarvillkor",
 					intro: "Naraka Cheats kombinerar ESP wallhack, radar hack och Naraka Aimbot som undetected paket för Naraka på Windows PC. Användarvillkor för narakacheats.org och Naraka-licenser.",
 					imageAlt: "Naraka Cheats",

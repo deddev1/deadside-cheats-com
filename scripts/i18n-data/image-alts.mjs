@@ -26,7 +26,7 @@ export const PAGE_IMAGE_ALTS = {
 	undetected: 'Naraka Cheats undetected status overview for Windows PC',
 	wallhack: 'naraka wallhack visibility through walls in a match',
 	radar: 'Naraka 2D radar overlay showing nearby threats',
-	eac: 'Naraka Cheats maintenance after a NEAC patch',
+	neac: 'Naraka Cheats maintenance after a NEAC patch',
 	'cheats-2026': 'Naraka Cheats product overview for Naraka',
 	hacks: 'Naraka Cheats product page — ESP, aimbot, and radar',
 	'cheat-download': 'Naraka Cheats download and install delivery flow',

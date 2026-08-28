@@ -109,34 +109,34 @@ export const brand = {
 	seo: {
 		homeTitle: 'Naraka Cheats 2026 | Undetected ESP, Aimbot & Radar',
 		homeDescription:
-			'Buy undetected Naraka cheats at narakacheats.org — ESP, aimbot, wallhack & radar for PC. NEAC updates included. From $35/month.',
+			'Buy undetected Naraka cheats at narakacheats.org — ESP, aimbot, wallhack & radar for PC. NEAC updates included. Plans from $35/month on Windows.',
 		featuresTitle: 'Naraka Cheats Features | ESP, Aimbot & Radar',
 		featuresDescription:
-			'Full Naraka cheats feature list — ESP wallhack, soft aim, 2D radar & mod menu toggles on PC. {antiCheat} maintenance at narakacheats.org.',
+			'Full Naraka cheats feature list — ESP wallhack, soft aim, 2D radar & mod menu toggles on PC. {antiCheat} maintenance and setup guides at narakacheats.org.',
 		storeTitle: 'Naraka Cheats Pricing | $35/mo or $150 Lifetime',
 		storeDescription:
-			'Buy Naraka cheats at narakacheats.org — $35/month or $150 lifetime. ESP, aimbot & radar on PC. Same features, instant delivery.',
+			'Buy Naraka cheats at narakacheats.org — $35/month or $150 lifetime. ESP, aimbot & radar on PC. Same features, instant digital delivery worldwide.',
 		statusTitle: 'Naraka Status | Undetected {antiCheat} Updates',
 		statusDescription:
-			'Live status after {game} & {antiCheat} patches. Check undetected ESP, aimbot & radar rebuilds on PC before you queue. narakacheats.org.',
+			'Live status after {game} & {antiCheat} patches. Check undetected ESP, aimbot & radar rebuilds on PC before you queue. Status updated at narakacheats.org.',
 		previewTitle: 'Naraka Cheats | ESP, Aimbot & Wallhack Guide',
 		previewDescription:
-			'Naraka cheats guide — undetected ESP wallhack, soft aim, radar & {antiCheat} rebuilds on PC. Compare features & buy from $35 at narakacheats.org.',
+			'Naraka cheats guide — undetected ESP wallhack, soft aim, radar & {antiCheat} rebuilds on PC. Compare features & buy from $35 at narakacheats.org today.',
 		setupTitle: 'Naraka Cheats Setup | Windows PC Install Guide',
 		setupDescription:
 			'Install {brand} on PC — activate ESP, soft aim & radar step by step. Setup guide at narakacheats.org. Check {antiCheat} status before your first match.',
 		supportTitle: 'Naraka Cheats Support | License & Setup Help',
 		supportDescription:
-			'Support for license delivery, ESP setup & billing on PC. Email {email} with your order ID. narakacheats.org/support.',
+			'Support for license delivery, ESP setup & billing on PC. Email {email} with your order ID. Fast help at narakacheats.org/support before you play.',
 		faqTitle: 'Naraka Cheats FAQ | ESP, Aimbot & {antiCheat}',
 		faqDescription:
-			'FAQ for naraka cheats — delivery, setup, undetected status, {antiCheat} updates & pricing on PC. Answers at narakacheats.org before you buy.',
+			'FAQ for naraka cheats — delivery, setup, undetected status, {antiCheat} updates & pricing on PC. Read answers at narakacheats.org before you buy today.',
 		reviewsTitle: 'Naraka Cheats Reviews | Bladepoint Hacks & Cheats',
 		reviewsDescription:
-			'Real buyer reviews for Naraka cheats and Naraka Bladepoint hacks — ESP, soft aim, radar & {antiCheat} maintenance on PC. See what license holders say at narakacheats.org.',
+			'Real buyer reviews for Naraka cheats and Naraka Bladepoint hacks — ESP, soft aim, radar & {antiCheat} maintenance on PC. See license holder feedback at narakacheats.org.',
 		blogTitle: 'Naraka Blog | Guides & Patch Tips | {brand}',
 		blogDescription:
-			'Naraka guides — ranked tips, ESP & aimbot notes, hero tiers & {antiCheat} updates for PC. Read the blog at narakacheats.org/blog.',
+			'Naraka guides — ranked tips, ESP & aimbot notes, hero tiers & {antiCheat} updates for PC. Read patch notes and buyer guides at narakacheats.org/blog.',
 	},
 
 	/** On-page marketing copy (tokens allowed) */
@@ -243,10 +243,19 @@ export function seoTitle(topic: string): string {
 	return title.length <= 60 ? title : `${topic} | ${brand.name}`;
 }
 
-/** Keep descriptions short; tokens allowed. */
+/** Keep descriptions in Google's preferred range (~140–160 chars). */
 export function seoDescription(template: string): string {
-	const text = fillBrandTokens(template).trim();
-	return text.length <= 160 ? text : `${text.slice(0, 157).trim()}…`;
+	let text = fillBrandTokens(template).trim();
+	if (text.length < 140) {
+		const pad = text.toLowerCase().includes('narakacheats.org')
+			? ' Windows PC license with NEAC maintenance after patches.'
+			: ' Compare plans and guides at narakacheats.org.';
+		text = `${text.replace(/[.…]+$/, '')}.${pad}`;
+	}
+	if (text.length <= 160) return text;
+	const trimmed = text.slice(0, 160);
+	const lastSpace = trimmed.lastIndexOf(' ');
+	return lastSpace > 130 ? trimmed.slice(0, lastSpace) : trimmed.slice(0, 160);
 }
 
 /** Resolved EN home meta from brand.seo (title clamp lives in site-core.seoPageTitle). */
