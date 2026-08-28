@@ -4,47 +4,19 @@ type Props = {
 	className?: string;
 };
 
-/** Classy minimal tech mark — refined geometric N for Naraka. */
-export default function BrandLogo({ alt, className }: Props) {
+/** NC monogram mark — Naraka Cheats. */
+export default function BrandLogo({ alt = 'Naraka Cheats logo', className }: Props) {
 	return (
-		<svg
+		<img
 			className={className}
-			viewBox="0 0 40 40"
-			fill="none"
-			xmlns="http://www.w3.org/2000/svg"
-			aria-hidden={alt ? undefined : true}
-			role={alt ? 'img' : undefined}
-			aria-label={alt}
-		>
-			{/* Soft frame */}
-			<rect
-				x="1.25"
-				y="1.25"
-				width="37.5"
-				height="37.5"
-				rx="11"
-				stroke="currentColor"
-				strokeOpacity="0.18"
-				strokeWidth="1"
-			/>
-			{/* Inner hairline for depth */}
-			<rect
-				x="3.5"
-				y="3.5"
-				width="33"
-				height="33"
-				rx="9"
-				stroke="currentColor"
-				strokeOpacity="0.06"
-				strokeWidth="0.75"
-			/>
-			{/* Refined N — balanced stems + clean diagonal */}
-			<path
-				d="M13.2 27.4V12.6h2.1L24.7 24.1V12.6h2.1v14.8h-2.1L15.3 16V27.4h-2.1z"
-				fill="currentColor"
-			/>
-			{/* Quiet red accent — small corner node */}
-			<circle cx="28.6" cy="12.6" r="1.35" fill="var(--magenta, #e50920)" />
-		</svg>
+			src="/images/naraka-cheats-logo-mark.webp"
+			srcSet="/images/naraka-cheats-logo-mark.webp 128w, /images/naraka-cheats-logo.webp 512w"
+			sizes="40px"
+			width={40}
+			height={40}
+			alt={alt}
+			decoding="async"
+			fetchPriority="high"
+		/>
 	);
 }
