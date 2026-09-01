@@ -1,6 +1,6 @@
 ---
 import { customerReviews, customerReviewStats } from '../data/site';
-import { getReviewPath, reviewsBasePath } from '../data/reviews';
+import { getReviewPath, pickMarqueeReviews, MARQUEE_SECONDS_PER_CARD, reviewsBasePath } from '../data/reviews';
 import { defaultLocale, type LocaleCode } from '../data/i18n/locales';
 import { getT } from '../i18n/server';
 
@@ -10,15 +10,19 @@ interface Props {
 
 const locale = Astro.props.locale ?? defaultLocale;
 const t = getT(locale);
-const reviews = customerReviews.map((review) => ({
-	slug: review.slug,
-	handle: review.handle,
-	text: review.text,
-	short: review.short,
-	date: review.date,
-	rating: review.rating,
-	href: getReviewPath(review.slug),
-}));
+const reviews = pickMarqueeReviews(
+	customerReviews.map((review) => ({
+		slug: review.slug,
+		handle: review.handle,
+		text: review.text,
+		short: review.short,
+		date: review.date,
+		rating: review.rating,
+		href: getReviewPath(review.slug),
+	})),
+);
+
+const marqueeDuration = Math.max(80, reviews.length * MARQUEE_SECONDS_PER_CARD);
 
 const ratingLabel = customerReviewStats.averageRating.toFixed(1);
 const countLabel = customerReviewStats.reviewCountLabel || String(customerReviewStats.totalCount);
@@ -64,7 +68,7 @@ function initial(handle: string) {
 	</div>
 
 	<div class="reviews__marquee" data-marquee>
-		<div class="reviews__track">
+		<div class="reviews__track" style={`--reviews-marquee-duration: ${marqueeDuration}s`}>
 			{
 				[0, 1].map((copy) => (
 					<ul class="reviews__row" aria-hidden={copy === 1 ? true : undefined}>
@@ -201,7 +205,7 @@ function initial(handle: string) {
 	.reviews__track {
 		display: flex;
 		width: max-content;
-		animation: reviews-ltr 70s linear infinite;
+		animation: reviews-ltr var(--reviews-marquee-duration, 120s) linear infinite;
 		will-change: transform;
 	}
 
