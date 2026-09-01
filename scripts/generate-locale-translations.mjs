@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Generates public/locales/{locale}/translation.json for all 22 locales.
+ * Generates src/locales/{locale}/translation.json for all 22 locales.
  */
 import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
@@ -14,8 +14,8 @@ import { fixDeadsideCopyDeep } from './i18n-data/deadside-copy-fix.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
-const EN_FILE = path.join(ROOT, 'public', 'locales', 'en', 'translation.json');
-const ES_FILE = path.join(ROOT, 'public', 'locales', 'es', 'translation.json');
+const EN_FILE = path.join(ROOT, 'src', 'locales', 'en', 'translation.json');
+const ES_FILE = path.join(ROOT, 'src', 'locales', 'es', 'translation.json');
 
 function deepMerge(base, overlay) {
 	const out = structuredClone(base);
@@ -278,7 +278,7 @@ async function main() {
 	}
 
 	for (const locale of LOCALES) {
-		const dir = path.join(ROOT, 'public', 'locales', locale);
+		const dir = path.join(ROOT, 'src', 'locales', locale);
 		await mkdir(dir, { recursive: true });
 
 		let translation = en;

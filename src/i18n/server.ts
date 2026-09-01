@@ -1,4 +1,4 @@
-const localeModules = import.meta.glob('../../public/locales/*/translation.json', { eager: true });
+const localeModules = import.meta.glob('../locales/*/translation.json', { eager: true });
 
 type TranslationCatalog = Record<string, unknown>;
 

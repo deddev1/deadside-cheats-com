@@ -105,10 +105,10 @@ const isDev = import.meta.env.DEV;
 							if (!res.ok || !data.ok) return;
 							const map = data.edits || {};
 							const page = map[location.pathname] || {};
-							Object.entries(page).foreach(([key, value]) => {
+							Object.entries(page).forEach(([key, value]) => {
 								if (typeof value !== 'string') return;
 								if (key.startsWith('brand:')) {
-									document.querySelectorAll('[data-edit="' + key.slice(6) + '"]').foreach((el) => {
+									document.querySelectorAll('[data-edit="' + key.slice(6) + '"]').forEach((el) => {
 										el.textContent = value;
 									});
 									return;

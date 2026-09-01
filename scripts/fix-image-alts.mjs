@@ -36,7 +36,7 @@ pe = pe.replace(/imageAlt:\s*'[^']*'/g, () => {
 fs.writeFileSync('scripts/i18n-data/pages-en.mjs', pe);
 console.log('pages-en imageAlts', i);
 
-for (const f of ['public/locales/en/translation.json', 'public/locales/es/translation.json']) {
+for (const f of ['src/locales/en/translation.json', 'src/locales/es/translation.json']) {
 	const j = JSON.parse(fs.readFileSync(f, 'utf8'));
 	j.images = { ...DESCRIPTIVE_IMAGE_ALTS };
 	if (j.hero) {

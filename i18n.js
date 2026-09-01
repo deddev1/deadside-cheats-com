@@ -1,7 +1,7 @@
 import i18n from 'i18next';
 import { initReactI18next } from 'react-i18next';
 import LanguageDetector from 'i18next-browser-languagedetector';
-import enTranslation from './public/locales/en/translation.json';
+import enTranslation from './src/locales/en/translation.json';
 
 export const supportedLngs = [
 	'en',
@@ -29,7 +29,7 @@ export const supportedLngs = [
 ];
 
 /** Lazy locale chunks — one JSON file per language instead of one 400KB+ bundle. */
-const localeModules = import.meta.glob('./public/locales/*/translation.json');
+const localeModules = import.meta.glob('./src/locales/*/translation.json');
 
 const loadedLocales = new Set(['en']);
 
@@ -37,7 +37,7 @@ export async function ensureLocale(locale) {
 	const lng = locale?.split('-')[0] || 'en';
 	if (loadedLocales.has(lng)) return lng;
 
-	const loader = localeModules[`./public/locales/${lng}/translation.json`];
+	const loader = localeModules[`./src/locales/${lng}/translation.json`];
 	if (!loader) return 'en';
 
 	const mod = await loader();
