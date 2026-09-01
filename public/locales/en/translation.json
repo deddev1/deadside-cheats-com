@@ -66,15 +66,15 @@
   },
   "reviews": {
     "title": "What players say",
-    "subtitle": "Recent feedback from Deadside Cheats buyers",
+    "subtitle": "Unfiltered notes from people running Deadside cheats in raid",
     "outOf": "out of 5",
-    "countLabel": "reviews",
-    "eyebrow": "Deadside Cheats",
-    "homeTitle": "Deadside Cheats reviews",
-    "buyerReviews": "{{count}} Deadside Cheats buyer reviews",
-    "averageAria": "{{rating}} average from {{count}} Deadside Cheats buyer reviews",
+    "countLabel": "player ratings",
+    "eyebrow": "What players say",
+    "homeTitle": "What players say",
+    "buyerReviews": "{{count}} players rated this",
+    "averageAria": "{{rating}} average from {{count}} player ratings",
     "outOfFiveAria": "{{rating}} out of 5",
-    "readAll": "Read all Deadside Cheats reviews →"
+    "readAll": "Read what players are saying →"
   },
   "common": {
     "buyNow": "Buy Deadside Cheats",
