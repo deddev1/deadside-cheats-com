@@ -20,15 +20,15 @@
     "closeMenu": "Close menu"
   },
   "hero": {
-    "accent": "Undetected Naraka Cheats",
-    "accentShort": "Naraka Cheats",
-    "title": "Naraka Cheats",
-    "subtitle": "ESP Wallhack, Radar Hack und Aimbot für Naraka auf Windows PC — NEAC-Wartung inklusive.",
-    "subtitleShort": "ESP, Radar & Aimbot für Naraka PC",
+    "accent": "Undetected Deadside Cheats",
+    "accentShort": "Deadside Cheats",
+    "title": "Deadside Cheats",
+    "subtitle": "ESP Wallhack, Radar Hack und Aimbot für Deadside auf Windows PC — BattlEye-Wartung inklusive.",
+    "subtitleShort": "ESP, Radar & Aimbot für Deadside PC",
     "buyNow": "Jetzt kaufen",
     "seeFeatures": "Features ansehen",
     "priceFrom": "from",
-    "imageAlt": "{{brand}} — Naraka ESP and aimbot overlay",
+    "imageAlt": "{{brand}} — Deadside ESP and aimbot overlay",
     "chipEsp": "ESP / wallhack",
     "chipAim": "Soft aim",
     "chipRadar": "2D radar",
@@ -40,20 +40,20 @@
   },
   "trust": {
     "status": "Online",
-    "statusNote": "Naraka Cheats Paket ist live für Naraka auf Windows PC.",
+    "statusNote": "Deadside Cheats Paket ist live für Deadside auf Windows PC.",
     "statusShort": "Live",
     "delivery": "Sofortige digitale Lieferung",
     "platform": "Windows 10 & 11",
-    "antiCheat": "NEAC-Wartung unterstützt",
-    "antiCheatShort": "NEAC Support"
+    "antiCheat": "BattlEye-Wartung unterstützt",
+    "antiCheatShort": "BattlEye Support"
   },
   "product": {
-    "title": "Naraka Cheats",
+    "title": "Deadside Cheats",
     "addToCart": "In den Warenkorb",
     "monthly": "Monatlich",
     "lifetime": "Lifetime",
     "available": "Jetzt verfügbar",
-    "gameBadge": "Naraka",
+    "gameBadge": "Deadside",
     "platformBadge": "Windows PC",
     "statusBadge": "Undetected Paket",
     "days30": "30",
@@ -66,18 +66,18 @@
   },
   "reviews": {
     "title": "Was Spieler sagen",
-    "subtitle": "Aktuelles Feedback von Naraka Cheats Käufern",
+    "subtitle": "Aktuelles Feedback von Deadside Cheats Käufern",
     "outOf": "von 5",
     "countLabel": "Bewertungen",
     "eyebrow": "Was Spieler sagen",
-    "homeTitle": "Naraka Cheats Was Spieler sagen",
+    "homeTitle": "Deadside Cheats Was Spieler sagen",
     "buyerReviews": "Bewertungen",
     "averageAria": "Was Spieler sagen",
     "outOfFiveAria": "von 5",
     "readAll": "→"
   },
   "common": {
-    "buyNow": "Buy Naraka Cheats",
+    "buyNow": "Buy Deadside Cheats",
     "readGuide": "Read guide",
     "language": "Language",
     "officialLanguageNote": "English is official; other locales are translated.",
@@ -117,23 +117,23 @@
   "footer": {
     "explore": "Entdecken",
     "help": "Hilfe & Rechtliches",
-    "tagline": "Undetected ESP, Wallhack, Radar und Aimbot für Naraka — Checkout über Zadeyo."
+    "tagline": "Undetected ESP, Wallhack, Radar und Aimbot für Deadside — Checkout über Zadeyo."
   },
   "home": {
-    "aboutTitle": "undetected Cheats für Naraka",
-    "aboutP1": "Undetected Windows PC Paket für Naraka: ESP Wallhack, Radar und Aimbot mit NEAC-Wartung nach jedem Patch. Preise · Updates.",
+    "aboutTitle": "undetected Cheats für Deadside",
+    "aboutP1": "Undetected Windows PC Paket für Deadside: ESP Wallhack, Radar und Aimbot mit BattlEye-Wartung nach jedem Patch. Preise · Updates.",
     "aboutPricingCta": "Preise vergleichen",
     "aboutP2Before": "Starten Sie mit dem",
-    "aboutPillar": "Naraka Cheats Leitfaden",
+    "aboutPillar": "Deadside Cheats Leitfaden",
     "aboutEsp": "ESP-Guide",
     "aboutAimbot": "Aimbot-Steuerung",
     "aboutUndetected": "Undetected-Status",
     "aboutP2Mid": ", ",
     "aboutP2Or": ", oder ",
     "aboutP2After": ", wenn Sie noch Tools vergleichen.",
-    "playDemoVideo": "Play Naraka cheats demo video",
-    "pauseDemoVideo": "Pause Naraka cheats demo video",
-    "demoVideoCaption": "Naraka Cheats — ESP, aimbot & radar in match",
+    "playDemoVideo": "Play Deadside cheats demo video",
+    "pauseDemoVideo": "Pause Deadside cheats demo video",
+    "demoVideoCaption": "Deadside Cheats — ESP, aimbot & radar in match",
     "volumeLabel": "Volume",
     "muteVideo": "Mute video",
     "unmuteVideo": "Unmute video",
@@ -157,11 +157,11 @@
     "linkRadar": "Radar",
     "linkLiveStatus": "Live-Status",
     "linkUndetected": "Undetected",
-    "linkNEAC": "NEAC",
+    "linkBattlEye": "BattlEye",
     "linkSetup": "Setup",
     "linkPlans": "Pläne",
     "linkReviews": "Bewertungen",
-    "linkFinalsCheats": "Naraka Cheats",
+    "linkFinalsCheats": "Deadside Cheats",
     "linkFaq": "FAQ",
     "linkSupport": "Support",
     "linkSetupGuide": "Setup-Anleitung",
@@ -200,11 +200,11 @@
     "blog": "Blog"
   },
   "internalLinks": {
-    "relatedLede": "Naraka Cheats — Verwandte Seiten.",
+    "relatedLede": "Deadside Cheats — Verwandte Seiten.",
     "topicsTitle": "Features",
     "topicsLabel": "Features",
     "topicsLede": "ESP, Aimbot, Preise, Setup, Updates.",
-    "overview": "Naraka Cheats",
+    "overview": "Deadside Cheats",
     "esp": "ESP & wallhack",
     "aimbot": "Aimbot",
     "radar": "Radar",
@@ -225,43 +225,43 @@
     "pillsTitle": "Offizielle Spiel-Guides & Ressourcen",
     "pillsLabel": "Offizielle Spiel-Guides & Ressourcen",
     "steam": {
-      "label": "Naraka auf PC",
+      "label": "Deadside auf PC",
       "note": "Offizielle Store-Seite, Systemanforderungen und Bewertungen."
     },
     "patch": {
-      "label": "Patchnotes Naraka",
+      "label": "Patchnotes Deadside",
       "note": "Offizielle Updates lesen, bevor du dein Loadout änderst."
     },
     "official": {
-      "label": "Offizielle Naraka-Website",
-      "note": "Spielübersicht von 24 Entertainment."
+      "label": "Offizielle Deadside-Website",
+      "note": "Spielübersicht von Bad Pixel."
     },
     "wiki": {
-      "label": "Naraka Wiki (Fandom)",
+      "label": "Deadside Wiki (Fandom)",
       "note": "Spielerstatistiken, Karten und Survival-Mechaniken."
     },
     "community": {
-      "label": "Naraka community Hub",
+      "label": "Deadside community Hub",
       "note": "Ankündigungen und Community-Diskussionen."
     }
   },
   "images": {
-    "hero": "Naraka Cheats hero — ESP and aimbot overlay in Naraka",
+    "hero": "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
     "espWallhack": "Wallhack outlines showing agents through walls",
-    "aimbotCombat": "Soft aim assist overlay during a Naraka match",
-    "squadFight": "Naraka Cheats combat overlay during a team fight",
-    "playerEsp": "Player ESP boxes and distance readouts in a Naraka match",
-    "headerArt": "Aimbot view and bone priority controls for Naraka",
-    "hacksPackage": "2D radar threat overlay for Naraka",
-    "raidFight": "Aimbot assist during a Naraka melee combat",
-    "battleRoyale": "Naraka Cheats in-session overview for Windows PC",
-    "raidMap": "ESP markers for hero skills and POIs in Naraka"
+    "aimbotCombat": "Soft aim assist overlay during a Deadside match",
+    "squadFight": "Deadside Cheats combat overlay during a team fight",
+    "playerEsp": "Player ESP boxes and distance readouts in a Deadside match",
+    "headerArt": "Aimbot view and bone priority controls for Deadside",
+    "hacksPackage": "2D radar threat overlay for Deadside",
+    "raidFight": "Aimbot assist during a Deadside tactical combat",
+    "battleRoyale": "Deadside Cheats in-session overview for Windows PC",
+    "raidMap": "ESP markers for hero skills and POIs in Deadside"
   },
   "guides": {
     "hubTitle": "Game Guides Hub",
-    "hubIntro": "Naraka Cheats product guides sit at the top. Scroll down for dedicated PC game guides — each with its own article and resources.",
-    "nativeTitle": "Naraka Cheats guides",
-    "nativeLede": "Our primary guides for ESP, aimbot, radar, setup, and pricing on narakacheats.org.",
+    "hubIntro": "Deadside Cheats product guides sit at the top. Scroll down for dedicated PC game guides — each with its own article and resources.",
+    "nativeTitle": "Deadside Cheats guides",
+    "nativeLede": "Our primary guides for ESP, aimbot, radar, setup, and pricing on deadsidecheats.com.",
     "gameTitle": "Other Games Guides",
     "gameLede": "Dedicated articles for Fortnite, Tarkov, Warzone, Marvel Rivals, and more — mixed across titles below.",
     "readGuide": "Read guide",
@@ -269,143 +269,143 @@
     "updated": "Updated"
   },
   "blog": {
-    "blogTitle": "Naraka Cheats Blog | Guides & Patch Tips",
-    "blogDescription": "Naraka guides — battle royale tips, ESP, aimbot notes, grapple routes, and NEAC update coverage. English blog at narakacheats.org/blog/.",
-    "blogH1": "Naraka Cheats Intel",
-    "blogIntro": "Actionable Naraka guides for ranked and Quick Match sessions — meta breakdowns, grapple routes, hero tiers, and pro warmup routines. Pair these tips with our Naraka Cheats pages for ESP, soft aim, and radar when you need in-match tools.",
+    "blogTitle": "Deadside Cheats Blog | Guides & Patch Tips",
+    "blogDescription": "Deadside guides — survival tips, ESP, aimbot notes, extract routes, and BattlEye update coverage. English blog at deadsidecheats.com/blog/.",
+    "blogH1": "Deadside Cheats Intel",
+    "blogIntro": "Actionable Deadside guides for ranked and Quick Match sessions — meta breakdowns, extract routes, loot routes, and pro warmup routines. Pair these tips with our Deadside Cheats pages for ESP, soft aim, and radar when you need in-match tools.",
     "readMore": "Read guide",
     "published": "Published",
     "updated": "Updated",
-    "relatedPosts": "Related Naraka guides",
+    "relatedPosts": "Related Deadside guides",
     "allPosts": "All blog posts",
-    "home": "Naraka Cheats home",
+    "home": "Deadside Cheats home",
     "language": "Language",
-    "label": "Naraka Intel"
+    "label": "Deadside Intel"
   },
   "gallery": {
-    "eyebrow": "Naraka Cheats",
-    "title": "Naraka Cheats gallery",
-    "subtitle": "Naraka Cheats visuals — ESP, wallhack, aimbot, and radar for Naraka on PC.",
-    "lead": "Naraka Cheats helps you spot enemy heroes, loot, and high-traffic POIs with ESP, aimbot, and radar in one license.",
-    "highlightEspTitle": "Naraka Cheats ESP",
-    "highlightEspCopy": "See enemy heroes through walls with Naraka Cheats ESP and wallhack overlays.",
-    "highlightRadarTitle": "Naraka Cheats radar",
-    "highlightRadarCopy": "Track nearby threats with Naraka Cheats radar before you push or rotate.",
-    "highlightAimbotTitle": "Naraka Cheats aimbot",
-    "highlightAimbotCopy": "Use soft aim and aimbot controls tuned for Naraka matches on Windows PC.",
-    "updatesLabel": "Naraka Cheats updates",
+    "eyebrow": "Deadside Cheats",
+    "title": "Deadside Cheats gallery",
+    "subtitle": "Deadside Cheats visuals — ESP, wallhack, aimbot, and radar for Deadside on PC.",
+    "lead": "Deadside Cheats helps you spot enemy heroes, loot, and high-traffic POIs with ESP, aimbot, and radar in one license.",
+    "highlightEspTitle": "Deadside Cheats ESP",
+    "highlightEspCopy": "See enemy heroes through walls with Deadside Cheats ESP and wallhack overlays.",
+    "highlightRadarTitle": "Deadside Cheats radar",
+    "highlightRadarCopy": "Track nearby threats with Deadside Cheats radar before you push or rotate.",
+    "highlightAimbotTitle": "Deadside Cheats aimbot",
+    "highlightAimbotCopy": "Use soft aim and aimbot controls tuned for Deadside matches on Windows PC.",
+    "updatesLabel": "Deadside Cheats updates",
     "updatesShort": "Updates"
   },
   "faq": {
     "items": {
-      "what-are-naraka-cheats": {
-        "q": "Was ist Naraka Cheats?",
-        "a": "Naraka Cheats ist ein undetected Paket für Naraka auf Windows PC. Es enthält ESP Wallhack, 2D-Radar und Aimbot-Steuerung mit NEAC-Wartung und Setup-Support."
+      "what-are-deadside-cheats": {
+        "q": "Was ist Deadside Cheats?",
+        "a": "Deadside Cheats ist ein undetected Paket für Deadside auf Windows PC. Es enthält ESP Wallhack, 2D-Radar und Aimbot-Steuerung mit BattlEye-Wartung und Setup-Support."
       },
-      "are-naraka-cheats-undetected-in-2026": {
-        "q": "Sind Naraka Cheats 2026 undetected?",
-        "a": "Naraka Cheats wird für Naraka mit Rebuilds nach NEAC- und Spiel-Patches gewartet. Prüfe die Status-Seite before queueing. Kein Cheat kann dauerhafte Undetected-Garantie geben."
+      "are-deadside-cheats-undetected-in-2026": {
+        "q": "Sind Deadside Cheats 2026 undetected?",
+        "a": "Deadside Cheats wird für Deadside mit Rebuilds nach BattlEye- und Spiel-Patches gewartet. Prüfe die Status-Seite before queueing. Kein Cheat kann dauerhafte Undetected-Garantie geben."
       },
       "solo-farmer-and-raider-sessions": {
         "q": "Funktioniert das in Battle-Royale-Runden und Ranked-Matches?",
-        "a": "Ja. ESP, Radar und Aimbot sind für den Naraka-Match-Flow gebaut — feindliche Helden lesen, Loot und Soul Jades verfolgen und in Quick Match und Ranked in POIs und Kampfzonen wachsam bleiben."
+        "a": "Ja. ESP, Radar und Aimbot sind für den Deadside-Match-Flow gebaut — feindliche Helden lesen, Loot und Soul Jades verfolgen und in Quick Match und Ranked in POIs und Kampfzonen wachsam bleiben."
       },
       "esp-wallhack-radar-or-aimbot": {
         "q": "Was ist enthalten — ESP, Wallhack, Radar oder Aimbot?",
-        "a": "Naraka Cheats bündelt ESP Wallhack, Loot-Marker, 2D-Radar und konfigurierbaren Aimbot in einer Lizenz. Siehe Features für die vollständige Liste."
+        "a": "Deadside Cheats bündelt ESP Wallhack, Loot-Marker, 2D-Radar und konfigurierbaren Aimbot in einer Lizenz. Siehe Features für die vollständige Liste."
       },
       "how-are-licenses-delivered": {
         "q": "Wie werden Lizenzen geliefert?",
         "a": "Nach Zahlungsbestätigung werden Lizenzdetails digital über den Checkout geliefert. Bewahre die Bestellbestätigung für Support-Anfragen auf."
       },
       "where-to-check-updates": {
-        "q": "Wo prüfe ich Updates nach einem Naraka- oder NEAC-Patch?",
+        "q": "Wo prüfe ich Updates nach einem Deadside- oder BattlEye-Patch?",
         "a": "Wartungshinweise erscheinen auf der Status-Seite, wenn ein Patch das Paket betrifft. Dort siehst du am schnellsten, ob ein neuer Build live ist."
       },
       "how-to-contact-support": {
         "q": "Wie kontaktiere ich den Support?",
-        "a": "Nutze die Support-Seite oder schreibe an support@narakacheats.org mit Bestelldetails und einer klaren Problembeschreibung."
+        "a": "Nutze die Support-Seite oder schreibe an support@deadsidecheats.com mit Bestelldetails und einer klaren Problembeschreibung."
       },
-      "what-is-a-naraka-wallhack": {
-        "q": "Was ist ein Naraka Wallhack?",
-        "a": "Ein Naraka Wallhack ist ein ESP-Overlay, das feindliche Helden durch Gelände zeigt. Naraka Cheats enthält Distanzanzeigen, Grapple- und Ult-Signale sowie umschaltbare Kategorien."
+      "what-is-a-deadside-wallhack": {
+        "q": "Was ist ein Deadside Wallhack?",
+        "a": "Ein Deadside Wallhack ist ein ESP-Overlay, das feindliche Helden durch Gelände zeigt. Deadside Cheats enthält Distanzanzeigen, Grapple- und Ult-Signale sowie umschaltbare Kategorien."
       },
-      "does-naraka-cheats-include-radar-hack": {
-        "q": "Enthält Naraka Cheats einen Radar Hack?",
-        "a": "Ja. Naraka Cheats enthält 2D-Radar-Overlays für nahe Bedrohungen außerhalb deines Sichtfelds."
+      "does-deadside-cheats-include-radar-hack": {
+        "q": "Enthält Deadside Cheats einen Radar Hack?",
+        "a": "Ja. Deadside Cheats enthält 2D-Radar-Overlays für nahe Bedrohungen außerhalb deines Sichtfelds."
       },
-      "neac-anti-cheat-and-naraka-cheats": {
-        "q": "Wie wirkt sich NEAC auf Naraka Cheats aus?",
-        "a": "NEAC überwacht Naraka auf Windows PC. Naraka Cheats veröffentlicht Wartungshinweise nach Patches. Prüfe Status vor dem Spielen."
+      "battleye-anti-cheat-and-deadside-cheats": {
+        "q": "Wie wirkt sich BattlEye auf Deadside Cheats aus?",
+        "a": "BattlEye überwacht Deadside auf Windows PC. Deadside Cheats veröffentlicht Wartungshinweise nach Patches. Prüfe Status vor dem Spielen."
       },
-      "buy-undetected-naraka-cheats-windows-pc": {
-        "q": "Kann ich undetected Naraka Cheats für Windows PC kaufen?",
-        "a": "Ja — Naraka Cheats verkauft Monats- und Lifetime-Lizenzen für Windows PC mit ESP, Radar und Aimbot. Vergleiche Pläne auf der Preisseite."
+      "buy-undetected-deadside-cheats-windows-pc": {
+        "q": "Kann ich undetected Deadside Cheats für Windows PC kaufen?",
+        "a": "Ja — Deadside Cheats verkauft Monats- und Lifetime-Lizenzen für Windows PC mit ESP, Radar und Aimbot. Vergleiche Pläne auf der Preisseite."
       },
-      "how-much-do-naraka-cheats-cost": {
-        "q": "How much do naraka cheats cost in 2026?",
-        "a": "Naraka Cheats is $35 per month or $150 lifetime USD on Windows PC. Both plans include ESP wallhack, 2D radar, soft aim, and NEAC maintenance rebuilds. See Pricing for the latest plan details before checkout."
+      "how-much-do-deadside-cheats-cost": {
+        "q": "How much do deadside cheats cost in 2026?",
+        "a": "Deadside Cheats is $35 per month or $150 lifetime USD on Windows PC. Both plans include ESP wallhack, 2D radar, soft aim, and BattlEye maintenance rebuilds. See Pricing for the latest plan details before checkout."
       },
-      "what-is-naraka-esp-hack": {
-        "q": "Was ist ein Naraka ESP Hack?",
-        "a": "Ein Naraka ESP Hack ist ein Sichtbarkeits-Overlay, das feindliche Helden, Waffen und Loot durch Wände zeigt. Naraka Cheats ESP enthält Spielerboxen, Distanz-Tags, Grapple- und Ult-Signale sowie umschaltbare Kategorien für Quick Match und Ranked."
+      "what-is-deadside-esp-hack": {
+        "q": "Was ist ein Deadside ESP Hack?",
+        "a": "Ein Deadside ESP Hack ist ein Sichtbarkeits-Overlay, das feindliche Helden, Waffen und Loot durch Wände zeigt. Deadside Cheats ESP enthält Spielerboxen, Distanz-Tags, Grapple- und Ult-Signale sowie umschaltbare Kategorien für Quick Match und Ranked."
       },
-      "what-is-naraka-aimbot-hack": {
-        "q": "Was ist ein Naraka Aimbot Hack?",
-        "a": "Ein Naraka Aimbot Hack bietet Aim Assist mit konfigurierbarem FOV, Smoothing und Knochenpriorität. Naraka Cheats nutzt Soft-Aim-Profile für natürliche Teamfights und Duelle — stelle Einstellungen im Mod-Menü vor Ranked-Queues ein."
+      "what-is-deadside-aimbot-hack": {
+        "q": "Was ist ein Deadside Aimbot Hack?",
+        "a": "Ein Deadside Aimbot Hack bietet Aim Assist mit konfigurierbarem FOV, Smoothing und Knochenpriorität. Deadside Cheats nutzt Soft-Aim-Profile für natürliche Teamfights und Duelle — stelle Einstellungen im Mod-Menü vor Ranked-Queues ein."
       },
-      "how-to-install-naraka-cheats": {
-        "q": "How do I install naraka cheats on Windows PC?",
-        "a": "After checkout, follow the Setup guide: download the loader, disable conflicting overlays, launch Naraka Cheats, and enable ESP, radar, or aimbot toggles in the mod menu. Most buyers finish first launch in under 15 minutes. Email support@narakacheats.org if activation fails."
+      "how-to-install-deadside-cheats": {
+        "q": "How do I install deadside cheats on Windows PC?",
+        "a": "After checkout, follow the Setup guide: download the loader, disable conflicting overlays, launch Deadside Cheats, and enable ESP, radar, or aimbot toggles in the mod menu. Most buyers finish first launch in under 15 minutes. Email support@deadsidecheats.com if activation fails."
       },
-      "best-naraka-cheats-in-2026": {
-        "q": "What are the best naraka cheats in 2026?",
-        "a": "Top naraka cheats in 2026 combine undetected ESP, soft aim, 2D radar, and fast NEAC maintenance after patches. Naraka Cheats bundles all three in one license with status notes, setup support, and monthly or lifetime pricing — compare Features and Reviews before you buy."
+      "best-deadside-cheats-in-2026": {
+        "q": "What are the best deadside cheats in 2026?",
+        "a": "Top deadside cheats in 2026 combine undetected ESP, soft aim, 2D radar, and fast BattlEye maintenance after patches. Deadside Cheats bundles all three in one license with status notes, setup support, and monthly or lifetime pricing — compare Features and Reviews before you buy."
       },
-      "monthly-vs-lifetime-naraka-cheats": {
-        "q": "Should I buy monthly or lifetime naraka cheats?",
-        "a": "Choose monthly ($35) if you want a lower entry cost or only play a few seasons. Choose lifetime ($150) if you plan long-term Naraka play and want one payment for ESP, radar, aimbot, and future maintenance rebuilds. Both plans ship the same feature set."
+      "monthly-vs-lifetime-deadside-cheats": {
+        "q": "Should I buy monthly or lifetime deadside cheats?",
+        "a": "Choose monthly ($35) if you want a lower entry cost or only play a few seasons. Choose lifetime ($150) if you plan long-term Deadside play and want one payment for ESP, radar, aimbot, and future maintenance rebuilds. Both plans ship the same feature set."
       },
-      "naraka-cheats-windows-11": {
-        "q": "Do naraka cheats work on Windows 11?",
-        "a": "Yes. Naraka Cheats supports Windows 10 and Windows 11 on PC. Use a clean install path from the Setup guide, keep NEAC status green on the Updates page, and avoid running outdated builds after major patches."
+      "deadside-cheats-windows-11": {
+        "q": "Do deadside cheats work on Windows 11?",
+        "a": "Yes. Deadside Cheats supports Windows 10 and Windows 11 on PC. Use a clean install path from the Setup guide, keep BattlEye status green on the Updates page, and avoid running outdated builds after major patches."
       },
-      "what-is-naraka-soft-aim": {
-        "q": "Was ist Naraka Soft Aim?",
-        "a": "Naraka Soft Aim lenkt die Zielhilfe sanft auf Ziele innerhalb eines festen FOV statt sofort zu snappen. Naraka Cheats lässt Smoothing, Knochenpriorität und Profile pro Waffentyp anpassen — kontrollierte Hilfe in Quick Match und Ranked."
+      "what-is-deadside-soft-aim": {
+        "q": "Was ist Deadside Soft Aim?",
+        "a": "Deadside Soft Aim lenkt die Zielhilfe sanft auf Ziele innerhalb eines festen FOV statt sofort zu snappen. Deadside Cheats lässt Smoothing, Knochenpriorität und Profile pro Waffentyp anpassen — kontrollierte Hilfe in Quick Match und Ranked."
       },
-      "free-naraka-cheat-download": {
-        "q": "Is there a free Naraka hack download?",
-        "a": "Naraka Cheats is a paid license — there is no official free download. Avoid random “free naraka cheat” sites; they often ship malware or detected loaders. Compare monthly and lifetime plans on Pricing for legitimate ESP, radar, and aimbot access with support."
+      "free-deadside-cheat-download": {
+        "q": "Is there a free Deadside hack download?",
+        "a": "Deadside Cheats is a paid license — there is no official free download. Avoid random “free deadside cheat” sites; they often ship malware or detected loaders. Compare monthly and lifetime plans on Pricing for legitimate ESP, radar, and aimbot access with support."
       },
-      "naraka-neac-bypass": {
-        "q": "Wie funktioniert der NEAC-Bypass für Naraka Cheats?",
-        "a": "Es gibt keinen permanenten NEAC-Bypass. Naraka Cheats wird mit Rebuilds nach Naraka- und NEAC-Patches gewartet — prüfe die Updates-Seite vor dem Queueing. Verantwortliche Einstellungen und die neueste Build zählen mehr als jedes „Bypass“-Versprechen."
+      "deadside-battleye-bypass": {
+        "q": "Wie funktioniert der BattlEye-Bypass für Deadside Cheats?",
+        "a": "Es gibt keinen permanenten BattlEye-Bypass. Deadside Cheats wird mit Rebuilds nach Deadside- und BattlEye-Patches gewartet — prüfe die Updates-Seite vor dem Queueing. Verantwortliche Einstellungen und die neueste Build zählen mehr als jedes „Bypass“-Versprechen."
       },
-      "naraka-cheats-for-ranked": {
-        "q": "Funktionieren Naraka Cheats im Ranked-Wettbewerb?",
-        "a": "Ja. ESP, Radar und Soft Aim sind für Ranked und Quick Match in Naraka auf Windows PC gebaut. Nutze konservative Overlay-Einstellungen, lies Wartungshinweise nach Patches und bestätige den Undetected-Status auf der Updates-Seite vor kompetitiven Queues."
+      "deadside-cheats-for-ranked": {
+        "q": "Funktionieren Deadside Cheats im Ranked-Wettbewerb?",
+        "a": "Ja. ESP, Radar und Soft Aim sind für Ranked und Quick Match in Deadside auf Windows PC gebaut. Nutze konservative Overlay-Einstellungen, lies Wartungshinweise nach Patches und bestätige den Undetected-Status auf der Updates-Seite vor kompetitiven Queues."
       },
-      "what-is-naraka-mod-menu": {
-        "q": "What is a Naraka mod menu?",
-        "a": "A Naraka mod menu is an in-game overlay to toggle ESP wallhack, radar, aimbot, and visual settings without alt-tabbing. Naraka Cheats ships a lightweight mod menu for Windows PC — see Features for the full toggle list."
+      "what-is-deadside-mod-menu": {
+        "q": "What is a Deadside mod menu?",
+        "a": "A Deadside mod menu is an in-game overlay to toggle ESP wallhack, radar, aimbot, and visual settings without alt-tabbing. Deadside Cheats ships a lightweight mod menu for Windows PC — see Features for the full toggle list."
       },
-      "external-vs-internal-naraka-cheats": {
-        "q": "What is the difference between external and internal naraka cheats?",
-        "a": "External hacks read game memory from outside the client; internal hooks run inside the process. Naraka Cheats is built as an external-style package for easier setup on Windows PC, bundling ESP, radar, and soft aim with NEAC maintenance after patches."
+      "external-vs-internal-deadside-cheats": {
+        "q": "What is the difference between external and internal deadside cheats?",
+        "a": "External hacks read game memory from outside the client; internal hooks run inside the process. Deadside Cheats is built as an external-style package for easier setup on Windows PC, bundling ESP, radar, and soft aim with BattlEye maintenance after patches."
       },
-      "how-long-naraka-cheat-setup-takes": {
-        "q": "How long does naraka cheats setup take?",
-        "a": "Most buyers finish Naraka Cheats setup in 10–20 minutes on Windows PC: install the loader, activate the license, and enable ESP or aimbot in the mod menu. If Windows Defender or another AV blocks the loader, follow Setup troubleshooting or email support@narakacheats.org with your order ID."
+      "how-long-deadside-cheat-setup-takes": {
+        "q": "How long does deadside cheats setup take?",
+        "a": "Most buyers finish Deadside Cheats setup in 10–20 minutes on Windows PC: install the loader, activate the license, and enable ESP or aimbot in the mod menu. If Windows Defender or another AV blocks the loader, follow Setup troubleshooting or email support@deadsidecheats.com with your order ID."
       },
-      "does-naraka-cheats-include-triggerbot": {
-        "q": "Does Naraka Cheats include triggerbot?",
-        "a": "Naraka Cheats focuses on ESP wallhack, 2D radar, and soft aim profiles. Triggerbot is not advertised as a standalone module — review the Features page for the current toggle list before checkout."
+      "does-deadside-cheats-include-triggerbot": {
+        "q": "Does Deadside Cheats include triggerbot?",
+        "a": "Deadside Cheats focuses on ESP wallhack, 2D radar, and soft aim profiles. Triggerbot is not advertised as a standalone module — review the Features page for the current toggle list before checkout."
       }
     }
   },
   "media": {
-    "demoVideoTitle": "Naraka Cheats ESP, Aimbot demo",
+    "demoVideoTitle": "Deadside Cheats ESP, Aimbot demo",
     "playVideo": "Play video"
   }
 }

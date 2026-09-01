@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-/** Final pass: fix remaining Naraka references in src/. */
+/** Final pass: fix remaining Deadside references in src/. */
 import { readFile, writeFile, readdir } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -8,27 +8,27 @@ const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..', 's
 const REMOVE_PAGE_IDS = ['hacks', 'cheat-download', 'mod-menu', 'soft-aim', 'best-cheats', 'aimbot-hack', 'esp-hack', 'unlock-all'];
 
 const REPLACEMENTS = [
-	['narakaImages', 'narakaImages'],
-	["from '../data/naraka'", "from '../data/naraka'"],
-	["from './naraka'", "from './naraka'"],
-	['/undetected-naraka-cheats/', '/undetected-naraka-cheats/'],
-	['/naraka-wallhack/', '/naraka-wallhack/'],
-	['/naraka-radar-hack/', '/naraka-radar-hack/'],
-	['/neac-bypass/', '/neac-bypass/'],
-	['/naraka-cheats-2026/', '/naraka-cheats-2026/'],
-	['/naraka-aimbot/', '/naraka-aimbot/'],
-	['/naraka-esp/', '/naraka-esp/'],
-	['/naraka-cheats/', '/naraka-esp/'],
-	['Naraka Cheats', 'Naraka Cheats'],
-	['naraka cheats', 'naraka cheats'],
-	['thefinals wallhack', 'Naraka wallhack'],
-	['naraka radar', 'Naraka radar'],
-	['Naraka Aimbot', 'Naraka Aimbot'],
-	['Naraka ESP', 'Naraka ESP'],
-	['Naraka's, 'Naraka's],
-	['NEAC', 'NEAC'],
-	['neac', 'neac'],
-	['narakacheats.org', 'narakacheats.org'],
+	['deadsideImages', 'deadsideImages'],
+	["from '../data/deadside'", "from '../data/deadside'"],
+	["from './deadside'", "from './deadside'"],
+	['/undetected-deadside-cheats/', '/undetected-deadside-cheats/'],
+	['/deadside-wallhack/', '/deadside-wallhack/'],
+	['/deadside-radar-hack/', '/deadside-radar-hack/'],
+	['/battleye-bypass/', '/battleye-bypass/'],
+	['/deadside-cheats-2026/', '/deadside-cheats-2026/'],
+	['/deadside-aimbot/', '/deadside-aimbot/'],
+	['/deadside-esp/', '/deadside-esp/'],
+	['/deadside-cheats/', '/deadside-esp/'],
+	['Deadside Cheats', 'Deadside Cheats'],
+	['deadside cheats', 'deadside cheats'],
+	['thefinals wallhack', 'Deadside wallhack'],
+	['deadside radar', 'Deadside radar'],
+	['Deadside Aimbot', 'Deadside Aimbot'],
+	['Deadside ESP', 'Deadside ESP'],
+	['Deadside's, 'Deadside's],
+	['BattlEye', 'BattlEye'],
+	['battleye', 'battleye'],
+	['deadsidecheats.com', 'deadsidecheats.com'],
 	['operatorEsp', 'playerEsp'],
 	['extractFight', 'raidFight'],
 	['alMazrah', 'raidMap'],

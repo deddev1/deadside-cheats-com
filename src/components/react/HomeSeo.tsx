@@ -17,9 +17,9 @@ function HomeSeoInner({ faqs }: Props) {
 			hintKey: 'homeSeo.catFeaturesHint',
 			links: [
 				{ href: '/features/', labelKey: 'homeSeo.linkAllFeatures' },
-				{ href: '/naraka-esp/', labelKey: 'homeSeo.linkEsp' },
-				{ href: '/naraka-aimbot/', labelKey: 'homeSeo.linkAimbot' },
-				{ href: '/naraka-radar-hack/', labelKey: 'homeSeo.linkRadar' },
+				{ href: '/deadside-esp/', labelKey: 'homeSeo.linkEsp' },
+				{ href: '/deadside-aimbot/', labelKey: 'homeSeo.linkAimbot' },
+				{ href: '/deadside-radar-hack/', labelKey: 'homeSeo.linkRadar' },
 			],
 		},
 		{

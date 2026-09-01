@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 /**
  * Rewrite legacy domains in built sitemap XML (safety net after astro build).
- * Fixes GSC "URL not allowed" when stale dist still references narakacheats.org.
+ * Fixes GSC "URL not allowed" when stale dist still references deadsidecheats.com.
  */
 import { readFileSync, writeFileSync, readdirSync } from 'node:fs';
 import path from 'node:path';
@@ -17,7 +17,7 @@ function readBrandUrl() {
 	const url = m[1].replace(/\\'/g, "'").replace(/\/$/, '');
 	if (/valorantcheats\.org/i.test(url)) {
 		throw new Error(
-			`brand.ts url must be narakacheats.org, not ${url}. Run: node scripts/rebrand-naraka-cheats.mjs`,
+			`brand.ts url must be deadsidecheats.com, not ${url}. Run: node scripts/rebrand-deadside-cheats.mjs`,
 		);
 	}
 	return url;
@@ -27,10 +27,10 @@ const CANONICAL = readBrandUrl();
 
 /** Ordered most-specific first. */
 const LEGACY_ORIGIN_REPLACEMENTS = [
-	['https://www.narakacheats.org', CANONICAL],
-	['http://www.narakacheats.org', CANONICAL],
-	['https://narakacheats.org', CANONICAL],
-	['http://narakacheats.org', CANONICAL],
+	['https://www.deadsidecheats.com', CANONICAL],
+	['http://www.deadsidecheats.com', CANONICAL],
+	['https://deadsidecheats.com', CANONICAL],
+	['http://deadsidecheats.com', CANONICAL],
 	['https://www.thefinalscheats.org', CANONICAL],
 	['http://www.thefinalscheats.org', CANONICAL],
 	['https://thefinalscheats.org', CANONICAL],

@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Migrate URL slugs from naraka-cheats → naraka-cheats (paths + sitemaps).
+ * Migrate URL slugs from deadside-cheats → deadside-cheats (paths + sitemaps).
  * Generates 301 redirects in functions/path-redirects.json from old routing slugs.
  * Run: node scripts/migrate-cheats-urls-to-hacks.mjs
  */
@@ -19,90 +19,90 @@ const SKIP_DIRS = new Set([
 	'tmp',
 	'.astro',
 	'the-finals-cheats-org',
-	'naraka-cheats-org-audit',
+	'deadside-cheats-org-audit',
 ]);
 const SKIP_FILES = new Set(['package-lock.json', 'migrate-cheats-urls-to-hacks.mjs']);
 
 /** Ordered — longest / most specific first. Image asset names are excluded via guard. */
 const SLUG_REPLACEMENTS = [
-	['undetected-naraka-cheats-eac', 'undetected-naraka-cheats-eac'],
-	['undetected-naraka-cheats', 'undetected-naraka-cheats'],
-	['unentdeckte-naraka-cheats', 'unentdeckte-naraka-cheats'],
-	['buy-undetected-naraka-cheats-windows-pc', 'buy-undetected-naraka-cheats-windows-pc'],
-	['neac-anti-cheat-and-naraka-cheats', 'neac-anti-cheat-and-naraka-cheats'],
-	['are-naraka-cheats-undetected-in-2026', 'are-naraka-cheats-undetected-in-2026'],
-	['what-are-naraka-cheats', 'what-are-naraka-cheats'],
-	['does-naraka-cheats-include-radar-hack', 'does-naraka-cheats-include-radar-hack'],
-	['naraka-cheats-vs-ghostware-features-pricing', 'naraka-cheats-vs-ghostware-features-pricing'],
-	['naraka-cheats-vs-cheatvault-comparison', 'naraka-cheats-vs-cheatvault-comparison'],
-	['elitefn-vs-naraka-cheats-two-week-test', 'elitefn-vs-naraka-cheats-two-week-test'],
-	['naraka-cheats-complete-guide-2026', 'naraka-cheats-complete-guide-2026'],
-	['naraka-cheats-2026-whats-new', 'naraka-cheats-2026-whats-new'],
-	['naraka-cheats-buyers-guide', 'naraka-cheats-buyers-guide'],
-	['best-naraka-cheats', 'best-naraka-cheats'],
-	['beste-naraka-cheats', 'beste-naraka-cheats'],
-	['basta-naraka-cheats', 'basta-naraka-cheats'],
-	['nejlepsi-naraka-cheats', 'nejlepsi-naraka-cheats'],
-	['naraka-cheats-2026', 'naraka-cheats-2026'],
-	['naraka-cheats-funktionen', 'naraka-cheats-funktionen'],
-	['naraka-cheats-functies', 'naraka-cheats-functies'],
-	['naraka-cheats-funkce', 'naraka-cheats-funkce'],
-	['naraka-cheats-funktioner', 'naraka-cheats-funktioner'],
-	['naraka-cheats-features', 'naraka-cheats-features'],
-	['naraka-cheats-preise', 'naraka-cheats-preise'],
-	['naraka-cheats-prijzen', 'naraka-cheats-prijzen'],
-	['naraka-cheats-priser', 'naraka-cheats-priser'],
-	['naraka-cheats-pricing', 'naraka-cheats-pricing'],
-	['naraka-cheats-ceny', 'naraka-cheats-ceny'],
-	['naraka-cheats-installation', 'naraka-cheats-installation'],
-	['naraka-cheats-installatie', 'naraka-cheats-installatie'],
-	['naraka-cheats-instalace', 'naraka-cheats-instalace'],
-	['naraka-cheats-setup', 'naraka-cheats-setup'],
-	['naraka-cheats-updates', 'naraka-cheats-updates'],
-	['naraka-cheats-uppdateringar', 'naraka-cheats-uppdateringar'],
-	['naraka-cheats-aktualizace', 'naraka-cheats-aktualizace'],
-	['naraka-cheats-faq', 'naraka-cheats-faq'],
-	['naraka-cheats-support', 'naraka-cheats-support'],
-	['naraka-cheats-podpora', 'naraka-cheats-podpora'],
-	['niewykrywalne-cheats-naraka', 'niewykrywalne-cheats-naraka'],
-	['najlepsze-cheats-naraka', 'najlepsze-hacks-valorant'],
-	['melhores-cheats-naraka', 'melhores-hacks-valorant'],
-	['cele-mai-bune-cheats-naraka', 'cele-mai-bune-hacks-valorant'],
-	['cheats-naraka-indetectaveis', 'cheats-naraka-indetectaveis'],
-	['cheats-naraka-nedetectabile', 'cheats-naraka-nedetectabile'],
-	['cheats-naraka-2026', 'hacks-valorant-2026'],
-	['hacks-cheats-naraka', 'hacks-valorant'],
-	['faq-cheats-naraka', 'faq-hacks-valorant'],
-	['functii-cheats-naraka', 'functii-hacks-valorant'],
-	['preturi-cheats-naraka', 'preturi-hacks-valorant'],
-	['actualizari-cheats-naraka', 'actualizari-hacks-valorant'],
-	['instalare-cheats-naraka', 'instalare-hacks-valorant'],
-	['suport-cheats-naraka', 'suport-hacks-valorant'],
-	['recursos-cheats-naraka', 'recursos-cheats-naraka'],
-	['precos-cheats-naraka', 'precos-hacks-valorant'],
-	['atualizacoes-cheats-naraka', 'atualizacoes-hacks-valorant'],
-	['instalacao-cheats-naraka', 'instalacao-hacks-valorant'],
-	['suporte-cheats-naraka', 'suporte-hacks-valorant'],
-	['download-cheats-naraka', 'download-hacks-valorant'],
-	['menu-mod-cheats-naraka', 'menu-mod-hacks-valorant'],
-	['meniu-mod-cheats-naraka', 'meniu-mod-hacks-valorant'],
-	['soft-aim-cheats-naraka', 'soft-aim-hacks-valorant'],
-	['aimbot-hack-cheats-naraka', 'aimbot-hack-hacks-valorant'],
-	['esp-hack-cheats-naraka', 'esp-hack-hacks-valorant'],
-	['unlock-all-cheats-naraka', 'unlock-all-hacks-valorant'],
-	['wallhack-cheats-naraka', 'wallhack-hacks-valorant'],
-	['radar-hack-cheats-naraka', 'radar-hack-hacks-valorant'],
-	['descarcare-cheats-naraka', 'descarcare-hacks-valorant'],
-	['cheats-naraka-esp', 'hacks-naraka-esp'],
-	['cheats-naraka-aimbot', 'hacks-naraka-aimbot'],
-	['neac-bypass-cheats', 'neac-bypass-hacks'],
-	['/naraka-cheats/', '/naraka-cheats/'],
-	['/naraka-cheats', '/naraka-cheats'],
-	["'naraka-cheats'", "'naraka-cheats'"],
-	['"naraka-cheats"', '"naraka-cheats"'],
+	['undetected-deadside-cheats-eac', 'undetected-deadside-cheats-eac'],
+	['undetected-deadside-cheats', 'undetected-deadside-cheats'],
+	['unentdeckte-deadside-cheats', 'unentdeckte-deadside-cheats'],
+	['buy-undetected-deadside-cheats-windows-pc', 'buy-undetected-deadside-cheats-windows-pc'],
+	['battleye-anti-cheat-and-deadside-cheats', 'battleye-anti-cheat-and-deadside-cheats'],
+	['are-deadside-cheats-undetected-in-2026', 'are-deadside-cheats-undetected-in-2026'],
+	['what-are-deadside-cheats', 'what-are-deadside-cheats'],
+	['does-deadside-cheats-include-radar-hack', 'does-deadside-cheats-include-radar-hack'],
+	['deadside-cheats-vs-ghostware-features-pricing', 'deadside-cheats-vs-ghostware-features-pricing'],
+	['deadside-cheats-vs-cheatvault-comparison', 'deadside-cheats-vs-cheatvault-comparison'],
+	['elitefn-vs-deadside-cheats-two-week-test', 'elitefn-vs-deadside-cheats-two-week-test'],
+	['deadside-cheats-complete-guide-2026', 'deadside-cheats-complete-guide-2026'],
+	['deadside-cheats-2026-whats-new', 'deadside-cheats-2026-whats-new'],
+	['deadside-cheats-buyers-guide', 'deadside-cheats-buyers-guide'],
+	['best-deadside-cheats', 'best-deadside-cheats'],
+	['beste-deadside-cheats', 'beste-deadside-cheats'],
+	['basta-deadside-cheats', 'basta-deadside-cheats'],
+	['nejlepsi-deadside-cheats', 'nejlepsi-deadside-cheats'],
+	['deadside-cheats-2026', 'deadside-cheats-2026'],
+	['deadside-cheats-funktionen', 'deadside-cheats-funktionen'],
+	['deadside-cheats-functies', 'deadside-cheats-functies'],
+	['deadside-cheats-funkce', 'deadside-cheats-funkce'],
+	['deadside-cheats-funktioner', 'deadside-cheats-funktioner'],
+	['deadside-cheats-features', 'deadside-cheats-features'],
+	['deadside-cheats-preise', 'deadside-cheats-preise'],
+	['deadside-cheats-prijzen', 'deadside-cheats-prijzen'],
+	['deadside-cheats-priser', 'deadside-cheats-priser'],
+	['deadside-cheats-pricing', 'deadside-cheats-pricing'],
+	['deadside-cheats-ceny', 'deadside-cheats-ceny'],
+	['deadside-cheats-installation', 'deadside-cheats-installation'],
+	['deadside-cheats-installatie', 'deadside-cheats-installatie'],
+	['deadside-cheats-instalace', 'deadside-cheats-instalace'],
+	['deadside-cheats-setup', 'deadside-cheats-setup'],
+	['deadside-cheats-updates', 'deadside-cheats-updates'],
+	['deadside-cheats-uppdateringar', 'deadside-cheats-uppdateringar'],
+	['deadside-cheats-aktualizace', 'deadside-cheats-aktualizace'],
+	['deadside-cheats-faq', 'deadside-cheats-faq'],
+	['deadside-cheats-support', 'deadside-cheats-support'],
+	['deadside-cheats-podpora', 'deadside-cheats-podpora'],
+	['niewykrywalne-cheats-deadside', 'niewykrywalne-cheats-deadside'],
+	['najlepsze-cheats-deadside', 'najlepsze-hacks-valorant'],
+	['melhores-cheats-deadside', 'melhores-hacks-valorant'],
+	['cele-mai-bune-cheats-deadside', 'cele-mai-bune-hacks-valorant'],
+	['cheats-deadside-indetectaveis', 'cheats-deadside-indetectaveis'],
+	['cheats-deadside-nedetectabile', 'cheats-deadside-nedetectabile'],
+	['cheats-deadside-2026', 'hacks-valorant-2026'],
+	['hacks-cheats-deadside', 'hacks-valorant'],
+	['faq-cheats-deadside', 'faq-hacks-valorant'],
+	['functii-cheats-deadside', 'functii-hacks-valorant'],
+	['preturi-cheats-deadside', 'preturi-hacks-valorant'],
+	['actualizari-cheats-deadside', 'actualizari-hacks-valorant'],
+	['instalare-cheats-deadside', 'instalare-hacks-valorant'],
+	['suport-cheats-deadside', 'suport-hacks-valorant'],
+	['recursos-cheats-deadside', 'recursos-cheats-deadside'],
+	['precos-cheats-deadside', 'precos-hacks-valorant'],
+	['atualizacoes-cheats-deadside', 'atualizacoes-hacks-valorant'],
+	['instalacao-cheats-deadside', 'instalacao-hacks-valorant'],
+	['suporte-cheats-deadside', 'suporte-hacks-valorant'],
+	['download-cheats-deadside', 'download-hacks-valorant'],
+	['menu-mod-cheats-deadside', 'menu-mod-hacks-valorant'],
+	['meniu-mod-cheats-deadside', 'meniu-mod-hacks-valorant'],
+	['soft-aim-cheats-deadside', 'soft-aim-hacks-valorant'],
+	['aimbot-hack-cheats-deadside', 'aimbot-hack-hacks-valorant'],
+	['esp-hack-cheats-deadside', 'esp-hack-hacks-valorant'],
+	['unlock-all-cheats-deadside', 'unlock-all-hacks-valorant'],
+	['wallhack-cheats-deadside', 'wallhack-hacks-valorant'],
+	['radar-hack-cheats-deadside', 'radar-hack-hacks-valorant'],
+	['descarcare-cheats-deadside', 'descarcare-hacks-valorant'],
+	['cheats-deadside-esp', 'hacks-deadside-esp'],
+	['cheats-deadside-aimbot', 'hacks-deadside-aimbot'],
+	['battleye-bypass-cheats', 'battleye-bypass-hacks'],
+	['/deadside-cheats/', '/deadside-cheats/'],
+	['/deadside-cheats', '/deadside-cheats'],
+	["'deadside-cheats'", "'deadside-cheats'"],
+	['"deadside-cheats"', '"deadside-cheats"'],
 ];
 
-const IMAGE_ASSET_PREFIX = '/images/naraka-cheats';
+const IMAGE_ASSET_PREFIX = '/images/deadside-cheats';
 
 function applySlugReplacements(text) {
 	let out = text;
@@ -112,7 +112,7 @@ function applySlugReplacements(text) {
 			.split('\n')
 			.map((line) => {
 				// Never rewrite static image asset filenames.
-				if (line.includes('/images/naraka-cheats')) {
+				if (line.includes('/images/deadside-cheats')) {
 					return line;
 				}
 				return line.split(from).join(to);
@@ -178,10 +178,10 @@ function shouldProcess(file) {
 }
 
 const DIR_RENAMES = [
-	['src/pages/naraka-cheats', 'src/pages/naraka-cheats'],
-	['src/pages/best-naraka-cheats', 'src/pages/best-naraka-cheats'],
-	['src/pages/undetected-naraka-cheats', 'src/pages/undetected-naraka-cheats'],
-	['src/pages/naraka-cheats-2026', 'src/pages/naraka-cheats-2026'],
+	['src/pages/deadside-cheats', 'src/pages/deadside-cheats'],
+	['src/pages/best-deadside-cheats', 'src/pages/best-deadside-cheats'],
+	['src/pages/undetected-deadside-cheats', 'src/pages/undetected-deadside-cheats'],
+	['src/pages/deadside-cheats-2026', 'src/pages/deadside-cheats-2026'],
 ];
 
 // --- Parse routing before migration ---
@@ -205,8 +205,8 @@ for (const file of files) {
 // Fix duplicate check in routing.ts
 let routing = await readFile(ROUTING, 'utf8');
 routing = routing.replace(
-	"if (withSlash === '/naraka-cheats/' || withSlash === '/naraka-cheats/')",
-	"if (withSlash === '/naraka-cheats/' || withSlash === '/naraka-cheats/')",
+	"if (withSlash === '/deadside-cheats/' || withSlash === '/deadside-cheats/')",
+	"if (withSlash === '/deadside-cheats/' || withSlash === '/deadside-cheats/')",
 );
 await writeFile(ROUTING, routing, 'utf8');
 

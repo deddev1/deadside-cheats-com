@@ -124,7 +124,7 @@ const IGN_IMAGES = {
 	Marathon: 'https://assets-prd.ignimgs.com/2023/05/24/marathon-announce-key-art-1x1-1684967675071.jpg',
 	Battlefield: 'https://assets-prd.ignimgs.com/2024/03/20/battlefields7-1710977997041.jpg',
 	'League of Legends': 'https://assets-prd.ignimgs.com/2021/12/14/leagueoflegends-1639513774570.jpg',
-	'Call of Duty: Warzone': 'https://sm.ign.com/t/ign_pk/screenshot/default/wz-verdansksubway-1601169413816_x2hg.1400.jpg',
+	'Call of Duty: Warzone': 'https://sm.ign.com/t/ign_pk/screenshot/default/wz-deadside-mapsubway-1601169413816_x2hg.1400.jpg',
 	Valorant: 'https://assets-prd.ignimgs.com/2021/12/21/valorant-1640045685890.jpg',
 	'Gray Zone Warfare': 'https://assets-prd.ignimgs.com/2023/11/30/gray-zone-warfare-button-1701383116349.jpg',
 	'Overwatch 2': 'https://assets-prd.ignimgs.com/2026/03/11/overwatch-1773211203379.jpg',
@@ -137,7 +137,7 @@ const IGN_IMAGES = {
 	Palworld: 'https://assets-prd.ignimgs.com/2024/01/19/palworld-1705691572614.jpg',
 	'Rainbow Six Siege': 'https://assets-prd.ignimgs.com/2025/06/30/siegex-1751319986948.jpg',
 	Caliber: 'https://assets-prd.ignimgs.com/2023/04/06/caliber-1680811698787.jpg',
-	'Hunt: Showdown': 'https://assets-prd.ignimgs.com/2024/08/28/hunt-showdown-1896-button-1724846899827.jpg',
+	'Hunt: squad raids': 'https://assets-prd.ignimgs.com/2024/08/28/hunt-showdown-1896-button-1724846899827.jpg',
 	'Destiny 2': 'https://assets-prd.ignimgs.com/2025/03/12/destiny2heresy-1741800139522.jpg',
 	Squad: 'https://assets2.ignimgs.com/2015/12/17/squad-buttonjpg-19bbc6.jpg',
 	'Sand Raiders': 'https://assets-prd.ignimgs.com/2026/01/09/sand-raiders-of-sophie-button-1767971628115.jpg',
@@ -207,7 +207,7 @@ const GAME_PROFILES = {
 		genre: 'MOBA',
 		setting: 'Summoners Rift with five roles and objective timers',
 		mechanics: ['wave management', 'vision control', 'teamfight positioning'],
-		antiCheat: 'NEAC kernel driver on PC',
+		antiCheat: 'BattlEye kernel driver on PC',
 	},
 	'Call of Duty: Warzone': {
 		genre: 'battle royale',
@@ -287,7 +287,7 @@ const GAME_PROFILES = {
 		mechanics: ['operator abilities', 'mission routing', 'cover trades'],
 		antiCheat: 'proprietary anti-cheat with server checks',
 	},
-	'Hunt: Showdown': {
+	'Hunt: squad raids': {
 		genre: 'extraction bounty hunter',
 		setting: 'Louisiana bayou with boss bounties and rival hunters',
 		mechanics: ['sound traps', 'boss burn timing', 'extract ambushes'],
@@ -376,7 +376,7 @@ function classifyGame(host) {
 	if (h.includes('palworld')) return 'Palworld';
 	if (h.includes('r6') || h.includes('siege')) return 'Rainbow Six Siege';
 	if (h.includes('caliber')) return 'Caliber';
-	if (h.includes('hunt')) return 'Hunt: Showdown';
+	if (h.includes('hunt')) return 'Hunt: squad raids';
 	if (h.includes('destiny')) return 'Destiny 2';
 	if (h.includes('squad')) return 'Squad';
 	if (h.includes('sandraid') || h.includes('sophie')) return 'Sand Raiders';

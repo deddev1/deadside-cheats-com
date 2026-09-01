@@ -1,10 +1,10 @@
 {
-  "name": "Naraka Cheats",
+  "name": "Deadside Cheats",
   "install": "npm ci && npm run build",
   "start": "npm run localhost",
   "ports": [
     {
-      "name": "Naraka Cheats site",
+      "name": "Deadside Cheats site",
       "port": 5173
     }
   ],

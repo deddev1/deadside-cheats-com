@@ -118,7 +118,7 @@ const REPLACEMENTS = [
 	['vault ESP', 'agent ESP'],
 	['cashout worth the detour', 'round win worth the push'],
 	['arena tools', 'tactical tools'],
-	['Embark Studios', 'Riot Games'],
+	['Embark Studios', 'Bad Pixel'],
 	['arena fight', 'competitive fight'],
 	['arena fights', 'competitive fights'],
 	['arena tips', 'competitive tips'],

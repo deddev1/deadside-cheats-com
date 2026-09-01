@@ -6,27 +6,27 @@ import { LEGAL_I18N } from './legal-i18n.mjs';
 
 /** Page-specific translated meta for home across locales. */
 export const PAGE_META_HOME = {
-	es: { title: 'Naraka Bladepoint Cheats 2026 | ESP, Wallhack y Aimbot', desc: 'Trucos Naraka indetectables para Naraka en PC. ESP wallhack, radar hack y Aimbot con mantenimiento NEAC. Entrega digital instantánea.', h1: 'cheats indetectables para Naraka', intro: 'Paquete undetected para Naraka en Windows PC: ESP wallhack, radar y Aimbot con mantenimiento NEAC tras cada parche.', imageAlt: 'Naraka ESP — etiquetas de jugador hack', gallery: 'Galería Naraka Cheats — ESP, Aimbot y wallhack', cta2: 'Ver funciones', h2a: 'Por qué eligen Naraka Cheats en 2026', h2b: 'ESP wallhack, radar y Aimbot en una licencia', topicA: 'Ideal para leer escuadrones enemigos en BR y Quick Match sessions.', topicB: 'Una licencia en lugar de herramientas separadas.' },
-	fr: { title: 'Naraka Bladepoint Cheats 2026 | ESP, Wallhack et Aimbot', desc: 'Triches Naraka indétectables pour Naraka sur PC. ESP wallhack, radar hack et Aimbot avec maintenance NEAC. Livraison numérique instantanée.', h1: 'triches indétectables pour Naraka', intro: 'Pack undetected pour Naraka sur PC Windows : ESP wallhack, radar et Aimbot avec maintenance NEAC après chaque patch.', imageAlt: 'Naraka ESP — tags joueur hack', gallery: 'Galerie Naraka Cheats — ESP, Aimbot et wallhack', cta2: 'Voir les fonctions', h2a: 'Pourquoi choisir Naraka Cheats en 2026', h2b: 'ESP wallhack, radar et Aimbot en une licence', topicA: 'Parfait pour lire les équipes ennemies en BR et Quick Match sessions.', topicB: 'Une licence au lieu d\'outils séparés.' },
-	de: { title: 'Naraka Bladepoint Cheats 2026 | ESP, Wallhack & Aimbot', desc: 'Undetected Naraka Cheats für Naraka auf PC. ESP Wallhack, Radar Hack und Aimbot mit NEAC-Wartung. Sofortige digitale Lieferung.', h1: 'undetected Cheats für Naraka', intro: 'Undetected Windows PC Paket für Naraka: ESP Wallhack, Radar und Aimbot mit NEAC-Wartung nach jedem Patch.', imageAlt: 'Naraka ESP — Spieler-Tags Hack', gallery: 'Naraka Cheats Galerie — ESP, Aimbot und Wallhack', cta2: 'Features ansehen', h2a: 'Warum Naraka Bladepoint Cheats 2026 führt', h2b: 'ESP Wallhack, Radar und Aimbot in einer Lizenz', topicA: 'Ideal um feindliche Squads in BR und Quick Match sessions zu lesen.', topicB: 'Eine Lizenz statt separater Tools.' },
-	pt: { title: 'Naraka Bladepoint Cheats 2026 | ESP, Wallhack e Aimbot', desc: 'Cheats Naraka indetectáveis para Naraka no PC. ESP wallhack, radar hack e Aimbot com manutenção NEAC. Entrega digital instantánea.', h1: 'cheats indetectáveis para Naraka', intro: 'Pacote undetected para Naraka no Windows PC: ESP wallhack, radar e Aimbot com manutenção NEAC após cada patch.', imageAlt: 'Naraka ESP player tags hack', gallery: 'Galeria Naraka Cheats — ESP, Aimbot e wallhack', cta2: 'Ver recursos', h2a: 'Por que escolher Naraka Cheats em 2026', h2b: 'ESP wallhack, radar e Aimbot numa licença', topicA: 'Ideal para ler equipes inimigos em BR e Quick Match sessions.', topicB: 'Uma licença em vez de ferramentas separadas.' },
-	it: { title: 'Naraka Bladepoint Cheats 2026 | ESP, Wallhack e Aimbot', desc: 'Cheat Naraka indetectable per Naraka su PC. ESP wallhack, radar hack e Aimbot con manutenzione NEAC. Consegna digitale istantanea.', h1: 'cheat indetectable per Naraka', intro: 'Pacchetto undetected per Naraka su PC Windows: ESP wallhack, radar e Aimbot con manutenzione NEAC dopo ogni patch.', imageAlt: 'Naraka ESP player tags hack', gallery: 'Galleria Naraka Cheats — ESP, Aimbot e wallhack', cta2: 'Vedi funzioni', h2a: 'Perché scegliere Naraka Cheats nel 2026', h2b: 'ESP wallhack, radar e Aimbot in una licenza', topicA: 'Ideale per leggere squadre nemiche in BR e Quick Match sessions.', topicB: 'Una licenza invece di tool separati.' },
-	nl: { title: 'Naraka Bladepoint Cheats 2026 | ESP, Wallhack & Aimbot', desc: 'Undetected naraka cheats voor Naraka op PC. ESP wallhack, radar hack en Aimbot met NEAC-onderhoud. Directe digitale levering.', h1: 'undetected cheats voor Naraka', intro: 'Undetected Windows PC pakket voor Naraka: ESP wallhack, radar en Aimbot met NEAC-onderhoud na elke patch.', imageAlt: 'Naraka ESP player tags hack', gallery: 'Naraka Cheats galerij — ESP, Aimbot en wallhack', cta2: 'Bekijk functies', h2a: 'Waarom Naraka Cheats in 2026', h2b: 'ESP wallhack, radar en Aimbot in één licentie', topicA: 'Ideaal om vijandelijke squads te lezen in BR en Quick Match sessions.', topicB: 'Eén licentie in plaats van losse tools.' },
-	pl: { title: 'Naraka Bladepoint Cheats 2026 | ESP, Wallhack i Aimbot', desc: 'Undetected cheaty Naraka dla Naraka na PC. ESP wallhack, radar hack i Aimbot z konserwacją NEAC. Natychmiastowa dostawa cyfrowa.', h1: 'undetected cheaty dla Naraka', intro: 'Pakiet undetected dla Naraka na Windows PC: ESP wallhack, radar i Aimbot z konserwacją NEAC po każdym patchu.', imageAlt: 'Naraka ESP player tags hack', gallery: 'Galeria Naraka Cheats — ESP, Aimbot i wallhack', cta2: 'Zobacz funkcje', h2a: 'Dlaczego Naraka Cheats w 2026', h2b: 'ESP wallhack, radar i Aimbot w jednej licencji', topicA: 'Idealny do czytania wrogich squadów w BR i Quick Match sessions.', topicB: 'Jedna licencja zamiast osobnych narzędzi.' },
-	ru: { title: 'Naraka Bladepoint Cheats 2026 | ESP, Wallhack и Aimbot', desc: 'Undetected читы Naraka для Naraka на PC. ESP wallhack, radar hack и Aimbot с обслуживанием NEAC. Мгновенная цифровая доставка.', h1: 'undetected читы для Naraka', intro: 'Undetected пакет для Naraka на Windows PC: ESP wallhack, radar и Aimbot с обслуживанием NEAC после патчей.', imageAlt: 'Naraka ESP — теги игроков hack', gallery: 'Галерея Naraka Cheats — ESP, Aimbot и wallhack', cta2: 'Смотреть функции', h2a: 'Почему выбирают Naraka Cheats в 2026', h2b: 'ESP wallhack, radar и Aimbot в одной лицензии', topicA: 'Идеально для чтения вражеских отрядов в BR и Quick Match sessions.', topicB: 'Одна лицензия вместо отдельных инструментов.' },
-	tr: { title: 'Naraka Bladepoint Cheats 2026 | ESP, Wallhack ve Aimbot', desc: 'Naraka için undetected hileler. ESP wallhack, radar hack ve Aimbot — NEAC bakımı. Anında dijital teslimat.', h1: 'Naraka için undetected hileler', intro: 'Naraka Windows PC undetected paketi: ESP wallhack, radar ve Aimbot — NEAC bakımı dahil.', imageAlt: 'Naraka ESP player tags hack', gallery: 'Naraka Cheats galeri — ESP, Aimbot ve wallhack', cta2: 'Özellikleri gör', h2a: '2026\'da neden Naraka Cheats', h2b: 'ESP wallhack, radar ve Aimbot tek lisans', topicA: 'BR ve Quick Match sessions\'da düşman squad okumak için ideal.', topicB: 'Ayrı araçlar yerine tek lisans.' },
-	ar: { title: 'Naraka Bladepoint Cheats 2026 | ESP وWallhack وAimbot', desc: 'غش Naraka undetected لـ Naraka على PC. ESP wallhack ورadar hack وAimbot مع صيانة NEAC. تسليم رقمي فوري.', h1: 'غش غير مكتشف لـ Naraka', intro: 'حزمة undetected لـ Naraka على Windows PC: ESP wallhack ورadar وAimbot مع صيانة NEAC.', imageAlt: 'Naraka ESP player tags hack', gallery: 'معرض Naraka Cheats — ESP وAimbot وwallhack', cta2: 'عرض الميزات', h2a: 'لماذا Naraka Cheats في 2026', h2b: 'ESP wallhack ورadar وAimbot في ترخيص واحد', topicA: 'مثالي لقراءة فرق العدو في BR وQuick Match sessions.', topicB: 'ترخيص واحد بدلاً من أدوات منفصلة.' },
-	ja: { title: 'Naraka Bladepoint Cheats 2026 | ESP・Wallhack・Aimbot', desc: 'Naraka向けundetectedチート。ESP wallhack、radar hack、Aimbot、NEACメンテナンス。即時デジタル配信。', h1: 'Naraka向けundetectedチート', intro: 'Naraka Windows PC向けundetectedパッケージ：ESP wallhack、radar、Aimbot、NEACメンテナンス付き。', imageAlt: 'naraka cheats hero ESP aimbot wallhack', gallery: 'Naraka Cheatsギャラリー — ESP、Aimbot、wallhack', cta2: '機能を見る', h2a: '2026年にNaraka Cheatsを選ぶ理由', h2b: 'ESP wallhack、radar、Aimbotが1ライセンス', topicA: 'BRとQuick Match sessionsで敵スクワッドを読むのに最適。', topicB: '別ツールではなく1ライセンス。' },
-	ko: { title: 'Naraka Bladepoint Cheats 2026 | ESP, Wallhack, Aimbot', desc: 'Naraka undetected 치트. ESP wallhack, radar hack, Aimbot, NEAC 유지보수. 즉시 디지털 배송.', h1: 'Naraka용 undetected 치트', intro: 'Naraka Windows PC undetected 패키지: ESP wallhack, radar, Aimbot, NEAC 유지보수 포함.', imageAlt: 'naraka cheats hero ESP aimbot wallhack', gallery: 'Naraka Cheats 갤러리 — ESP, Aimbot, wallhack', cta2: '기능 보기', h2a: '2026년 Naraka Cheats를 선택하는 이유', h2b: 'ESP wallhack, radar, Aimbot 단일 라이선스', topicA: 'BR 및 Quick Match sessions에서 적 분대 읽기에 이상적.', topicB: '별도 도구 대신 단일 라이선스.' },
-	zh: { title: 'Naraka Bladepoint Cheats 2026 | ESP、Wallhack、Aimbot', desc: 'Naraka undetected作弊。ESP wallhack、radar hack、Aimbot、NEAC维护。即时数字交付。', h1: 'Naraka的undetected外挂', intro: 'Naraka Windows PC undetected套餐：ESP wallhack、radar、Aimbot，含NEAC维护。', imageAlt: 'naraka cheats hero ESP aimbot wallhack', gallery: 'Naraka Cheats图库 — ESP、Aimbot、wallhack', cta2: '查看功能', h2a: '2026年选择Naraka Cheats的原因', h2b: 'ESP wallhack、radar、Aimbot单一许可证', topicA: '适合在BR和Quick Match sessions中读取敌方小队。', topicB: '一个许可证而非多个工具。' },
-	hi: { title: 'Naraka Bladepoint Cheats 2026 | ESP, Wallhack और Aimbot', desc: 'Naraka undetected hacks. ESP wallhack, radar hack, Aimbot, NEAC maintenance. Instant digital delivery.', h1: 'Naraka ke liye undetected cheats', intro: 'Naraka Windows PC undetected पैकेज: ESP wallhack, radar, Aimbot, NEAC maintenance सहित.', imageAlt: 'naraka cheats hero ESP aimbot wallhack', gallery: 'Naraka Cheats gallery — ESP, Aimbot, wallhack', cta2: 'फ़ीचर्स देखें', h2a: '2026 में Naraka Cheats क्यों', h2b: 'ESP wallhack, radar, Aimbot एक लाइसेंस में', topicA: 'BR और Quick Match sessions में दुश्मन squad पढ़ने के लिए आदर्श.', topicB: 'अलग टूल्स के बजाय एक लाइसेंस.' },
-	id: { title: 'Naraka Bladepoint Cheats 2026 | ESP, Wallhack & Aimbot', desc: 'Cheat Naraka undetected untuk Naraka di PC. ESP wallhack, radar hack, Aimbot, pemeliharaan NEAC. Pengiriman digital instan.', h1: 'cheat undetected untuk Naraka', intro: 'Paket undetected Naraka di Windows PC: ESP wallhack, radar, Aimbot dengan pemeliharaan NEAC.', imageAlt: 'Naraka ESP player tags hack', gallery: 'Galeri Naraka Cheats — ESP, Aimbot, wallhack', cta2: 'Lihat fitur', h2a: 'Mengapa Naraka Cheats di 2026', h2b: 'ESP wallhack, radar, Aimbot dalam satu lisensi', topicA: 'Ideal membaca squad musuh di BR dan Quick Match sessions.', topicB: 'Satu lisensi alih-alih alat terpisah.' },
-	th: { title: 'Naraka Bladepoint Cheats 2026 | ESP, Wallhack และ Aimbot', desc: 'Cheat Naraka undetected สำหรับ Naraka บน PC. ESP wallhack, radar hack, Aimbot, NEAC maintenance. จัดส่งดิจิทัลทันที.', h1: 'cheat undetected สำหรับ Naraka', intro: 'แพ็ก undetected สำหรับ Naraka บน Windows PC: ESP wallhack, radar, Aimbot พร้อม NEAC maintenance', imageAlt: 'Naraka ESP player tags hack', gallery: 'แกลเลอรี Naraka Cheats — ESP, Aimbot, wallhack', cta2: 'ดูฟีเจอร์', h2a: 'ทำไมเลือก Naraka Cheats ปี 2026', h2b: 'ESP wallhack, radar, Aimbot ในใบอนุญาตเดียว', topicA: 'เหมาะสำหรับอ่าน squad ศัตรูใน BR และ Quick Match sessions', topicB: 'ใบอนุญาตเดียวแทนเครื่องมือแยก' },
-	vi: { title: 'Naraka Bladepoint Cheats 2026 | ESP, Wallhack & Aimbot', desc: 'Cheat Naraka undetected cho Naraka trên PC. ESP wallhack, radar hack, Aimbot, bảo trì NEAC. Giao hàng kỹ thuật số tức thì.', h1: 'cheat undetected cho Naraka', intro: 'Gói undetected Naraka trên Windows PC: ESP wallhack, radar, Aimbot với bảo trì NEAC.', imageAlt: 'Naraka ESP player tags hack', gallery: 'Thư viện Naraka Cheats — ESP, Aimbot, wallhack', cta2: 'Xem tính năng', h2a: 'Vì sao chọn Naraka Bladepoint Cheats 2026', h2b: 'ESP wallhack, radar, Aimbot trong một giấy phép', topicA: 'Lý tưởng đọc squad địch trong BR và Quick Match sessions.', topicB: 'Một giấy phép thay vì công cụ riêng.' },
-	uk: { title: 'Naraka Bladepoint Cheats 2026 | ESP, Wallhack і Aimbot', desc: 'Undetected чіти Naraka для Naraka на PC. ESP wallhack, radar hack, Aimbot, обслуговування NEAC. Мгновенная цифровая доставка.', h1: 'undetected чіти для Naraka', intro: 'Undetected пакет для Naraka на Windows PC: ESP wallhack, radar, Aimbot з обслуговуванням NEAC.', imageAlt: 'Naraka ESP player tags hack', gallery: 'Галерея Naraka Cheats — ESP, Aimbot, wallhack', cta2: 'Дивитися функції', h2a: 'Чому Naraka Cheats у 2026', h2b: 'ESP wallhack, radar і Aimbot в одній ліцензії', topicA: 'Ідеально для читання ворожих загонів у BR і Quick Match sessions.', topicB: 'Одна ліцензія замість окремих інструментів.' },
-	cs: { title: 'Naraka Bladepoint Cheats 2026 | ESP, Wallhack a Aimbot', desc: 'Undetected naraka cheaty pro Naraka na PC. ESP wallhack, radar hack, Aimbot, údržba NEAC. Okamžité digitální doručení.', h1: 'undetected cheaty pro Naraka', intro: 'Undetected balíček pro Naraka na Windows PC: ESP wallhack, radar, Aimbot s údržbou NEAC.', imageAlt: 'Naraka ESP player tags hack', gallery: 'Galerie Naraka Cheats — ESP, Aimbot, wallhack', cta2: 'Zobrazit funkce', h2a: 'Proč Naraka Cheats v roce 2026', h2b: 'ESP wallhack, radar a Aimbot v jedné licenci', topicA: 'Ideální pro čtení nepřátelských squadů v BR a Quick Match sessions.', topicB: 'Jedna licence místo samostatných nástrojů.' },
-	ro: { title: 'Naraka Bladepoint Cheats 2026 | ESP, Wallhack și Aimbot', desc: 'Cheats Naraka undetected pentru Naraka pe PC. ESP wallhack, radar hack, Aimbot, mentenanță NEAC. Livrare digitală instantă.', h1: 'cheat-uri undetected pentru Naraka', intro: 'Pachet undetected Naraka pe Windows PC: ESP wallhack, radar, Aimbot cu mentenanță NEAC.', imageAlt: 'Naraka ESP player tags hack', gallery: 'Galerie Naraka Cheats — ESP, Aimbot, wallhack', cta2: 'Vezi funcții', h2a: 'De ce Naraka Cheats în 2026', h2b: 'ESP wallhack, radar și Aimbot într-o licență', topicA: 'Ideal pentru citirea squad-urilor inamice în BR și Quick Match sessions.', topicB: 'O licență în loc de instrumente separate.' },
-	sv: { title: 'Naraka Bladepoint Cheats 2026 | ESP, Wallhack & Aimbot', desc: 'Undetected naraka cheats för Naraka på PC. ESP wallhack, radar hack, Aimbot, NEAC-underhåll. Omedelbar digital leverans.', h1: 'undetected cheats för Naraka', intro: 'Undetected paket för Naraka på Windows PC: ESP wallhack, radar, Aimbot med NEAC-underhåll.', imageAlt: 'Naraka ESP player tags hack', gallery: 'Naraka Cheats galleri — ESP, Aimbot, wallhack', cta2: 'Se funktioner', h2a: 'Varför Naraka Bladepoint Cheats 2026', h2b: 'ESP wallhack, radar och Aimbot i en licens', topicA: 'Ideal för att läsa fiendesquads i BR och Quick Match sessions.', topicB: 'En licens istället för separata verktyg.' },
+	es: { title: 'Deadside Cheats 2026 | ESP, Wallhack y Aimbot', desc: 'Trucos Deadside indetectables para Deadside en PC. ESP wallhack, radar hack y Aimbot con mantenimiento BattlEye. Entrega digital instantánea.', h1: 'cheats indetectables para Deadside', intro: 'Paquete undetected para Deadside en Windows PC: ESP wallhack, radar y Aimbot con mantenimiento BattlEye tras cada parche.', imageAlt: 'Deadside ESP — etiquetas de jugador hack', gallery: 'Galería Deadside Cheats — ESP, Aimbot y wallhack', cta2: 'Ver funciones', h2a: 'Por qué eligen Deadside Cheats en 2026', h2b: 'ESP wallhack, radar y Aimbot en una licencia', topicA: 'Ideal para leer escuadrones enemigos en BR y Quick Match sessions.', topicB: 'Una licencia en lugar de herramientas separadas.' },
+	fr: { title: 'Deadside Cheats 2026 | ESP, Wallhack et Aimbot', desc: 'Triches Deadside indétectables pour Deadside sur PC. ESP wallhack, radar hack et Aimbot avec maintenance BattlEye. Livraison numérique instantanée.', h1: 'triches indétectables pour Deadside', intro: 'Pack undetected pour Deadside sur PC Windows : ESP wallhack, radar et Aimbot avec maintenance BattlEye après chaque patch.', imageAlt: 'Deadside ESP — tags joueur hack', gallery: 'Galerie Deadside Cheats — ESP, Aimbot et wallhack', cta2: 'Voir les fonctions', h2a: 'Pourquoi choisir Deadside Cheats en 2026', h2b: 'ESP wallhack, radar et Aimbot en une licence', topicA: 'Parfait pour lire les équipes ennemies en BR et Quick Match sessions.', topicB: 'Une licence au lieu d\'outils séparés.' },
+	de: { title: 'Deadside Cheats 2026 | ESP, Wallhack & Aimbot', desc: 'Undetected Deadside Cheats für Deadside auf PC. ESP Wallhack, Radar Hack und Aimbot mit BattlEye-Wartung. Sofortige digitale Lieferung.', h1: 'undetected Cheats für Deadside', intro: 'Undetected Windows PC Paket für Deadside: ESP Wallhack, Radar und Aimbot mit BattlEye-Wartung nach jedem Patch.', imageAlt: 'Deadside ESP — Spieler-Tags Hack', gallery: 'Deadside Cheats Galerie — ESP, Aimbot und Wallhack', cta2: 'Features ansehen', h2a: 'Warum Deadside Cheats 2026 führt', h2b: 'ESP Wallhack, Radar und Aimbot in einer Lizenz', topicA: 'Ideal um feindliche Squads in BR und Quick Match sessions zu lesen.', topicB: 'Eine Lizenz statt separater Tools.' },
+	pt: { title: 'Deadside Cheats 2026 | ESP, Wallhack e Aimbot', desc: 'Cheats Deadside indetectáveis para Deadside no PC. ESP wallhack, radar hack e Aimbot com manutenção BattlEye. Entrega digital instantánea.', h1: 'cheats indetectáveis para Deadside', intro: 'Pacote undetected para Deadside no Windows PC: ESP wallhack, radar e Aimbot com manutenção BattlEye após cada patch.', imageAlt: 'Deadside ESP player tags hack', gallery: 'Galeria Deadside Cheats — ESP, Aimbot e wallhack', cta2: 'Ver recursos', h2a: 'Por que escolher Deadside Cheats em 2026', h2b: 'ESP wallhack, radar e Aimbot numa licença', topicA: 'Ideal para ler equipes inimigos em BR e Quick Match sessions.', topicB: 'Uma licença em vez de ferramentas separadas.' },
+	it: { title: 'Deadside Cheats 2026 | ESP, Wallhack e Aimbot', desc: 'Cheat Deadside indetectable per Deadside su PC. ESP wallhack, radar hack e Aimbot con manutenzione BattlEye. Consegna digitale istantanea.', h1: 'cheat indetectable per Deadside', intro: 'Pacchetto undetected per Deadside su PC Windows: ESP wallhack, radar e Aimbot con manutenzione BattlEye dopo ogni patch.', imageAlt: 'Deadside ESP player tags hack', gallery: 'Galleria Deadside Cheats — ESP, Aimbot e wallhack', cta2: 'Vedi funzioni', h2a: 'Perché scegliere Deadside Cheats nel 2026', h2b: 'ESP wallhack, radar e Aimbot in una licenza', topicA: 'Ideale per leggere squadre nemiche in BR e Quick Match sessions.', topicB: 'Una licenza invece di tool separati.' },
+	nl: { title: 'Deadside Cheats 2026 | ESP, Wallhack & Aimbot', desc: 'Undetected deadside cheats voor Deadside op PC. ESP wallhack, radar hack en Aimbot met BattlEye-onderhoud. Directe digitale levering.', h1: 'undetected cheats voor Deadside', intro: 'Undetected Windows PC pakket voor Deadside: ESP wallhack, radar en Aimbot met BattlEye-onderhoud na elke patch.', imageAlt: 'Deadside ESP player tags hack', gallery: 'Deadside Cheats galerij — ESP, Aimbot en wallhack', cta2: 'Bekijk functies', h2a: 'Waarom Deadside Cheats in 2026', h2b: 'ESP wallhack, radar en Aimbot in één licentie', topicA: 'Ideaal om vijandelijke squads te lezen in BR en Quick Match sessions.', topicB: 'Eén licentie in plaats van losse tools.' },
+	pl: { title: 'Deadside Cheats 2026 | ESP, Wallhack i Aimbot', desc: 'Undetected cheaty Deadside dla Deadside na PC. ESP wallhack, radar hack i Aimbot z konserwacją BattlEye. Natychmiastowa dostawa cyfrowa.', h1: 'undetected cheaty dla Deadside', intro: 'Pakiet undetected dla Deadside na Windows PC: ESP wallhack, radar i Aimbot z konserwacją BattlEye po każdym patchu.', imageAlt: 'Deadside ESP player tags hack', gallery: 'Galeria Deadside Cheats — ESP, Aimbot i wallhack', cta2: 'Zobacz funkcje', h2a: 'Dlaczego Deadside Cheats w 2026', h2b: 'ESP wallhack, radar i Aimbot w jednej licencji', topicA: 'Idealny do czytania wrogich squadów w BR i Quick Match sessions.', topicB: 'Jedna licencja zamiast osobnych narzędzi.' },
+	ru: { title: 'Deadside Cheats 2026 | ESP, Wallhack и Aimbot', desc: 'Undetected читы Deadside для Deadside на PC. ESP wallhack, radar hack и Aimbot с обслуживанием BattlEye. Мгновенная цифровая доставка.', h1: 'undetected читы для Deadside', intro: 'Undetected пакет для Deadside на Windows PC: ESP wallhack, radar и Aimbot с обслуживанием BattlEye после патчей.', imageAlt: 'Deadside ESP — теги игроков hack', gallery: 'Галерея Deadside Cheats — ESP, Aimbot и wallhack', cta2: 'Смотреть функции', h2a: 'Почему выбирают Deadside Cheats в 2026', h2b: 'ESP wallhack, radar и Aimbot в одной лицензии', topicA: 'Идеально для чтения вражеских отрядов в BR и Quick Match sessions.', topicB: 'Одна лицензия вместо отдельных инструментов.' },
+	tr: { title: 'Deadside Cheats 2026 | ESP, Wallhack ve Aimbot', desc: 'Deadside için undetected hileler. ESP wallhack, radar hack ve Aimbot — BattlEye bakımı. Anında dijital teslimat.', h1: 'Deadside için undetected hileler', intro: 'Deadside Windows PC undetected paketi: ESP wallhack, radar ve Aimbot — BattlEye bakımı dahil.', imageAlt: 'Deadside ESP player tags hack', gallery: 'Deadside Cheats galeri — ESP, Aimbot ve wallhack', cta2: 'Özellikleri gör', h2a: '2026\'da neden Deadside Cheats', h2b: 'ESP wallhack, radar ve Aimbot tek lisans', topicA: 'BR ve Quick Match sessions\'da düşman squad okumak için ideal.', topicB: 'Ayrı araçlar yerine tek lisans.' },
+	ar: { title: 'Deadside Cheats 2026 | ESP وWallhack وAimbot', desc: 'غش Deadside undetected لـ Deadside على PC. ESP wallhack ورadar hack وAimbot مع صيانة BattlEye. تسليم رقمي فوري.', h1: 'غش غير مكتشف لـ Deadside', intro: 'حزمة undetected لـ Deadside على Windows PC: ESP wallhack ورadar وAimbot مع صيانة BattlEye.', imageAlt: 'Deadside ESP player tags hack', gallery: 'معرض Deadside Cheats — ESP وAimbot وwallhack', cta2: 'عرض الميزات', h2a: 'لماذا Deadside Cheats في 2026', h2b: 'ESP wallhack ورadar وAimbot في ترخيص واحد', topicA: 'مثالي لقراءة فرق العدو في BR وQuick Match sessions.', topicB: 'ترخيص واحد بدلاً من أدوات منفصلة.' },
+	ja: { title: 'Deadside Cheats 2026 | ESP・Wallhack・Aimbot', desc: 'Deadside向けundetectedチート。ESP wallhack、radar hack、Aimbot、BattlEyeメンテナンス。即時デジタル配信。', h1: 'Deadside向けundetectedチート', intro: 'Deadside Windows PC向けundetectedパッケージ：ESP wallhack、radar、Aimbot、BattlEyeメンテナンス付き。', imageAlt: 'deadside cheats player ESP aimbot wallhack', gallery: 'Deadside Cheatsギャラリー — ESP、Aimbot、wallhack', cta2: '機能を見る', h2a: '2026年にDeadside Cheatsを選ぶ理由', h2b: 'ESP wallhack、radar、Aimbotが1ライセンス', topicA: 'BRとQuick Match sessionsで敵スクワッドを読むのに最適。', topicB: '別ツールではなく1ライセンス。' },
+	ko: { title: 'Deadside Cheats 2026 | ESP, Wallhack, Aimbot', desc: 'Deadside undetected 치트. ESP wallhack, radar hack, Aimbot, BattlEye 유지보수. 즉시 디지털 배송.', h1: 'Deadside용 undetected 치트', intro: 'Deadside Windows PC undetected 패키지: ESP wallhack, radar, Aimbot, BattlEye 유지보수 포함.', imageAlt: 'deadside cheats player ESP aimbot wallhack', gallery: 'Deadside Cheats 갤러리 — ESP, Aimbot, wallhack', cta2: '기능 보기', h2a: '2026년 Deadside Cheats를 선택하는 이유', h2b: 'ESP wallhack, radar, Aimbot 단일 라이선스', topicA: 'BR 및 Quick Match sessions에서 적 분대 읽기에 이상적.', topicB: '별도 도구 대신 단일 라이선스.' },
+	zh: { title: 'Deadside Cheats 2026 | ESP、Wallhack、Aimbot', desc: 'Deadside undetected作弊。ESP wallhack、radar hack、Aimbot、BattlEye维护。即时数字交付。', h1: 'Deadside的undetected外挂', intro: 'Deadside Windows PC undetected套餐：ESP wallhack、radar、Aimbot，含BattlEye维护。', imageAlt: 'deadside cheats player ESP aimbot wallhack', gallery: 'Deadside Cheats图库 — ESP、Aimbot、wallhack', cta2: '查看功能', h2a: '2026年选择Deadside Cheats的原因', h2b: 'ESP wallhack、radar、Aimbot单一许可证', topicA: '适合在BR和Quick Match sessions中读取敌方小队。', topicB: '一个许可证而非多个工具。' },
+	hi: { title: 'Deadside Cheats 2026 | ESP, Wallhack और Aimbot', desc: 'Deadside undetected hacks. ESP wallhack, radar hack, Aimbot, BattlEye maintenance. Instant digital delivery.', h1: 'Deadside ke liye undetected cheats', intro: 'Deadside Windows PC undetected पैकेज: ESP wallhack, radar, Aimbot, BattlEye maintenance सहित.', imageAlt: 'deadside cheats player ESP aimbot wallhack', gallery: 'Deadside Cheats gallery — ESP, Aimbot, wallhack', cta2: 'फ़ीचर्स देखें', h2a: '2026 में Deadside Cheats क्यों', h2b: 'ESP wallhack, radar, Aimbot एक लाइसेंस में', topicA: 'BR और Quick Match sessions में दुश्मन squad पढ़ने के लिए आदर्श.', topicB: 'अलग टूल्स के बजाय एक लाइसेंस.' },
+	id: { title: 'Deadside Cheats 2026 | ESP, Wallhack & Aimbot', desc: 'Cheat Deadside undetected untuk Deadside di PC. ESP wallhack, radar hack, Aimbot, pemeliharaan BattlEye. Pengiriman digital instan.', h1: 'cheat undetected untuk Deadside', intro: 'Paket undetected Deadside di Windows PC: ESP wallhack, radar, Aimbot dengan pemeliharaan BattlEye.', imageAlt: 'Deadside ESP player tags hack', gallery: 'Galeri Deadside Cheats — ESP, Aimbot, wallhack', cta2: 'Lihat fitur', h2a: 'Mengapa Deadside Cheats di 2026', h2b: 'ESP wallhack, radar, Aimbot dalam satu lisensi', topicA: 'Ideal membaca squad musuh di BR dan Quick Match sessions.', topicB: 'Satu lisensi alih-alih alat terpisah.' },
+	th: { title: 'Deadside Cheats 2026 | ESP, Wallhack และ Aimbot', desc: 'Cheat Deadside undetected สำหรับ Deadside บน PC. ESP wallhack, radar hack, Aimbot, BattlEye maintenance. จัดส่งดิจิทัลทันที.', h1: 'cheat undetected สำหรับ Deadside', intro: 'แพ็ก undetected สำหรับ Deadside บน Windows PC: ESP wallhack, radar, Aimbot พร้อม BattlEye maintenance', imageAlt: 'Deadside ESP player tags hack', gallery: 'แกลเลอรี Deadside Cheats — ESP, Aimbot, wallhack', cta2: 'ดูฟีเจอร์', h2a: 'ทำไมเลือก Deadside Cheats ปี 2026', h2b: 'ESP wallhack, radar, Aimbot ในใบอนุญาตเดียว', topicA: 'เหมาะสำหรับอ่าน squad ศัตรูใน BR และ Quick Match sessions', topicB: 'ใบอนุญาตเดียวแทนเครื่องมือแยก' },
+	vi: { title: 'Deadside Cheats 2026 | ESP, Wallhack & Aimbot', desc: 'Cheat Deadside undetected cho Deadside trên PC. ESP wallhack, radar hack, Aimbot, bảo trì BattlEye. Giao hàng kỹ thuật số tức thì.', h1: 'cheat undetected cho Deadside', intro: 'Gói undetected Deadside trên Windows PC: ESP wallhack, radar, Aimbot với bảo trì BattlEye.', imageAlt: 'Deadside ESP player tags hack', gallery: 'Thư viện Deadside Cheats — ESP, Aimbot, wallhack', cta2: 'Xem tính năng', h2a: 'Vì sao chọn Deadside Cheats 2026', h2b: 'ESP wallhack, radar, Aimbot trong một giấy phép', topicA: 'Lý tưởng đọc squad địch trong BR và Quick Match sessions.', topicB: 'Một giấy phép thay vì công cụ riêng.' },
+	uk: { title: 'Deadside Cheats 2026 | ESP, Wallhack і Aimbot', desc: 'Undetected чіти Deadside для Deadside на PC. ESP wallhack, radar hack, Aimbot, обслуговування BattlEye. Мгновенная цифровая доставка.', h1: 'undetected чіти для Deadside', intro: 'Undetected пакет для Deadside на Windows PC: ESP wallhack, radar, Aimbot з обслуговуванням BattlEye.', imageAlt: 'Deadside ESP player tags hack', gallery: 'Галерея Deadside Cheats — ESP, Aimbot, wallhack', cta2: 'Дивитися функції', h2a: 'Чому Deadside Cheats у 2026', h2b: 'ESP wallhack, radar і Aimbot в одній ліцензії', topicA: 'Ідеально для читання ворожих загонів у BR і Quick Match sessions.', topicB: 'Одна ліцензія замість окремих інструментів.' },
+	cs: { title: 'Deadside Cheats 2026 | ESP, Wallhack a Aimbot', desc: 'Undetected deadside cheaty pro Deadside na PC. ESP wallhack, radar hack, Aimbot, údržba BattlEye. Okamžité digitální doručení.', h1: 'undetected cheaty pro Deadside', intro: 'Undetected balíček pro Deadside na Windows PC: ESP wallhack, radar, Aimbot s údržbou BattlEye.', imageAlt: 'Deadside ESP player tags hack', gallery: 'Galerie Deadside Cheats — ESP, Aimbot, wallhack', cta2: 'Zobrazit funkce', h2a: 'Proč Deadside Cheats v roce 2026', h2b: 'ESP wallhack, radar a Aimbot v jedné licenci', topicA: 'Ideální pro čtení nepřátelských squadů v BR a Quick Match sessions.', topicB: 'Jedna licence místo samostatných nástrojů.' },
+	ro: { title: 'Deadside Cheats 2026 | ESP, Wallhack și Aimbot', desc: 'Cheats Deadside undetected pentru Deadside pe PC. ESP wallhack, radar hack, Aimbot, mentenanță BattlEye. Livrare digitală instantă.', h1: 'cheat-uri undetected pentru Deadside', intro: 'Pachet undetected Deadside pe Windows PC: ESP wallhack, radar, Aimbot cu mentenanță BattlEye.', imageAlt: 'Deadside ESP player tags hack', gallery: 'Galerie Deadside Cheats — ESP, Aimbot, wallhack', cta2: 'Vezi funcții', h2a: 'De ce Deadside Cheats în 2026', h2b: 'ESP wallhack, radar și Aimbot într-o licență', topicA: 'Ideal pentru citirea squad-urilor inamice în BR și Quick Match sessions.', topicB: 'O licență în loc de instrumente separate.' },
+	sv: { title: 'Deadside Cheats 2026 | ESP, Wallhack & Aimbot', desc: 'Undetected deadside cheats för Deadside på PC. ESP wallhack, radar hack, Aimbot, BattlEye-underhåll. Omedelbar digital leverans.', h1: 'undetected cheats för Deadside', intro: 'Undetected paket för Deadside på Windows PC: ESP wallhack, radar, Aimbot med BattlEye-underhåll.', imageAlt: 'Deadside ESP player tags hack', gallery: 'Deadside Cheats galleri — ESP, Aimbot, wallhack', cta2: 'Se funktioner', h2a: 'Varför Deadside Cheats 2026', h2b: 'ESP wallhack, radar och Aimbot i en licens', topicA: 'Ideal för att läsa fiendesquads i BR och Quick Match sessions.', topicB: 'En licens istället för separata verktyg.' },
 };
 
 export function buildHome(locale) {
@@ -52,25 +52,25 @@ export function buildHome(locale) {
 
 /** Unique title/desc tails per page — English base + locale overrides for hero H1/subtitle. */
 export const PAGE_META_TAILS = {
-	'naraka-esp': { suffix: 'Player Boxes & Wallhack', focus: 'player boxes, hero markers, and wallhack overlays', altKeyword: 'ESP wallhack overlay' },
-	'naraka-aimbot': { suffix: 'Soft Aim Controls', focus: 'soft aim, FOV, and per-weapon Aimbot profiles', altKeyword: 'aimbot combat' },
+	'deadside-esp': { suffix: 'Player Boxes & Wallhack', focus: 'player boxes, loot markers, and wallhack overlays', altKeyword: 'ESP wallhack overlay' },
+	'deadside-aimbot': { suffix: 'Soft Aim Controls', focus: 'soft aim, FOV, and per-weapon Aimbot profiles', altKeyword: 'aimbot combat' },
 	features: { suffix: 'Full Feature List', focus: 'ESP, soft aim, radar controls', altKeyword: 'cheats package ESP aimbot' },
 	pricing: { suffix: 'Monthly & Lifetime', focus: '$35 monthly or $150 lifetime licenses', altKeyword: 'cheats pricing' },
 	setup: { suffix: 'PC Setup Guide', focus: 'Windows PC activation and first-launch setup', altKeyword: 'setup PC activation' },
-	updates: { suffix: 'Live Status Log', focus: 'NEAC patch status and rebuild notes', altKeyword: 'updates NEAC maintenance' },
-	faq: { suffix: 'Common Answers', focus: 'ESP, soft aim, delivery, and NEAC questions', altKeyword: 'FAQ ESP aimbot' },
+	updates: { suffix: 'Live Status Log', focus: 'BattlEye patch status and rebuild notes', altKeyword: 'updates BattlEye maintenance' },
+	faq: { suffix: 'Common Answers', focus: 'ESP, soft aim, delivery, and BattlEye questions', altKeyword: 'FAQ ESP aimbot' },
 	support: { suffix: 'Help & Contact', focus: 'order help and license support contact', altKeyword: 'support license help' },
-	undetected: { suffix: 'NEAC Safe Status', focus: 'undetected maintenance after NEAC patches', altKeyword: 'undetected cheats ESP' },
+	undetected: { suffix: 'BattlEye Safe Status', focus: 'undetected maintenance after BattlEye patches', altKeyword: 'undetected cheats ESP' },
 	wallhack: { suffix: 'ESP Visibility', focus: 'wallhack ESP for players, loot, and distance', altKeyword: 'wallhack ESP visibility' },
 	radar: { suffix: '2D Threat Overlay', focus: '2D radar cues for flanks and rotations', altKeyword: 'radar hack overlay' },
-	neac: { suffix: 'Patch Maintenance', focus: 'how NEAC updates are handled for Naraka cheats', altKeyword: 'NEAC bypass ESP aimbot' },
-	'cheats-2026': { suffix: 'Buyer Guide', focus: '2026 naraka cheats checklist before checkout', altKeyword: 'hacks 2026 ESP aimbot' },
-	hacks: { suffix: 'ESP Aimbot Guide', focus: 'Naraka Cheats pillar for ESP and Aimbot', altKeyword: 'hacks ESP aimbot' },
+	battleye: { suffix: 'Patch Maintenance', focus: 'how BattlEye updates are handled for Deadside cheats', altKeyword: 'BattlEye bypass ESP aimbot' },
+	'cheats-2026': { suffix: 'Buyer Guide', focus: '2026 deadside cheats checklist before checkout', altKeyword: 'hacks 2026 ESP aimbot' },
+	hacks: { suffix: 'ESP Aimbot Guide', focus: 'Deadside Cheats pillar for ESP and Aimbot', altKeyword: 'hacks ESP aimbot' },
 	'cheat-download': { suffix: 'Instant Access', focus: 'digital license download after payment', altKeyword: 'cheat download ESP aimbot' },
 	'mod-menu': { suffix: 'In-Game Toggles', focus: 'in-client ESP and soft aim toggles', altKeyword: 'mod menu ESP aimbot' },
 	'soft-aim': { suffix: 'Smooth Aim Settings', focus: 'smooth soft aim settings for Windows PC', altKeyword: 'soft aim aimbot' },
-	'best-cheats': { suffix: 'Buyer Checklist', focus: 'what to compare before buying naraka cheats', altKeyword: 'best hacks ESP aimbot' },
-	'aimbot-hack': { suffix: 'Soft Aim Assist', focus: 'undetected Aimbot hack assist for Naraka', altKeyword: 'aimbot hack combat' },
+	'best-cheats': { suffix: 'Buyer Checklist', focus: 'what to compare before buying deadside cheats', altKeyword: 'best hacks ESP aimbot' },
+	'aimbot-hack': { suffix: 'Soft Aim Assist', focus: 'undetected Aimbot hack assist for Deadside', altKeyword: 'aimbot hack combat' },
 	'esp-hack': { suffix: 'Boxes & Loot', focus: 'ESP hack boxes, loot pins, and distance', altKeyword: 'ESP hack wallhack' },
 	'unlock-all': { suffix: 'What It Means', focus: 'unlock-all searches vs real ESP and Aimbot tools', altKeyword: 'unlock all items ESP aimbot' },
 };
@@ -78,8 +78,8 @@ export const PAGE_META_TAILS = {
 /** Localized H1 suffixes (title/subtitle language change on product pages). */
 export const SUFFIX_I18N = {
 	es: {
-		'naraka-esp': 'Cajas de jugador y wallhack',
-		'naraka-aimbot': 'Controles soft aim',
+		'deadside-esp': 'Cajas de jugador y wallhack',
+		'deadside-aimbot': 'Controles soft aim',
 		features: 'Lista completa de funciones',
 		pricing: 'Mensual y de por vida',
 		setup: 'Guía de instalación PC',
@@ -89,7 +89,7 @@ export const SUFFIX_I18N = {
 		undetected: 'Estado indetectable',
 		wallhack: 'Visibilidad ESP',
 		radar: 'Radar 2D de amenazas',
-		neac: 'Mantenimiento de parches',
+		battleye: 'Mantenimiento de parches',
 		'cheats-2026': 'Guía del comprador',
 		hacks: 'Guía ESP y Aimbot',
 		'cheat-download': 'Acceso instantáneo',
@@ -101,8 +101,8 @@ export const SUFFIX_I18N = {
 		'unlock-all': 'Qué significa',
 	},
 	fr: {
-		'naraka-esp': 'Boîtes joueur et wallhack',
-		'naraka-aimbot': 'Contrôles soft aim',
+		'deadside-esp': 'Boîtes joueur et wallhack',
+		'deadside-aimbot': 'Contrôles soft aim',
 		features: 'Liste complète des fonctions',
 		pricing: 'Mensuel et à vie',
 		setup: 'Guide d\'installation PC',
@@ -112,7 +112,7 @@ export const SUFFIX_I18N = {
 		undetected: 'Statut indétectable',
 		wallhack: 'Visibilité ESP',
 		radar: 'Radar 2D des menaces',
-		neac: 'Maintenance des patchs',
+		battleye: 'Maintenance des patchs',
 		'cheats-2026': 'Guide acheteur',
 		hacks: 'Guide ESP et Aimbot',
 		'cheat-download': 'Accès instantané',
@@ -124,8 +124,8 @@ export const SUFFIX_I18N = {
 		'unlock-all': 'Ce que ça signifie',
 	},
 	de: {
-		'naraka-esp': 'Spielerboxen & Wallhack',
-		'naraka-aimbot': 'Soft-Aim Steuerung',
+		'deadside-esp': 'Spielerboxen & Wallhack',
+		'deadside-aimbot': 'Soft-Aim Steuerung',
 		features: 'Vollständige Feature-Liste',
 		pricing: 'Monatlich & Lifetime',
 		setup: 'PC Setup-Anleitung',
@@ -135,7 +135,7 @@ export const SUFFIX_I18N = {
 		undetected: 'Undetected Status',
 		wallhack: 'ESP Sichtbarkeit',
 		radar: '2D Bedrohungsradar',
-		neac: 'Patch-Wartung',
+		battleye: 'Patch-Wartung',
 		'cheats-2026': 'Käuferleitfaden',
 		hacks: 'ESP Aimbot Guide',
 		'cheat-download': 'Sofortzugang',
@@ -147,8 +147,8 @@ export const SUFFIX_I18N = {
 		'unlock-all': 'Was es bedeutet',
 	},
 	pt: {
-		'naraka-esp': 'Caixas de jogador e wallhack',
-		'naraka-aimbot': 'Controles soft aim',
+		'deadside-esp': 'Caixas de jogador e wallhack',
+		'deadside-aimbot': 'Controles soft aim',
 		features: 'Lista completa de recursos',
 		pricing: 'Mensal e vitalício',
 		setup: 'Guia de instalação PC',
@@ -158,7 +158,7 @@ export const SUFFIX_I18N = {
 		undetected: 'Status indetectável',
 		wallhack: 'Visibilidade ESP',
 		radar: 'Radar 2D de ameaças',
-		neac: 'Manutenção de patches',
+		battleye: 'Manutenção de patches',
 		'cheats-2026': 'Guia do comprador',
 		hacks: 'Guia ESP e Aimbot',
 		'cheat-download': 'Acesso instantâneo',
@@ -170,8 +170,8 @@ export const SUFFIX_I18N = {
 		'unlock-all': 'O que significa',
 	},
 	it: {
-		'naraka-esp': 'Box giocatore e wallhack',
-		'naraka-aimbot': 'Controlli soft aim',
+		'deadside-esp': 'Box giocatore e wallhack',
+		'deadside-aimbot': 'Controlli soft aim',
 		features: 'Elenco completo funzioni',
 		pricing: 'Mensile e lifetime',
 		setup: 'Guida setup PC',
@@ -181,7 +181,7 @@ export const SUFFIX_I18N = {
 		undetected: 'Stato indetectable',
 		wallhack: 'Visibilità ESP',
 		radar: 'Radar 2D minacce',
-		neac: 'Manutenzione patch',
+		battleye: 'Manutenzione patch',
 		'cheats-2026': 'Guida acquirente',
 		hacks: 'Guida ESP e Aimbot',
 		'cheat-download': 'Accesso istantaneo',
@@ -193,8 +193,8 @@ export const SUFFIX_I18N = {
 		'unlock-all': 'Cosa significa',
 	},
 	ru: {
-		'naraka-esp': 'Боксы игроков и wallhack',
-		'naraka-aimbot': 'Управление soft aim',
+		'deadside-esp': 'Боксы игроков и wallhack',
+		'deadside-aimbot': 'Управление soft aim',
 		features: 'Полный список функций',
 		pricing: 'Месяц и lifetime',
 		setup: 'Гайд по установке',
@@ -204,7 +204,7 @@ export const SUFFIX_I18N = {
 		undetected: 'Статус undetected',
 		wallhack: 'Видимость ESP',
 		radar: '2D радар угроз',
-		neac: 'Обслуживание патчей',
+		battleye: 'Обслуживание патчей',
 		'cheats-2026': 'Гайд покупателя',
 		hacks: 'Гайд ESP и Aimbot',
 		'cheat-download': 'Мгновенный доступ',
@@ -220,7 +220,7 @@ export const SUFFIX_I18N = {
 function productPage(locale, pageKey, topicName, cta2href) {
 	const p = phrases[locale];
 	const home = PAGE_META_HOME[locale];
-	const meta = PAGE_META_TAILS[pageKey] ?? { suffix: 'Naraka Cheats', focus: 'ESP wallhack, radar, and Aimbot', altKeyword: 'ESP aimbot wallhack' };
+	const meta = PAGE_META_TAILS[pageKey] ?? { suffix: 'Deadside Cheats', focus: 'ESP wallhack, radar, and Aimbot', altKeyword: 'ESP aimbot wallhack' };
 	const focus = FOCUS_I18N[locale]?.[pageKey] ?? meta.focus;
 	const suffix = SUFFIX_I18N[locale]?.[pageKey] ?? meta.suffix;
 	const titleBase = `${topicName} | ${suffix}`;
@@ -228,12 +228,12 @@ function productPage(locale, pageKey, topicName, cta2href) {
 		title: clampTitle(stripZadeyoFromMeta(titleBase)),
 		description: clampDesc(
 			stripZadeyoFromMeta(
-				`${topicName} for Naraka Bladepoint ranked & Showdown on Windows PC — ${focus}. ${p.delivery}. ${p.undetected}. Official naraka cheats at narakacheats.org.`,
+				`${topicName} for Deadside survival & squad raids on Windows PC — ${focus}. ${p.delivery}. ${p.undetected}. Official deadside cheats at deadsidecheats.com.`,
 			),
 		),
 		h1: topicName,
 		intro: p.s1(`${topicName}.`),
-		imageAlt: PAGE_IMAGE_ALTS[pageKey] || `${topicName} — Naraka Cheats screenshot`,
+		imageAlt: PAGE_IMAGE_ALTS[pageKey] || `${topicName} — Deadside Cheats screenshot`,
 		galleryTitle: topicName,
 		heroImage: HERO_IMAGES[pageKey],
 		ctaPrimary: p.buy,
@@ -248,8 +248,8 @@ function productPage(locale, pageKey, topicName, cta2href) {
 }
 
 export const TOPIC_NAMES = {
-	'naraka-esp': { en: 'Naraka ESP', es: 'ESP Naraka', fr: 'ESP Naraka', de: 'Naraka ESP', pt: 'ESP Naraka', it: 'ESP Naraka', nl: 'Naraka ESP', pl: 'ESP Naraka', ru: 'ESP Naraka', tr: 'Naraka ESP', ar: 'ESP Naraka', ja: 'Naraka ESP', ko: 'Naraka ESP', zh: 'Naraka ESP', hi: 'Naraka ESP', id: 'ESP Naraka', th: 'Naraka ESP', vi: 'ESP Naraka', uk: 'ESP Naraka', cs: 'Naraka ESP', ro: 'ESP Naraka', sv: 'Naraka ESP' },
-	'naraka-aimbot': { en: 'Naraka Aimbot', es: 'Aimbot Naraka', fr: 'Aimbot Naraka', de: 'Naraka Aimbot', pt: 'Aimbot Naraka', it: 'Aimbot Naraka', nl: 'Naraka Aimbot', pl: 'Aimbot Naraka', ru: 'Aimbot Naraka', tr: 'Naraka Aimbot', ar: 'Aimbot Naraka', ja: 'Naraka Aimbot', ko: 'Naraka Aimbot', zh: 'Naraka Aimbot', hi: 'Naraka Aimbot', id: 'Aimbot Naraka', th: 'Naraka Aimbot', vi: 'Aimbot Naraka', uk: 'Aimbot Naraka', cs: 'Naraka Aimbot', ro: 'Aimbot Naraka', sv: 'Naraka Aimbot' },
+	'deadside-esp': { en: 'Deadside ESP', es: 'ESP Deadside', fr: 'ESP Deadside', de: 'Deadside ESP', pt: 'ESP Deadside', it: 'ESP Deadside', nl: 'Deadside ESP', pl: 'ESP Deadside', ru: 'ESP Deadside', tr: 'Deadside ESP', ar: 'ESP Deadside', ja: 'Deadside ESP', ko: 'Deadside ESP', zh: 'Deadside ESP', hi: 'Deadside ESP', id: 'ESP Deadside', th: 'Deadside ESP', vi: 'ESP Deadside', uk: 'ESP Deadside', cs: 'Deadside ESP', ro: 'ESP Deadside', sv: 'Deadside ESP' },
+	'deadside-aimbot': { en: 'Deadside Aimbot', es: 'Aimbot Deadside', fr: 'Aimbot Deadside', de: 'Deadside Aimbot', pt: 'Aimbot Deadside', it: 'Aimbot Deadside', nl: 'Deadside Aimbot', pl: 'Aimbot Deadside', ru: 'Aimbot Deadside', tr: 'Deadside Aimbot', ar: 'Aimbot Deadside', ja: 'Deadside Aimbot', ko: 'Deadside Aimbot', zh: 'Deadside Aimbot', hi: 'Deadside Aimbot', id: 'Aimbot Deadside', th: 'Deadside Aimbot', vi: 'Aimbot Deadside', uk: 'Aimbot Deadside', cs: 'Deadside Aimbot', ro: 'Aimbot Deadside', sv: 'Deadside Aimbot' },
 	features: { en: 'Features', es: 'Funciones', fr: 'Fonctions', de: 'Features', pt: 'Recursos', it: 'Funzioni', nl: 'Functies', pl: 'Funkcje', ru: 'Функции', tr: 'Özellikler', ar: 'الميزات', ja: '機能', ko: '기능', zh: '功能', hi: 'फ़ीचर्स', id: 'Fitur', th: 'ฟีเจอร์', vi: 'Tính năng', uk: 'Функції', cs: 'Funkce', ro: 'Funcții', sv: 'Funktioner' },
 	pricing: { en: 'Pricing', es: 'Precios', fr: 'Tarifs', de: 'Preise', pt: 'Preços', it: 'Prezzi', nl: 'Prijzen', pl: 'Cennik', ru: 'Цены', tr: 'Fiyatlar', ar: 'الأسعار', ja: '料金', ko: '가격', zh: '价格', hi: 'कीमत', id: 'Harga', th: 'ราคา', vi: 'Giá', uk: 'Ціни', cs: 'Ceny', ro: 'Prețuri', sv: 'Priser' },
 	setup: { en: 'Setup', es: 'Instalación', fr: 'Installation', de: 'Setup', pt: 'Instalação', it: 'Setup', nl: 'Setup', pl: 'Instalacja', ru: 'Установка', tr: 'Kurulum', ar: 'التثبيت', ja: 'セットアップ', ko: '설치', zh: '安装', hi: 'सेटअप', id: 'Setup', th: 'ติดตั้ง', vi: 'Cài đặt', uk: 'Встановлення', cs: 'Instalace', ro: 'Instalare', sv: 'Installation' },
@@ -257,41 +257,41 @@ export const TOPIC_NAMES = {
 	faq: { en: 'FAQ', es: 'FAQ', fr: 'FAQ', de: 'FAQ', pt: 'FAQ', it: 'FAQ', nl: 'FAQ', pl: 'FAQ', ru: 'FAQ', tr: 'SSS', ar: 'الأسئلة', ja: 'FAQ', ko: 'FAQ', zh: '常见问题', hi: 'FAQ', id: 'FAQ', th: 'FAQ', vi: 'FAQ', uk: 'FAQ', cs: 'FAQ', ro: 'FAQ', sv: 'FAQ' },
 	support: { en: 'Support', es: 'Soporte', fr: 'Support', de: 'Support', pt: 'Suporte', it: 'Supporto', nl: 'Support', pl: 'Wsparcie', ru: 'Поддержка', tr: 'Destek', ar: 'الدعم', ja: 'サポート', ko: '지원', zh: '支持', hi: 'सहायता', id: 'Dukungan', th: 'สนับสนุน', vi: 'Hỗ trợ', uk: 'Підтримка', cs: 'Podpora', ro: 'Suport', sv: 'Support' },
 	undetected: { en: 'Undetected Cheats', es: 'Trucos indetectables', fr: 'Triches indétectables', de: 'Undetected Cheats', pt: 'Cheats indetectáveis', it: 'Cheat indetectable', nl: 'Undetected Cheats', pl: 'Cheaty undetected', ru: 'Undetected читы', tr: 'Undetected hileler', ar: 'غش undetected', ja: 'Undetectedチート', ko: 'Undetected 치트', zh: 'Undetected作弊', hi: 'Undetected cheats', id: 'Cheat undetected', th: 'Cheats undetected', vi: 'Cheat undetected', uk: 'Undetected чіти', cs: 'Undetected cheaty', ro: 'Cheats undetected', sv: 'Undetected cheats' },
-	wallhack: { en: 'Naraka Wallhack', es: 'Naraka Wallhack', fr: 'Naraka Wallhack', de: 'Naraka Wallhack', pt: 'Naraka Wallhack', it: 'Naraka Wallhack', nl: 'Naraka Wallhack', pl: 'Naraka Wallhack', ru: 'Naraka Wallhack', tr: 'Naraka Wallhack', ar: 'Naraka Wallhack', ja: 'Naraka Wallhack', ko: 'Naraka Wallhack', zh: 'Naraka Wallhack', hi: 'Naraka Wallhack', id: 'Naraka Wallhack', th: 'Naraka Wallhack', vi: 'Naraka Wallhack', uk: 'Naraka Wallhack', cs: 'Naraka Wallhack', ro: 'Naraka Wallhack', sv: 'Naraka Wallhack' },
+	wallhack: { en: 'Deadside Wallhack', es: 'Deadside Wallhack', fr: 'Deadside Wallhack', de: 'Deadside Wallhack', pt: 'Deadside Wallhack', it: 'Deadside Wallhack', nl: 'Deadside Wallhack', pl: 'Deadside Wallhack', ru: 'Deadside Wallhack', tr: 'Deadside Wallhack', ar: 'Deadside Wallhack', ja: 'Deadside Wallhack', ko: 'Deadside Wallhack', zh: 'Deadside Wallhack', hi: 'Deadside Wallhack', id: 'Deadside Wallhack', th: 'Deadside Wallhack', vi: 'Deadside Wallhack', uk: 'Deadside Wallhack', cs: 'Deadside Wallhack', ro: 'Deadside Wallhack', sv: 'Deadside Wallhack' },
 	radar: { en: 'Radar Hack', es: 'Radar hack', fr: 'Radar hack', de: 'Radar Hack', pt: 'Radar hack', it: 'Radar hack', nl: 'Radar Hack', pl: 'Radar hack', ru: 'Radar hack', tr: 'Radar hack', ar: 'Radar hack', ja: 'Radar Hack', ko: 'Radar Hack', zh: 'Radar Hack', hi: 'Radar Hack', id: 'Radar hack', th: 'Radar Hack', vi: 'Radar hack', uk: 'Radar hack', cs: 'Radar Hack', ro: 'Radar hack', sv: 'Radar Hack' },
-	neac: { en: 'NEAC Bypass', es: 'Bypass NEAC', fr: 'Bypass NEAC', de: 'NEAC Bypass', pt: 'Bypass NEAC', it: 'Bypass NEAC', nl: 'NEAC Bypass', pl: 'Bypass NEAC', ru: 'Bypass NEAC', tr: 'NEAC bypass', ar: 'Bypass NEAC', ja: 'NEAC Bypass', ko: 'NEAC Bypass', zh: 'NEAC Bypass', hi: 'NEAC Bypass', id: 'Bypass NEAC', th: 'NEAC Bypass', vi: 'Bypass NEAC', uk: 'Bypass NEAC', cs: 'NEAC Bypass', ro: 'Bypass NEAC', sv: 'NEAC Bypass' },
-	'cheats-2026': { en: 'Naraka Bladepoint Cheats 2026', es: 'Trucos Naraka 2026', fr: 'Triches Naraka 2026', de: 'Naraka Bladepoint Cheats 2026', pt: 'Cheats Naraka 2026', it: 'Cheat Naraka 2026', nl: 'Naraka Bladepoint Cheats 2026', pl: 'Cheaty Naraka 2026', ru: 'Читы Naraka 2026', tr: 'Naraka Hileleri 2026', ar: 'غش Naraka 2026', ja: 'Naraka Bladepoint Cheats 2026', ko: 'Naraka Bladepoint Cheats 2026', zh: 'Naraka作弊 2026', hi: 'Naraka Bladepoint Cheats 2026', id: 'Cheat Naraka 2026', th: 'Naraka Bladepoint Cheats 2026', vi: 'Cheat Naraka 2026', uk: 'Чіти Naraka 2026', cs: 'naraka cheaty 2026', ro: 'Cheats Naraka 2026', sv: 'Naraka Bladepoint Cheats 2026' },
-	hacks: { en: 'Naraka Cheats', es: 'Trucos Naraka', fr: 'Triches Naraka', de: 'Naraka Cheats', pt: 'Cheats Naraka', it: 'Cheat Naraka', nl: 'Naraka Cheats', pl: 'Cheaty Naraka', ru: 'Читы Naraka', tr: 'Naraka Hileleri', ar: 'غش Naraka', ja: 'Naraka Cheats', ko: 'Naraka Cheats', zh: 'Naraka作弊', hi: 'Naraka Cheats', id: 'Cheat Naraka', th: 'Naraka Cheats', vi: 'Cheat Naraka', uk: 'Чіти Naraka', cs: 'naraka cheaty', ro: 'Cheats Naraka', sv: 'Naraka Cheats' },
-	'cheat-download': { en: 'Naraka Cheat Download', es: 'Descarga Naraka Cheats', fr: 'Téléchargement Naraka Cheats', de: 'Naraka Cheat Download', pt: 'Download Naraka Cheats', it: 'Download Naraka Cheats', nl: 'Naraka Cheat Download', pl: 'Pobieranie Naraka Cheats', ru: 'Скачать Naraka Cheats', tr: 'Naraka Hile İndir', ar: 'تحميل Naraka Cheats', ja: 'Naraka Cheat Download', ko: 'Naraka Cheat Download', zh: 'Naraka作弊下载', hi: 'Naraka Cheat Download', id: 'Download Cheat Naraka', th: 'ดาวน์โหลด Naraka Cheats', vi: 'Tải Cheat Naraka', uk: 'Завантаження Naraka Cheats', cs: 'Stáhnout Naraka Cheats', ro: 'Descărcare Naraka Cheats', sv: 'Naraka Cheat Download' },
-	'mod-menu': { en: 'Naraka Mod Menu', es: 'Menú mod Naraka', fr: 'Menu mod Naraka', de: 'Naraka Mod-Menü', pt: 'Menu mod Naraka', it: 'Mod menu Naraka', nl: 'Naraka Mod Menu', pl: 'Mod menu Naraka', ru: 'Мод-меню Naraka', tr: 'Naraka Mod Menü', ar: 'قائمة مود Naraka', ja: 'Naraka Mod Menu', ko: 'Naraka 모드 메뉴', zh: 'Naraka修改菜单', hi: 'Naraka Mod Menu', id: 'Menu mod Naraka', th: 'เมนูมอด Naraka', vi: 'Mod menu Naraka', uk: 'Мод-меню Naraka', cs: 'Naraka mod menu', ro: 'Meniu mod Naraka', sv: 'Naraka Mod-meny' },
-	'soft-aim': { en: 'Naraka Soft Aim', es: 'Soft aim Naraka', fr: 'Soft aim Naraka', de: 'Naraka Soft Aim', pt: 'Soft aim Naraka', it: 'Soft aim Naraka', nl: 'Naraka Soft Aim', pl: 'Soft aim Naraka', ru: 'Soft aim Naraka', tr: 'Naraka Soft Aim', ar: 'Soft aim Naraka', ja: 'Naraka Soft Aim', ko: 'Naraka Soft Aim', zh: 'Naraka Soft Aim', hi: 'Naraka Soft Aim', id: 'Soft aim Naraka', th: 'Naraka Soft Aim', vi: 'Soft aim Naraka', uk: 'Soft aim Naraka', cs: 'Naraka Soft Aim', ro: 'Soft aim Naraka', sv: 'Naraka Soft Aim' },
-	'best-cheats': { en: 'Best Naraka Cheats', es: 'Mejores trucos Naraka', fr: 'Meilleures triches Naraka', de: 'Beste Naraka Cheats', pt: 'Melhores cheats Naraka', it: 'Migliori cheat Naraka', nl: 'Beste Naraka Cheats', pl: 'Najlepsze cheaty Naraka', ru: 'Лучшие читы Naraka', tr: 'En İyi Naraka Hileleri', ar: 'أفضل غش Naraka', ja: '最強Narakaチート', ko: '최고의 Naraka 치트', zh: '最佳Naraka作弊', hi: 'सर्वश्रेष्ठ Naraka Cheats', id: 'Cheat Naraka terbaik', th: 'Cheat Naraka ที่ดีที่สุด', vi: 'Cheat Naraka tốt nhất', uk: 'Найкращі чіти Naraka', cs: 'Nejlepší naraka cheaty', ro: 'Cele mai bune cheats Naraka', sv: 'Bästa Naraka Cheats' },
-	'aimbot-hack': { en: 'Naraka Aimbot Hack', es: 'Hack aimbot Naraka', fr: 'Hack aimbot Naraka', de: 'Naraka Aimbot Hack', pt: 'Hack aimbot Naraka', it: 'Hack aimbot Naraka', nl: 'Naraka Aimbot Hack', pl: 'Hack aimbot Naraka', ru: 'Хак aimbot Naraka', tr: 'Naraka Aimbot Hilesi', ar: 'هاك Aimbot Naraka', ja: 'Naraka Aimbot Hack', ko: 'Naraka 에임봇 핵', zh: 'Naraka自瞄外挂', hi: 'Naraka Aimbot Hack', id: 'Hack aimbot Naraka', th: 'Hack Aimbot Naraka', vi: 'Hack aimbot Naraka', uk: 'Хак aimbot Naraka', cs: 'Naraka Aimbot hack', ro: 'Hack aimbot Naraka', sv: 'Naraka Aimbot Hack' },
-	'esp-hack': { en: 'Naraka ESP Hack', es: 'Hack ESP Naraka', fr: 'Hack ESP Naraka', de: 'Naraka ESP Hack', pt: 'Hack ESP Naraka', it: 'Hack ESP Naraka', nl: 'Naraka ESP Hack', pl: 'Hack ESP Naraka', ru: 'Хак ESP Naraka', tr: 'Naraka ESP Hilesi', ar: 'هاك ESP Naraka', ja: 'Naraka ESP Hack', ko: 'Naraka ESP 핵', zh: 'Naraka ESP外挂', hi: 'Naraka ESP Hack', id: 'Hack ESP Naraka', th: 'Hack ESP Naraka', vi: 'Hack ESP Naraka', uk: 'Хак ESP Naraka', cs: 'Naraka ESP hack', ro: 'Hack ESP Naraka', sv: 'Naraka ESP Hack' },
-	'unlock-all': { en: 'Naraka Unlock All', es: 'Unlock all Naraka', fr: 'Unlock all Naraka', de: 'Naraka Unlock All', pt: 'Unlock all Naraka', it: 'Unlock all Naraka', nl: 'Naraka Unlock All', pl: 'Unlock all Naraka', ru: 'Unlock all Naraka', tr: 'Naraka Unlock All', ar: 'Unlock all Naraka', ja: 'Naraka Unlock All', ko: 'Naraka Unlock All', zh: 'Naraka Unlock All', hi: 'Naraka Unlock All', id: 'Unlock all Naraka', th: 'Naraka Unlock All', vi: 'Unlock all Naraka', uk: 'Unlock all Naraka', cs: 'Naraka Unlock All', ro: 'Unlock all Naraka', sv: 'Naraka Unlock All' },
+	battleye: { en: 'BattlEye Bypass', es: 'Bypass BattlEye', fr: 'Bypass BattlEye', de: 'BattlEye Bypass', pt: 'Bypass BattlEye', it: 'Bypass BattlEye', nl: 'BattlEye Bypass', pl: 'Bypass BattlEye', ru: 'Bypass BattlEye', tr: 'BattlEye bypass', ar: 'Bypass BattlEye', ja: 'BattlEye Bypass', ko: 'BattlEye Bypass', zh: 'BattlEye Bypass', hi: 'BattlEye Bypass', id: 'Bypass BattlEye', th: 'BattlEye Bypass', vi: 'Bypass BattlEye', uk: 'Bypass BattlEye', cs: 'BattlEye Bypass', ro: 'Bypass BattlEye', sv: 'BattlEye Bypass' },
+	'cheats-2026': { en: 'Deadside Cheats 2026', es: 'Trucos Deadside 2026', fr: 'Triches Deadside 2026', de: 'Deadside Cheats 2026', pt: 'Cheats Deadside 2026', it: 'Cheat Deadside 2026', nl: 'Deadside Cheats 2026', pl: 'Cheaty Deadside 2026', ru: 'Читы Deadside 2026', tr: 'Deadside Hileleri 2026', ar: 'غش Deadside 2026', ja: 'Deadside Cheats 2026', ko: 'Deadside Cheats 2026', zh: 'Deadside作弊 2026', hi: 'Deadside Cheats 2026', id: 'Cheat Deadside 2026', th: 'Deadside Cheats 2026', vi: 'Cheat Deadside 2026', uk: 'Чіти Deadside 2026', cs: 'deadside cheaty 2026', ro: 'Cheats Deadside 2026', sv: 'Deadside Cheats 2026' },
+	hacks: { en: 'Deadside Cheats', es: 'Trucos Deadside', fr: 'Triches Deadside', de: 'Deadside Cheats', pt: 'Cheats Deadside', it: 'Cheat Deadside', nl: 'Deadside Cheats', pl: 'Cheaty Deadside', ru: 'Читы Deadside', tr: 'Deadside Hileleri', ar: 'غش Deadside', ja: 'Deadside Cheats', ko: 'Deadside Cheats', zh: 'Deadside作弊', hi: 'Deadside Cheats', id: 'Cheat Deadside', th: 'Deadside Cheats', vi: 'Cheat Deadside', uk: 'Чіти Deadside', cs: 'deadside cheaty', ro: 'Cheats Deadside', sv: 'Deadside Cheats' },
+	'cheat-download': { en: 'Deadside Cheat Download', es: 'Descarga Deadside Cheats', fr: 'Téléchargement Deadside Cheats', de: 'Deadside Cheat Download', pt: 'Download Deadside Cheats', it: 'Download Deadside Cheats', nl: 'Deadside Cheat Download', pl: 'Pobieranie Deadside Cheats', ru: 'Скачать Deadside Cheats', tr: 'Deadside Hile İndir', ar: 'تحميل Deadside Cheats', ja: 'Deadside Cheat Download', ko: 'Deadside Cheat Download', zh: 'Deadside作弊下载', hi: 'Deadside Cheat Download', id: 'Download Cheat Deadside', th: 'ดาวน์โหลด Deadside Cheats', vi: 'Tải Cheat Deadside', uk: 'Завантаження Deadside Cheats', cs: 'Stáhnout Deadside Cheats', ro: 'Descărcare Deadside Cheats', sv: 'Deadside Cheat Download' },
+	'mod-menu': { en: 'Deadside Mod Menu', es: 'Menú mod Deadside', fr: 'Menu mod Deadside', de: 'Deadside Mod-Menü', pt: 'Menu mod Deadside', it: 'Mod menu Deadside', nl: 'Deadside Mod Menu', pl: 'Mod menu Deadside', ru: 'Мод-меню Deadside', tr: 'Deadside Mod Menü', ar: 'قائمة مود Deadside', ja: 'Deadside Mod Menu', ko: 'Deadside 모드 메뉴', zh: 'Deadside修改菜单', hi: 'Deadside Mod Menu', id: 'Menu mod Deadside', th: 'เมนูมอด Deadside', vi: 'Mod menu Deadside', uk: 'Мод-меню Deadside', cs: 'Deadside mod menu', ro: 'Meniu mod Deadside', sv: 'Deadside Mod-meny' },
+	'soft-aim': { en: 'Deadside Soft Aim', es: 'Soft aim Deadside', fr: 'Soft aim Deadside', de: 'Deadside Soft Aim', pt: 'Soft aim Deadside', it: 'Soft aim Deadside', nl: 'Deadside Soft Aim', pl: 'Soft aim Deadside', ru: 'Soft aim Deadside', tr: 'Deadside Soft Aim', ar: 'Soft aim Deadside', ja: 'Deadside Soft Aim', ko: 'Deadside Soft Aim', zh: 'Deadside Soft Aim', hi: 'Deadside Soft Aim', id: 'Soft aim Deadside', th: 'Deadside Soft Aim', vi: 'Soft aim Deadside', uk: 'Soft aim Deadside', cs: 'Deadside Soft Aim', ro: 'Soft aim Deadside', sv: 'Deadside Soft Aim' },
+	'best-cheats': { en: 'Best Deadside Cheats', es: 'Mejores trucos Deadside', fr: 'Meilleures triches Deadside', de: 'Beste Deadside Cheats', pt: 'Melhores cheats Deadside', it: 'Migliori cheat Deadside', nl: 'Beste Deadside Cheats', pl: 'Najlepsze cheaty Deadside', ru: 'Лучшие читы Deadside', tr: 'En İyi Deadside Hileleri', ar: 'أفضل غش Deadside', ja: '最強Deadsideチート', ko: '최고의 Deadside 치트', zh: '最佳Deadside作弊', hi: 'सर्वश्रेष्ठ Deadside Cheats', id: 'Cheat Deadside terbaik', th: 'Cheat Deadside ที่ดีที่สุด', vi: 'Cheat Deadside tốt nhất', uk: 'Найкращі чіти Deadside', cs: 'Nejlepší deadside cheaty', ro: 'Cele mai bune cheats Deadside', sv: 'Bästa Deadside Cheats' },
+	'aimbot-hack': { en: 'Deadside Aimbot Hack', es: 'Hack aimbot Deadside', fr: 'Hack aimbot Deadside', de: 'Deadside Aimbot Hack', pt: 'Hack aimbot Deadside', it: 'Hack aimbot Deadside', nl: 'Deadside Aimbot Hack', pl: 'Hack aimbot Deadside', ru: 'Хак aimbot Deadside', tr: 'Deadside Aimbot Hilesi', ar: 'هاك Aimbot Deadside', ja: 'Deadside Aimbot Hack', ko: 'Deadside 에임봇 핵', zh: 'Deadside自瞄外挂', hi: 'Deadside Aimbot Hack', id: 'Hack aimbot Deadside', th: 'Hack Aimbot Deadside', vi: 'Hack aimbot Deadside', uk: 'Хак aimbot Deadside', cs: 'Deadside Aimbot hack', ro: 'Hack aimbot Deadside', sv: 'Deadside Aimbot Hack' },
+	'esp-hack': { en: 'Deadside ESP Hack', es: 'Hack ESP Deadside', fr: 'Hack ESP Deadside', de: 'Deadside ESP Hack', pt: 'Hack ESP Deadside', it: 'Hack ESP Deadside', nl: 'Deadside ESP Hack', pl: 'Hack ESP Deadside', ru: 'Хак ESP Deadside', tr: 'Deadside ESP Hilesi', ar: 'هاك ESP Deadside', ja: 'Deadside ESP Hack', ko: 'Deadside ESP 핵', zh: 'Deadside ESP外挂', hi: 'Deadside ESP Hack', id: 'Hack ESP Deadside', th: 'Hack ESP Deadside', vi: 'Hack ESP Deadside', uk: 'Хак ESP Deadside', cs: 'Deadside ESP hack', ro: 'Hack ESP Deadside', sv: 'Deadside ESP Hack' },
+	'unlock-all': { en: 'Deadside Unlock All', es: 'Unlock all Deadside', fr: 'Unlock all Deadside', de: 'Deadside Unlock All', pt: 'Unlock all Deadside', it: 'Unlock all Deadside', nl: 'Deadside Unlock All', pl: 'Unlock all Deadside', ru: 'Unlock all Deadside', tr: 'Deadside Unlock All', ar: 'Unlock all Deadside', ja: 'Deadside Unlock All', ko: 'Deadside Unlock All', zh: 'Deadside Unlock All', hi: 'Deadside Unlock All', id: 'Unlock all Deadside', th: 'Deadside Unlock All', vi: 'Unlock all Deadside', uk: 'Unlock all Deadside', cs: 'Deadside Unlock All', ro: 'Unlock all Deadside', sv: 'Deadside Unlock All' },
 };
 
 export const CTA2_HREF = {
-	'naraka-esp': '/naraka-cheats/',
-	'naraka-aimbot': '/naraka-esp/',
+	'deadside-esp': '/deadside-cheats/',
+	'deadside-aimbot': '/deadside-esp/',
 	features: '/pricing/',
 	pricing: '/setup/',
 	setup: '/support/',
-	updates: '/naraka-cheats/',
+	updates: '/deadside-cheats/',
 	faq: '/support/',
 	support: '/setup/',
-	undetected: '/naraka-cheats/',
-	wallhack: '/naraka-esp/',
-	radar: '/naraka-esp/',
-	neac: '/updates/',
-	'cheats-2026': '/naraka-cheats/',
+	undetected: '/deadside-cheats/',
+	wallhack: '/deadside-esp/',
+	radar: '/deadside-esp/',
+	battleye: '/updates/',
+	'cheats-2026': '/deadside-cheats/',
 	hacks: '/features/',
 	'cheat-download': '/setup/',
 	'mod-menu': '/features/',
-	'soft-aim': '/naraka-aimbot/',
+	'soft-aim': '/deadside-aimbot/',
 	'best-cheats': '/pricing/',
-	'aimbot-hack': '/naraka-aimbot/',
-	'esp-hack': '/naraka-esp/',
+	'aimbot-hack': '/deadside-aimbot/',
+	'esp-hack': '/deadside-esp/',
 	'unlock-all': '/features/',
 };
 
@@ -307,12 +307,12 @@ export function buildLegal(locale, pageKey, kind) {
 	const pageCopy = L?.[kind] ?? {};
 	const h2 = pageCopy.h2 ?? ['Information we collect', 'How we use data', 'Your rights'];
 	return {
-		title: clampTitle(stripZadeyoFromMeta(`${h1} | Naraka Cheats`)),
-		description: clampDesc(stripZadeyoFromMeta(`${h1} ${L?.descFor ?? 'for Naraka Cheats — ESP wallhack, Aimbot'}, ${p.win}.`)),
+		title: clampTitle(stripZadeyoFromMeta(`${h1} | Deadside Cheats`)),
+		description: clampDesc(stripZadeyoFromMeta(`${h1} ${L?.descFor ?? 'for Deadside Cheats — ESP wallhack, Aimbot'}, ${p.win}.`)),
 		h1,
-		intro: p.s1(`${h1} ${L?.introTopic ?? 'for narakacheats.org and Naraka licenses.'}`),
-		imageAlt: 'Naraka Cheats',
-		galleryTitle: 'Naraka Cheats',
+		intro: p.s1(`${h1} ${L?.introTopic ?? 'for deadsidecheats.com and Deadside licenses.'}`),
+		imageAlt: 'Deadside Cheats',
+		galleryTitle: 'Deadside Cheats',
 		heroImage: HERO_IMAGES[pageKey],
 		ctaPrimary: L?.emailSupport ?? 'Email support',
 		ctaSecondary:
@@ -325,17 +325,17 @@ export function buildLegal(locale, pageKey, kind) {
 				h2[0],
 				p.s1(L?.sec1p1 ?? 'Contact email, Zadeyo order references, and basic site security data.'),
 				kind === 'privacy'
-					? L?.privacy?.sec1p2 ?? 'Payment details are processed by Zadeyo checkout — not stored on narakacheats.org.'
+					? L?.privacy?.sec1p2 ?? 'Payment details are processed by Zadeyo checkout — not stored on deadsidecheats.com.'
 					: p.s2(),
 			),
 			section(
 				h2[1],
 				p.s1(L?.privacy?.sec2p1 ?? 'Support responses, order resolution, and legal compliance when required.'),
 				kind === 'terms'
-					? L?.terms?.sec2p2 ?? 'Using cheats may violate 24 Entertainment terms — you assume all ban risk.'
+					? L?.terms?.sec2p2 ?? 'Using cheats may violate Bad Pixel terms — you assume all ban risk.'
 					: p.s3(),
 			),
-			section(h2[2], p.legal(), `${L?.emailLabel ?? 'Email:'} support@narakacheats.org`),
+			section(h2[2], p.legal(), `${L?.emailLabel ?? 'Email:'} support@deadsidecheats.com`),
 		],
 	};
 }

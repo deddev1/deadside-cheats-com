@@ -1,6 +1,6 @@
 /**
- * SVG overlay generators for naraka cheats marketing images.
- * Composited on top of IGN Naraka gameplay screenshots.
+ * SVG overlay generators for deadside cheats marketing images.
+ * Composited on top of IGN Deadside gameplay screenshots.
  */
 
 const PURPLE = '#c084fc';

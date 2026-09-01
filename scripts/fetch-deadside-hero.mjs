@@ -23,7 +23,7 @@ const heroBuffer = Buffer.from(
 	await (HERO_URL.startsWith('file://')
 		? readFile(HERO_URL.replace('file://', ''))
 		: fetch(HERO_URL, {
-				headers: { 'User-Agent': 'Mozilla/5.0 (compatible; NarakaCheatsSite/1.0)' },
+				headers: { 'User-Agent': 'Mozilla/5.0 (compatible; DeadsideCheatsSite/1.0)' },
 			}).then((r) => {
 				if (!r.ok) throw new Error(`HTTP ${r.status}`);
 				return r.arrayBuffer();
@@ -56,8 +56,8 @@ function resizeHero(width) {
 for (const width of outputWidths) {
 	const height = bannerHeight(width);
 	const webp = await resizeHero(width).webp(HERO_WEBP).toBuffer();
-	await writeFile(path.join(imagesDir, `naraka-cheats-hero-${width}w.webp`), webp);
-	console.log(`✓ naraka-cheats-hero-${width}w.webp (${width}x${height}, ${Math.round(webp.length / 1024)}KB)`);
+	await writeFile(path.join(imagesDir, `deadside-cheats-hero-${width}w.webp`), webp);
+	console.log(`✓ deadside-cheats-hero-${width}w.webp (${width}x${height}, ${Math.round(webp.length / 1024)}KB)`);
 }
 
 const lcpWidth = outputWidths.includes(1870)
@@ -69,12 +69,12 @@ const lcpWidth = outputWidths.includes(1870)
 			: outputWidths.at(-1) ?? 1024;
 const canonicalHeight = bannerHeight(lcpWidth);
 const canonical = await resizeHero(lcpWidth).webp(HERO_WEBP).toBuffer();
-for (const name of ['naraka-cheats-hero.webp', 'naraka-hero-banner.webp', 'hero-banner.webp']) {
+for (const name of ['deadside-cheats-hero.webp', 'deadside-hero-banner.webp', 'hero-banner.webp']) {
 	await writeFile(path.join(imagesDir, name), canonical);
 }
 
 const png = await resizeHero(lcpWidth).png({ compressionLevel: 6 }).toBuffer();
-await writeFile(path.join(imagesDir, 'naraka-cheats-hero.png'), png);
+await writeFile(path.join(imagesDir, 'deadside-cheats-hero.png'), png);
 
 console.log(
 	`Done — hero banner ${BANNER_RATIO}:1 (LCP ${lcpWidth}x${canonicalHeight}), fit: cover, quality ${HERO_WEBP.quality}`,

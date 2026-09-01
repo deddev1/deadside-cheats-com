@@ -8,7 +8,7 @@ import { brandStudioPlugin } from './scripts/brand-studio/vite-plugin.mjs';
 // Do not add @astrojs/cloudflare; sitemaps and HTML must emit to dist/ root.
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://narakacheats.org',
+	site: 'https://deadsidecheats.com',
 	trailingSlash: 'always',
 	compressHTML: true,
 	devToolbar: { enabled: false },

@@ -26,50 +26,50 @@ export type ProductScreenshotMeta = {
 
 const alts: Record<number, { alt: string; title: string; caption: string }> = {
 	1: {
-		alt: 'Naraka ESP showing loot box and weapon labels through walls',
-		title: 'Naraka ESP loot and item detection',
-		caption: 'Naraka ESP wallhack with distance-tagged loot boxes and weapons',
+		alt: 'Deadside ESP showing loot box and weapon labels through walls',
+		title: 'Deadside ESP loot and item detection',
+		caption: 'Deadside ESP wallhack with distance-tagged loot boxes and weapons',
 	},
 	2: {
-		alt: 'Naraka wallhack ESP highlighting weapons and corpses through geometry',
-		title: 'Naraka wallhack ESP overlay',
-		caption: 'Naraka wallhack ESP with loot tags visible through walls',
+		alt: 'Deadside wallhack ESP highlighting weapons and corpses through geometry',
+		title: 'Deadside wallhack ESP overlay',
+		caption: 'Deadside wallhack ESP with loot tags visible through walls',
 	},
 	3: {
-		alt: 'Naraka third-person gameplay view on Windows PC',
-		title: 'Naraka cheats in-match view',
-		caption: 'Naraka gameplay session with cheats running on Windows PC',
+		alt: 'Deadside third-person gameplay view on Windows PC',
+		title: 'Deadside cheats in-match view',
+		caption: 'Deadside gameplay session with cheats running on Windows PC',
 	},
 	4: {
-		alt: 'Naraka ESP player tracking with names and distance readouts',
-		title: 'Naraka ESP player tracking',
-		caption: 'Naraka ESP showing enemy names, health, and distance through the map',
+		alt: 'Deadside ESP player tracking with names and distance readouts',
+		title: 'Deadside ESP player tracking',
+		caption: 'Deadside ESP showing enemy names, health, and distance through the map',
 	},
 	5: {
-		alt: 'Naraka ESP radar-style player and loot markers in match',
-		title: 'Naraka ESP threat markers',
-		caption: 'Naraka ESP distance markers for players and loot in live matches',
+		alt: 'Deadside ESP radar-style player and loot markers in match',
+		title: 'Deadside ESP threat markers',
+		caption: 'Deadside ESP distance markers for players and loot in live matches',
 	},
 	6: {
-		alt: 'Naraka cheats ESP overlay during combat on Windows PC',
-		title: 'Naraka cheats combat ESP',
-		caption: 'Naraka cheats ESP active during a live Naraka match',
+		alt: 'Deadside cheats ESP overlay during combat on Windows PC',
+		title: 'Deadside cheats combat ESP',
+		caption: 'Deadside cheats ESP active during a live Deadside match',
 	},
 	7: {
-		alt: 'Naraka wallhack ESP with player outlines and corpse tags',
-		title: 'Naraka wallhack player ESP',
-		caption: 'Naraka wallhack ESP with player outlines and distance tags',
+		alt: 'Deadside wallhack ESP with player outlines and corpse tags',
+		title: 'Deadside wallhack player ESP',
+		caption: 'Deadside wallhack ESP with player outlines and distance tags',
 	},
 	8: {
-		alt: 'Naraka ESP loot detection and in-match overlay',
-		title: 'Naraka ESP and loot ESP gameplay',
-		caption: 'Naraka ESP loot tags and wallhack overlay during ranked gameplay',
+		alt: 'Deadside ESP loot detection and in-match overlay',
+		title: 'Deadside ESP and loot ESP gameplay',
+		caption: 'Deadside ESP loot tags and wallhack overlay during ranked gameplay',
 	},
 };
 
 export function screenshotSrc(n: number): string {
 	const id = ((n - 1) % PRODUCT_SCREENSHOT_COUNT) + 1;
-	return `/images/naraka-screenshot-${String(id).padStart(2, '0')}.webp`;
+	return `/images/deadside-screenshot-${String(id).padStart(2, '0')}.webp`;
 }
 
 export function absoluteScreenshotUrl(n: number): string {
@@ -79,9 +79,9 @@ export function absoluteScreenshotUrl(n: number): string {
 export function getProductScreenshot(n: number): ProductScreenshotMeta {
 	const id = ((n - 1) % PRODUCT_SCREENSHOT_COUNT) + 1;
 	const meta = alts[id] ?? {
-		alt: `Naraka Cheats gameplay screenshot ${id}`,
-		title: `Naraka Cheats screenshot ${id}`,
-		caption: `Naraka Cheats screenshot ${id} for Naraka on Windows PC`,
+		alt: `Deadside Cheats gameplay screenshot ${id}`,
+		title: `Deadside Cheats screenshot ${id}`,
+		caption: `Deadside Cheats screenshot ${id} for Deadside on Windows PC`,
 	};
 	const src = screenshotSrc(id);
 	return {

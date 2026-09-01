@@ -1,14 +1,14 @@
 /**
  * English simple-page overrides — mirrors src/data/i18n/simple-pages.ts (resolved tokens).
- * Used as canonical EN content for features, pricing, updates, hacks, naraka-esp, naraka-aimbot, radar, setup, support, faq.
+ * Used as canonical EN content for features, pricing, updates, hacks, deadside-esp, deadside-aimbot, radar, setup, support, faq.
  */
 export const SIMPLE_PAGE_IDS = [
 	'features',
 	'pricing',
 	'updates',
 	'hacks',
-	'naraka-esp',
-	'naraka-aimbot',
+	'deadside-esp',
+	'deadside-aimbot',
 	'radar',
 	'setup',
 	'support',
@@ -17,11 +17,11 @@ export const SIMPLE_PAGE_IDS = [
 
 export const simplePagesEn = {
 	features: {
-		title: 'Naraka Bladepoint Cheats Features | ESP, Aimbot & Radar',
+		title: 'Deadside Cheats Features | ESP, Aimbot & Radar',
 		description:
-			'Full Naraka Bladepoint cheats feature list — ESP wallhack, soft aim, 2D radar & toggles for ranked & Showdown on PC. NEAC maintenance at narakacheats.org.',
-		h1: 'Naraka Cheats Features — Full Control List',
-		intro: 'Everything included in one license for Naraka on Windows PC.',
+			'Full Deadside cheats feature list — ESP wallhack, soft aim, 2D radar & toggles for survival & squad raids on PC. BattlEye maintenance at deadsidecheats.com.',
+		h1: 'Deadside Cheats Features — Full Control List',
+		intro: 'Everything included in one license for Deadside on Windows PC.',
 		ctaPrimary: 'Get Access',
 		ctaSecondary: 'View store',
 		ctaSecondaryHref: '/pricing/',
@@ -33,7 +33,7 @@ export const simplePagesEn = {
 					'See players, objects, and loot through walls with distance readouts.',
 					'Use filters so the overlay stays clear in arena zones, vault sectors, and high-traffic PvP areas.',
 				],
-				list: ['Player boxes & distance', 'Loot and hero markers', 'Objective and vehicle filters'],
+				list: ['Player boxes & distance', 'Loot and loot markers', 'Objective and vehicle filters'],
 			},
 			{
 				h2: 'Aimbot & soft aim',
@@ -47,43 +47,43 @@ export const simplePagesEn = {
 				h2: 'Radar',
 				paragraphs: [
 					'A simple 2D radar for threats outside your view.',
-					'Spot flanks near maps and combat zones without filling the whole screen.',
+					'Spot flanks near maps and compound zones without filling the whole screen.',
 				],
 				list: ['Nearby enemy cues', 'Adjustable range', 'Works in matches & roaming'],
 			},
 			{
 				h2: 'Explore related topics',
 				paragraphs: [
-					'Most Naraka cheat sites cover ESP, aimbot, radar, setup, and status on separate pages. Use these guides next:',
+					'Most Deadside cheat sites cover ESP, aimbot, radar, setup, and status on separate pages. Use these guides next:',
 					'Each guide covers one part of the match stack so you can compare before checkout.',
 				],
 				list: [
-					'<a href="/naraka-esp/">ESP & wallhack guide</a>',
-					'<a href="/naraka-aimbot/">Aimbot & soft aim</a>',
-					'<a href="/naraka-radar-hack/">2D radar overlay</a>',
+					'<a href="/deadside-esp/">ESP & wallhack guide</a>',
+					'<a href="/deadside-aimbot/">Aimbot & soft aim</a>',
+					'<a href="/deadside-radar-hack/">2D radar overlay</a>',
 					'<a href="/setup/">Setup guide</a>',
 					'<a href="/updates/">Live status</a>',
-					'<a href="/blog/">Naraka Intel blog</a>',
-					'<a href="https://store.steampowered.com/app/1203220/news/" target="_blank" rel="noopener noreferrer">Official Naraka patch notes</a>',
-					'<a href="https://naraka.fandom.com/wiki/NARAKA:_BLADEPOINT" target="_blank" rel="noopener noreferrer">Naraka Wiki (Fandom)</a>',
+					'<a href="/blog/">Deadside Intel blog</a>',
+					'<a href="https://store.steampowered.com/app/895400/news/" target="_blank" rel="noopener noreferrer">Official Deadside patch notes</a>',
+					'<a href="https://deadside.fandom.com/wiki/Deadside" target="_blank" rel="noopener noreferrer">Deadside Wiki (Fandom)</a>',
 				],
 			},
 			{
 				h2: 'Updates & support',
 				paragraphs: [
-					'We rebuild after big Naraka or NEAC patches.',
+					'We rebuild after big Deadside or BattlEye patches.',
 					'Check Status before you play after a patch day.',
-					'Verify official changes on <a href="https://store.steampowered.com/app/1203220/news/" target="_blank" rel="noopener noreferrer">Naraka patch notes</a> and the <a href="https://naraka.fandom.com/wiki/NARAKA:_BLADEPOINT" target="_blank" rel="noopener noreferrer">Naraka Wiki</a> before you tune overlays.',
+					'Verify official changes on <a href="https://store.steampowered.com/app/895400/news/" target="_blank" rel="noopener noreferrer">Deadside patch notes</a> and the <a href="https://deadside.fandom.com/wiki/Deadside" target="_blank" rel="noopener noreferrer">Deadside Wiki</a> before you tune overlays.',
 				],
 				list: ['Status on the Status page', 'Setup guide included', 'Email support with your order ID'],
 			},
 		],
 	},
 	pricing: {
-		title: 'Naraka Bladepoint Cheats Pricing | $35/mo or $150',
+		title: 'Deadside Cheats Pricing | $35/mo or $150',
 		description:
-			'Buy Naraka Bladepoint cheats — $35/month or $150 lifetime. ESP, aimbot & radar for ranked & Showdown on PC. Same features, instant delivery.',
-		h1: 'Naraka Cheats Pricing — Monthly & Lifetime',
+			'Buy Deadside cheats — $35/month or $150 lifetime. ESP, aimbot & radar for survival & squad raids on PC. Same features, instant delivery.',
+		h1: 'Deadside Cheats Pricing — Monthly & Lifetime',
 		intro: 'Monthly and lifetime plans with the same ESP, soft aim, and radar stack.',
 		ctaPrimary: 'Get Access',
 		ctaSecondary: 'Setup guide',
@@ -121,20 +121,20 @@ export const simplePagesEn = {
 		],
 	},
 	updates: {
-		title: 'Naraka Status | NEAC Updates | Naraka Cheats',
+		title: 'Deadside Status | BattlEye Updates | Deadside Cheats',
 		description:
-			'Live status after Naraka & NEAC patches. Check undetected ESP, aimbot & radar rebuilds on PC before you queue. narakacheats.org.',
+			'Live status after Deadside & BattlEye patches. Check undetected ESP, aimbot & radar rebuilds on PC before you queue. deadsidecheats.com.',
 		h1: 'Status',
-		intro: 'Check maintenance notes before you load in after a Naraka or NEAC patch.',
+		intro: 'Check maintenance notes before you load in after a Deadside or BattlEye patch.',
 		ctaPrimary: 'Get Access',
-		ctaSecondary: 'Naraka Cheats overview',
+		ctaSecondary: 'Deadside Cheats overview',
 		ctaSecondaryHref: '/',
 		galleryTitle: 'In-game look',
 		sections: [
 			{
 				h2: 'Current status',
 				paragraphs: [
-					'As of 13 Aug 2026 the package is online for Naraka on Windows PC. We post a new note here when a game or NEAC patch needs a rebuild.',
+					'As of 13 Aug 2026 the package is online for Deadside on Windows PC. We post a new note here when a game or BattlEye patch needs a rebuild.',
 					'If Status is green, you can match. If we are rebuilding, wait for the next note.',
 				],
 				list: [
@@ -162,36 +162,36 @@ export const simplePagesEn = {
 		],
 	},
 	hacks: {
-		title: 'Naraka Bladepoint Cheats Guide | ESP, Aimbot & Radar',
+		title: 'Deadside Cheats Guide | ESP, Aimbot & Radar',
 		description:
-			'Naraka Bladepoint cheats guide — undetected ESP wallhack, soft aim, radar & NEAC rebuilds for ranked & Showdown on PC. Buy from $35 at narakacheats.org.',
-		h1: 'Naraka Bladepoint Cheats — Full Guide',
+			'Deadside cheats guide — undetected ESP wallhack, soft aim, radar & BattlEye rebuilds for survival & squad raids on PC. Buy from $35 at deadsidecheats.com.',
+		h1: 'Deadside Cheats — Full Guide',
 		intro:
-			'Naraka cheats add ESP, radar, and soft aim on top of the base game. This page explains what naraka cheats are, what Naraka Cheats includes, how NEAC maintenance works, and where to go next before you buy.',
+			'Deadside cheats add ESP, radar, and soft aim on top of the base game. This page explains what deadside cheats are, what Deadside Cheats includes, how BattlEye maintenance works, and where to go next before you buy.',
 		ctaPrimary: 'Get Access',
 		ctaSecondary: 'View features',
 		ctaSecondaryHref: '/features/',
-		galleryTitle: 'Naraka cheats in action',
+		galleryTitle: 'Deadside cheats in action',
 		sections: [
 			{
-				h2: 'What are naraka cheats?',
+				h2: 'What are deadside cheats?',
 				paragraphs: [
-					'Naraka cheats are third-party tools that give you extra information and combat assist during matches. Most players search for naraka cheats when they want player ESP, loot visibility, off-screen radar, or smoother aim under pressure.',
-					'Naraka Cheats bundles those tools in one license for Windows PC — no stacking separate downloads for wallhack, radar, and aimbot.',
+					'Deadside cheats are third-party tools that give you extra information and combat assist during matches. Most players search for deadside cheats when they want player ESP, loot visibility, off-screen radar, or smoother aim under pressure.',
+					'Deadside Cheats bundles those tools in one license for Windows PC — no stacking separate downloads for wallhack, radar, and aimbot.',
 				],
 			},
 			{
-				h2: 'What Naraka Cheats includes',
+				h2: 'What Deadside Cheats includes',
 				paragraphs: [
-					'One license covers the full match stack: player ESP with distance, hero markers, 2D radar for flanks, and configurable soft aim profiles per weapon.',
-					'Monthly and lifetime plans include the same feature stack with NEAC rebuilds.',
+					'One license covers the full match stack: player ESP with distance, loot markers, 2D radar for flanks, and configurable soft aim profiles per weapon.',
+					'Monthly and lifetime plans include the same feature stack with BattlEye rebuilds.',
 				],
 				list: [
 					'ESP / wallhack with distance readouts',
 					'Loot and resource markers',
 					'2D radar for off-screen threats',
 					'Soft aim & aimbot profiles',
-					'NEAC rebuilds after patches',
+					'BattlEye rebuilds after patches',
 				],
 			},
 			{
@@ -201,22 +201,22 @@ export const simplePagesEn = {
 					'Read ESP, aimbot, radar, and feature guides before you buy.',
 				],
 				list: [
-					'<a href="/naraka-esp/">Naraka ESP & wallhack</a>',
-					'<a href="/naraka-aimbot/">Naraka Aimbot & soft aim</a>',
-					'<a href="/naraka-radar-hack/">Radar hack overlay</a>',
+					'<a href="/deadside-esp/">Deadside ESP & wallhack</a>',
+					'<a href="/deadside-aimbot/">Deadside Aimbot & soft aim</a>',
+					'<a href="/deadside-radar-hack/">Radar hack overlay</a>',
 					'<a href="/features/">Full feature list</a>',
 				],
 			},
 			{
 				h2: 'Undetected status & patches',
 				paragraphs: [
-					'Naraka uses NEAC. No cheat stays undetected forever — maintenance after patches is what matters. Check the Status page after every Naraka or NEAC update before you load in.',
-					'Read the undetected cheats guide and NEAC maintenance notes for the full workflow.',
+					'Deadside uses BattlEye. No cheat stays undetected forever — maintenance after patches is what matters. Check the Status page after every Deadside or BattlEye update before you load in.',
+					'Read the undetected cheats guide and BattlEye maintenance notes for the full workflow.',
 				],
 				list: [
 					'<a href="/updates/">Live status & patch notes</a>',
 					'<a href="/updates/">Undetected cheats guide</a>',
-					'<a href="/neac-bypass/">NEAC maintenance</a>',
+					'<a href="/battleye-bypass/">BattlEye maintenance</a>',
 					'<a href="/faq/">FAQ before you buy</a>',
 				],
 			},
@@ -234,14 +234,14 @@ export const simplePagesEn = {
 			},
 		],
 	},
-	'naraka-esp': {
-		title: 'Naraka Bladepoint ESP | Wallhack & Player Boxes',
+	'deadside-esp': {
+		title: 'Deadside ESP | Wallhack & Player Boxes',
 		description:
-			'Naraka Bladepoint ESP wallhack — player boxes, hero markers & distance for ranked & Showdown on PC. Bundled with aimbot & radar at narakacheats.org.',
-		h1: 'Naraka ESP — Player Boxes & Wallhack',
-		intro: 'See players and loot through walls during Naraka matches. Part of the same Naraka Cheats license.',
+			'Deadside ESP wallhack — player boxes, loot markers & distance for survival & squad raids on PC. Bundled with aimbot & radar at deadsidecheats.com.',
+		h1: 'Deadside ESP — Player Boxes & Wallhack',
+		intro: 'See players and loot through walls during Deadside matches. Part of the same Deadside Cheats license.',
 		ctaPrimary: 'Get Access',
-		ctaSecondary: 'Naraka Cheats overview',
+		ctaSecondary: 'Deadside Cheats overview',
 		ctaSecondaryHref: '/',
 		galleryTitle: 'ESP in match',
 		sections: [
@@ -256,7 +256,7 @@ export const simplePagesEn = {
 			{
 				h2: 'When to use it',
 				paragraphs: [
-					'Clear high-traffic POIs and grapple routes without flooding the screen.',
+					'Clear high-traffic POIs and extract routes without flooding the screen.',
 					'Tune opacity and filters for arena zones, vault sectors, and high-traffic PvP areas.',
 				],
 				list: ['Tune opacity', 'Filter noise', 'Pair with radar'],
@@ -275,14 +275,14 @@ export const simplePagesEn = {
 			},
 		],
 	},
-	'naraka-aimbot': {
-		title: 'Naraka Bladepoint Aimbot | Soft Aim & FOV Settings',
+	'deadside-aimbot': {
+		title: 'Deadside Aimbot | Soft Aim & FOV Settings',
 		description:
-			'Naraka Bladepoint aimbot with soft aim, FOV & bone priority for ranked melee fights on PC. Undetected package with ESP & radar at narakacheats.org.',
-		h1: 'Naraka Aimbot — Soft Aim for Windows PC',
-		intro: 'Soft aim and aim assist you can tune for Naraka. Included in the same Naraka Cheats license.',
+			'Deadside aimbot with soft aim, FOV & bone priority for ranked melee fights on PC. Undetected package with ESP & radar at deadsidecheats.com.',
+		h1: 'Deadside Aimbot — Soft Aim for Windows PC',
+		intro: 'Soft aim and aim assist you can tune for Deadside. Included in the same Deadside Cheats license.',
 		ctaPrimary: 'Get Access',
-		ctaSecondary: 'Naraka Cheats overview',
+		ctaSecondary: 'Deadside Cheats overview',
 		ctaSecondaryHref: '/',
 		galleryTitle: 'Aimbot view',
 		sections: [
@@ -317,13 +317,13 @@ export const simplePagesEn = {
 		],
 	},
 	radar: {
-		title: 'Naraka Bladepoint Radar Hack | 2D Threat Map',
+		title: 'Deadside Radar Hack | 2D Threat Map',
 		description:
-			'2D radar hack for flank reads in Naraka Bladepoint ranked & Showdown on PC. Bundled with ESP wallhack & soft aim in one license at narakacheats.org.',
-		h1: 'Naraka Radar Hack — 2D Threat Awareness',
-		intro: 'A simple 2D radar for threats outside your view. Included in the same Naraka Cheats license.',
+			'2D radar hack for flank reads in Deadside survival & squad raids on PC. Bundled with ESP wallhack & soft aim in one license at deadsidecheats.com.',
+		h1: 'Deadside Radar Hack — 2D Threat Awareness',
+		intro: 'A simple 2D radar for threats outside your view. Included in the same Deadside Cheats license.',
 		ctaPrimary: 'Get Access',
-		ctaSecondary: 'Naraka Cheats overview',
+		ctaSecondary: 'Deadside Cheats overview',
 		ctaSecondaryHref: '/',
 		galleryTitle: 'Radar overlay',
 		sections: [
@@ -342,7 +342,7 @@ export const simplePagesEn = {
 					'Radar complements ESP markers during squad pushes and zone fights.',
 				],
 				list: [
-					'<a href="/naraka-esp/">ESP guide</a>',
+					'<a href="/deadside-esp/">ESP guide</a>',
 					'<a href="/">Full product</a>',
 					'<a href="/pricing/">Store</a>',
 				],
@@ -350,9 +350,9 @@ export const simplePagesEn = {
 		],
 	},
 	setup: {
-		title: 'Naraka Cheats Setup | Windows PC Install Guide',
+		title: 'Deadside Cheats Setup | Windows PC Install Guide',
 		description:
-			'Install Naraka Cheats on PC — activate ESP, soft aim & radar step by step. Setup guide at narakacheats.org. Check NEAC status first.',
+			'Install Deadside Cheats on PC — activate ESP, soft aim & radar step by step. Setup guide at deadsidecheats.com. Check BattlEye status first.',
 		h1: 'Setup',
 		intro: 'Install and activate your license on Windows 10 or 11 before your first match.',
 		ctaPrimary: 'Get Access',
@@ -365,14 +365,14 @@ export const simplePagesEn = {
 				paragraphs: [
 					'Buy a plan first. You get a license by email.',
 					'Have your order email ready before you start installation.',
-					'Naraka Cheats runs on Windows 10 or 11 (64-bit) with administrator rights for the loader. Close conflicting overlays and aim for 8 GB RAM minimum (16 GB recommended) for smooth ESP in busy melee combats.',
+					'Deadside Cheats runs on Windows 10 or 11 (64-bit) with administrator rights for the loader. Close conflicting overlays and aim for 8 GB RAM minimum (16 GB recommended) for smooth ESP in busy tactical combats.',
 				],
 				list: ['Windows 10 / 11 PC', 'Disable conflicting overlays', 'Have your order email ready'],
 			},
 			{
 				h2: 'Install steps',
 				paragraphs: [
-					'Run the loader as admin, paste your license, then launch Naraka.',
+					'Run the loader as admin, paste your license, then launch Deadside.',
 					'Download the loader from your delivery email and follow the steps in order.',
 				],
 				list: ['Download the loader from your delivery email', 'Paste license key', 'Launch the game'],
@@ -380,7 +380,7 @@ export const simplePagesEn = {
 			{
 				h2: 'If something fails',
 				paragraphs: [
-					'Check Status after a patch. Email support@narakacheats.org with your order ID.',
+					'Check Status after a patch. Email support@deadsidecheats.com with your order ID.',
 					'Include your Windows version and what you already tried for faster replies.',
 				],
 				list: ['<a href="/updates/">Status page</a>', '<a href="/support/">Support</a>', '<a href="/faq/">FAQ</a>'],
@@ -388,11 +388,11 @@ export const simplePagesEn = {
 		],
 	},
 	support: {
-		title: 'Naraka Cheats Support | License & Setup Help',
+		title: 'Deadside Cheats Support | License & Setup Help',
 		description:
-			'Support for license delivery, ESP setup & billing on PC. Email support@narakacheats.org with your order ID. narakacheats.org/support.',
+			'Support for license delivery, ESP setup & billing on PC. Email support@deadsidecheats.com with your order ID. deadsidecheats.com/support.',
 		h1: 'Support',
-		intro: 'Get help with licenses, setup, and billing for Naraka Cheats on Windows PC.',
+		intro: 'Get help with licenses, setup, and billing for Deadside Cheats on Windows PC.',
 		ctaPrimary: 'Email support',
 		ctaSecondary: 'FAQ',
 		ctaSecondaryHref: '/faq/',
@@ -401,7 +401,7 @@ export const simplePagesEn = {
 			{
 				h2: 'How to contact us',
 				paragraphs: [
-					'Email support@narakacheats.org. Include your order ID and a short note about the issue.',
+					'Email support@deadsidecheats.com. Include your order ID and a short note about the issue.',
 					'We review support requests daily for delivery, billing, and setup issues.',
 				],
 				list: ['Order ID from your receipt', 'Windows version', 'What you already tried'],
@@ -410,18 +410,18 @@ export const simplePagesEn = {
 				h2: 'Faster answers',
 				paragraphs: [
 					'Check FAQ and Status before you write. Many setup questions are already covered.',
-					'Self-service guides often resolve activation issues faster than a new ticket. For patch timing, follow official Naraka channels on Riot and the <a href="https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/" target="_blank" rel="noopener noreferrer">official site</a>.',
+					'Self-service guides often resolve activation issues faster than a new ticket. For patch timing, follow official Deadside channels on Bad Pixel and the <a href="https://store.steampowered.com/app/895400/Deadside/" target="_blank" rel="noopener noreferrer">official site</a>.',
 				],
 				list: ['<a href="/faq/">FAQ</a>', '<a href="/updates/">Status</a>', '<a href="/setup/">Setup</a>'],
 			},
 		],
 	},
 	faq: {
-		title: 'Naraka Bladepoint Cheats FAQ | ESP, Aimbot & NEAC',
+		title: 'Deadside Cheats FAQ | ESP, Aimbot & BattlEye',
 		description:
-			'FAQ for Naraka Bladepoint cheats — delivery, setup, ranked & Showdown use, NEAC updates & pricing on PC. Answers at narakacheats.org before you buy.',
-		h1: 'Naraka Cheats FAQ — Common Questions',
-		intro: 'Common questions about Naraka Cheats — delivery, setup, updates, and refunds.',
+			'FAQ for Deadside cheats — delivery, setup, survival & squad raids use, BattlEye updates & pricing on PC. Answers at deadsidecheats.com before you buy.',
+		h1: 'Deadside Cheats FAQ — Common Questions',
+		intro: 'Common questions about Deadside Cheats — delivery, setup, updates, and refunds.',
 		ctaPrimary: 'Get Access',
 		ctaSecondary: 'Support',
 		ctaSecondaryHref: '/support/',
@@ -438,7 +438,7 @@ export const simplePagesEn = {
 			{
 				h2: 'Setup & updates',
 				paragraphs: [
-					'Follow Setup after you buy. Check Status after big Naraka or NEAC patches.',
+					'Follow Setup after you buy. Check Status after big Deadside or BattlEye patches.',
 					'Maintenance rebuilds publish on the Status page when patches require updates.',
 				],
 				list: ['<a href="/setup/">Setup guide</a>', '<a href="/updates/">Status</a>'],

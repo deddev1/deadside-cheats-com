@@ -21,18 +21,18 @@ const SLUG_MAP = {
 };
 
 const KEYWORD_REPLACEMENTS = [
-	[/\bthe rust patch notes\b/gi, 'Naraka patch notes'],
-	[/\brust major update\b/gi, 'Naraka major update'],
+	[/\bthe rust patch notes\b/gi, 'Deadside patch notes'],
+	[/\brust major update\b/gi, 'Deadside major update'],
 	[/\brust intel\b/gi, 'Finals intel'],
-	[/\brust skins\b/gi, 'Naraka cosmetics'],
-	[/\brust cosmetics\b/gi, 'Naraka cosmetics'],
-	[/\bthe rust skins\b/gi, 'Naraka cosmetics'],
-	[/\brust player tier\b/gi, 'Naraka weapon tier'],
-	[/\brust loot routes\b/gi, 'Naraka grapple routes'],
-	[/\brust warmup\b/gi, 'Naraka warmup'],
-	[/\brust pro settings\b/gi, 'Naraka pro settings'],
-	[/\brust competitive meta\b/gi, 'Naraka competitive meta'],
-	[/\brust farming run\b/gi, 'Naraka loot run'],
+	[/\brust skins\b/gi, 'Deadside cosmetics'],
+	[/\brust cosmetics\b/gi, 'Deadside cosmetics'],
+	[/\bthe rust skins\b/gi, 'Deadside cosmetics'],
+	[/\brust player tier\b/gi, 'Deadside weapon tier'],
+	[/\brust loot routes\b/gi, 'Deadside extract routes'],
+	[/\brust warmup\b/gi, 'Deadside warmup'],
+	[/\brust pro settings\b/gi, 'Deadside pro settings'],
+	[/\brust competitive meta\b/gi, 'Deadside competitive meta'],
+	[/\brust farming run\b/gi, 'Deadside loot run'],
 	[/\bmonument edges\b/gi, 'arena edges'],
 	[/\bmonument\b/gi, 'arena'],
 	[/\brouble floor\b/gi, 'credit floor'],
@@ -75,8 +75,8 @@ writeFileSync(redirectsPath, `${JSON.stringify(redirects, null, 2)}\n`, 'utf8');
 
 const cannibalPath = join(ROOT, 'functions', 'cannibal-redirects.json');
 const cannibal = JSON.parse(readFileSync(cannibalPath, 'utf8'));
-cannibal['/fr/meilleures-triches-finals/'] = '/fr/meilleures-triches-naraka/';
-cannibal['/fr/meilleures-triches-finals'] = '/fr/meilleures-triches-naraka/';
+cannibal['/fr/meilleures-triches-finals/'] = '/fr/meilleures-triches-deadside/';
+cannibal['/fr/meilleures-triches-finals'] = '/fr/meilleures-triches-deadside/';
 delete cannibal['/fr/meilleures-triches-rust/'];
 delete cannibal['/fr/meilleures-triches-rust'];
 writeFileSync(cannibalPath, `${JSON.stringify(cannibal, null, 2)}\n`, 'utf8');

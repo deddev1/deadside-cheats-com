@@ -593,91 +593,91 @@ export const PAGE_CONTENT = {
 	"updates": {
 		"0": {
 			"en": [
-				"As of 13 Aug 2026 the package is online for Naraka on Windows PC. We post a new note here when a game or NEAC patch needs a rebuild.",
+				"As of 13 Aug 2026 the package is online for Deadside on Windows PC. We post a new note here when a game or BattlEye patch needs a rebuild.",
 				"If Status is green, you can match. If we are rebuilding, wait for the next note."
 			],
 			"es": [
-				"A 13 ago 2026 el paquete está online para Naraka en Windows PC. Publicamos una nota aquí cuando un parche de Naraka o NEAC requiere rebuild.",
+				"A 13 ago 2026 el paquete está online para Deadside en Windows PC. Publicamos una nota aquí cuando un parche de Deadside o BattlEye requiere rebuild.",
 				"Si el Estado está en verde, puedes matchear. Si estamos reconstruyendo, espera la siguiente nota."
 			],
 			"fr": [
-				"Au 13 août 2026, le squad est en ligne pour Naraka sur PC Windows. Nous publions une note ici quand un patch Naraka ou NEAC nécessite une reconstruction.",
+				"Au 13 août 2026, le squad est en ligne pour Deadside sur PC Windows. Nous publions une note ici quand un patch Deadside ou BattlEye nécessite une reconstruction.",
 				"Si le Statut est vert, vous pouvez matcher. Si nous reconstruisons, attendez la prochaine note."
 			],
 			"de": [
-				"Stand 13. Aug. 2026 ist das Paket für Naraka auf Windows PC online. Wir posten hier eine Notiz, wenn ein Naraka- oder NEAC-Patch einen Rebuild braucht.",
+				"Stand 13. Aug. 2026 ist das Paket für Deadside auf Windows PC online. Wir posten hier eine Notiz, wenn ein Deadside- oder BattlEye-Patch einen Rebuild braucht.",
 				"Ist der Status grün, kannst du matchen. Bei Rebuild warte auf die nächste Notiz."
 			],
 			"pt": [
-				"Em 13 ago 2026 o pacote está online para Naraka no Windows PC. Publicamos uma nota aqui quando um patch de Naraka ou NEAC precisa de rebuild.",
+				"Em 13 ago 2026 o pacote está online para Deadside no Windows PC. Publicamos uma nota aqui quando um patch de Deadside ou BattlEye precisa de rebuild.",
 				"Se o Status estiver verde, pode matchear. Se estivermos reconstruindo, aguarde a próxima nota."
 			],
 			"it": [
-				"Al 13 ago 2026 il pacchetto è online per Naraka su Windows PC. Pubblichiamo una nota qui quando una patch Naraka o NEAC richiede rebuild.",
+				"Al 13 ago 2026 il pacchetto è online per Deadside su Windows PC. Pubblichiamo una nota qui quando una patch Deadside o BattlEye richiede rebuild.",
 				"Se lo Stato è verde, puoi matchare. Se stiamo ricostruendo, attendi la prossima nota."
 			],
 			"nl": [
-				"Per 13 aug 2026 is het pakket online voor Naraka op Windows PC. We plaatsen hier een notitie wanneer een Naraka- of NEAC-patch een rebuild nodig heeft.",
+				"Per 13 aug 2026 is het pakket online voor Deadside op Windows PC. We plaatsen hier een notitie wanneer een Deadside- of BattlEye-patch een rebuild nodig heeft.",
 				"Is Status groen, dan kun je matchen. Bij rebuild wacht op de volgende notitie."
 			],
 			"pl": [
-				"Na 13 sie 2026 pakiet jest online dla Naraka na Windows PC. Publikujemy tu notatkę, gdy patch Naraka lub NEAC wymaga rebuildu.",
+				"Na 13 sie 2026 pakiet jest online dla Deadside na Windows PC. Publikujemy tu notatkę, gdy patch Deadside lub BattlEye wymaga rebuildu.",
 				"Gdy Status jest zielony, możesz matchić. Przy rebuildzie czekaj na kolejną notatkę."
 			],
 			"ru": [
-				"На 13 авг. 2026 пакет онлайн для Naraka на Windows PC. Мы публикуем заметку, когда патч Naraka или NEAC требует пересборки.",
+				"На 13 авг. 2026 пакет онлайн для Deadside на Windows PC. Мы публикуем заметку, когда патч Deadside или BattlEye требует пересборки.",
 				"Если Статус зелёный — можно играть. При пересборке ждите следующую заметку."
 			],
 			"tr": [
-				"13 Ağu 2026 itibarıyla paket Naraka için Windows PC'de online. Naraka veya NEAC yaması rebuild gerektirdiğinde burada not paylaşırız.",
+				"13 Ağu 2026 itibarıyla paket Deadside için Windows PC'de online. Deadside veya BattlEye yaması rebuild gerektirdiğinde burada not paylaşırız.",
 				"Durum yeşilse match atabilirsiniz. Rebuild sırasında sonraki notu bekleyin."
 			],
 			"ar": [
-				"اعتباراً من 13 أغسطس 2026 الحزمة متاحة لـ Naraka على Windows PC. ننشر ملاحظة هنا عندما يتطلب تصحيح Naraka أو NEAC إعادة بناء.",
+				"اعتباراً من 13 أغسطس 2026 الحزمة متاحة لـ Deadside على Windows PC. ننشر ملاحظة هنا عندما يتطلب تصحيح Deadside أو BattlEye إعادة بناء.",
 				"إذا كانت الحالة خضراء يمكنك الraid. أثناء إعادة البناء انتظر الملاحظة التالية."
 			],
 			"ja": [
-				"2026年8月13日時点で、Windows PC向けNarakaパッケージはオンラインです。NarakaまたはNEACパッチでリビルドが必要な際はここに投稿します。",
+				"2026年8月13日時点で、Windows PC向けDeadsideパッケージはオンラインです。DeadsideまたはBattlEyeパッチでリビルドが必要な際はここに投稿します。",
 				"ステータスが緑ならレイド可能。リビルド中は次の投稿を待ってください。"
 			],
 			"ko": [
-				"2026년 8월 13일 기준 Naraka Windows PC 패키지는 온라인입니다. Naraka 또는 NEAC 패치로 리빌드가 필요하면 여기에 공지합니다.",
+				"2026년 8월 13일 기준 Deadside Windows PC 패키지는 온라인입니다. Deadside 또는 BattlEye 패치로 리빌드가 필요하면 여기에 공지합니다.",
 				"상태가 녹색이면 레이드 가능. 리빌드 중에는 다음 공지를 기다리세요."
 			],
 			"zh": [
-				"截至2026年8月13日，Naraka Windows PC 套餐已上线。Naraka 或 NEAC 补丁需要重建时我们会在此发布说明。",
+				"截至2026年8月13日，Deadside Windows PC 套餐已上线。Deadside 或 BattlEye 补丁需要重建时我们会在此发布说明。",
 				"状态为绿色即可 match。重建中请等待下一条说明。"
 			],
 			"hi": [
-				"13 अगस्त 2026 तक पैकेज Naraka Windows PC पर online है। Naraka या NEAC पैच पर rebuild नोट यहाँ पोस्ट होता है।",
+				"13 अगस्त 2026 तक पैकेज Deadside Windows PC पर online है। Deadside या BattlEye पैच पर rebuild नोट यहाँ पोस्ट होता है।",
 				"स्टेटस हरा हो तो match करें। rebuild पर अगली नोट का इंतज़ार करें।"
 			],
 			"id": [
-				"Per 13 Agu 2026 paket online untuk Naraka di Windows PC. Kami posting catatan di sini saat patch Naraka atau NEAC butuh rebuild.",
+				"Per 13 Agu 2026 paket online untuk Deadside di Windows PC. Kami posting catatan di sini saat patch Deadside atau BattlEye butuh rebuild.",
 				"Jika Status hijau, Anda bisa match. Saat rebuild, tunggu catatan berikutnya."
 			],
 			"th": [
-				"ณ 13 ส.ค. 2026 แพ็กเกจออนไลน์สำหรับ Naraka บน Windows PC เราโพสต์บันทึกเมื่อแพตช์ Naraka หรือ NEAC ต้อง rebuild",
+				"ณ 13 ส.ค. 2026 แพ็กเกจออนไลน์สำหรับ Deadside บน Windows PC เราโพสต์บันทึกเมื่อแพตช์ Deadside หรือ BattlEye ต้อง rebuild",
 				"ถ้าสถานะเป็นสีเขียว match ได้ หากกำลัง rebuild รอบันทึกถัดไป"
 			],
 			"vi": [
-				"Tính đến 13/8/2026 gói đang online cho Naraka trên Windows PC. Chúng tôi đăng ghi chú khi bản vá Naraka hoặc NEAC cần rebuild.",
+				"Tính đến 13/8/2026 gói đang online cho Deadside trên Windows PC. Chúng tôi đăng ghi chú khi bản vá Deadside hoặc BattlEye cần rebuild.",
 				"Nếu Trạng thái xanh, bạn có thể match. Đang rebuild thì chờ ghi chú tiếp theo."
 			],
 			"uk": [
-				"Станом на 13 серп. 2026 пакет онлайн для Naraka на Windows PC. Публікуємо нотатку, коли патч Naraka або NEAC потребує перезбірки.",
+				"Станом на 13 серп. 2026 пакет онлайн для Deadside на Windows PC. Публікуємо нотатку, коли патч Deadside або BattlEye потребує перезбірки.",
 				"Якщо Статус зелений — можна matchiти. Під час перезбірки чекайте наступну нотатку."
 			],
 			"cs": [
-				"K 13. 8. 2026 je balíček online pro Naraka na Windows PC. Zde zveřejníme poznámku, když patch Naraka nebo NEAC vyžaduje rebuild.",
+				"K 13. 8. 2026 je balíček online pro Deadside na Windows PC. Zde zveřejníme poznámku, když patch Deadside nebo BattlEye vyžaduje rebuild.",
 				"Je-li Stav zelený, můžete matchovat. Při rebuildu počkejte na další poznámku."
 			],
 			"ro": [
-				"La 13 aug 2026 pachetul este online pentru Naraka pe Windows PC. Postăm o notă aici când un patch Naraka sau NEAC necesită rebuild.",
+				"La 13 aug 2026 pachetul este online pentru Deadside pe Windows PC. Postăm o notă aici când un patch Deadside sau BattlEye necesită rebuild.",
 				"Dacă Statusul e verde, poți matcha. La rebuild așteaptă următoarea notă."
 			],
 			"sv": [
-				"Per 13 aug 2026 är paketet online för Naraka på Windows PC. Vi postar en notis här när en Naraka- eller NEAC-patch kräver rebuild.",
+				"Per 13 aug 2026 är paketet online för Deadside på Windows PC. Vi postar en notis här när en Deadside- eller BattlEye-patch kräver rebuild.",
 				"Är Status grön kan du matcha. Vid rebuild vänta på nästa notis."
 			]
 		},
@@ -1005,7 +1005,7 @@ export const PAGE_CONTENT = {
 			"hi": [
 				"नवीनतम स्टेटस नोट पढ़ें",
 				"समस्या हो तो सेटअप फॉलो करें",
-				"ऑर्डर ID के साथ support@narakacheats.org"
+				"ऑर्डर ID के साथ support@deadsidecheats.com"
 			],
 			"id": [
 				"Baca catatan status terbaru",
@@ -1137,182 +1137,182 @@ export const PAGE_CONTENT = {
 	"hacks": {
 		"0": {
 			"en": [
-				"Naraka cheats are third-party tools that give you extra information and combat assist during matches. Most players search for naraka cheats when they want player ESP, loot visibility, off-screen radar, or smoother aim under pressure.",
-				"Naraka Cheats bundles those tools in one license for Windows PC — no stacking separate downloads for wallhack, radar, and aimbot."
+				"Deadside cheats are third-party tools that give you extra information and combat assist during matches. Most players search for deadside cheats when they want player ESP, loot visibility, off-screen radar, or smoother aim under pressure.",
+				"Deadside Cheats bundles those tools in one license for Windows PC — no stacking separate downloads for wallhack, radar, and aimbot."
 			],
 			"es": [
-				"Los trucos de Naraka son herramientas de terceros que te dan información extra y asistencia en combate durante matches. La mayoría busca naraka cheats cuando quieren ESP de jugadores, visibilidad de loot, radar fuera de pantalla o puntería más suave bajo presión.",
-				"Naraka Cheats agrupa esas herramientas en una licencia para Windows PC — sin descargas separadas para wallhack, radar y aimbot."
+				"Los trucos de Deadside son herramientas de terceros que te dan información extra y asistencia en combate durante matches. La mayoría busca deadside cheats cuando quieren ESP de jugadores, visibilidad de loot, radar fuera de pantalla o puntería más suave bajo presión.",
+				"Deadside Cheats agrupa esas herramientas en una licencia para Windows PC — sin descargas separadas para wallhack, radar y aimbot."
 			],
 			"fr": [
-				"Les triches Naraka sont des outils tiers qui donnent des infos supplémentaires et une aide au combat pendant les matches. La plupart cherchent naraka cheats pour l'ESP joueurs, le loot, le radar hors écran ou une visée plus fluide sous pression.",
-				"Naraka Cheats regroupe ces outils dans une licence PC Windows — sans empiler wallhack, radar et aimbot séparément."
+				"Les triches Deadside sont des outils tiers qui donnent des infos supplémentaires et une aide au combat pendant les matches. La plupart cherchent deadside cheats pour l'ESP joueurs, le loot, le radar hors écran ou une visée plus fluide sous pression.",
+				"Deadside Cheats regroupe ces outils dans une licence PC Windows — sans empiler wallhack, radar et aimbot séparément."
 			],
 			"de": [
-				"Naraka Cheats sind Drittanbieter-Tools mit Extra-Infos und Kampfhilfe in matches. Die meisten suchen naraka cheats für Spieler-ESP, Loot-Sicht, Off-Screen-Radar oder sanfteres Zielen unter Druck.",
-				"Naraka Cheats bündelt diese Tools in einer Windows-PC-Lizenz — ohne separate Downloads für Wallhack, Radar und Aimbot."
+				"Deadside Cheats sind Drittanbieter-Tools mit Extra-Infos und Kampfhilfe in matches. Die meisten suchen deadside cheats für Spieler-ESP, Loot-Sicht, Off-Screen-Radar oder sanfteres Zielen unter Druck.",
+				"Deadside Cheats bündelt diese Tools in einer Windows-PC-Lizenz — ohne separate Downloads für Wallhack, Radar und Aimbot."
 			],
 			"pt": [
-				"Naraka cheats são ferramentas de terceiros que dão informação extra e assistência de combate em matches. A maioria procura naraka cheats por ESP de jogadores, loot, radar off-screen ou mira mais suave sob pressão.",
-				"Naraka Cheats reúne essas ferramentas numa licença Windows PC — sem empilhar wallhack, radar e aimbot separados."
+				"Deadside cheats são ferramentas de terceiros que dão informação extra e assistência de combate em matches. A maioria procura deadside cheats por ESP de jogadores, loot, radar off-screen ou mira mais suave sob pressão.",
+				"Deadside Cheats reúne essas ferramentas numa licença Windows PC — sem empilhar wallhack, radar e aimbot separados."
 			],
 			"it": [
-				"I cheat Naraka sono tool di terze parti che danno info extra e assistenza in combattimento durante i match. Molti cercano naraka cheats per ESP giocatori, loot, radar off-screen o mira più fluida sotto pressione.",
-				"Naraka Cheats raggruppa questi tool in una licenza Windows PC — senza download separati per wallhack, radar e aimbot."
+				"I cheat Deadside sono tool di terze parti che danno info extra e assistenza in combattimento durante i match. Molti cercano deadside cheats per ESP giocatori, loot, radar off-screen o mira più fluida sotto pressione.",
+				"Deadside Cheats raggruppa questi tool in una licenza Windows PC — senza download separati per wallhack, radar e aimbot."
 			],
 			"nl": [
-				"Naraka cheats zijn tools van derden met extra info en gevechtshulp tijdens matches. De meeste zoeken naraka cheats voor speler-ESP, loot, off-screen radar of soepeler richten onder druk.",
-				"Naraka Cheats bundelt die tools in één Windows PC-licentie — geen aparte wallhack-, radar- en aimbot-downloads."
+				"Deadside cheats zijn tools van derden met extra info en gevechtshulp tijdens matches. De meeste zoeken deadside cheats voor speler-ESP, loot, off-screen radar of soepeler richten onder druk.",
+				"Deadside Cheats bundelt die tools in één Windows PC-licentie — geen aparte wallhack-, radar- en aimbot-downloads."
 			],
 			"pl": [
-				"Naraka cheats to narzędzia firm trzecich dające dodatkowe info i wsparcie w walce podczas matchów. Większość szuka naraka cheats dla ESP graczy, lootu, radaru off-screen lub płynniejszego aimu pod presją.",
-				"Naraka Cheats łączy te narzędzia w jednej licencji na Windows PC — bez osobnych pobrań wallhack, radar i aimbot."
+				"Deadside cheats to narzędzia firm trzecich dające dodatkowe info i wsparcie w walce podczas matchów. Większość szuka deadside cheats dla ESP graczy, lootu, radaru off-screen lub płynniejszego aimu pod presją.",
+				"Deadside Cheats łączy te narzędzia w jednej licencji na Windows PC — bez osobnych pobrań wallhack, radar i aimbot."
 			],
 			"ru": [
-				"Naraka cheats — сторонние инструменты с доп. информацией и боевой помощью в рейдах. Ищут naraka cheats за ESP игроков, лут, off-screen radar или более плавный aim под давлением.",
-				"Naraka Cheats объединяет эти инструменты в одной лицензии для Windows PC — без отдельных загрузок wallhack, radar и aimbot."
+				"Deadside cheats — сторонние инструменты с доп. информацией и боевой помощью в рейдах. Ищут deadside cheats за ESP игроков, лут, off-screen radar или более плавный aim под давлением.",
+				"Deadside Cheats объединяет эти инструменты в одной лицензии для Windows PC — без отдельных загрузок wallhack, radar и aimbot."
 			],
 			"tr": [
-				"Naraka hileleri match sırasında ekstra bilgi ve savaş desteği veren üçüncü taraf araçlardır. Çoğu oyuncu ESP, loot, off-screen radar veya baskı altında daha yumuşak nişan için naraka cheats arar.",
-				"Naraka Cheats bu araçları Windows PC için tek lisans altında toplar — ayrı wallhack, radar ve aimbot indirmeleri yok."
+				"Deadside hileleri match sırasında ekstra bilgi ve savaş desteği veren üçüncü taraf araçlardır. Çoğu oyuncu ESP, loot, off-screen radar veya baskı altında daha yumuşak nişan için deadside cheats arar.",
+				"Deadside Cheats bu araçları Windows PC için tek lisans altında toplar — ayrı wallhack, radar ve aimbot indirmeleri yok."
 			],
 			"ar": [
-				"naraka cheats أدوات طرف ثالث تمنحك معلومات إضافية ومساعدة قتالية أثناء الraid. يبحث معظم اللاعبين عن naraka cheats لـ ESP اللاعبين والloot والradar خارج الشاشة أو تصويب أنعم تحت الضغط.",
-				"Naraka Cheats يجمع هذه الأدوات في ترخيص واحد لـ Windows PC — دون تحميلات منفصلة للwallhack والradar والaimbot."
+				"deadside cheats أدوات طرف ثالث تمنحك معلومات إضافية ومساعدة قتالية أثناء الraid. يبحث معظم اللاعبين عن deadside cheats لـ ESP اللاعبين والloot والradar خارج الشاشة أو تصويب أنعم تحت الضغط.",
+				"Deadside Cheats يجمع هذه الأدوات في ترخيص واحد لـ Windows PC — دون تحميلات منفصلة للwallhack والradar والaimbot."
 			],
 			"ja": [
-				"Narakaチートはレイド中に追加情報と戦闘支援を提供するサードパーティツールです。プレイヤーESP、loot、オフスクリーンradar、プレッシャー下でのスムーズなエイム目的でnaraka cheatsを探す人が多いです。",
-				"Naraka Cheatsはwallhack、radar、aimbotをWindows PC向け1ライセンスにまとめます — 個別ダウンロード不要。"
+				"Deadsideチートはレイド中に追加情報と戦闘支援を提供するサードパーティツールです。プレイヤーESP、loot、オフスクリーンradar、プレッシャー下でのスムーズなエイム目的でdeadside cheatsを探す人が多いです。",
+				"Deadside Cheatsはwallhack、radar、aimbotをWindows PC向け1ライセンスにまとめます — 個別ダウンロード不要。"
 			],
 			"ko": [
-				"Naraka 치트는 레이드 중 추가 정보와 전투 보조를 제공하는 서드파티 도구입니다. 플레이어 ESP, loot, off-screen radar, 압박 상황에서 부드러운 에임을 위해 naraka cheats를 찾습니다.",
-				"Naraka Cheats는 wallhack, radar, aimbot을 Windows PC 단일 라이선스로 묶습니다 — 별도 다운로드 불필요."
+				"Deadside 치트는 레이드 중 추가 정보와 전투 보조를 제공하는 서드파티 도구입니다. 플레이어 ESP, loot, off-screen radar, 압박 상황에서 부드러운 에임을 위해 deadside cheats를 찾습니다.",
+				"Deadside Cheats는 wallhack, radar, aimbot을 Windows PC 단일 라이선스로 묶습니다 — 별도 다운로드 불필요."
 			],
 			"zh": [
-				"Naraka cheats 是第三方工具，在 match 中提供额外信息和战斗辅助。多数玩家为玩家 ESP、物资可见、屏幕外 radar 或高压下更稳的瞄准而搜索 naraka cheats。",
-				"Naraka Cheats 将这些工具整合为 Windows PC 单一许可证 — 无需分别下载 wallhack、radar 和 aimbot。"
+				"Deadside cheats 是第三方工具，在 match 中提供额外信息和战斗辅助。多数玩家为玩家 ESP、物资可见、屏幕外 radar 或高压下更稳的瞄准而搜索 deadside cheats。",
+				"Deadside Cheats 将这些工具整合为 Windows PC 单一许可证 — 无需分别下载 wallhack、radar 和 aimbot。"
 			],
 			"hi": [
-				"Naraka cheats तीसरे पक्ष के टूल हैं जो match में अतिरिक्त जानकारी और combat assist देते हैं। ज़्यादातर player ESP, loot visibility, off-screen radar या दबाव में smoother aim के लिए naraka cheats खोजते हैं।",
-				"Naraka Cheats इन टूल को Windows PC की एक लाइसेंस में बंडल करता है — अलग wallhack, radar, aimbot डाउनलोड नहीं।"
+				"Deadside cheats तीसरे पक्ष के टूल हैं जो match में अतिरिक्त जानकारी और combat assist देते हैं। ज़्यादातर player ESP, loot visibility, off-screen radar या दबाव में smoother aim के लिए deadside cheats खोजते हैं।",
+				"Deadside Cheats इन टूल को Windows PC की एक लाइसेंस में बंडल करता है — अलग wallhack, radar, aimbot डाउनलोड नहीं।"
 			],
 			"id": [
-				"Naraka cheats adalah alat pihak ketiga yang memberi info ekstra dan bantuan tempur saat match. Kebanyakan mencari naraka cheats untuk ESP pemain, loot, radar off-screen, atau aim lebih halus under pressure.",
-				"Naraka Cheats menggabungkan alat tersebut dalam satu lisensi Windows PC — tanpa unduhan terpisah wallhack, radar, aimbot."
+				"Deadside cheats adalah alat pihak ketiga yang memberi info ekstra dan bantuan tempur saat match. Kebanyakan mencari deadside cheats untuk ESP pemain, loot, radar off-screen, atau aim lebih halus under pressure.",
+				"Deadside Cheats menggabungkan alat tersebut dalam satu lisensi Windows PC — tanpa unduhan terpisah wallhack, radar, aimbot."
 			],
 			"th": [
-				"Naraka cheats เป็นเครื่องมือบุคคลที่สามที่ให้ข้อมูลเพิ่มและช่วยต่อสู้ระหว่าง match ผู้เล่นส่วนใหญ่ค้นหา naraka cheats เพื่อ ESP ผู้เล่น loot radar นอกจอ หรือ aim ที่นุ่มนวลภายใต้ความกดดัน",
-				"Naraka Cheats รวมเครื่องมือเหล่านี้ในใบอนุญาต Windows PC เดียว — ไม่ต้องดาวน์โหลด wallhack radar aimbot แยก"
+				"Deadside cheats เป็นเครื่องมือบุคคลที่สามที่ให้ข้อมูลเพิ่มและช่วยต่อสู้ระหว่าง match ผู้เล่นส่วนใหญ่ค้นหา deadside cheats เพื่อ ESP ผู้เล่น loot radar นอกจอ หรือ aim ที่นุ่มนวลภายใต้ความกดดัน",
+				"Deadside Cheats รวมเครื่องมือเหล่านี้ในใบอนุญาต Windows PC เดียว — ไม่ต้องดาวน์โหลด wallhack radar aimbot แยก"
 			],
 			"vi": [
-				"Naraka cheats là công cụ bên thứ ba cung cấp thông tin thêm và hỗ trợ chiến đấu khi match. Nhiều người tìm naraka cheats cho ESP người chơi, loot, radar ngoài màn hình hoặc aim mượt hơn dưới áp lực.",
-				"Naraka Cheats gom các công cụ trong một giấy phép Windows PC — không cần tải riêng wallhack, radar, aimbot."
+				"Deadside cheats là công cụ bên thứ ba cung cấp thông tin thêm và hỗ trợ chiến đấu khi match. Nhiều người tìm deadside cheats cho ESP người chơi, loot, radar ngoài màn hình hoặc aim mượt hơn dưới áp lực.",
+				"Deadside Cheats gom các công cụ trong một giấy phép Windows PC — không cần tải riêng wallhack, radar, aimbot."
 			],
 			"uk": [
-				"Naraka cheats — сторонні інструменти з додатковою інформацією та боєвою допомогою під час match. Шукають naraka cheats за ESP гравців, loot, off-screen radar або плавніший aim під тиском.",
-				"Naraka Cheats об’єднує ці інструменти в одній ліцензії для Windows PC — без окремих завантажень wallhack, radar і aimbot."
+				"Deadside cheats — сторонні інструменти з додатковою інформацією та боєвою допомогою під час match. Шукають deadside cheats за ESP гравців, loot, off-screen radar або плавніший aim під тиском.",
+				"Deadside Cheats об’єднує ці інструменти в одній ліцензії для Windows PC — без окремих завантажень wallhack, radar і aimbot."
 			],
 			"cs": [
-				"Naraka cheaty jsou nástroje třetích stran s extra informacemi a bojovou asistencí při matchech. Většina hledá naraka cheats pro ESP hráčů, loot, off-screen radar nebo plynulejší aim pod tlakem.",
-				"Naraka Cheats spojuje tyto nástroje v jedné licenci pro Windows PC — bez samostatných downloadů wallhack, radar a aimbot."
+				"Deadside cheaty jsou nástroje třetích stran s extra informacemi a bojovou asistencí při matchech. Většina hledá deadside cheats pro ESP hráčů, loot, off-screen radar nebo plynulejší aim pod tlakem.",
+				"Deadside Cheats spojuje tyto nástroje v jedné licenci pro Windows PC — bez samostatných downloadů wallhack, radar a aimbot."
 			],
 			"ro": [
-				"Naraka cheats sunt tool-uri terțe care oferă info extra și asistență de luptă în match-uri. Majoritatea caută naraka cheats pentru ESP jucători, loot, radar off-screen sau aim mai lin sub presiune.",
-				"Naraka Cheats grupează aceste tool-uri într-o licență Windows PC — fără descărcări separate wallhack, radar, aimbot."
+				"Deadside cheats sunt tool-uri terțe care oferă info extra și asistență de luptă în match-uri. Majoritatea caută deadside cheats pentru ESP jucători, loot, radar off-screen sau aim mai lin sub presiune.",
+				"Deadside Cheats grupează aceste tool-uri într-o licență Windows PC — fără descărcări separate wallhack, radar, aimbot."
 			],
 			"sv": [
-				"Naraka cheats är tredjepartsverktyg med extra info och stridsassistans under matches. De flesta söker naraka cheats för spelar-ESP, loot, off-screen radar eller mjukare sikte under press.",
-				"Naraka Cheats buntar ihop dessa verktyg i en Windows PC-licens — inga separata nedladdningar för wallhack, radar och aimbot."
+				"Deadside cheats är tredjepartsverktyg med extra info och stridsassistans under matches. De flesta söker deadside cheats för spelar-ESP, loot, off-screen radar eller mjukare sikte under press.",
+				"Deadside Cheats buntar ihop dessa verktyg i en Windows PC-licens — inga separata nedladdningar för wallhack, radar och aimbot."
 			]
 		},
 		"1": {
 			"en": [
-				"One license covers the full match stack: player ESP with distance, hero markers, 2D radar for flanks, and configurable soft aim profiles per weapon.",
-				"Monthly and lifetime plans include the same feature stack with NEAC rebuilds."
+				"One license covers the full match stack: player ESP with distance, loot markers, 2D radar for flanks, and configurable soft aim profiles per weapon.",
+				"Monthly and lifetime plans include the same feature stack with BattlEye rebuilds."
 			],
 			"es": [
 				"Una licencia cubre el stack completo de match: ESP de jugadores con distancia, marcadores de héroe, radar 2D para flancos y perfiles soft aim configurables por arma.",
-				"Los planes mensual y de por vida incluyen el mismo stack de funciones con rebuilds NEAC."
+				"Los planes mensual y de por vida incluyen el mismo stack de funciones con rebuilds BattlEye."
 			],
 			"fr": [
 				"Une licence couvre la stack match complète : ESP joueurs avec distance, marqueurs de héros, radar 2D pour les flancs et profils soft aim configurables par arme.",
-				"Les formules mensuelle et à vie incluent la même stack de fonctionnalités avec rebuilds NEAC."
+				"Les formules mensuelle et à vie incluent la même stack de fonctionnalités avec rebuilds BattlEye."
 			],
 			"de": [
 				"Eine Lizenz deckt den kompletten Match-Stack ab: Spieler-ESP mit Distanz, Helden-Marker, 2D-Radar für Flanken und konfigurierbare Soft-Aim-Profile pro Waffe.",
-				"Monats- und Lifetime-Pläne enthalten denselben Feature-Stack mit NEAC-Rebuilds."
+				"Monats- und Lifetime-Pläne enthalten denselben Feature-Stack mit BattlEye-Rebuilds."
 			],
 			"pt": [
 				"Uma licença cobre a stack completa de match: ESP de jogadores com distância, marcadores de herói, radar 2D para flancos e perfis soft aim configuráveis por arma.",
-				"Planos mensais e vitalícios incluem o mesmo stack de recursos com rebuilds NEAC."
+				"Planos mensais e vitalícios incluem o mesmo stack de recursos com rebuilds BattlEye."
 			],
 			"it": [
 				"Una licenza copre lo stack match completo: ESP giocatori con distanza, marker eroe, radar 2D per i fianchi e profili soft aim configurabili per arma.",
-				"I piani mensili e lifetime includono lo stesso stack di funzioni con rebuild NEAC."
+				"I piani mensili e lifetime includono lo stesso stack di funzioni con rebuild BattlEye."
 			],
 			"nl": [
 				"Eén licentie dekt de volledige match-stack: speler-ESP met afstand, hero-markers, 2D-radar voor flanks en configureerbare soft aim-profielen per wapen.",
-				"Maand- en lifetime-plannen bevatten dezelfde feature-stack met NEAC-rebuilds."
+				"Maand- en lifetime-plannen bevatten dezelfde feature-stack met BattlEye-rebuilds."
 			],
 			"pl": [
 				"Jedna licencja obejmuje pełny stack match: ESP graczy z dystansem, markery bohaterów, radar 2D na flanki i konfigurowalne profile soft aim na broń.",
-				"Plany miesięczne i lifetime obejmują ten sam stack funkcji z rebuildami NEAC."
+				"Plany miesięczne i lifetime obejmują ten sam stack funkcji z rebuildami BattlEye."
 			],
 			"ru": [
 				"Одна лицензия покрывает полный match-стек: ESP игроков с дистанцией, маркеры героев, 2D radar для флангов и настраиваемые soft aim профили по оружию.",
-				"Месячные и lifetime-планы включают тот же набор функций с NEAC rebuilds."
+				"Месячные и lifetime-планы включают тот же набор функций с BattlEye rebuilds."
 			],
 			"tr": [
 				"Tek lisans tam match yığınını kapsar: mesafeli oyuncu ESP, kahraman işaretleri, kanat için 2D radar ve silah başına yapılandırılabilir soft aim profilleri.",
-				"Aylık ve lifetime planlar aynı özellik yığınını NEAC rebuilds ile içerir."
+				"Aylık ve lifetime planlar aynı özellik yığınını BattlEye rebuilds ile içerir."
 			],
 			"ar": [
 				"ترخيص واحد يغطي stack المباراة الكامل: ESP للاعبين مع المسافة وعلامات الأبطال وradar 2D للمناورات وملفات soft aim قابلة للضبط لكل سلاح.",
-				"تتضمن خطط الشهرية ومدى الحياة نفس مجموعة الميزات مع NEAC rebuilds."
+				"تتضمن خطط الشهرية ومدى الحياة نفس مجموعة الميزات مع BattlEye rebuilds."
 			],
 			"ja": [
 				"1ライセンスでフル match stack をカバー: 距離付きプレイヤーESP、ヒーローマーカー、側面用2D radar、武器別soft aimプロファイル。",
-				"月額とライフタイムプランは同じ機能 stack を NEAC rebuilds 付きで含みます。"
+				"月額とライフタイムプランは同じ機能 stack を BattlEye rebuilds 付きで含みます。"
 			],
 			"ko": [
 				"하나의 라이선스로 전체 match stack: 거리 표시 플레이어 ESP, 영웅 마커, 측면 2D radar, 무기별 soft aim 프로필.",
-				"월간 및 lifetime 플랜은 NEAC rebuilds가 포함된 동일한 기능 stack을 제공합니다."
+				"월간 및 lifetime 플랜은 BattlEye rebuilds가 포함된 동일한 기능 stack을 제공합니다."
 			],
 			"zh": [
 				"一份许可证覆盖完整 match 套件：带距离的玩家 ESP、英雄标记、侧翼 2D radar 和按武器可调的 soft aim 配置。",
-				"月付和终身计划包含相同功能 stack，并提供 NEAC rebuilds。"
+				"月付和终身计划包含相同功能 stack，并提供 BattlEye rebuilds。"
 			],
 			"hi": [
-				"एक लाइसेंस पूरा match stack कवर करता है: दूरी के साथ player ESP, hero markers, flanks के लिए 2D radar, और प्रति हथियार soft aim profiles।",
-				"Monthly और lifetime plans में NEAC rebuilds के साथ same feature stack शामिल है।"
+				"एक लाइसेंस पूरा match stack कवर करता है: दूरी के साथ player ESP, loot markers, flanks के लिए 2D radar, और प्रति हथियार soft aim profiles।",
+				"Monthly और lifetime plans में BattlEye rebuilds के साथ same feature stack शामिल है।"
 			],
 			"id": [
 				"Satu lisensi mencakup stack match lengkap: ESP pemain dengan jarak, marker hero, radar 2D untuk flank, dan profil soft aim per senjata.",
-				"Paket bulanan dan lifetime mencakup stack fitur yang sama dengan NEAC rebuilds."
+				"Paket bulanan dan lifetime mencakup stack fitur yang sama dengan BattlEye rebuilds."
 			],
 			"th": [
 				"ใบอนุญาตเดียวครอบคลุม match stack เต็ม: ESP ผู้เล่นพร้อมระยะ มาร์กเกอร์ฮีโร่ radar 2D สำหรับ flank และโปรไฟล์ soft aim ต่ออาวุธ",
-				"แผนรายเดือนและตลอดชีพรวม feature stack เดียวกันพร้อม NEAC rebuilds"
+				"แผนรายเดือนและตลอดชีพรวม feature stack เดียวกันพร้อม BattlEye rebuilds"
 			],
 			"vi": [
 				"Một giấy phép bao trùm stack match đầy đủ: ESP người chơi kèm khoảng cách, marker tướng, radar 2D cho flank, profile soft aim theo vũ khí.",
-				"Gói tháng và lifetime bao gồm cùng feature stack với NEAC rebuilds."
+				"Gói tháng và lifetime bao gồm cùng feature stack với BattlEye rebuilds."
 			],
 			"uk": [
 				"Одна ліцензія покриває повний match stack: ESP гравців з дистанцією, маркери героїв, 2D radar для флангів і профілі soft aim на зброю.",
-				"Місячні та lifetime тарифи включають той самий feature stack з NEAC rebuilds."
+				"Місячні та lifetime тарифи включають той самий feature stack з BattlEye rebuilds."
 			],
 			"cs": [
 				"Jedna licence pokrývá celý match stack: ESP hráčů s distancí, hero markery, 2D radar pro flanky a konfigurovatelné soft aim profily na zbraň.",
-				"Měsíční i lifetime plány obsahují stejný feature stack s NEAC rebuilds."
+				"Měsíční i lifetime plány obsahují stejný feature stack s BattlEye rebuilds."
 			],
 			"ro": [
 				"O licență acoperă stack-ul complet de match: ESP jucători cu distanță, markeri eroi, radar 2D pentru flancuri și profile soft aim per armă.",
-				"Planurile lunare și lifetime includ același feature stack cu NEAC rebuilds."
+				"Planurile lunare și lifetime includ același feature stack cu BattlEye rebuilds."
 			],
 			"sv": [
 				"En licens täcker hela match-stacken: spelar-ESP med avstånd, hjältemarkörer, 2D-radar för flanker och konfigurerbara soft aim-profiler per vapen.",
-				"Månads- och lifetime-planer inkluderar samma feature stack med NEAC rebuilds."
+				"Månads- och lifetime-planer inkluderar samma feature stack med BattlEye rebuilds."
 			]
 		},
 		"2": {
@@ -1386,71 +1386,71 @@ export const PAGE_CONTENT = {
 		},
 		"3": {
 			"en": [
-				"Naraka uses NEAC. No cheat stays undetected forever — maintenance after patches is what matters. Check the Status page after every Naraka or NEAC update before you load in.",
-				"Read the undetected cheats guide and NEAC maintenance notes for the full workflow."
+				"Deadside uses BattlEye. No cheat stays undetected forever — maintenance after patches is what matters. Check the Status page after every Deadside or BattlEye update before you load in.",
+				"Read the undetected cheats guide and BattlEye maintenance notes for the full workflow."
 			],
 			"es": [
-				"Naraka usa NEAC. Ningún cheat permanece indetectable para siempre — lo importante es el mantenimiento tras parches. Revisa la página de Estado tras cada actualización de Naraka o NEAC antes de entrar."
+				"Deadside usa BattlEye. Ningún cheat permanece indetectable para siempre — lo importante es el mantenimiento tras parches. Revisa la página de Estado tras cada actualización de Deadside o BattlEye antes de entrar."
 			],
 			"fr": [
-				"Naraka utilise NEAC. Aucune triche ne reste indétectable éternellement — la maintenance après patchs compte. Consultez la page Statut après chaque mise à jour Naraka ou NEAC avant de jouer."
+				"Deadside utilise BattlEye. Aucune triche ne reste indétectable éternellement — la maintenance après patchs compte. Consultez la page Statut après chaque mise à jour Deadside ou BattlEye avant de jouer."
 			],
 			"de": [
-				"Naraka nutzt NEAC. Kein Cheat bleibt für immer undetected — Wartung nach Patches zählt. Prüfe die Status-Seite nach jedem Naraka- oder NEAC-Update vor dem Spielen."
+				"Deadside nutzt BattlEye. Kein Cheat bleibt für immer undetected — Wartung nach Patches zählt. Prüfe die Status-Seite nach jedem Deadside- oder BattlEye-Update vor dem Spielen."
 			],
 			"pt": [
-				"Naraka usa NEAC. Nenhum cheat fica indetectável para sempre — manutenção após patches importa. Verifique a página Status após cada update Naraka ou NEAC antes de entrar."
+				"Deadside usa BattlEye. Nenhum cheat fica indetectável para sempre — manutenção após patches importa. Verifique a página Status após cada update Deadside ou BattlEye antes de entrar."
 			],
 			"it": [
-				"Naraka usa NEAC. Nessun cheat resta indetectable per sempre — conta la manutenzione post-patch. Controlla la pagina Stato dopo ogni update Naraka o NEAC prima di giocare."
+				"Deadside usa BattlEye. Nessun cheat resta indetectable per sempre — conta la manutenzione post-patch. Controlla la pagina Stato dopo ogni update Deadside o BattlEye prima di giocare."
 			],
 			"nl": [
-				"Naraka gebruikt NEAC. Geen cheat blijft voor altijd undetected — onderhoud na patches telt. Check de Status-pagina na elke Naraka- of EAC-update vóór je speelt."
+				"Deadside gebruikt BattlEye. Geen cheat blijft voor altijd undetected — onderhoud na patches telt. Check de Status-pagina na elke Deadside- of EAC-update vóór je speelt."
 			],
 			"pl": [
-				"Naraka używa NEAC. Żaden cheat nie jest undetected na zawsze — liczy się konserwacja po patchach. Sprawdź stronę Status po każdej aktualizacji Naraka lub EAC przed grą."
+				"Deadside używa BattlEye. Żaden cheat nie jest undetected na zawsze — liczy się konserwacja po patchach. Sprawdź stronę Status po każdej aktualizacji Deadside lub EAC przed grą."
 			],
 			"ru": [
-				"Naraka использует NEAC. Ни один чит не undetected навсегда — важно обслуживание после патчей. Проверяйте страницу Статус после каждого обновления Naraka или NEAC перед игрой."
+				"Deadside использует BattlEye. Ни один чит не undetected навсегда — важно обслуживание после патчей. Проверяйте страницу Статус после каждого обновления Deadside или BattlEye перед игрой."
 			],
 			"tr": [
-				"Naraka NEAC kullanır. Hiçbir hile sonsuza kadar undetected kalmaz — yama sonrası bakım önemlidir. Oyuna girmeden önce her Naraka veya NEAC güncellemesinden sonra Durum sayfasını kontrol edin."
+				"Deadside BattlEye kullanır. Hiçbir hile sonsuza kadar undetected kalmaz — yama sonrası bakım önemlidir. Oyuna girmeden önce her Deadside veya BattlEye güncellemesinden sonra Durum sayfasını kontrol edin."
 			],
 			"ar": [
-				"Naraka يستخدم NEAC. لا يبقى أي cheat غير مكتشف للأبد — الصيانة بعد التصحيحات هي المهم. تحقق من صفحة الحالة بعد كل تحديث Naraka أو EAC قبل الدخول."
+				"Deadside يستخدم BattlEye. لا يبقى أي cheat غير مكتشف للأبد — الصيانة بعد التصحيحات هي المهم. تحقق من صفحة الحالة بعد كل تحديث Deadside أو EAC قبل الدخول."
 			],
 			"ja": [
-				"NarakaはNEACを使用。チートは永久にundetectedではありません — パッチ後のメンテナンスが重要です。プレイ前にNarakaまたはNEAC更新後はステータスページを確認してください。"
+				"DeadsideはBattlEyeを使用。チートは永久にundetectedではありません — パッチ後のメンテナンスが重要です。プレイ前にDeadsideまたはBattlEye更新後はステータスページを確認してください。"
 			],
 			"ko": [
-				"Naraka는 NEAC를 사용합니다. 치트는 영원히 undetected가 아닙니다 — 패치 후 유지보수가 중요합니다. 접속 전 Naraka 또는 NEAC 업데이트마다 상태 페이지를 확인하세요."
+				"Deadside는 BattlEye를 사용합니다. 치트는 영원히 undetected가 아닙니다 — 패치 후 유지보수가 중요합니다. 접속 전 Deadside 또는 BattlEye 업데이트마다 상태 페이지를 확인하세요."
 			],
 			"zh": [
-				"Naraka 使用 NEAC。没有作弊能永远 undetected — 补丁后维护才是关键。每次 Naraka 或 NEAC 更新后、进游戏前先查状态页。"
+				"Deadside 使用 BattlEye。没有作弊能永远 undetected — 补丁后维护才是关键。每次 Deadside 或 BattlEye 更新后、进游戏前先查状态页。"
 			],
 			"hi": [
-				"Naraka NEAC उपयोग करता है। कोई cheat हमेशा undetected नहीं रहता — पैच के बाद maintenance मायने रखती है। खेलने से पहले हर Naraka या NEAC अपडेट के बाद Status पेज देखें।"
+				"Deadside BattlEye उपयोग करता है। कोई cheat हमेशा undetected नहीं रहता — पैच के बाद maintenance मायने रखती है। खेलने से पहले हर Deadside या BattlEye अपडेट के बाद Status पेज देखें।"
 			],
 			"id": [
-				"Naraka memakai NEAC. Tidak ada cheat undetected selamanya — pemeliharaan setelah patch yang penting. Cek halaman Status setelah setiap update Naraka atau NEAC sebelum main."
+				"Deadside memakai BattlEye. Tidak ada cheat undetected selamanya — pemeliharaan setelah patch yang penting. Cek halaman Status setelah setiap update Deadside atau BattlEye sebelum main."
 			],
 			"th": [
-				"Naraka ใช้ NEAC ไม่มี cheat undetected ตลอดไป — การดูแลหลังแพตช์สำคัญ ตรวจหน้าสถานะหลังอัปเดต Naraka หรือ NEAC ก่อนเข้าเกม"
+				"Deadside ใช้ BattlEye ไม่มี cheat undetected ตลอดไป — การดูแลหลังแพตช์สำคัญ ตรวจหน้าสถานะหลังอัปเดต Deadside หรือ BattlEye ก่อนเข้าเกม"
 			],
 			"vi": [
-				"Naraka dùng NEAC. Không cheat nào undetected mãi — bảo trì sau bản vá mới quan trọng. Kiểm tra trang Trạng thái sau mỗi cập nhật Naraka hoặc NEAC trước khi vào game."
+				"Deadside dùng BattlEye. Không cheat nào undetected mãi — bảo trì sau bản vá mới quan trọng. Kiểm tra trang Trạng thái sau mỗi cập nhật Deadside hoặc BattlEye trước khi vào game."
 			],
 			"uk": [
-				"Naraka використовує NEAC. Жоден чит не undetected назавжди — важливе обслуговування після патчів. Перевіряйте сторінку Статус після кожного оновлення Naraka або EAC перед грою."
+				"Deadside використовує BattlEye. Жоден чит не undetected назавжди — важливе обслуговування після патчів. Перевіряйте сторінку Статус після кожного оновлення Deadside або EAC перед грою."
 			],
 			"cs": [
-				"Naraka používá NEAC. Žádný cheat není undetected navždy — záleží na údržbě po patchi. Před hrou zkontrolujte stránku Stav po každé aktualizaci Naraka nebo EAC."
+				"Deadside používá BattlEye. Žádný cheat není undetected navždy — záleží na údržbě po patchi. Před hrou zkontrolujte stránku Stav po každé aktualizaci Deadside nebo EAC."
 			],
 			"ro": [
-				"Naraka folosește NEAC. Niciun cheat nu rămâne undetected pentru totdeauna — mentenanța după patch contează. Verifică pagina Status după fiecare update Naraka sau EAC înainte de joc."
+				"Deadside folosește BattlEye. Niciun cheat nu rămâne undetected pentru totdeauna — mentenanța după patch contează. Verifică pagina Status după fiecare update Deadside sau EAC înainte de joc."
 			],
 			"sv": [
-				"Naraka använder NEAC. Ingen cheat förblir undetected för evigt — underhåll efter patchar räknas. Kontrollera Status-sidan efter varje Naraka- eller EAC-uppdatering före spel."
+				"Deadside använder BattlEye. Ingen cheat förblir undetected för evigt — underhåll efter patchar räknas. Kontrollera Status-sidan efter varje Deadside- eller EAC-uppdatering före spel."
 			]
 		},
 		"4": {
@@ -1524,70 +1524,70 @@ export const PAGE_CONTENT = {
 		},
 		"intro": {
 			"en": [
-				"Naraka cheats add ESP, radar, and soft aim on top of the base game. This page explains what naraka cheats are, what Naraka Cheats includes, how NEAC maintenance works, and where to go next before you buy."
+				"Deadside cheats add ESP, radar, and soft aim on top of the base game. This page explains what deadside cheats are, what Deadside Cheats includes, how BattlEye maintenance works, and where to go next before you buy."
 			],
 			"es": [
-				"Los trucos de Naraka añaden ESP, radar y soft aim sobre el juego base. Esta página explica qué son los naraka cheats, qué incluye Naraka Cheats, cómo funciona el mantenimiento de NEAC y dónde ir antes de comprar."
+				"Los trucos de Deadside añaden ESP, radar y soft aim sobre el juego base. Esta página explica qué son los deadside cheats, qué incluye Deadside Cheats, cómo funciona el mantenimiento de BattlEye y dónde ir antes de comprar."
 			],
 			"fr": [
-				"Les triches Naraka ajoutent ESP, radar et soft aim au jeu de base. Cette page explique ce que sont les naraka cheats, ce que Naraka Cheats inclut, la maintenance NEAC et où aller avant d'acheter."
+				"Les triches Deadside ajoutent ESP, radar et soft aim au jeu de base. Cette page explique ce que sont les deadside cheats, ce que Deadside Cheats inclut, la maintenance BattlEye et où aller avant d'acheter."
 			],
 			"de": [
-				"Naraka Cheats fügen ESP, Radar und Soft Aim zum Basisspiel hinzu. Diese Seite erklärt naraka cheats, den Naraka Cheats-Umfang, NEAC-Wartung und nächste Schritte vor dem Kauf."
+				"Deadside Cheats fügen ESP, Radar und Soft Aim zum Basisspiel hinzu. Diese Seite erklärt deadside cheats, den Deadside Cheats-Umfang, BattlEye-Wartung und nächste Schritte vor dem Kauf."
 			],
 			"pt": [
-				"Naraka cheats adicionam ESP, radar e soft aim ao jogo base. Esta página explica o que são naraka cheats, o que o Naraka Cheats inclui, manutenção NEAC e próximos passos antes de comprar."
+				"Deadside cheats adicionam ESP, radar e soft aim ao jogo base. Esta página explica o que são deadside cheats, o que o Deadside Cheats inclui, manutenção BattlEye e próximos passos antes de comprar."
 			],
 			"it": [
-				"I cheat Naraka aggiungono ESP, radar e soft aim al gioco base. Questa pagina spiega cosa sono i naraka cheats, cosa include Naraka Cheats, manutenzione NEAC e dove andare prima dell'acquisto."
+				"I cheat Deadside aggiungono ESP, radar e soft aim al gioco base. Questa pagina spiega cosa sono i deadside cheats, cosa include Deadside Cheats, manutenzione BattlEye e dove andare prima dell'acquisto."
 			],
 			"nl": [
-				"Naraka cheats voegen ESP, radar en soft aim toe aan het basisspel. Deze pagina legt uit wat naraka cheats zijn, wat Naraka Cheats bevat, NEAC-onderhoud en volgende stappen vóór aankoop."
+				"Deadside cheats voegen ESP, radar en soft aim toe aan het basisspel. Deze pagina legt uit wat deadside cheats zijn, wat Deadside Cheats bevat, BattlEye-onderhoud en volgende stappen vóór aankoop."
 			],
 			"pl": [
-				"Naraka cheats dodają ESP, radar i soft aim do gry bazowej. Ta strona wyjaśnia czym są naraka cheats, co zawiera Naraka Cheats, konserwację NEAC i co dalej przed zakupem."
+				"Deadside cheats dodają ESP, radar i soft aim do gry bazowej. Ta strona wyjaśnia czym są deadside cheats, co zawiera Deadside Cheats, konserwację BattlEye i co dalej przed zakupem."
 			],
 			"ru": [
-				"Naraka cheats добавляют ESP, radar и soft aim к базовой игре. Эта страница объясняет что такое naraka cheats, что входит в Naraka Cheats, обслуживание NEAC и куда идти перед покупкой."
+				"Deadside cheats добавляют ESP, radar и soft aim к базовой игре. Эта страница объясняет что такое deadside cheats, что входит в Deadside Cheats, обслуживание BattlEye и куда идти перед покупкой."
 			],
 			"tr": [
-				"Naraka hileleri temel oyuna ESP, radar ve soft aim ekler. Bu sayfa naraka cheats nedir, Naraka Cheats neleri içerir, NEAC bakımı ve satın almadan önce nereye gidileceğini açıklar."
+				"Deadside hileleri temel oyuna ESP, radar ve soft aim ekler. Bu sayfa deadside cheats nedir, Deadside Cheats neleri içerir, BattlEye bakımı ve satın almadan önce nereye gidileceğini açıklar."
 			],
 			"ar": [
-				"تضيف naraka cheats الـ ESP والرادار وsoft aim فوق اللعبة الأساسية. تشرح هذه الصفحة ما هي naraka cheats وما يتضمنه Naraka Cheats وصيانة NEAC وأين تذهب قبل الشراء."
+				"تضيف deadside cheats الـ ESP والرادار وsoft aim فوق اللعبة الأساسية. تشرح هذه الصفحة ما هي deadside cheats وما يتضمنه Deadside Cheats وصيانة BattlEye وأين تذهب قبل الشراء."
 			],
 			"ja": [
-				"NarakaチートはベースゲームにESP、radar、soft aimを追加します。このページではnaraka cheatsの概要、Naraka Cheatsの内容、NEACメンテナンス、購入前の確認先を説明します。"
+				"DeadsideチートはベースゲームにESP、radar、soft aimを追加します。このページではdeadside cheatsの概要、Deadside Cheatsの内容、BattlEyeメンテナンス、購入前の確認先を説明します。"
 			],
 			"ko": [
-				"Naraka 치트는 기본 게임 위에 ESP, radar, soft aim을 추가합니다. 이 페이지는 naraka cheats란, Naraka Cheats 포함 사항, NEAC 유지보수, 구매 전 확인할 곳을 설명합니다."
+				"Deadside 치트는 기본 게임 위에 ESP, radar, soft aim을 추가합니다. 이 페이지는 deadside cheats란, Deadside Cheats 포함 사항, BattlEye 유지보수, 구매 전 확인할 곳을 설명합니다."
 			],
 			"zh": [
-				"Naraka cheats 在基础游戏上添加 ESP、radar 和 soft aim。本页说明什么是 naraka cheats、Naraka Cheats 包含什么、NEAC 维护以及购买前该看哪里。"
+				"Deadside cheats 在基础游戏上添加 ESP、radar 和 soft aim。本页说明什么是 deadside cheats、Deadside Cheats 包含什么、BattlEye 维护以及购买前该看哪里。"
 			],
 			"hi": [
-				"Naraka cheats बेस गेम पर ESP, radar और soft aim जोड़ते हैं। यह पेज बताता है naraka cheats क्या हैं, Naraka Cheats में क्या है, NEAC रखरखाव और खरीद से पहले कहाँ जाएँ।"
+				"Deadside cheats बेस गेम पर ESP, radar और soft aim जोड़ते हैं। यह पेज बताता है deadside cheats क्या हैं, Deadside Cheats में क्या है, BattlEye रखरखाव और खरीद से पहले कहाँ जाएँ।"
 			],
 			"id": [
-				"Naraka cheats menambahkan ESP, radar, dan soft aim di atas game dasar. Halaman ini menjelaskan apa itu naraka cheats, apa yang termasuk Naraka Cheats, pemeliharaan NEAC, dan langkah sebelum membeli."
+				"Deadside cheats menambahkan ESP, radar, dan soft aim di atas game dasar. Halaman ini menjelaskan apa itu deadside cheats, apa yang termasuk Deadside Cheats, pemeliharaan BattlEye, dan langkah sebelum membeli."
 			],
 			"th": [
-				"Naraka cheats เพิ่ม ESP, radar และ soft aim บนเกมหลัก หน้านี้อธิบาย naraka cheats คืออะไร Naraka Cheats รวมอะไร การดูแล NEAC และขั้นตอนก่อนซื้อ"
+				"Deadside cheats เพิ่ม ESP, radar และ soft aim บนเกมหลัก หน้านี้อธิบาย deadside cheats คืออะไร Deadside Cheats รวมอะไร การดูแล BattlEye และขั้นตอนก่อนซื้อ"
 			],
 			"vi": [
-				"Naraka cheats thêm ESP, radar và soft aim lên game gốc. Trang này giải thích naraka cheats là gì, Naraka Cheats gồm gì, bảo trì NEAC và bước tiếp theo trước khi mua."
+				"Deadside cheats thêm ESP, radar và soft aim lên game gốc. Trang này giải thích deadside cheats là gì, Deadside Cheats gồm gì, bảo trì BattlEye và bước tiếp theo trước khi mua."
 			],
 			"uk": [
-				"Naraka cheats додають ESP, radar і soft aim до базової гри. Ця сторінка пояснює що таке naraka cheats, що входить у Naraka Cheats, обслуговування NEAC і куди йти перед покупкою."
+				"Deadside cheats додають ESP, radar і soft aim до базової гри. Ця сторінка пояснює що таке deadside cheats, що входить у Deadside Cheats, обслуговування BattlEye і куди йти перед покупкою."
 			],
 			"cs": [
-				"Naraka cheaty přidávají ESP, radar a soft aim k základní hře. Tato stránka vysvětluje co jsou naraka cheats, co obsahuje Naraka Cheats, údržbu NEAC a kam jít před nákupem."
+				"Deadside cheaty přidávají ESP, radar a soft aim k základní hře. Tato stránka vysvětluje co jsou deadside cheats, co obsahuje Deadside Cheats, údržbu BattlEye a kam jít před nákupem."
 			],
 			"ro": [
-				"Naraka cheats adaugă ESP, radar și soft aim peste jocul de bază. Această pagină explică ce sunt naraka cheats, ce include Naraka Cheats, mentenanța NEAC și pașii înainte de cumpărare."
+				"Deadside cheats adaugă ESP, radar și soft aim peste jocul de bază. Această pagină explică ce sunt deadside cheats, ce include Deadside Cheats, mentenanța BattlEye și pașii înainte de cumpărare."
 			],
 			"sv": [
-				"Naraka cheats lägger till ESP, radar och soft aim ovanpå basspelet. Den här sidan förklarar vad naraka cheats är, vad Naraka Cheats innehåller, NEAC-underhåll och nästa steg före köp."
+				"Deadside cheats lägger till ESP, radar och soft aim ovanpå basspelet. Den här sidan förklarar vad deadside cheats är, vad Deadside Cheats innehåller, BattlEye-underhåll och nästa steg före köp."
 			]
 		},
 		"list1": {
@@ -1596,287 +1596,287 @@ export const PAGE_CONTENT = {
 				"Loot and resource markers",
 				"2D radar for off-screen threats",
 				"Soft aim & aimbot profiles",
-				"NEAC rebuilds after patches"
+				"BattlEye rebuilds after patches"
 			],
 			"es": [
 				"ESP / wallhack con distancias",
 				"Marcadores de loot y recursos",
 				"Radar 2D para amenazas fuera de pantalla",
 				"Perfiles soft aim y aimbot",
-				"Reconstrucciones NEAC tras parches"
+				"Reconstrucciones BattlEye tras parches"
 			],
 			"fr": [
 				"ESP / wallhack avec distances",
 				"Marqueurs de loot et ressources",
 				"Radar 2D pour menaces hors écran",
 				"Profils soft aim et aimbot",
-				"Reconstructions NEAC après patchs"
+				"Reconstructions BattlEye après patchs"
 			],
 			"de": [
 				"ESP / Wallhack mit Distanzanzeige",
 				"Loot- und Ressourcen-Marker",
 				"2D-Radar für Off-Screen-Bedrohungen",
 				"Soft-Aim- & Aimbot-Profile",
-				"NEAC Rebuilds nach Patches"
+				"BattlEye Rebuilds nach Patches"
 			],
 			"pt": [
 				"ESP / wallhack com distâncias",
 				"Marcadores de loot e recursos",
 				"Radar 2D para ameaças off-screen",
 				"Perfis soft aim e aimbot",
-				"Rebuilds NEAC após patches"
+				"Rebuilds BattlEye após patches"
 			],
 			"it": [
 				"ESP / wallhack con distanze",
 				"Marker loot e risorse",
 				"Radar 2D per minacce off-screen",
 				"Profili soft aim e aimbot",
-				"Rebuild NEAC dopo patch"
+				"Rebuild BattlEye dopo patch"
 			],
 			"nl": [
 				"ESP / wallhack met afstand",
 				"Loot- en resource-markers",
 				"2D-radar voor off-screen dreiging",
 				"Soft aim- en aimbot-profielen",
-				"NEAC rebuilds na patches"
+				"BattlEye rebuilds na patches"
 			],
 			"pl": [
 				"ESP / wallhack z dystansem",
 				"Markery lootu i zasobów",
 				"Radar 2D na zagrożenia off-screen",
 				"Profile soft aim i aimbot",
-				"Rebuildy NEAC po patchach"
+				"Rebuildy BattlEye po patchach"
 			],
 			"ru": [
 				"ESP / wallhack с дистанцией",
 				"Маркеры лута и ресурсов",
 				"2D radar для off-screen угроз",
 				"Профили soft aim и aimbot",
-				"Пересборки NEAC после патчей"
+				"Пересборки BattlEye после патчей"
 			],
 			"tr": [
 				"Mesafeli ESP / wallhack",
 				"Loot ve kaynak işaretleri",
 				"Off-screen tehditler için 2D radar",
 				"Soft aim ve aimbot profilleri",
-				"Yama sonrası NEAC rebuild"
+				"Yama sonrası BattlEye rebuild"
 			],
 			"ar": [
 				"ESP / wallhack مع المسافات",
 				"علامات loot والموارد",
 				"radar 2D للتهديدات خارج الشاشة",
 				"ملفات soft aim وaimbot",
-				"إعادة بناء NEAC بعد التصحيحات"
+				"إعادة بناء BattlEye بعد التصحيحات"
 			],
 			"ja": [
 				"距離表示ESP / wallhack",
 				"loot・資源マーカー",
 				"オフスクリーン脅威用2D radar",
 				"soft aim・aimbotプロファイル",
-				"パッチ後のNEACリビルド"
+				"パッチ後のBattlEyeリビルド"
 			],
 			"ko": [
 				"거리 표시 ESP / wallhack",
 				"loot 및 자원 마커",
 				"off-screen 위협용 2D radar",
 				"soft aim 및 aimbot 프로필",
-				"패치 후 NEAC 리빌드"
+				"패치 후 BattlEye 리빌드"
 			],
 			"zh": [
 				"带距离 ESP / wallhack",
 				"物资和资源标记",
 				"屏幕外威胁 2D radar",
 				"soft aim 和 aimbot 配置",
-				"NEAC 补丁后重建"
+				"BattlEye 补丁后重建"
 			],
 			"hi": [
 				"दूरी के साथ ESP / wallhack",
 				"Loot और resource markers",
 				"Off-screen threats के लिए 2D radar",
 				"Soft aim और aimbot profiles",
-				"NEAC पैच के बाद rebuild"
+				"BattlEye पैच के बाद rebuild"
 			],
 			"id": [
 				"ESP / wallhack dengan jarak",
 				"Marker loot dan resource",
 				"Radar 2D untuk ancaman off-screen",
 				"Profil soft aim & aimbot",
-				"Rebuild NEAC setelah patch"
+				"Rebuild BattlEye setelah patch"
 			],
 			"th": [
 				"ESP / wallhack พร้อมระยะ",
 				"มาร์กเกอร์ loot และทรัพยากร",
 				"radar 2D สำหรับภัยคุกคามนอกจอ",
 				"โปรไฟล์ soft aim และ aimbot",
-				"รีบิลด์ NEAC หลังแพตช์"
+				"รีบิลด์ BattlEye หลังแพตช์"
 			],
 			"vi": [
 				"ESP / wallhack kèm khoảng cách",
 				"Marker loot và tài nguyên",
 				"Radar 2D cho mối đe dọa off-screen",
 				"Profile soft aim & aimbot",
-				"Rebuild NEAC sau bản vá"
+				"Rebuild BattlEye sau bản vá"
 			],
 			"uk": [
 				"ESP / wallhack з дистанцією",
 				"Маркери loot і ресурсів",
 				"2D radar для off-screen загроз",
 				"Профілі soft aim і aimbot",
-				"Перезбірки NEAC після патчів"
+				"Перезбірки BattlEye після патчів"
 			],
 			"cs": [
 				"ESP / wallhack s distancí",
 				"Loot a resource markery",
 				"2D radar pro off-screen hrozby",
 				"Soft aim a aimbot profily",
-				"Rebuildy NEAC po patchi"
+				"Rebuildy BattlEye po patchi"
 			],
 			"ro": [
 				"ESP / wallhack cu distanță",
 				"Markeri loot și resurse",
 				"Radar 2D pentru amenințări off-screen",
 				"Profile soft aim și aimbot",
-				"Rebuild-uri NEAC după patch"
+				"Rebuild-uri BattlEye după patch"
 			],
 			"sv": [
 				"ESP / wallhack med avstånd",
 				"Loot- och resursmarkörer",
 				"2D-radar för off-screen hot",
 				"Soft aim- och aimbot-profiler",
-				"NEAC rebuilds efter patchar"
+				"BattlEye rebuilds efter patchar"
 			]
 		},
 		"list2": {
 			"en": [
-				"<a href=\"/naraka-esp/\">Naraka ESP & wallhack</a>",
-				"<a href=\"/naraka-aimbot/\">Naraka Aimbot & soft aim</a>",
-				"<a href=\"/naraka-radar-hack/\">Radar hack overlay</a>",
+				"<a href=\"/deadside-esp/\">Deadside ESP & wallhack</a>",
+				"<a href=\"/deadside-aimbot/\">Deadside Aimbot & soft aim</a>",
+				"<a href=\"/deadside-radar-hack/\">Radar hack overlay</a>",
 				"<a href=\"/features/\">Full feature list</a>"
 			],
 			"es": [
-				"<a href=\"/naraka-esp/\">Naraka ESP y wallhack</a>",
-				"<a href=\"/naraka-aimbot/\">Naraka Aimbot y soft aim</a>",
-				"<a href=\"/naraka-radar-hack/\">Overlay radar hack</a>",
+				"<a href=\"/deadside-esp/\">Deadside ESP y wallhack</a>",
+				"<a href=\"/deadside-aimbot/\">Deadside Aimbot y soft aim</a>",
+				"<a href=\"/deadside-radar-hack/\">Overlay radar hack</a>",
 				"<a href=\"/features/\">Lista completa de funciones</a>"
 			],
 			"fr": [
-				"<a href=\"/naraka-esp/\">Naraka ESP et wallhack</a>",
-				"<a href=\"/naraka-aimbot/\">Naraka Aimbot et soft aim</a>",
-				"<a href=\"/naraka-radar-hack/\">Overlay radar hack</a>",
+				"<a href=\"/deadside-esp/\">Deadside ESP et wallhack</a>",
+				"<a href=\"/deadside-aimbot/\">Deadside Aimbot et soft aim</a>",
+				"<a href=\"/deadside-radar-hack/\">Overlay radar hack</a>",
 				"<a href=\"/features/\">Liste complète des fonctions</a>"
 			],
 			"de": [
-				"<a href=\"/naraka-esp/\">Naraka ESP & Wallhack</a>",
-				"<a href=\"/naraka-aimbot/\">Naraka Aimbot & Soft Aim</a>",
-				"<a href=\"/naraka-radar-hack/\">Radar-Hack-Overlay</a>",
+				"<a href=\"/deadside-esp/\">Deadside ESP & Wallhack</a>",
+				"<a href=\"/deadside-aimbot/\">Deadside Aimbot & Soft Aim</a>",
+				"<a href=\"/deadside-radar-hack/\">Radar-Hack-Overlay</a>",
 				"<a href=\"/features/\">Vollständige Feature-Liste</a>"
 			],
 			"pt": [
-				"<a href=\"/naraka-esp/\">Naraka ESP e wallhack</a>",
-				"<a href=\"/naraka-aimbot/\">Naraka Aimbot e soft aim</a>",
-				"<a href=\"/naraka-radar-hack/\">Overlay radar hack</a>",
+				"<a href=\"/deadside-esp/\">Deadside ESP e wallhack</a>",
+				"<a href=\"/deadside-aimbot/\">Deadside Aimbot e soft aim</a>",
+				"<a href=\"/deadside-radar-hack/\">Overlay radar hack</a>",
 				"<a href=\"/features/\">Lista completa de recursos</a>"
 			],
 			"it": [
-				"<a href=\"/naraka-esp/\">Naraka ESP e wallhack</a>",
-				"<a href=\"/naraka-aimbot/\">Naraka Aimbot e soft aim</a>",
-				"<a href=\"/naraka-radar-hack/\">Overlay radar hack</a>",
+				"<a href=\"/deadside-esp/\">Deadside ESP e wallhack</a>",
+				"<a href=\"/deadside-aimbot/\">Deadside Aimbot e soft aim</a>",
+				"<a href=\"/deadside-radar-hack/\">Overlay radar hack</a>",
 				"<a href=\"/features/\">Elenco completo funzioni</a>"
 			],
 			"nl": [
-				"<a href=\"/naraka-esp/\">Naraka ESP & wallhack</a>",
-				"<a href=\"/naraka-aimbot/\">Naraka Aimbot & soft aim</a>",
-				"<a href=\"/naraka-radar-hack/\">Radar hack overlay</a>",
+				"<a href=\"/deadside-esp/\">Deadside ESP & wallhack</a>",
+				"<a href=\"/deadside-aimbot/\">Deadside Aimbot & soft aim</a>",
+				"<a href=\"/deadside-radar-hack/\">Radar hack overlay</a>",
 				"<a href=\"/features/\">Volledige functielijst</a>"
 			],
 			"pl": [
-				"<a href=\"/naraka-esp/\">Naraka ESP i wallhack</a>",
-				"<a href=\"/naraka-aimbot/\">Naraka Aimbot i soft aim</a>",
-				"<a href=\"/naraka-radar-hack/\">Overlay radar hack</a>",
+				"<a href=\"/deadside-esp/\">Deadside ESP i wallhack</a>",
+				"<a href=\"/deadside-aimbot/\">Deadside Aimbot i soft aim</a>",
+				"<a href=\"/deadside-radar-hack/\">Overlay radar hack</a>",
 				"<a href=\"/features/\">Pełna lista funkcji</a>"
 			],
 			"ru": [
-				"<a href=\"/naraka-esp/\">Naraka ESP и wallhack</a>",
-				"<a href=\"/naraka-aimbot/\">Naraka Aimbot и soft aim</a>",
-				"<a href=\"/naraka-radar-hack/\">Radar hack overlay</a>",
+				"<a href=\"/deadside-esp/\">Deadside ESP и wallhack</a>",
+				"<a href=\"/deadside-aimbot/\">Deadside Aimbot и soft aim</a>",
+				"<a href=\"/deadside-radar-hack/\">Radar hack overlay</a>",
 				"<a href=\"/features/\">Полный список функций</a>"
 			],
 			"tr": [
-				"<a href=\"/naraka-esp/\">Naraka ESP ve wallhack</a>",
-				"<a href=\"/naraka-aimbot/\">Naraka Aimbot ve soft aim</a>",
-				"<a href=\"/naraka-radar-hack/\">Radar hack overlay</a>",
+				"<a href=\"/deadside-esp/\">Deadside ESP ve wallhack</a>",
+				"<a href=\"/deadside-aimbot/\">Deadside Aimbot ve soft aim</a>",
+				"<a href=\"/deadside-radar-hack/\">Radar hack overlay</a>",
 				"<a href=\"/features/\">Tam özellik listesi</a>"
 			],
 			"ar": [
-				"<a href=\"/naraka-esp/\">Naraka ESP وWallhack</a>",
-				"<a href=\"/naraka-aimbot/\">Naraka Aimbot وSoft aim</a>",
-				"<a href=\"/naraka-radar-hack/\">تراكب radar hack</a>",
+				"<a href=\"/deadside-esp/\">Deadside ESP وWallhack</a>",
+				"<a href=\"/deadside-aimbot/\">Deadside Aimbot وSoft aim</a>",
+				"<a href=\"/deadside-radar-hack/\">تراكب radar hack</a>",
 				"<a href=\"/features/\">قائمة الميزات الكاملة</a>"
 			],
 			"ja": [
-				"<a href=\"/naraka-esp/\">Naraka ESP・Wallhack</a>",
-				"<a href=\"/naraka-aimbot/\">Naraka Aimbot・Soft aim</a>",
-				"<a href=\"/naraka-radar-hack/\">レーダーハックオーバーレイ</a>",
+				"<a href=\"/deadside-esp/\">Deadside ESP・Wallhack</a>",
+				"<a href=\"/deadside-aimbot/\">Deadside Aimbot・Soft aim</a>",
+				"<a href=\"/deadside-radar-hack/\">レーダーハックオーバーレイ</a>",
 				"<a href=\"/features/\">全機能リスト</a>"
 			],
 			"ko": [
-				"<a href=\"/naraka-esp/\">Naraka ESP 및 wallhack</a>",
-				"<a href=\"/naraka-aimbot/\">Naraka Aimbot 및 soft aim</a>",
-				"<a href=\"/naraka-radar-hack/\">레이더 핵 오버레이</a>",
+				"<a href=\"/deadside-esp/\">Deadside ESP 및 wallhack</a>",
+				"<a href=\"/deadside-aimbot/\">Deadside Aimbot 및 soft aim</a>",
+				"<a href=\"/deadside-radar-hack/\">레이더 핵 오버레이</a>",
 				"<a href=\"/features/\">전체 기능 목록</a>"
 			],
 			"zh": [
-				"<a href=\"/naraka-esp/\">Naraka ESP和透视</a>",
-				"<a href=\"/naraka-aimbot/\">Naraka自瞄和软瞄准</a>",
-				"<a href=\"/naraka-radar-hack/\">雷达hack覆盖</a>",
+				"<a href=\"/deadside-esp/\">Deadside ESP和透视</a>",
+				"<a href=\"/deadside-aimbot/\">Deadside自瞄和软瞄准</a>",
+				"<a href=\"/deadside-radar-hack/\">雷达hack覆盖</a>",
 				"<a href=\"/features/\">完整功能列表</a>"
 			],
 			"hi": [
-				"<a href=\"/naraka-esp/\">Naraka ESP और wallhack</a>",
-				"<a href=\"/naraka-aimbot/\">Naraka Aimbot और soft aim</a>",
-				"<a href=\"/naraka-radar-hack/\">Radar hack overlay</a>",
+				"<a href=\"/deadside-esp/\">Deadside ESP और wallhack</a>",
+				"<a href=\"/deadside-aimbot/\">Deadside Aimbot और soft aim</a>",
+				"<a href=\"/deadside-radar-hack/\">Radar hack overlay</a>",
 				"<a href=\"/features/\">पूरी फ़ीचर सूची</a>"
 			],
 			"id": [
-				"<a href=\"/naraka-esp/\">Naraka ESP & wallhack</a>",
-				"<a href=\"/naraka-aimbot/\">Naraka Aimbot & soft aim</a>",
-				"<a href=\"/naraka-radar-hack/\">Overlay radar hack</a>",
+				"<a href=\"/deadside-esp/\">Deadside ESP & wallhack</a>",
+				"<a href=\"/deadside-aimbot/\">Deadside Aimbot & soft aim</a>",
+				"<a href=\"/deadside-radar-hack/\">Overlay radar hack</a>",
 				"<a href=\"/features/\">Daftar fitur lengkap</a>"
 			],
 			"th": [
-				"<a href=\"/naraka-esp/\">Naraka ESP และ wallhack</a>",
-				"<a href=\"/naraka-aimbot/\">Naraka Aimbot และ soft aim</a>",
-				"<a href=\"/naraka-radar-hack/\">โอเวอร์เลย์ radar hack</a>",
+				"<a href=\"/deadside-esp/\">Deadside ESP และ wallhack</a>",
+				"<a href=\"/deadside-aimbot/\">Deadside Aimbot และ soft aim</a>",
+				"<a href=\"/deadside-radar-hack/\">โอเวอร์เลย์ radar hack</a>",
 				"<a href=\"/features/\">รายการฟีเจอร์ทั้งหมด</a>"
 			],
 			"vi": [
-				"<a href=\"/naraka-esp/\">Naraka ESP & wallhack</a>",
-				"<a href=\"/naraka-aimbot/\">Naraka Aimbot & soft aim</a>",
-				"<a href=\"/naraka-radar-hack/\">Overlay radar hack</a>",
+				"<a href=\"/deadside-esp/\">Deadside ESP & wallhack</a>",
+				"<a href=\"/deadside-aimbot/\">Deadside Aimbot & soft aim</a>",
+				"<a href=\"/deadside-radar-hack/\">Overlay radar hack</a>",
 				"<a href=\"/features/\">Danh sách tính năng đầy đủ</a>"
 			],
 			"uk": [
-				"<a href=\"/naraka-esp/\">Naraka ESP і wallhack</a>",
-				"<a href=\"/naraka-aimbot/\">Naraka Aimbot і soft aim</a>",
-				"<a href=\"/naraka-radar-hack/\">Radar hack overlay</a>",
+				"<a href=\"/deadside-esp/\">Deadside ESP і wallhack</a>",
+				"<a href=\"/deadside-aimbot/\">Deadside Aimbot і soft aim</a>",
+				"<a href=\"/deadside-radar-hack/\">Radar hack overlay</a>",
 				"<a href=\"/features/\">Повний список функцій</a>"
 			],
 			"cs": [
-				"<a href=\"/naraka-esp/\">Naraka ESP a wallhack</a>",
-				"<a href=\"/naraka-aimbot/\">Naraka Aimbot a soft aim</a>",
-				"<a href=\"/naraka-radar-hack/\">Radar hack overlay</a>",
+				"<a href=\"/deadside-esp/\">Deadside ESP a wallhack</a>",
+				"<a href=\"/deadside-aimbot/\">Deadside Aimbot a soft aim</a>",
+				"<a href=\"/deadside-radar-hack/\">Radar hack overlay</a>",
 				"<a href=\"/features/\">Úplný seznam funkcí</a>"
 			],
 			"ro": [
-				"<a href=\"/naraka-esp/\">Naraka ESP și wallhack</a>",
-				"<a href=\"/naraka-aimbot/\">Naraka Aimbot și soft aim</a>",
-				"<a href=\"/naraka-radar-hack/\">Overlay radar hack</a>",
+				"<a href=\"/deadside-esp/\">Deadside ESP și wallhack</a>",
+				"<a href=\"/deadside-aimbot/\">Deadside Aimbot și soft aim</a>",
+				"<a href=\"/deadside-radar-hack/\">Overlay radar hack</a>",
 				"<a href=\"/features/\">Lista completă de funcții</a>"
 			],
 			"sv": [
-				"<a href=\"/naraka-esp/\">Naraka ESP & wallhack</a>",
-				"<a href=\"/naraka-aimbot/\">Naraka Aimbot & soft aim</a>",
-				"<a href=\"/naraka-radar-hack/\">Radar hack-overlay</a>",
+				"<a href=\"/deadside-esp/\">Deadside ESP & wallhack</a>",
+				"<a href=\"/deadside-aimbot/\">Deadside Aimbot & soft aim</a>",
+				"<a href=\"/deadside-radar-hack/\">Radar hack-overlay</a>",
 				"<a href=\"/features/\">Fullständig funktionslista</a>"
 			]
 		},
@@ -1884,133 +1884,133 @@ export const PAGE_CONTENT = {
 			"en": [
 				"<a href=\"/updates/\">Live status & patch notes</a>",
 				"<a href=\"/updates/\">Undetected cheats guide</a>",
-				"<a href=\"/updates/\">NEAC maintenance</a>",
+				"<a href=\"/updates/\">BattlEye maintenance</a>",
 				"<a href=\"/faq/\">FAQ before you buy</a>"
 			],
 			"es": [
 				"<a href=\"/updates/\">Estado en vivo y notas de parche</a>",
 				"<a href=\"/updates/\">Guía de trucos indetectables</a>",
-				"<a href=\"/updates/\">Mantenimiento NEAC</a>",
+				"<a href=\"/updates/\">Mantenimiento BattlEye</a>",
 				"<a href=\"/faq/\">FAQ antes de comprar</a>"
 			],
 			"fr": [
 				"<a href=\"/updates/\">Statut en direct et notes de patch</a>",
 				"<a href=\"/updates/\">Guide triches indétectables</a>",
-				"<a href=\"/updates/\">Maintenance NEAC</a>",
+				"<a href=\"/updates/\">Maintenance BattlEye</a>",
 				"<a href=\"/faq/\">FAQ avant achat</a>"
 			],
 			"de": [
 				"<a href=\"/updates/\">Live-Status & Patchnotes</a>",
 				"<a href=\"/updates/\">Undetected Cheats Guide</a>",
-				"<a href=\"/updates/\">NEAC Wartung</a>",
+				"<a href=\"/updates/\">BattlEye Wartung</a>",
 				"<a href=\"/faq/\">FAQ vor dem Kauf</a>"
 			],
 			"pt": [
 				"<a href=\"/updates/\">Status ao vivo e notas de patch</a>",
 				"<a href=\"/updates/\">Guia de cheats indetectáveis</a>",
-				"<a href=\"/updates/\">Manutenção NEAC</a>",
+				"<a href=\"/updates/\">Manutenção BattlEye</a>",
 				"<a href=\"/faq/\">FAQ antes de comprar</a>"
 			],
 			"it": [
 				"<a href=\"/updates/\">Stato live e note patch</a>",
 				"<a href=\"/updates/\">Guida cheat indetectable</a>",
-				"<a href=\"/updates/\">Manutenzione NEAC</a>",
+				"<a href=\"/updates/\">Manutenzione BattlEye</a>",
 				"<a href=\"/faq/\">FAQ prima di acquistare</a>"
 			],
 			"nl": [
 				"<a href=\"/updates/\">Live status en patchnotes</a>",
 				"<a href=\"/updates/\">Undetected cheats gids</a>",
-				"<a href=\"/updates/\">NEAC onderhoud</a>",
+				"<a href=\"/updates/\">BattlEye onderhoud</a>",
 				"<a href=\"/faq/\">FAQ voor aankoop</a>"
 			],
 			"pl": [
 				"<a href=\"/updates/\">Status na żywo i notatki patch</a>",
 				"<a href=\"/updates/\">Przewodnik cheatów undetected</a>",
-				"<a href=\"/updates/\">Konserwacja NEAC</a>",
+				"<a href=\"/updates/\">Konserwacja BattlEye</a>",
 				"<a href=\"/faq/\">FAQ przed zakupem</a>"
 			],
 			"ru": [
 				"<a href=\"/updates/\">Статус онлайн и патч-ноуты</a>",
 				"<a href=\"/updates/\">Гайд undetected читов</a>",
-				"<a href=\"/updates/\">Обслуживание NEAC</a>",
+				"<a href=\"/updates/\">Обслуживание BattlEye</a>",
 				"<a href=\"/faq/\">FAQ перед покупкой</a>"
 			],
 			"tr": [
 				"<a href=\"/updates/\">Canlı durum ve yama notları</a>",
 				"<a href=\"/updates/\">Undetected hile rehberi</a>",
-				"<a href=\"/updates/\">NEAC bakımı</a>",
+				"<a href=\"/updates/\">BattlEye bakımı</a>",
 				"<a href=\"/faq/\">Satın almadan önce SSS</a>"
 			],
 			"ar": [
 				"<a href=\"/updates/\">الحالة المباشرة وملاحظات التصحيح</a>",
 				"<a href=\"/updates/\">دليل الغش غير المكتشف</a>",
-				"<a href=\"/updates/\">صيانة NEAC</a>",
+				"<a href=\"/updates/\">صيانة BattlEye</a>",
 				"<a href=\"/faq/\">الأسئلة الشائعة قبل الشراء</a>"
 			],
 			"ja": [
 				"<a href=\"/updates/\">ライブステータスとパッチノート</a>",
 				"<a href=\"/updates/\">Undetectedチートガイド</a>",
-				"<a href=\"/updates/\">NEACメンテナンス</a>",
+				"<a href=\"/updates/\">BattlEyeメンテナンス</a>",
 				"<a href=\"/faq/\">購入前FAQ</a>"
 			],
 			"ko": [
 				"<a href=\"/updates/\">실시간 상태 및 패치 노트</a>",
 				"<a href=\"/updates/\">Undetected 치트 가이드</a>",
-				"<a href=\"/updates/\">NEAC 유지보수</a>",
+				"<a href=\"/updates/\">BattlEye 유지보수</a>",
 				"<a href=\"/faq/\">구매 전 FAQ</a>"
 			],
 			"zh": [
 				"<a href=\"/updates/\">实时状态和补丁说明</a>",
 				"<a href=\"/updates/\">Undetected作弊指南</a>",
-				"<a href=\"/updates/\">NEAC维护</a>",
+				"<a href=\"/updates/\">BattlEye维护</a>",
 				"<a href=\"/faq/\">购买前常见问题</a>"
 			],
 			"hi": [
 				"<a href=\"/updates/\">लाइव स्टेटस और पैच नोट्स</a>",
 				"<a href=\"/updates/\">Undetected cheats गाइड</a>",
-				"<a href=\"/updates/\">NEAC रखरखाव</a>",
+				"<a href=\"/updates/\">BattlEye रखरखाव</a>",
 				"<a href=\"/faq/\">खरीदने से पहले FAQ</a>"
 			],
 			"id": [
 				"<a href=\"/updates/\">Status langsung & catatan patch</a>",
 				"<a href=\"/updates/\">Panduan cheat undetected</a>",
-				"<a href=\"/updates/\">Pemeliharaan NEAC</a>",
+				"<a href=\"/updates/\">Pemeliharaan BattlEye</a>",
 				"<a href=\"/faq/\">FAQ sebelum membeli</a>"
 			],
 			"th": [
 				"<a href=\"/updates/\">สถานะสดและบันทึกแพตช์</a>",
 				"<a href=\"/updates/\">คู่มือ cheat undetected</a>",
-				"<a href=\"/updates/\">การดูแล NEAC</a>",
+				"<a href=\"/updates/\">การดูแล BattlEye</a>",
 				"<a href=\"/faq/\">FAQ ก่อนซื้อ</a>"
 			],
 			"vi": [
 				"<a href=\"/updates/\">Trạng thái trực tiếp & ghi chú bản vá</a>",
 				"<a href=\"/updates/\">Hướng dẫn cheat undetected</a>",
-				"<a href=\"/updates/\">Bảo trì NEAC</a>",
+				"<a href=\"/updates/\">Bảo trì BattlEye</a>",
 				"<a href=\"/faq/\">FAQ trước khi mua</a>"
 			],
 			"uk": [
 				"<a href=\"/updates/\">Статус онлайн і патч-ноти</a>",
 				"<a href=\"/updates/\">Гайд undetected чітів</a>",
-				"<a href=\"/updates/\">Обслуговування NEAC</a>",
+				"<a href=\"/updates/\">Обслуговування BattlEye</a>",
 				"<a href=\"/faq/\">FAQ перед покупкою</a>"
 			],
 			"cs": [
 				"<a href=\"/updates/\">Živý stav a patch poznámky</a>",
 				"<a href=\"/updates/\">Průvodce undetected cheaty</a>",
-				"<a href=\"/updates/\">Údržba NEAC</a>",
+				"<a href=\"/updates/\">Údržba BattlEye</a>",
 				"<a href=\"/faq/\">FAQ před nákupem</a>"
 			],
 			"ro": [
 				"<a href=\"/updates/\">Status live și note patch</a>",
 				"<a href=\"/updates/\">Ghid cheats undetected</a>",
-				"<a href=\"/updates/\">Mentenanță NEAC</a>",
+				"<a href=\"/updates/\">Mentenanță BattlEye</a>",
 				"<a href=\"/faq/\">FAQ înainte de cumpărare</a>"
 			],
 			"sv": [
 				"<a href=\"/updates/\">Livestatus och patchanteckningar</a>",
 				"<a href=\"/updates/\">Undetected cheats-guide</a>",
-				"<a href=\"/updates/\">NEAC-underhåll</a>",
+				"<a href=\"/updates/\">BattlEye-underhåll</a>",
 				"<a href=\"/faq/\">FAQ innan köp</a>"
 			]
 		},
@@ -2127,7 +2127,7 @@ export const PAGE_CONTENT = {
 			]
 		}
 	},
-	"naraka-esp": {
+	"deadside-esp": {
 		"0": {
 			"en": [
 				"Boxes, distance, and filters for players, objects, and loot.",
@@ -2199,71 +2199,71 @@ export const PAGE_CONTENT = {
 		},
 		"1": {
 			"en": [
-				"Clear high-traffic POIs and grapple routes without flooding the screen.",
+				"Clear high-traffic POIs and extract routes without flooding the screen.",
 				"Tune opacity and filters for arena zones, vault sectors, and high-traffic PvP areas."
 			],
 			"es": [
-				"Limpia zonas de POI de alto tráfico y grapple routes sin inundar la pantalla."
+				"Limpia zonas de POI de alto tráfico y extract routes sin inundar la pantalla."
 			],
 			"fr": [
-				"Gardez les zones de high-traffic POIs et grapple routes lisibles sans saturer l'écran."
+				"Gardez les zones de high-traffic POIs et extract routes lisibles sans saturer l'écran."
 			],
 			"de": [
 				"Monument-Zonen und Loot-Runs klar halten, ohne den Bildschirm zu überladen."
 			],
 			"pt": [
-				"Mantenha POI de alto tráfico e grapple routes claros sem lotar a tela."
+				"Mantenha POI de alto tráfico e extract routes claros sem lotar a tela."
 			],
 			"it": [
 				"POI e rotazioni chiari chiari senza riempire lo schermo."
 			],
 			"nl": [
-				"Monumentzones en grapple routes helder houden zonder scherm overload."
+				"Monumentzones en extract routes helder houden zonder scherm overload."
 			],
 			"pl": [
-				"Czytelne high-traffic POIs i grapple routes bez przepełnienia ekranu."
+				"Czytelne high-traffic POIs i extract routes bez przepełnienia ekranu."
 			],
 			"ru": [
 				"Чистые зоны POI и маршрутов ротации без перегрузки экрана."
 			],
 			"tr": [
-				"Ekranı doldurmadan POI ve grapple routes bölgelerini net tutun."
+				"Ekranı doldurmadan POI ve extract routes bölgelerini net tutun."
 			],
 			"ar": [
-				"اجعل مناطق المعالم وgrapple routes واضحة دون إغراق الشاشة."
+				"اجعل مناطق المعالم وextract routes واضحة دون إغراق الشاشة."
 			],
 			"ja": [
 				"画面を埋め尽くさずマップとスパイク設置ルートを見やすく。"
 			],
 			"ko": [
-				"화면을 가리지 않고 POI와 grapple routes 구역을 깔끔하게."
+				"화면을 가리지 않고 POI와 extract routes 구역을 깔끔하게."
 			],
 			"zh": [
 				"清晰显示 POI 和 loot 路线，不遮挡屏幕。"
 			],
 			"hi": [
-				"स्क्रीन भरे बिना POI zones और grapple routes साफ रखें।"
+				"स्क्रीन भरे बिना POI zones और extract routes साफ रखें।"
 			],
 			"id": [
-				"Jaga zona POI dan grapple routes jelas tanpa membanjiri layar."
+				"Jaga zona POI dan extract routes jelas tanpa membanjiri layar."
 			],
 			"th": [
-				"ทำให้ POI และ grapple routes ชัดเจนโดยไม่เต็มหน้าจอ"
+				"ทำให้ POI และ extract routes ชัดเจนโดยไม่เต็มหน้าจอ"
 			],
 			"vi": [
-				"Giữ vùng POI và grapple routes rõ ràng không che màn hình."
+				"Giữ vùng POI và extract routes rõ ràng không che màn hình."
 			],
 			"uk": [
-				"Чіткі зони POI і grapple routes без перевантаження екрана."
+				"Чіткі зони POI і extract routes без перевантаження екрана."
 			],
 			"cs": [
-				"Přehledné high-traffic POIs a grapple routes bez zaplnění obrazovky."
+				"Přehledné high-traffic POIs a extract routes bez zaplnění obrazovky."
 			],
 			"ro": [
-				"Zone POI și grapple routes clare fără a umple ecranul."
+				"Zone POI și extract routes clare fără a umple ecranul."
 			],
 			"sv": [
-				"Håll POIzoner och grapple routes tydliga utan att fylla skärmen."
+				"Håll POIzoner och extract routes tydliga utan att fylla skärmen."
 			]
 		},
 		"2": {
@@ -2337,70 +2337,70 @@ export const PAGE_CONTENT = {
 		},
 		"intro": {
 			"en": [
-				"See players and loot through walls during Naraka matches. Part of the same Naraka Cheats license."
+				"See players and loot through walls during Deadside matches. Part of the same Deadside Cheats license."
 			],
 			"es": [
-				"Ve jugadores y loot a través de las paredes durante matches de Naraka. Parte de la misma licencia Naraka Cheats."
+				"Ve jugadores y loot a través de las paredes durante matches de Deadside. Parte de la misma licencia Deadside Cheats."
 			],
 			"fr": [
-				"Voyez joueurs et loot à travers les murs pendant les matches Naraka. Inclus dans la même licence Naraka Cheats."
+				"Voyez joueurs et loot à travers les murs pendant les matches Deadside. Inclus dans la même licence Deadside Cheats."
 			],
 			"de": [
-				"Sieh Spieler und Loot durch Wände bei Naraka matches. Teil derselben Naraka Cheats-Lizenz."
+				"Sieh Spieler und Loot durch Wände bei Deadside matches. Teil derselben Deadside Cheats-Lizenz."
 			],
 			"pt": [
-				"Veja jogadores e loot através das paredes em matches de Naraka. Parte da mesma licença Naraka Cheats."
+				"Veja jogadores e loot através das paredes em matches de Deadside. Parte da mesma licença Deadside Cheats."
 			],
 			"it": [
-				"Vedi giocatori e loot attraverso i muri durante i match Naraka. Parte della stessa licenza Naraka Cheats."
+				"Vedi giocatori e loot attraverso i muri durante i match Deadside. Parte della stessa licenza Deadside Cheats."
 			],
 			"nl": [
-				"Zie spelers en loot door muren tijdens Naraka matches. Onderdeel van dezelfde Naraka Cheats-licentie."
+				"Zie spelers en loot door muren tijdens Deadside matches. Onderdeel van dezelfde Deadside Cheats-licentie."
 			],
 			"pl": [
-				"Widz graczy i loot przez ściany podczas matchów Naraka. Część tej samej licencji Naraka Cheats."
+				"Widz graczy i loot przez ściany podczas matchów Deadside. Część tej samej licencji Deadside Cheats."
 			],
 			"ru": [
-				"Видьте игроков и лут сквозь стены в рейдах Naraka. Часть той же лицензии Naraka Cheats."
+				"Видьте игроков и лут сквозь стены в рейдах Deadside. Часть той же лицензии Deadside Cheats."
 			],
 			"tr": [
-				"Naraka matchlerinde duvarların ardından oyuncuları ve loot'u görün. Aynı Naraka Cheats lisansının parçası."
+				"Deadside matchlerinde duvarların ardından oyuncuları ve loot'u görün. Aynı Deadside Cheats lisansının parçası."
 			],
 			"ar": [
-				"شاهد اللاعبين والloot عبر الجدران أثناء matches في Naraka. جزء من نفس ترخيص Naraka Cheats."
+				"شاهد اللاعبين والloot عبر الجدران أثناء matches في Deadside. جزء من نفس ترخيص Deadside Cheats."
 			],
 			"ja": [
-				"Narakaレイド中に壁越しでプレイヤーとlootを確認。同じNaraka Cheatsライセンスに含まれます。"
+				"Deadsideレイド中に壁越しでプレイヤーとlootを確認。同じDeadside Cheatsライセンスに含まれます。"
 			],
 			"ko": [
-				"Naraka 레이드 중 벽 너머로 플레이어와 loot를 확인하세요. 동일 Naraka Cheats 라이선스에 포함됩니다."
+				"Deadside 레이드 중 벽 너머로 플레이어와 loot를 확인하세요. 동일 Deadside Cheats 라이선스에 포함됩니다."
 			],
 			"zh": [
-				"在 Naraka match 中透视玩家和物资。包含在同一 Naraka Cheats 许可证中。"
+				"在 Deadside match 中透视玩家和物资。包含在同一 Deadside Cheats 许可证中。"
 			],
 			"hi": [
-				"Naraka matches में दीवारों के पार players और loot देखें। उसी Naraka Cheats लाइसेंस का हिस्सा।"
+				"Deadside matches में दीवारों के पार players और loot देखें। उसी Deadside Cheats लाइसेंस का हिस्सा।"
 			],
 			"id": [
-				"Lihat pemain dan loot menembus dinding saat match Naraka. Bagian dari lisensi Naraka Cheats yang sama."
+				"Lihat pemain dan loot menembus dinding saat match Deadside. Bagian dari lisensi Deadside Cheats yang sama."
 			],
 			"th": [
-				"มองเห็นผู้เล่นและ loot ผ่านกำแพงระหว่าง match ใน Naraka ส่วนหนึ่งของใบอนุญาต Naraka Cheats เดียวกัน"
+				"มองเห็นผู้เล่นและ loot ผ่านกำแพงระหว่าง match ใน Deadside ส่วนหนึ่งของใบอนุญาต Deadside Cheats เดียวกัน"
 			],
 			"vi": [
-				"Nhìn xuyên tường thấy người chơi và loot khi match Naraka. Thuộc cùng giấy phép Naraka Cheats."
+				"Nhìn xuyên tường thấy người chơi và loot khi match Deadside. Thuộc cùng giấy phép Deadside Cheats."
 			],
 			"uk": [
-				"Бачте гравців і loot крізь стіни під час match у Naraka. Частина тієї самої ліцензії Naraka Cheats."
+				"Бачте гравців і loot крізь стіни під час match у Deadside. Частина тієї самої ліцензії Deadside Cheats."
 			],
 			"cs": [
-				"Vidíte hráče a loot skrz zdi během matchů Naraka. Součást stejné licence Naraka Cheats."
+				"Vidíte hráče a loot skrz zdi během matchů Deadside. Součást stejné licence Deadside Cheats."
 			],
 			"ro": [
-				"Vezi jucători și loot prin pereți în match-uri Naraka. Parte din aceeași licență Naraka Cheats."
+				"Vezi jucători și loot prin pereți în match-uri Deadside. Parte din aceeași licență Deadside Cheats."
 			],
 			"sv": [
-				"Se spelare och loot genom väggar under Naraka matches. Ingår i samma Naraka Cheats-licens."
+				"Se spelare och loot genom väggar under Deadside matches. Ingår i samma Deadside Cheats-licens."
 			]
 		},
 		"list0": {
@@ -2740,7 +2740,7 @@ export const PAGE_CONTENT = {
 			]
 		}
 	},
-	"naraka-aimbot": {
+	"deadside-aimbot": {
 		"0": {
 			"en": [
 				"Set FOV, smoothness, and bone priority before you queue.",
@@ -2950,70 +2950,70 @@ export const PAGE_CONTENT = {
 		},
 		"intro": {
 			"en": [
-				"Soft aim and aim assist you can tune for Naraka. Included in the same Naraka Cheats license."
+				"Soft aim and aim assist you can tune for Deadside. Included in the same Deadside Cheats license."
 			],
 			"es": [
-				"Soft aim y asistencia de puntería que puedes ajustar para Naraka. Incluido en la misma licencia Naraka Cheats."
+				"Soft aim y asistencia de puntería que puedes ajustar para Deadside. Incluido en la misma licencia Deadside Cheats."
 			],
 			"fr": [
-				"Soft aim et aide à la visée réglables pour Naraka. Inclus dans la même licence Naraka Cheats."
+				"Soft aim et aide à la visée réglables pour Deadside. Inclus dans la même licence Deadside Cheats."
 			],
 			"de": [
-				"Soft Aim und Zielhilfe, die du für Naraka einstellen kannst. In derselben Naraka Cheats-Lizenz enthalten."
+				"Soft Aim und Zielhilfe, die du für Deadside einstellen kannst. In derselben Deadside Cheats-Lizenz enthalten."
 			],
 			"pt": [
-				"Soft aim e assistência de mira ajustáveis para Naraka. Incluído na mesma licença Naraka Cheats."
+				"Soft aim e assistência de mira ajustáveis para Deadside. Incluído na mesma licença Deadside Cheats."
 			],
 			"it": [
-				"Soft aim e assistenza mira regolabili per Naraka. Incluso nella stessa licenza Naraka Cheats."
+				"Soft aim e assistenza mira regolabili per Deadside. Incluso nella stessa licenza Deadside Cheats."
 			],
 			"nl": [
-				"Soft aim en richt-hulp die je voor Naraka kunt afstellen. Inbegrepen in dezelfde Naraka Cheats-licentie."
+				"Soft aim en richt-hulp die je voor Deadside kunt afstellen. Inbegrepen in dezelfde Deadside Cheats-licentie."
 			],
 			"pl": [
-				"Soft aim i asysta celowania do ustawienia w Naraka. W tej samej licencji Naraka Cheats."
+				"Soft aim i asysta celowania do ustawienia w Deadside. W tej samej licencji Deadside Cheats."
 			],
 			"ru": [
-				"Soft aim и помощь прицеливания, настраиваемые для Naraka. Включено в ту же лицензию Naraka Cheats."
+				"Soft aim и помощь прицеливания, настраиваемые для Deadside. Включено в ту же лицензию Deadside Cheats."
 			],
 			"tr": [
-				"Naraka için ayarlayabileceğiniz soft aim ve nişan desteği. Aynı Naraka Cheats lisansına dahil."
+				"Deadside için ayarlayabileceğiniz soft aim ve nişan desteği. Aynı Deadside Cheats lisansına dahil."
 			],
 			"ar": [
-				"Soft aim ومساعدة تصويب قابلة للضبط لـ Naraka. مضمن في نفس ترخيص Naraka Cheats."
+				"Soft aim ومساعدة تصويب قابلة للضبط لـ Deadside. مضمن في نفس ترخيص Deadside Cheats."
 			],
 			"ja": [
-				"Naraka向けに調整できるsoft aimとエイム支援。同じNaraka Cheatsライセンスに含まれます。"
+				"Deadside向けに調整できるsoft aimとエイム支援。同じDeadside Cheatsライセンスに含まれます。"
 			],
 			"ko": [
-				"Naraka용으로 조절 가능한 soft aim 및 에임 보조. 동일 Naraka Cheats 라이선스에 포함."
+				"Deadside용으로 조절 가능한 soft aim 및 에임 보조. 동일 Deadside Cheats 라이선스에 포함."
 			],
 			"zh": [
-				"可为 Naraka 调节的 soft aim 和瞄准辅助。包含在同一 Naraka Cheats 许可证中。"
+				"可为 Deadside 调节的 soft aim 和瞄准辅助。包含在同一 Deadside Cheats 许可证中。"
 			],
 			"hi": [
-				"Naraka के लिए ट्यून करने योग्य soft aim और aim assist। उसी Naraka Cheats लाइसेंस में शामिल।"
+				"Deadside के लिए ट्यून करने योग्य soft aim और aim assist। उसी Deadside Cheats लाइसेंस में शामिल।"
 			],
 			"id": [
-				"Soft aim dan bantuan aim yang bisa disesuaikan untuk Naraka. Termasuk dalam lisensi Naraka Cheats yang sama."
+				"Soft aim dan bantuan aim yang bisa disesuaikan untuk Deadside. Termasuk dalam lisensi Deadside Cheats yang sama."
 			],
 			"th": [
-				"Soft aim และการช่วยเล็งที่ปรับได้สำหรับ Naraka รวมในใบอนุญาต Naraka Cheats เดียวกัน"
+				"Soft aim และการช่วยเล็งที่ปรับได้สำหรับ Deadside รวมในใบอนุญาต Deadside Cheats เดียวกัน"
 			],
 			"vi": [
-				"Soft aim và hỗ trợ ngắm có thể tinh chỉnh cho Naraka. Thuộc cùng giấy phép Naraka Cheats."
+				"Soft aim và hỗ trợ ngắm có thể tinh chỉnh cho Deadside. Thuộc cùng giấy phép Deadside Cheats."
 			],
 			"uk": [
-				"Soft aim і допомога прицілювання, які можна налаштувати для Naraka. У тій самій ліцензії Naraka Cheats."
+				"Soft aim і допомога прицілювання, які можна налаштувати для Deadside. У тій самій ліцензії Deadside Cheats."
 			],
 			"cs": [
-				"Soft aim a aim assist nastavitelný pro Naraka. Součást stejné licence Naraka Cheats."
+				"Soft aim a aim assist nastavitelný pro Deadside. Součást stejné licence Deadside Cheats."
 			],
 			"ro": [
-				"Soft aim și asistență țintire reglabile pentru Naraka. Inclus în aceeași licență Naraka Cheats."
+				"Soft aim și asistență țintire reglabile pentru Deadside. Inclus în aceeași licență Deadside Cheats."
 			],
 			"sv": [
-				"Soft aim och siktehjälp du kan ställa in för Naraka. Ingår i samma Naraka Cheats-licens."
+				"Soft aim och siktehjälp du kan ställa in för Deadside. Ingår i samma Deadside Cheats-licens."
 			]
 		},
 		"list0": {
@@ -3494,70 +3494,70 @@ export const PAGE_CONTENT = {
 		},
 		"intro": {
 			"en": [
-				"A simple 2D radar for threats outside your view. Included in the same Naraka Cheats license."
+				"A simple 2D radar for threats outside your view. Included in the same Deadside Cheats license."
 			],
 			"es": [
-				"Un radar 2D simple para amenazas fuera de tu vista. Incluido en la misma licencia Naraka Cheats."
+				"Un radar 2D simple para amenazas fuera de tu vista. Incluido en la misma licencia Deadside Cheats."
 			],
 			"fr": [
-				"Un radar 2D simple pour les menaces hors champ. Inclus dans la même licence Naraka Cheats."
+				"Un radar 2D simple pour les menaces hors champ. Inclus dans la même licence Deadside Cheats."
 			],
 			"de": [
-				"Ein einfaches 2D-Radar für Bedrohungen außerhalb deines Sichtfelds. In derselben Naraka Cheats-Lizenz enthalten."
+				"Ein einfaches 2D-Radar für Bedrohungen außerhalb deines Sichtfelds. In derselben Deadside Cheats-Lizenz enthalten."
 			],
 			"pt": [
-				"Um radar 2D simples para ameaças fora da sua visão. Incluído na mesma licença Naraka Cheats."
+				"Um radar 2D simples para ameaças fora da sua visão. Incluído na mesma licença Deadside Cheats."
 			],
 			"it": [
-				"Un radar 2D semplice per minacce fuori vista. Incluso nella stessa licenza Naraka Cheats."
+				"Un radar 2D semplice per minacce fuori vista. Incluso nella stessa licenza Deadside Cheats."
 			],
 			"nl": [
-				"Een eenvoudige 2D-radar voor dreigingen buiten beeld. Inbegrepen in dezelfde Naraka Cheats-licentie."
+				"Een eenvoudige 2D-radar voor dreigingen buiten beeld. Inbegrepen in dezelfde Deadside Cheats-licentie."
 			],
 			"pl": [
-				"Prosty radar 2D na zagrożenia poza widokiem. W tej samej licencji Naraka Cheats."
+				"Prosty radar 2D na zagrożenia poza widokiem. W tej samej licencji Deadside Cheats."
 			],
 			"ru": [
-				"Простой 2D radar для угроз вне поля зрения. Включён в ту же лицензию Naraka Cheats."
+				"Простой 2D radar для угроз вне поля зрения. Включён в ту же лицензию Deadside Cheats."
 			],
 			"tr": [
-				"Görüş alanı dışındaki tehditler için basit 2D radar. Aynı Naraka Cheats lisansına dahil."
+				"Görüş alanı dışındaki tehditler için basit 2D radar. Aynı Deadside Cheats lisansına dahil."
 			],
 			"ar": [
-				"radar 2D بسيط للتهديدات خارج مجال رؤيتك. مضمن في نفس ترخيص Naraka Cheats."
+				"radar 2D بسيط للتهديدات خارج مجال رؤيتك. مضمن في نفس ترخيص Deadside Cheats."
 			],
 			"ja": [
-				"視界外の脅威向けシンプル2D radar。同じNaraka Cheatsライセンスに含まれます。"
+				"視界外の脅威向けシンプル2D radar。同じDeadside Cheatsライセンスに含まれます。"
 			],
 			"ko": [
-				"시야 밖 위협을 위한 간단한 2D radar. 동일 Naraka Cheats 라이선스에 포함."
+				"시야 밖 위협을 위한 간단한 2D radar. 동일 Deadside Cheats 라이선스에 포함."
 			],
 			"zh": [
-				"用于屏幕外威胁的简单 2D radar。包含在同一 Naraka Cheats 许可证中。"
+				"用于屏幕外威胁的简单 2D radar。包含在同一 Deadside Cheats 许可证中。"
 			],
 			"hi": [
-				"आपकी दृष्टि से बाहर threats के लिए सरल 2D radar। उसी Naraka Cheats लाइसेंस में शामिल।"
+				"आपकी दृष्टि से बाहर threats के लिए सरल 2D radar। उसी Deadside Cheats लाइसेंस में शामिल।"
 			],
 			"id": [
-				"Radar 2D sederhana untuk ancaman di luar pandangan. Termasuk dalam lisensi Naraka Cheats yang sama."
+				"Radar 2D sederhana untuk ancaman di luar pandangan. Termasuk dalam lisensi Deadside Cheats yang sama."
 			],
 			"th": [
-				"radar 2D เรียบง่ายสำหรับภัยคุกคามนอกสายตา รวมในใบอนุญาต Naraka Cheats เดียวกัน"
+				"radar 2D เรียบง่ายสำหรับภัยคุกคามนอกสายตา รวมในใบอนุญาต Deadside Cheats เดียวกัน"
 			],
 			"vi": [
-				"Radar 2D đơn giản cho mối đe dọa ngoài tầm nhìn. Thuộc cùng giấy phép Naraka Cheats."
+				"Radar 2D đơn giản cho mối đe dọa ngoài tầm nhìn. Thuộc cùng giấy phép Deadside Cheats."
 			],
 			"uk": [
-				"Простий 2D radar для загроз поза полем зору. У тій самій ліцензії Naraka Cheats."
+				"Простий 2D radar для загроз поза полем зору. У тій самій ліцензії Deadside Cheats."
 			],
 			"cs": [
-				"Jednoduchý 2D radar pro hrozby mimo dohled. Součást stejné licence Naraka Cheats."
+				"Jednoduchý 2D radar pro hrozby mimo dohled. Součást stejné licence Deadside Cheats."
 			],
 			"ro": [
-				"Radar 2D simplu pentru amenințări în afara vederii. Inclus în aceeași licență Naraka Cheats."
+				"Radar 2D simplu pentru amenințări în afara vederii. Inclus în aceeași licență Deadside Cheats."
 			],
 			"sv": [
-				"En enkel 2D-radar för hot utanför synfältet. Ingår i samma Naraka Cheats-licens."
+				"En enkel 2D-radar för hot utanför synfältet. Ingår i samma Deadside Cheats-licens."
 			]
 		},
 		"list0": {
@@ -3674,112 +3674,112 @@ export const PAGE_CONTENT = {
 		},
 		"list1": {
 			"en": [
-				"<a href=\"/naraka-esp/\">ESP guide</a>",
+				"<a href=\"/deadside-esp/\">ESP guide</a>",
 				"<a href=\"/\">Full product</a>",
 				"<a href=\"/pricing/\">Store</a>"
 			],
 			"es": [
-				"<a href=\"/naraka-esp/\">Guía ESP</a>",
+				"<a href=\"/deadside-esp/\">Guía ESP</a>",
 				"<a href=\"/\">Producto completo</a>",
 				"<a href=\"/pricing/\">Tienda</a>"
 			],
 			"fr": [
-				"<a href=\"/naraka-esp/\">Guide ESP</a>",
+				"<a href=\"/deadside-esp/\">Guide ESP</a>",
 				"<a href=\"/\">Produit complet</a>",
 				"<a href=\"/pricing/\">Boutique</a>"
 			],
 			"de": [
-				"<a href=\"/naraka-esp/\">ESP-Guide</a>",
+				"<a href=\"/deadside-esp/\">ESP-Guide</a>",
 				"<a href=\"/\">Vollständiges Produkt</a>",
 				"<a href=\"/pricing/\">Shop</a>"
 			],
 			"pt": [
-				"<a href=\"/naraka-esp/\">Guia ESP</a>",
+				"<a href=\"/deadside-esp/\">Guia ESP</a>",
 				"<a href=\"/\">Produto completo</a>",
 				"<a href=\"/pricing/\">Loja</a>"
 			],
 			"it": [
-				"<a href=\"/naraka-esp/\">Guida ESP</a>",
+				"<a href=\"/deadside-esp/\">Guida ESP</a>",
 				"<a href=\"/\">Prodotto completo</a>",
 				"<a href=\"/pricing/\">Negozio</a>"
 			],
 			"nl": [
-				"<a href=\"/naraka-esp/\">ESP-gids</a>",
+				"<a href=\"/deadside-esp/\">ESP-gids</a>",
 				"<a href=\"/\">Volledig product</a>",
 				"<a href=\"/pricing/\">Winkel</a>"
 			],
 			"pl": [
-				"<a href=\"/naraka-esp/\">Przewodnik ESP</a>",
+				"<a href=\"/deadside-esp/\">Przewodnik ESP</a>",
 				"<a href=\"/\">Pełny produkt</a>",
 				"<a href=\"/pricing/\">Sklep</a>"
 			],
 			"ru": [
-				"<a href=\"/naraka-esp/\">Гайд ESP</a>",
+				"<a href=\"/deadside-esp/\">Гайд ESP</a>",
 				"<a href=\"/\">Полный продукт</a>",
 				"<a href=\"/pricing/\">Магазин</a>"
 			],
 			"tr": [
-				"<a href=\"/naraka-esp/\">ESP rehberi</a>",
+				"<a href=\"/deadside-esp/\">ESP rehberi</a>",
 				"<a href=\"/\">Tam ürün</a>",
 				"<a href=\"/pricing/\">Mağaza</a>"
 			],
 			"ar": [
-				"<a href=\"/naraka-esp/\">دليل ESP</a>",
+				"<a href=\"/deadside-esp/\">دليل ESP</a>",
 				"<a href=\"/\">المنتج الكامل</a>",
 				"<a href=\"/pricing/\">المتجر</a>"
 			],
 			"ja": [
-				"<a href=\"/naraka-esp/\">ESPガイド</a>",
+				"<a href=\"/deadside-esp/\">ESPガイド</a>",
 				"<a href=\"/\">製品全体</a>",
 				"<a href=\"/pricing/\">ストア</a>"
 			],
 			"ko": [
-				"<a href=\"/naraka-esp/\">ESP 가이드</a>",
+				"<a href=\"/deadside-esp/\">ESP 가이드</a>",
 				"<a href=\"/\">전체 제품</a>",
 				"<a href=\"/pricing/\">스토어</a>"
 			],
 			"zh": [
-				"<a href=\"/naraka-esp/\">ESP指南</a>",
+				"<a href=\"/deadside-esp/\">ESP指南</a>",
 				"<a href=\"/\">完整产品</a>",
 				"<a href=\"/pricing/\">商店</a>"
 			],
 			"hi": [
-				"<a href=\"/naraka-esp/\">ESP गाइड</a>",
+				"<a href=\"/deadside-esp/\">ESP गाइड</a>",
 				"<a href=\"/\">पूरा उत्पाद</a>",
 				"<a href=\"/pricing/\">स्टोर</a>"
 			],
 			"id": [
-				"<a href=\"/naraka-esp/\">Panduan ESP</a>",
+				"<a href=\"/deadside-esp/\">Panduan ESP</a>",
 				"<a href=\"/\">Produk lengkap</a>",
 				"<a href=\"/pricing/\">Toko</a>"
 			],
 			"th": [
-				"<a href=\"/naraka-esp/\">คู่มือ ESP</a>",
+				"<a href=\"/deadside-esp/\">คู่มือ ESP</a>",
 				"<a href=\"/\">ผลิตภัณฑ์เต็มรูปแบบ</a>",
 				"<a href=\"/pricing/\">ร้านค้า</a>"
 			],
 			"vi": [
-				"<a href=\"/naraka-esp/\">Hướng dẫn ESP</a>",
+				"<a href=\"/deadside-esp/\">Hướng dẫn ESP</a>",
 				"<a href=\"/\">Sản phẩm đầy đủ</a>",
 				"<a href=\"/pricing/\">Cửa hàng</a>"
 			],
 			"uk": [
-				"<a href=\"/naraka-esp/\">Гайд ESP</a>",
+				"<a href=\"/deadside-esp/\">Гайд ESP</a>",
 				"<a href=\"/\">Повний продукт</a>",
 				"<a href=\"/pricing/\">Магазин</a>"
 			],
 			"cs": [
-				"<a href=\"/naraka-esp/\">Průvodce ESP</a>",
+				"<a href=\"/deadside-esp/\">Průvodce ESP</a>",
 				"<a href=\"/\">Kompletní produkt</a>",
 				"<a href=\"/pricing/\">Obchod</a>"
 			],
 			"ro": [
-				"<a href=\"/naraka-esp/\">Ghid ESP</a>",
+				"<a href=\"/deadside-esp/\">Ghid ESP</a>",
 				"<a href=\"/\">Produs complet</a>",
 				"<a href=\"/pricing/\">Magazin</a>"
 			],
 			"sv": [
-				"<a href=\"/naraka-esp/\">ESP-guide</a>",
+				"<a href=\"/deadside-esp/\">ESP-guide</a>",
 				"<a href=\"/\">Fullständig produkt</a>",
 				"<a href=\"/pricing/\">Butik</a>"
 			]
@@ -3790,7 +3790,7 @@ export const PAGE_CONTENT = {
 			"en": [
 				"Buy a plan first. You get a license by email.",
 				"Have your order email ready before you start installation.",
-				"Naraka Cheats runs on Windows 10 or 11 (64-bit) with administrator rights for the loader. Close conflicting overlays and aim for 8 GB RAM minimum (16 GB recommended) for smooth ESP in busy melee combats."
+				"Deadside Cheats runs on Windows 10 or 11 (64-bit) with administrator rights for the loader. Close conflicting overlays and aim for 8 GB RAM minimum (16 GB recommended) for smooth ESP in busy tactical combats."
 			],
 			"es": [
 				"Compra un plan primero. Recibes la licencia por email."
@@ -3858,140 +3858,140 @@ export const PAGE_CONTENT = {
 		},
 		"1": {
 			"en": [
-				"Run the loader as admin, paste your license, then launch Naraka.",
+				"Run the loader as admin, paste your license, then launch Deadside.",
 				"Download the loader from your delivery email and follow the steps in order."
 			],
 			"es": [
-				"Ejecuta el loader como admin, pega tu licencia y lanza Naraka."
+				"Ejecuta el loader como admin, pega tu licencia y lanza Deadside."
 			],
 			"fr": [
-				"Lancez le loader en admin, collez votre licence puis lancez Naraka."
+				"Lancez le loader en admin, collez votre licence puis lancez Deadside."
 			],
 			"de": [
-				"Loader als Admin starten, Lizenz einfügen, dann Naraka starten."
+				"Loader als Admin starten, Lizenz einfügen, dann Deadside starten."
 			],
 			"pt": [
-				"Execute o loader como admin, cole a licença e inicie Naraka."
+				"Execute o loader como admin, cole a licença e inicie Deadside."
 			],
 			"it": [
-				"Avvia il loader come admin, incolla la licenza e lancia Naraka."
+				"Avvia il loader come admin, incolla la licenza e lancia Deadside."
 			],
 			"nl": [
-				"Start loader als admin, plak licentie, start Naraka."
+				"Start loader als admin, plak licentie, start Deadside."
 			],
 			"pl": [
-				"Uruchom loader jako admin, wklej licencję, uruchom Naraka."
+				"Uruchom loader jako admin, wklej licencję, uruchom Deadside."
 			],
 			"ru": [
-				"Запустите loader от админа, вставьте лицензию, запустите Naraka."
+				"Запустите loader от админа, вставьте лицензию, запустите Deadside."
 			],
 			"tr": [
-				"Loader'ı yönetici olarak çalıştırın, lisansı yapıştırın, Naraka'ı başlatın."
+				"Loader'ı yönetici olarak çalıştırın, lisansı yapıştırın, Deadside'ı başlatın."
 			],
 			"ar": [
-				"شغّل loader كمسؤول، الصق الترخيص، ثم شغّل Naraka."
+				"شغّل loader كمسؤول، الصق الترخيص، ثم شغّل Deadside."
 			],
 			"ja": [
-				"loaderを管理者実行、ライセンス貼り付け、Naraka起動。"
+				"loaderを管理者実行、ライセンス貼り付け、Deadside起動。"
 			],
 			"ko": [
-				"loader를 관리자로 실행, 라이선스 붙여넣기, Naraka 실행."
+				"loader를 관리자로 실행, 라이선스 붙여넣기, Deadside 실행."
 			],
 			"zh": [
-				"以管理员身份运行 loader，粘贴许可证，启动 Naraka。"
+				"以管理员身份运行 loader，粘贴许可证，启动 Deadside。"
 			],
 			"hi": [
-				"Loader admin के रूप में चलाएँ, license paste करें, Naraka launch करें।"
+				"Loader admin के रूप में चलाएँ, license paste करें, Deadside launch करें।"
 			],
 			"id": [
-				"Jalankan loader sebagai admin, tempel lisensi, lalu buka Naraka."
+				"Jalankan loader sebagai admin, tempel lisensi, lalu buka Deadside."
 			],
 			"th": [
-				"รัน loader แบบ admin วางใบอนุญาต แล้วเปิด Naraka"
+				"รัน loader แบบ admin วางใบอนุญาต แล้วเปิด Deadside"
 			],
 			"vi": [
-				"Chạy loader quyền admin, dán giấy phép, khởi động Naraka."
+				"Chạy loader quyền admin, dán giấy phép, khởi động Deadside."
 			],
 			"uk": [
-				"Запустіть loader від адміна, вставте ліцензію, запустіть Naraka."
+				"Запустіть loader від адміна, вставте ліцензію, запустіть Deadside."
 			],
 			"cs": [
-				"Spusťte loader jako admin, vložte licenci, spusťte Naraka."
+				"Spusťte loader jako admin, vložte licenci, spusťte Deadside."
 			],
 			"ro": [
-				"Rulează loader ca admin, lipește licența, lansează Naraka."
+				"Rulează loader ca admin, lipește licența, lansează Deadside."
 			],
 			"sv": [
-				"Kör loader som admin, klistra in licens, starta Naraka."
+				"Kör loader som admin, klistra in licens, starta Deadside."
 			]
 		},
 		"2": {
 			"en": [
-				"Check Status after a patch. Email support@narakacheats.org with your order ID.",
+				"Check Status after a patch. Email support@deadsidecheats.com with your order ID.",
 				"Include your Windows version and what you already tried for faster replies."
 			],
 			"es": [
-				"Revisa Estado tras un parche. Email a support@narakacheats.org con tu ID de pedido."
+				"Revisa Estado tras un parche. Email a support@deadsidecheats.com con tu ID de pedido."
 			],
 			"fr": [
-				"Consultez Statut après un patch. Email support@narakacheats.org avec votre ID commande."
+				"Consultez Statut après un patch. Email support@deadsidecheats.com avec votre ID commande."
 			],
 			"de": [
-				"Status nach Patch prüfen. E-Mail an support@narakacheats.org mit Bestell-ID."
+				"Status nach Patch prüfen. E-Mail an support@deadsidecheats.com mit Bestell-ID."
 			],
 			"pt": [
-				"Verifique Status após patch. Email support@narakacheats.org com ID do pedido."
+				"Verifique Status após patch. Email support@deadsidecheats.com com ID do pedido."
 			],
 			"it": [
-				"Controlla Stato dopo patch. Email support@narakacheats.org con ID ordine."
+				"Controlla Stato dopo patch. Email support@deadsidecheats.com con ID ordine."
 			],
 			"nl": [
-				"Check Status na patch. E-mail support@narakacheats.org met order-ID."
+				"Check Status na patch. E-mail support@deadsidecheats.com met order-ID."
 			],
 			"pl": [
-				"Sprawdź Status po patchu. Email support@narakacheats.org z ID zamówienia."
+				"Sprawdź Status po patchu. Email support@deadsidecheats.com z ID zamówienia."
 			],
 			"ru": [
-				"Проверьте Статус после патча. Email support@narakacheats.org с ID заказа."
+				"Проверьте Статус после патча. Email support@deadsidecheats.com с ID заказа."
 			],
 			"tr": [
-				"Yama sonrası Durum kontrol edin. Sipariş ID ile support@narakacheats.org."
+				"Yama sonrası Durum kontrol edin. Sipariş ID ile support@deadsidecheats.com."
 			],
 			"ar": [
-				"تحقق من الحالة بعد التصحيح. راسل support@narakacheats.org مع معرف الطلب."
+				"تحقق من الحالة بعد التصحيح. راسل support@deadsidecheats.com مع معرف الطلب."
 			],
 			"ja": [
-				"パッチ後はステータス確認。注文IDを添えてsupport@narakacheats.orgへ。"
+				"パッチ後はステータス確認。注文IDを添えてsupport@deadsidecheats.comへ。"
 			],
 			"ko": [
-				"패치 후 상태 확인. 주문 ID와 함께 support@narakacheats.org."
+				"패치 후 상태 확인. 주문 ID와 함께 support@deadsidecheats.com."
 			],
 			"zh": [
-				"补丁后查看状态。携带订单 ID 邮件 support@narakacheats.org。"
+				"补丁后查看状态。携带订单 ID 邮件 support@deadsidecheats.com。"
 			],
 			"hi": [
-				"पैच के बाद Status जांचें। ऑर्डर ID के साथ support@narakacheats.org।"
+				"पैच के बाद Status जांचें। ऑर्डर ID के साथ support@deadsidecheats.com।"
 			],
 			"id": [
-				"Cek Status setelah patch. Email support@narakacheats.org dengan ID pesanan."
+				"Cek Status setelah patch. Email support@deadsidecheats.com dengan ID pesanan."
 			],
 			"th": [
-				"ตรวจสถานะหลังแพตช์ อีเมล support@narakacheats.org พร้อมรหัสคำสั่งซื้อ"
+				"ตรวจสถานะหลังแพตช์ อีเมล support@deadsidecheats.com พร้อมรหัสคำสั่งซื้อ"
 			],
 			"vi": [
-				"Kiểm tra Trạng thái sau bản vá. Email support@narakacheats.org kèm ID đơn."
+				"Kiểm tra Trạng thái sau bản vá. Email support@deadsidecheats.com kèm ID đơn."
 			],
 			"uk": [
-				"Перевірте Статус після патчу. Email support@narakacheats.org з ID замовлення."
+				"Перевірте Статус після патчу. Email support@deadsidecheats.com з ID замовлення."
 			],
 			"cs": [
-				"Po patchi zkontrolujte Stav. Email support@narakacheats.org s ID objednávky."
+				"Po patchi zkontrolujte Stav. Email support@deadsidecheats.com s ID objednávky."
 			],
 			"ro": [
-				"Verifică Status după patch. Email support@narakacheats.org cu ID comandă."
+				"Verifică Status după patch. Email support@deadsidecheats.com cu ID comandă."
 			],
 			"sv": [
-				"Kontrollera Status efter patch. Mejla support@narakacheats.org med order-ID."
+				"Kontrollera Status efter patch. Mejla support@deadsidecheats.com med order-ID."
 			]
 		},
 		"intro": {
@@ -4402,77 +4402,77 @@ export const PAGE_CONTENT = {
 	"support": {
 		"0": {
 			"en": [
-				"Email support@narakacheats.org. Include your order ID and a short note about the issue.",
+				"Email support@deadsidecheats.com. Include your order ID and a short note about the issue.",
 				"We review support requests daily for delivery, billing, and setup issues."
 			],
 			"es": [
-				"Email a support@narakacheats.org. Incluye tu ID de pedido y una nota breve sobre el problema."
+				"Email a support@deadsidecheats.com. Incluye tu ID de pedido y una nota breve sobre el problema."
 			],
 			"fr": [
-				"Email support@narakacheats.org. Incluez votre ID commande et une brève note."
+				"Email support@deadsidecheats.com. Incluez votre ID commande et une brève note."
 			],
 			"de": [
-				"E-Mail an support@narakacheats.org. Bestell-ID und kurze Problembeschreibung angeben."
+				"E-Mail an support@deadsidecheats.com. Bestell-ID und kurze Problembeschreibung angeben."
 			],
 			"pt": [
-				"Email support@narakacheats.org. Inclua ID do pedido e nota breve sobre o problema."
+				"Email support@deadsidecheats.com. Inclua ID do pedido e nota breve sobre o problema."
 			],
 			"it": [
-				"Email support@narakacheats.org. Includi ID ordine e breve nota sul problema."
+				"Email support@deadsidecheats.com. Includi ID ordine e breve nota sul problema."
 			],
 			"nl": [
-				"E-mail support@narakacheats.org. Voeg order-ID en korte probleemnotitie toe."
+				"E-mail support@deadsidecheats.com. Voeg order-ID en korte probleemnotitie toe."
 			],
 			"pl": [
-				"Email support@narakacheats.org. Dołącz ID zamówienia i krótki opis problemu."
+				"Email support@deadsidecheats.com. Dołącz ID zamówienia i krótki opis problemu."
 			],
 			"ru": [
-				"Email support@narakacheats.org. Укажите ID заказа и краткое описание проблемы."
+				"Email support@deadsidecheats.com. Укажите ID заказа и краткое описание проблемы."
 			],
 			"tr": [
-				"support@narakacheats.org adresine email. Sipariş ID ve kısa sorun notu ekleyin."
+				"support@deadsidecheats.com adresine email. Sipariş ID ve kısa sorun notu ekleyin."
 			],
 			"ar": [
-				"راسل support@narakacheats.org. أرفق معرف الطلب وملاحظة قصيرة."
+				"راسل support@deadsidecheats.com. أرفق معرف الطلب وملاحظة قصيرة."
 			],
 			"ja": [
-				"support@narakacheats.orgへメール。注文IDと問題の概要を記載。"
+				"support@deadsidecheats.comへメール。注文IDと問題の概要を記載。"
 			],
 			"ko": [
-				"support@narakacheats.org로 이메일. 주문 ID와 문제 요약 포함."
+				"support@deadsidecheats.com로 이메일. 주문 ID와 문제 요약 포함."
 			],
 			"zh": [
-				"邮件 support@narakacheats.org，附上订单 ID 和简要问题说明。"
+				"邮件 support@deadsidecheats.com，附上订单 ID 和简要问题说明。"
 			],
 			"hi": [
-				"support@narakacheats.org पर email। ऑर्डर ID और समस्या का संक्षिप्त विवरण दें।"
+				"support@deadsidecheats.com पर email। ऑर्डर ID और समस्या का संक्षिप्त विवरण दें।"
 			],
 			"id": [
-				"Email support@narakacheats.org. Sertakan ID pesanan dan catatan singkat masalah."
+				"Email support@deadsidecheats.com. Sertakan ID pesanan dan catatan singkat masalah."
 			],
 			"th": [
-				"อีเมล support@narakacheats.org พร้อมรหัสคำสั่งซื้อและรายละเอียดปัญหา"
+				"อีเมล support@deadsidecheats.com พร้อมรหัสคำสั่งซื้อและรายละเอียดปัญหา"
 			],
 			"vi": [
-				"Email support@narakacheats.org kèm ID đơn và mô tả ngắn."
+				"Email support@deadsidecheats.com kèm ID đơn và mô tả ngắn."
 			],
 			"uk": [
-				"Email support@narakacheats.org. Додайте ID замовлення і короткий опис проблеми."
+				"Email support@deadsidecheats.com. Додайте ID замовлення і короткий опис проблеми."
 			],
 			"cs": [
-				"Email support@narakacheats.org. Uveďte ID objednávky a stručný popis problému."
+				"Email support@deadsidecheats.com. Uveďte ID objednávky a stručný popis problému."
 			],
 			"ro": [
-				"Email support@narakacheats.org. Include ID comandă și notă scurtă despre problemă."
+				"Email support@deadsidecheats.com. Include ID comandă și notă scurtă despre problemă."
 			],
 			"sv": [
-				"Mejla support@narakacheats.org. Inkludera order-ID och kort problembeskrivning."
+				"Mejla support@deadsidecheats.com. Inkludera order-ID och kort problembeskrivning."
 			]
 		},
 		"1": {
 			"en": [
 				"Check FAQ and Status before you write. Many setup questions are already covered.",
-				"Self-service guides often resolve activation issues faster than a new ticket. For patch timing, follow official Naraka channels on Riot and the <a href=\"https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/\" target=\"_blank\" rel=\"noopener noreferrer\">official site</a>."
+				"Self-service guides often resolve activation issues faster than a new ticket. For patch timing, follow official Deadside channels on Bad Pixel and the <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">official site</a>."
 			],
 			"es": [
 				"Revisa FAQ y Estado antes de escribir. Muchas dudas de instalación ya están cubiertas."
@@ -4540,70 +4540,70 @@ export const PAGE_CONTENT = {
 		},
 		"intro": {
 			"en": [
-				"Get help with licenses, setup, and billing for Naraka Cheats on Windows PC."
+				"Get help with licenses, setup, and billing for Deadside Cheats on Windows PC."
 			],
 			"es": [
-				"Obtén ayuda con licencias, instalación y facturación de Naraka Cheats en Windows PC."
+				"Obtén ayuda con licencias, instalación y facturación de Deadside Cheats en Windows PC."
 			],
 			"fr": [
-				"Obtenez de l'aide pour licences, installation et facturation Naraka Cheats sur PC Windows."
+				"Obtenez de l'aide pour licences, installation et facturation Deadside Cheats sur PC Windows."
 			],
 			"de": [
-				"Hilfe zu Lizenzen, Setup und Abrechnung für Naraka Cheats auf Windows PC."
+				"Hilfe zu Lizenzen, Setup und Abrechnung für Deadside Cheats auf Windows PC."
 			],
 			"pt": [
-				"Obtenha ajuda com licenças, instalação e faturamento do Naraka Cheats no Windows PC."
+				"Obtenha ajuda com licenças, instalação e faturamento do Deadside Cheats no Windows PC."
 			],
 			"it": [
-				"Assistenza per licenze, setup e fatturazione Naraka Cheats su Windows PC."
+				"Assistenza per licenze, setup e fatturazione Deadside Cheats su Windows PC."
 			],
 			"nl": [
-				"Hulp bij licenties, setup en facturering voor Naraka Cheats op Windows PC."
+				"Hulp bij licenties, setup en facturering voor Deadside Cheats op Windows PC."
 			],
 			"pl": [
-				"Pomoc z licencjami, instalacją i rozliczeniami Naraka Cheats na Windows PC."
+				"Pomoc z licencjami, instalacją i rozliczeniami Deadside Cheats na Windows PC."
 			],
 			"ru": [
-				"Помощь с лицензиями, установкой и оплатой Naraka Cheats на Windows PC."
+				"Помощь с лицензиями, установкой и оплатой Deadside Cheats на Windows PC."
 			],
 			"tr": [
-				"Windows PC'de Naraka Cheats lisans, kurulum ve faturalama desteği."
+				"Windows PC'de Deadside Cheats lisans, kurulum ve faturalama desteği."
 			],
 			"ar": [
-				"احصل على مساعدة للتراخيص والتثبيت والفوترة لـ Naraka Cheats على Windows PC."
+				"احصل على مساعدة للتراخيص والتثبيت والفوترة لـ Deadside Cheats على Windows PC."
 			],
 			"ja": [
-				"Windows PC向けNaraka Cheatsのライセンス、セットアップ、請求のサポート。"
+				"Windows PC向けDeadside Cheatsのライセンス、セットアップ、請求のサポート。"
 			],
 			"ko": [
-				"Windows PC Naraka Cheats 라이선스, 설치, 결제 지원."
+				"Windows PC Deadside Cheats 라이선스, 설치, 결제 지원."
 			],
 			"zh": [
-				"获取 Windows PC 上 Naraka Cheats 的许可证、安装和账单帮助。"
+				"获取 Windows PC 上 Deadside Cheats 的许可证、安装和账单帮助。"
 			],
 			"hi": [
-				"Windows PC पर Naraka Cheats लाइसेंस, setup और billing सहायता।"
+				"Windows PC पर Deadside Cheats लाइसेंस, setup और billing सहायता।"
 			],
 			"id": [
-				"Bantuan lisensi, setup, dan billing Naraka Cheats di Windows PC."
+				"Bantuan lisensi, setup, dan billing Deadside Cheats di Windows PC."
 			],
 			"th": [
-				"ความช่วยเหลือด้านใบอนุญาต การติดตั้ง และการเรียกเก็บเงิน Naraka Cheats บน Windows PC"
+				"ความช่วยเหลือด้านใบอนุญาต การติดตั้ง และการเรียกเก็บเงิน Deadside Cheats บน Windows PC"
 			],
 			"vi": [
-				"Hỗ trợ giấy phép, cài đặt và thanh toán Naraka Cheats trên Windows PC."
+				"Hỗ trợ giấy phép, cài đặt và thanh toán Deadside Cheats trên Windows PC."
 			],
 			"uk": [
-				"Допомога з ліцензіями, встановленням і оплатою Naraka Cheats на Windows PC."
+				"Допомога з ліцензіями, встановленням і оплатою Deadside Cheats на Windows PC."
 			],
 			"cs": [
-				"Pomoc s licencemi, instalací a fakturací Naraka Cheats na Windows PC."
+				"Pomoc s licencemi, instalací a fakturací Deadside Cheats na Windows PC."
 			],
 			"ro": [
-				"Ajutor pentru licențe, instalare și facturare Naraka Cheats pe Windows PC."
+				"Ajutor pentru licențe, instalare și facturare Deadside Cheats pe Windows PC."
 			],
 			"sv": [
-				"Hjälp med licenser, setup och fakturering för Naraka Cheats på Windows PC."
+				"Hjälp med licenser, setup och fakturering för Deadside Cheats på Windows PC."
 			]
 		},
 		"list0": {
@@ -4903,71 +4903,71 @@ export const PAGE_CONTENT = {
 		},
 		"1": {
 			"en": [
-				"Follow Setup after you buy. Check Status after big Naraka or NEAC patches.",
+				"Follow Setup after you buy. Check Status after big Deadside or BattlEye patches.",
 				"Maintenance rebuilds publish on the Status page when patches require updates."
 			],
 			"es": [
-				"Sigue Instalación tras comprar. Revisa Estado tras parches grandes de Naraka o NEAC."
+				"Sigue Instalación tras comprar. Revisa Estado tras parches grandes de Deadside o BattlEye."
 			],
 			"fr": [
-				"Suivez Installation après achat. Consultez Statut après gros patchs Naraka ou NEAC."
+				"Suivez Installation après achat. Consultez Statut après gros patchs Deadside ou BattlEye."
 			],
 			"de": [
-				"Folge Setup nach Kauf. Prüfe Status nach großen Naraka- oder NEAC-Patches."
+				"Folge Setup nach Kauf. Prüfe Status nach großen Deadside- oder BattlEye-Patches."
 			],
 			"pt": [
-				"Siga Instalação após comprar. Verifique Status após patches grandes de Naraka ou NEAC."
+				"Siga Instalação após comprar. Verifique Status após patches grandes de Deadside ou BattlEye."
 			],
 			"it": [
-				"Segui Setup dopo l'acquisto. Controlla Stato dopo patch importanti Naraka o NEAC."
+				"Segui Setup dopo l'acquisto. Controlla Stato dopo patch importanti Deadside o BattlEye."
 			],
 			"nl": [
-				"Volg Setup na aankoop. Check Status na grote Naraka- of NEAC-patches."
+				"Volg Setup na aankoop. Check Status na grote Deadside- of BattlEye-patches."
 			],
 			"pl": [
-				"Postępuj według Instalacji po zakupie. Sprawdź Status po dużych patchach Naraka lub NEAC."
+				"Postępuj według Instalacji po zakupie. Sprawdź Status po dużych patchach Deadside lub BattlEye."
 			],
 			"ru": [
-				"Следуйте Установке после покупки. Проверяйте Статус после крупных патчей Naraka или NEAC."
+				"Следуйте Установке после покупки. Проверяйте Статус после крупных патчей Deadside или BattlEye."
 			],
 			"tr": [
-				"Satın aldıktan sonra Kurulumu izleyin. Büyük Naraka veya NEAC yamalarından sonra Durumu kontrol edin."
+				"Satın aldıktan sonra Kurulumu izleyin. Büyük Deadside veya BattlEye yamalarından sonra Durumu kontrol edin."
 			],
 			"ar": [
-				"اتبع التثبيت بعد الشراء. تحقق من الحالة بعد تصحيحات Naraka أو NEAC الكبيرة."
+				"اتبع التثبيت بعد الشراء. تحقق من الحالة بعد تصحيحات Deadside أو BattlEye الكبيرة."
 			],
 			"ja": [
-				"購入後はセットアップに従い、NarakaまたはNEAC大型パッチ後はステータスを確認。"
+				"購入後はセットアップに従い、DeadsideまたはBattlEye大型パッチ後はステータスを確認。"
 			],
 			"ko": [
-				"구매 후 설치를 따르고 Naraka 또는 NEAC 대규모 패치 후 상태를 확인하세요."
+				"구매 후 설치를 따르고 Deadside 또는 BattlEye 대규모 패치 후 상태를 확인하세요."
 			],
 			"zh": [
-				"购买后按安装指南操作。Naraka 或 NEAC 重大补丁后查看状态。"
+				"购买后按安装指南操作。Deadside 或 BattlEye 重大补丁后查看状态。"
 			],
 			"hi": [
-				"खरीद के बाद Setup फॉलो करें। बड़े Naraka या NEAC पैच के बाद Status जांचें।"
+				"खरीद के बाद Setup फॉलो करें। बड़े Deadside या BattlEye पैच के बाद Status जांचें।"
 			],
 			"id": [
-				"Ikuti Setup setelah beli. Cek Status setelah patch besar Naraka atau NEAC."
+				"Ikuti Setup setelah beli. Cek Status setelah patch besar Deadside atau BattlEye."
 			],
 			"th": [
-				"ทำตามการติดตั้งหลังซื้อ ตรวจสถานะหลังแพตช์ใหญ่ของ Naraka หรือ NEAC"
+				"ทำตามการติดตั้งหลังซื้อ ตรวจสถานะหลังแพตช์ใหญ่ของ Deadside หรือ BattlEye"
 			],
 			"vi": [
-				"Làm theo Cài đặt sau khi mua. Kiểm tra Trạng thái sau bản vá lớn Naraka hoặc NEAC."
+				"Làm theo Cài đặt sau khi mua. Kiểm tra Trạng thái sau bản vá lớn Deadside hoặc BattlEye."
 			],
 			"uk": [
-				"Дотримуйтесь Встановлення після покупки. Перевіряйте Статус після великих патчів Naraka або NEAC."
+				"Дотримуйтесь Встановлення після покупки. Перевіряйте Статус після великих патчів Deadside або BattlEye."
 			],
 			"cs": [
-				"Po nákupu postupujte podle Instalace. Po velkých patchích Naraka nebo NEAC kontrolujte Stav."
+				"Po nákupu postupujte podle Instalace. Po velkých patchích Deadside nebo BattlEye kontrolujte Stav."
 			],
 			"ro": [
-				"Urmează Instalarea după cumpărare. Verifică Status după patch-uri mari Naraka sau NEAC."
+				"Urmează Instalarea după cumpărare. Verifică Status după patch-uri mari Deadside sau BattlEye."
 			],
 			"sv": [
-				"Följ Setup efter köp. Kontrollera Status efter stora Naraka- eller NEAC-patchar."
+				"Följ Setup efter köp. Kontrollera Status efter stora Deadside- eller BattlEye-patchar."
 			]
 		},
 		"2": {
@@ -5041,70 +5041,70 @@ export const PAGE_CONTENT = {
 		},
 		"intro": {
 			"en": [
-				"Common questions about Naraka Cheats — delivery, setup, updates, and refunds."
+				"Common questions about Deadside Cheats — delivery, setup, updates, and refunds."
 			],
 			"es": [
-				"Preguntas frecuentes sobre Naraka Cheats — entrega, instalación, actualizaciones y reembolsos."
+				"Preguntas frecuentes sobre Deadside Cheats — entrega, instalación, actualizaciones y reembolsos."
 			],
 			"fr": [
-				"Questions fréquentes sur Naraka Cheats — livraison, installation, mises à jour et remboursements."
+				"Questions fréquentes sur Deadside Cheats — livraison, installation, mises à jour et remboursements."
 			],
 			"de": [
-				"Häufige Fragen zu Naraka Cheats — Lieferung, Setup, Updates und Rückerstattungen."
+				"Häufige Fragen zu Deadside Cheats — Lieferung, Setup, Updates und Rückerstattungen."
 			],
 			"pt": [
-				"Perguntas frequentes sobre Naraka Cheats — entrega, instalação, atualizações e reembolsos."
+				"Perguntas frequentes sobre Deadside Cheats — entrega, instalação, atualizações e reembolsos."
 			],
 			"it": [
-				"Domande frequenti su Naraka Cheats — consegna, setup, aggiornamenti e rimborsi."
+				"Domande frequenti su Deadside Cheats — consegna, setup, aggiornamenti e rimborsi."
 			],
 			"nl": [
-				"Veelgestelde vragen over Naraka Cheats — levering, setup, updates en restituties."
+				"Veelgestelde vragen over Deadside Cheats — levering, setup, updates en restituties."
 			],
 			"pl": [
-				"FAQ o Naraka Cheats — dostawa, instalacja, aktualizacje i zwroty."
+				"FAQ o Deadside Cheats — dostawa, instalacja, aktualizacje i zwroty."
 			],
 			"ru": [
-				"Частые вопросы о Naraka Cheats — доставка, установка, обновления и возвраты."
+				"Частые вопросы о Deadside Cheats — доставка, установка, обновления и возвраты."
 			],
 			"tr": [
-				"Naraka Cheats SSS — teslimat, kurulum, güncellemeler ve iadeler."
+				"Deadside Cheats SSS — teslimat, kurulum, güncellemeler ve iadeler."
 			],
 			"ar": [
-				"أسئلة شائعة عن Naraka Cheats — التسليم والتثبيت والتحديثات والاسترداد."
+				"أسئلة شائعة عن Deadside Cheats — التسليم والتثبيت والتحديثات والاسترداد."
 			],
 			"ja": [
-				"Naraka Cheats FAQ — 配信、セットアップ、更新、返金。"
+				"Deadside Cheats FAQ — 配信、セットアップ、更新、返金。"
 			],
 			"ko": [
-				"Naraka Cheats FAQ — 배송, 설치, 업데이트, 환불."
+				"Deadside Cheats FAQ — 배송, 설치, 업데이트, 환불."
 			],
 			"zh": [
-				"Naraka Cheats 常见问题 — 交付、安装、更新和退款。"
+				"Deadside Cheats 常见问题 — 交付、安装、更新和退款。"
 			],
 			"hi": [
-				"Naraka Cheats FAQ — डिलीवरी, setup, अपडेट और रिफंड।"
+				"Deadside Cheats FAQ — डिलीवरी, setup, अपडेट और रिफंड।"
 			],
 			"id": [
-				"FAQ Naraka Cheats — pengiriman, setup, pembaruan, dan refund."
+				"FAQ Deadside Cheats — pengiriman, setup, pembaruan, dan refund."
 			],
 			"th": [
-				"FAQ Naraka Cheats — การจัดส่ง การติดตั้ง อัปเดต และการคืนเงิน"
+				"FAQ Deadside Cheats — การจัดส่ง การติดตั้ง อัปเดต และการคืนเงิน"
 			],
 			"vi": [
-				"FAQ Naraka Cheats — giao hàng, cài đặt, cập nhật và hoàn tiền."
+				"FAQ Deadside Cheats — giao hàng, cài đặt, cập nhật và hoàn tiền."
 			],
 			"uk": [
-				"FAQ Naraka Cheats — доставка, встановлення, оновлення та повернення."
+				"FAQ Deadside Cheats — доставка, встановлення, оновлення та повернення."
 			],
 			"cs": [
-				"FAQ Naraka Cheats — doručení, instalace, aktualizace a vrácení peněz."
+				"FAQ Deadside Cheats — doručení, instalace, aktualizace a vrácení peněz."
 			],
 			"ro": [
-				"FAQ Naraka Cheats — livrare, instalare, actualizări și rambursări."
+				"FAQ Deadside Cheats — livrare, instalare, actualizări și rambursări."
 			],
 			"sv": [
-				"Naraka Cheats FAQ — leverans, setup, uppdateringar och återbetalningar."
+				"Deadside Cheats FAQ — leverans, setup, uppdateringar och återbetalningar."
 			]
 		},
 		"list0": {

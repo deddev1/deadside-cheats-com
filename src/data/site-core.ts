@@ -8,7 +8,7 @@ import { globalSeoKeywords } from './seo-keywords';
 export function seoPageTitle(template: string): string {
 	let text = fillBrandTokens(template).trim();
 	if (text.length < 30) {
-		text = `${text} | Naraka Cheats PC`;
+		text = `${text} | Deadside Cheats PC`;
 	}
 	/** Google SERP titles typically display ~50–60 chars; clamp at 60. */
 	if (text.length <= 60) return text;
@@ -35,7 +35,7 @@ const copyDefaults = {
 	supportIntro: 'Need help with {brand}? Email {email} with your order ID.',
 	faqIntro: 'Short answers about delivery, setup, updates, and refunds.',
 	reviewsIntro:
-		'Real feedback on Naraka cheats and Naraka Bladepoint hacks — ESP, soft aim, radar, and support from {brand} buyers.',
+		'Real feedback on Deadside cheats and Deadside hacks — ESP, soft aim, radar, and support from {brand} buyers.',
 	chipEsp: 'ESP / wallhack',
 	chipAim: 'Soft aim',
 	chipRadar: '2D radar',
@@ -48,36 +48,36 @@ const copyDefaults = {
 } as const;
 
 const seoDefaults = {
-	homeTitle: 'Naraka Cheats | Undetected ESP, Aimbot & Radar',
+	homeTitle: 'Deadside Cheats | Undetected ESP, Aimbot & Radar',
 	homeDescription:
-		'Buy undetected Naraka cheats at narakacheats.org — ESP, aimbot, wallhack & radar for PC. NEAC updates included. Plans from $35/month.',
-	featuresTitle: 'Naraka Cheats Features | ESP, Aimbot & Radar',
+		'Buy undetected Deadside cheats at deadsidecheats.com — ESP, aimbot, wallhack & radar for PC. BattlEye updates included. Plans from $35/month.',
+	featuresTitle: 'Deadside Cheats Features | ESP, Aimbot & Radar',
 	featuresDescription:
-		'Full Naraka cheats feature list — ESP wallhack, soft aim, 2D radar & mod menu toggles on PC. {antiCheat} maintenance at narakacheats.org.',
-	storeTitle: 'Naraka Cheats Pricing | $35/mo or $150 Lifetime',
+		'Full Deadside cheats feature list — ESP wallhack, soft aim, 2D radar & mod menu toggles on PC. {antiCheat} maintenance at deadsidecheats.com.',
+	storeTitle: 'Deadside Cheats Pricing | $35/mo or $150 Lifetime',
 	storeDescription:
-		'Buy Naraka cheats at narakacheats.org — $35/month or $150 lifetime. ESP, aimbot & radar on PC. Same features, instant delivery.',
-	statusTitle: 'Naraka Status | Undetected {antiCheat} Updates',
+		'Buy Deadside cheats at deadsidecheats.com — $35/month or $150 lifetime. ESP, aimbot & radar on PC. Same features, instant delivery.',
+	statusTitle: 'Deadside Status | Undetected {antiCheat} Updates',
 	statusDescription:
-		'Live status after {game} & {antiCheat} patches. Check undetected ESP, aimbot & radar rebuilds on PC before you queue. narakacheats.org.',
-	previewTitle: 'Naraka Cheats | ESP, Aimbot & Wallhack Guide',
+		'Live status after {game} & {antiCheat} patches. Check undetected ESP, aimbot & radar rebuilds on PC before you queue. deadsidecheats.com.',
+	previewTitle: 'Deadside Cheats | ESP, Aimbot & Wallhack Guide',
 	previewDescription:
-		'Naraka cheats guide — undetected ESP wallhack, soft aim, radar & {antiCheat} rebuilds on PC. Compare features & buy from $35 at narakacheats.org.',
-	setupTitle: 'Naraka Cheats Setup | Windows PC Install Guide',
+		'Deadside cheats guide — undetected ESP wallhack, soft aim, radar & {antiCheat} rebuilds on PC. Compare features & buy from $35 at deadsidecheats.com.',
+	setupTitle: 'Deadside Cheats Setup | Windows PC Install Guide',
 	setupDescription:
-		'Install {brand} on PC — activate ESP, soft aim & radar step by step. Setup guide at narakacheats.org. Check {antiCheat} status before your first match.',
-	supportTitle: 'Naraka Cheats Support | License & Setup Help',
+		'Install {brand} on PC — activate ESP, soft aim & radar step by step. Setup guide at deadsidecheats.com. Check {antiCheat} status before your first match.',
+	supportTitle: 'Deadside Cheats Support | License & Setup Help',
 	supportDescription:
-		'Support for license delivery, ESP setup & billing on PC. Email {email} with your order ID. narakacheats.org/support.',
-	faqTitle: 'Naraka Cheats FAQ | ESP, Aimbot & {antiCheat}',
+		'Support for license delivery, ESP setup & billing on PC. Email {email} with your order ID. deadsidecheats.com/support.',
+	faqTitle: 'Deadside Cheats FAQ | ESP, Aimbot & {antiCheat}',
 	faqDescription:
-		'FAQ for naraka cheats — delivery, setup, undetected status, {antiCheat} updates & pricing on PC. Answers at narakacheats.org before you buy.',
-	reviewsTitle: 'Naraka Cheats Reviews | Bladepoint Hacks & Cheats',
+		'FAQ for deadside cheats — delivery, setup, undetected status, {antiCheat} updates & pricing on PC. Answers at deadsidecheats.com before you buy.',
+	reviewsTitle: 'Deadside Cheats Reviews | Deadside Hacks & Cheats',
 	reviewsDescription:
-		'Real buyer reviews for Naraka cheats and Naraka Bladepoint hacks — ESP, soft aim, radar & {antiCheat} maintenance on PC. See what license holders say at narakacheats.org.',
-	blogTitle: 'Naraka Blog | Guides & Patch Tips | {brand}',
+		'Real buyer reviews for Deadside cheats and Deadside hacks — ESP, soft aim, radar & {antiCheat} maintenance on PC. See what license holders say at deadsidecheats.com.',
+	blogTitle: 'Deadside Blog | Guides & Patch Tips | {brand}',
 	blogDescription:
-		'Naraka guides — ranked tips, ESP & aimbot notes, hero tiers & {antiCheat} updates for PC. Read the blog at narakacheats.org/blog.',
+		'Deadside guides — ranked tips, ESP & aimbot notes, loot routes & {antiCheat} updates for PC. Read the blog at deadsidecheats.com/blog.',
 } as const;
 
 type SeoShape = typeof seoDefaults;
@@ -144,7 +144,7 @@ export const productInfo = {
 		esp: [
 			'Solo farmers and matchers ESP / wallhack',
 			'Player growth stage and threat cues',
-			'Loot and hero markers',
+			'Loot and loot markers',
 			'Distance readouts',
 			'Toggleable ESP categories',
 			'Corpse and loot highlights',
@@ -156,7 +156,7 @@ export const productInfo = {
 			'Hotkeys mid-session',
 			'Per-weapon profiles',
 		],
-		radar: ['2D radar overlay', 'Adjustable range', 'Works in battle royale rounds and ranked matches'],
+		radar: ['2D radar overlay', 'Adjustable range', 'Works in survival raids and squad sessions'],
 		general: [
 			fillBrandTokens('{antiCheat} maintenance after patches'),
 			'Digital delivery after checkout',

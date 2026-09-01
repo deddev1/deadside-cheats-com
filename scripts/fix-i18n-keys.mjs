@@ -8,19 +8,19 @@ const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const SRC = path.resolve(ROOT, '..', 'amansand');
 
 const UI_REPLACEMENTS = [
-	['Naraka Cheats', 'Naraka Cheats'],
-	['naraka cheats', 'naraka cheats'],
-	['Naraka Cheats', 'Naraka Cheats'],
-	['Naraka's, 'Naraka's],
-	['Naraka's, 'Naraka's],
-	['Call of Duty', 'Naraka's],
-	['Naraka PC', 'Naraka PC'],
-	['for Naraka', 'for Naraka'],
-	['Naraka ', 'Naraka '],
+	['Deadside Cheats', 'Deadside Cheats'],
+	['deadside cheats', 'deadside cheats'],
+	['Deadside Cheats', 'Deadside Cheats'],
+	['Deadside's, 'Deadside's],
+	['Deadside's, 'Deadside's],
+	['Call of Duty', 'Deadside's],
+	['Deadside PC', 'Deadside PC'],
+	['for Deadside', 'for Deadside'],
+	['Deadside ', 'Deadside '],
 	['rust ', 'rust '],
-	['NEAC maintenance', 'NEAC maintenance'],
-	['NEAC', 'NEAC'],
-	['NEAC', 'NEAC'],
+	['BattlEye maintenance', 'BattlEye maintenance'],
+	['BattlEye', 'BattlEye'],
+	['BattlEye', 'BattlEye'],
 	['operatorEsp', 'playerEsp'],
 	['extractFight', 'raidFight'],
 	['alMazrah', 'raidMap'],
@@ -32,10 +32,10 @@ const UI_REPLACEMENTS = [
 	['Verdansk', 'Verdansk'],
 	['farming run', 'farming run'],
 	['extract', 'extract'],
-	['narakacheats.org', 'narakacheats.org'],
-	['Trucos Naraka's, 'Trucos Naraka's],
-	['Triches Naraka's, 'Triches Naraka's],
-	['Cheats Naraka's, 'Cheats Naraka's],
+	['deadsidecheats.com', 'deadsidecheats.com'],
+	['Trucos Deadside's, 'Trucos Deadside's],
+	['Triches Deadside's, 'Triches Deadside's],
+	['Cheats Deadside's, 'Cheats Deadside's],
 ];
 
 function apply(content) {
@@ -54,16 +54,16 @@ for (const file of ['ui-strings-part1.mjs', 'ui-strings-part2.mjs']) {
 
 // Fix pages-en eac key
 let pagesEn = await readFile(path.join(ROOT, 'scripts/i18n-data/pages-en.mjs'), 'utf8');
-pagesEn = pagesEn.replace(/\teac: \{/, "\t'neac': {");
-pagesEn = pagesEn.replace(/Naraka Naraka/g, 'Naraka's);
-pagesEn = pagesEn.replace(/for Naraka Naraka/g, 'for Naraka');
+pagesEn = pagesEn.replace(/\teac: \{/, "\t'battleye': {");
+pagesEn = pagesEn.replace(/Deadside Deadside/g, 'Deadside's);
+pagesEn = pagesEn.replace(/for Deadside Deadside/g, 'for Deadside');
 await writeFile(path.join(ROOT, 'scripts/i18n-data/pages-en.mjs'), pagesEn);
 
 // Fix pages-i18n
 let pagesI18n = await readFile(path.join(ROOT, 'scripts/i18n-data/pages-i18n.mjs'), 'utf8');
 pagesI18n = apply(pagesI18n);
-pagesI18n = pagesI18n.replace(/'neac'/g, "'neac'");
-pagesI18n = pagesI18n.replace(/eac:/g, "'neac':");
+pagesI18n = pagesI18n.replace(/'battleye'/g, "'battleye'");
+pagesI18n = pagesI18n.replace(/eac:/g, "'battleye':");
 await writeFile(path.join(ROOT, 'scripts/i18n-data/pages-i18n.mjs'), pagesI18n);
 
 // Fix generate-i18n pages count

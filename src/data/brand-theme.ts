@@ -53,7 +53,7 @@ export const themeDefaults: BrandThemeInput = {
 
 export const themePresets: { id: string; label: string; accent: string; bg: string }[] = [
 	{ id: 'magenta', label: 'Magenta', accent: '#c026d3', bg: '#08090a' },
-	{ id: 'naraka', label: 'Naraka', accent: '#E50920', bg: '#07090A' },
+	{ id: 'deadside', label: 'Deadside', accent: '#E50920', bg: '#07090A' },
 	{ id: 'fortnite', label: 'Fortnite', accent: '#2b9dff', bg: '#0a0e17' },
 	{ id: 'apex', label: 'Apex', accent: '#ff6b2c', bg: '#0c0d10' },
 	{ id: 'teal', label: 'Teal', accent: '#14b8a6', bg: '#071012' },

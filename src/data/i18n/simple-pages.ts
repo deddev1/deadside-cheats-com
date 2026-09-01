@@ -53,7 +53,7 @@ export const simplePageCopy: Partial<Record<PageId, SimplePageCopy>> = {
 					'See players, scientists, and loot through walls with distance readouts.',
 					'Use filters so the overlay stays clear in monument zones, compounds, and high-traffic PvP areas.',
 				],
-				list: ['Player boxes & distance', 'Loot and hero markers', 'Heli and Bradley filters'],
+				list: ['Player boxes & distance', 'Loot and loot markers', 'Heli and Bradley filters'],
 			},
 			{
 				h2: 'Aimbot & soft aim',
@@ -67,7 +67,7 @@ export const simplePageCopy: Partial<Record<PageId, SimplePageCopy>> = {
 				h2: 'Radar',
 				paragraphs: [
 					'A simple 2D radar for threats outside your view.',
-					'Spot flanks near maps and combat zones without filling the whole screen.',
+					'Spot flanks near maps and compound zones without filling the whole screen.',
 				],
 				list: ['Nearby enemy cues', 'Adjustable range', 'Works in matches & roaming'],
 			},
@@ -77,14 +77,14 @@ export const simplePageCopy: Partial<Record<PageId, SimplePageCopy>> = {
 					'Most {game} cheat sites cover ESP, aimbot, radar, setup, and status on separate pages. Use these guides next:',
 				],
 				list: [
-					'<a href="/naraka-esp/">ESP & wallhack guide</a>',
-					'<a href="/naraka-aimbot/">Aimbot & soft aim</a>',
-					'<a href="/naraka-radar-hack/">2D radar overlay</a>',
+					'<a href="/deadside-esp/">ESP & wallhack guide</a>',
+					'<a href="/deadside-aimbot/">Aimbot & soft aim</a>',
+					'<a href="/deadside-radar-hack/">2D radar overlay</a>',
 					'<a href="/setup/">Setup guide</a>',
 					'<a href="/updates/">Live status</a>',
-					'<a href="/blog/">Naraka Intel blog</a>',
-					'<a href="https://store.steampowered.com/app/1203220/news/" target="_blank" rel="noopener noreferrer">Official Naraka patch notes</a>',
-					'<a href="https://naraka.fandom.com/wiki/NARAKA:_BLADEPOINT" target="_blank" rel="noopener noreferrer">Naraka Wiki (Fandom)</a>',
+					'<a href="/blog/">Deadside Intel blog</a>',
+					'<a href="https://store.steampowered.com/app/895400/news/" target="_blank" rel="noopener noreferrer">Official Deadside patch notes</a>',
+					'<a href="https://deadside.fandom.com/wiki/Deadside" target="_blank" rel="noopener noreferrer">Deadside Wiki (Fandom)</a>',
 				],
 			},
 			{
@@ -92,7 +92,7 @@ export const simplePageCopy: Partial<Record<PageId, SimplePageCopy>> = {
 				paragraphs: [
 					'We rebuild after big {game} or {antiCheat} patches.',
 					'Check Status before you play after a patch day.',
-					'Verify official changes on <a href="https://store.steampowered.com/app/1203220/news/" target="_blank" rel="noopener noreferrer">Naraka patch notes</a> and the <a href="https://naraka.fandom.com/wiki/NARAKA:_BLADEPOINT" target="_blank" rel="noopener noreferrer">Naraka Wiki</a> before you tune overlays.',
+					'Verify official changes on <a href="https://store.steampowered.com/app/895400/news/" target="_blank" rel="noopener noreferrer">Deadside patch notes</a> and the <a href="https://deadside.fandom.com/wiki/Deadside" target="_blank" rel="noopener noreferrer">Deadside Wiki</a> before you tune overlays.',
 				],
 				list: ['Status on the Status page', 'Setup guide included', 'Email support with your order ID'],
 			},
@@ -141,14 +141,14 @@ export const simplePageCopy: Partial<Record<PageId, SimplePageCopy>> = {
 		h1: 'Status',
 		intro: brandCopy.statusIntro,
 		ctaPrimary: brandCopy.ctaBuy,
-		ctaSecondary: 'Naraka Cheats overview',
+		ctaSecondary: 'Deadside Cheats overview',
 		ctaSecondaryHref: '/',
 		galleryTitle: 'In-game look',
 		sections: [
 			{
 				h2: 'Current status',
 				paragraphs: [
-					'As of 13 Aug 2026 the package is online for Naraka on Windows PC. We post a new note here when a game or NEAC patch needs a rebuild.',
+					'As of 13 Aug 2026 the package is online for Deadside on Windows PC. We post a new note here when a game or BattlEye patch needs a rebuild.',
 					'If Status is green, you can match. If we are rebuilding, wait for the next note.',
 				],
 				list: [
@@ -174,33 +174,33 @@ export const simplePageCopy: Partial<Record<PageId, SimplePageCopy>> = {
 	hacks: page({
 		title: brandSeo.previewTitle,
 		description: brandSeo.previewDescription,
-		h1: 'Naraka Cheats — Full Guide',
+		h1: 'Deadside Cheats — Full Guide',
 		intro:
-			'Naraka cheats add ESP, radar, and soft aim on top of the base game. This page explains what naraka cheats are, what Naraka Cheats includes, how NEAC maintenance works, and where to go next before you buy.',
+			'Deadside cheats add ESP, radar, and soft aim on top of the base game. This page explains what deadside cheats are, what Deadside Cheats includes, how BattlEye maintenance works, and where to go next before you buy.',
 		ctaPrimary: brandCopy.ctaBuy,
 		ctaSecondary: 'View features',
 		ctaSecondaryHref: '/features/',
-		galleryTitle: 'Naraka cheats in action',
+		galleryTitle: 'Deadside cheats in action',
 		sections: [
 			{
-				h2: 'What are naraka cheats?',
+				h2: 'What are deadside cheats?',
 				paragraphs: [
-					'Naraka cheats are third-party tools that give you extra information and combat assist during matches. Most players search for naraka cheats when they want player ESP, loot visibility, off-screen radar, or smoother aim under pressure.',
-					'Naraka Cheats bundles those tools in one license for Windows PC — no stacking separate downloads for wallhack, radar, and aimbot.',
+					'Deadside cheats are third-party tools that give you extra information and combat assist during matches. Most players search for deadside cheats when they want player ESP, loot visibility, off-screen radar, or smoother aim under pressure.',
+					'Deadside Cheats bundles those tools in one license for Windows PC — no stacking separate downloads for wallhack, radar, and aimbot.',
 				],
 			},
 			{
-				h2: 'What Naraka Cheats includes',
+				h2: 'What Deadside Cheats includes',
 				paragraphs: [
-					'One license covers the full match stack: player ESP with distance, hero markers, 2D radar for flanks, and configurable soft aim profiles per weapon.',
-					'Monthly and lifetime plans include the same feature stack with NEAC rebuilds.',
+					'One license covers the full match stack: player ESP with distance, loot markers, 2D radar for flanks, and configurable soft aim profiles per weapon.',
+					'Monthly and lifetime plans include the same feature stack with BattlEye rebuilds.',
 				],
 				list: [
 					'ESP / wallhack with distance readouts',
 					'Loot and resource markers',
 					'2D radar for off-screen threats',
 					'Soft aim & aimbot profiles',
-					'NEAC rebuilds after patches',
+					'BattlEye rebuilds after patches',
 				],
 			},
 			{
@@ -209,21 +209,21 @@ export const simplePageCopy: Partial<Record<PageId, SimplePageCopy>> = {
 					'Each tool has its own deep-dive page if you want details before checkout.',
 				],
 				list: [
-					'<a href="/naraka-esp/">Naraka ESP & wallhack</a>',
-					'<a href="/naraka-aimbot/">Naraka Aimbot & soft aim</a>',
-					'<a href="/naraka-radar-hack/">Radar hack overlay</a>',
+					'<a href="/deadside-esp/">Deadside ESP & wallhack</a>',
+					'<a href="/deadside-aimbot/">Deadside Aimbot & soft aim</a>',
+					'<a href="/deadside-radar-hack/">Radar hack overlay</a>',
 					'<a href="/features/">Full feature list</a>',
 				],
 			},
 			{
 				h2: 'Undetected status & patches',
 				paragraphs: [
-					'Naraka uses NEAC. No cheat stays undetected forever — maintenance after patches is what matters. Check the Status page after every Naraka or NEAC update before you load in.',
+					'Deadside uses BattlEye. No cheat stays undetected forever — maintenance after patches is what matters. Check the Status page after every Deadside or BattlEye update before you load in.',
 				],
 				list: [
 					'<a href="/updates/">Live status & patch notes</a>',
 					'<a href="/updates/">Undetected status guide</a>',
-					'<a href="/neac-bypass/">NEAC maintenance</a>',
+					'<a href="/battleye-bypass/">BattlEye maintenance</a>',
 					'<a href="/faq/">FAQ before you buy</a>',
 				],
 			},
@@ -240,14 +240,14 @@ export const simplePageCopy: Partial<Record<PageId, SimplePageCopy>> = {
 			},
 		],
 	}),
-	'naraka-esp': page({
-		title: 'Naraka ESP | Wallhack & Player Boxes | {brand}',
+	'deadside-esp': page({
+		title: 'Deadside ESP | Wallhack & Player Boxes | {brand}',
 		description:
-			'Naraka ESP wallhack — player boxes, hero markers & distance tags on PC. Undetected cheats with aimbot & radar. Shop at narakacheats.org.',
+			'Deadside ESP wallhack — player boxes, loot markers & distance tags on PC. Undetected cheats with aimbot & radar. Shop at deadsidecheats.com.',
 		h1: 'ESP',
-		intro: 'See players and loot through walls during Naraka matches. Part of the same {brand} license.',
+		intro: 'See players and loot through walls during Deadside matches. Part of the same {brand} license.',
 		ctaPrimary: brandCopy.ctaBuy,
-		ctaSecondary: 'Naraka Cheats overview',
+		ctaSecondary: 'Deadside Cheats overview',
 		ctaSecondaryHref: '/',
 		galleryTitle: 'ESP in match',
 		sections: [
@@ -272,14 +272,14 @@ export const simplePageCopy: Partial<Record<PageId, SimplePageCopy>> = {
 			},
 		],
 	}),
-	'naraka-aimbot': page({
-		title: 'Naraka Aimbot | Soft Aim & FOV Settings | {brand}',
+	'deadside-aimbot': page({
+		title: 'Deadside Aimbot | Soft Aim & FOV Settings | {brand}',
 		description:
-			'Naraka aimbot with soft aim, FOV, bone priority & hotkeys on PC. Undetected {brand} with ESP & radar included. narakacheats.org.',
+			'Deadside aimbot with soft aim, FOV, bone priority & hotkeys on PC. Undetected {brand} with ESP & radar included. deadsidecheats.com.',
 		h1: 'Aimbot',
-		intro: 'Soft aim and aim assist you can tune for Naraka. Included in the same {brand} license.',
+		intro: 'Soft aim and aim assist you can tune for Deadside. Included in the same {brand} license.',
 		ctaPrimary: brandCopy.ctaBuy,
-		ctaSecondary: 'Naraka Cheats overview',
+		ctaSecondary: 'Deadside Cheats overview',
 		ctaSecondaryHref: '/',
 		galleryTitle: 'Aimbot view',
 		sections: [
@@ -305,13 +305,13 @@ export const simplePageCopy: Partial<Record<PageId, SimplePageCopy>> = {
 		],
 	}),
 	radar: page({
-		title: 'Naraka Radar Hack | 2D Threat Map | {brand}',
+		title: 'Deadside Radar Hack | 2D Threat Map | {brand}',
 		description:
-			'2D radar hack for flank awareness on PC. Bundled with ESP wallhack & soft aim in one license. NEAC maintenance at narakacheats.org.',
+			'2D radar hack for flank awareness on PC. Bundled with ESP wallhack & soft aim in one license. BattlEye maintenance at deadsidecheats.com.',
 		h1: 'Radar',
 		intro: 'A simple 2D radar for threats outside your view. Included in the same {brand} license.',
 		ctaPrimary: brandCopy.ctaBuy,
-		ctaSecondary: 'Naraka Cheats overview',
+		ctaSecondary: 'Deadside Cheats overview',
 		ctaSecondaryHref: '/',
 		galleryTitle: 'Radar overlay',
 		sections: [
@@ -324,7 +324,7 @@ export const simplePageCopy: Partial<Record<PageId, SimplePageCopy>> = {
 				h2: 'With ESP',
 				paragraphs: ['Use radar for threats you cannot see yet. Use ESP when you push.'],
 				list: [
-					'<a href="/naraka-esp/">ESP guide</a>',
+					'<a href="/deadside-esp/">ESP guide</a>',
 					'<a href="/">Full product</a>',
 					'<a href="/pricing/">Store</a>',
 				],

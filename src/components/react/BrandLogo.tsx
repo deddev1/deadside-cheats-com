@@ -4,13 +4,13 @@ type Props = {
 	className?: string;
 };
 
-/** NC monogram mark — Naraka Cheats. */
-export default function BrandLogo({ alt = 'Naraka Cheats logo', className }: Props) {
+/** NC monogram mark — Deadside Cheats. */
+export default function BrandLogo({ alt = 'Deadside Cheats logo', className }: Props) {
 	return (
 		<img
 			className={className}
-			src="/images/naraka-cheats-logo-mark.webp"
-			srcSet="/images/naraka-cheats-logo-mark.webp 128w, /images/naraka-cheats-logo.webp 512w"
+			src="/images/deadside-cheats-logo-mark.webp"
+			srcSet="/images/deadside-cheats-logo-mark.webp 128w, /images/deadside-cheats-logo.webp 512w"
 			sizes="40px"
 			width={40}
 			height={40}

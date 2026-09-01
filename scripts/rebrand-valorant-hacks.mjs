@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 /**
- * Rebrand narakacheats.org → narakacheats.org (Naraka Cheats → Naraka Cheats).
- * Run from project root: node scripts/rebrand-naraka-cheats.mjs
+ * Rebrand deadsidecheats.com → deadsidecheats.com (Deadside Cheats → Deadside Cheats).
+ * Run from project root: node scripts/rebrand-deadside-cheats.mjs
  */
 import { readFile, writeFile, readdir } from 'node:fs/promises';
 import path from 'node:path';
@@ -10,18 +10,18 @@ import { fileURLToPath } from 'node:url';
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 
 const SKIP_DIRS = new Set(['node_modules', 'dist', '.git', 'tmp', '.astro']);
-const SKIP_FILES = new Set(['package-lock.json', 'rebrand-naraka-cheats.mjs']);
+const SKIP_FILES = new Set(['package-lock.json', 'rebrand-deadside-cheats.mjs']);
 
 /** Ordered — most specific first. */
 const REPLACEMENTS = [
-	['https://www.narakacheats.org', 'https://www.narakacheats.org'],
-	['https://narakacheats.org', 'https://narakacheats.org'],
-	['www.narakacheats.org', 'www.narakacheats.org'],
-	['support@narakacheats.org', 'support@narakacheats.org'],
-	['narakacheats.org', 'narakacheats.org'],
-	['project-name=narakacheats', 'project-name=narakacheats'],
-	['name = "valorantcheats"', 'name = "naraka-cheats-org"'],
-	['Naraka Cheats', 'Naraka Cheats'],
+	['https://www.deadsidecheats.com', 'https://www.deadsidecheats.com'],
+	['https://deadsidecheats.com', 'https://deadsidecheats.com'],
+	['www.deadsidecheats.com', 'www.deadsidecheats.com'],
+	['support@deadsidecheats.com', 'support@deadsidecheats.com'],
+	['deadsidecheats.com', 'deadsidecheats.com'],
+	['project-name=deadsidecheats', 'project-name=deadsidecheats'],
+	['name = "valorantcheats"', 'name = "deadside-cheats-org"'],
+	['Deadside Cheats', 'Deadside Cheats'],
 ];
 
 async function walk(dir, files = []) {
@@ -59,4 +59,4 @@ for (const file of files) {
 	}
 }
 
-console.log(`\nrebrand-naraka-cheats: ${changed} file(s) updated`);
+console.log(`\nrebrand-deadside-cheats: ${changed} file(s) updated`);

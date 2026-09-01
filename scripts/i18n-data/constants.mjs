@@ -6,39 +6,39 @@ export const LOCALES = [
 ];
 
 export const PAGE_IDS = [
-	'home', 'naraka-esp', 'naraka-aimbot', 'features', 'pricing', 'setup',
-	'updates', 'faq', 'support', 'undetected', 'wallhack', 'radar', 'neac',
+	'home', 'deadside-esp', 'deadside-aimbot', 'features', 'pricing', 'setup',
+	'updates', 'faq', 'support', 'undetected', 'wallhack', 'radar', 'battleye',
 	'cheats-2026', 'hacks', 'cheat-download', 'mod-menu', 'soft-aim', 'best-cheats',
 	'aimbot-hack', 'esp-hack', 'unlock-all', 'privacy', 'refund', 'terms',
 ];
 
-/** Hero image per page — simple naraka cheats keyword filenames. */
+/** Hero image per page — simple deadside cheats keyword filenames. */
 export const HERO_IMAGES = {
-	home: '/images/naraka-cheats-hero-1199w.webp',
-	'naraka-esp': '/images/naraka-cheats-radar.webp',
-	'naraka-aimbot': '/images/naraka-cheats-aimbot.webp',
-	features: '/images/naraka-cheats-aimbot-view.webp',
-	pricing: '/images/naraka-cheats-session.webp',
-	setup: '/images/naraka-cheats-radar.webp',
-	updates: '/images/naraka-cheats-esp.webp',
-	faq: '/images/naraka-cheats-aimbot-view.webp',
-	support: '/images/naraka-cheats-session.webp',
-	undetected: '/images/naraka-cheats-wallhack.webp',
-	wallhack: '/images/naraka-cheats-wallhack.webp',
-	radar: '/images/naraka-cheats-radar.webp',
-	neac: '/images/naraka-cheats-aimbot.webp',
-	'cheats-2026': '/images/naraka-cheats-esp.webp',
-	hacks: '/images/naraka-cheats-combat.webp',
-	'cheat-download': '/images/naraka-cheats-session.webp',
-	'mod-menu': '/images/naraka-cheats-radar.webp',
-	'soft-aim': '/images/naraka-cheats-aimbot-view.webp',
-	'best-cheats': '/images/naraka-cheats-esp.webp',
-	'aimbot-hack': '/images/naraka-cheats-aimbot-view.webp',
-	'esp-hack': '/images/naraka-cheats-wallhack.webp',
-	'unlock-all': '/images/naraka-cheats-radar.webp',
-	privacy: '/images/naraka-cheats-aimbot.webp',
-	refund: '/images/naraka-cheats-session.webp',
-	terms: '/images/naraka-cheats-aimbot-view.webp',
+	home: '/images/deadside-cheats-hero-1199w.webp',
+	'deadside-esp': '/images/deadside-cheats-radar.webp',
+	'deadside-aimbot': '/images/deadside-cheats-aimbot.webp',
+	features: '/images/deadside-cheats-aimbot-view.webp',
+	pricing: '/images/deadside-cheats-session.webp',
+	setup: '/images/deadside-cheats-radar.webp',
+	updates: '/images/deadside-cheats-esp.webp',
+	faq: '/images/deadside-cheats-aimbot-view.webp',
+	support: '/images/deadside-cheats-session.webp',
+	undetected: '/images/deadside-cheats-wallhack.webp',
+	wallhack: '/images/deadside-cheats-wallhack.webp',
+	radar: '/images/deadside-cheats-radar.webp',
+	battleye: '/images/deadside-cheats-aimbot.webp',
+	'cheats-2026': '/images/deadside-cheats-esp.webp',
+	hacks: '/images/deadside-cheats-combat.webp',
+	'cheat-download': '/images/deadside-cheats-session.webp',
+	'mod-menu': '/images/deadside-cheats-radar.webp',
+	'soft-aim': '/images/deadside-cheats-aimbot-view.webp',
+	'best-cheats': '/images/deadside-cheats-esp.webp',
+	'aimbot-hack': '/images/deadside-cheats-aimbot-view.webp',
+	'esp-hack': '/images/deadside-cheats-wallhack.webp',
+	'unlock-all': '/images/deadside-cheats-radar.webp',
+	privacy: '/images/deadside-cheats-aimbot.webp',
+	refund: '/images/deadside-cheats-session.webp',
+	terms: '/images/deadside-cheats-aimbot-view.webp',
 };
 
 export const TS_HEADER = `import type { LocaleCode } from './locales';
@@ -70,7 +70,7 @@ export type LocaleUi = {
 \t\theaderArt: string; hacksPackage: string; matchFight: string; battleRoyale: string; matchMap: string;
 \t};
 };
-export type PageId = 'home' | 'naraka-esp' | 'naraka-aimbot' | 'features' | 'pricing' | 'setup' | 'updates' | 'faq' | 'support' | 'undetected' | 'wallhack' | 'radar' | 'neac' | 'cheats-2026' | 'hacks' | 'cheat-download' | 'mod-menu' | 'soft-aim' | 'best-cheats' | 'aimbot-hack' | 'esp-hack' | 'unlock-all' | 'privacy' | 'refund' | 'terms';
+export type PageId = 'home' | 'deadside-esp' | 'deadside-aimbot' | 'features' | 'pricing' | 'setup' | 'updates' | 'faq' | 'support' | 'undetected' | 'wallhack' | 'radar' | 'battleye' | 'cheats-2026' | 'hacks' | 'cheat-download' | 'mod-menu' | 'soft-aim' | 'best-cheats' | 'aimbot-hack' | 'esp-hack' | 'unlock-all' | 'privacy' | 'refund' | 'terms';
 `;
 
 /** Clamp meta strings to SEO limits without ugly ellipsis. */
@@ -86,9 +86,9 @@ export function clampDesc(s) {
 	const MIN = 140;
 	const MAX = 160;
 	if (text.length < MIN) {
-		const pad = text.toLowerCase().includes('narakacheats.org')
-			? ' Windows PC license with NEAC maintenance after patches.'
-			: ' Compare plans and guides at narakacheats.org.';
+		const pad = text.toLowerCase().includes('deadsidecheats.com')
+			? ' Windows PC license with BattlEye maintenance after patches.'
+			: ' Compare plans and guides at deadsidecheats.com.';
 		text = `${text.replace(/[.…]+$/, '')}.${pad}`;
 	}
 	if (text.length <= MAX) return text;
@@ -110,7 +110,7 @@ export function stripZadeyoFromMeta(text) {
 		.replace(/\s*Zadeyo delivery\.?/gi, ' instant digital delivery.')
 		.replace(/\s*and Zadeyo delivery\.?/gi, ' and instant digital delivery.')
 		.replace(/\|\s*Instant Zadeyo Delivery/g, '| Instant Digital Delivery')
-		.replace(/Buy on Zadeyo/g, 'Buy Naraka Cheats')
+		.replace(/Buy on Zadeyo/g, 'Buy Deadside Cheats')
 		.replace(/\s{2,}/g, ' ')
 		.trim();
 }
@@ -133,19 +133,19 @@ export function section(h2, ...args) {
 /** Authoritative external citation helpers (open in new tab). */
 export const EXT = {
 	activision:
-		'<a href="https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/" target="_blank" rel="noopener noreferrer">Naraka</a>',
+		'<a href="https://store.steampowered.com/app/895400/Deadside/" target="_blank" rel="noopener noreferrer">Deadside</a>',
 	rust:
-		'<a href="https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/" target="_blank" rel="noopener noreferrer">Naraka</a>',
+		'<a href="https://store.steampowered.com/app/895400/Deadside/" target="_blank" rel="noopener noreferrer">Deadside</a>',
 	finals:
-		'<a href="https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/" target="_blank" rel="noopener noreferrer">Naraka</a>',
-	naraka:
-		'<a href="https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/" target="_blank" rel="noopener noreferrer">Naraka</a>',
+		'<a href="https://store.steampowered.com/app/895400/Deadside/" target="_blank" rel="noopener noreferrer">Deadside</a>',
+	deadside:
+		'<a href="https://store.steampowered.com/app/895400/Deadside/" target="_blank" rel="noopener noreferrer">Deadside</a>',
 	valorant:
-		'<a href="https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/" target="_blank" rel="noopener noreferrer">Naraka</a>',
+		'<a href="https://store.steampowered.com/app/895400/Deadside/" target="_blank" rel="noopener noreferrer">Deadside</a>',
 	status:
-		'<a href="https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/" target="_blank" rel="noopener noreferrer">Naraka on Steam</a>',
+		'<a href="https://store.steampowered.com/app/895400/Deadside/" target="_blank" rel="noopener noreferrer">Deadside on Steam</a>',
 	eac:
-		'<a href="https://www.naraka.com/en/" target="_blank" rel="noopener noreferrer">NEAC</a>',
-	neac:
-		'<a href="https://www.naraka.com/en/" target="_blank" rel="noopener noreferrer">NEAC</a>',
+		'<a href="https://www.battleye.com/" target="_blank" rel="noopener noreferrer">BattlEye</a>',
+	battleye:
+		'<a href="https://www.battleye.com/" target="_blank" rel="noopener noreferrer">BattlEye</a>',
 };

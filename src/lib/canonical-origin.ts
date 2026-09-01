@@ -1,6 +1,6 @@
 /** Canonical public origin — must match src/data/brand.ts url. */
-export const CANONICAL_ORIGIN = 'https://narakacheats.org';
-export const CANONICAL_HOST = 'narakacheats.org';
+export const CANONICAL_ORIGIN = 'https://deadsidecheats.com';
+export const CANONICAL_HOST = 'deadsidecheats.com';
 
 /** Legacy hosts that 301 to the canonical apex (see worker.ts LEGACY_HOSTS). */
 export const LEGACY_HOSTS = [
@@ -22,6 +22,10 @@ export const LEGACY_HOSTS = [
 	'www.theislehack.org',
 	'thefinalscheats.org',
 	'www.thefinalscheats.org',
+	'narakacheats.org',
+	'www.narakacheats.org',
+	'narakacheats.net',
+	'www.narakacheats.net',
 ] as const;
 
 /** Regex-safe legacy origins for sitemap XML rewrite (http + https, apex + www). */

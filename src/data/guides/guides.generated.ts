@@ -496,7 +496,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Performance, settings, and fair-play context",
 			paragraphs: [
 				"Stable FPS and clean audio matter in League of Legends. Cap background apps, use a sensible sensitivity, and keep drivers current so you are not fighting input lag during clutch moments. Small setting tweaks often produce bigger gains than switching gear every month.",
-				"League of Legends uses NEAC kernel driver on PC. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
+				"League of Legends uses BattlEye kernel driver on PC. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
 			]
 		},
 		{
@@ -521,7 +521,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Call of Duty: Warzone guide covering battle royale fundamentals, loadout metas, and Verdansk, Rebirth, and Urzikstan drops with loadout customisation — updated for 2026 PC players.",
 	h1: "Call of Duty: Warzone Solo Queue Survival Guide",
 	intro: "Call of Duty: Warzone remains one of the most discussed battle royale titles on PC, especially for players who want sharper reads in Verdansk, Rebirth, and Urzikstan drops with loadout customisation. This guide focuses on solo queue survival without skipping the basics: how rounds flow, where teams win fights, and why loadout metas often decides outcomes before aim ever matters.",
-	imageUrl: "https://sm.ign.com/t/ign_pk/screenshot/default/wz-verdansksubway-1601169413816_x2hg.1400.jpg",
+	imageUrl: "https://sm.ign.com/t/ign_pk/screenshot/default/wz-deadside-mapsubway-1601169413816_x2hg.1400.jpg",
 	imageAlt: "Call of Duty: Warzone gameplay — IGN screenshot",
 	sections: [
 		{
@@ -1395,7 +1395,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Call of Duty: Warzone guide covering battle royale fundamentals, loadout metas, and Verdansk, Rebirth, and Urzikstan drops with loadout customisation — updated for 2026 PC players.",
 	h1: "Call of Duty: Warzone Squad Coordination Guide",
 	intro: "Call of Duty: Warzone remains one of the most discussed battle royale titles on PC, especially for players who want sharper reads in Verdansk, Rebirth, and Urzikstan drops with loadout customisation. This guide focuses on squad coordination without skipping the basics: how rounds flow, where teams win fights, and why loadout metas often decides outcomes before aim ever matters.",
-	imageUrl: "https://sm.ign.com/t/ign_pk/screenshot/default/wz-verdansksubway-1601169413816_x2hg.1400.jpg",
+	imageUrl: "https://sm.ign.com/t/ign_pk/screenshot/default/wz-deadside-mapsubway-1601169413816_x2hg.1400.jpg",
 	imageAlt: "Call of Duty: Warzone gameplay — IGN screenshot",
 	sections: [
 		{
@@ -1671,7 +1671,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Call of Duty: Warzone guide covering battle royale fundamentals, loadout metas, and Verdansk, Rebirth, and Urzikstan drops with loadout customisation — updated for 2026 PC players.",
 	h1: "Call of Duty: Warzone Beginner Onboarding Guide",
 	intro: "Call of Duty: Warzone remains one of the most discussed battle royale titles on PC, especially for players who want sharper reads in Verdansk, Rebirth, and Urzikstan drops with loadout customisation. This guide focuses on beginner onboarding without skipping the basics: how rounds flow, where teams win fights, and why loadout metas often decides outcomes before aim ever matters.",
-	imageUrl: "https://sm.ign.com/t/ign_pk/screenshot/default/wz-verdansksubway-1601169413816_x2hg.1400.jpg",
+	imageUrl: "https://sm.ign.com/t/ign_pk/screenshot/default/wz-deadside-mapsubway-1601169413816_x2hg.1400.jpg",
 	imageAlt: "Call of Duty: Warzone gameplay — IGN screenshot",
 	sections: [
 		{
@@ -1707,38 +1707,38 @@ export const guides: GuideDefinition[] = [
 	{
 	id: "hunt-showdown-huntcheats-com-guide",
 	slug: "hunt-showdown-huntcheats-com-guide",
-	game: "Hunt: Showdown",
+	game: "Hunt: squad raids",
 	gameSlug: "hunt-showdown",
 	externalUrl: "https://huntcheats.com",
 	anchorText: "more game information",
 	published: "2026-06-22",
 	updated: "2026-03-15",
-	title: "Hunt: Showdown Guide: Economy And Loadout Planning (2026)",
-	metaDescription: "A practical Hunt: Showdown guide covering extraction bounty hunter fundamentals, extract ambushes, and Louisiana bayou with boss bounties and rival hunters — updated for 2026 PC players.",
-	h1: "Hunt: Showdown Economy And Loadout Planning Guide",
-	intro: "Hunt: Showdown remains one of the most discussed extraction bounty hunter titles on PC, especially for players who want sharper reads in Louisiana bayou with boss bounties and rival hunters. This guide focuses on economy and loadout planning without skipping the basics: how rounds flow, where teams win fights, and why extract ambushes often decides outcomes before aim ever matters.",
+	title: "Hunt: squad raids Guide: Economy And Loadout Planning (2026)",
+	metaDescription: "A practical Hunt: squad raids guide covering extraction bounty hunter fundamentals, extract ambushes, and Louisiana bayou with boss bounties and rival hunters — updated for 2026 PC players.",
+	h1: "Hunt: squad raids Economy And Loadout Planning Guide",
+	intro: "Hunt: squad raids remains one of the most discussed extraction bounty hunter titles on PC, especially for players who want sharper reads in Louisiana bayou with boss bounties and rival hunters. This guide focuses on economy and loadout planning without skipping the basics: how rounds flow, where teams win fights, and why extract ambushes often decides outcomes before aim ever matters.",
 	imageUrl: "https://assets-prd.ignimgs.com/2024/08/28/hunt-showdown-1896-button-1724846899827.jpg",
-	imageAlt: "Hunt: Showdown gameplay — IGN screenshot",
+	imageAlt: "Hunt: squad raids gameplay — IGN screenshot",
 	sections: [
 		{
-			h2: "How Hunt: Showdown matches actually play out",
+			h2: "How Hunt: squad raids matches actually play out",
 			paragraphs: [
-				"Most Hunt: Showdown sessions are won in the minutes before a fight starts. Learn the default routes players take through Louisiana bayou with boss bounties and rival hunters, which angles give free information, and when to disengage. In extraction bounty hunter titles, map timing beats raw reflexes more often than new players expect.",
+				"Most Hunt: squad raids sessions are won in the minutes before a fight starts. Learn the default routes players take through Louisiana bayou with boss bounties and rival hunters, which angles give free information, and when to disengage. In extraction bounty hunter titles, map timing beats raw reflexes more often than new players expect.",
 				"Treat extract ambushes as a repeatable checklist rather than a highlight-reel skill. When your plan is explicit — where you rotate, what you contest, and what you give up — you stop panic-switching mid-round and start forcing opponents into bad trades."
 			]
 		},
 		{
 			h2: "sound traps and mid-game decisions",
 			paragraphs: [
-				"sound traps separates players who float with the lobby from players who steer it. Watch for audio cues, ability cooldowns, and objective timers that reveal when a squad is committed. In Hunt: Showdown, the team that recognizes a committed enemy first usually wins the exchange.",
+				"sound traps separates players who float with the lobby from players who steer it. Watch for audio cues, ability cooldowns, and objective timers that reveal when a squad is committed. In Hunt: squad raids, the team that recognizes a committed enemy first usually wins the exchange.",
 				"If you queue solo, ping information consistently and play for space instead of hero plays. Even in chaotic extraction bounty hunter lobbies, disciplined spacing around Louisiana bayou with boss bounties and rival hunters creates openings that raw aggression cannot."
 			]
 		},
 		{
 			h2: "Performance, settings, and fair-play context",
 			paragraphs: [
-				"Stable FPS and clean audio matter in Hunt: Showdown. Cap background apps, use a sensible sensitivity, and keep drivers current so you are not fighting input lag during clutch moments. Small setting tweaks often produce bigger gains than switching gear every month.",
-				"Hunt: Showdown uses Easy Anti-Cheat with manual review. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
+				"Stable FPS and clean audio matter in Hunt: squad raids. Cap background apps, use a sensible sensitivity, and keep drivers current so you are not fighting input lag during clutch moments. Small setting tweaks often produce bigger gains than switching gear every month.",
+				"Hunt: squad raids uses Easy Anti-Cheat with manual review. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
 			]
 		},
 		{
@@ -1784,7 +1784,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Performance, settings, and fair-play context",
 			paragraphs: [
 				"Stable FPS and clean audio matter in League of Legends. Cap background apps, use a sensible sensitivity, and keep drivers current so you are not fighting input lag during clutch moments. Small setting tweaks often produce bigger gains than switching gear every month.",
-				"League of Legends uses NEAC kernel driver on PC. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
+				"League of Legends uses BattlEye kernel driver on PC. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
 			]
 		},
 		{
@@ -2029,38 +2029,38 @@ export const guides: GuideDefinition[] = [
 	{
 	id: "hunt-showdown-huntshowdowncheats-com-guide",
 	slug: "hunt-showdown-huntshowdowncheats-com-guide",
-	game: "Hunt: Showdown",
+	game: "Hunt: squad raids",
 	gameSlug: "hunt-showdown",
 	externalUrl: "https://huntshowdowncheats.com",
 	anchorText: "this resource",
 	published: "2026-05-09",
 	updated: "2026-03-15",
-	title: "Hunt: Showdown Guide: Squad Coordination (2026)",
-	metaDescription: "A practical Hunt: Showdown guide covering extraction bounty hunter fundamentals, extract ambushes, and Louisiana bayou with boss bounties and rival hunters — updated for 2026 PC players.",
-	h1: "Hunt: Showdown Squad Coordination Guide",
-	intro: "Hunt: Showdown remains one of the most discussed extraction bounty hunter titles on PC, especially for players who want sharper reads in Louisiana bayou with boss bounties and rival hunters. This guide focuses on squad coordination without skipping the basics: how rounds flow, where teams win fights, and why extract ambushes often decides outcomes before aim ever matters.",
+	title: "Hunt: squad raids Guide: Squad Coordination (2026)",
+	metaDescription: "A practical Hunt: squad raids guide covering extraction bounty hunter fundamentals, extract ambushes, and Louisiana bayou with boss bounties and rival hunters — updated for 2026 PC players.",
+	h1: "Hunt: squad raids Squad Coordination Guide",
+	intro: "Hunt: squad raids remains one of the most discussed extraction bounty hunter titles on PC, especially for players who want sharper reads in Louisiana bayou with boss bounties and rival hunters. This guide focuses on squad coordination without skipping the basics: how rounds flow, where teams win fights, and why extract ambushes often decides outcomes before aim ever matters.",
 	imageUrl: "https://assets-prd.ignimgs.com/2024/08/28/hunt-showdown-1896-button-1724846899827.jpg",
-	imageAlt: "Hunt: Showdown gameplay — IGN screenshot",
+	imageAlt: "Hunt: squad raids gameplay — IGN screenshot",
 	sections: [
 		{
-			h2: "How Hunt: Showdown matches actually play out",
+			h2: "How Hunt: squad raids matches actually play out",
 			paragraphs: [
-				"Most Hunt: Showdown sessions are won in the minutes before a fight starts. Learn the default routes players take through Louisiana bayou with boss bounties and rival hunters, which angles give free information, and when to disengage. In extraction bounty hunter titles, map timing beats raw reflexes more often than new players expect.",
+				"Most Hunt: squad raids sessions are won in the minutes before a fight starts. Learn the default routes players take through Louisiana bayou with boss bounties and rival hunters, which angles give free information, and when to disengage. In extraction bounty hunter titles, map timing beats raw reflexes more often than new players expect.",
 				"Treat extract ambushes as a repeatable checklist rather than a highlight-reel skill. When your plan is explicit — where you rotate, what you contest, and what you give up — you stop panic-switching mid-round and start forcing opponents into bad trades."
 			]
 		},
 		{
 			h2: "sound traps and mid-game decisions",
 			paragraphs: [
-				"sound traps separates players who float with the lobby from players who steer it. Watch for audio cues, ability cooldowns, and objective timers that reveal when a squad is committed. In Hunt: Showdown, the team that recognizes a committed enemy first usually wins the exchange.",
+				"sound traps separates players who float with the lobby from players who steer it. Watch for audio cues, ability cooldowns, and objective timers that reveal when a squad is committed. In Hunt: squad raids, the team that recognizes a committed enemy first usually wins the exchange.",
 				"If you queue solo, ping information consistently and play for space instead of hero plays. Even in chaotic extraction bounty hunter lobbies, disciplined spacing around Louisiana bayou with boss bounties and rival hunters creates openings that raw aggression cannot."
 			]
 		},
 		{
 			h2: "Performance, settings, and fair-play context",
 			paragraphs: [
-				"Stable FPS and clean audio matter in Hunt: Showdown. Cap background apps, use a sensible sensitivity, and keep drivers current so you are not fighting input lag during clutch moments. Small setting tweaks often produce bigger gains than switching gear every month.",
-				"Hunt: Showdown uses Easy Anti-Cheat with manual review. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
+				"Stable FPS and clean audio matter in Hunt: squad raids. Cap background apps, use a sensible sensitivity, and keep drivers current so you are not fighting input lag during clutch moments. Small setting tweaks often produce bigger gains than switching gear every month.",
+				"Hunt: squad raids uses Easy Anti-Cheat with manual review. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
 			]
 		},
 		{
@@ -2612,7 +2612,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Performance, settings, and fair-play context",
 			paragraphs: [
 				"Stable FPS and clean audio matter in League of Legends. Cap background apps, use a sensible sensitivity, and keep drivers current so you are not fighting input lag during clutch moments. Small setting tweaks often produce bigger gains than switching gear every month.",
-				"League of Legends uses NEAC kernel driver on PC. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
+				"League of Legends uses BattlEye kernel driver on PC. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
 			]
 		},
 		{
@@ -3695,7 +3695,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Call of Duty: Warzone guide covering battle royale fundamentals, buy stations, and Verdansk, Rebirth, and Urzikstan drops with loadout customisation — updated for 2026 PC players.",
 	h1: "Call of Duty: Warzone Squad Coordination Guide",
 	intro: "Call of Duty: Warzone remains one of the most discussed battle royale titles on PC, especially for players who want sharper reads in Verdansk, Rebirth, and Urzikstan drops with loadout customisation. This guide focuses on squad coordination without skipping the basics: how rounds flow, where teams win fights, and why buy stations often decides outcomes before aim ever matters.",
-	imageUrl: "https://sm.ign.com/t/ign_pk/screenshot/default/wz-verdansksubway-1601169413816_x2hg.1400.jpg",
+	imageUrl: "https://sm.ign.com/t/ign_pk/screenshot/default/wz-deadside-mapsubway-1601169413816_x2hg.1400.jpg",
 	imageAlt: "Call of Duty: Warzone gameplay — IGN screenshot",
 	sections: [
 		{
