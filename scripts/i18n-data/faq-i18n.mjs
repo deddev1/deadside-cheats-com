@@ -1,6 +1,7 @@
 /** Localized FAQ question/answer text keyed by slug. */
 
 import { FAQ_ACCURACY_FIXES } from './faq-accuracy-fixes.mjs';
+import { fixDeadsideCopyDeep } from './deadside-copy-fix.mjs';
 
 export const FAQ_I18N = {
 	es: {
@@ -13,8 +14,8 @@ export const FAQ_I18N = {
 			a: 'Deadside Cheats se mantiene para Deadside con reconstrucciones tras parches de BattlEye y del juego. Revisa la página de Estado antes de entrar en match. Ningún cheat puede garantizar indetectabilidad permanente.',
 		},
 		'solo-farmer-and-raider-sessions': {
-			q: '¿Funciona en matches de base y PvP?',
-			a: 'Sí. ESP, radar y aimbot están pensados para el flujo de match de Deadside: leer jugadores y agents, detectar loot y mantener conciencia cerca de sitios de bomba y vault sectors.',
+			q: '¿Funciona en raids de supervivencia y sesiones de escuadra?',
+			a: 'Sí. ESP, radar y aimbot están pensados para el flujo de partida de Deadside: detectar jugadores enemigos, rastrear botines y mantener conciencia cerca de compuestos y zonas de alto tráfico en raids PvP y sesiones de escuadra.',
 		},
 		'esp-wallhack-radar-or-aimbot': {
 			q: '¿Qué incluye: ESP, wallhack, radar o Aimbot?',
@@ -34,7 +35,7 @@ export const FAQ_I18N = {
 		},
 		'what-is-a-deadside-wallhack': {
 			q: '¿Qué es un wallhack de Deadside?',
-			a: 'Un wallhack de Deadside es un overlay ESP que muestra jugadores, agents y loot a través de las paredes. Deadside Cheats incluye distancias, señales de match y categorías configurables.',
+			a: 'Un wallhack de Deadside es un overlay ESP que muestra jugadores enemigos a través del terreno. Deadside Cheats incluye distancias, señales de armas y botín, y categorías configurables.',
 		},
 		'does-deadside-cheats-include-radar-hack': {
 			q: '¿Deadside Cheats incluye 2D radar?',
@@ -59,8 +60,8 @@ export const FAQ_I18N = {
 			a: "Deadside Cheats est maintenu pour Deadside avec des rebuilds après les patchs BattlEye et du jeu. Consultez la page Statut avant de match. Aucune triche ne garantit une indétectabilité permanente.",
 		},
 		'solo-farmer-and-raider-sessions': {
-			q: 'Est-ce que ça fonctionne en matches de base et en PvP ?',
-			a: "Oui. ESP, radar et aimbot sont conçus pour le flux de match Deadside — lire les joueurs et agents, repérer le loot et rester vigilant près des bomb sites.",
+			q: 'Est-ce que ça fonctionne en raids de survie et en sessions d\'escouade ?',
+			a: "Oui. ESP, radar et aimbot sont conçus pour le flux de raid Deadside — repérer les joueurs ennemis, suivre le loot et rester vigilant près des compounds et zones à fort trafic en raids PvP et sessions d'escouade.",
 		},
 		'esp-wallhack-radar-or-aimbot': {
 			q: "Qu'est-ce qui est inclus — ESP, wallhack, radar ou Aimbot ?",
@@ -80,7 +81,7 @@ export const FAQ_I18N = {
 		},
 		'what-is-a-deadside-wallhack': {
 			q: "Qu'est-ce qu'un wallhack Deadside ?",
-			a: "Un wallhack Deadside est un overlay ESP qui affiche joueurs, agents et loot à travers les murs. Deadside Cheats inclut distances, signaux de match et catégories configurables.",
+			a: "Un wallhack Deadside est un overlay ESP qui affiche les joueurs ennemis à travers le terrain. Deadside Cheats inclut distances, signaux d'armes et de loot, et catégories configurables.",
 		},
 		'does-deadside-cheats-include-radar-hack': {
 			q: 'Deadside Cheats inclut-il un 2D radar ?',
@@ -105,8 +106,8 @@ export const FAQ_I18N = {
 			a: 'Deadside Cheats wird für Deadside mit Rebuilds nach BattlEye- und Spiel-Patches gewartet. Prüfe die Status-Seite before queueing. Kein Cheat kann dauerhafte Undetected-Garantie geben.',
 		},
 		'solo-farmer-and-raider-sessions': {
-			q: 'Funktioniert das bei Basis-Raids und PvP?',
-			a: 'Ja. ESP, Radar und Aimbot sind für den Deadside-Raid-Flow gebaut — Spieler und agents lesen, Loot erkennen und bei Monumenten wachsam bleiben.',
+			q: 'Funktioniert das bei Überlebensraids und Squad-Sessions?',
+			a: 'Ja. ESP, Radar und Aimbot sind für den Deadside-Raid-Flow gebaut — feindliche Spieler erkennen, Loot verfolgen und in PvP-Raids und Squad-Sessions bei Compounds und Hotzones wachsam bleiben.',
 		},
 		'esp-wallhack-radar-or-aimbot': {
 			q: 'Was ist enthalten — ESP, Wallhack, Radar oder Aimbot?',
@@ -126,7 +127,7 @@ export const FAQ_I18N = {
 		},
 		'what-is-a-deadside-wallhack': {
 			q: 'Was ist ein Deadside Wallhack?',
-			a: 'Ein Deadside Wallhack ist ein ESP-Overlay, das Spieler, agents und Loot durch Wände zeigt. Deadside Cheats enthält Distanzen, Raid-Hinweise und umschaltbare Kategorien.',
+			a: 'Ein Deadside Wallhack ist ein ESP-Overlay, das feindliche Spieler durch Gelände zeigt. Deadside Cheats enthält Distanzanzeigen, Waffen- und Loot-Hinweise sowie umschaltbare Kategorien.',
 		},
 		'does-deadside-cheats-include-radar-hack': {
 			q: 'Enthält Deadside Cheats einen 2D Radar?',
@@ -195,6 +196,10 @@ for (const [locale, labels] of Object.entries(FAQ_TEMPLATES)) {
 for (const [locale, fixes] of Object.entries(FAQ_ACCURACY_FIXES)) {
 	if (!FAQ_I18N[locale]) FAQ_I18N[locale] = {};
 	Object.assign(FAQ_I18N[locale], fixes);
+}
+
+for (const locale of Object.keys(FAQ_I18N)) {
+	FAQ_I18N[locale] = fixDeadsideCopyDeep(FAQ_I18N[locale]);
 }
 
 /** Build FAQ overlay for translation.json from English base + locale map. */

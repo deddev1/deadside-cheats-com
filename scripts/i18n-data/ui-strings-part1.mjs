@@ -19,7 +19,7 @@ export const uiStrings = {
 		hacksPackage: "2D radar threat overlay for Deadside",
 		raidFight: "Aimbot assist during a Deadside tactical combat",
 		battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-		raidMap: "ESP markers for hero skills and POIs in Deadside",
+		raidMap: "ESP markers for loot routes and compounds in Deadside",
 	},
 	},
 	es: {
@@ -40,7 +40,7 @@ export const uiStrings = {
 		hacksPackage: "2D radar threat overlay for Deadside",
 		raidFight: "Aimbot assist during a Deadside tactical combat",
 		battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-		raidMap: "ESP markers for hero skills and POIs in Deadside",
+		raidMap: "ESP markers for loot routes and compounds in Deadside",
 	},
 	},
 	fr: {
@@ -61,7 +61,7 @@ export const uiStrings = {
 		hacksPackage: "2D radar threat overlay for Deadside",
 		raidFight: "Aimbot assist during a Deadside tactical combat",
 		battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-		raidMap: "ESP markers for hero skills and POIs in Deadside",
+		raidMap: "ESP markers for loot routes and compounds in Deadside",
 	},
 	},
 	de: {
@@ -82,7 +82,7 @@ export const uiStrings = {
 		hacksPackage: "2D radar threat overlay for Deadside",
 		raidFight: "Aimbot assist during a Deadside tactical combat",
 		battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-		raidMap: "ESP markers for hero skills and POIs in Deadside",
+		raidMap: "ESP markers for loot routes and compounds in Deadside",
 	},
 	},
 	pt: {
@@ -103,7 +103,7 @@ export const uiStrings = {
 		hacksPackage: "2D radar threat overlay for Deadside",
 		raidFight: "Aimbot assist during a Deadside tactical combat",
 		battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-		raidMap: "ESP markers for hero skills and POIs in Deadside",
+		raidMap: "ESP markers for loot routes and compounds in Deadside",
 	},
 	},
 	it: {
@@ -124,7 +124,7 @@ export const uiStrings = {
 		hacksPackage: "2D radar threat overlay for Deadside",
 		raidFight: "Aimbot assist during a Deadside tactical combat",
 		battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-		raidMap: "ESP markers for hero skills and POIs in Deadside",
+		raidMap: "ESP markers for loot routes and compounds in Deadside",
 	},
 	},
 	nl: {
@@ -145,7 +145,7 @@ export const uiStrings = {
 		hacksPackage: "2D radar threat overlay for Deadside",
 		raidFight: "Aimbot assist during a Deadside tactical combat",
 		battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-		raidMap: "ESP markers for hero skills and POIs in Deadside",
+		raidMap: "ESP markers for loot routes and compounds in Deadside",
 	},
 	},
 	pl: {
@@ -166,7 +166,7 @@ export const uiStrings = {
 		hacksPackage: "2D radar threat overlay for Deadside",
 		raidFight: "Aimbot assist during a Deadside tactical combat",
 		battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-		raidMap: "ESP markers for hero skills and POIs in Deadside",
+		raidMap: "ESP markers for loot routes and compounds in Deadside",
 	},
 	},
 	ru: {
@@ -187,7 +187,7 @@ export const uiStrings = {
 		hacksPackage: "2D radar threat overlay for Deadside",
 		raidFight: "Aimbot assist during a Deadside tactical combat",
 		battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-		raidMap: "ESP markers for hero skills and POIs in Deadside",
+		raidMap: "ESP markers for loot routes and compounds in Deadside",
 	},
 	},
 	tr: {
@@ -208,7 +208,7 @@ export const uiStrings = {
 		hacksPackage: "2D radar threat overlay for Deadside",
 		raidFight: "Aimbot assist during a Deadside tactical combat",
 		battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-		raidMap: "ESP markers for hero skills and POIs in Deadside",
+		raidMap: "ESP markers for loot routes and compounds in Deadside",
 	},
 	},
 };

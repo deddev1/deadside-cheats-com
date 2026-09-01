@@ -104,7 +104,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Deadside",
 					raidFight: "Aimbot assist during a Deadside tactical combat",
 					battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for loot and player markers and POIs in Deadside",
+					raidMap: "ESP markers for loot routes and compounds in Deadside",
 				},
 			},
 			pages: {
@@ -122,10 +122,10 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Why players choose deadside cheats in 2026",
 							paragraphs: [
-								"Deadside rewards map awareness. Deadside Cheats combines ESP wallhack for enemy players and player positions, radar-style threat cues, and configurable Aimbot so you can read fights before committing — in competitive raids, PvP raids, and official servers.",
+								"Deadside rewards map awareness. Deadside Cheats combines ESP wallhack for enemy players and squad positions, radar-style threat cues, and configurable Aimbot so you can read fights before committing — in PvP raids, loot runs, and official servers.",
 								"Official seasons, patches, and anti-cheat updates come from <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> and <a href=\"https://www.battleye.com/\" target=\"_blank\" rel=\"noopener noreferrer\">BattlEye</a>. We rebuild ESP, radar, and Aimbot modules when those patches require maintenance — then post status on the <a href=\"/updates/\">Updates page</a>.",
 								"Licenses ship digitally after payment confirmation. Monthly ($35) and lifetime ($150) plans include BattlEye maintenance rebuilds when anti-cheat or game patches require updates.",
-								"Many shops sell ESP-only or aimbot-only modules. Deadside Cheats ships player ESP wallhack, loot marker markers, 2D radar overlays, and configurable soft aim in one license — with a public <a href=\"/updates/\">status log</a> after BattlEye patches.",
+								"Many shops sell ESP-only or aimbot-only modules. Deadside Cheats ships player ESP wallhack, loot and player markers, 2D radar overlays, and configurable soft aim in one license — with a public <a href=\"/updates/\">status log</a> after BattlEye patches.",
 								"Compare our stack on <a href=\"/compare/\">Compare</a>, read <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a>, and review <a href=\"/\">deadside cheats 2026</a> criteria before checkout.",
 							],
 						},
@@ -626,7 +626,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Map coverage for wallhack ESP",
 							paragraphs: [
-								"Wallhack overlays support match, PvP raid sessions, and official servers with distance readouts and snaplines for engagement control.",
+								"Wallhack overlays support loot runs, PvP raid sessions, and official servers with distance readouts and snaplines for engagement control.",
 								"Season maps and POI changes are announced via <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Wallhack remains useful because it tracks entities, not fixed landmarks alone.",
 								"Pair wallhack awareness with <a href=\"/deadside-radar-hack/\">2D radar</a> cues for flanks during arena corners and vertical fights.",
 							],
@@ -750,7 +750,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"2026 updates bring new maps, player balance changes, and BattlEye patches. Deadside Cheats bundles ESP wallhack, 2D radar, and Aimbot with active maintenance — not a stale prior-year build.",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">Updates log</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover survival and PvP raids match loops — see <a href=\"/pricing/\">Pricing</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover survival raids and squad sessions — see <a href=\"/pricing/\">Pricing</a>.",
 							],
 						},
 						{
@@ -770,9 +770,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Episode 10+ and competitive raids meta in 2026",
+							h2: "2026 survival meta on Deadside",
 							paragraphs: [
-								"2026 competitive raids play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">aimbot profiles</a> and ESP toggles.",
+								"2026 PvP raids reward information speed — ESP loot markers, radar flank cues, and soft aim tuned for Deadside weapon TTK windows. After each major patch, revisit <a href=\"/deadside-aimbot/\">aimbot profiles</a> and ESP toggles.",
 								"Compare against <a href=\"/\">deadside cheats</a> criteria and <a href=\"/undetected-deadside-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/deadside-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/deadside-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
@@ -913,7 +913,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Mod menu categories for survival raids and squad sessions",
 							paragraphs: [
-								"Separate ESP wallhack categories for players, heroes, loot and player markers, and loot let you reduce overlay noise during rotations and compound zones.",
+								"Separate ESP wallhack categories for players, loot markers, vehicles, and crates let you reduce overlay noise during rotations and compound zones.",
 								"2D radar range and Aimbot smoothness adjust from the same mod menu — useful when <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> seasons change fight distances and mobility.",
 								"Soft tracking players should start with <a href=\"/deadside-aimbot/\">soft aim</a> profiles before aggressive FOV.",
 							],
@@ -982,7 +982,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What makes deadside cheats in 2026",
 							paragraphs: [
 								"The deadside cheats combine active BattlEye maintenance, a full ESP wallhack and radar stack, configurable Aimbot, and clear update communication — not a stale build from a prior season.",
-								"Deadside Cheats covers survival and PvP raids sessions with in-client toggles and post-patch rebuilds.",
+								"Deadside Cheats covers survival raids and squad sessions with in-client toggles and post-patch rebuilds.",
 								"Verify the live game is healthy via <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside on Steam</a>, then confirm our <a href=\"/updates/\">Updates</a> note before you judge any package “best.”",
 							],
 						},
@@ -1055,7 +1055,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "deadside esp | Wallhack Boxes | Deadside Cheats",
 					description: "deadside esp with player boxes & loot markers on PC. Wallhack, radar & aimbot included in one license. Buy at deadsidecheats.com from $35. Windows PC license",
 					h1: "deadside esp — Player Boxes Guide",
-					intro: "deadside esp overlays for Deadside — player outlines, threat cues, loot marker markers with distance readouts across survival and PvP raids sessions.",
+					intro: "deadside esp overlays for Deadside — player outlines, threat cues, loot markers with distance readouts across PvP raids and squad sessions.",
 					imageAlt: "deadside esp boxes and loot markers",
 					galleryTitle: "deadside esp gallery",
 					ctaPrimary: "Buy Deadside Cheats",
@@ -1357,7 +1357,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Deadside",
 					raidFight: "Aimbot assist during a Deadside tactical combat",
 					battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for loot and player markers and POIs in Deadside",
+					raidMap: "ESP markers for loot routes and compounds in Deadside",
 				},
 			},
 			pages: {
@@ -1996,7 +1996,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Deadside Cheats ofrece ESP wallhack, 2D radar y deadside aimbot indetectables para Deadside en Windows PC. checklist de deadside cheats 2026 antes del checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">Guía de trucos indetectables</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover survival and PvP raids match loops — see <a href=\"/pricing/\">Tienda</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover survival raids and squad sessions — see <a href=\"/pricing/\">Tienda</a>.",
 							],
 						},
 						{
@@ -2016,9 +2016,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Episode 10+ and competitive raids meta in 2026",
+							h2: "2026 survival meta on Deadside",
 							paragraphs: [
-								"2026 competitive raids play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot y soft aim</a> and ESP toggles.",
+								"2026 PvP raids reward information speed — ESP loot markers, radar flank cues, and soft aim tuned for Deadside weapon TTK windows. After each major patch, revisit <a href=\"/deadside-aimbot/\">Aimbot y soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Producto completo</a> criteria and <a href=\"/undetected-deadside-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/deadside-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/deadside-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
@@ -2549,7 +2549,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Deadside",
 					raidFight: "Aimbot assist during a Deadside tactical combat",
 					battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for loot and player markers and POIs in Deadside",
+					raidMap: "ESP markers for loot routes and compounds in Deadside",
 				},
 			},
 			pages: {
@@ -3188,7 +3188,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Deadside Cheats combine ESP wallhack, 2D radar et deadside aimbot indétectables pour Deadside sur PC Windows. checklist deadside cheats 2026 avant checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">Guide triches indétectables</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover survival and PvP raids match loops — see <a href=\"/pricing/\">Boutique</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover survival raids and squad sessions — see <a href=\"/pricing/\">Boutique</a>.",
 							],
 						},
 						{
@@ -3208,9 +3208,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Episode 10+ and competitive raids meta in 2026",
+							h2: "2026 survival meta on Deadside",
 							paragraphs: [
-								"2026 competitive raids play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot et soft aim</a> and ESP toggles.",
+								"2026 PvP raids reward information speed — ESP loot markers, radar flank cues, and soft aim tuned for Deadside weapon TTK windows. After each major patch, revisit <a href=\"/deadside-aimbot/\">Aimbot et soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Produit complet</a> criteria and <a href=\"/undetected-deadside-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/deadside-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/deadside-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
@@ -3742,7 +3742,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Deadside",
 					raidFight: "Aimbot assist during a Deadside tactical combat",
 					battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for loot and player markers and POIs in Deadside",
+					raidMap: "ESP markers for loot routes and compounds in Deadside",
 				},
 			},
 			pages: {
@@ -4381,7 +4381,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Deadside Cheats bündelt ESP wallhack, 2D radar und deadside aimbot als undetected Paket für Deadside auf Windows PC. 2026 deadside cheats Checkliste vor dem Checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">Undetected Cheats Guide</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover survival and PvP raids match loops — see <a href=\"/pricing/\">Shop</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover survival raids and squad sessions — see <a href=\"/pricing/\">Shop</a>.",
 							],
 						},
 						{
@@ -4401,9 +4401,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Episode 10+ and competitive raids meta in 2026",
+							h2: "2026 survival meta on Deadside",
 							paragraphs: [
-								"2026 competitive raids play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot und Soft Aim</a> and ESP toggles.",
+								"2026 PvP raids reward information speed — ESP loot markers, radar flank cues, and soft aim tuned for Deadside weapon TTK windows. After each major patch, revisit <a href=\"/deadside-aimbot/\">Aimbot und Soft Aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Vollständiges Produkt</a> criteria and <a href=\"/undetected-deadside-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/deadside-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/deadside-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
@@ -4934,7 +4934,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Deadside",
 					raidFight: "Aimbot assist during a Deadside tactical combat",
 					battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for loot and player markers and POIs in Deadside",
+					raidMap: "ESP markers for loot routes and compounds in Deadside",
 				},
 			},
 			pages: {
@@ -5572,7 +5572,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Deadside Cheats reúne ESP wallhack, 2D radar e deadside aimbot indetectáveis para Deadside no PC Windows. checklist de deadside cheats 2026 antes do checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">Guia de cheats indetectáveis</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover survival and PvP raids match loops — see <a href=\"/pricing/\">Loja</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover survival raids and squad sessions — see <a href=\"/pricing/\">Loja</a>.",
 							],
 						},
 						{
@@ -5592,9 +5592,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Episode 10+ and competitive raids meta in 2026",
+							h2: "2026 survival meta on Deadside",
 							paragraphs: [
-								"2026 competitive raids play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot e soft aim</a> and ESP toggles.",
+								"2026 PvP raids reward information speed — ESP loot markers, radar flank cues, and soft aim tuned for Deadside weapon TTK windows. After each major patch, revisit <a href=\"/deadside-aimbot/\">Aimbot e soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Produto completo</a> criteria and <a href=\"/undetected-deadside-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/deadside-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/deadside-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
@@ -6125,7 +6125,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Deadside",
 					raidFight: "Aimbot assist during a Deadside tactical combat",
 					battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for loot and player markers and POIs in Deadside",
+					raidMap: "ESP markers for loot routes and compounds in Deadside",
 				},
 			},
 			pages: {
@@ -6763,7 +6763,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Deadside Cheats unisce ESP wallhack, 2D radar e deadside aimbot indetectable per Deadside su PC Windows. checklist deadside cheats 2026 prima del checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">Guida cheat indetectable</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover survival and PvP raids match loops — see <a href=\"/pricing/\">Negozio</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover survival raids and squad sessions — see <a href=\"/pricing/\">Negozio</a>.",
 							],
 						},
 						{
@@ -6783,9 +6783,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Episode 10+ and competitive raids meta in 2026",
+							h2: "2026 survival meta on Deadside",
 							paragraphs: [
-								"2026 competitive raids play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot e soft aim</a> and ESP toggles.",
+								"2026 PvP raids reward information speed — ESP loot markers, radar flank cues, and soft aim tuned for Deadside weapon TTK windows. After each major patch, revisit <a href=\"/deadside-aimbot/\">Aimbot e soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Prodotto completo</a> criteria and <a href=\"/undetected-deadside-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/deadside-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/deadside-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
@@ -7316,7 +7316,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Deadside",
 					raidFight: "Aimbot assist during a Deadside tactical combat",
 					battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for loot and player markers and POIs in Deadside",
+					raidMap: "ESP markers for loot routes and compounds in Deadside",
 				},
 			},
 			pages: {
@@ -7954,7 +7954,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Deadside Cheats bundelt ESP wallhack, 2D radar en deadside aimbot als undetected pakket voor Deadside op Windows PC. 2026 deadside cheats checklist vóór checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">Undetected cheats gids</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover survival and PvP raids match loops — see <a href=\"/pricing/\">Winkel</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover survival raids and squad sessions — see <a href=\"/pricing/\">Winkel</a>.",
 							],
 						},
 						{
@@ -7974,9 +7974,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Episode 10+ and competitive raids meta in 2026",
+							h2: "2026 survival meta on Deadside",
 							paragraphs: [
-								"2026 competitive raids play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot en soft aim</a> and ESP toggles.",
+								"2026 PvP raids reward information speed — ESP loot markers, radar flank cues, and soft aim tuned for Deadside weapon TTK windows. After each major patch, revisit <a href=\"/deadside-aimbot/\">Aimbot en soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Volledig product</a> criteria and <a href=\"/undetected-deadside-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/deadside-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/deadside-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
@@ -8032,7 +8032,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Undetected status en patches",
 							paragraphs: [
-								"Deadside gebruikt BattlEye. Geen cheat blijft voor altijd undetected — onderhoud na patches telt. Check de Status-pagina na elke Deadside- of EAC-update vóór je speelt.",
+								"Deadside gebruikt BattlEye. Geen cheat blijft voor altijd undetected — onderhoud na patches telt. Check de Status-pagina na elke Deadside- of BattlEye-update vóór je speelt.",
 								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 							],
 							list: [
@@ -8507,7 +8507,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Deadside",
 					raidFight: "Aimbot assist during a Deadside tactical combat",
 					battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for loot and player markers and POIs in Deadside",
+					raidMap: "ESP markers for loot routes and compounds in Deadside",
 				},
 			},
 			pages: {
@@ -9145,7 +9145,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Deadside Cheats łączy ESP wallhack, 2D radar i deadside aimbot jako pakiet undetected dla Deadside na PC Windows. checklista deadside cheats 2026 przed checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">Przewodnik cheatów undetected</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover survival and PvP raids match loops — see <a href=\"/pricing/\">Sklep</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover survival raids and squad sessions — see <a href=\"/pricing/\">Sklep</a>.",
 							],
 						},
 						{
@@ -9165,9 +9165,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Episode 10+ and competitive raids meta in 2026",
+							h2: "2026 survival meta on Deadside",
 							paragraphs: [
-								"2026 competitive raids play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot i soft aim</a> and ESP toggles.",
+								"2026 PvP raids reward information speed — ESP loot markers, radar flank cues, and soft aim tuned for Deadside weapon TTK windows. After each major patch, revisit <a href=\"/deadside-aimbot/\">Aimbot i soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Pełny produkt</a> criteria and <a href=\"/undetected-deadside-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/deadside-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/deadside-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
@@ -9223,7 +9223,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Status undetected i patche",
 							paragraphs: [
-								"Deadside używa BattlEye. Żaden cheat nie jest undetected na zawsze — liczy się konserwacja po patchach. Sprawdź stronę Status po każdej aktualizacji Deadside lub EAC przed grą.",
+								"Deadside używa BattlEye. Żaden cheat nie jest undetected na zawsze — liczy się konserwacja po patchach. Sprawdź stronę Status po każdej aktualizacji Deadside lub BattlEye przed grą.",
 								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 							],
 							list: [
@@ -9698,7 +9698,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Deadside",
 					raidFight: "Aimbot assist during a Deadside tactical combat",
 					battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for loot and player markers and POIs in Deadside",
+					raidMap: "ESP markers for loot routes and compounds in Deadside",
 				},
 			},
 			pages: {
@@ -10336,7 +10336,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Deadside Cheats объединяет ESP wallhack, 2D radar и deadside aimbot в undetected пакете для Deadside на Windows PC. чеклист deadside cheats 2026 перед checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">Гайд undetected читов</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover survival and PvP raids match loops — see <a href=\"/pricing/\">Магазин</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover survival raids and squad sessions — see <a href=\"/pricing/\">Магазин</a>.",
 							],
 						},
 						{
@@ -10356,9 +10356,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Episode 10+ and competitive raids meta in 2026",
+							h2: "2026 survival meta on Deadside",
 							paragraphs: [
-								"2026 competitive raids play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot и soft aim</a> and ESP toggles.",
+								"2026 PvP raids reward information speed — ESP loot markers, radar flank cues, and soft aim tuned for Deadside weapon TTK windows. After each major patch, revisit <a href=\"/deadside-aimbot/\">Aimbot и soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Полный продукт</a> criteria and <a href=\"/undetected-deadside-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/deadside-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/deadside-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
@@ -10889,7 +10889,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Deadside",
 					raidFight: "Aimbot assist during a Deadside tactical combat",
 					battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for loot and player markers and POIs in Deadside",
+					raidMap: "ESP markers for loot routes and compounds in Deadside",
 				},
 			},
 			pages: {
@@ -11527,7 +11527,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, 2D radar ve deadside aimbot undetected paket sunar. checkout öncesi 2026 deadside cheats kontrol listesi",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">Undetected hile rehberi</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover survival and PvP raids match loops — see <a href=\"/pricing/\">Mağaza</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover survival raids and squad sessions — see <a href=\"/pricing/\">Mağaza</a>.",
 							],
 						},
 						{
@@ -11547,9 +11547,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Episode 10+ and competitive raids meta in 2026",
+							h2: "2026 survival meta on Deadside",
 							paragraphs: [
-								"2026 competitive raids play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot ve soft aim</a> and ESP toggles.",
+								"2026 PvP raids reward information speed — ESP loot markers, radar flank cues, and soft aim tuned for Deadside weapon TTK windows. After each major patch, revisit <a href=\"/deadside-aimbot/\">Aimbot ve soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Tam ürün</a> criteria and <a href=\"/undetected-deadside-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/deadside-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/deadside-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
@@ -12080,7 +12080,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Deadside",
 					raidFight: "Aimbot assist during a Deadside tactical combat",
 					battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for loot and player markers and POIs in Deadside",
+					raidMap: "ESP markers for loot routes and compounds in Deadside",
 				},
 			},
 			pages: {
@@ -12718,7 +12718,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Deadside Cheats يجمع ESP wallhack و2D radar وdeadside aimbot غير مكتشف لـ Deadside على Windows PC. قائمة deadside cheats 2026 قبل checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">دليل الغش غير المكتشف</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover survival and PvP raids match loops — see <a href=\"/pricing/\">المتجر</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover survival raids and squad sessions — see <a href=\"/pricing/\">المتجر</a>.",
 							],
 						},
 						{
@@ -12738,9 +12738,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Episode 10+ and competitive raids meta in 2026",
+							h2: "2026 survival meta on Deadside",
 							paragraphs: [
-								"2026 competitive raids play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot وSoft aim</a> and ESP toggles.",
+								"2026 PvP raids reward information speed — ESP loot markers, radar flank cues, and soft aim tuned for Deadside weapon TTK windows. After each major patch, revisit <a href=\"/deadside-aimbot/\">Aimbot وSoft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">المنتج الكامل</a> criteria and <a href=\"/undetected-deadside-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/deadside-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/deadside-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
@@ -12796,7 +12796,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "الحالة غير المكتشفة والتصحيحات",
 							paragraphs: [
-								"Deadside يستخدم BattlEye. لا يبقى أي cheat غير مكتشف للأبد — الصيانة بعد التصحيحات هي المهم. تحقق من صفحة الحالة بعد كل تحديث Deadside أو EAC قبل الدخول.",
+								"Deadside يستخدم BattlEye. لا يبقى أي cheat غير مكتشف للأبد — الصيانة بعد التصحيحات هي المهم. تحقق من صفحة الحالة بعد كل تحديث Deadside أو BattlEye قبل الدخول.",
 								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 							],
 							list: [
@@ -13271,7 +13271,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Deadside",
 					raidFight: "Aimbot assist during a Deadside tactical combat",
 					battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for loot and player markers and POIs in Deadside",
+					raidMap: "ESP markers for loot routes and compounds in Deadside",
 				},
 			},
 			pages: {
@@ -13909,7 +13909,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Deadside CheatsはDeadside向けWindows PC用ESP wallhack、2D radar、deadside aimbotのundetectedパッケージです。checkout前の2026 deadside cheatsチェックリスト",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">Undetectedチートガイド</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover survival and PvP raids match loops — see <a href=\"/pricing/\">ストア</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover survival raids and squad sessions — see <a href=\"/pricing/\">ストア</a>.",
 							],
 						},
 						{
@@ -13929,9 +13929,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Episode 10+ and competitive raids meta in 2026",
+							h2: "2026 survival meta on Deadside",
 							paragraphs: [
-								"2026 competitive raids play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot・Soft aim</a> and ESP toggles.",
+								"2026 PvP raids reward information speed — ESP loot markers, radar flank cues, and soft aim tuned for Deadside weapon TTK windows. After each major patch, revisit <a href=\"/deadside-aimbot/\">Aimbot・Soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">製品全体</a> criteria and <a href=\"/undetected-deadside-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/deadside-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/deadside-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
@@ -14462,7 +14462,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Deadside",
 					raidFight: "Aimbot assist during a Deadside tactical combat",
 					battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for loot and player markers and POIs in Deadside",
+					raidMap: "ESP markers for loot routes and compounds in Deadside",
 				},
 			},
 			pages: {
@@ -15100,7 +15100,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Deadside Cheats는 Deadside Windows PC용 ESP wallhack, 2D radar, deadside aimbot undetected 패키지입니다. checkout 전 2026 deadside cheats 체크리스트",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">Undetected 치트 가이드</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover survival and PvP raids match loops — see <a href=\"/pricing/\">스토어</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover survival raids and squad sessions — see <a href=\"/pricing/\">스토어</a>.",
 							],
 						},
 						{
@@ -15120,9 +15120,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Episode 10+ and competitive raids meta in 2026",
+							h2: "2026 survival meta on Deadside",
 							paragraphs: [
-								"2026 competitive raids play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot 및 soft aim</a> and ESP toggles.",
+								"2026 PvP raids reward information speed — ESP loot markers, radar flank cues, and soft aim tuned for Deadside weapon TTK windows. After each major patch, revisit <a href=\"/deadside-aimbot/\">Aimbot 및 soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">전체 제품</a> criteria and <a href=\"/undetected-deadside-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/deadside-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/deadside-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
@@ -15654,7 +15654,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Deadside",
 					raidFight: "Aimbot assist during a Deadside tactical combat",
 					battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for loot and player markers and POIs in Deadside",
+					raidMap: "ESP markers for loot routes and compounds in Deadside",
 				},
 			},
 			pages: {
@@ -16292,7 +16292,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。checkout前的2026 deadside cheats清单",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">Undetected作弊指南</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover survival and PvP raids match loops — see <a href=\"/pricing/\">商店</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover survival raids and squad sessions — see <a href=\"/pricing/\">商店</a>.",
 							],
 						},
 						{
@@ -16312,9 +16312,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Episode 10+ and competitive raids meta in 2026",
+							h2: "2026 survival meta on Deadside",
 							paragraphs: [
-								"2026 competitive raids play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">自瞄和软瞄准</a> and ESP toggles.",
+								"2026 PvP raids reward information speed — ESP loot markers, radar flank cues, and soft aim tuned for Deadside weapon TTK windows. After each major patch, revisit <a href=\"/deadside-aimbot/\">自瞄和软瞄准</a> and ESP toggles.",
 								"Compare against <a href=\"/\">完整产品</a> criteria and <a href=\"/undetected-deadside-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/deadside-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/deadside-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
@@ -16845,7 +16845,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Deadside",
 					raidFight: "Aimbot assist during a Deadside tactical combat",
 					battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for loot and player markers and POIs in Deadside",
+					raidMap: "ESP markers for loot routes and compounds in Deadside",
 				},
 			},
 			pages: {
@@ -17483,7 +17483,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, 2D radar और deadside aimbot undetected पैकेज देता है। checkout से पहले 2026 deadside cheats checklist",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">Undetected cheats गाइड</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover survival and PvP raids match loops — see <a href=\"/pricing/\">स्टोर</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover survival raids and squad sessions — see <a href=\"/pricing/\">स्टोर</a>.",
 							],
 						},
 						{
@@ -17503,9 +17503,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Episode 10+ and competitive raids meta in 2026",
+							h2: "2026 survival meta on Deadside",
 							paragraphs: [
-								"2026 competitive raids play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot और soft aim</a> and ESP toggles.",
+								"2026 PvP raids reward information speed — ESP loot markers, radar flank cues, and soft aim tuned for Deadside weapon TTK windows. After each major patch, revisit <a href=\"/deadside-aimbot/\">Aimbot और soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">पूरा उत्पाद</a> criteria and <a href=\"/undetected-deadside-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/deadside-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/deadside-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
@@ -18036,7 +18036,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Deadside",
 					raidFight: "Aimbot assist during a Deadside tactical combat",
 					battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for loot and player markers and POIs in Deadside",
+					raidMap: "ESP markers for loot routes and compounds in Deadside",
 				},
 			},
 			pages: {
@@ -18674,7 +18674,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Deadside Cheats menyediakan ESP wallhack, 2D radar, dan deadside aimbot undetected untuk Deadside di PC Windows. checklist deadside cheats 2026 sebelum checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">Panduan cheat undetected</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover survival and PvP raids match loops — see <a href=\"/pricing/\">Toko</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover survival raids and squad sessions — see <a href=\"/pricing/\">Toko</a>.",
 							],
 						},
 						{
@@ -18694,9 +18694,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Episode 10+ and competitive raids meta in 2026",
+							h2: "2026 survival meta on Deadside",
 							paragraphs: [
-								"2026 competitive raids play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot & soft aim</a> and ESP toggles.",
+								"2026 PvP raids reward information speed — ESP loot markers, radar flank cues, and soft aim tuned for Deadside weapon TTK windows. After each major patch, revisit <a href=\"/deadside-aimbot/\">Aimbot & soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Produk lengkap</a> criteria and <a href=\"/undetected-deadside-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/deadside-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/deadside-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
@@ -19227,7 +19227,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Deadside",
 					raidFight: "Aimbot assist during a Deadside tactical combat",
 					battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for loot and player markers and POIs in Deadside",
+					raidMap: "ESP markers for loot routes and compounds in Deadside",
 				},
 			},
 			pages: {
@@ -19865,7 +19865,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Deadside Cheats รวม ESP wallhack, 2D radar และ deadside aimbot แบบ undetected สำหรับ Deadside บน Windows PC checklist deadside cheats 2026 ก่อน checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">คู่มือ cheat undetected</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover survival and PvP raids match loops — see <a href=\"/pricing/\">ร้านค้า</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover survival raids and squad sessions — see <a href=\"/pricing/\">ร้านค้า</a>.",
 							],
 						},
 						{
@@ -19885,9 +19885,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Episode 10+ and competitive raids meta in 2026",
+							h2: "2026 survival meta on Deadside",
 							paragraphs: [
-								"2026 competitive raids play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot และ soft aim</a> and ESP toggles.",
+								"2026 PvP raids reward information speed — ESP loot markers, radar flank cues, and soft aim tuned for Deadside weapon TTK windows. After each major patch, revisit <a href=\"/deadside-aimbot/\">Aimbot และ soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">ผลิตภัณฑ์เต็มรูปแบบ</a> criteria and <a href=\"/undetected-deadside-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/deadside-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/deadside-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
@@ -20418,7 +20418,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Deadside",
 					raidFight: "Aimbot assist during a Deadside tactical combat",
 					battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for loot and player markers and POIs in Deadside",
+					raidMap: "ESP markers for loot routes and compounds in Deadside",
 				},
 			},
 			pages: {
@@ -21056,7 +21056,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Deadside Cheats cung cấp ESP wallhack, 2D radar và deadside aimbot undetected cho Deadside trên PC Windows. checklist deadside cheats 2026 trước checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">Hướng dẫn cheat undetected</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover survival and PvP raids match loops — see <a href=\"/pricing/\">Cửa hàng</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover survival raids and squad sessions — see <a href=\"/pricing/\">Cửa hàng</a>.",
 							],
 						},
 						{
@@ -21076,9 +21076,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Episode 10+ and competitive raids meta in 2026",
+							h2: "2026 survival meta on Deadside",
 							paragraphs: [
-								"2026 competitive raids play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot & soft aim</a> and ESP toggles.",
+								"2026 PvP raids reward information speed — ESP loot markers, radar flank cues, and soft aim tuned for Deadside weapon TTK windows. After each major patch, revisit <a href=\"/deadside-aimbot/\">Aimbot & soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Sản phẩm đầy đủ</a> criteria and <a href=\"/undetected-deadside-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/deadside-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/deadside-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
@@ -21609,7 +21609,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Deadside",
 					raidFight: "Aimbot assist during a Deadside tactical combat",
 					battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for loot and player markers and POIs in Deadside",
+					raidMap: "ESP markers for loot routes and compounds in Deadside",
 				},
 			},
 			pages: {
@@ -22247,7 +22247,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Deadside Cheats об'єднує ESP wallhack, 2D radar і deadside aimbot у undetected пакеті для Deadside на Windows PC. чеклист deadside cheats 2026 перед checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">Гайд undetected чітів</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover survival and PvP raids match loops — see <a href=\"/pricing/\">Магазин</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover survival raids and squad sessions — see <a href=\"/pricing/\">Магазин</a>.",
 							],
 						},
 						{
@@ -22267,9 +22267,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Episode 10+ and competitive raids meta in 2026",
+							h2: "2026 survival meta on Deadside",
 							paragraphs: [
-								"2026 competitive raids play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot і soft aim</a> and ESP toggles.",
+								"2026 PvP raids reward information speed — ESP loot markers, radar flank cues, and soft aim tuned for Deadside weapon TTK windows. After each major patch, revisit <a href=\"/deadside-aimbot/\">Aimbot і soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Повний продукт</a> criteria and <a href=\"/undetected-deadside-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/deadside-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/deadside-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
@@ -22325,7 +22325,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Undetected статус і патчі",
 							paragraphs: [
-								"Deadside використовує BattlEye. Жоден чит не undetected назавжди — важливе обслуговування після патчів. Перевіряйте сторінку Статус після кожного оновлення Deadside або EAC перед грою.",
+								"Deadside використовує BattlEye. Жоден чит не undetected назавжди — важливе обслуговування після патчів. Перевіряйте сторінку Статус після кожного оновлення Deadside або BattlEye перед грою.",
 								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 							],
 							list: [
@@ -22800,7 +22800,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Deadside",
 					raidFight: "Aimbot assist during a Deadside tactical combat",
 					battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for loot and player markers and POIs in Deadside",
+					raidMap: "ESP markers for loot routes and compounds in Deadside",
 				},
 			},
 			pages: {
@@ -23438,7 +23438,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Deadside Cheats spojuje ESP wallhack, 2D radar a deadside aimbot jako undetected balíček pro Deadside na Windows PC. checklist deadside cheats 2026 před checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">Průvodce undetected cheaty</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover survival and PvP raids match loops — see <a href=\"/pricing/\">Obchod</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover survival raids and squad sessions — see <a href=\"/pricing/\">Obchod</a>.",
 							],
 						},
 						{
@@ -23458,9 +23458,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Episode 10+ and competitive raids meta in 2026",
+							h2: "2026 survival meta on Deadside",
 							paragraphs: [
-								"2026 competitive raids play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot a soft aim</a> and ESP toggles.",
+								"2026 PvP raids reward information speed — ESP loot markers, radar flank cues, and soft aim tuned for Deadside weapon TTK windows. After each major patch, revisit <a href=\"/deadside-aimbot/\">Aimbot a soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Kompletní produkt</a> criteria and <a href=\"/undetected-deadside-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/deadside-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/deadside-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
@@ -23516,7 +23516,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Undetected stav a patche",
 							paragraphs: [
-								"Deadside používá BattlEye. Žádný cheat není undetected navždy — záleží na údržbě po patchi. Před hrou zkontrolujte stránku Stav po každé aktualizaci Deadside nebo EAC.",
+								"Deadside používá BattlEye. Žádný cheat není undetected navždy — záleží na údržbě po patchi. Před hrou zkontrolujte stránku Stav po každé aktualizaci Deadside nebo BattlEye.",
 								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 							],
 							list: [
@@ -23991,7 +23991,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Deadside",
 					raidFight: "Aimbot assist during a Deadside tactical combat",
 					battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for loot and player markers and POIs in Deadside",
+					raidMap: "ESP markers for loot routes and compounds in Deadside",
 				},
 			},
 			pages: {
@@ -24629,7 +24629,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Deadside Cheats combină ESP wallhack, 2D radar și deadside aimbot undetected pentru Deadside pe PC Windows. checklist deadside cheats 2026 înainte de checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">Ghid cheats undetected</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover survival and PvP raids match loops — see <a href=\"/pricing/\">Magazin</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover survival raids and squad sessions — see <a href=\"/pricing/\">Magazin</a>.",
 							],
 						},
 						{
@@ -24649,9 +24649,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Episode 10+ and competitive raids meta in 2026",
+							h2: "2026 survival meta on Deadside",
 							paragraphs: [
-								"2026 competitive raids play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot și soft aim</a> and ESP toggles.",
+								"2026 PvP raids reward information speed — ESP loot markers, radar flank cues, and soft aim tuned for Deadside weapon TTK windows. After each major patch, revisit <a href=\"/deadside-aimbot/\">Aimbot și soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Produs complet</a> criteria and <a href=\"/undetected-deadside-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/deadside-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/deadside-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
@@ -24707,7 +24707,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Status undetected și patch-uri",
 							paragraphs: [
-								"Deadside folosește BattlEye. Niciun cheat nu rămâne undetected pentru totdeauna — mentenanța după patch contează. Verifică pagina Status după fiecare update Deadside sau EAC înainte de joc.",
+								"Deadside folosește BattlEye. Niciun cheat nu rămâne undetected pentru totdeauna — mentenanța după patch contează. Verifică pagina Status după fiecare update Deadside sau BattlEye înainte de joc.",
 								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 							],
 							list: [
@@ -25182,7 +25182,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Deadside",
 					raidFight: "Aimbot assist during a Deadside tactical combat",
 					battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for loot and player markers and POIs in Deadside",
+					raidMap: "ESP markers for loot routes and compounds in Deadside",
 				},
 			},
 			pages: {
@@ -25820,7 +25820,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Deadside Cheats kombinerar ESP wallhack, 2D radar och deadside aimbot som undetected paket för Deadside på Windows PC. 2026 deadside cheats checklist före checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">Undetected cheats-guide</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover survival and PvP raids match loops — see <a href=\"/pricing/\">Butik</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover survival raids and squad sessions — see <a href=\"/pricing/\">Butik</a>.",
 							],
 						},
 						{
@@ -25840,9 +25840,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Episode 10+ and competitive raids meta in 2026",
+							h2: "2026 survival meta on Deadside",
 							paragraphs: [
-								"2026 competitive raids play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot och soft aim</a> and ESP toggles.",
+								"2026 PvP raids reward information speed — ESP loot markers, radar flank cues, and soft aim tuned for Deadside weapon TTK windows. After each major patch, revisit <a href=\"/deadside-aimbot/\">Aimbot och soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Fullständig produkt</a> criteria and <a href=\"/undetected-deadside-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/deadside-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/deadside-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
@@ -25898,7 +25898,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Undetected-status och patchar",
 							paragraphs: [
-								"Deadside använder BattlEye. Ingen cheat förblir undetected för evigt — underhåll efter patchar räknas. Kontrollera Status-sidan efter varje Deadside- eller EAC-uppdatering före spel.",
+								"Deadside använder BattlEye. Ingen cheat förblir undetected för evigt — underhåll efter patchar räknas. Kontrollera Status-sidan efter varje Deadside- eller BattlEye-uppdatering före spel.",
 								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 							],
 							list: [

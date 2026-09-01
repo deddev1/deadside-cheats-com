@@ -316,8 +316,8 @@
         "a": "Deadside Cheats se mantiene para Deadside con reconstrucciones tras parches de BattlEye y del juego. Revisa la Stato antes de entrar en match. Ningún cheat puede garantizar indetectabilidad permanente."
       },
       "solo-farmer-and-raider-sessions": {
-        "q": "Funziona nelle round battle royale e nelle partite classificate?",
-        "a": "Sì. ESP, radar e aimbot sono pensati per il flusso di match di Deadside — leggere eroi nemici, tracciare loot e loot crates, e restare consapevoli vicino a POI e zone di combattimento in PvP raids e competitive raids."
+        "q": "¿Funciona en raids de supervivencia y sesiones de escuadra?",
+        "a": "Sí. ESP, radar y aimbot están pensados para el flujo de partida de Deadside: detectar jugadores enemigos, rastrear botines y mantener conciencia cerca de compuestos y zonas de alto tráfico en raids PvP y sesiones de escuadra."
       },
       "esp-wallhack-radar-or-aimbot": {
         "q": "¿Qué incluye: ESP, wallhack, radar o Aimbot?",
@@ -336,8 +336,8 @@
         "a": "Usa la página de Supporto o escribe a support@deadsidecheats.com. Incluye los datos del pedido y una descripción clara del problema de instalación."
       },
       "what-is-a-deadside-wallhack": {
-        "q": "Cos'è un wallhack Deadside?",
-        "a": "Un wallhack Deadside è un overlay ESP che mostra eroi nemici attraverso il terreno. Deadside Cheats include distanze, segnali di grapple e ultimate, e categorie configurabili."
+        "q": "¿Qué es un wallhack de Deadside?",
+        "a": "Un wallhack de Deadside es un overlay ESP que muestra jugadores enemigos a través del terreno. Deadside Cheats incluye distancias, señales de armas y botín, y categorías configurables."
       },
       "does-deadside-cheats-include-radar-hack": {
         "q": "¿Deadside Cheats incluye 2D radar?",
@@ -356,12 +356,12 @@
         "a": "Deadside Cheats is $35 per month or $150 lifetime USD on Windows PC. Both plans include ESP wallhack, 2D radar, soft aim, and BattlEye maintenance rebuilds. See Pricing for the latest plan details before checkout."
       },
       "what-is-deadside-esp-hack": {
-        "q": "Cos'è un ESP Deadside?",
-        "a": "Un ESP Deadside è un overlay di visibilità che mostra eroi nemici, armi e loot attraverso i muri. Deadside Cheats ESP include box giocatore, tag distanza, segnali grapple e ultimate, e categorie configurabili per PvP raids e competitive raids."
+        "q": "What is deadside esp?",
+        "a": "deadside esp is a visibility overlay that shows enemy players, weapons, and loot through walls. Deadside Cheats ESP includes player boxes, distance tags, and toggleable categories for PvP raids and squad sessions."
       },
       "what-is-deadside-aimbot-hack": {
-        "q": "Cos'è un aimbot Deadside?",
-        "a": "Un aimbot Deadside fornisce assistenza mira con FOV, smoothing e priorità ossa configurabili. Deadside Cheats usa profili soft aim naturali in team fight e duelli — regola nel menu mod prima delle code competitive raids."
+        "q": "What is a deadside aimbot?",
+        "a": "A deadside aimbot provides aim assist with configurable FOV, smoothing, and bone priority. Deadside Cheats uses soft aim profiles designed to feel natural in firefights and duels — tune settings in the mod menu before you deploy."
       },
       "how-to-install-deadside-cheats": {
         "q": "How do I install deadside cheats on Windows PC?",
@@ -380,20 +380,20 @@
         "a": "Yes. Deadside Cheats supports Windows 10 and Windows 11 on PC. Use a clean install path from the Setup guide, keep BattlEye status green on the Updates page, and avoid running outdated builds after major patches."
       },
       "what-is-deadside-soft-aim": {
-        "q": "Cos'è il soft aim Deadside?",
-        "a": "Il soft aim Deadside guida dolcemente la mira verso i bersagli in un FOV impostato invece di agganciare all'istante. Deadside Cheats permette di regolare smoothing, priorità ossa e profili per tipo di arma in PvP raids e competitive raids."
+        "q": "What is Deadside soft aim?",
+        "a": "Deadside soft aim gently guides aim toward targets inside a set FOV instead of snapping instantly. Deadside Cheats lets you adjust smoothing, bone priority, and per-weapon-type profiles so assist feels controlled in PvP raids and squad sessions."
       },
       "free-deadside-cheat-download": {
         "q": "Is there a free Deadside cheat download?",
         "a": "Deadside Cheats is a paid license — there is no official free download. Avoid random “free deadside cheat” sites; they often ship malware or detected loaders. Compare monthly and lifetime plans on Pricing for legitimate ESP, radar, and aimbot access with support."
       },
       "deadside-battleye-bypass": {
-        "q": "Come funziona il bypass BattlEye per i deadside cheats?",
-        "a": "Non esiste un bypass BattlEye permanente. Deadside Cheats è mantenuto con rebuild dopo patch Deadside e BattlEye — controlla la pagina Aggiornamenti prima di giocare. Impostazioni responsabili e l'ultima build contano più di qualsiasi promessa di “bypass”."
+        "q": "How does BattlEye bypass work for deadside cheats?",
+        "a": "There is no permanent BattlEye bypass. Deadside Cheats is maintained with rebuilds after Deadside and BattlEye patches — check the Updates page before you deploy. Responsible settings and loading the latest build matter more than any “bypass” claim."
       },
       "deadside-cheats-for-ranked": {
-        "q": "I deadside cheats funzionano in competitivo classificato?",
-        "a": "Sì. ESP, radar e soft aim sono fatti per competitive raids e PvP raids su Deadside in PC Windows. Usa overlay conservativi, leggi note di manutenzione dopo i patch e conferma lo stato undetected nella pagina Aggiornamenti prima delle code competitive."
+        "q": "Do deadside cheats work in competitive raids?",
+        "a": "Yes. ESP, radar, and soft aim are built for competitive and PvP Deadside sessions on Windows PC. Use conservative overlay settings, read maintenance notes after patches, and confirm undetected status on the Updates page before you deploy."
       },
       "what-is-deadside-mod-menu": {
         "q": "What is a Deadside mod menu?",

@@ -1405,10 +1405,10 @@ export const PAGE_CONTENT = {
 				"Deadside usa BattlEye. Nessun cheat resta indetectable per sempre — conta la manutenzione post-patch. Controlla la pagina Stato dopo ogni update Deadside o BattlEye prima di giocare."
 			],
 			"nl": [
-				"Deadside gebruikt BattlEye. Geen cheat blijft voor altijd undetected — onderhoud na patches telt. Check de Status-pagina na elke Deadside- of EAC-update vóór je speelt."
+				"Deadside gebruikt BattlEye. Geen cheat blijft voor altijd undetected — onderhoud na patches telt. Check de Status-pagina na elke Deadside- of BattlEye-update vóór je speelt."
 			],
 			"pl": [
-				"Deadside używa BattlEye. Żaden cheat nie jest undetected na zawsze — liczy się konserwacja po patchach. Sprawdź stronę Status po każdej aktualizacji Deadside lub EAC przed grą."
+				"Deadside używa BattlEye. Żaden cheat nie jest undetected na zawsze — liczy się konserwacja po patchach. Sprawdź stronę Status po każdej aktualizacji Deadside lub BattlEye przed grą."
 			],
 			"ru": [
 				"Deadside использует BattlEye. Ни один чит не undetected навсегда — важно обслуживание после патчей. Проверяйте страницу Статус после каждого обновления Deadside или BattlEye перед игрой."
@@ -1417,7 +1417,7 @@ export const PAGE_CONTENT = {
 				"Deadside BattlEye kullanır. Hiçbir hile sonsuza kadar undetected kalmaz — yama sonrası bakım önemlidir. Oyuna girmeden önce her Deadside veya BattlEye güncellemesinden sonra Durum sayfasını kontrol edin."
 			],
 			"ar": [
-				"Deadside يستخدم BattlEye. لا يبقى أي cheat غير مكتشف للأبد — الصيانة بعد التصحيحات هي المهم. تحقق من صفحة الحالة بعد كل تحديث Deadside أو EAC قبل الدخول."
+				"Deadside يستخدم BattlEye. لا يبقى أي cheat غير مكتشف للأبد — الصيانة بعد التصحيحات هي المهم. تحقق من صفحة الحالة بعد كل تحديث Deadside أو BattlEye قبل الدخول."
 			],
 			"ja": [
 				"DeadsideはBattlEyeを使用。チートは永久にundetectedではありません — パッチ後のメンテナンスが重要です。プレイ前にDeadsideまたはBattlEye更新後はステータスページを確認してください。"
@@ -1441,16 +1441,16 @@ export const PAGE_CONTENT = {
 				"Deadside dùng BattlEye. Không cheat nào undetected mãi — bảo trì sau bản vá mới quan trọng. Kiểm tra trang Trạng thái sau mỗi cập nhật Deadside hoặc BattlEye trước khi vào game."
 			],
 			"uk": [
-				"Deadside використовує BattlEye. Жоден чит не undetected назавжди — важливе обслуговування після патчів. Перевіряйте сторінку Статус після кожного оновлення Deadside або EAC перед грою."
+				"Deadside використовує BattlEye. Жоден чит не undetected назавжди — важливе обслуговування після патчів. Перевіряйте сторінку Статус після кожного оновлення Deadside або BattlEye перед грою."
 			],
 			"cs": [
-				"Deadside používá BattlEye. Žádný cheat není undetected navždy — záleží na údržbě po patchi. Před hrou zkontrolujte stránku Stav po každé aktualizaci Deadside nebo EAC."
+				"Deadside používá BattlEye. Žádný cheat není undetected navždy — záleží na údržbě po patchi. Před hrou zkontrolujte stránku Stav po každé aktualizaci Deadside nebo BattlEye."
 			],
 			"ro": [
-				"Deadside folosește BattlEye. Niciun cheat nu rămâne undetected pentru totdeauna — mentenanța după patch contează. Verifică pagina Status după fiecare update Deadside sau EAC înainte de joc."
+				"Deadside folosește BattlEye. Niciun cheat nu rămâne undetected pentru totdeauna — mentenanța după patch contează. Verifică pagina Status după fiecare update Deadside sau BattlEye înainte de joc."
 			],
 			"sv": [
-				"Deadside använder BattlEye. Ingen cheat förblir undetected för evigt — underhåll efter patchar räknas. Kontrollera Status-sidan efter varje Deadside- eller EAC-uppdatering före spel."
+				"Deadside använder BattlEye. Ingen cheat förblir undetected för evigt — underhåll efter patchar räknas. Kontrollera Status-sidan efter varje Deadside- eller BattlEye-uppdatering före spel."
 			]
 		},
 		"4": {
