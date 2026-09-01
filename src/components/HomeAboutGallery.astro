@@ -5,56 +5,100 @@ import { contentSrcSet } from '../lib/responsive-images';
 interface Props {
 	caption: string;
 	scrollLabel: string;
+	prevLabel: string;
+	nextLabel: string;
 }
 
-const { caption, scrollLabel } = Astro.props;
+const { caption, scrollLabel, prevLabel, nextLabel } = Astro.props;
 const galleryId = `home-about-gallery-${Math.random().toString(36).slice(2, 9)}`;
+const slideCount = productScreenshots.length;
 ---
 
 <figure class="home-about-gallery">
-	<div
-		id={galleryId}
-		class="home-about-gallery__scroller"
-		role="region"
-		aria-roledescription="carousel"
-		aria-label={scrollLabel}
-		tabindex="0"
-	>
-		{
-			productScreenshots.map((shot, index) => (
-				<div
-					class="home-about-gallery__slide"
-					role="group"
-					aria-roledescription="slide"
-					aria-label={`${index + 1} of ${productScreenshots.length}`}
-				>
-					<img
-						class="home-about-gallery__img"
-						src={shot.src}
-						srcset={contentSrcSet(shot.src)}
-						sizes="(min-width: 56rem) 34rem, 100vw"
-						alt={shot.alt}
-						width="960"
-						height="540"
-						loading={index === 0 ? 'eager' : 'lazy'}
-						decoding="async"
-						draggable="false"
-					/>
-				</div>
-			))
-		}
+	<div class="home-about-gallery__frame">
+		<button
+			type="button"
+			class="home-about-gallery__nav home-about-gallery__nav--prev"
+			aria-label={prevLabel}
+			data-gallery-prev
+			disabled
+		>
+			<svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
+				<path
+					d="M14.5 5.5 8 12l6.5 6.5"
+					stroke="currentColor"
+					stroke-width="2"
+					stroke-linecap="round"
+					stroke-linejoin="round"></path>
+			</svg>
+		</button>
+
+		<div
+			id={galleryId}
+			class="home-about-gallery__scroller"
+			role="region"
+			aria-roledescription="carousel"
+			aria-label={scrollLabel}
+			tabindex="0"
+		>
+			{
+				productScreenshots.map((shot, index) => (
+					<div
+						class="home-about-gallery__slide"
+						role="group"
+						aria-roledescription="slide"
+						aria-label={`${index + 1} of ${slideCount}`}
+						data-slide-index={index}
+					>
+						<img
+							class="home-about-gallery__img"
+							src={shot.src}
+							srcset={contentSrcSet(shot.src)}
+							sizes="(min-width: 56rem) 34rem, 100vw"
+							alt={shot.alt}
+							width="960"
+							height="540"
+							loading={index === 0 ? 'eager' : 'lazy'}
+							decoding="async"
+							draggable="false"
+						/>
+					</div>
+				))
+			}
+		</div>
+
+		<button
+			type="button"
+			class="home-about-gallery__nav home-about-gallery__nav--next"
+			aria-label={nextLabel}
+			data-gallery-next
+		>
+			<svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
+				<path
+					d="M9.5 5.5 16 12l-6.5 6.5"
+					stroke="currentColor"
+					stroke-width="2"
+					stroke-linecap="round"
+					stroke-linejoin="round"></path>
+			</svg>
+		</button>
 	</div>
 	<figcaption class="home-about-gallery__caption">{caption}</figcaption>
 </figure>
 
 <script>
 	function initHomeAboutGalleries() {
-		document.querySelectorAll('.home-about-gallery__scroller').forEach((scroller) => {
-			if (scroller.dataset.galleryInit === 'true') return;
-			scroller.dataset.galleryInit = 'true';
+		document.querySelectorAll('.home-about-gallery__frame').forEach((frame) => {
+			if (frame.dataset.galleryInit === 'true') return;
+			frame.dataset.galleryInit = 'true';
 
-			const slides = scroller.querySelectorAll('.home-about-gallery__slide');
-			if (slides.length < 2) return;
+			const scroller = frame.querySelector('.home-about-gallery__scroller');
+			const prevBtn = frame.querySelector('[data-gallery-prev]');
+			const nextBtn = frame.querySelector('[data-gallery-next]');
+			const slides = scroller?.querySelectorAll('.home-about-gallery__slide');
+			if (!scroller || !prevBtn || !nextBtn || !slides || slides.length < 2) return;
+
+			let activeIndex = 0;
 
 			const scrollToSlide = (index) => {
 				const slide = slides[index];
@@ -63,7 +107,11 @@ const galleryId = `home-about-gallery-${Math.random().toString(36).slice(2, 9)}`
 				scroller.scrollTo({ left: offset, behavior: 'smooth' });
 			};
 
-			let activeIndex = 0;
+			const updateNav = () => {
+				prevBtn.disabled = activeIndex <= 0;
+				nextBtn.disabled = activeIndex >= slides.length - 1;
+			};
+
 			const syncActive = () => {
 				const center = scroller.scrollLeft + scroller.clientWidth / 2;
 				let nearest = 0;
@@ -77,11 +125,24 @@ const galleryId = `home-about-gallery-${Math.random().toString(36).slice(2, 9)}`
 					}
 				});
 				activeIndex = nearest;
+				updateNav();
 			};
 
-			scroller.addEventListener('scroll', () => {
-				window.requestAnimationFrame(syncActive);
-			}, { passive: true });
+			prevBtn.addEventListener('click', () => {
+				scrollToSlide(Math.max(activeIndex - 1, 0));
+			});
+
+			nextBtn.addEventListener('click', () => {
+				scrollToSlide(Math.min(activeIndex + 1, slides.length - 1));
+			});
+
+			scroller.addEventListener(
+				'scroll',
+				() => {
+					window.requestAnimationFrame(syncActive);
+				},
+				{ passive: true },
+			);
 
 			scroller.addEventListener('keydown', (event) => {
 				if (event.key === 'ArrowRight') {
@@ -92,6 +153,8 @@ const galleryId = `home-about-gallery-${Math.random().toString(36).slice(2, 9)}`
 					scrollToSlide(Math.max(activeIndex - 1, 0));
 				}
 			});
+
+			updateNav();
 		});
 	}
 
@@ -102,6 +165,11 @@ const galleryId = `home-about-gallery-${Math.random().toString(36).slice(2, 9)}`
 <style>
 	.home-about-gallery {
 		margin: 0;
+		width: 100%;
+	}
+
+	.home-about-gallery__frame {
+		position: relative;
 		width: 100%;
 	}
 
@@ -120,26 +188,17 @@ const galleryId = `home-about-gallery-${Math.random().toString(36).slice(2, 9)}`
 		border: 1px solid var(--line);
 		background: var(--bg-elevated);
 		box-shadow: 0 12px 40px color-mix(in srgb, var(--bg) 55%, transparent);
-		scrollbar-width: thin;
-		scrollbar-color: color-mix(in srgb, var(--magenta) 55%, transparent) transparent;
+		scrollbar-width: none;
+		-ms-overflow-style: none;
+	}
+
+	.home-about-gallery__scroller::-webkit-scrollbar {
+		display: none;
 	}
 
 	.home-about-gallery__scroller:focus-visible {
 		outline: 2px solid var(--magenta);
 		outline-offset: 2px;
-	}
-
-	.home-about-gallery__scroller::-webkit-scrollbar {
-		height: 0.45rem;
-	}
-
-	.home-about-gallery__scroller::-webkit-scrollbar-thumb {
-		border-radius: 999px;
-		background: color-mix(in srgb, var(--magenta) 55%, transparent);
-	}
-
-	.home-about-gallery__scroller::-webkit-scrollbar-track {
-		background: color-mix(in srgb, var(--bg) 80%, transparent);
 	}
 
 	.home-about-gallery__slide {
@@ -161,11 +220,76 @@ const galleryId = `home-about-gallery-${Math.random().toString(36).slice(2, 9)}`
 		-webkit-user-drag: none;
 	}
 
+	.home-about-gallery__nav {
+		position: absolute;
+		top: 50%;
+		z-index: 2;
+		display: grid;
+		place-items: center;
+		width: 2.35rem;
+		height: 2.35rem;
+		margin: 0;
+		padding: 0;
+		border: 1px solid color-mix(in srgb, #fff 22%, transparent);
+		border-radius: 999px;
+		background: color-mix(in srgb, var(--bg) 72%, transparent);
+		color: #fff;
+		cursor: pointer;
+		transform: translateY(-50%);
+		backdrop-filter: blur(6px);
+		box-shadow: 0 6px 20px color-mix(in srgb, var(--bg) 55%, transparent);
+		transition:
+			background 0.15s ease,
+			border-color 0.15s ease,
+			transform 0.15s ease,
+			opacity 0.15s ease;
+	}
+
+	.home-about-gallery__nav svg {
+		width: 1.15rem;
+		height: 1.15rem;
+	}
+
+	.home-about-gallery__nav--prev {
+		left: 0.55rem;
+	}
+
+	.home-about-gallery__nav--next {
+		right: 0.55rem;
+	}
+
+	.home-about-gallery__nav:hover:not(:disabled),
+	.home-about-gallery__nav:focus-visible:not(:disabled) {
+		background: color-mix(in srgb, var(--magenta) 78%, var(--bg));
+		border-color: color-mix(in srgb, var(--magenta) 55%, transparent);
+		transform: translateY(-50%) scale(1.05);
+	}
+
+	.home-about-gallery__nav:disabled {
+		opacity: 0.35;
+		cursor: not-allowed;
+	}
+
 	.home-about-gallery__caption {
 		margin: 0.55rem 0 0;
 		font-size: 0.8125rem;
 		line-height: 1.45;
 		color: var(--ink-faint);
 		text-align: center;
+	}
+
+	@media (max-width: 480px) {
+		.home-about-gallery__nav {
+			width: 2rem;
+			height: 2rem;
+		}
+
+		.home-about-gallery__nav--prev {
+			left: 0.35rem;
+		}
+
+		.home-about-gallery__nav--next {
+			right: 0.35rem;
+		}
 	}
 </style>
