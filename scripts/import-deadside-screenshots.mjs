@@ -99,7 +99,11 @@ for (let i = 0; i < SOURCE_URLS.length; i += 1) {
 	sourceFiles.push(await fetchSource(SOURCE_URLS[i], i));
 }
 
+/** Reviews index banner — same in-match shot as screenshot-04. */
+const REVIEWS_BANNER_SOURCE_INDEX = 3;
+
 let totalBytes = 0;
+let reviewsBannerCanonical = null;
 
 for (let n = 1; n <= SCREENSHOT_COUNT; n += 1) {
 	const num = String(n).padStart(2, '0');
@@ -108,6 +112,9 @@ for (let n = 1; n <= SCREENSHOT_COUNT; n += 1) {
 
 	console.log(`Processing ${base}…`);
 	const { outputs, canonical } = await writeScreenshotSet(png, base);
+	if (n - 1 === REVIEWS_BANNER_SOURCE_INDEX) {
+		reviewsBannerCanonical = canonical;
+	}
 	for (const { file, bytes } of outputs) {
 		totalBytes += bytes;
 		console.log(`  ✓ ${file} (${Math.round(bytes / 1024)}KB)`);
@@ -117,6 +124,18 @@ for (let n = 1; n <= SCREENSHOT_COUNT; n += 1) {
 		await writeFile(path.join(imagesDir, name), canonical);
 		console.log(`  ✓ ${name} (alias)`);
 	}
+}
+
+if (reviewsBannerCanonical) {
+	const reviewsPng = sourceFiles[REVIEWS_BANNER_SOURCE_INDEX];
+	await writeFile(path.join(imagesDir, 'reviews-banner.webp'), reviewsBannerCanonical);
+	for (const width of CONTENT_WIDTHS) {
+		const webp = await encodeWebp(reviewsPng, width);
+		await writeFile(path.join(imagesDir, `reviews-banner-${width}w.webp`), webp);
+		totalBytes += webp.length;
+	}
+	totalBytes += reviewsBannerCanonical.length;
+	console.log('✓ reviews-banner.webp (+ responsive variants)');
 }
 
 console.log(
