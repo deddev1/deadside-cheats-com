@@ -12,8 +12,18 @@ Static Astro 7 site for [narakacheats.org](https://narakacheats.org). Primary SE
 
 ```bash
 npm install
+npm run dev
+```
+
+Open **http://localhost:3000** in your browser.
+
+On a **Cursor Cloud Agent**, use the **Ports** panel (port **3000**) and open the forwarded URL — plain `localhost` on your machine does not reach the remote VM.
+
+To preview the production build:
+
+```bash
 npm run localhost
-# open http://localhost:5173
+# builds dist/ then serves at http://localhost:3000
 ```
 
 ## Deploy

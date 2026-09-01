@@ -1,18 +1,17 @@
 {
   "name": "Naraka Cheats",
-  "install": "npm ci && npm run build",
-  "start": "npm run localhost",
+  "install": "npm ci",
   "ports": [
     {
       "name": "Naraka Cheats site",
-      "port": 5173
+      "port": 3000
     }
   ],
   "terminals": [
     {
-      "name": "localhost",
-      "command": "npm run localhost",
-      "description": "Site preview at http://localhost:5173"
+      "name": "dev",
+      "command": "npm run dev",
+      "description": "Dev server at http://localhost:3000 — open the Ports panel in Cursor to access it"
     }
   ]
 }
