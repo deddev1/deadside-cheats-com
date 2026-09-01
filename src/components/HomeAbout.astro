@@ -26,9 +26,9 @@ const useStructuredAboutP1 = locale === 'en';
 			{useStructuredAboutP1 ? (
 				<p>
 					{aboutP1Before}{' '}
-					<a href={pricingHref}>{t('home.aboutStore')}</a>
+					<a class="home__prose-link home__prose-link--store" href={pricingHref}>{t('home.aboutStore')}</a>
 					{t('home.aboutP1Mid')}{' '}
-					<a href={updatesHref}>{t('home.aboutStatus')}</a>
+					<a class="home__prose-link home__prose-link--status" href={updatesHref}>{t('home.aboutStatus')}</a>
 					{t('home.aboutP1After')}
 				</p>
 			) : (
@@ -36,13 +36,13 @@ const useStructuredAboutP1 = locale === 'en';
 			)}
 			<p>
 				{t('home.aboutP2Before')}{' '}
-				<a href={pillarHref}>{t('home.aboutPillar')}</a>
+				<a class="home__prose-link home__prose-link--pillar" href={pillarHref}>{t('home.aboutPillar')}</a>
 				{t('home.aboutP2Mid')}
-				<a href={espHref}>{t('home.aboutEsp')}</a>
+				<a class="home__prose-link home__prose-link--esp" href={espHref}>{t('home.aboutEsp')}</a>
 				{t('home.aboutP2Mid')}
-				<a href={aimbotHref}>{t('home.aboutAimbot')}</a>
+				<a class="home__prose-link home__prose-link--aimbot" href={aimbotHref}>{t('home.aboutAimbot')}</a>
 				{t('home.aboutP2Or')}
-				<a href={updatesHref}>{t('home.aboutUndetected')}</a>
+				<a class="home__prose-link home__prose-link--undetected" href={updatesHref}>{t('home.aboutUndetected')}</a>
 				{t('home.aboutP2After')}
 			</p>
 		</div>
@@ -102,15 +102,39 @@ const useStructuredAboutP1 = locale === 'en';
 		margin-bottom: 0;
 	}
 
-	.home__prose--en a {
-		color: #fff;
+	.home__prose--en .home__prose-link {
 		font-weight: 600;
 		text-decoration: underline;
 		text-underline-offset: 0.15em;
+		transition: color 0.15s ease, filter 0.15s ease;
 	}
 
-	.home__prose--en a:hover {
-		color: var(--accent-hover);
+	.home__prose-link--store {
+		color: var(--accent-amber);
+	}
+
+	.home__prose-link--status {
+		color: #5ec8e8;
+	}
+
+	.home__prose-link--pillar {
+		color: var(--magenta-soft);
+	}
+
+	.home__prose-link--esp {
+		color: var(--accent-orange);
+	}
+
+	.home__prose-link--aimbot {
+		color: #e8a87c;
+	}
+
+	.home__prose-link--undetected {
+		color: #b8d99a;
+	}
+
+	.home__prose--en .home__prose-link:hover {
+		filter: brightness(1.12);
 	}
 
 	@media (min-width: 56rem) {
