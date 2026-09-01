@@ -882,7 +882,7 @@ const POST_META = {
 	},
 	'deadside-cheats-complete-guide': {
 		h1: 'Deadside Cheats Guide for 2026',
-		keywords: ['deadside cheats', 'undetected hacks', 'deadside esp'],
+		keywords: ['deadside cheats', 'undetected cheats', 'deadside esp'],
 	},
 	'deadside-cheats-buyers-guide': {
 		h1: 'Deadside Cheats Buyers Guide',
@@ -914,7 +914,7 @@ const POST_META = {
 	},
 	'deadside-cheats-vs-ghostware': {
 		h1: 'Full-Stack vs ESP-Only Deadside Cheats',
-		keywords: ['deadside esp cheat', 'full stack hacks', 'radar vs esp'],
+		keywords: ['deadside esp cheat', 'full stack cheats', 'radar vs esp'],
 	},
 };
 

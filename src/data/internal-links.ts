@@ -15,7 +15,7 @@ const TOPIC_LINKS = {
 	overview: { kind: 'page' as const, pageId: 'home' as const, labelKey: 'internalLinks.overview', label: L('{brand} overview') },
 	esp: { kind: 'page' as const, pageId: 'deadside-esp' as const, labelKey: 'internalLinks.esp', label: L('{game} ESP & wallhack') },
 	aimbot: { kind: 'page' as const, pageId: 'deadside-aimbot' as const, labelKey: 'internalLinks.aimbot', label: L('{game} aimbot & soft aim') },
-	radar: { kind: 'page' as const, pageId: 'radar' as const, labelKey: 'internalLinks.radar', label: L('{game} radar hack') },
+	radar: { kind: 'page' as const, pageId: 'radar' as const, labelKey: 'internalLinks.radar', label: L('{game} 2D radar') },
 	features: { kind: 'page' as const, pageId: 'features' as const, labelKey: 'internalLinks.features', label: L('Full {game} feature list') },
 	pricing: { kind: 'page' as const, pageId: 'pricing' as const, labelKey: 'internalLinks.pricing', label: 'Store & pricing' },
 	setup: { kind: 'page' as const, pageId: 'setup' as const, labelKey: 'internalLinks.setup', label: L('{game} setup guide') },

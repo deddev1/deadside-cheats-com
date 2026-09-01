@@ -47,7 +47,7 @@ export const seoLandingPages = [
 	{ label: fillBrandTokens('{game} esp'), href: '/deadside-esp/' },
 	{ label: fillBrandTokens('{game} wallhack'), href: '/deadside-esp/' },
 	{ label: fillBrandTokens('{game} aimbot'), href: '/deadside-aimbot/' },
-	{ label: fillBrandTokens('{game} radar hack'), href: '/deadside-radar-hack/' },
+	{ label: fillBrandTokens('{game} 2D radar'), href: '/deadside-radar-hack/' },
 	{ label: fillBrandTokens('Best {primaryKeyword}'), href: '/best-deadside-cheats/' },
 	{ label: fillBrandTokens('{antiCheat} bypass'), href: '/battleye-bypass/' },
 	{ label: fillBrandTokens('{game} cheat download'), href: '/setup/' },
@@ -68,7 +68,7 @@ export const mainNav = [
 ] as const;
 
 export const footerNav = [
-	{ label: fillBrandTokens('{game} hack update log'), href: '/updates/' },
+	{ label: fillBrandTokens('{game} cheat update log'), href: '/updates/' },
 	{ label: fillBrandTokens('Contact {brand} support'), href: '/support/' },
 	{ label: 'Refund policy details', href: '/refund-policy/' },
 	{ label: 'Privacy policy details', href: '/privacy-policy/' },
@@ -81,10 +81,10 @@ export const footerExplore = [
 	{ label: fillBrandTokens('Live {game} status'), href: '/updates/' },
 	{ label: fillBrandTokens('{game} ESP overlays'), href: '/deadside-esp/' },
 	{ label: fillBrandTokens('{game} Aimbot controls'), href: '/deadside-aimbot/' },
-	{ label: fillBrandTokens('{game} radar hack'), href: '/deadside-radar-hack/' },
-	{ label: fillBrandTokens('Full {game} hack feature list'), href: '/features/' },
+	{ label: fillBrandTokens('{game} 2D radar'), href: '/deadside-radar-hack/' },
+	{ label: fillBrandTokens('Full {game} cheats feature list'), href: '/features/' },
 	{ label: 'Monthly & lifetime pricing', href: '/pricing/' },
-	{ label: fillBrandTokens('{game} hack setup guide'), href: '/setup/' },
+	{ label: fillBrandTokens('{game} cheats setup guide'), href: '/setup/' },
 	{ label: fillBrandTokens('{game} cheats FAQ'), href: '/faq/' },
 	{ label: fillBrandTokens('{brand} reviews'), href: '/reviews/' },
 	{ label: fillBrandTokens('{game} Intel blog'), href: '/blog/' },
@@ -195,11 +195,11 @@ export const seoFaqs: readonly FaqItem[] = [
 			'A {game} wallhack is ESP that reveals players and loot through walls — with distance, bases, and category toggles.',
 	}),
 	faq({
-		question: 'Does {brand} include a radar hack?',
+		question: 'Does {brand} include a 2D radar?',
 		answer:
 			'Yes. {brand} includes 2D radar overlays that highlight nearby threats outside your view — useful for flanks and compound zones.',
 		slug: 'does-deadside-cheats-include-radar-hack',
-		seoTitle: 'Does {brand} Include a Radar Hack? | FAQ',
+		seoTitle: 'Does {brand} Include a 2D Radar? | FAQ',
 		seoDescription:
 			'Yes — {brand} includes 2D radar overlays for nearby threats outside your FOV. Compare ESP, aimbot, and radar in one license at deadsidecheats.com.',
 	}),
@@ -222,22 +222,22 @@ export const seoFaqs: readonly FaqItem[] = [
 			'Buy monthly or lifetime {brand} licenses for Windows PC — ESP, radar, and aimbot in one stack. Compare pricing before checkout.',
 	}),
 	faq({
-		question: 'What is a {game} ESP hack?',
+		question: 'What is a {game} ESP?',
 		answer:
-			'A {game} ESP hack is a visibility overlay that shows enemy heroes, weapons, and loot through walls. {brand} ESP includes player boxes, distance tags, grapple and ult cues, and toggleable categories for Quick Match and Ranked.',
+			'A {game} ESP is a visibility overlay that shows enemy heroes, weapons, and loot through walls. {brand} ESP includes player boxes, distance tags, grapple and ult cues, and toggleable categories for Quick Match and Ranked.',
 		slug: 'what-is-deadside-esp-hack',
 		seoTitle: 'What Is a {game} ESP Hack? | FAQ',
 		seoDescription:
-			'{game} ESP hack explained — player wallhack, distance tags, and loot markers in one {brand} license for Windows PC.',
+			'{game} ESP explained — player wallhack, distance tags, and loot markers in one {brand} license for Windows PC.',
 	}),
 	faq({
-		question: 'What is a {game} aimbot hack?',
+		question: 'What is a {game} aimbot?',
 		answer:
-			'A {game} aimbot hack provides aim assist with configurable FOV, smoothing, and bone priority. {brand} uses soft aim profiles designed to feel natural in team fights and duels — tune settings in the mod menu before Ranked queues.',
+			'A {game} aimbot provides aim assist with configurable FOV, smoothing, and bone priority. {brand} uses soft aim profiles designed to feel natural in team fights and duels — tune settings in the mod menu before Ranked queues.',
 		slug: 'what-is-deadside-aimbot-hack',
 		seoTitle: 'What Is a {game} Aimbot Hack? | FAQ',
 		seoDescription:
-			'{game} aimbot hack with soft aim, FOV, and smoothing controls — included in {brand} for Windows PC.',
+			'{game} aimbot with soft aim, FOV, and smoothing controls — included in {brand} for Windows PC.',
 	}),
 	faq({
 		question: 'What are the best {primaryKeyword} in 2026?',
@@ -276,11 +276,11 @@ export const seoFaqs: readonly FaqItem[] = [
 			'{game} soft aim explained — FOV, smoothing, and bone priority in {brand} for natural-looking assist on PC.',
 	}),
 	faq({
-		question: 'Is there a free {game} hack download?',
+		question: 'Is there a free {game} cheat download?',
 		answer:
 			'{brand} is a paid license — there is no official free download. Avoid random “free deadside cheat” sites; they often ship malware or detected loaders. Compare monthly and lifetime plans on Pricing for legitimate ESP, radar, and aimbot access with support.',
 		slug: 'free-deadside-cheat-download',
-		seoTitle: 'Free {game} Hack Download? | FAQ',
+		seoTitle: 'Free {game} Cheat Download? | FAQ',
 		seoDescription:
 			'No official free {brand} download — paid monthly/lifetime licenses include ESP, aimbot, radar, and support on Windows PC.',
 	}),
@@ -314,7 +314,7 @@ export const seoFaqs: readonly FaqItem[] = [
 	faq({
 		question: 'What is the difference between external and internal {primaryKeyword}?',
 		answer:
-			'External hacks read game memory from outside the client; internal hooks run inside the process. {brand} is built as an external-style package for easier setup on Windows PC, bundling ESP, radar, and soft aim with {antiCheat} maintenance after patches.',
+			'External cheats read game memory from outside the client; internal hooks run inside the process. {brand} is built as an external-style package for easier setup on Windows PC, bundling ESP, radar, and soft aim with {antiCheat} maintenance after patches.',
 		slug: 'external-vs-internal-deadside-cheats',
 		seoTitle: 'External vs Internal {game} Hacks | FAQ',
 		seoDescription:
@@ -325,7 +325,7 @@ export const seoFaqs: readonly FaqItem[] = [
 		answer:
 			'Most buyers finish {brand} setup in 10–20 minutes on Windows PC: install the loader, activate the license, and enable ESP or aimbot in the mod menu. If Windows Defender or another AV blocks the loader, follow Setup troubleshooting or email {email} with your order ID.',
 		slug: 'how-long-deadside-cheat-setup-takes',
-		seoTitle: 'How Long Does {game} Hack Setup Take? | FAQ',
+		seoTitle: 'How Long Does {game} Cheats Setup Take? | FAQ',
 		seoDescription:
 			'{brand} setup time on Windows PC — typical 10–20 minute install for ESP, radar, and aimbot.',
 	}),

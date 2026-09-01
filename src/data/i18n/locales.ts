@@ -127,7 +127,7 @@ export const blogUi: Record<
 			'Blog de Deadside Cheats con guías de trucos indetectables, ESP wallhack, radar y Aimbot para Deadside en PC Windows.',
 		blogH1: 'Blog Deadside Cheats — Guías globales',
 		blogIntro:
-			'Guías SEO de trucos Deadside indetectables, ESP wallhack, radar hack, Aimbot y mantenimiento BattlEye en 22 idiomas.',
+			'Guías SEO de trucos Deadside indetectables, ESP wallhack, 2D radar, Aimbot y mantenimiento BattlEye en 22 idiomas.',
 		readMore: 'Leer guía',
 		published: 'Publicado',
 		updated: 'Actualizado',
@@ -142,7 +142,7 @@ export const blogUi: Record<
 			'Blog Deadside Cheats : triches indétectables, ESP wallhack, radar et Aimbot pour Deadside sur PC Windows.',
 		blogH1: 'Blog Deadside Cheats — Guides mondiaux',
 		blogIntro:
-			'Guides SEO triches Deadside indétectables, ESP wallhack, radar hack, Aimbot et BattlEye en 22 langues.',
+			'Guides SEO triches Deadside indétectables, ESP wallhack, 2D radar, Aimbot et BattlEye en 22 langues.',
 		readMore: 'Lire le guide',
 		published: 'Publié',
 		updated: 'Mis à jour',
@@ -157,7 +157,7 @@ export const blogUi: Record<
 			'Deadside Cheats Blog mit undetected ESP, Wallhack, Radar und Aimbot Guides für Deadside auf Windows PC.',
 		blogH1: 'Deadside Cheats Blog — Globale Guides',
 		blogIntro:
-			'SEO-Guides für undetected Deadside Cheats, ESP Wallhack, Radar Hack, Aimbot und BattlEye in 22 Sprachen.',
+			'SEO-Guides für undetected Deadside Cheats, ESP Wallhack, 2D Radar, Aimbot und BattlEye in 22 Sprachen.',
 		readMore: 'Guide lesen',
 		published: 'Veröffentlicht',
 		updated: 'Aktualisiert',
@@ -172,7 +172,7 @@ export const blogUi: Record<
 			'Blog Deadside Cheats com guias de cheats indetectáveis, ESP wallhack, radar e Aimbot para Deadside no PC.',
 		blogH1: 'Blog Deadside Cheats — Guias globais',
 		blogIntro:
-			'Guias SEO de cheats Deadside indetectáveis, ESP wallhack, radar hack, Aimbot e BattlEye em 22 idiomas.',
+			'Guias SEO de cheats Deadside indetectáveis, ESP wallhack, 2D radar, Aimbot e BattlEye em 22 idiomas.',
 		readMore: 'Ler guia',
 		published: 'Publicado',
 		updated: 'Atualizado',
@@ -187,7 +187,7 @@ export const blogUi: Record<
 			'Blog Deadside Cheats con guide cheat indetectable, ESP wallhack, radar e Aimbot per Deadside su PC Windows.',
 		blogH1: 'Blog Deadside Cheats — Guide globali',
 		blogIntro:
-			'Guide SEO cheat Deadside indetectable, ESP wallhack, radar hack, Aimbot e BattlEye in 22 lingue.',
+			'Guide SEO cheat Deadside indetectable, ESP wallhack, 2D radar, Aimbot e BattlEye in 22 lingue.',
 		readMore: 'Leggi guida',
 		published: 'Pubblicato',
 		updated: 'Aggiornato',
@@ -202,7 +202,7 @@ export const blogUi: Record<
 			'Deadside Cheats blog met undetected ESP, wallhack, radar en Aimbot gidsen voor Deadside op Windows PC.',
 		blogH1: 'Deadside Cheats Blog — Wereldwijde gidsen',
 		blogIntro:
-			'SEO-gidsen voor undetected deadside cheats, ESP wallhack, radar hack, Aimbot en BattlEye in 22 talen.',
+			'SEO-gidsen voor undetected deadside cheats, ESP wallhack, 2D radar, Aimbot en BattlEye in 22 talen.',
 		readMore: 'Lees gids',
 		published: 'Gepubliceerd',
 		updated: 'Bijgewerkt',
@@ -217,7 +217,7 @@ export const blogUi: Record<
 			'Blog Deadside Cheats z poradnikami undetected ESP, wallhack, radar i Aimbot dla Deadside na PC.',
 		blogH1: 'Blog Deadside Cheats — Globalne poradniki',
 		blogIntro:
-			'Poradniki SEO undetected cheatów Deadside, ESP wallhack, radar hack, Aimbot i BattlEye w 22 językach.',
+			'Poradniki SEO undetected cheatów Deadside, ESP wallhack, 2D radar, Aimbot i BattlEye w 22 językach.',
 		readMore: 'Czytaj poradnik',
 		published: 'Opublikowano',
 		updated: 'Zaktualizowano',
@@ -232,7 +232,7 @@ export const blogUi: Record<
 			'Блог Deadside Cheats: undetected ESP, wallhack, radar и Aimbot для Deadside на Windows PC.',
 		blogH1: 'Блог Deadside Cheats — Глобальные гайды',
 		blogIntro:
-			'SEO-гайды по undetected читам Deadside, ESP wallhack, radar hack, Aimbot и BattlEye на 22 языках.',
+			'SEO-гайды по undetected читам Deadside, ESP wallhack, 2D radar, Aimbot и BattlEye на 22 языках.',
 		readMore: 'Читать гайд',
 		published: 'Опубликовано',
 		updated: 'Обновлено',
@@ -247,7 +247,7 @@ export const blogUi: Record<
 			'Deadside Cheats blog: undetected ESP, wallhack, radar ve Aimbot rehberleri Deadside Windows PC.',
 		blogH1: 'Deadside Cheats Blog — Küresel rehberler',
 		blogIntro:
-			'Undetected Deadside hileleri, ESP wallhack, radar hack, Aimbot ve BattlEye SEO rehberleri 22 dilde.',
+			'Undetected Deadside hileleri, ESP wallhack, 2D radar, Aimbot ve BattlEye SEO rehberleri 22 dilde.',
 		readMore: 'Rehberi oku',
 		published: 'Yayınlandı',
 		updated: 'Güncellendi',
@@ -262,7 +262,7 @@ export const blogUi: Record<
 			'مدونة Deadside Cheats: غش undetected وESP wallhack ورadar وAimbot لـ Deadside على Windows PC.',
 		blogH1: 'مدونة Deadside Cheats — أدلة عالمية',
 		blogIntro:
-			'أدلة SEO لغش Deadside undetected وESP wallhack ورadar hack وAimbot وBattlEye بـ 22 لغة.',
+			'أدلة SEO لغش Deadside undetected وESP wallhack و2D radar وAimbot وBattlEye بـ 22 لغة.',
 		readMore: 'اقرأ الدليل',
 		published: 'نُشر',
 		updated: 'تم التحديث',
@@ -277,7 +277,7 @@ export const blogUi: Record<
 			'Deadside Cheatsブログ：undetected ESP、wallhack、radar、Aimbotガイド。Deadside Windows PC向け。',
 		blogH1: 'Deadside Cheats ブログ — グローバルガイド',
 		blogIntro:
-			'undetected Deadsideチート、ESP wallhack、radar hack、Aimbot、BattlEyeのSEOガイドを22言語で提供。',
+			'undetected Deadsideチート、ESP wallhack、2D radar、Aimbot、BattlEyeのSEOガイドを22言語で提供。',
 		readMore: 'ガイドを読む',
 		published: '公開日',
 		updated: '更新日',
@@ -292,7 +292,7 @@ export const blogUi: Record<
 			'Deadside Cheats 블로그: undetected ESP, wallhack, radar, Aimbot 가이드. Deadside Windows PC.',
 		blogH1: 'Deadside Cheats 블로그 — 글로벌 가이드',
 		blogIntro:
-			'undetected Deadside 치트, ESP wallhack, radar hack, Aimbot, BattlEye SEO 가이드를 22개 언어로 제공.',
+			'undetected Deadside 치트, ESP wallhack, 2D radar, Aimbot, BattlEye SEO 가이드를 22개 언어로 제공.',
 		readMore: '가이드 읽기',
 		published: '게시일',
 		updated: '업데이트',
@@ -307,7 +307,7 @@ export const blogUi: Record<
 			'Deadside Cheats博客：undetected ESP、wallhack、radar和Aimbot指南，适用于Deadside Windows PC。',
 		blogH1: 'Deadside Cheats 博客 — 全球指南',
 		blogIntro:
-			'undetected Deadside作弊、ESP wallhack、radar hack、Aimbot和BattlEye的SEO指南，共22种语言。',
+			'undetected Deadside作弊、ESP wallhack、2D radar、Aimbot和BattlEye的SEO指南，共22种语言。',
 		readMore: '阅读指南',
 		published: '发布',
 		updated: '更新',
@@ -322,7 +322,7 @@ export const blogUi: Record<
 			'Deadside Cheats ब्लॉग: undetected ESP, wallhack, radar और Aimbot गाइड Deadside Windows PC के लिए।',
 		blogH1: 'Deadside Cheats ब्लॉग — वैश्विक गाइड',
 		blogIntro:
-			'undetected deadside cheats, ESP wallhack, radar hack, Aimbot और BattlEye SEO गाइड 22 भाषाओं में।',
+			'undetected deadside cheats, ESP wallhack, 2D radar, Aimbot और BattlEye SEO गाइड 22 भाषाओं में।',
 		readMore: 'गाइड पढ़ें',
 		published: 'प्रकाशित',
 		updated: 'अपडेट',
@@ -337,7 +337,7 @@ export const blogUi: Record<
 			'Blog Deadside Cheats: panduan undetected ESP, wallhack, radar dan Aimbot untuk Deadside di PC Windows.',
 		blogH1: 'Blog Deadside Cheats — Panduan global',
 		blogIntro:
-			'Panduan SEO cheat Deadside undetected, ESP wallhack, radar hack, Aimbot dan BattlEye dalam 22 bahasa.',
+			'Panduan SEO cheat Deadside undetected, ESP wallhack, 2D radar, Aimbot dan BattlEye dalam 22 bahasa.',
 		readMore: 'Baca panduan',
 		published: 'Dipublikasikan',
 		updated: 'Diperbarui',
@@ -352,7 +352,7 @@ export const blogUi: Record<
 			'บล็อก Deadside Cheats: คู่มือ undetected ESP, wallhack, radar และ Aimbot สำหรับ Deadside บน PC',
 		blogH1: 'บล็อก Deadside Cheats — คู่มือทั่วโลก',
 		blogIntro:
-			'คู่มือ SEO สำหรับ cheat Deadside undetected, ESP wallhack, radar hack, Aimbot และ BattlEye 22 ภาษา',
+			'คู่มือ SEO สำหรับ cheat Deadside undetected, ESP wallhack, 2D radar, Aimbot และ BattlEye 22 ภาษา',
 		readMore: 'อ่านคู่มือ',
 		published: 'เผยแพร่',
 		updated: 'อัปเดต',
@@ -367,7 +367,7 @@ export const blogUi: Record<
 			'Blog Deadside Cheats: hướng dẫn undetected ESP, wallhack, radar và Aimbot cho Deadside trên PC.',
 		blogH1: 'Blog Deadside Cheats — Hướng dẫn toàn cầu',
 		blogIntro:
-			'Hướng dẫn SEO cheat Deadside undetected, ESP wallhack, radar hack, Aimbot và BattlEye bằng 22 ngôn ngữ.',
+			'Hướng dẫn SEO cheat Deadside undetected, ESP wallhack, 2D radar, Aimbot và BattlEye bằng 22 ngôn ngữ.',
 		readMore: 'Đọc hướng dẫn',
 		published: 'Xuất bản',
 		updated: 'Cập nhật',
@@ -382,7 +382,7 @@ export const blogUi: Record<
 			'Блог Deadside Cheats: undetected ESP, wallhack, radar та Aimbot для Deadside на Windows PC.',
 		blogH1: 'Блог Deadside Cheats — Глобальні гайди',
 		blogIntro:
-			'SEO-гайди з undetected читів Deadside, ESP wallhack, radar hack, Aimbot та BattlEye 22 мовами.',
+			'SEO-гайди з undetected читів Deadside, ESP wallhack, 2D radar, Aimbot та BattlEye 22 мовами.',
 		readMore: 'Читати гайд',
 		published: 'Опубліковано',
 		updated: 'Оновлено',
@@ -397,7 +397,7 @@ export const blogUi: Record<
 			'Blog Deadside Cheats: undetected ESP, wallhack, radar a Aimbot pro Deadside na Windows PC.',
 		blogH1: 'Blog Deadside Cheats — Globální průvodce',
 		blogIntro:
-			'SEO průvodce undetected deadside cheaty, ESP wallhack, radar hack, Aimbot a BattlEye ve 22 jazycích.',
+			'SEO průvodce undetected deadside cheaty, ESP wallhack, 2D radar, Aimbot a BattlEye ve 22 jazycích.',
 		readMore: 'Číst průvodce',
 		published: 'Publikováno',
 		updated: 'Aktualizováno',
@@ -412,7 +412,7 @@ export const blogUi: Record<
 			'Blog Deadside Cheats: ghiduri undetected ESP, wallhack, radar și Aimbot pentru Deadside pe PC.',
 		blogH1: 'Blog Deadside Cheats — Ghiduri globale',
 		blogIntro:
-			'Ghiduri SEO cheat-uri Deadside undetected, ESP wallhack, radar hack, Aimbot și BattlEye în 22 de limbi.',
+			'Ghiduri SEO cheat-uri Deadside undetected, ESP wallhack, 2D radar, Aimbot și BattlEye în 22 de limbi.',
 		readMore: 'Citește ghidul',
 		published: 'Publicat',
 		updated: 'Actualizat',
@@ -427,7 +427,7 @@ export const blogUi: Record<
 			'Deadside Cheats blogg med undetected ESP, wallhack, radar och Aimbot guider för Deadside på PC.',
 		blogH1: 'Deadside Cheats Blogg — Globala guider',
 		blogIntro:
-			'SEO-guider för undetected deadside cheats, ESP wallhack, radar hack, Aimbot och BattlEye på 22 språk.',
+			'SEO-guider för undetected deadside cheats, ESP wallhack, 2D radar, Aimbot och BattlEye på 22 språk.',
 		readMore: 'Läs guide',
 		published: 'Publicerad',
 		updated: 'Uppdaterad',

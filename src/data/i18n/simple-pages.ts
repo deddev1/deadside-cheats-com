@@ -211,7 +211,7 @@ export const simplePageCopy: Partial<Record<PageId, SimplePageCopy>> = {
 				list: [
 					'<a href="/deadside-esp/">Deadside ESP & wallhack</a>',
 					'<a href="/deadside-aimbot/">Deadside Aimbot & soft aim</a>',
-					'<a href="/deadside-radar-hack/">Radar hack overlay</a>',
+					'<a href="/deadside-radar-hack/">2D radar overlay</a>',
 					'<a href="/features/">Full feature list</a>',
 				],
 			},
@@ -305,9 +305,9 @@ export const simplePageCopy: Partial<Record<PageId, SimplePageCopy>> = {
 		],
 	}),
 	radar: page({
-		title: 'Deadside Radar Hack | 2D Threat Map | {brand}',
+		title: 'Deadside 2D Radar | 2D Threat Map | {brand}',
 		description:
-			'2D radar hack for flank awareness on PC. Bundled with ESP wallhack & soft aim in one license. BattlEye maintenance at deadsidecheats.com.',
+			'2D radar for flank awareness on PC. Bundled with ESP wallhack & soft aim in one license. BattlEye maintenance at deadsidecheats.com.',
 		h1: 'Radar',
 		intro: 'A simple 2D radar for threats outside your view. Included in the same {brand} license.',
 		ctaPrimary: brandCopy.ctaBuy,

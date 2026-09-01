@@ -13,12 +13,12 @@ export const FAQ_ACCURACY_FIXES = {
 			a: 'A Deadside wallhack is an ESP overlay that shows enemy heroes through terrain. Deadside Cheats includes distance readouts, grapple and ult cues, and toggleable categories.',
 		},
 		'what-is-deadside-esp-hack': {
-			q: 'What is a Deadside ESP hack?',
-			a: 'A Deadside ESP hack is a visibility overlay that shows enemy heroes, weapons, and loot through walls. Deadside Cheats ESP includes player boxes, distance tags, grapple and ult cues, and toggleable categories for Quick Match and Ranked.',
+			q: 'What is a Deadside ESP?',
+			a: 'A Deadside ESP is a visibility overlay that shows enemy heroes, weapons, and loot through walls. Deadside Cheats ESP includes player boxes, distance tags, grapple and ult cues, and toggleable categories for Quick Match and Ranked.',
 		},
 		'what-is-deadside-aimbot-hack': {
-			q: 'What is a Deadside aimbot hack?',
-			a: 'A Deadside aimbot hack provides aim assist with configurable FOV, smoothing, and bone priority. Deadside Cheats uses soft aim profiles designed to feel natural in team fights and duels — tune settings in the mod menu before Ranked queues.',
+			q: 'What is a Deadside aimbot?',
+			a: 'A Deadside aimbot provides aim assist with configurable FOV, smoothing, and bone priority. Deadside Cheats uses soft aim profiles designed to feel natural in team fights and duels — tune settings in the mod menu before Ranked queues.',
 		},
 		'what-is-deadside-soft-aim': {
 			q: 'What is Deadside soft aim?',
@@ -43,12 +43,12 @@ export const FAQ_ACCURACY_FIXES = {
 			a: 'Un wallhack de Deadside es un overlay ESP que muestra héroes enemigos a través del terreno. Deadside Cheats incluye distancias, señales de agarre y ultimate, y categorías configurables.',
 		},
 		'what-is-deadside-esp-hack': {
-			q: '¿Qué es un ESP hack de Deadside?',
-			a: 'Un ESP hack de Deadside es un overlay de visibilidad que muestra héroes enemigos, armas y loot a través de las paredes. Deadside Cheats ESP incluye cajas de jugador, etiquetas de distancia, señales de agarre y ultimate, y categorías configurables para Quick Match y Ranked.',
+			q: '¿Qué es un ESP de Deadside?',
+			a: 'Un ESP de Deadside es un overlay de visibilidad que muestra héroes enemigos, armas y loot a través de las paredes. Deadside Cheats ESP incluye cajas de jugador, etiquetas de distancia, señales de agarre y ultimate, y categorías configurables para Quick Match y Ranked.',
 		},
 		'what-is-deadside-aimbot-hack': {
-			q: '¿Qué es un aimbot hack de Deadside?',
-			a: 'Un aimbot hack de Deadside proporciona asistencia de puntería con FOV, suavizado y prioridad de huesos configurables. Deadside Cheats usa perfiles de soft aim diseñados para sentirse naturales en peleas de equipo y duelos — ajusta la configuración en el menú mod antes de las colas Ranked.',
+			q: '¿Qué es un aimbot de Deadside?',
+			a: 'Un aimbot de Deadside proporciona asistencia de puntería con FOV, suavizado y prioridad de huesos configurables. Deadside Cheats usa perfiles de soft aim diseñados para sentirse naturales en peleas de equipo y duelos — ajusta la configuración en el menú mod antes de las colas Ranked.',
 		},
 		'what-is-deadside-soft-aim': {
 			q: '¿Qué es el soft aim de Deadside?',
@@ -73,12 +73,12 @@ export const FAQ_ACCURACY_FIXES = {
 			a: "Un wallhack Deadside est un overlay ESP qui affiche les héros ennemis à travers le terrain. Deadside Cheats inclut distances, signaux de grappin et ultime, et catégories configurables.",
 		},
 		'what-is-deadside-esp-hack': {
-			q: "Qu'est-ce qu'un ESP hack Deadside ?",
-			a: "Un ESP hack Deadside est un overlay de visibilité qui affiche héros ennemis, armes et loot à travers les murs. Deadside Cheats ESP inclut boîtes joueur, étiquettes de distance, signaux de grappin et ultime, et catégories configurables pour Quick Match et Ranked.",
+			q: "Qu'est-ce qu'un ESP Deadside ?",
+			a: "Un ESP Deadside est un overlay de visibilité qui affiche héros ennemis, armes et loot à travers les murs. Deadside Cheats ESP inclut boîtes joueur, étiquettes de distance, signaux de grappin et ultime, et catégories configurables pour Quick Match et Ranked.",
 		},
 		'what-is-deadside-aimbot-hack': {
-			q: "Qu'est-ce qu'un aimbot hack Deadside ?",
-			a: "Un aimbot hack Deadside fournit une assistance de visée avec FOV, lissage et priorité d'os configurables. Deadside Cheats utilise des profils soft aim conçus pour paraître naturels en team fights et duels — règle les paramètres dans le menu mod avant les files Ranked.",
+			q: "Qu'est-ce qu'un aimbot Deadside ?",
+			a: "Un aimbot Deadside fournit une assistance de visée avec FOV, lissage et priorité d'os configurables. Deadside Cheats utilise des profils soft aim conçus pour paraître naturels en team fights et duels — règle les paramètres dans le menu mod avant les files Ranked.",
 		},
 		'what-is-deadside-soft-aim': {
 			q: "Qu'est-ce que le soft aim Deadside ?",
@@ -103,12 +103,12 @@ export const FAQ_ACCURACY_FIXES = {
 			a: 'Ein Deadside Wallhack ist ein ESP-Overlay, das feindliche Helden durch Gelände zeigt. Deadside Cheats enthält Distanzanzeigen, Grapple- und Ult-Signale sowie umschaltbare Kategorien.',
 		},
 		'what-is-deadside-esp-hack': {
-			q: 'Was ist ein Deadside ESP Hack?',
-			a: 'Ein Deadside ESP Hack ist ein Sichtbarkeits-Overlay, das feindliche Helden, Waffen und Loot durch Wände zeigt. Deadside Cheats ESP enthält Spielerboxen, Distanz-Tags, Grapple- und Ult-Signale sowie umschaltbare Kategorien für Quick Match und Ranked.',
+			q: 'Was ist ein Deadside ESP?',
+			a: 'Ein Deadside ESP ist ein Sichtbarkeits-Overlay, das feindliche Helden, Waffen und Loot durch Wände zeigt. Deadside Cheats ESP enthält Spielerboxen, Distanz-Tags, Grapple- und Ult-Signale sowie umschaltbare Kategorien für Quick Match und Ranked.',
 		},
 		'what-is-deadside-aimbot-hack': {
-			q: 'Was ist ein Deadside Aimbot Hack?',
-			a: 'Ein Deadside Aimbot Hack bietet Aim Assist mit konfigurierbarem FOV, Smoothing und Knochenpriorität. Deadside Cheats nutzt Soft-Aim-Profile für natürliche Teamfights und Duelle — stelle Einstellungen im Mod-Menü vor Ranked-Queues ein.',
+			q: 'Was ist ein Deadside Aimbot?',
+			a: 'Ein Deadside Aimbot bietet Aim Assist mit konfigurierbarem FOV, Smoothing und Knochenpriorität. Deadside Cheats nutzt Soft-Aim-Profile für natürliche Teamfights und Duelle — stelle Einstellungen im Mod-Menü vor Ranked-Queues ein.',
 		},
 		'what-is-deadside-soft-aim': {
 			q: 'Was ist Deadside Soft Aim?',
@@ -133,12 +133,12 @@ export const FAQ_ACCURACY_FIXES = {
 			a: 'Um wallhack de Deadside é um overlay ESP que mostra heróis inimigos através do terreno. Deadside Cheats inclui distâncias, sinais de grapple e ultimate, e categorias configuráveis.',
 		},
 		'what-is-deadside-esp-hack': {
-			q: 'O que é um ESP hack de Deadside?',
-			a: 'Um ESP hack de Deadside é um overlay de visibilidade que mostra heróis inimigos, armas e loot através das paredes. Deadside Cheats ESP inclui caixas de jogador, tags de distância, sinais de grapple e ultimate, e categorias configuráveis para Quick Match e Ranked.',
+			q: 'O que é um ESP de Deadside?',
+			a: 'Um ESP de Deadside é um overlay de visibilidade que mostra heróis inimigos, armas e loot através das paredes. Deadside Cheats ESP inclui caixas de jogador, tags de distância, sinais de grapple e ultimate, e categorias configuráveis para Quick Match e Ranked.',
 		},
 		'what-is-deadside-aimbot-hack': {
-			q: 'O que é um aimbot hack de Deadside?',
-			a: 'Um aimbot hack de Deadside fornece assistência de mira com FOV, suavização e prioridade de ossos configuráveis. Deadside Cheats usa perfis de soft aim para team fights e duelos naturais — ajuste no menu mod antes das filas Ranked.',
+			q: 'O que é um aimbot de Deadside?',
+			a: 'Um aimbot de Deadside fornece assistência de mira com FOV, suavização e prioridade de ossos configuráveis. Deadside Cheats usa perfis de soft aim para team fights e duelos naturais — ajuste no menu mod antes das filas Ranked.',
 		},
 		'what-is-deadside-soft-aim': {
 			q: 'O que é soft aim de Deadside?',
@@ -163,12 +163,12 @@ export const FAQ_ACCURACY_FIXES = {
 			a: 'Un wallhack Deadside è un overlay ESP che mostra eroi nemici attraverso il terreno. Deadside Cheats include distanze, segnali di grapple e ultimate, e categorie configurabili.',
 		},
 		'what-is-deadside-esp-hack': {
-			q: 'Cos\'è un ESP hack Deadside?',
-			a: 'Un ESP hack Deadside è un overlay di visibilità che mostra eroi nemici, armi e loot attraverso i muri. Deadside Cheats ESP include box giocatore, tag distanza, segnali grapple e ultimate, e categorie configurabili per Quick Match e Ranked.',
+			q: 'Cos\'è un ESP Deadside?',
+			a: 'Un ESP Deadside è un overlay di visibilità che mostra eroi nemici, armi e loot attraverso i muri. Deadside Cheats ESP include box giocatore, tag distanza, segnali grapple e ultimate, e categorie configurabili per Quick Match e Ranked.',
 		},
 		'what-is-deadside-aimbot-hack': {
-			q: 'Cos\'è un aimbot hack Deadside?',
-			a: 'Un aimbot hack Deadside fornisce assistenza mira con FOV, smoothing e priorità ossa configurabili. Deadside Cheats usa profili soft aim naturali in team fight e duelli — regola nel menu mod prima delle code Ranked.',
+			q: 'Cos\'è un aimbot Deadside?',
+			a: 'Un aimbot Deadside fornisce assistenza mira con FOV, smoothing e priorità ossa configurabili. Deadside Cheats usa profili soft aim naturali in team fight e duelli — regola nel menu mod prima delle code Ranked.',
 		},
 		'what-is-deadside-soft-aim': {
 			q: 'Cos\'è il soft aim Deadside?',
@@ -193,12 +193,12 @@ export const FAQ_ACCURACY_FIXES = {
 			a: 'Een Deadside wallhack is een ESP-overlay die vijandelijke helden door terrein toont. Deadside Cheats bevat afstandsweergaven, grapple- en ult-signalen, en schakelbare categorieën.',
 		},
 		'what-is-deadside-esp-hack': {
-			q: 'Wat is een Deadside ESP hack?',
-			a: 'Een Deadside ESP hack is een zichtbaarheidsoverlay die vijandelijke helden, wapens en loot door muren toont. Deadside Cheats ESP bevat spelerboxen, afstandstags, grapple- en ult-signalen, en schakelbare categorieën voor Quick Match en Ranked.',
+			q: 'Wat is een Deadside ESP?',
+			a: 'Een Deadside ESP is een zichtbaarheidsoverlay die vijandelijke helden, wapens en loot door muren toont. Deadside Cheats ESP bevat spelerboxen, afstandstags, grapple- en ult-signalen, en schakelbare categorieën voor Quick Match en Ranked.',
 		},
 		'what-is-deadside-aimbot-hack': {
-			q: 'Wat is een Deadside aimbot hack?',
-			a: 'Een Deadside aimbot hack biedt aim assist met instelbare FOV, smoothing en botprioriteit. Deadside Cheats gebruikt soft aim-profielen voor natuurlijke team fights en duels — stel in via het mod-menu vóór Ranked-queues.',
+			q: 'Wat is een Deadside aimbot?',
+			a: 'Een Deadside aimbot biedt aim assist met instelbare FOV, smoothing en botprioriteit. Deadside Cheats gebruikt soft aim-profielen voor natuurlijke team fights en duels — stel in via het mod-menu vóór Ranked-queues.',
 		},
 		'what-is-deadside-soft-aim': {
 			q: 'Wat is Deadside soft aim?',
@@ -223,12 +223,12 @@ export const FAQ_ACCURACY_FIXES = {
 			a: 'Wallhack Deadside to overlay ESP pokazujący wrogich bohaterów przez teren. Deadside Cheats zawiera odczyty dystansu, sygnały grapple i ultimate oraz przełączalne kategorie.',
 		},
 		'what-is-deadside-esp-hack': {
-			q: 'Czym jest ESP hack Deadside?',
-			a: 'ESP hack Deadside to overlay widoczności pokazujący wrogich bohaterów, broń i loot przez ściany. Deadside Cheats ESP zawiera boxy graczy, tagi dystansu, sygnały grapple i ultimate oraz kategorie dla Quick Match i Ranked.',
+			q: 'Czym jest ESP Deadside?',
+			a: 'ESP Deadside to overlay widoczności pokazujący wrogich bohaterów, broń i loot przez ściany. Deadside Cheats ESP zawiera boxy graczy, tagi dystansu, sygnały grapple i ultimate oraz kategorie dla Quick Match i Ranked.',
 		},
 		'what-is-deadside-aimbot-hack': {
-			q: 'Czym jest aimbot hack Deadside?',
-			a: 'Aimbot hack Deadside zapewnia aim assist z konfigurowalnym FOV, smoothingiem i priorytetem kości. Deadside Cheats używa profili soft aim naturalnych w team fightach i duelach — ustaw w menu mod przed kolejkami Ranked.',
+			q: 'Czym jest aimbot Deadside?',
+			a: 'Aimbot Deadside zapewnia aim assist z konfigurowalnym FOV, smoothingiem i priorytetem kości. Deadside Cheats używa profili soft aim naturalnych w team fightach i duelach — ustaw w menu mod przed kolejkami Ranked.',
 		},
 		'what-is-deadside-soft-aim': {
 			q: 'Czym jest soft aim Deadside?',
@@ -253,12 +253,12 @@ export const FAQ_ACCURACY_FIXES = {
 			a: 'Wallhack Deadside — ESP-оверлей, показывающий вражеских героев сквозь рельеф. Deadside Cheats включает дистанции, сигналы граппла и ульты и переключаемые категории.',
 		},
 		'what-is-deadside-esp-hack': {
-			q: 'Что такое ESP hack Deadside?',
-			a: 'ESP hack Deadside — оверлей видимости, показывающий вражеских героев, оружие и лут сквозь стены. Deadside Cheats ESP включает боксы игроков, метки дистанции, сигналы граппла и ульты и категории для Quick Match и Ranked.',
+			q: 'Что такое ESP Deadside?',
+			a: 'ESP Deadside — оверлей видимости, показывающий вражеских героев, оружие и лут сквозь стены. Deadside Cheats ESP включает боксы игроков, метки дистанции, сигналы граппла и ульты и категории для Quick Match и Ranked.',
 		},
 		'what-is-deadside-aimbot-hack': {
-			q: 'Что такое aimbot hack Deadside?',
-			a: 'Aimbot hack Deadside даёт aim assist с настраиваемым FOV, сглаживанием и приоритетом костей. Deadside Cheats использует soft aim-профили для естественных командных боёв и дуэлей — настройте в mod-меню перед Ranked-очередями.',
+			q: 'Что такое aimbot Deadside?',
+			a: 'Aimbot Deadside даёт aim assist с настраиваемым FOV, сглаживанием и приоритетом костей. Deadside Cheats использует soft aim-профили для естественных командных боёв и дуэлей — настройте в mod-меню перед Ranked-очередями.',
 		},
 		'what-is-deadside-soft-aim': {
 			q: 'Что такое soft aim Deadside?',
@@ -283,12 +283,12 @@ export const FAQ_ACCURACY_FIXES = {
 			a: 'Deadside wallhack, düşman kahramanları arazi boyunca gösteren bir ESP overlay\'idir. Deadside Cheats mesafe, grapple ve ult işaretleri ile açılıp kapanan kategoriler içerir.',
 		},
 		'what-is-deadside-esp-hack': {
-			q: 'Deadside ESP hack nedir?',
-			a: 'Deadside ESP hack, düşman kahramanları, silahları ve loot\'u duvarların arasından gösteren bir görünürlük overlay\'idir. Deadside Cheats ESP oyuncu kutuları, mesafe etiketleri, grapple ve ult işaretleri ve Quick Match ile Ranked için kategoriler içerir.',
+			q: 'Deadside ESP nedir?',
+			a: 'Deadside ESP, düşman kahramanları, silahları ve loot\'u duvarların arasından gösteren bir görünürlük overlay\'idir. Deadside Cheats ESP oyuncu kutuları, mesafe etiketleri, grapple ve ult işaretleri ve Quick Match ile Ranked için kategoriler içerir.',
 		},
 		'what-is-deadside-aimbot-hack': {
-			q: 'Deadside aimbot hack nedir?',
-			a: 'Deadside aimbot hack, ayarlanabilir FOV, yumuşatma ve kemik önceliği ile aim assist sağlar. Deadside Cheats takım savaşları ve düellolarda doğal hissettiren soft aim profilleri kullanır — Ranked kuyruklarından önce mod menüsünden ayarlayın.',
+			q: 'Deadside aimbot nedir?',
+			a: 'Deadside aimbot, ayarlanabilir FOV, yumuşatma ve kemik önceliği ile aim assist sağlar. Deadside Cheats takım savaşları ve düellolarda doğal hissettiren soft aim profilleri kullanır — Ranked kuyruklarından önce mod menüsünden ayarlayın.',
 		},
 		'what-is-deadside-soft-aim': {
 			q: 'Deadside soft aim nedir?',
@@ -313,12 +313,12 @@ export const FAQ_ACCURACY_FIXES = {
 			a: 'wallhack Deadside هو overlay ESP يعرض الأبطال الأعداء عبر التضاريس. Deadside Cheats يتضمن قراءات المسافة وإشارات الgrapple والultimate وفئات قابلة للتبديل.',
 		},
 		'what-is-deadside-esp-hack': {
-			q: 'ما هو ESP hack Deadside؟',
-			a: 'ESP hack Deadside هو overlay رؤية يعرض الأبطال الأعداء والأسلحة واللوت عبر الجدران. Deadside Cheats ESP يتضمن صناديق اللاعبين وعلامات المسافة وإشارات grapple وultimate وفئات لـ Quick Match وRanked.',
+			q: 'ما هو ESP Deadside؟',
+			a: 'ESP Deadside هو overlay رؤية يعرض الأبطال الأعداء والأسلحة واللوت عبر الجدران. Deadside Cheats ESP يتضمن صناديق اللاعبين وعلامات المسافة وإشارات grapple وultimate وفئات لـ Quick Match وRanked.',
 		},
 		'what-is-deadside-aimbot-hack': {
-			q: 'ما هو aimbot hack Deadside؟',
-			a: 'aimbot hack Deadside يوفر مساعدة تصويب مع FOV وتنعيم وأولوية عظام قابلة للضبط. Deadside Cheats يستخدم ملفات soft aim طبيعية في معارك الفريق والمبارزات — اضبط الإعدادات في قائمة mod قبل طوابير Ranked.',
+			q: 'ما هو aimbot Deadside؟',
+			a: 'aimbot Deadside يوفر مساعدة تصويب مع FOV وتنعيم وأولوية عظام قابلة للضبط. Deadside Cheats يستخدم ملفات soft aim طبيعية في معارك الفريق والمبارزات — اضبط الإعدادات في قائمة mod قبل طوابير Ranked.',
 		},
 		'what-is-deadside-soft-aim': {
 			q: 'ما هو soft aim Deadside؟',
@@ -343,12 +343,12 @@ export const FAQ_ACCURACY_FIXES = {
 			a: 'Deadside wallhackは地形越しに敵ヒーローを表示するESPオーバーレイです。Deadside Cheatsは距離表示、グラップルとウルトの合図、切り替え可能なカテゴリを含みます。',
 		},
 		'what-is-deadside-esp-hack': {
-			q: 'Deadside ESP hackとは？',
-			a: 'Deadside ESP hackは壁越しに敵ヒーロー、武器、ルートを表示する視認オーバーレイです。Deadside Cheats ESPはプレイヤーボックス、距離タグ、グラップルとウルトの合図、Quick MatchとRanked向けカテゴリを含みます。',
+			q: 'Deadside ESPとは？',
+			a: 'Deadside ESPは壁越しに敵ヒーロー、武器、ルートを表示する視認オーバーレイです。Deadside Cheats ESPはプレイヤーボックス、距離タグ、グラップルとウルトの合図、Quick MatchとRanked向けカテゴリを含みます。',
 		},
 		'what-is-deadside-aimbot-hack': {
-			q: 'Deadside aimbot hackとは？',
-			a: 'Deadside aimbot hackは設定可能なFOV、スムージング、ボーン優先度でエイムアシストを提供します。Deadside Cheatsはチームファイトとデュエルで自然なソフトエイムプロファイルを使用 — Rankedキュー前にmodメニューで調整。',
+			q: 'Deadside aimbotとは？',
+			a: 'Deadside aimbotは設定可能なFOV、スムージング、ボーン優先度でエイムアシストを提供します。Deadside Cheatsはチームファイトとデュエルで自然なソフトエイムプロファイルを使用 — Rankedキュー前にmodメニューで調整。',
 		},
 		'what-is-deadside-soft-aim': {
 			q: 'Deadside soft aimとは？',
@@ -373,12 +373,12 @@ export const FAQ_ACCURACY_FIXES = {
 			a: 'Deadside wallhack은 지형 너머 적 영웅을 보여주는 ESP 오버레이입니다. Deadside Cheats는 거리 표시, 그래플 및 궁극기 신호, 전환 가능한 카테고리를 포함합니다.',
 		},
 		'what-is-deadside-esp-hack': {
-			q: 'Deadside ESP hack이란?',
-			a: 'Deadside ESP hack은 벽 너머 적 영웅, 무기, 루트를 보여주는 시야 오버레이입니다. Deadside Cheats ESP는 플레이어 박스, 거리 태그, 그래플 및 궁극기 신호, Quick Match와 Ranked용 카테고리를 포함합니다.',
+			q: 'Deadside ESP이란?',
+			a: 'Deadside ESP은 벽 너머 적 영웅, 무기, 루트를 보여주는 시야 오버레이입니다. Deadside Cheats ESP는 플레이어 박스, 거리 태그, 그래플 및 궁극기 신호, Quick Match와 Ranked용 카테고리를 포함합니다.',
 		},
 		'what-is-deadside-aimbot-hack': {
-			q: 'Deadside aimbot hack이란?',
-			a: 'Deadside aimbot hack은 설정 가능한 FOV, 스무딩, 뼈 우선순위로 에임 어시스트를 제공합니다. Deadside Cheats는 팀 전투와 결투에서 자연스러운 소프트 에임 프로필을 사용합니다 — Ranked 큐 전 mod 메뉴에서 조정하세요.',
+			q: 'Deadside aimbot이란?',
+			a: 'Deadside aimbot은 설정 가능한 FOV, 스무딩, 뼈 우선순위로 에임 어시스트를 제공합니다. Deadside Cheats는 팀 전투와 결투에서 자연스러운 소프트 에임 프로필을 사용합니다 — Ranked 큐 전 mod 메뉴에서 조정하세요.',
 		},
 		'what-is-deadside-soft-aim': {
 			q: 'Deadside soft aim이란?',
@@ -403,12 +403,12 @@ export const FAQ_ACCURACY_FIXES = {
 			a: 'Deadside wallhack 是一种 ESP 覆盖层，可透过地形显示敌方英雄。Deadside Cheats 包含距离读数、钩锁与大招提示，以及可切换类别。',
 		},
 		'what-is-deadside-esp-hack': {
-			q: '什么是 Deadside ESP hack？',
-			a: 'Deadside ESP hack 是一种可见性覆盖层，可透过墙壁显示敌方英雄、武器和物资。Deadside Cheats ESP 包含玩家框、距离标签、钩锁与大招提示，以及 Quick Match 和 Ranked 的可切换类别。',
+			q: '什么是 Deadside ESP？',
+			a: 'Deadside ESP 是一种可见性覆盖层，可透过墙壁显示敌方英雄、武器和物资。Deadside Cheats ESP 包含玩家框、距离标签、钩锁与大招提示，以及 Quick Match 和 Ranked 的可切换类别。',
 		},
 		'what-is-deadside-aimbot-hack': {
-			q: '什么是 Deadside aimbot hack？',
-			a: 'Deadside aimbot hack 提供可配置 FOV、平滑度和骨骼优先级的瞄准辅助。Deadside Cheats 使用在团战和决斗中感觉自然的软自瞄配置 — 在 Ranked 排队前于 mod 菜单调整。',
+			q: '什么是 Deadside aimbot？',
+			a: 'Deadside aimbot 提供可配置 FOV、平滑度和骨骼优先级的瞄准辅助。Deadside Cheats 使用在团战和决斗中感觉自然的软自瞄配置 — 在 Ranked 排队前于 mod 菜单调整。',
 		},
 		'what-is-deadside-soft-aim': {
 			q: '什么是 Deadside soft aim？',
@@ -433,12 +433,12 @@ export const FAQ_ACCURACY_FIXES = {
 			a: 'Deadside wallhack एक ESP overlay है जो इलाके के पार दुश्मन हीरो दिखाता है। Deadside Cheats में distance readouts, grapple और ult cues, और toggleable categories शामिल हैं।',
 		},
 		'what-is-deadside-esp-hack': {
-			q: 'Deadside ESP hack क्या है?',
-			a: 'Deadside ESP hack एक visibility overlay है जो दीवारों के पार दुश्मन हीरो, हथियार और loot दिखाता है। Deadside Cheats ESP में player boxes, distance tags, grapple और ult cues, और Quick Match व Ranked के लिए categories शामिल हैं।',
+			q: 'Deadside ESP क्या है?',
+			a: 'Deadside ESP एक visibility overlay है जो दीवारों के पार दुश्मन हीरो, हथियार और loot दिखाता है। Deadside Cheats ESP में player boxes, distance tags, grapple और ult cues, और Quick Match व Ranked के लिए categories शामिल हैं।',
 		},
 		'what-is-deadside-aimbot-hack': {
-			q: 'Deadside aimbot hack क्या है?',
-			a: 'Deadside aimbot hack configurable FOV, smoothing और bone priority के साथ aim assist देता है। Deadside Cheats team fights और duels में natural soft aim profiles उपयोग करता है — Ranked queues से पहले mod menu में ट्यून करें।',
+			q: 'Deadside aimbot क्या है?',
+			a: 'Deadside aimbot configurable FOV, smoothing और bone priority के साथ aim assist देता है। Deadside Cheats team fights और duels में natural soft aim profiles उपयोग करता है — Ranked queues से पहले mod menu में ट्यून करें।',
 		},
 		'what-is-deadside-soft-aim': {
 			q: 'Deadside soft aim क्या है?',
@@ -463,12 +463,12 @@ export const FAQ_ACCURACY_FIXES = {
 			a: 'Wallhack Deadside adalah overlay ESP yang menampilkan hero musuh melalui medan. Deadside Cheats mencakup jarak, isyarat grapple dan ultimate, dan kategori yang dapat dialihkan.',
 		},
 		'what-is-deadside-esp-hack': {
-			q: 'Apa itu ESP hack Deadside?',
-			a: 'ESP hack Deadside adalah overlay visibilitas yang menampilkan hero musuh, senjata, dan loot melalui dinding. Deadside Cheats ESP mencakup kotak pemain, tag jarak, isyarat grapple dan ultimate, dan kategori untuk Quick Match dan Ranked.',
+			q: 'Apa itu ESP Deadside?',
+			a: 'ESP Deadside adalah overlay visibilitas yang menampilkan hero musuh, senjata, dan loot melalui dinding. Deadside Cheats ESP mencakup kotak pemain, tag jarak, isyarat grapple dan ultimate, dan kategori untuk Quick Match dan Ranked.',
 		},
 		'what-is-deadside-aimbot-hack': {
-			q: 'Apa itu aimbot hack Deadside?',
-			a: 'Aimbot hack Deadside menyediakan aim assist dengan FOV, smoothing, dan prioritas tulang yang dapat dikonfigurasi. Deadside Cheats memakai profil soft aim yang natural dalam team fight dan duel — atur di menu mod sebelum antrean Ranked.',
+			q: 'Apa itu aimbot Deadside?',
+			a: 'Aimbot Deadside menyediakan aim assist dengan FOV, smoothing, dan prioritas tulang yang dapat dikonfigurasi. Deadside Cheats memakai profil soft aim yang natural dalam team fight dan duel — atur di menu mod sebelum antrean Ranked.',
 		},
 		'what-is-deadside-soft-aim': {
 			q: 'Apa itu soft aim Deadside?',
@@ -493,12 +493,12 @@ export const FAQ_ACCURACY_FIXES = {
 			a: 'Deadside wallhack คือ overlay ESP ที่แสดงฮีโร่ศัตรูผ่านภูมิประเทศ Deadside Cheats มีระยะทาง สัญญาณ grapple และ ultimate และหมวดที่สลับได้',
 		},
 		'what-is-deadside-esp-hack': {
-			q: 'Deadside ESP hack คืออะไร?',
-			a: 'Deadside ESP hack คือ overlay มองเห็นที่แสดงฮีโร่ศัตรู อาวุธ และ loot ผ่านกำแพง Deadside Cheats ESP มีกล่องผู้เล่น แท็กระยะ สัญญาณ grapple และ ultimate และหมวดสำหรับ Quick Match และ Ranked',
+			q: 'Deadside ESP คืออะไร?',
+			a: 'Deadside ESP คือ overlay มองเห็นที่แสดงฮีโร่ศัตรู อาวุธ และ loot ผ่านกำแพง Deadside Cheats ESP มีกล่องผู้เล่น แท็กระยะ สัญญาณ grapple และ ultimate และหมวดสำหรับ Quick Match และ Ranked',
 		},
 		'what-is-deadside-aimbot-hack': {
-			q: 'Deadside aimbot hack คืออะไร?',
-			a: 'Deadside aimbot hack ให้ aim assist ด้วย FOV smoothing และลำดับกระดูกที่ปรับได้ Deadside Cheats ใช้โปรไฟล์ soft aim ที่เป็นธรรมชาติใน team fight และดวล — ปรับในเมนู mod ก่อนคิว Ranked',
+			q: 'Deadside aimbot คืออะไร?',
+			a: 'Deadside aimbot ให้ aim assist ด้วย FOV smoothing และลำดับกระดูกที่ปรับได้ Deadside Cheats ใช้โปรไฟล์ soft aim ที่เป็นธรรมชาติใน team fight และดวล — ปรับในเมนู mod ก่อนคิว Ranked',
 		},
 		'what-is-deadside-soft-aim': {
 			q: 'Deadside soft aim คืออะไร?',
@@ -523,12 +523,12 @@ export const FAQ_ACCURACY_FIXES = {
 			a: 'Wallhack Deadside là overlay ESP hiển thị tướng địch qua địa hình. Deadside Cheats gồm khoảng cách, tín hiệu grapple và ultimate, và danh mục bật tắt.',
 		},
 		'what-is-deadside-esp-hack': {
-			q: 'ESP hack Deadside là gì?',
-			a: 'ESP hack Deadside là overlay tầm nhìn hiển thị tướng địch, vũ khí và loot qua tường. Deadside Cheats ESP gồm hộp người chơi, thẻ khoảng cách, tín hiệu grapple và ultimate, và danh mục cho Quick Match và Ranked.',
+			q: 'ESP Deadside là gì?',
+			a: 'ESP Deadside là overlay tầm nhìn hiển thị tướng địch, vũ khí và loot qua tường. Deadside Cheats ESP gồm hộp người chơi, thẻ khoảng cách, tín hiệu grapple và ultimate, và danh mục cho Quick Match và Ranked.',
 		},
 		'what-is-deadside-aimbot-hack': {
-			q: 'Aimbot hack Deadside là gì?',
-			a: 'Aimbot hack Deadside cung cấp aim assist với FOV, độ mượt và ưu tiên xương có thể cấu hình. Deadside Cheats dùng hồ sơ soft aim tự nhiên trong team fight và đấu tay đôi — chỉnh trong menu mod trước hàng đợi Ranked.',
+			q: 'Aimbot Deadside là gì?',
+			a: 'Aimbot Deadside cung cấp aim assist với FOV, độ mượt và ưu tiên xương có thể cấu hình. Deadside Cheats dùng hồ sơ soft aim tự nhiên trong team fight và đấu tay đôi — chỉnh trong menu mod trước hàng đợi Ranked.',
 		},
 		'what-is-deadside-soft-aim': {
 			q: 'Soft aim Deadside là gì?',
@@ -553,12 +553,12 @@ export const FAQ_ACCURACY_FIXES = {
 			a: 'Wallhack Deadside — ESP-оверлей, що показує ворожих героїв крізь рельєф. Deadside Cheats містить відстані, сигнали граппла та ульти та перемикаємі категорії.',
 		},
 		'what-is-deadside-esp-hack': {
-			q: 'Що таке ESP hack Deadside?',
-			a: 'ESP hack Deadside — оверлей видимості, що показує ворожих героїв, зброю та лут крізь стіни. Deadside Cheats ESP містить бокси гравців, мітки дистанції, сигнали граппла та ульти та категорії для Quick Match і Ranked.',
+			q: 'Що таке ESP Deadside?',
+			a: 'ESP Deadside — оверлей видимості, що показує ворожих героїв, зброю та лут крізь стіни. Deadside Cheats ESP містить бокси гравців, мітки дистанції, сигнали граппла та ульти та категорії для Quick Match і Ranked.',
 		},
 		'what-is-deadside-aimbot-hack': {
-			q: 'Що таке aimbot hack Deadside?',
-			a: 'Aimbot hack Deadside дає aim assist з налаштовуваним FOV, згладжуванням і пріоритетом кісток. Deadside Cheats використовує soft aim-профілі для командних боїв і дуелей — налаштуйте в mod-меню перед Ranked-чергами.',
+			q: 'Що таке aimbot Deadside?',
+			a: 'Aimbot Deadside дає aim assist з налаштовуваним FOV, згладжуванням і пріоритетом кісток. Deadside Cheats використовує soft aim-профілі для командних боїв і дуелей — налаштуйте в mod-меню перед Ranked-чергами.',
 		},
 		'what-is-deadside-soft-aim': {
 			q: 'Що таке soft aim Deadside?',
@@ -583,12 +583,12 @@ export const FAQ_ACCURACY_FIXES = {
 			a: 'Deadside wallhack je ESP overlay zobrazující nepřátelské hrdiny přes terén. Deadside Cheats obsahuje vzdálenosti, signály grapple a ultimate a přepínatelné kategorie.',
 		},
 		'what-is-deadside-esp-hack': {
-			q: 'Co je Deadside ESP hack?',
-			a: 'Deadside ESP hack je overlay viditelnosti zobrazující nepřátelské hrdiny, zbraně a loot skrz zdi. Deadside Cheats ESP obsahuje boxy hráčů, distance tagy, signály grapple a ultimate a kategorie pro Quick Match a Ranked.',
+			q: 'Co je Deadside ESP?',
+			a: 'Deadside ESP je overlay viditelnosti zobrazující nepřátelské hrdiny, zbraně a loot skrz zdi. Deadside Cheats ESP obsahuje boxy hráčů, distance tagy, signály grapple a ultimate a kategorie pro Quick Match a Ranked.',
 		},
 		'what-is-deadside-aimbot-hack': {
-			q: 'Co je Deadside aimbot hack?',
-			a: 'Deadside aimbot hack poskytuje aim assist s nastavitelným FOV, smoothingem a prioritou kostí. Deadside Cheats používá soft aim profily pro přirozené team fighty a duely — nastavte v mod menu před Ranked frontami.',
+			q: 'Co je Deadside aimbot?',
+			a: 'Deadside aimbot poskytuje aim assist s nastavitelným FOV, smoothingem a prioritou kostí. Deadside Cheats používá soft aim profily pro přirozené team fighty a duely — nastavte v mod menu před Ranked frontami.',
 		},
 		'what-is-deadside-soft-aim': {
 			q: 'Co je Deadside soft aim?',
@@ -613,12 +613,12 @@ export const FAQ_ACCURACY_FIXES = {
 			a: 'Un wallhack Deadside este un overlay ESP care arată eroi inamici prin teren. Deadside Cheats include distanțe, semnale grapple și ultimate, și categorii comutabile.',
 		},
 		'what-is-deadside-esp-hack': {
-			q: 'Ce este un ESP hack Deadside?',
-			a: 'Un ESP hack Deadside este un overlay de vizibilitate care arată eroi inamici, arme și loot prin pereți. Deadside Cheats ESP include cutii jucător, etichete distanță, semnale grapple și ultimate, și categorii pentru Quick Match și Ranked.',
+			q: 'Ce este un ESP Deadside?',
+			a: 'Un ESP Deadside este un overlay de vizibilitate care arată eroi inamici, arme și loot prin pereți. Deadside Cheats ESP include cutii jucător, etichete distanță, semnale grapple și ultimate, și categorii pentru Quick Match și Ranked.',
 		},
 		'what-is-deadside-aimbot-hack': {
-			q: 'Ce este un aimbot hack Deadside?',
-			a: 'Un aimbot hack Deadside oferă aim assist cu FOV, smoothing și prioritate oase configurabile. Deadside Cheats folosește profiluri soft aim naturale în team fight-uri și dueluri — reglează în meniul mod înainte de cozile Ranked.',
+			q: 'Ce este un aimbot Deadside?',
+			a: 'Un aimbot Deadside oferă aim assist cu FOV, smoothing și prioritate oase configurabile. Deadside Cheats folosește profiluri soft aim naturale în team fight-uri și dueluri — reglează în meniul mod înainte de cozile Ranked.',
 		},
 		'what-is-deadside-soft-aim': {
 			q: 'Ce este soft aim Deadside?',
@@ -643,12 +643,12 @@ export const FAQ_ACCURACY_FIXES = {
 			a: 'En Deadside wallhack är ett ESP-overlay som visar fiendehjältar genom terräng. Deadside Cheats inkluderar avstånd, grapple- och ult-signaler, och växlingsbara kategorier.',
 		},
 		'what-is-deadside-esp-hack': {
-			q: 'Vad är en Deadside ESP hack?',
-			a: 'En Deadside ESP hack är ett synlighets-overlay som visar fiendehjältar, vapen och loot genom väggar. Deadside Cheats ESP inkluderar spelarrutor, avståndstaggar, grapple- och ult-signaler, och kategorier för Quick Match och Ranked.',
+			q: 'Vad är en Deadside ESP?',
+			a: 'En Deadside ESP är ett synlighets-overlay som visar fiendehjältar, vapen och loot genom väggar. Deadside Cheats ESP inkluderar spelarrutor, avståndstaggar, grapple- och ult-signaler, och kategorier för Quick Match och Ranked.',
 		},
 		'what-is-deadside-aimbot-hack': {
-			q: 'Vad är en Deadside aimbot hack?',
-			a: 'En Deadside aimbot hack ger aim assist med konfigurerbar FOV, smoothing och benprioritet. Deadside Cheats använder soft aim-profiler för naturliga team fights och dueller — ställ in i mod-menyn före Ranked-köer.',
+			q: 'Vad är en Deadside aimbot?',
+			a: 'En Deadside aimbot ger aim assist med konfigurerbar FOV, smoothing och benprioritet. Deadside Cheats använder soft aim-profiler för naturliga team fights och dueller — ställ in i mod-menyn före Ranked-köer.',
 		},
 		'what-is-deadside-soft-aim': {
 			q: 'Vad är Deadside soft aim?',

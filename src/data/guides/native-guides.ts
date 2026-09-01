@@ -23,7 +23,7 @@ export const nativeGuides: NativeGuideLink[] = [
 	{
 		slug: 'deadside-radar-hack',
 		href: '/deadside-radar-hack/',
-		title: 'Deadside Radar Hack',
+		title: 'Deadside 2D Radar',
 		description: '2D radar overlays for flanks, rotates, and zone awareness.',
 	},
 	{

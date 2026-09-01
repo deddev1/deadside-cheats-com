@@ -373,7 +373,7 @@ function getNativeSimpleContent(locale, u, p) {
 	});
 
 	mk('radar', {
-		h1: modulePageH1('radar', L) ?? 'Radar Hack',
+		h1: modulePageH1('radar', L) ?? '2D Radar',
 		intro: sectionParas(L, 'radar', 'intro', p)[0],
 		sections: [
 			{ h2: sectionTitle(L, 'whatItShows'), paragraphs: sectionParas(L, 'radar', 0, p), list: sectionList(L, 'radar', 0) },

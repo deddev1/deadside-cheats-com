@@ -9,8 +9,6 @@ export const primarySeoKeyword = 'deadside cheats';
  */
 export const globalSeoKeywords = [
 	'deadside cheats',
-	'deadside hacks',
-	'deadside cheats',
 	'undetected deadside cheats',
 	'deadside cheats 2026',
 	'best deadside cheats',
@@ -19,14 +17,12 @@ export const globalSeoKeywords = [
 	'deadside wallhack',
 	'deadside aimbot',
 	'deadside soft aim',
-	'deadside radar hack',
+	'deadside 2d radar',
 	'deadside battleye bypass',
 	'deadside cheats pc',
 	'deadside cheat download',
 	'deadside mod menu',
 	'deadside cheats undetected',
-	'deadside aimbot hack',
-	'deadside esp hack',
 	'best deadside cheats 2026',
 	'deadside cheats for ranked',
 	'deadside external cheat',
@@ -51,7 +47,6 @@ export const pageSeoKeywords: Partial<Record<PageId, readonly string[]>> = {
 	],
 	'deadside-esp': [
 		'deadside esp',
-		'deadside esp hack',
 		'deadside wallhack',
 		'deadside esp wallhack',
 		'deadside cheats esp',
@@ -59,25 +54,24 @@ export const pageSeoKeywords: Partial<Record<PageId, readonly string[]>> = {
 	wallhack: [
 		'deadside wallhack',
 		'deadside esp wallhack',
-		'deadside wallhack hack',
 		'deadside esp',
+		'deadside cheats wallhack',
 	],
 	'deadside-aimbot': [
 		'deadside aimbot',
 		'deadside soft aim',
-		'deadside aimbot hack',
 		'legit deadside aimbot',
 		'deadside cheats aimbot',
 	],
-	'aimbot-hack': ['deadside aimbot hack', 'deadside aimbot', 'deadside soft aim', 'deadside cheats aimbot'],
+	'aimbot-hack': ['deadside aimbot', 'deadside soft aim', 'deadside cheats aimbot'],
 	'soft-aim': ['deadside soft aim', 'deadside aimbot', 'soft aim deadside', 'deadside cheats soft aim'],
-	radar: ['deadside radar hack', 'deadside 2d radar', 'deadside radar', 'deadside cheats radar'],
-	'esp-hack': ['deadside esp hack', 'deadside esp', 'deadside wallhack', 'deadside cheats esp'],
+	radar: ['deadside 2d radar', 'deadside radar', 'deadside cheats radar'],
+	'esp-hack': ['deadside esp', 'deadside wallhack', 'deadside cheats esp'],
 	features: [
 		'deadside cheats features',
 		'deadside esp',
 		'deadside aimbot',
-		'deadside radar hack',
+		'deadside 2d radar',
 		'deadside mod menu',
 	],
 	pricing: [
@@ -131,14 +125,11 @@ export const pageSeoKeywords: Partial<Record<PageId, readonly string[]>> = {
 /** Meta keywords for /reviews/ and individual review pages (English-only routes). */
 export const reviewsSeoKeywords = [
 	'deadside cheats reviews',
-	'deadside hacks',
 	'deadside cheats',
-	'deadside cheats',
-	'deadside cheats',
-	'deadside hacks pc',
+	'deadside cheats pc',
 	'deadside esp',
 	'deadside aimbot',
-	'deadside radar hack',
+	'deadside 2d radar',
 	'undetected deadside cheats',
 ] as const;
 

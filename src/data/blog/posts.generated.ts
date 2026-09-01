@@ -16,7 +16,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		metaDescription: "Learn how Deadside patch notes change player builds, resource economy, and maps. What to do after BattlEye and major updates in 2026.",
 		h1: "How to Read Deadside Patch Notes",
 		intro: "When Bad Pixel drops a patch, most players skim the headline and load in anyway. That is how you walk into Map with the wrong ammo and a gun that just lost its damage output. Here is a calmer way to read Deadside patch notes so your next match still makes sense.",
-		keywords: ["Deadside patch notes","deadside updates","battleye patch"],
+		keywords: ["Deadside patch notes","deadside updates","neac patch"],
 		imageAlt: "Player reviewing Deadside patch notes before a match",
 		sections: [
 			{
@@ -411,7 +411,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		metaDescription: "A clear 2026 guide to deadside cheats — what ESP, soft aim, and radar actually do in Deadside, how BattlEye maintenance works, and how to buy safely.",
 		h1: "Deadside Cheats Guide for 2026",
 		intro: "People search “deadside cheats” for a simple reason: Deadside is information-heavy, punishing, and full of defenders. This guide explains what modern undetected packages actually include, how BattlEye maintenance works, and how to decide whether a tool fits your play style.",
-		keywords: ["deadside cheats","undetected hacks","deadside esp"],
+		keywords: ["deadside cheats","undetected cheats","deadside esp"],
 		imageAlt: "Overview of Deadside Cheats ESP soft aim and radar tools for 2026",
 		sections: [
 			{
@@ -674,7 +674,7 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Patch-day habits that reduce pain",
 				paragraphs: [
-					"After a Deadside or BattlEye update, wait for a status note before loading in. Confirm Steam services on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside on PC</a> if the launcher itself is failing. Do not run yesterday’s build into today’s anti-cheat and call it bad luck.",
+					"After a Deadside or BattlEye update, wait for a status note before loading in. Confirm Riot services on <a href=\"https://store.steampowered.com/app/895400/Deadside//\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside on PC</a> if the launcher itself is failing. Do not run yesterday’s build into today’s anti-cheat and call it bad luck.",
 					"Keep soft aim conservative and avoid highlight-reel rage settings that attract reports even when the binary is clean.",
 				],
 			},
@@ -814,7 +814,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		metaDescription: "Full-stack Deadside Cheats versus minimal ESP-only Deadside tools — feature depth, radar, soft aim, pricing, and who should buy which style.",
 		h1: "Full-Stack vs ESP-Only Deadside Cheats",
 		intro: "Some Deadside tools sell a slim ESP module and call it a day. Deadside Cheats ships the wider match stack. Neither philosophy is automatically wrong — they fit different players. Here is a clear comparison.",
-		keywords: ["deadside esp cheat","full stack hacks","radar vs esp"],
+		keywords: ["deadside esp cheat","full stack cheats","radar vs esp"],
 		imageAlt: "Full stack Deadside Cheats compared with minimal ESP-only tools",
 		sections: [
 			{

@@ -3,7 +3,7 @@
 export const uiStrings = {
 	en: {
 		nav: { home: 'Home', hacks: 'Cheats', aimbot: 'Aimbot', esp: 'ESP', features: 'Features', pricing: 'Pricing', setup: 'Setup', updates: 'Updates', faq: 'FAQ', buyNow: 'Buy Now', preview: 'Cheats', store: 'Pricing', status: 'Updates', reviews: 'Reviews' },
-		hero: { accent: '2026 — Undetected ESP, Aimbot & Wallhack', accentShort: 'Undetected deadside cheats 2026', title: 'Undetected Deadside Cheats — ESP, Aimbot & Radar', subtitle: 'deadside cheats with Deadside ESP, radar hack and Deadside Aimbot for Windows PC — BattlEye maintenance included.', subtitleShort: 'Deadside ESP, radar & aimbot for PC', buyNow: 'Buy Deadside Cheats', seeFeatures: 'See Features' },
+		hero: { accent: '2026 — Undetected ESP, Aimbot & Wallhack', accentShort: 'Undetected deadside cheats 2026', title: 'Undetected Deadside Cheats — ESP, Aimbot & Radar', subtitle: 'deadside cheats with Deadside ESP, 2D radar and Deadside Aimbot for Windows PC — BattlEye maintenance included.', subtitleShort: 'Deadside ESP, radar & aimbot for PC', buyNow: 'Buy Deadside Cheats', seeFeatures: 'See Features' },
 		trust: { status: 'Online', statusNote: 'Deadside Cheats — undetected deadside cheats live for Deadside on Windows PC.', statusShort: 'Live', delivery: 'Instant digital delivery', platform: 'Windows 10 & 11', antiCheat: 'BattlEye maintenance supported', antiCheatShort: 'BattlEye supported' },
 		product: { title: 'Deadside Cheats', addToCart: 'Add to Cart', monthly: 'Monthly', lifetime: 'Lifetime', available: 'Available now', gameBadge: 'Deadside', platformBadge: 'Windows PC', statusBadge: 'Undetected deadside cheats' },
 		reviews: { title: 'Deadside cheats reviews', subtitle: 'Recent Deadside cheats feedback from buyers', outOf: 'out of 5', countLabel: 'reviews' },
@@ -24,7 +24,7 @@ export const uiStrings = {
 	},
 	es: {
 		nav: { home: 'Inicio', hacks: 'Cheats', aimbot: 'Aimbot', esp: 'ESP', features: 'Funciones', pricing: 'Precios', setup: 'Instalación', updates: 'Actualizaciones', faq: 'FAQ', buyNow: 'Comprar' },
-		hero: { accent: 'Trucos Deadside indetectables', accentShort: 'Deadside Cheats', subtitle: 'ESP wallhack, radar hack y Aimbot para Deadside en PC Windows — mantenimiento BattlEye incluido.', subtitleShort: 'ESP, radar y Aimbot para Deadside PC', buyNow: 'Comprar ahora', seeFeatures: 'Ver funciones' },
+		hero: { accent: 'Trucos Deadside indetectables', accentShort: 'Deadside Cheats', subtitle: 'ESP wallhack, 2D radar y Aimbot para Deadside en PC Windows — mantenimiento BattlEye incluido.', subtitleShort: 'ESP, radar y Aimbot para Deadside PC', buyNow: 'Comprar ahora', seeFeatures: 'Ver funciones' },
 		trust: { status: 'En línea', statusNote: 'El paquete Deadside Cheats está activo para Deadside en PC Windows.', statusShort: 'Activo', delivery: 'Entrega digital instantánea', platform: 'Windows 10 y 11', antiCheat: 'Mantenimiento BattlEye incluido', antiCheatShort: 'BattlEye incluido' },
 		product: { title: 'Deadside Cheats', addToCart: 'Añadir al carrito', monthly: 'Mensual', lifetime: 'De por vida', available: 'Disponible ahora', gameBadge: 'Deadside', platformBadge: 'PC Windows', statusBadge: 'Paquete indetectable' },
 		reviews: { title: 'Lo que dicen los jugadores', subtitle: 'Comentarios recientes de compradores de Deadside Cheats', outOf: 'de 5', countLabel: 'reseñas' },
@@ -45,7 +45,7 @@ export const uiStrings = {
 	},
 	fr: {
 		nav: { home: 'Accueil', hacks: 'Cheats', aimbot: 'Aimbot', esp: 'ESP', features: 'Fonctions', pricing: 'Tarifs', setup: 'Installation', updates: 'Mises à jour', faq: 'FAQ', buyNow: 'Acheter' },
-		hero: { accent: 'Triches Deadside indétectables', accentShort: 'Deadside Cheats', subtitle: 'ESP wallhack, radar hack et Aimbot pour Deadside sur PC Windows — maintenance BattlEye incluse.', subtitleShort: 'ESP, radar et Aimbot pour Deadside PC', buyNow: 'Acheter', seeFeatures: 'Voir les fonctions' },
+		hero: { accent: 'Triches Deadside indétectables', accentShort: 'Deadside Cheats', subtitle: 'ESP wallhack, 2D radar et Aimbot pour Deadside sur PC Windows — maintenance BattlEye incluse.', subtitleShort: 'ESP, radar et Aimbot pour Deadside PC', buyNow: 'Acheter', seeFeatures: 'Voir les fonctions' },
 		trust: { status: 'En ligne', statusNote: 'Le squad Deadside Cheats est actif pour Deadside sur PC Windows.', statusShort: 'Actif', delivery: 'Livraison numérique instantanée', platform: 'Windows 10 et 11', antiCheat: 'Maintenance BattlEye incluse', antiCheatShort: 'BattlEye inclus' },
 		product: { title: 'Deadside Cheats', addToCart: 'Ajouter au panier', monthly: 'Mensuel', lifetime: 'À vie', available: 'Disponible', gameBadge: 'Deadside', platformBadge: 'PC Windows', statusBadge: 'Pack indétectable' },
 		reviews: { title: 'Ce que disent les joueurs', subtitle: 'Avis récents des acheteurs Deadside Cheats', outOf: 'sur 5', countLabel: 'avis' },
@@ -66,7 +66,7 @@ export const uiStrings = {
 	},
 	de: {
 		nav: { home: 'Start', hacks: 'Cheats', aimbot: 'Aimbot', esp: 'ESP', features: 'Features', pricing: 'Preise', setup: 'Setup', updates: 'Updates', faq: 'FAQ', buyNow: 'Kaufen' },
-		hero: { accent: 'Undetected Deadside Cheats', accentShort: 'Deadside Cheats', subtitle: 'ESP Wallhack, Radar Hack und Aimbot für Deadside auf Windows PC — BattlEye-Wartung inklusive.', subtitleShort: 'ESP, Radar & Aimbot für Deadside PC', buyNow: 'Jetzt kaufen', seeFeatures: 'Features ansehen' },
+		hero: { accent: 'Undetected Deadside Cheats', accentShort: 'Deadside Cheats', subtitle: 'ESP Wallhack, 2D Radar und Aimbot für Deadside auf Windows PC — BattlEye-Wartung inklusive.', subtitleShort: 'ESP, Radar & Aimbot für Deadside PC', buyNow: 'Jetzt kaufen', seeFeatures: 'Features ansehen' },
 		trust: { status: 'Online', statusNote: 'Deadside Cheats Paket ist live für Deadside auf Windows PC.', statusShort: 'Live', delivery: 'Sofortige digitale Lieferung', platform: 'Windows 10 & 11', antiCheat: 'BattlEye-Wartung unterstützt', antiCheatShort: 'BattlEye Support' },
 		product: { title: 'Deadside Cheats', addToCart: 'In den Warenkorb', monthly: 'Monatlich', lifetime: 'Lifetime', available: 'Jetzt verfügbar', gameBadge: 'Deadside', platformBadge: 'Windows PC', statusBadge: 'Undetected Paket' },
 		reviews: { title: 'Was Spieler sagen', subtitle: 'Aktuelles Feedback von Deadside Cheats Käufern', outOf: 'von 5', countLabel: 'Bewertungen' },
@@ -87,7 +87,7 @@ export const uiStrings = {
 	},
 	pt: {
 		nav: { home: 'Início', hacks: 'Cheats', aimbot: 'Aimbot', esp: 'ESP', features: 'Recursos', pricing: 'Preços', setup: 'Instalação', updates: 'Atualizações', faq: 'FAQ', buyNow: 'Comprar' },
-		hero: { accent: 'Cheats Deadside indetectáveis', accentShort: 'Deadside Cheats', subtitle: 'ESP wallhack, radar hack e Aimbot para Deadside no PC Windows — manutenção BattlEye incluída.', subtitleShort: 'ESP, radar e Aimbot para Deadside PC', buyNow: 'Comprar agora', seeFeatures: 'Ver recursos' },
+		hero: { accent: 'Cheats Deadside indetectáveis', accentShort: 'Deadside Cheats', subtitle: 'ESP wallhack, 2D radar e Aimbot para Deadside no PC Windows — manutenção BattlEye incluída.', subtitleShort: 'ESP, radar e Aimbot para Deadside PC', buyNow: 'Comprar agora', seeFeatures: 'Ver recursos' },
 		trust: { status: 'Online', statusNote: 'O pacote Deadside Cheats está ativo para Deadside no PC Windows.', statusShort: 'Ativo', delivery: 'Entrega digital instantânea', platform: 'Windows 10 e 11', antiCheat: 'Manutenção BattlEye incluída', antiCheatShort: 'BattlEye incluído' },
 		product: { title: 'Deadside Cheats', addToCart: 'Adicionar ao carrinho', monthly: 'Mensal', lifetime: 'Vitalício', available: 'Disponível agora', gameBadge: 'Deadside', platformBadge: 'PC Windows', statusBadge: 'Pacote indetectável' },
 		reviews: { title: 'O que os jogadores dizem', subtitle: 'Feedback recente de compradores Deadside Cheats', outOf: 'de 5', countLabel: 'avaliações' },
@@ -108,7 +108,7 @@ export const uiStrings = {
 	},
 	it: {
 		nav: { home: 'Home', hacks: 'Cheats', aimbot: 'Aimbot', esp: 'ESP', features: 'Funzioni', pricing: 'Prezzi', setup: 'Setup', updates: 'Aggiornamenti', faq: 'FAQ', buyNow: 'Acquista' },
-		hero: { accent: 'Cheat Deadside indetectable', accentShort: 'Deadside Cheats', subtitle: 'ESP wallhack, radar hack e Aimbot per Deadside su PC Windows — manutenzione BattlEye inclusa.', subtitleShort: 'ESP, radar e Aimbot per Deadside PC', buyNow: 'Acquista ora', seeFeatures: 'Vedi funzioni' },
+		hero: { accent: 'Cheat Deadside indetectable', accentShort: 'Deadside Cheats', subtitle: 'ESP wallhack, 2D radar e Aimbot per Deadside su PC Windows — manutenzione BattlEye inclusa.', subtitleShort: 'ESP, radar e Aimbot per Deadside PC', buyNow: 'Acquista ora', seeFeatures: 'Vedi funzioni' },
 		trust: { status: 'Online', statusNote: 'Il pacchetto Deadside Cheats è attivo per Deadside su PC Windows.', statusShort: 'Attivo', delivery: 'Consegna digitale istantanea', platform: 'Windows 10 e 11', antiCheat: 'Manutenzione BattlEye supportata', antiCheatShort: 'BattlEye supportato' },
 		product: { title: 'Deadside Cheats', addToCart: 'Aggiungi al carrello', monthly: 'Mensile', lifetime: 'A vita', available: 'Disponibile ora', gameBadge: 'Deadside', platformBadge: 'PC Windows', statusBadge: 'Pacchetto indetectable' },
 		reviews: { title: 'Cosa dicono i giocatori', subtitle: 'Feedback recente dagli acquirenti Deadside Cheats', outOf: 'su 5', countLabel: 'recensioni' },
@@ -129,7 +129,7 @@ export const uiStrings = {
 	},
 	nl: {
 		nav: { home: 'Home', hacks: 'Cheats', aimbot: 'Aimbot', esp: 'ESP', features: 'Functies', pricing: 'Prijzen', setup: 'Setup', updates: 'Updates', faq: 'FAQ', buyNow: 'Kopen' },
-		hero: { accent: 'Undetected Deadside Cheats', accentShort: 'Deadside Cheats', subtitle: 'ESP wallhack, radar hack en Aimbot voor Deadside op Windows PC — BattlEye-onderhoud inbegrepen.', subtitleShort: 'ESP, radar & Aimbot voor Deadside PC', buyNow: 'Nu kopen', seeFeatures: 'Bekijk functies' },
+		hero: { accent: 'Undetected Deadside Cheats', accentShort: 'Deadside Cheats', subtitle: 'ESP wallhack, 2D radar en Aimbot voor Deadside op Windows PC — BattlEye-onderhoud inbegrepen.', subtitleShort: 'ESP, radar & Aimbot voor Deadside PC', buyNow: 'Nu kopen', seeFeatures: 'Bekijk functies' },
 		trust: { status: 'Online', statusNote: 'Deadside Cheats pakket is live voor Deadside op Windows PC.', statusShort: 'Live', delivery: 'Directe digitale levering', platform: 'Windows 10 & 11', antiCheat: 'BattlEye-onderhoud ondersteund', antiCheatShort: 'BattlEye support' },
 		product: { title: 'Deadside Cheats', addToCart: 'In winkelwagen', monthly: 'Maandelijks', lifetime: 'Lifetime', available: 'Nu beschikbaar', gameBadge: 'Deadside', platformBadge: 'Windows PC', statusBadge: 'Undetected pakket' },
 		reviews: { title: 'Wat spelers zeggen', subtitle: 'Recente feedback va Deadside Cheats kopers', outOf: 'van 5', countLabel: 'reviews' },
@@ -150,7 +150,7 @@ export const uiStrings = {
 	},
 	pl: {
 		nav: { home: 'Strona główna', hacks: 'Cheats', aimbot: 'Aimbot', esp: 'ESP', features: 'Funkcje', pricing: 'Cennik', setup: 'Instalacja', updates: 'Aktualizacje', faq: 'FAQ', buyNow: 'Kup teraz' },
-		hero: { accent: 'Undetected cheaty Deadside', accentShort: 'Deadside Cheats', subtitle: 'ESP wallhack, radar hack i Aimbot do Deadside na PC Windows — konserwacja BattlEye w cenie.', subtitleShort: 'ESP, radar i Aimbot dla Deadside PC', buyNow: 'Kup teraz', seeFeatures: 'Zobacz funkcje' },
+		hero: { accent: 'Undetected cheaty Deadside', accentShort: 'Deadside Cheats', subtitle: 'ESP wallhack, 2D radar i Aimbot do Deadside na PC Windows — konserwacja BattlEye w cenie.', subtitleShort: 'ESP, radar i Aimbot dla Deadside PC', buyNow: 'Kup teraz', seeFeatures: 'Zobacz funkcje' },
 		trust: { status: 'Online', statusNote: 'Pakiet Deadside Cheats jest aktywny dla Deadside na PC Windows.', statusShort: 'Aktywny', delivery: 'Natychmiastowa dostawa cyfrowa', platform: 'Windows 10 i 11', antiCheat: 'Wsparcie konserwacji BattlEye', antiCheatShort: 'BattlEye wsparcie' },
 		product: { title: 'Deadside Cheats', addToCart: 'Dodaj do koszyka', monthly: 'Miesięcznie', lifetime: 'Dożywotnio', available: 'Dostępne teraz', gameBadge: 'Deadside', platformBadge: 'PC Windows', statusBadge: 'Pakiet undetected' },
 		reviews: { title: 'Co mówią gracze', subtitle: 'Ostatnie opinie kupujących Deadside Cheats', outOf: 'na 5', countLabel: 'opinii' },
@@ -171,7 +171,7 @@ export const uiStrings = {
 	},
 	ru: {
 		nav: { home: 'Главная', hacks: 'Cheats', aimbot: 'Aimbot', esp: 'ESP', features: 'Функции', pricing: 'Цены', setup: 'Установка', updates: 'Обновления', faq: 'FAQ', buyNow: 'Купить' },
-		hero: { accent: 'Undetected читы Deadside', accentShort: 'Deadside Cheats', subtitle: 'ESP wallhack, radar hack и Aimbot для Deadside на Windows PC — обслуживание BattlEye включено.', subtitleShort: 'ESP, radar и Aimbot для Deadside PC', buyNow: 'Купить', seeFeatures: 'Смотреть функции' },
+		hero: { accent: 'Undetected читы Deadside', accentShort: 'Deadside Cheats', subtitle: 'ESP wallhack, 2D radar и Aimbot для Deadside на Windows PC — обслуживание BattlEye включено.', subtitleShort: 'ESP, radar и Aimbot для Deadside PC', buyNow: 'Купить', seeFeatures: 'Смотреть функции' },
 		trust: { status: 'Онлайн', statusNote: 'Пакет Deadside Cheats активен для Deadside на Windows PC.', statusShort: 'Активен', delivery: 'Мгновенная цифровая доставка', platform: 'Windows 10 и 11', antiCheat: 'Поддержка обслуживания BattlEye', antiCheatShort: 'BattlEye поддержка' },
 		product: { title: 'Deadside Cheats', addToCart: 'В корзину', monthly: 'Месяц', lifetime: 'Навсегда', available: 'Доступно сейчас', gameBadge: 'Deadside', platformBadge: 'Windows PC', statusBadge: 'Undetected пакет' },
 		reviews: { title: 'Что говорят игроки', subtitle: 'Недавние отзывы покупателей Deadside Cheats', outOf: 'из 5', countLabel: 'отзывов' },
@@ -192,7 +192,7 @@ export const uiStrings = {
 	},
 	tr: {
 		nav: { home: 'Ana sayfa', hacks: 'Cheats', aimbot: 'Aimbot', esp: 'ESP', features: 'Özellikler', pricing: 'Fiyatlar', setup: 'Kurulum', updates: 'Güncellemeler', faq: 'SSS', buyNow: 'Satın al' },
-		hero: { accent: 'Undetected Deadside hileleri', accentShort: 'Deadside Cheats', subtitle: 'Deadside Windows PC için ESP wallhack, radar hack ve Aimbot — BattlEye bakımı dahil.', subtitleShort: 'Deadside PC için ESP, radar ve Aimbot', buyNow: 'Satın al', seeFeatures: 'Özellikleri gör' },
+		hero: { accent: 'Undetected Deadside hileleri', accentShort: 'Deadside Cheats', subtitle: 'Deadside Windows PC için ESP wallhack, 2D radar ve Aimbot — BattlEye bakımı dahil.', subtitleShort: 'Deadside PC için ESP, radar ve Aimbot', buyNow: 'Satın al', seeFeatures: 'Özellikleri gör' },
 		trust: { status: 'Çevrimiçi', statusNote: 'Deadside Cheats paketi Deadside Windows PC için aktif.', statusShort: 'Aktif', delivery: 'Anında dijital teslimat', platform: 'Windows 10 ve 11', antiCheat: 'BattlEye bakım desteği', antiCheatShort: 'BattlEye destek' },
 		product: { title: 'Deadside Cheats', addToCart: 'Sepete ekle', monthly: 'Aylık', lifetime: 'Ömür boyu', available: 'Şimdi mevcut', gameBadge: 'Deadside', platformBadge: 'Windows PC', statusBadge: 'Undetected paket' },
 		reviews: { title: 'Oyuncular ne diyor', subtitle: 'Deadside Cheats alıcılarından son geri bildirimler', outOf: '/5', countLabel: 'yorum' },

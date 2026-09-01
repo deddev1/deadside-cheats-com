@@ -87,7 +87,7 @@ const EN_FAQ_ITEMS = {
 		a: 'A Deadside wallhack is an ESP overlay that shows enemy players through terrain. Deadside Cheats includes distance readouts, weapon and loot cues, and toggleable categories.',
 	},
 	'does-deadside-cheats-include-radar-hack': {
-		q: 'Does Deadside Cheats include a radar hack?',
+		q: 'Does Deadside Cheats include 2D radar?',
 		a: 'Yes. Deadside Cheats includes 2D radar overlays that highlight nearby threats outside your view — useful for flanks and compound zones.',
 	},
 	'battleye-anti-cheat-and-deadside-cheats': {
@@ -103,12 +103,12 @@ const EN_FAQ_ITEMS = {
 		a: 'Deadside Cheats is $35 per month or $150 lifetime USD on Windows PC. Both plans include ESP wallhack, 2D radar, soft aim, and BattlEye maintenance rebuilds. See Pricing for the latest plan details before checkout.',
 	},
 	'what-is-deadside-esp-hack': {
-		q: 'What is a Deadside ESP hack?',
-		a: 'A Deadside ESP hack is a visibility overlay that shows enemy players, weapons, and loot through walls. Deadside Cheats ESP includes player boxes, distance tags, and toggleable categories for PvP raids and squad sessions.',
+		q: 'What is Deadside ESP?',
+		a: 'Deadside ESP is a visibility overlay that shows enemy players, weapons, and loot through walls. Deadside Cheats ESP includes player boxes, distance tags, and toggleable categories for PvP raids and squad sessions.',
 	},
 	'what-is-deadside-aimbot-hack': {
-		q: 'What is a Deadside aimbot hack?',
-		a: 'A Deadside aimbot hack provides aim assist with configurable FOV, smoothing, and bone priority. Deadside Cheats uses soft aim profiles designed to feel natural in firefights and duels — tune settings in the mod menu before you deploy.',
+		q: 'What is a Deadside aimbot?',
+		a: 'A Deadside aimbot provides aim assist with configurable FOV, smoothing, and bone priority. Deadside Cheats uses soft aim profiles designed to feel natural in firefights and duels — tune settings in the mod menu before you deploy.',
 	},
 	'how-to-install-deadside-cheats': {
 		q: 'How do I install deadside cheats on Windows PC?',
@@ -131,7 +131,7 @@ const EN_FAQ_ITEMS = {
 		a: 'Deadside soft aim gently guides aim toward targets inside a set FOV instead of snapping instantly. Deadside Cheats lets you adjust smoothing, bone priority, and per-weapon-type profiles so assist feels controlled in PvP raids and squad sessions.',
 	},
 	'free-deadside-cheat-download': {
-		q: 'Is there a free Deadside hack download?',
+		q: 'Is there a free Deadside cheat download?',
 		a: 'Deadside Cheats is a paid license — there is no official free download. Avoid random “free deadside cheat” sites; they often ship malware or detected loaders. Compare monthly and lifetime plans on Pricing for legitimate ESP, radar, and aimbot access with support.',
 	},
 	'deadside-battleye-bypass': {
@@ -148,7 +148,7 @@ const EN_FAQ_ITEMS = {
 	},
 	'external-vs-internal-deadside-cheats': {
 		q: 'What is the difference between external and internal deadside cheats?',
-		a: 'External hacks read game memory from outside the client; internal hooks run inside the process. Deadside Cheats is built as an external-style package for easier setup on Windows PC, bundling ESP, radar, and soft aim with BattlEye maintenance after patches.',
+		a: 'External cheats read game memory from outside the client; internal hooks run inside the process. Deadside Cheats is built as an external-style package for easier setup on Windows PC, bundling ESP, radar, and soft aim with BattlEye maintenance after patches.',
 	},
 	'how-long-deadside-cheat-setup-takes': {
 		q: 'How long does deadside cheats setup take?',
@@ -200,7 +200,7 @@ async function main() {
 		overview: 'Deadside Cheats overview',
 		esp: 'ESP & wallhack',
 		aimbot: 'Aimbot & soft aim',
-		radar: 'Radar hack',
+		radar: '2D radar',
 		features: 'Full feature list',
 		pricing: 'Store & pricing',
 		setup: 'Setup guide',

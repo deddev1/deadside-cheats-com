@@ -1750,19 +1750,19 @@ export const PAGE_CONTENT = {
 			"en": [
 				"<a href=\"/deadside-esp/\">Deadside ESP & wallhack</a>",
 				"<a href=\"/deadside-aimbot/\">Deadside Aimbot & soft aim</a>",
-				"<a href=\"/deadside-radar-hack/\">Radar hack overlay</a>",
+				"<a href=\"/deadside-radar-hack/\">2D radar overlay</a>",
 				"<a href=\"/features/\">Full feature list</a>"
 			],
 			"es": [
 				"<a href=\"/deadside-esp/\">Deadside ESP y wallhack</a>",
 				"<a href=\"/deadside-aimbot/\">Deadside Aimbot y soft aim</a>",
-				"<a href=\"/deadside-radar-hack/\">Overlay radar hack</a>",
+				"<a href=\"/deadside-radar-hack/\">Overlay 2D radar</a>",
 				"<a href=\"/features/\">Lista completa de funciones</a>"
 			],
 			"fr": [
 				"<a href=\"/deadside-esp/\">Deadside ESP et wallhack</a>",
 				"<a href=\"/deadside-aimbot/\">Deadside Aimbot et soft aim</a>",
-				"<a href=\"/deadside-radar-hack/\">Overlay radar hack</a>",
+				"<a href=\"/deadside-radar-hack/\">Overlay 2D radar</a>",
 				"<a href=\"/features/\">Liste complète des fonctions</a>"
 			],
 			"de": [
@@ -1774,43 +1774,43 @@ export const PAGE_CONTENT = {
 			"pt": [
 				"<a href=\"/deadside-esp/\">Deadside ESP e wallhack</a>",
 				"<a href=\"/deadside-aimbot/\">Deadside Aimbot e soft aim</a>",
-				"<a href=\"/deadside-radar-hack/\">Overlay radar hack</a>",
+				"<a href=\"/deadside-radar-hack/\">Overlay 2D radar</a>",
 				"<a href=\"/features/\">Lista completa de recursos</a>"
 			],
 			"it": [
 				"<a href=\"/deadside-esp/\">Deadside ESP e wallhack</a>",
 				"<a href=\"/deadside-aimbot/\">Deadside Aimbot e soft aim</a>",
-				"<a href=\"/deadside-radar-hack/\">Overlay radar hack</a>",
+				"<a href=\"/deadside-radar-hack/\">Overlay 2D radar</a>",
 				"<a href=\"/features/\">Elenco completo funzioni</a>"
 			],
 			"nl": [
 				"<a href=\"/deadside-esp/\">Deadside ESP & wallhack</a>",
 				"<a href=\"/deadside-aimbot/\">Deadside Aimbot & soft aim</a>",
-				"<a href=\"/deadside-radar-hack/\">Radar hack overlay</a>",
+				"<a href=\"/deadside-radar-hack/\">2D radar overlay</a>",
 				"<a href=\"/features/\">Volledige functielijst</a>"
 			],
 			"pl": [
 				"<a href=\"/deadside-esp/\">Deadside ESP i wallhack</a>",
 				"<a href=\"/deadside-aimbot/\">Deadside Aimbot i soft aim</a>",
-				"<a href=\"/deadside-radar-hack/\">Overlay radar hack</a>",
+				"<a href=\"/deadside-radar-hack/\">Overlay 2D radar</a>",
 				"<a href=\"/features/\">Pełna lista funkcji</a>"
 			],
 			"ru": [
 				"<a href=\"/deadside-esp/\">Deadside ESP и wallhack</a>",
 				"<a href=\"/deadside-aimbot/\">Deadside Aimbot и soft aim</a>",
-				"<a href=\"/deadside-radar-hack/\">Radar hack overlay</a>",
+				"<a href=\"/deadside-radar-hack/\">2D radar overlay</a>",
 				"<a href=\"/features/\">Полный список функций</a>"
 			],
 			"tr": [
 				"<a href=\"/deadside-esp/\">Deadside ESP ve wallhack</a>",
 				"<a href=\"/deadside-aimbot/\">Deadside Aimbot ve soft aim</a>",
-				"<a href=\"/deadside-radar-hack/\">Radar hack overlay</a>",
+				"<a href=\"/deadside-radar-hack/\">2D radar overlay</a>",
 				"<a href=\"/features/\">Tam özellik listesi</a>"
 			],
 			"ar": [
 				"<a href=\"/deadside-esp/\">Deadside ESP وWallhack</a>",
 				"<a href=\"/deadside-aimbot/\">Deadside Aimbot وSoft aim</a>",
-				"<a href=\"/deadside-radar-hack/\">تراكب radar hack</a>",
+				"<a href=\"/deadside-radar-hack/\">تراكب 2D radar</a>",
 				"<a href=\"/features/\">قائمة الميزات الكاملة</a>"
 			],
 			"ja": [
@@ -1834,49 +1834,49 @@ export const PAGE_CONTENT = {
 			"hi": [
 				"<a href=\"/deadside-esp/\">Deadside ESP और wallhack</a>",
 				"<a href=\"/deadside-aimbot/\">Deadside Aimbot और soft aim</a>",
-				"<a href=\"/deadside-radar-hack/\">Radar hack overlay</a>",
+				"<a href=\"/deadside-radar-hack/\">2D radar overlay</a>",
 				"<a href=\"/features/\">पूरी फ़ीचर सूची</a>"
 			],
 			"id": [
 				"<a href=\"/deadside-esp/\">Deadside ESP & wallhack</a>",
 				"<a href=\"/deadside-aimbot/\">Deadside Aimbot & soft aim</a>",
-				"<a href=\"/deadside-radar-hack/\">Overlay radar hack</a>",
+				"<a href=\"/deadside-radar-hack/\">Overlay 2D radar</a>",
 				"<a href=\"/features/\">Daftar fitur lengkap</a>"
 			],
 			"th": [
 				"<a href=\"/deadside-esp/\">Deadside ESP และ wallhack</a>",
 				"<a href=\"/deadside-aimbot/\">Deadside Aimbot และ soft aim</a>",
-				"<a href=\"/deadside-radar-hack/\">โอเวอร์เลย์ radar hack</a>",
+				"<a href=\"/deadside-radar-hack/\">โอเวอร์เลย์ 2D radar</a>",
 				"<a href=\"/features/\">รายการฟีเจอร์ทั้งหมด</a>"
 			],
 			"vi": [
 				"<a href=\"/deadside-esp/\">Deadside ESP & wallhack</a>",
 				"<a href=\"/deadside-aimbot/\">Deadside Aimbot & soft aim</a>",
-				"<a href=\"/deadside-radar-hack/\">Overlay radar hack</a>",
+				"<a href=\"/deadside-radar-hack/\">Overlay 2D radar</a>",
 				"<a href=\"/features/\">Danh sách tính năng đầy đủ</a>"
 			],
 			"uk": [
 				"<a href=\"/deadside-esp/\">Deadside ESP і wallhack</a>",
 				"<a href=\"/deadside-aimbot/\">Deadside Aimbot і soft aim</a>",
-				"<a href=\"/deadside-radar-hack/\">Radar hack overlay</a>",
+				"<a href=\"/deadside-radar-hack/\">2D radar overlay</a>",
 				"<a href=\"/features/\">Повний список функцій</a>"
 			],
 			"cs": [
 				"<a href=\"/deadside-esp/\">Deadside ESP a wallhack</a>",
 				"<a href=\"/deadside-aimbot/\">Deadside Aimbot a soft aim</a>",
-				"<a href=\"/deadside-radar-hack/\">Radar hack overlay</a>",
+				"<a href=\"/deadside-radar-hack/\">2D radar overlay</a>",
 				"<a href=\"/features/\">Úplný seznam funkcí</a>"
 			],
 			"ro": [
 				"<a href=\"/deadside-esp/\">Deadside ESP și wallhack</a>",
 				"<a href=\"/deadside-aimbot/\">Deadside Aimbot și soft aim</a>",
-				"<a href=\"/deadside-radar-hack/\">Overlay radar hack</a>",
+				"<a href=\"/deadside-radar-hack/\">Overlay 2D radar</a>",
 				"<a href=\"/features/\">Lista completă de funcții</a>"
 			],
 			"sv": [
 				"<a href=\"/deadside-esp/\">Deadside ESP & wallhack</a>",
 				"<a href=\"/deadside-aimbot/\">Deadside Aimbot & soft aim</a>",
-				"<a href=\"/deadside-radar-hack/\">Radar hack-overlay</a>",
+				"<a href=\"/deadside-radar-hack/\">2D radar-overlay</a>",
 				"<a href=\"/features/\">Fullständig funktionslista</a>"
 			]
 		},

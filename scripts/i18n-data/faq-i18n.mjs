@@ -37,7 +37,7 @@ export const FAQ_I18N = {
 			a: 'Un wallhack de Deadside es un overlay ESP que muestra jugadores, agents y loot a través de las paredes. Deadside Cheats incluye distancias, señales de match y categorías configurables.',
 		},
 		'does-deadside-cheats-include-radar-hack': {
-			q: '¿Deadside Cheats incluye radar hack?',
+			q: '¿Deadside Cheats incluye 2D radar?',
 			a: 'Sí. Deadside Cheats incluye overlays de radar 2D que resaltan amenazas cercanas fuera de tu campo de visión, útil para flancos y zonas de zone.',
 		},
 		'battleye-anti-cheat-and-deadside-cheats': {
@@ -83,7 +83,7 @@ export const FAQ_I18N = {
 			a: "Un wallhack Deadside est un overlay ESP qui affiche joueurs, agents et loot à travers les murs. Deadside Cheats inclut distances, signaux de match et catégories configurables.",
 		},
 		'does-deadside-cheats-include-radar-hack': {
-			q: 'Deadside Cheats inclut-il un radar hack ?',
+			q: 'Deadside Cheats inclut-il un 2D radar ?',
 			a: "Oui. Deadside Cheats inclut des overlays radar 2D qui mettent en évidence les menaces proches hors de votre champ de vision.",
 		},
 		'battleye-anti-cheat-and-deadside-cheats': {
@@ -129,7 +129,7 @@ export const FAQ_I18N = {
 			a: 'Ein Deadside Wallhack ist ein ESP-Overlay, das Spieler, agents und Loot durch Wände zeigt. Deadside Cheats enthält Distanzen, Raid-Hinweise und umschaltbare Kategorien.',
 		},
 		'does-deadside-cheats-include-radar-hack': {
-			q: 'Enthält Deadside Cheats einen Radar Hack?',
+			q: 'Enthält Deadside Cheats einen 2D Radar?',
 			a: 'Ja. Deadside Cheats enthält 2D-Radar-Overlays für nahe Bedrohungen außerhalb deines Sichtfelds.',
 		},
 		'battleye-anti-cheat-and-deadside-cheats': {

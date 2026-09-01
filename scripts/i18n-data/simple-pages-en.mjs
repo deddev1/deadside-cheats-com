@@ -203,7 +203,7 @@ export const simplePagesEn = {
 				list: [
 					'<a href="/deadside-esp/">Deadside ESP & wallhack</a>',
 					'<a href="/deadside-aimbot/">Deadside Aimbot & soft aim</a>',
-					'<a href="/deadside-radar-hack/">Radar hack overlay</a>',
+					'<a href="/deadside-radar-hack/">2D radar overlay</a>',
 					'<a href="/features/">Full feature list</a>',
 				],
 			},
@@ -317,10 +317,10 @@ export const simplePagesEn = {
 		],
 	},
 	radar: {
-		title: 'Deadside Radar Hack | 2D Threat Map',
+		title: 'Deadside 2D Radar | 2D Threat Map',
 		description:
-			'2D radar hack for flank reads in Deadside survival & squad raids on PC. Bundled with ESP wallhack & soft aim in one license at deadsidecheats.com.',
-		h1: 'Deadside Radar Hack — 2D Threat Awareness',
+			'2D radar for flank reads in Deadside survival & squad raids on PC. Bundled with ESP wallhack & soft aim in one license at deadsidecheats.com.',
+		h1: 'Deadside 2D Radar — 2D Threat Awareness',
 		intro: 'A simple 2D radar for threats outside your view. Included in the same Deadside Cheats license.',
 		ctaPrimary: 'Get Access',
 		ctaSecondary: 'Deadside Cheats overview',

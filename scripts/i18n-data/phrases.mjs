@@ -7,7 +7,7 @@ const KW = {
 	hack: 'deadside cheat',
 	esp: 'Deadside ESP',
 	wallhack: 'ESP wallhack',
-	radar: 'radar hack',
+	radar: '2D radar',
 	aimbot: 'Deadside Aimbot',
 	product: 'Deadside Cheats',
 	game: 'Deadside',

@@ -35,7 +35,7 @@ const defaultImages: BrandSitemapImage[] = [
 	{
 		src: '/images/deadside-screenshot-05.webp',
 		title: 'deadside cheats radar',
-		caption: 'deadside cheats 2d radar hack overlay',
+		caption: 'deadside cheats 2d 2D radar overlay',
 	},
 	{
 		src: '/images/deadside-screenshot-06.webp',
