@@ -13,7 +13,7 @@ export const brand = {
 	locale: 'en',
 	market: 'Worldwide',
 	supportEmail: 'support@deadsidecheats.com',
-	checkoutUrl: 'https://zadeyo.com/go/QRH?to=%2Fproducts%2Fdeadside-novaxware',
+	checkoutUrl: 'https://zadeyo.com/go/QRH?to=%2Fproducts%2Fdeadside',
 
 	/** Public profiles for Organization sameAs + Twitter cards (edit in Brand Studio). */
 	social: {
