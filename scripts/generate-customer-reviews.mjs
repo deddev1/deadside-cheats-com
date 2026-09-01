@@ -42,8 +42,8 @@ const OPENERS = [
 ];
 
 const PRODUCT_TERMS = [
-	'this cheat', 'these deadside cheats', 'this deadside hack', 'the loader', 'this package',
-	'these hacks', 'deadside cheats', 'this deadside cheat', 'the menu', 'this tool',
+	'this cheat', 'these deadside cheats', 'this deadside cheat', 'the loader', 'this package',
+	'these cheats', 'deadside cheats', 'the menu', 'this tool', 'this license',
 ];
 
 const LOCATIONS = ['sawmill', 'airfield', 'cruiser', 'compound', 'military base', 'loot zone', 'hot zone', 'extract point'];
@@ -86,7 +86,7 @@ function buildReview(seed) {
 	const feature = pick(FEATURES, seed * 23);
 	const feature2 = pick(FEATURES, seed * 29 + 1);
 
-	const text = `${opener} — ${product} ${rating >= 4 ? 'feels solid' : 'works ok'} for ${loc} runs. ${feature} is why i kept it after testing ${feature2} on ${loc2}. ${rating === 5 ? 'setup was quick on win11 and no drama after a battleye patch week' : rating === 4 ? 'only gripe is menu could be cleaner but support answered same day' : 'defender blocked loader first try but support fixed my key in a couple hours'}. ${rating >= 4 ? `would recommend if you want undetected ${product2.includes('hack') ? 'deadside hacks' : 'deadside cheats'} for pvp raids` : 'still testing more before i call it perfect tbh'}`;
+	const text = `${opener} — ${product} ${rating >= 4 ? 'feels solid' : 'works ok'} for ${loc} runs. ${feature} is why i kept it after testing ${feature2} on ${loc2}. ${rating === 5 ? 'setup was quick on win11 and no drama after a battleye patch week' : rating === 4 ? 'only gripe is menu could be cleaner but support answered same day' : 'defender blocked loader first try but support fixed my key in a couple hours'}. ${rating >= 4 ? 'would recommend if you want undetected deadside cheats for pvp raids' : 'still testing more before i call it perfect tbh'}`;
 
 	const short = `${product} — ${feature} on ${loc}${rating === 5 ? ', no issues after patch week' : rating === 4 ? ', support was quick' : ', setup took patience'}`;
 

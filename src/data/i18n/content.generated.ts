@@ -77,8 +77,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					statusBadge: "Undetected deadside cheats",
 				},
 				reviews: {
-					title: "Deadside hacks & cheats reviews",
-					subtitle: "Recent Deadside cheats and Deadside hacks feedback from buyers",
+					title: "Deadside cheats reviews",
+					subtitle: "Recent Deadside cheats feedback from buyers",
 					outOf: "out of 5",
 					countLabel: "reviews",
 				},

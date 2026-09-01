@@ -6,7 +6,7 @@ export const uiStrings = {
 		hero: { accent: '2026 — Undetected ESP, Aimbot & Wallhack', accentShort: 'Undetected deadside cheats 2026', title: 'Undetected Deadside Cheats — ESP, Aimbot & Radar', subtitle: 'deadside cheats with Deadside ESP, radar hack and Deadside Aimbot for Windows PC — BattlEye maintenance included.', subtitleShort: 'Deadside ESP, radar & aimbot for PC', buyNow: 'Buy Deadside Cheats', seeFeatures: 'See Features' },
 		trust: { status: 'Online', statusNote: 'Deadside Cheats — undetected deadside cheats live for Deadside on Windows PC.', statusShort: 'Live', delivery: 'Instant digital delivery', platform: 'Windows 10 & 11', antiCheat: 'BattlEye maintenance supported', antiCheatShort: 'BattlEye supported' },
 		product: { title: 'Deadside Cheats', addToCart: 'Add to Cart', monthly: 'Monthly', lifetime: 'Lifetime', available: 'Available now', gameBadge: 'Deadside', platformBadge: 'Windows PC', statusBadge: 'Undetected deadside cheats' },
-		reviews: { title: 'Deadside hacks & cheats reviews', subtitle: 'Recent Deadside cheats and Deadside hacks feedback from buyers', outOf: 'out of 5', countLabel: 'reviews' },
+		reviews: { title: 'Deadside cheats reviews', subtitle: 'Recent Deadside cheats feedback from buyers', outOf: 'out of 5', countLabel: 'reviews' },
 		common: { buyNow: 'Buy Deadside Cheats', readGuide: 'Read guide', language: 'Language', officialLanguageNote: 'English is official; other locales are translated.', relatedPages: 'Related pages' },
 		footer: { explore: 'Explore', help: 'Help & legal', tagline: 'Undetected deadside cheats for PC.\nESP, wallhack, radar & aimbot.' },
 		images: {

@@ -133,9 +133,9 @@ export const brand = {
 		faqTitle: 'Deadside Cheats FAQ | ESP, Aimbot & BattlEye',
 		faqDescription:
 			'FAQ for Deadside cheats — delivery, setup, survival raid use, {antiCheat} updates & pricing on PC. Answers at deadsidecheats.com before you buy.',
-		reviewsTitle: 'Deadside Cheats Reviews | Deadside Hacks & Cheats',
+		reviewsTitle: 'Deadside Cheats Reviews | Buyer Feedback & Ratings',
 		reviewsDescription:
-			'Real buyer reviews for Deadside cheats and Deadside hacks — ESP, soft aim, radar & {antiCheat} maintenance on PC. See license holder feedback at deadsidecheats.com.',
+			'Real buyer reviews for Deadside cheats — ESP, soft aim, radar & {antiCheat} maintenance on PC. See license holder feedback at deadsidecheats.com.',
 		blogTitle: 'Deadside Blog | Guides & Patch Tips | {brand}',
 		blogDescription:
 			'Deadside guides — survival tips, ESP & aimbot notes, loot routes & {antiCheat} updates for PC. Read patch notes and buyer guides at deadsidecheats.com/blog.',
@@ -157,7 +157,7 @@ export const brand = {
 		supportIntro: 'Need help with {brand}? Email {email} with your order ID.',
 		faqIntro: 'Short answers about delivery, setup, updates, and refunds.',
 		reviewsIntro:
-			'What buyers actually write — mixed ratings, setup headaches, and how deadside cheats and deadside hacks hold up after BattlEye patches.',
+			'What buyers actually write — mixed ratings, setup headaches, and how deadside cheats hold up after BattlEye patches.',
 		chipEsp: 'ESP / wallhack',
 		chipAim: 'Soft aim',
 		chipRadar: '2D radar',
@@ -180,7 +180,7 @@ export const brand = {
 		blogImageTitle: '{brand} blog',
 		blogImageCaption: 'Tips and updates for {primaryKeyword}',
 		reviewsImageTitle: '{brand} reviews',
-		reviewsImageCaption: 'Deadside cheats & Deadside hacks — what buyers say about {primaryKeyword}',
+		reviewsImageCaption: 'Deadside cheats — what buyers say about {primaryKeyword}',
 		images: [
 			{
 				src: '/images/deadside-screenshot-01.webp',
