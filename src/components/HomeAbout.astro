@@ -1,9 +1,8 @@
 ---
-import LazyDemoVideo from './LazyDemoVideo.astro';
+import HomeAboutGallery from './HomeAboutGallery.astro';
 import { getLocalizedPath } from '../data/i18n/routing';
 import type { LocaleCode } from '../data/i18n/locales';
 import { getT } from '../i18n/server';
-import { siteConfig } from '../data/site';
 
 interface Props {
 	locale: LocaleCode;
@@ -15,13 +14,26 @@ const pillarHref = getLocalizedPath('hacks', locale);
 const espHref = getLocalizedPath('deadside-esp', locale);
 const aimbotHref = getLocalizedPath('deadside-aimbot', locale);
 const updatesHref = getLocalizedPath('updates', locale);
+const pricingHref = getLocalizedPath('pricing', locale);
+const aboutP1Before = t('home.aboutP1Before');
+const useStructuredAboutP1 = locale === 'en';
 ---
 
 <section class="shell home__prose home__prose--en" aria-labelledby="home-about-title">
 	<div class="home__prose-grid">
 		<div class="home__prose-callout">
 			<h2 id="home-about-title">{t('home.aboutTitle')}</h2>
-			<p>{t('home.aboutP1')}</p>
+			{useStructuredAboutP1 ? (
+				<p>
+					{aboutP1Before}{' '}
+					<a href={pricingHref}>{t('home.aboutStore')}</a>
+					{t('home.aboutP1Mid')}{' '}
+					<a href={updatesHref}>{t('home.aboutStatus')}</a>
+					{t('home.aboutP1After')}
+				</p>
+			) : (
+				<p>{t('home.aboutP1')}</p>
+			)}
 			<p>
 				{t('home.aboutP2Before')}{' '}
 				<a href={pillarHref}>{t('home.aboutPillar')}</a>
@@ -34,16 +46,10 @@ const updatesHref = getLocalizedPath('updates', locale);
 				{t('home.aboutP2After')}
 			</p>
 		</div>
-		<div class="home__prose-video">
-			<LazyDemoVideo
-				src={siteConfig.demoVideoUrl}
-				poster={siteConfig.demoVideoPoster}
-				playLabel={t('home.playDemoVideo')}
-				pauseLabel={t('home.pauseDemoVideo')}
-				caption={t('home.demoVideoCaption')}
-				volumeLabel={t('home.volumeLabel')}
-				muteLabel={t('home.muteVideo')}
-				unmuteLabel={t('home.unmuteVideo')}
+		<div class="home__prose-media">
+			<HomeAboutGallery
+				caption={t('home.demoGalleryCaption')}
+				scrollLabel={t('home.demoGalleryScrollLabel')}
 			/>
 		</div>
 	</div>
@@ -68,7 +74,7 @@ const updatesHref = getLocalizedPath('updates', locale);
 		border-left: 3px solid var(--magenta);
 	}
 
-	.home__prose-video {
+	.home__prose-media {
 		width: 100%;
 		min-width: 0;
 	}
@@ -111,7 +117,7 @@ const updatesHref = getLocalizedPath('updates', locale);
 			align-items: center;
 		}
 
-		.home__prose-video {
+		.home__prose-media {
 			justify-self: end;
 			max-width: 34rem;
 		}

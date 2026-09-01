@@ -1,6 +1,6 @@
 /**
  * Import Deadside cheat screenshots from Supabase public storage.
- * Writes crawl URLs: /images/deadside-screenshot-01.webp … 08.webp
+ * Writes crawl URLs: /images/deadside-screenshot-01.webp … 12.webp
  * plus -480w / -960w responsive variants. Does not touch hero assets.
  */
 import { mkdir, writeFile } from 'node:fs/promises';
@@ -8,18 +8,22 @@ import path from 'node:path';
 import sharp from 'sharp';
 
 const BASE =
-	'https://boqgsoiwnpbisvrxulbe.supabase.co/storage/v1/object/public/valo/valo%20cheats/';
+	'https://boqgsoiwnpbisvrxulbe.supabase.co/storage/v1/object/public/deadside/';
 
-/** User-provided Deadside screenshots (Aug 2026). */
+/** User-provided Deadside screenshots (Sep 2026). */
 const SOURCE_URLS = [
-	`${BASE}Screenshot%202026-08-13%20185425.png`,
-	`${BASE}Screenshot%202026-08-13%20185442.png`,
-	`${BASE}Screenshot%202026-08-13%20185513.png`,
-	`${BASE}Screenshot%202026-08-13%20185527.png`,
-	`${BASE}Screenshot%202026-08-13%20185540.png`,
-	`${BASE}Screenshot%202026-08-13%20185621.png`,
-	`${BASE}Screenshot%202026-08-13%20185635.png`,
-	`${BASE}Screenshot%202026-08-13%20185646.png`,
+	`${BASE}Screenshot%202026-09-01%20084206.png`,
+	`${BASE}Screenshot%202026-09-01%20084240.png`,
+	`${BASE}Screenshot%202026-09-01%20084255.png`,
+	`${BASE}Screenshot%202026-09-01%20084304.png`,
+	`${BASE}Screenshot%202026-09-01%20084313.png`,
+	`${BASE}Screenshot%202026-09-01%20084335.png`,
+	`${BASE}Screenshot%202026-09-01%20084342.png`,
+	`${BASE}Screenshot%202026-09-01%20084428.png`,
+	`${BASE}Screenshot%202026-09-01%20084612.png`,
+	`${BASE}Screenshot%202026-09-01%20084621.png`,
+	`${BASE}Screenshot%202026-09-01%20084629.png`,
+	`${BASE}Screenshot%202026-09-01%20084636.png`,
 ];
 
 const SCREENSHOT_COUNT = SOURCE_URLS.length;

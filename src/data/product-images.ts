@@ -2,14 +2,18 @@ import { siteConfig } from './site';
 
 /** User-provided Supabase originals — kept for provenance; site serves optimized WebP copies. */
 export const PRODUCT_SCREENSHOT_SOURCES = [
-	'https://boqgsoiwnpbisvrxulbe.supabase.co/storage/v1/object/public/valo/valo%20cheats/Screenshot%202026-08-13%20185425.png',
-	'https://boqgsoiwnpbisvrxulbe.supabase.co/storage/v1/object/public/valo/valo%20cheats/Screenshot%202026-08-13%20185442.png',
-	'https://boqgsoiwnpbisvrxulbe.supabase.co/storage/v1/object/public/valo/valo%20cheats/Screenshot%202026-08-13%20185513.png',
-	'https://boqgsoiwnpbisvrxulbe.supabase.co/storage/v1/object/public/valo/valo%20cheats/Screenshot%202026-08-13%20185527.png',
-	'https://boqgsoiwnpbisvrxulbe.supabase.co/storage/v1/object/public/valo/valo%20cheats/Screenshot%202026-08-13%20185540.png',
-	'https://boqgsoiwnpbisvrxulbe.supabase.co/storage/v1/object/public/valo/valo%20cheats/Screenshot%202026-08-13%20185621.png',
-	'https://boqgsoiwnpbisvrxulbe.supabase.co/storage/v1/object/public/valo/valo%20cheats/Screenshot%202026-08-13%20185635.png',
-	'https://boqgsoiwnpbisvrxulbe.supabase.co/storage/v1/object/public/valo/valo%20cheats/Screenshot%202026-08-13%20185646.png',
+	'https://boqgsoiwnpbisvrxulbe.supabase.co/storage/v1/object/public/deadside/Screenshot%202026-09-01%20084206.png',
+	'https://boqgsoiwnpbisvrxulbe.supabase.co/storage/v1/object/public/deadside/Screenshot%202026-09-01%20084240.png',
+	'https://boqgsoiwnpbisvrxulbe.supabase.co/storage/v1/object/public/deadside/Screenshot%202026-09-01%20084255.png',
+	'https://boqgsoiwnpbisvrxulbe.supabase.co/storage/v1/object/public/deadside/Screenshot%202026-09-01%20084304.png',
+	'https://boqgsoiwnpbisvrxulbe.supabase.co/storage/v1/object/public/deadside/Screenshot%202026-09-01%20084313.png',
+	'https://boqgsoiwnpbisvrxulbe.supabase.co/storage/v1/object/public/deadside/Screenshot%202026-09-01%20084335.png',
+	'https://boqgsoiwnpbisvrxulbe.supabase.co/storage/v1/object/public/deadside/Screenshot%202026-09-01%20084342.png',
+	'https://boqgsoiwnpbisvrxulbe.supabase.co/storage/v1/object/public/deadside/Screenshot%202026-09-01%20084428.png',
+	'https://boqgsoiwnpbisvrxulbe.supabase.co/storage/v1/object/public/deadside/Screenshot%202026-09-01%20084612.png',
+	'https://boqgsoiwnpbisvrxulbe.supabase.co/storage/v1/object/public/deadside/Screenshot%202026-09-01%20084621.png',
+	'https://boqgsoiwnpbisvrxulbe.supabase.co/storage/v1/object/public/deadside/Screenshot%202026-09-01%20084629.png',
+	'https://boqgsoiwnpbisvrxulbe.supabase.co/storage/v1/object/public/deadside/Screenshot%202026-09-01%20084636.png',
 ] as const;
 
 export const PRODUCT_SCREENSHOT_COUNT = PRODUCT_SCREENSHOT_SOURCES.length;
@@ -64,6 +68,26 @@ const alts: Record<number, { alt: string; title: string; caption: string }> = {
 		alt: 'Deadside ESP loot detection and in-match overlay',
 		title: 'Deadside ESP and loot ESP gameplay',
 		caption: 'Deadside ESP loot tags and wallhack overlay during ranked gameplay',
+	},
+	9: {
+		alt: 'Deadside cheats menu and overlay settings on Windows PC',
+		title: 'Deadside cheats configuration menu',
+		caption: 'Deadside cheats overlay menu with ESP and aimbot toggles',
+	},
+	10: {
+		alt: 'Deadside wallhack ESP showing players and loot in open terrain',
+		title: 'Deadside open-world ESP view',
+		caption: 'Deadside wallhack ESP with player and loot markers in the wild',
+	},
+	11: {
+		alt: 'Deadside soft aim and combat overlay during a firefight',
+		title: 'Deadside aimbot and combat overlay',
+		caption: 'Deadside soft aim assist active during a live firefight',
+	},
+	12: {
+		alt: 'Deadside 2D radar and ESP combined in-match view',
+		title: 'Deadside radar and ESP gameplay',
+		caption: 'Deadside 2D radar with ESP tags during a survival run',
 	},
 };
 
