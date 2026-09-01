@@ -51,7 +51,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				hero: {
 					accent: "2026 — Undetected ESP, Aimbot & Wallhack",
 					accentShort: "Undetected deadside cheats 2026",
-					title: "Undetected Deadside Cheats",
+					title: "Deadside Cheats",
 					subtitle: "deadside cheats with deadside esp, 2D radar and deadside aimbot for Windows PC — BattlEye maintenance included.",
 					subtitleShort: "deadside esp, radar & aimbot for PC",
 					buyNow: "Buy Deadside Cheats",
@@ -3689,7 +3689,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				hero: {
 					accent: "Undetected Deadside Cheats",
 					accentShort: "Deadside Cheats",
-					title: "Undetected Deadside Cheats",
+					title: "Deadside Cheats",
 					subtitle: "ESP Wallhack, 2D radar und Aimbot für Deadside auf Windows PC — BattlEye-Wartung inklusive.",
 					subtitleShort: "ESP, Radar & Aimbot für Deadside PC",
 					buyNow: "Jetzt kaufen",
@@ -15601,7 +15601,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				hero: {
 					accent: "Undetected Deadside 外掛",
 					accentShort: "Deadside Cheats",
-					title: "Undetected Deadside Cheats",
+					title: "Deadside Cheats",
 					subtitle: "適用於 Deadside Windows 版的 ESP wallhack、2D 雷達與 Aimbot — 含 BattlEye 維護。",
 					subtitleShort: "PC 版 ESP、雷達與 Aimbot",
 					buyNow: "立即購買",

@@ -528,7 +528,7 @@ export function buildLocaleOverlay(locale, ui) {
 		media: extended.media,
 		hero: {
 			...h,
-			title: h.title ?? h.accent ?? p.title,
+			title: h.title ?? p.title,
 			priceFrom: h.priceFrom ?? 'from',
 			imageAlt: h.imageAlt ?? '{{brand}} — Deadside ESP and aimbot overlay',
 			chipEsp: 'ESP / wallhack',

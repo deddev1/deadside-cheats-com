@@ -66,7 +66,7 @@ export const uiStringsPart2 = {
 	},
 	zh: {
 		nav: { home: '首頁', hacks: 'Cheats', aimbot: 'Aimbot', esp: 'ESP', features: '功能', pricing: '價格', setup: '安裝', updates: '更新', faq: '常見問題', buyNow: '立即購買' },
-		hero: { accent: 'Undetected Deadside 外掛', accentShort: 'Deadside Cheats', title: 'Undetected Deadside Cheats', subtitle: '適用於 Deadside Windows 版的 ESP wallhack、2D 雷達與 Aimbot — 含 BattlEye 維護。', subtitleShort: 'PC 版 ESP、雷達與 Aimbot', buyNow: '立即購買', seeFeatures: '查看功能' },
+		hero: { accent: 'Undetected Deadside 外掛', accentShort: 'Deadside Cheats', title: 'Deadside Cheats', subtitle: '適用於 Deadside Windows 版的 ESP wallhack、2D 雷達與 Aimbot — 含 BattlEye 維護。', subtitleShort: 'PC 版 ESP、雷達與 Aimbot', buyNow: '立即購買', seeFeatures: '查看功能' },
 		trust: { status: '線上', statusNote: 'Deadside Cheats 方案已在 Windows PC 版 Deadside 上線。', statusShort: '運作中', delivery: '即時數位交付', platform: 'Windows 10 與 11', antiCheat: '支援 BattlEye 維護', antiCheatShort: 'BattlEye 支援' },
 		product: { title: 'Deadside Cheats', addToCart: '加入購物車', monthly: '月付', lifetime: '終身', available: '現已可用', gameBadge: 'Deadside', platformBadge: 'Windows PC', statusBadge: 'Undetected 方案' },
 		reviews: { title: '玩家評價', subtitle: 'Deadside Cheats 買家近期回饋', outOf: '/5', countLabel: '則評價' },

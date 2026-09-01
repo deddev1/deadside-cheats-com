@@ -30,7 +30,7 @@ const NAV_ARIA = {
 
 const HERO = {
 	en: {
-		title: 'Undetected Deadside Cheats',
+		title: 'Deadside Cheats',
 		subtitle: 'ESP, 2D radar, and soft aim for Deadside on Windows PC — BattlEye maintenance included.',
 		subtitleShort: 'ESP, radar & soft aim for PC',
 		buyNow: 'Buy Deadside Cheats',
@@ -39,7 +39,7 @@ const HERO = {
 		chipAim: 'Soft aim',
 	},
 	de: {
-		title: 'Undetected Deadside Cheats',
+		title: 'Deadside Cheats',
 		accent: '2026 — Undetected ESP, Aimbot & Wallhack',
 		accentShort: 'Undetected Deadside Cheats 2026',
 		subtitle: 'ESP, 2D-Radar und Soft Aim für Deadside auf Windows PC — inklusive BattlEye-Wartung.',
@@ -51,7 +51,7 @@ const HERO = {
 		chipUpdates: 'Patch-Updates',
 	},
 	zh: {
-		title: 'Undetected Deadside Cheats',
+		title: 'Deadside Cheats',
 		accent: '2026 — Undetected ESP、Aimbot 與 Wallhack',
 		accentShort: 'Undetected Deadside Cheats 2026',
 		subtitle: '適用於 Deadside Windows 版的 ESP、2D 雷達與 Soft Aim — 含 BattlEye 維護更新。',
@@ -63,28 +63,28 @@ const HERO = {
 		chipUpdates: '版本更新',
 	},
 	es: {
-		title: 'Trucos Deadside indetectables',
+		title: 'Deadside Cheats',
 		subtitle: 'ESP, radar 2D y soft aim para Deadside en PC con Windows — mantenimiento BattlEye incluido.',
 		buyNow: 'Comprar Deadside Cheats',
 		seeFeatures: 'Ver funciones',
 		imageAlt: '{{brand}} — overlay de ESP y aimbot en Deadside',
 	},
 	fr: {
-		title: 'Triches Deadside indétectables',
+		title: 'Deadside Cheats',
 		subtitle: 'ESP, radar 2D et soft aim pour Deadside sur PC Windows — maintenance BattlEye incluse.',
 		buyNow: 'Acheter Deadside Cheats',
 		seeFeatures: 'Voir les fonctions',
 		imageAlt: '{{brand}} — overlay ESP et aimbot dans Deadside',
 	},
 	pt: {
-		title: 'Cheats Deadside indetectáveis',
+		title: 'Deadside Cheats',
 		subtitle: 'ESP, radar 2D e soft aim para Deadside no PC Windows — manutenção BattlEye incluída.',
 		buyNow: 'Comprar Deadside Cheats',
 		seeFeatures: 'Ver recursos',
 		imageAlt: '{{brand}} — overlay de ESP e aimbot no Deadside',
 	},
 	ru: {
-		title: 'Undetected читы Deadside',
+		title: 'Deadside Cheats',
 		subtitle: 'ESP, 2D radar и soft aim для Deadside на Windows PC — обслуживание BattlEye включено.',
 		buyNow: 'Купить Deadside Cheats',
 		seeFeatures: 'Смотреть функции',
