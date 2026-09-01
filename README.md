@@ -15,15 +15,14 @@ npm install
 npm run dev
 ```
 
-Open **http://localhost:3000** in your browser.
+Open **http://localhost:8080** in your browser.
 
-On a **Cursor Cloud Agent**, use the **Ports** panel (port **3000**) and open the forwarded URL — plain `localhost` on your machine does not reach the remote VM.
+On a **Cursor Cloud Agent**, open the **Ports** panel, find port **8080**, and click the forwarded URL.
 
-To preview the production build:
+To serve the built site without hot reload:
 
 ```bash
-npm run localhost
-# builds dist/ then serves at http://localhost:3000
+npm run build && npm run serve
 ```
 
 ## Deploy

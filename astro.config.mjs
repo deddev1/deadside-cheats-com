@@ -14,12 +14,14 @@ export default defineConfig({
 	devToolbar: { enabled: false },
 	server: {
 		host: true,
-		port: 3000,
+		port: 8080,
+		strictPort: true,
 		allowedHosts: true,
 	},
 	preview: {
 		host: true,
-		port: 3000,
+		port: 8080,
+		strictPort: true,
 		allowedHosts: true,
 	},
 	integrations: [react()],

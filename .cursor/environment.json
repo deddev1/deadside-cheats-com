@@ -4,14 +4,14 @@
   "ports": [
     {
       "name": "Naraka Cheats site",
-      "port": 3000
+      "port": 8080
     }
   ],
   "terminals": [
     {
-      "name": "dev",
-      "command": "npm run dev",
-      "description": "Dev server at http://localhost:3000 — open the Ports panel in Cursor to access it"
+      "name": "localhost",
+      "command": "npm run serve",
+      "description": "Static site at http://localhost:8080 — open Ports panel in Cursor"
     }
   ]
 }
