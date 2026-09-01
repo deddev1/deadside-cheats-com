@@ -16,7 +16,6 @@ HELPERS = """export {
 	seoDescription,
 	seoTitle,
 	siteConfig,
-	seoKeywords,
 	productInfo,
 } from './site-core';
 

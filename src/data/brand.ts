@@ -74,7 +74,7 @@ export const brand = {
 	},
 
 	/**
-	 * Keyword system — primary drives titles; list feeds schema / meta keywords.
+	 * Keyword system — primary drives titles; list is for Brand Studio / internal targeting.
 	 * Page-specific targeting lives in src/data/seo-keywords.ts
 	 */
 	keywords: {
@@ -96,10 +96,7 @@ export const brand = {
 			'deadside mod menu',
 			'undetected deadside cheats',
 			'deadside cheats undetected',
-			'deadside aimbot',
-			'deadside esp',
 			'best deadside cheats 2026',
-			'deadside cheats for ranked',
 			'deadside external cheat',
 		] as const,
 	},

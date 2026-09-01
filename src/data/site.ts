@@ -7,7 +7,6 @@ export {
 	seoPageTitle,
 	seoTitle,
 	siteConfig,
-	seoKeywords,
 	productInfo,
 } from './site-core';
 

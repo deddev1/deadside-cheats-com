@@ -23,6 +23,15 @@ function readBrandUrl() {
 	return m[1].replace(/\\'/g, "'").replace(/\/$/, '');
 }
 
+/** Slugs for cross-game guide stubs — built HTML is noindex and omitted from sitemaps. */
+function readExternalGuideSlugs() {
+	const src = readFileSync(
+		path.join(ROOT, 'src/data/guides/external-guides.generated.ts'),
+		'utf8',
+	);
+	return [...src.matchAll(/slug:\s*"([^"]+)"/g)].map((m) => m[1]);
+}
+
 function countBrandSitemapImages() {
 	const src = readBrandSource();
 	const block = src.match(/sitemap:\s*\{([\s\S]*?)\n\t\},/);
@@ -572,6 +581,33 @@ async function main() {
 		fail(`Sitemap URLs without HTML: ${extraInSitemap.slice(0, 5).join(', ')}`);
 		bump();
 	} else ok('Every sitemap URL has a matching HTML page');
+
+	// Cross-game guide stubs must stay noindex and out of sitemaps
+	const externalGuideSlugs = readExternalGuideSlugs();
+	const externalInSitemap = externalGuideSlugs.filter((slug) =>
+		enLocs.includes(`${SITE}/guides/${slug}/`),
+	);
+	if (externalInSitemap.length > 0) {
+		fail(
+			`External guide stubs must not be in sitemap-en.xml: ${externalInSitemap.slice(0, 3).join(', ')}${externalInSitemap.length > 3 ? '…' : ''}`,
+		);
+		bump();
+	}
+	const sampleExternalSlug = externalGuideSlugs[0];
+	if (sampleExternalSlug) {
+		const sampleGuideHtml = readFileSync(
+			path.join(DIST, 'guides', sampleExternalSlug, 'index.html'),
+			'utf8',
+		);
+		if (!sampleGuideHtml.includes('content="noindex')) {
+			fail(`External guide /guides/${sampleExternalSlug}/ must be noindex`);
+			bump();
+		} else {
+			ok(
+				`Cross-game guide stubs (${externalGuideSlugs.length}) stay noindex and out of sitemaps`,
+			);
+		}
+	}
 
 	// Locale homepages in per-locale sitemaps
 	for (const locale of I18N_LOCALE_CODES) {
