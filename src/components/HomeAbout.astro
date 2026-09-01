@@ -16,7 +16,8 @@ const aimbotHref = getLocalizedPath('deadside-aimbot', locale);
 const updatesHref = getLocalizedPath('updates', locale);
 const pricingHref = getLocalizedPath('pricing', locale);
 const aboutP1Before = t('home.aboutP1Before');
-const useStructuredAboutP1 = locale === 'en';
+const structuredLocales = new Set(['en', 'es', 'fr', 'de', 'pt', 'ru', 'zh']);
+const useStructuredAboutP1 = structuredLocales.has(locale);
 ---
 
 <section class="shell home__prose home__prose--en" aria-labelledby="home-about-title">

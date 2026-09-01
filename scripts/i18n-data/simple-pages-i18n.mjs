@@ -3,6 +3,7 @@
  * Structure matches simple-pages-en.mjs exactly for every locale.
  */
 import { localizeHtmlLinks, localizeLinkListItem } from './link-labels.mjs';
+import { localizeLinkedParagraph } from './linked-paragraph-i18n.mjs';
 import { phrases } from './phrases.mjs';
 import { FOCUS_I18N } from './focus-i18n.mjs';
 import { simplePagesEn } from './simple-pages-en.mjs';
@@ -148,10 +149,12 @@ const UI = {
 	},
 };
 
-function locSection(sec, locale) {
+function locSection(sec, locale, pageKey = 'features') {
 	return {
 		h2: sec.h2,
-		paragraphs: sec.paragraphs.map((p) => localizeHtmlLinks(p, locale)),
+		paragraphs: sec.paragraphs.map((para, pi) =>
+			para.includes('<a ') ? localizeLinkedParagraph(para, locale, pageKey, pi) : localizeHtmlLinks(para, locale),
+		),
 		...(sec.list ? { list: sec.list.map((item) => localizeLinkListItem(item, locale)) } : {}),
 	};
 }
@@ -277,14 +280,16 @@ export function buildSimplePagesForLocale(locale) {
 			title: clampTitle(simplePageTitle(h1, enPage.title)),
 			description: clampDesc(
 				stripZadeyoFromMeta(
-					`${h1} for Deadside survival & squad raids on Windows PC — ${focus}. ${p.delivery}. Official deadside cheats at deadsidecheats.com.`,
+					p.metaDesc
+						? p.metaDesc(h1, focus)
+						: `${h1} — ${focus}. ${p.delivery}. ${p.undetected}. deadsidecheats.com`,
 				),
 			),
 			h1,
 			intro: p.s1(`${h1}. ${focus}.`),
 			ctaPrimary: u.buy,
 			galleryTitle: u.inGame,
-			sections: enPage.sections.map((sec) => locSection({ ...sec, h2: sec.h2 }, locale)),
+			sections: enPage.sections.map((sec) => locSection({ ...sec, h2: sec.h2 }, locale, pageId)),
 		};
 		// Override section h2 and content with native translations per page
 		pages[pageId] = localizeSimplePageContent(pageId, pages[pageId], locale, u, p);
