@@ -1,6 +1,6 @@
 /**
  * SINGLE SOURCE OF TRUTH for template rebrands.
- * Employees: use Brand Studio at http://localhost:4321/brand-studio/ during `astro dev`.
+ * Employees: use Brand Studio at http://localhost:5173/brand-studio/ during `astro dev`.
  * Do not scatter brand strings across components.
  */
 export const brand = {

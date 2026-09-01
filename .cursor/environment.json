@@ -1,7 +1,7 @@
 {
   "name": "Deadside Cheats",
   "install": "npm ci && npm run build",
-  "start": "npm run localhost",
+  "start": "npm run dev",
   "ports": [
     {
       "name": "Deadside Cheats site",
@@ -11,8 +11,8 @@
   "terminals": [
     {
       "name": "localhost",
-      "command": "npm run localhost",
-      "description": "Site preview at http://localhost:5173"
+      "command": "npm run dev",
+      "description": "Deadside dev server at http://localhost:5173"
     }
   ]
 }
