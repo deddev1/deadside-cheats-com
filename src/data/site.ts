@@ -478,6 +478,6 @@ export const customerReviews = [
 export const customerReviewStats = {
 	averageRating: 4.4,
 	/** Published review count for schema and marketing UI */
-	totalCount: 10,
-	reviewCountLabel: '10+',
+	totalCount: 100,
+	reviewCountLabel: '100+',
 } as const;
