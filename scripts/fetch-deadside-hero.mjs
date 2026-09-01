@@ -5,10 +5,9 @@ import sharp from 'sharp';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const HERO_URL =
+	process.env.DEADSIDE_HERO_URL ??
 	process.env.FINALS_HERO_URL ??
-	process.env.VALORANT_HERO_URL ??
-	process.env.RUST_HERO_URL ??
-	'https://boqgsoiwnpbisvrxulbe.supabase.co/storage/v1/object/public/valorant/ChatGPT%20Image%20Aug%2024,%202026,%2007_13_59%20PM.png';
+	'file://' + path.resolve(imagesDir, 'deadside-hero-source.png');
 const imagesDir = path.resolve('public/images');
 /** High-quality WebP — hero is LCP; prioritize clarity over file size. */
 const HERO_WEBP = { quality: 100, effort: 6, smartSubsample: false, alphaQuality: 100 };
@@ -16,8 +15,8 @@ const HERO_WEBP = { quality: 100, effort: 6, smartSubsample: false, alphaQuality
 /** Match homepage hero bar — same wide banner ratio as before (3.15:1). */
 const BANNER_RATIO = 3.15;
 
-/** Output widths — capped at source width so we never upscale. */
-const HERO_WIDTHS = [640, 1024, 1448, 1536, 1778];
+/** Output widths — must include sizes referenced in src/lib/responsive-images.ts */
+const HERO_WIDTHS = [480, 640, 1024, 1199];
 
 const heroBuffer = Buffer.from(
 	await (HERO_URL.startsWith('file://')
@@ -46,7 +45,7 @@ function resizeHero(width) {
 	return sharp(heroBuffer)
 		.resize(width, height, {
 			fit: 'cover',
-			position: 'centre',
+			position: 'right',
 			kernel: sharp.kernel.lanczos3,
 			withoutEnlargement: true,
 		})
@@ -60,13 +59,7 @@ for (const width of outputWidths) {
 	console.log(`✓ deadside-cheats-hero-${width}w.webp (${width}x${height}, ${Math.round(webp.length / 1024)}KB)`);
 }
 
-const lcpWidth = outputWidths.includes(1870)
-	? 1870
-	: outputWidths.includes(1778)
-		? 1778
-		: outputWidths.includes(1536)
-			? 1536
-			: outputWidths.at(-1) ?? 1024;
+const lcpWidth = outputWidths.includes(1199) ? 1199 : outputWidths.at(-1) ?? 1024;
 const canonicalHeight = bannerHeight(lcpWidth);
 const canonical = await resizeHero(lcpWidth).webp(HERO_WEBP).toBuffer();
 for (const name of ['deadside-cheats-hero.webp', 'deadside-hero-banner.webp', 'hero-banner.webp']) {
