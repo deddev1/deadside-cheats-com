@@ -157,7 +157,7 @@ export const brand = {
 		supportIntro: 'Need help with {brand}? Email {email} with your order ID.',
 		faqIntro: 'Short answers about delivery, setup, updates, and refunds.',
 		reviewsIntro:
-			'Real feedback on Deadside cheats and Deadside hacks — ESP, soft aim, radar, and support from {brand} buyers.',
+			'What buyers actually write — mixed ratings, setup headaches, and how deadside cheats and deadside hacks hold up after BattlEye patches.',
 		chipEsp: 'ESP / wallhack',
 		chipAim: 'Soft aim',
 		chipRadar: '2D radar',
