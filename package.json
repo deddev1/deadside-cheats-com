@@ -6,9 +6,9 @@
 		"node": ">=22.12.0"
 	},
 	"scripts": {
-		"localhost": "npm run build && astro preview --host 0.0.0.0 --port 4321",
-		"dev": "astro dev --host 0.0.0.0 --port 4321",
-		"serve": "npx --yes serve dist -l tcp://0.0.0.0:4321 --no-port-switching",
+		"localhost": "npm run build && astro preview --host 0.0.0.0 --port 5173",
+		"dev": "astro dev --host 0.0.0.0 --port 5173",
+		"serve": "npx --yes serve dist -l tcp://0.0.0.0:5173 --no-port-switching",
 		"serve:3000": "npx --yes serve dist -l tcp://0.0.0.0:3000 --no-port-switching",
 		"sync:brand": "node scripts/sync-brand.mjs && node scripts/sync-cannibal-redirects.mjs",
 		"prebuild": "node scripts/log-build-info.mjs && node scripts/sync-brand.mjs && node scripts/sync-cannibal-redirects.mjs && node scripts/validate-cloudflare-redirects.mjs",
@@ -24,7 +24,7 @@
 		"fetch:steam-hero": "node scripts/fetch-steam-hero.mjs",
 		"fetch:screenshots": "node scripts/import-naraka-screenshots.mjs",
 		"generate:brand": "node scripts/generate-brand-assets.mjs",
-		"preview": "astro preview --host 0.0.0.0 --port 4321",
+		"preview": "astro preview --host 0.0.0.0 --port 5173",
 		"validate:sitemaps": "node scripts/validate-sitemaps.mjs && node scripts/audit-sitemap-deep.mjs",
 		"generate:i18n": "node scripts/generate-i18n-content.mjs && node scripts/generate-locale-translations.mjs",
 		"postinstall": "node scripts/ensure-dist-for-workers-ci.mjs",

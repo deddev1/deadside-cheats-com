@@ -14,13 +14,13 @@ export default defineConfig({
 	devToolbar: { enabled: false },
 	server: {
 		host: true,
-		port: 4321,
+		port: 5173,
 		strictPort: true,
 		allowedHosts: true,
 	},
 	preview: {
 		host: true,
-		port: 4321,
+		port: 5173,
 		strictPort: true,
 		allowedHosts: true,
 	},
