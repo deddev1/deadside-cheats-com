@@ -228,9 +228,21 @@ async function main() {
 	};
 	en.home = {
 		...en.home,
-		aboutTitle: 'undetected cheats for Deadside',
+		aboutTitle: 'Deadside cheats for Windows PC',
 		aboutP1:
-			'Deadside Cheats is an undetected deadside cheats package for Deadside on Windows PC. One license includes ESP wallhack, soft aim, and 2D radar, with BattlEye rebuilds after game patches. Check Status before you queue.',
+			'Deadside Cheats is an undetected Windows PC package for Deadside raids, loot runs, and compound PvP. One license includes ESP wallhack, soft aim, and 2D radar, with BattlEye rebuilds after game patches. Compare Pricing · Live Status.',
+		aboutP1Before:
+			'Deadside Cheats is an undetected Windows PC package for Deadside raids, loot runs, and compound PvP. One license includes ESP wallhack, soft aim, and 2D radar, with BattlEye rebuilds after game patches. Compare monthly and lifetime plans on',
+		aboutStore: 'Pricing',
+		aboutP1Mid: ', then confirm the package is live on',
+		aboutStatus: 'Live Status',
+		aboutP1After: ' before checkout.',
+		aboutP2Before: 'New here? Browse the',
+		aboutPillar: 'Deadside cheats hub',
+		aboutEsp: 'ESP wallhack guide',
+		aboutAimbot: 'soft aim settings',
+		aboutUndetected: 'BattlEye update log',
+		aboutP2After: ' while you compare options.',
 		volumeLabel: 'Volume',
 		seekLabel: 'Video progress',
 		muteVideo: 'Mute video',
