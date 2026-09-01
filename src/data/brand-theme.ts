@@ -21,6 +21,9 @@ export type BrandThemeInput = {
 	inkSecondary?: string;
 	inkMuted?: string;
 	link?: string;
+	ok?: string;
+	warn?: string;
+	input?: string;
 };
 
 export type BrandThemeResolved = {
@@ -43,6 +46,7 @@ export type BrandThemeResolved = {
 	link: string;
 	ok: string;
 	warn: string;
+	input: string;
 	toneVoid: string;
 };
 
@@ -53,7 +57,7 @@ export const themeDefaults: BrandThemeInput = {
 
 export const themePresets: { id: string; label: string; accent: string; bg: string }[] = [
 	{ id: 'magenta', label: 'Magenta', accent: '#c026d3', bg: '#08090a' },
-	{ id: 'deadside', label: 'Deadside', accent: '#E50920', bg: '#07090A' },
+	{ id: 'deadside', label: 'Deadside', accent: '#7FAF5A', bg: '#080A09' },
 	{ id: 'fortnite', label: 'Fortnite', accent: '#2b9dff', bg: '#0a0e17' },
 	{ id: 'apex', label: 'Apex', accent: '#ff6b2c', bg: '#0c0d10' },
 	{ id: 'teal', label: 'Teal', accent: '#14b8a6', bg: '#071012' },
@@ -178,6 +182,9 @@ export function deriveBrandTheme(input: Partial<BrandThemeInput> = {}): BrandThe
 		? mixHex(inkSecondary, inkMuted, 0.42)
 		: mixHex(inkMuted, bg, 0.35);
 	const link = normalizeHex(input.link) ?? soft;
+	const ok = normalizeHex(input.ok) ?? '#7FAF5A';
+	const warn = normalizeHex(input.warn) ?? '#C64A3F';
+	const inputBg = normalizeHex(input.input) ?? mixHex(bg, '#000000', 0.2);
 
 	return {
 		accent,
@@ -197,8 +204,9 @@ export function deriveBrandTheme(input: Partial<BrandThemeInput> = {}): BrandThe
 		inkMuted,
 		inkFaint,
 		link,
-		ok: '#34d399',
-		warn: '#f43f5e',
+		ok,
+		warn,
+		input: inputBg,
 		toneVoid,
 	};
 }
@@ -232,6 +240,9 @@ export const brandTheme: BrandThemeResolved = deriveBrandTheme({
 	inkSecondary: raw.theme?.inkSecondary,
 	inkMuted: raw.theme?.inkMuted,
 	link: raw.theme?.link,
+	ok: raw.theme?.ok,
+	warn: raw.theme?.warn,
+	input: raw.theme?.input,
 });
 
 /** Inline style for <html> — overrides @theme defaults site-wide. */
@@ -265,6 +276,7 @@ export function brandThemeCssMap(theme: BrandThemeResolved = brandTheme): Record
 		'--accent-hover': theme.accentHover,
 		'--ok': theme.ok,
 		'--warn': theme.warn,
+		'--bg-input': theme.input,
 		'--tone-void': theme.toneVoid,
 		'--tone-night': theme.bg,
 		'--tone-body': theme.bg,

@@ -5,29 +5,30 @@
 	--font-sans: "Inter Variable", "Inter", ui-sans-serif, system-ui, sans-serif;
 	--font-display: "Syne Variable", "Syne", ui-sans-serif, sans-serif;
 
-	/* Deadside dark canvas — red accent surface ladder */
-	--bg: #07090a;
-	--bg-panel: #0e1113;
-	--bg-elevated: #15191b;
-	--bg-hover: #1a1f22;
-	--line: #252a2c;
-	--line-soft: #1c2022;
-	--line-strong: #303638;
-	--ink: #f1f3f3;
-	--ink-heading: #ffffff;
-	--ink-secondary: #c5caca;
-	--ink-muted: #8d9698;
-	--ink-faint: #6f787a;
-	--link: #e50920;
+	/* Deadside dark canvas — olive accent surface ladder */
+	--bg: #080a09;
+	--bg-panel: #171d19;
+	--bg-elevated: #101512;
+	--bg-hover: #1a211c;
+	--bg-input: #0d110f;
+	--line: #29332b;
+	--line-soft: #1f2722;
+	--line-strong: #354038;
+	--ink: #e4e8e3;
+	--ink-heading: #e4e8e3;
+	--ink-secondary: #a5aea6;
+	--ink-muted: #707970;
+	--ink-faint: #5a625b;
+	--link: #7faf5a;
 
-	/* Brand accent — red */
-	--magenta: #e50920;
-	--magenta-soft: #ffffff;
-	--magenta-deep: #8f0715;
+	/* Brand accent — survival green */
+	--magenta: #7faf5a;
+	--magenta-soft: #9bcb70;
+	--magenta-deep: #3e5c2f;
 	--accent: var(--magenta);
-	--accent-hover: #ff1f35;
-	--ok: #34d399;
-	--warn: #f43f5e;
+	--accent-hover: #9bcb70;
+	--ok: #7faf5a;
+	--warn: #c64a3f;
 
 	/* Legacy aliases */
 	--tone-void: #050505;

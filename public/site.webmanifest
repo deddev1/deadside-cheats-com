@@ -4,8 +4,8 @@
   "description": "Undetected deadside cheats — ESP, aimbot, and radar for PC",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#07090A",
-  "theme_color": "#07090A",
+  "background_color": "#080A09",
+  "theme_color": "#080A09",
   "icons": [
     {
       "src": "/favicon.png",
