@@ -11,6 +11,8 @@ import { SIMPLE_PAGE_IDS } from './simple-pages-en.mjs';
 import { buildSimplePagesForLocale } from './simple-pages-i18n.mjs';
 import { localizeHtmlLinks, localizeLinkListItem } from './link-labels.mjs';
 import { PAGE_IMAGE_ALTS } from './image-alts.mjs';
+import { translateSectionH2 } from './section-headings-i18n.mjs';
+import { fixDeadsideCopy } from './deadside-copy-fix.mjs';
 
 const PARA_GENERATORS = [
 	(p, focus) => p.s1(focus),
@@ -35,14 +37,16 @@ function localizeSection(enSection, locale, pageKey, sectionIndex) {
 		return text;
 	});
 
+	const localizedParagraphs = paragraphs.map((p) => fixDeadsideCopy(p));
+
 	const list = enSection.list?.map((item) => {
 		if (item.includes('<a ')) return localizeLinkListItem(item, locale);
 		return item;
 	});
 
 	return {
-		h2: enSection.h2,
-		paragraphs,
+		h2: translateSectionH2(enSection.h2, locale),
+		paragraphs: localizedParagraphs,
 		...(list ? { list } : {}),
 	};
 }

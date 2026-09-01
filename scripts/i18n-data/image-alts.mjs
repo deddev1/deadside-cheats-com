@@ -1,15 +1,15 @@
 /** Descriptive image alts — Google rejects empty or keyword-only alts. */
 export const DESCRIPTIVE_IMAGE_ALTS = {
 	hero: 'Deadside Cheats hero — ESP and aimbot overlay in Deadside',
-	espWallhack: 'Wallhack outlines showing enemy heroes through walls',
+	espWallhack: 'Wallhack outlines showing enemy players through walls',
 	aimbotCombat: 'Soft aim assist overlay during a Deadside match',
-	squadFight: 'Deadside Cheats combat overlay during a team fight',
+	squadFight: 'Deadside Cheats combat overlay during a squad fight',
 	playerEsp: 'Player ESP boxes and distance readouts in a Deadside match',
 	headerArt: 'Aimbot view and bone priority controls for Deadside',
 	hacksPackage: '2D radar threat overlay for Deadside',
-	raidFight: 'Aimbot assist during a Deadside tactical combat',
+	raidFight: 'Aimbot assist during a Deadside firefight',
 	battleRoyale: 'Deadside Cheats in-session overview for Windows PC',
-	raidMap: 'ESP markers for hero skills and POIs in Deadside',
+	raidMap: 'ESP markers for loot and players in Deadside',
 };
 
 /** Page-level image alt by pageId (EN source of truth). */

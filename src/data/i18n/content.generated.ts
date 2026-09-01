@@ -96,7 +96,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				images: {
 					hero: "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
-					espWallhack: "Wallhack outlines showing agents through walls",
+					espWallhack: "Wallhack outlines showing players through walls",
 					aimbotCombat: "Soft aim assist overlay during a Deadside match",
 					squadFight: "Deadside Cheats combat overlay during a team fight",
 					playerEsp: "Player ESP boxes and distance readouts in a Deadside match",
@@ -104,7 +104,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Deadside",
 					raidFight: "Aimbot assist during a Deadside tactical combat",
 					battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for hero skills and POIs in Deadside",
+					raidMap: "ESP markers for loot and player markers and POIs in Deadside",
 				},
 			},
 			pages: {
@@ -122,10 +122,10 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Why players choose deadside cheats in 2026",
 							paragraphs: [
-								"Deadside rewards map awareness. Deadside Cheats combines ESP wallhack for enemy heroes and player positions, radar-style threat cues, and configurable Aimbot so you can read fights before committing — in ranked, Quick Match, and official servers.",
+								"Deadside rewards map awareness. Deadside Cheats combines ESP wallhack for enemy players and player positions, radar-style threat cues, and configurable Aimbot so you can read fights before committing — in competitive raids, PvP raids, and official servers.",
 								"Official seasons, patches, and anti-cheat updates come from <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> and <a href=\"https://www.battleye.com/\" target=\"_blank\" rel=\"noopener noreferrer\">BattlEye</a>. We rebuild ESP, radar, and Aimbot modules when those patches require maintenance — then post status on the <a href=\"/updates/\">Updates page</a>.",
 								"Licenses ship digitally after payment confirmation. Monthly ($35) and lifetime ($150) plans include BattlEye maintenance rebuilds when anti-cheat or game patches require updates.",
-								"Many shops sell ESP-only or aimbot-only modules. Deadside Cheats ships player ESP wallhack, hero skill markers, 2D radar overlays, and configurable soft aim in one license — with a public <a href=\"/updates/\">status log</a> after BattlEye patches.",
+								"Many shops sell ESP-only or aimbot-only modules. Deadside Cheats ships player ESP wallhack, loot marker markers, 2D radar overlays, and configurable soft aim in one license — with a public <a href=\"/updates/\">status log</a> after BattlEye patches.",
 								"Compare our stack on <a href=\"/compare/\">Compare</a>, read <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a>, and review <a href=\"/\">deadside cheats 2026</a> criteria before checkout.",
 							],
 						},
@@ -136,7 +136,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 								"Browse the <a href=\"/deadside-esp/\">ESP</a>, <a href=\"/deadside-aimbot/\">Aimbot</a>, <a href=\"/deadside-esp/\">wallhack</a>, and <a href=\"/deadside-radar-hack/\">radar</a> pages for control details — or jump to <a href=\"/pricing/\">Pricing</a> for monthly and lifetime options.",
 								"Before patch days, check <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside on Steam</a> for Deadside server status, then confirm our maintenance notes so you are not loading in on an outdated build.",
 								"Deadside runs BattlEye at kernel level. No package stays undetected forever without rebuilds. We publish maintenance on <a href=\"/updates/\">Updates</a> and explain the workflow on <a href=\"/battleye-bypass/\">BattlEye bypass</a>.",
-								"Use conservative soft aim FOV, enable ESP categories selectively, and avoid rage settings that attract reports even when the build is clean. Read <a href=\"/deadside-aimbot/\">legit aimbot settings</a> and <a href=\"/deadside-cheats-2026/\">deadside cheats 2026</a> before you queue.",
+								"Use conservative soft aim FOV, enable ESP categories selectively, and avoid rage settings that attract reports even when the build is clean. Read <a href=\"/deadside-aimbot/\">legit aimbot settings</a> and <a href=\"/deadside-cheats-2026/\">deadside cheats 2026</a> before you deploy.",
 							],
 						},
 					],
@@ -168,7 +168,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "When to use it",
 							paragraphs: [
-								"Clear high-traffic POIs and extract routes without flooding the screen.",
+								"Clear high-traffic compounds and extract routes without flooding the screen.",
 								"Tune opacity and filters for arena zones, vault sectors, and high-traffic PvP areas.",
 							],
 							list: [
@@ -194,7 +194,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"deadside-aimbot": {
 					title: "Deadside Aimbot | Soft Aim & FOV Settings",
-					description: "Deadside aimbot with soft aim, FOV & bone priority for ranked melee fights on PC. Undetected package with ESP & radar at deadsidecheats.com.",
+					description: "Deadside aimbot with soft aim, FOV & bone priority for competitive raids melee fights on PC. Undetected package with ESP & radar at deadsidecheats.com.",
 					h1: "Deadside Aimbot — Soft Aim for Windows PC",
 					intro: "Soft aim and aim assist you can tune for Deadside. Included in the same Deadside Cheats license.",
 					imageAlt: "Deadside Aimbot and soft aim controls on Windows PC",
@@ -206,7 +206,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Controls",
 							paragraphs: [
-								"Set FOV, smoothness, and bone priority before you queue.",
+								"Set FOV, smoothness, and bone priority before you deploy.",
 								"Save per-weapon profiles for ARs, SMGs, and long-range rifles.",
 							],
 							list: [
@@ -269,7 +269,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot & soft aim",
 							paragraphs: [
 								"Aim help you can tune to feel natural.",
-								"Set FOV, smoothness, and bone priority per weapon before you queue.",
+								"Set FOV, smoothness, and bone priority per weapon before you deploy.",
 							],
 							list: [
 								"Smooth aim strength",
@@ -425,7 +425,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				updates: {
 					title: "Deadside Status | BattlEye Updates | Deadside Cheats",
-					description: "Live status after Deadside & BattlEye patches. Check undetected ESP, aimbot & radar rebuilds on PC before you queue. deadsidecheats.com.",
+					description: "Live status after Deadside & BattlEye patches. Check undetected ESP, aimbot & radar rebuilds on PC before you deploy. deadsidecheats.com.",
 					h1: "Status",
 					intro: "Check maintenance notes before you load in after a Deadside or BattlEye patch.",
 					imageAlt: "Deadside Cheats live status after BattlEye and game patches",
@@ -594,9 +594,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "How to verify undetected status before you queue",
+							h2: "How to verify undetected status before you deploy",
 							paragraphs: [
-								"Step one: open <a href=\"/updates/\">Updates</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">BattlEye bypass</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for ranked.",
+								"Step one: open <a href=\"/updates/\">Updates</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">BattlEye bypass</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
 								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/deadside-battleye-bypass/\">battleye bypass</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a>.",
 							],
@@ -626,7 +626,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Map coverage for wallhack ESP",
 							paragraphs: [
-								"Wallhack overlays support match, Quick Match sessions, and official servers with distance readouts and snaplines for engagement control.",
+								"Wallhack overlays support match, PvP raid sessions, and official servers with distance readouts and snaplines for engagement control.",
 								"Season maps and POI changes are announced via <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Wallhack remains useful because it tracks entities, not fixed landmarks alone.",
 								"Pair wallhack awareness with <a href=\"/deadside-radar-hack/\">radar hack</a> cues for flanks during arena corners and vertical fights.",
 							],
@@ -636,7 +636,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"ESP wallhack modules rebuild after BattlEye patches. Follow the <a href=\"/updates/\">Updates page</a> and complete checkout for instant license delivery on Windows PC.",
 								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and <a href=\"/battleye-bypass/\">BattlEye bypass</a>.",
-								"Ready to buy? Compare <a href=\"/pricing/\">Pricing</a> or continue to the <a href=\"/deadside-esp/\">ESP hack</a> landing for alternate search wording.",
+								"Compare <a href=\"/pricing/\">Pricing</a> or continue to the <a href=\"/deadside-esp/\">ESP hack</a> landing page.",
 							],
 						},
 					],
@@ -719,7 +719,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "HWID bans, spoofers, and what we do not sell",
 							paragraphs: [
 								"Deadside can issue hardware (HWID) bans tied to your PC. Some competitors market HWID spoofers alongside cheats. Deadside Cheats does not sell a spoofer — we focus on maintained ESP, radar, and soft aim plus clear rebuild communication.",
-								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
+								"If you have a prior HWID ban, no cheat package magically resets Bad Pixel’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
 								"Responsible use: conservative settings, public status checks, and avoiding obvious rage clips reduce report-based penalties.",
 							],
 						},
@@ -750,7 +750,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"2026 updates bring new maps, player balance changes, and BattlEye patches. Deadside Cheats bundles ESP wallhack, radar hack, and Aimbot with active maintenance — not a stale prior-year build.",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">Updates log</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href=\"/pricing/\">Pricing</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover survival and PvP raids match loops — see <a href=\"/pricing/\">Pricing</a>.",
 							],
 						},
 						{
@@ -770,9 +770,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Episode 10+ and ranked meta in 2026",
+							h2: "Episode 10+ and competitive raids meta in 2026",
 							paragraphs: [
-								"2026 ranked play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">aimbot profiles</a> and ESP toggles.",
+								"2026 competitive raids play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">aimbot profiles</a> and ESP toggles.",
 								"Compare against <a href=\"/\">deadside cheats</a> criteria and <a href=\"/undetected-deadside-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/deadside-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/deadside-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
@@ -913,7 +913,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Mod menu categories for survival raids and squad sessions",
 							paragraphs: [
-								"Separate ESP wallhack categories for players, heroes, hero skills, and loot let you reduce overlay noise during rotations and compound zones.",
+								"Separate ESP wallhack categories for players, heroes, loot and player markers, and loot let you reduce overlay noise during rotations and compound zones.",
 								"Radar hack range and Aimbot smoothness adjust from the same mod menu — useful when <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> seasons change fight distances and mobility.",
 								"Soft tracking players should start with <a href=\"/deadside-aimbot/\">soft aim</a> profiles before aggressive FOV.",
 							],
@@ -982,7 +982,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What makes deadside cheats in 2026",
 							paragraphs: [
 								"The deadside cheats combine active BattlEye maintenance, a full ESP wallhack and radar stack, configurable Aimbot, and clear update communication — not a stale build from a prior season.",
-								"Deadside Cheats covers ranked and Quick Match sessions with in-client toggles and post-patch rebuilds.",
+								"Deadside Cheats covers survival and PvP raids sessions with in-client toggles and post-patch rebuilds.",
 								"Verify the live game is healthy via <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside on Steam</a>, then confirm our <a href=\"/updates/\">Updates</a> note before you judge any package “best.”",
 							],
 						},
@@ -1055,7 +1055,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Deadside ESP Hack | Wallhack Boxes | Deadside Cheats",
 					description: "Deadside ESP hack with player boxes & loot markers on PC. Wallhack, radar & aimbot included in one license. Buy at deadsidecheats.com from $35.",
 					h1: "Deadside ESP Hack — Player Boxes Guide",
-					intro: "Deadside ESP hack overlays for Deadside — player outlines, threat cues, hero skill markers with distance readouts across ranked and Quick Match sessions.",
+					intro: "Deadside ESP hack overlays for Deadside — player outlines, threat cues, loot marker markers with distance readouts across survival and PvP raids sessions.",
 					imageAlt: "Deadside ESP hack boxes and loot markers",
 					galleryTitle: "Deadside ESP hack gallery",
 					ctaPrimary: "Buy Deadside Cheats",
@@ -1349,7 +1349,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				images: {
 					hero: "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
-					espWallhack: "Wallhack outlines showing agents through walls",
+					espWallhack: "Wallhack outlines showing players through walls",
 					aimbotCombat: "Soft aim assist overlay during a Deadside match",
 					squadFight: "Deadside Cheats combat overlay during a team fight",
 					playerEsp: "Player ESP boxes and distance readouts in a Deadside match",
@@ -1357,7 +1357,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Deadside",
 					raidFight: "Aimbot assist during a Deadside tactical combat",
 					battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for hero skills and POIs in Deadside",
+					raidMap: "ESP markers for loot and player markers and POIs in Deadside",
 				},
 			},
 			pages: {
@@ -1376,7 +1376,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Por qué eligen Deadside Cheats en 2026",
 							paragraphs: [
-								"Deadside Cheats ofrece ESP wallhack, radar hack y Deadside Aimbot indetectables para Deadside en Windows PC. Ideal para leer escuadrones enemigos en BR y Quick Match sessions.",
+								"Deadside Cheats ofrece ESP wallhack, radar hack y Deadside Aimbot indetectables para Deadside en Windows PC. Ideal para leer escuadrones enemigos en BR y PvP raid sessions.",
 								"Licencias con entrega digital instantánea vía checkout Zadeyo. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
 							],
 						},
@@ -1816,7 +1816,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/deadside-cheats/",
 					sections: [
 						{
-							h2: "What undetected means for Deadside Cheats",
+							h2: "Qué significa indetectable para Deadside Cheats",
 							paragraphs: [
 								"Deadside Cheats ofrece ESP wallhack, radar hack y Deadside Aimbot indetectables para Deadside en Windows PC. mantenimiento undetected tras parches BattlEye",
 								"Licencias con entrega digital instantánea vía checkout Zadeyo. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
@@ -1840,9 +1840,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "How to verify undetected status before you queue",
+							h2: "How to verify undetected status before you deploy",
 							paragraphs: [
-								"Step one: open <a href=\"/updates/\">Guía de trucos indetectables</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">Mantenimiento BattlEye</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for ranked.",
+								"Step one: open <a href=\"/updates/\">Guía de trucos indetectables</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">Mantenimiento BattlEye</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
 								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/deadside-battleye-bypass/\">battleye bypass</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a>.",
 							],
@@ -1882,7 +1882,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"ESP wallhack modules rebuild after BattlEye patches. Follow the <a href=\"/updates/\">Guía de trucos indetectables</a> and complete checkout for instant license delivery on Windows PC.",
 								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and <a href=\"/battleye-bypass/\">Mantenimiento BattlEye</a>.",
-								"Ready to buy? Compare <a href=\"/pricing/\">Tienda</a> or continue to the <a href=\"/deadside-esp/\">Guía ESP y wallhack</a> landing for alternate search wording.",
+								"Compare <a href=\"/pricing/\">Tienda</a> or continue to the <a href=\"/deadside-esp/\">Guía ESP y wallhack</a> landing page.",
 							],
 						},
 					],
@@ -1962,10 +1962,10 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "HWID bans, spoofers, and what we do not sell",
+							h2: "Baneos HWID, spoofers y lo que no vendemos",
 							paragraphs: [
 								"Deadside Cheats ofrece ESP wallhack, radar hack y Deadside Aimbot indetectables para Deadside en Windows PC. cómo se gestionan las actualizaciones BattlEye para Deadside cheats",
-								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
+								"If you have a prior HWID ban, no cheat package magically resets Bad Pixel’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
 								"Consulta la página Updates antes de jugar tras parches de BattlEye. Ningún cheat garantiza estado indetectable permanente.",
 							],
 						},
@@ -1992,11 +1992,11 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/deadside-cheats/",
 					sections: [
 						{
-							h2: "Why deadside cheats buyers choose Deadside Cheats in 2026",
+							h2: "Por qué compradores eligen Deadside Cheats en 2026",
 							paragraphs: [
 								"Deadside Cheats ofrece ESP wallhack, radar hack y Deadside Aimbot indetectables para Deadside en Windows PC. checklist de deadside cheats 2026 antes del checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">Guía de trucos indetectables</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href=\"/pricing/\">Tienda</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover survival and PvP raids match loops — see <a href=\"/pricing/\">Tienda</a>.",
 							],
 						},
 						{
@@ -2008,7 +2008,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Before you buy in 2026",
+							h2: "Antes de comprar in 2026",
 							paragraphs: [
 								"Read the <a href=\"/deadside-cheats/\">Resumen Deadside Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
 								"Also compare the <a href=\"/deadside-cheats/\">Resumen Deadside Cheats</a> checklist, <a href=\"/blog/deadside-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
@@ -2016,9 +2016,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Episode 10+ and ranked meta in 2026",
+							h2: "Episode 10+ and competitive raids meta in 2026",
 							paragraphs: [
-								"2026 ranked play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot y soft aim</a> and ESP toggles.",
+								"2026 competitive raids play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot y soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Producto completo</a> criteria and <a href=\"/undetected-deadside-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/deadside-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/deadside-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
@@ -2541,7 +2541,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				images: {
 					hero: "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
-					espWallhack: "Wallhack outlines showing agents through walls",
+					espWallhack: "Wallhack outlines showing players through walls",
 					aimbotCombat: "Soft aim assist overlay during a Deadside match",
 					squadFight: "Deadside Cheats combat overlay during a team fight",
 					playerEsp: "Player ESP boxes and distance readouts in a Deadside match",
@@ -2549,7 +2549,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Deadside",
 					raidFight: "Aimbot assist during a Deadside tactical combat",
 					battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for hero skills and POIs in Deadside",
+					raidMap: "ESP markers for loot and player markers and POIs in Deadside",
 				},
 			},
 			pages: {
@@ -2568,7 +2568,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Pourquoi choisir Deadside Cheats en 2026",
 							paragraphs: [
-								"Deadside Cheats combine ESP wallhack, radar hack et Deadside Aimbot indétectables pour Deadside sur PC Windows. Parfait pour lire les équipes ennemies en BR et Quick Match sessions.",
+								"Deadside Cheats combine ESP wallhack, radar hack et Deadside Aimbot indétectables pour Deadside sur PC Windows. Parfait pour lire les équipes ennemies en BR et PvP raid sessions.",
 								"Licences avec livraison numérique instantanée via checkout Zadeyo. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
 							],
 						},
@@ -2607,7 +2607,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Quand l'utiliser",
 							paragraphs: [
-								"Gardez les zones de high-traffic POIs et extract routes lisibles sans saturer l'écran.",
+								"Gardez les zones de high-traffic compounds et extract routes lisibles sans saturer l'écran.",
 								"Licences avec livraison numérique instantanée via checkout Zadeyo. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
 							],
 							list: [
@@ -3008,7 +3008,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/deadside-cheats/",
 					sections: [
 						{
-							h2: "What undetected means for Deadside Cheats",
+							h2: "Ce que signifie indétectable pour Deadside Cheats",
 							paragraphs: [
 								"Deadside Cheats combine ESP wallhack, radar hack et Deadside Aimbot indétectables pour Deadside sur PC Windows. maintenance undetected après patchs BattlEye",
 								"Licences avec livraison numérique instantanée via checkout Zadeyo. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
@@ -3032,9 +3032,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "How to verify undetected status before you queue",
+							h2: "How to verify undetected status before you deploy",
 							paragraphs: [
-								"Step one: open <a href=\"/updates/\">Guide triches indétectables</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">Maintenance BattlEye</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for ranked.",
+								"Step one: open <a href=\"/updates/\">Guide triches indétectables</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">Maintenance BattlEye</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
 								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/deadside-battleye-bypass/\">battleye bypass</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a>.",
 							],
@@ -3074,7 +3074,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"ESP wallhack modules rebuild after BattlEye patches. Follow the <a href=\"/updates/\">Guide triches indétectables</a> and complete checkout for instant license delivery on Windows PC.",
 								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and <a href=\"/battleye-bypass/\">Maintenance BattlEye</a>.",
-								"Ready to buy? Compare <a href=\"/pricing/\">Boutique</a> or continue to the <a href=\"/deadside-esp/\">Guide ESP et wallhack</a> landing for alternate search wording.",
+								"Compare <a href=\"/pricing/\">Boutique</a> or continue to the <a href=\"/deadside-esp/\">Guide ESP et wallhack</a> landing page.",
 							],
 						},
 					],
@@ -3154,10 +3154,10 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "HWID bans, spoofers, and what we do not sell",
+							h2: "Bannissements HWID, spoofers et ce que nous ne vendons pas",
 							paragraphs: [
 								"Deadside Cheats combine ESP wallhack, radar hack et Deadside Aimbot indétectables pour Deadside sur PC Windows. gestion des mises à jour BattlEye pour Deadside cheats",
-								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
+								"If you have a prior HWID ban, no cheat package magically resets Bad Pixel’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
 								"Consultez Updates après les patchs BattlEye. Aucune triche ne garantit un statut indétectable permanent.",
 							],
 						},
@@ -3184,11 +3184,11 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/deadside-cheats/",
 					sections: [
 						{
-							h2: "Why deadside cheats buyers choose Deadside Cheats in 2026",
+							h2: "Pourquoi les acheteurs choisissent Deadside Cheats en 2026",
 							paragraphs: [
 								"Deadside Cheats combine ESP wallhack, radar hack et Deadside Aimbot indétectables pour Deadside sur PC Windows. checklist deadside cheats 2026 avant checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">Guide triches indétectables</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href=\"/pricing/\">Boutique</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover survival and PvP raids match loops — see <a href=\"/pricing/\">Boutique</a>.",
 							],
 						},
 						{
@@ -3200,7 +3200,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Before you buy in 2026",
+							h2: "Avant d'acheter in 2026",
 							paragraphs: [
 								"Read the <a href=\"/deadside-cheats/\">Aperçu Deadside Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
 								"Also compare the <a href=\"/deadside-cheats/\">Aperçu Deadside Cheats</a> checklist, <a href=\"/blog/deadside-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
@@ -3208,9 +3208,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Episode 10+ and ranked meta in 2026",
+							h2: "Episode 10+ and competitive raids meta in 2026",
 							paragraphs: [
-								"2026 ranked play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot et soft aim</a> and ESP toggles.",
+								"2026 competitive raids play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot et soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Produit complet</a> criteria and <a href=\"/undetected-deadside-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/deadside-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/deadside-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
@@ -3733,7 +3733,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				images: {
 					hero: "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
-					espWallhack: "Wallhack outlines showing agents through walls",
+					espWallhack: "Wallhack outlines showing players through walls",
 					aimbotCombat: "Soft aim assist overlay during a Deadside match",
 					squadFight: "Deadside Cheats combat overlay during a team fight",
 					playerEsp: "Player ESP boxes and distance readouts in a Deadside match",
@@ -3741,7 +3741,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Deadside",
 					raidFight: "Aimbot assist during a Deadside tactical combat",
 					battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for hero skills and POIs in Deadside",
+					raidMap: "ESP markers for loot and player markers and POIs in Deadside",
 				},
 			},
 			pages: {
@@ -3760,7 +3760,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Warum Deadside Cheats 2026 führt",
 							paragraphs: [
-								"Deadside Cheats bündelt ESP wallhack, radar hack und Deadside Aimbot als undetected Paket für Deadside auf Windows PC. Ideal um feindliche Squads in BR und Quick Match sessions zu lesen.",
+								"Deadside Cheats bündelt ESP wallhack, radar hack und Deadside Aimbot als undetected Paket für Deadside auf Windows PC. Ideal um feindliche Squads in BR und PvP raid sessions zu lesen.",
 								"Lizenzen mit sofortige digitale Lieferung über Zadeyo Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
 							],
 						},
@@ -4200,7 +4200,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/deadside-cheats/",
 					sections: [
 						{
-							h2: "What undetected means for Deadside Cheats",
+							h2: "Was undetected für Deadside Cheats bedeutet",
 							paragraphs: [
 								"Deadside Cheats bündelt ESP wallhack, radar hack und Deadside Aimbot als undetected Paket für Deadside auf Windows PC. Undetected-Wartung nach BattlEye Patches",
 								"Lizenzen mit sofortige digitale Lieferung über Zadeyo Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
@@ -4224,9 +4224,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "How to verify undetected status before you queue",
+							h2: "How to verify undetected status before you deploy",
 							paragraphs: [
-								"Step one: open <a href=\"/updates/\">Undetected Cheats Guide</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">BattlEye Wartung</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for ranked.",
+								"Step one: open <a href=\"/updates/\">Undetected Cheats Guide</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">BattlEye Wartung</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
 								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/deadside-battleye-bypass/\">battleye bypass</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a>.",
 							],
@@ -4266,7 +4266,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"ESP wallhack modules rebuild after BattlEye patches. Follow the <a href=\"/updates/\">Undetected Cheats Guide</a> and complete checkout for instant license delivery on Windows PC.",
 								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and <a href=\"/battleye-bypass/\">BattlEye Wartung</a>.",
-								"Ready to buy? Compare <a href=\"/pricing/\">Shop</a> or continue to the <a href=\"/deadside-esp/\">ESP- und Wallhack-Guide</a> landing for alternate search wording.",
+								"Compare <a href=\"/pricing/\">Shop</a> or continue to the <a href=\"/deadside-esp/\">ESP- und Wallhack-Guide</a> landing page.",
 							],
 						},
 					],
@@ -4346,10 +4346,10 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "HWID bans, spoofers, and what we do not sell",
+							h2: "HWID-Bans, Spoofer und was wir nicht verkaufen",
 							paragraphs: [
 								"Deadside Cheats bündelt ESP wallhack, radar hack und Deadside Aimbot als undetected Paket für Deadside auf Windows PC. wie BattlEye Updates für Deadside Cheats gehandhabt werden",
-								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
+								"If you have a prior HWID ban, no cheat package magically resets Bad Pixel’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
 								"Updates-Seite nach BattlEye-Patches prüfen. Kein Cheat garantiert dauerhaft undetected Status.",
 							],
 						},
@@ -4376,11 +4376,11 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/deadside-cheats/",
 					sections: [
 						{
-							h2: "Why deadside cheats buyers choose Deadside Cheats in 2026",
+							h2: "Warum Käufer 2026 Deadside Cheats wählen",
 							paragraphs: [
 								"Deadside Cheats bündelt ESP wallhack, radar hack und Deadside Aimbot als undetected Paket für Deadside auf Windows PC. 2026 deadside cheats Checkliste vor dem Checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">Undetected Cheats Guide</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href=\"/pricing/\">Shop</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover survival and PvP raids match loops — see <a href=\"/pricing/\">Shop</a>.",
 							],
 						},
 						{
@@ -4392,7 +4392,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Before you buy in 2026",
+							h2: "Vor dem Kauf in 2026",
 							paragraphs: [
 								"Read the <a href=\"/deadside-cheats/\">Deadside Cheats Übersicht</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
 								"Also compare the <a href=\"/deadside-cheats/\">Deadside Cheats Übersicht</a> checklist, <a href=\"/blog/deadside-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
@@ -4400,9 +4400,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Episode 10+ and ranked meta in 2026",
+							h2: "Episode 10+ and competitive raids meta in 2026",
 							paragraphs: [
-								"2026 ranked play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot und Soft Aim</a> and ESP toggles.",
+								"2026 competitive raids play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot und Soft Aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Vollständiges Produkt</a> criteria and <a href=\"/undetected-deadside-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/deadside-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/deadside-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
@@ -4925,7 +4925,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				images: {
 					hero: "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
-					espWallhack: "Wallhack outlines showing agents through walls",
+					espWallhack: "Wallhack outlines showing players through walls",
 					aimbotCombat: "Soft aim assist overlay during a Deadside match",
 					squadFight: "Deadside Cheats combat overlay during a team fight",
 					playerEsp: "Player ESP boxes and distance readouts in a Deadside match",
@@ -4933,7 +4933,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Deadside",
 					raidFight: "Aimbot assist during a Deadside tactical combat",
 					battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for hero skills and POIs in Deadside",
+					raidMap: "ESP markers for loot and player markers and POIs in Deadside",
 				},
 			},
 			pages: {
@@ -4952,7 +4952,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Por que escolher Deadside Cheats em 2026",
 							paragraphs: [
-								"Deadside Cheats reúne ESP wallhack, radar hack e Deadside Aimbot indetectáveis para Deadside no PC Windows. Ideal para ler equipes inimigos em BR e Quick Match sessions.",
+								"Deadside Cheats reúne ESP wallhack, radar hack e Deadside Aimbot indetectáveis para Deadside no PC Windows. Ideal para ler equipes inimigos em BR e PvP raid sessions.",
 								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 							],
 						},
@@ -5391,7 +5391,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/deadside-cheats/",
 					sections: [
 						{
-							h2: "What undetected means for Deadside Cheats",
+							h2: "O que significa indetectável para Deadside Cheats",
 							paragraphs: [
 								"Deadside Cheats reúne ESP wallhack, radar hack e Deadside Aimbot indetectáveis para Deadside no PC Windows. manutenção undetected após patches BattlEye",
 								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
@@ -5415,9 +5415,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "How to verify undetected status before you queue",
+							h2: "How to verify undetected status before you deploy",
 							paragraphs: [
-								"Step one: open <a href=\"/updates/\">Guia de cheats indetectáveis</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">Manutenção BattlEye</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for ranked.",
+								"Step one: open <a href=\"/updates/\">Guia de cheats indetectáveis</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">Manutenção BattlEye</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
 								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/deadside-battleye-bypass/\">battleye bypass</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a>.",
 							],
@@ -5457,7 +5457,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"ESP wallhack modules rebuild after BattlEye patches. Follow the <a href=\"/updates/\">Guia de cheats indetectáveis</a> and complete checkout for instant license delivery on Windows PC.",
 								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and <a href=\"/battleye-bypass/\">Manutenção BattlEye</a>.",
-								"Ready to buy? Compare <a href=\"/pricing/\">Loja</a> or continue to the <a href=\"/deadside-esp/\">Guia ESP e wallhack</a> landing for alternate search wording.",
+								"Compare <a href=\"/pricing/\">Loja</a> or continue to the <a href=\"/deadside-esp/\">Guia ESP e wallhack</a> landing page.",
 							],
 						},
 					],
@@ -5537,10 +5537,10 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "HWID bans, spoofers, and what we do not sell",
+							h2: "Banimentos HWID, spoofers e o que não vendemos",
 							paragraphs: [
 								"Deadside Cheats reúne ESP wallhack, radar hack e Deadside Aimbot indetectáveis para Deadside no PC Windows. como as atualizações BattlEye são tratadas para Deadside cheats",
-								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
+								"If you have a prior HWID ban, no cheat package magically resets Bad Pixel’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
 								"Verifique Updates após patches BattlEye. Nenhum cheat garante status indetectável permanente.",
 							],
 						},
@@ -5567,11 +5567,11 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/deadside-cheats/",
 					sections: [
 						{
-							h2: "Why deadside cheats buyers choose Deadside Cheats in 2026",
+							h2: "Por que compradores escolhem Deadside Cheats em 2026",
 							paragraphs: [
 								"Deadside Cheats reúne ESP wallhack, radar hack e Deadside Aimbot indetectáveis para Deadside no PC Windows. checklist de deadside cheats 2026 antes do checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">Guia de cheats indetectáveis</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href=\"/pricing/\">Loja</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover survival and PvP raids match loops — see <a href=\"/pricing/\">Loja</a>.",
 							],
 						},
 						{
@@ -5583,7 +5583,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Before you buy in 2026",
+							h2: "Antes de comprar in 2026",
 							paragraphs: [
 								"Read the <a href=\"/deadside-cheats/\">Visão geral Deadside Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
 								"Also compare the <a href=\"/deadside-cheats/\">Visão geral Deadside Cheats</a> checklist, <a href=\"/blog/deadside-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
@@ -5591,9 +5591,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Episode 10+ and ranked meta in 2026",
+							h2: "Episode 10+ and competitive raids meta in 2026",
 							paragraphs: [
-								"2026 ranked play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot e soft aim</a> and ESP toggles.",
+								"2026 competitive raids play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot e soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Produto completo</a> criteria and <a href=\"/undetected-deadside-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/deadside-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/deadside-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
@@ -6116,7 +6116,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				images: {
 					hero: "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
-					espWallhack: "Wallhack outlines showing agents through walls",
+					espWallhack: "Wallhack outlines showing players through walls",
 					aimbotCombat: "Soft aim assist overlay during a Deadside match",
 					squadFight: "Deadside Cheats combat overlay during a team fight",
 					playerEsp: "Player ESP boxes and distance readouts in a Deadside match",
@@ -6124,7 +6124,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Deadside",
 					raidFight: "Aimbot assist during a Deadside tactical combat",
 					battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for hero skills and POIs in Deadside",
+					raidMap: "ESP markers for loot and player markers and POIs in Deadside",
 				},
 			},
 			pages: {
@@ -6143,7 +6143,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Perché scegliere Deadside Cheats nel 2026",
 							paragraphs: [
-								"Deadside Cheats unisce ESP wallhack, radar hack e Deadside Aimbot indetectable per Deadside su PC Windows. Ideale per leggere squadre nemiche in BR e Quick Match sessions.",
+								"Deadside Cheats unisce ESP wallhack, radar hack e Deadside Aimbot indetectable per Deadside su PC Windows. Ideale per leggere squadre nemiche in BR e PvP raid sessions.",
 								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 							],
 						},
@@ -6582,7 +6582,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/deadside-cheats/",
 					sections: [
 						{
-							h2: "What undetected means for Deadside Cheats",
+							h2: "Cosa significa indetectable per Deadside Cheats",
 							paragraphs: [
 								"Deadside Cheats unisce ESP wallhack, radar hack e Deadside Aimbot indetectable per Deadside su PC Windows. manutenzione undetected dopo patch BattlEye",
 								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
@@ -6606,9 +6606,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "How to verify undetected status before you queue",
+							h2: "How to verify undetected status before you deploy",
 							paragraphs: [
-								"Step one: open <a href=\"/updates/\">Guida cheat indetectable</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">Manutenzione BattlEye</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for ranked.",
+								"Step one: open <a href=\"/updates/\">Guida cheat indetectable</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">Manutenzione BattlEye</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
 								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/deadside-battleye-bypass/\">battleye bypass</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a>.",
 							],
@@ -6648,7 +6648,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"ESP wallhack modules rebuild after BattlEye patches. Follow the <a href=\"/updates/\">Guida cheat indetectable</a> and complete checkout for instant license delivery on Windows PC.",
 								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and <a href=\"/battleye-bypass/\">Manutenzione BattlEye</a>.",
-								"Ready to buy? Compare <a href=\"/pricing/\">Negozio</a> or continue to the <a href=\"/deadside-esp/\">Guida ESP e wallhack</a> landing for alternate search wording.",
+								"Compare <a href=\"/pricing/\">Negozio</a> or continue to the <a href=\"/deadside-esp/\">Guida ESP e wallhack</a> landing page.",
 							],
 						},
 					],
@@ -6728,10 +6728,10 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "HWID bans, spoofers, and what we do not sell",
+							h2: "Ban HWID, spoofer e cosa non vendiamo",
 							paragraphs: [
 								"Deadside Cheats unisce ESP wallhack, radar hack e Deadside Aimbot indetectable per Deadside su PC Windows. come vengono gestiti gli aggiornamenti BattlEye per Deadside cheats",
-								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
+								"If you have a prior HWID ban, no cheat package magically resets Bad Pixel’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
 								"Controlla Updates dopo patch BattlEye. Nessun cheat garantisce stato indetectable permanente.",
 							],
 						},
@@ -6758,11 +6758,11 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/deadside-cheats/",
 					sections: [
 						{
-							h2: "Why deadside cheats buyers choose Deadside Cheats in 2026",
+							h2: "Perché gli acquirenti scelgono Deadside Cheats nel 2026",
 							paragraphs: [
 								"Deadside Cheats unisce ESP wallhack, radar hack e Deadside Aimbot indetectable per Deadside su PC Windows. checklist deadside cheats 2026 prima del checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">Guida cheat indetectable</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href=\"/pricing/\">Negozio</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover survival and PvP raids match loops — see <a href=\"/pricing/\">Negozio</a>.",
 							],
 						},
 						{
@@ -6774,7 +6774,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Before you buy in 2026",
+							h2: "Antes de comprar in 2026",
 							paragraphs: [
 								"Read the <a href=\"/deadside-cheats/\">Panoramica Deadside Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
 								"Also compare the <a href=\"/deadside-cheats/\">Panoramica Deadside Cheats</a> checklist, <a href=\"/blog/deadside-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
@@ -6782,9 +6782,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Episode 10+ and ranked meta in 2026",
+							h2: "Episode 10+ and competitive raids meta in 2026",
 							paragraphs: [
-								"2026 ranked play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot e soft aim</a> and ESP toggles.",
+								"2026 competitive raids play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot e soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Prodotto completo</a> criteria and <a href=\"/undetected-deadside-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/deadside-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/deadside-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
@@ -7307,7 +7307,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				images: {
 					hero: "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
-					espWallhack: "Wallhack outlines showing agents through walls",
+					espWallhack: "Wallhack outlines showing players through walls",
 					aimbotCombat: "Soft aim assist overlay during a Deadside match",
 					squadFight: "Deadside Cheats combat overlay during a team fight",
 					playerEsp: "Player ESP boxes and distance readouts in a Deadside match",
@@ -7315,7 +7315,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Deadside",
 					raidFight: "Aimbot assist during a Deadside tactical combat",
 					battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for hero skills and POIs in Deadside",
+					raidMap: "ESP markers for loot and player markers and POIs in Deadside",
 				},
 			},
 			pages: {
@@ -7334,7 +7334,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Waarom Deadside Cheats in 2026",
 							paragraphs: [
-								"Deadside Cheats bundelt ESP wallhack, radar hack en Deadside Aimbot als undetected pakket voor Deadside op Windows PC. Ideaal om vijandelijke squads te lezen in BR en Quick Match sessions.",
+								"Deadside Cheats bundelt ESP wallhack, radar hack en Deadside Aimbot als undetected pakket voor Deadside op Windows PC. Ideaal om vijandelijke squads te lezen in BR en PvP raid sessions.",
 								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 							],
 						},
@@ -7773,7 +7773,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/deadside-cheats/",
 					sections: [
 						{
-							h2: "What undetected means for Deadside Cheats",
+							h2: "Wat undetected betekent voor Deadside Cheats",
 							paragraphs: [
 								"Deadside Cheats bundelt ESP wallhack, radar hack en Deadside Aimbot als undetected pakket voor Deadside op Windows PC. undetected onderhoud na BattlEye patches",
 								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
@@ -7797,9 +7797,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "How to verify undetected status before you queue",
+							h2: "How to verify undetected status before you deploy",
 							paragraphs: [
-								"Step one: open <a href=\"/updates/\">Undetected cheats gids</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">BattlEye onderhoud</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for ranked.",
+								"Step one: open <a href=\"/updates/\">Undetected cheats gids</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">BattlEye onderhoud</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
 								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/deadside-battleye-bypass/\">battleye bypass</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a>.",
 							],
@@ -7839,7 +7839,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"ESP wallhack modules rebuild after BattlEye patches. Follow the <a href=\"/updates/\">Undetected cheats gids</a> and complete checkout for instant license delivery on Windows PC.",
 								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and <a href=\"/battleye-bypass/\">BattlEye onderhoud</a>.",
-								"Ready to buy? Compare <a href=\"/pricing/\">Winkel</a> or continue to the <a href=\"/deadside-esp/\">ESP- en wallhack-gids</a> landing for alternate search wording.",
+								"Compare <a href=\"/pricing/\">Winkel</a> or continue to the <a href=\"/deadside-esp/\">ESP- en wallhack-gids</a> landing page.",
 							],
 						},
 					],
@@ -7919,10 +7919,10 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "HWID bans, spoofers, and what we do not sell",
+							h2: "HWID-bans, spoofers en wat we niet verkopen",
 							paragraphs: [
 								"Deadside Cheats bundelt ESP wallhack, radar hack en Deadside Aimbot als undetected pakket voor Deadside op Windows PC. hoe BattlEye updates worden afgehandeld voor Deadside cheats",
-								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
+								"If you have a prior HWID ban, no cheat package magically resets Bad Pixel’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
 								"Check Updates na BattlEye-patches. Geen cheat garandeert permanent undetected status.",
 							],
 						},
@@ -7949,11 +7949,11 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/deadside-cheats/",
 					sections: [
 						{
-							h2: "Why deadside cheats buyers choose Deadside Cheats in 2026",
+							h2: "Waarom kopers in 2026 kiezen voor Deadside Cheats",
 							paragraphs: [
 								"Deadside Cheats bundelt ESP wallhack, radar hack en Deadside Aimbot als undetected pakket voor Deadside op Windows PC. 2026 deadside cheats checklist vóór checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">Undetected cheats gids</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href=\"/pricing/\">Winkel</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover survival and PvP raids match loops — see <a href=\"/pricing/\">Winkel</a>.",
 							],
 						},
 						{
@@ -7965,7 +7965,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Before you buy in 2026",
+							h2: "Vor dem Kauf in 2026",
 							paragraphs: [
 								"Read the <a href=\"/deadside-cheats/\">Deadside Cheats overzicht</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
 								"Also compare the <a href=\"/deadside-cheats/\">Deadside Cheats overzicht</a> checklist, <a href=\"/blog/deadside-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
@@ -7973,9 +7973,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Episode 10+ and ranked meta in 2026",
+							h2: "Episode 10+ and competitive raids meta in 2026",
 							paragraphs: [
-								"2026 ranked play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot en soft aim</a> and ESP toggles.",
+								"2026 competitive raids play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot en soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Volledig product</a> criteria and <a href=\"/undetected-deadside-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/deadside-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/deadside-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
@@ -8498,7 +8498,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				images: {
 					hero: "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
-					espWallhack: "Wallhack outlines showing agents through walls",
+					espWallhack: "Wallhack outlines showing players through walls",
 					aimbotCombat: "Soft aim assist overlay during a Deadside match",
 					squadFight: "Deadside Cheats combat overlay during a team fight",
 					playerEsp: "Player ESP boxes and distance readouts in a Deadside match",
@@ -8506,7 +8506,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Deadside",
 					raidFight: "Aimbot assist during a Deadside tactical combat",
 					battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for hero skills and POIs in Deadside",
+					raidMap: "ESP markers for loot and player markers and POIs in Deadside",
 				},
 			},
 			pages: {
@@ -8525,7 +8525,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Dlaczego Deadside Cheats w 2026",
 							paragraphs: [
-								"Deadside Cheats łączy ESP wallhack, radar hack i Deadside Aimbot jako pakiet undetected dla Deadside na PC Windows. Idealny do czytania wrogich squadów w BR i Quick Match sessions.",
+								"Deadside Cheats łączy ESP wallhack, radar hack i Deadside Aimbot jako pakiet undetected dla Deadside na PC Windows. Idealny do czytania wrogich squadów w BR i PvP raid sessions.",
 								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 							],
 						},
@@ -8564,7 +8564,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Kiedy używać",
 							paragraphs: [
-								"Czytelne high-traffic POIs i extract routes bez przepełnienia ekranu.",
+								"Czytelne high-traffic compounds i extract routes bez przepełnienia ekranu.",
 								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 							],
 							list: [
@@ -8964,7 +8964,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/deadside-cheats/",
 					sections: [
 						{
-							h2: "What undetected means for Deadside Cheats",
+							h2: "Co oznacza undetected dla Deadside Cheats",
 							paragraphs: [
 								"Deadside Cheats łączy ESP wallhack, radar hack i Deadside Aimbot jako pakiet undetected dla Deadside na PC Windows. undetected konserwacja po patchach BattlEye",
 								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
@@ -8988,9 +8988,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "How to verify undetected status before you queue",
+							h2: "How to verify undetected status before you deploy",
 							paragraphs: [
-								"Step one: open <a href=\"/updates/\">Przewodnik cheatów undetected</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">Konserwacja BattlEye</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for ranked.",
+								"Step one: open <a href=\"/updates/\">Przewodnik cheatów undetected</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">Konserwacja BattlEye</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
 								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/deadside-battleye-bypass/\">battleye bypass</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a>.",
 							],
@@ -9030,7 +9030,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"ESP wallhack modules rebuild after BattlEye patches. Follow the <a href=\"/updates/\">Przewodnik cheatów undetected</a> and complete checkout for instant license delivery on Windows PC.",
 								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and <a href=\"/battleye-bypass/\">Konserwacja BattlEye</a>.",
-								"Ready to buy? Compare <a href=\"/pricing/\">Sklep</a> or continue to the <a href=\"/deadside-esp/\">Przewodnik ESP i wallhack</a> landing for alternate search wording.",
+								"Compare <a href=\"/pricing/\">Sklep</a> or continue to the <a href=\"/deadside-esp/\">Przewodnik ESP i wallhack</a> landing page.",
 							],
 						},
 					],
@@ -9110,10 +9110,10 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "HWID bans, spoofers, and what we do not sell",
+							h2: "Bany HWID, spoofery i czego nie sprzedajemy",
 							paragraphs: [
 								"Deadside Cheats łączy ESP wallhack, radar hack i Deadside Aimbot jako pakiet undetected dla Deadside na PC Windows. jak obsługiwane są aktualizacje BattlEye dla Deadside cheats",
-								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
+								"If you have a prior HWID ban, no cheat package magically resets Bad Pixel’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
 								"Sprawdź Updates po patchach BattlEye. Żaden cheat nie gwarantuje permanentnego undetected statusu.",
 							],
 						},
@@ -9140,11 +9140,11 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/deadside-cheats/",
 					sections: [
 						{
-							h2: "Why deadside cheats buyers choose Deadside Cheats in 2026",
+							h2: "Dlaczego kupujący wybierają Deadside Cheats w 2026",
 							paragraphs: [
 								"Deadside Cheats łączy ESP wallhack, radar hack i Deadside Aimbot jako pakiet undetected dla Deadside na PC Windows. checklista deadside cheats 2026 przed checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">Przewodnik cheatów undetected</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href=\"/pricing/\">Sklep</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover survival and PvP raids match loops — see <a href=\"/pricing/\">Sklep</a>.",
 							],
 						},
 						{
@@ -9156,7 +9156,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Before you buy in 2026",
+							h2: "Vor dem Kauf in 2026",
 							paragraphs: [
 								"Read the <a href=\"/deadside-cheats/\">Przegląd Deadside Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
 								"Also compare the <a href=\"/deadside-cheats/\">Przegląd Deadside Cheats</a> checklist, <a href=\"/blog/deadside-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
@@ -9164,9 +9164,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Episode 10+ and ranked meta in 2026",
+							h2: "Episode 10+ and competitive raids meta in 2026",
 							paragraphs: [
-								"2026 ranked play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot i soft aim</a> and ESP toggles.",
+								"2026 competitive raids play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot i soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Pełny produkt</a> criteria and <a href=\"/undetected-deadside-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/deadside-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/deadside-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
@@ -9689,7 +9689,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				images: {
 					hero: "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
-					espWallhack: "Wallhack outlines showing agents through walls",
+					espWallhack: "Wallhack outlines showing players through walls",
 					aimbotCombat: "Soft aim assist overlay during a Deadside match",
 					squadFight: "Deadside Cheats combat overlay during a team fight",
 					playerEsp: "Player ESP boxes and distance readouts in a Deadside match",
@@ -9697,7 +9697,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Deadside",
 					raidFight: "Aimbot assist during a Deadside tactical combat",
 					battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for hero skills and POIs in Deadside",
+					raidMap: "ESP markers for loot and player markers and POIs in Deadside",
 				},
 			},
 			pages: {
@@ -9716,7 +9716,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Почему выбирают Deadside Cheats в 2026",
 							paragraphs: [
-								"Deadside Cheats объединяет ESP wallhack, radar hack и Deadside Aimbot в undetected пакете для Deadside на Windows PC. Идеально для чтения вражеских отрядов в BR и Quick Match sessions.",
+								"Deadside Cheats объединяет ESP wallhack, radar hack и Deadside Aimbot в undetected пакете для Deadside на Windows PC. Идеально для чтения вражеских отрядов в BR и PvP raid sessions.",
 								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 							],
 						},
@@ -10155,7 +10155,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/deadside-cheats/",
 					sections: [
 						{
-							h2: "What undetected means for Deadside Cheats",
+							h2: "Что означает undetected для Deadside Cheats",
 							paragraphs: [
 								"Deadside Cheats объединяет ESP wallhack, radar hack и Deadside Aimbot в undetected пакете для Deadside на Windows PC. undetected обслуживание после патчей BattlEye",
 								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
@@ -10179,9 +10179,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "How to verify undetected status before you queue",
+							h2: "How to verify undetected status before you deploy",
 							paragraphs: [
-								"Step one: open <a href=\"/updates/\">Гайд undetected читов</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">Обслуживание BattlEye</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for ranked.",
+								"Step one: open <a href=\"/updates/\">Гайд undetected читов</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">Обслуживание BattlEye</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
 								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/deadside-battleye-bypass/\">battleye bypass</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a>.",
 							],
@@ -10221,7 +10221,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"ESP wallhack modules rebuild after BattlEye patches. Follow the <a href=\"/updates/\">Гайд undetected читов</a> and complete checkout for instant license delivery on Windows PC.",
 								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and <a href=\"/battleye-bypass/\">Обслуживание BattlEye</a>.",
-								"Ready to buy? Compare <a href=\"/pricing/\">Магазин</a> or continue to the <a href=\"/deadside-esp/\">Гайд ESP и wallhack</a> landing for alternate search wording.",
+								"Compare <a href=\"/pricing/\">Магазин</a> or continue to the <a href=\"/deadside-esp/\">Гайд ESP и wallhack</a> landing page.",
 							],
 						},
 					],
@@ -10301,10 +10301,10 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "HWID bans, spoofers, and what we do not sell",
+							h2: "HWID-баны, спуферы и чего мы не продаём",
 							paragraphs: [
 								"Deadside Cheats объединяет ESP wallhack, radar hack и Deadside Aimbot в undetected пакете для Deadside на Windows PC. как обрабатываются обновления BattlEye для Deadside cheats",
-								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
+								"If you have a prior HWID ban, no cheat package magically resets Bad Pixel’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
 								"Проверяйте Updates после патчей BattlEye. Ни один чит не гарантирует постоянный undetected статус.",
 							],
 						},
@@ -10331,11 +10331,11 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/deadside-cheats/",
 					sections: [
 						{
-							h2: "Why deadside cheats buyers choose Deadside Cheats in 2026",
+							h2: "Почему покупатели выбирают Deadside Cheats в 2026",
 							paragraphs: [
 								"Deadside Cheats объединяет ESP wallhack, radar hack и Deadside Aimbot в undetected пакете для Deadside на Windows PC. чеклист deadside cheats 2026 перед checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">Гайд undetected читов</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href=\"/pricing/\">Магазин</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover survival and PvP raids match loops — see <a href=\"/pricing/\">Магазин</a>.",
 							],
 						},
 						{
@@ -10347,7 +10347,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Before you buy in 2026",
+							h2: "Vor dem Kauf in 2026",
 							paragraphs: [
 								"Read the <a href=\"/deadside-cheats/\">Обзор Deadside Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
 								"Also compare the <a href=\"/deadside-cheats/\">Обзор Deadside Cheats</a> checklist, <a href=\"/blog/deadside-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
@@ -10355,9 +10355,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Episode 10+ and ranked meta in 2026",
+							h2: "Episode 10+ and competitive raids meta in 2026",
 							paragraphs: [
-								"2026 ranked play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot и soft aim</a> and ESP toggles.",
+								"2026 competitive raids play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot и soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Полный продукт</a> criteria and <a href=\"/undetected-deadside-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/deadside-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/deadside-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
@@ -10880,7 +10880,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				images: {
 					hero: "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
-					espWallhack: "Wallhack outlines showing agents through walls",
+					espWallhack: "Wallhack outlines showing players through walls",
 					aimbotCombat: "Soft aim assist overlay during a Deadside match",
 					squadFight: "Deadside Cheats combat overlay during a team fight",
 					playerEsp: "Player ESP boxes and distance readouts in a Deadside match",
@@ -10888,7 +10888,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Deadside",
 					raidFight: "Aimbot assist during a Deadside tactical combat",
 					battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for hero skills and POIs in Deadside",
+					raidMap: "ESP markers for loot and player markers and POIs in Deadside",
 				},
 			},
 			pages: {
@@ -10907,7 +10907,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "2026'da neden Deadside Cheats",
 							paragraphs: [
-								"Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, radar hack ve Deadside Aimbot undetected paket sunar. BR ve Quick Match sessions'da düşman squad okumak için ideal.",
+								"Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, radar hack ve Deadside Aimbot undetected paket sunar. BR ve PvP raid sessions'da düşman squad okumak için ideal.",
 								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 							],
 						},
@@ -11346,7 +11346,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/deadside-cheats/",
 					sections: [
 						{
-							h2: "What undetected means for Deadside Cheats",
+							h2: "Deadside Cheats için undetected ne anlama gelir",
 							paragraphs: [
 								"Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, radar hack ve Deadside Aimbot undetected paket sunar. BattlEye yamalarından sonra undetected bakım",
 								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
@@ -11370,9 +11370,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "How to verify undetected status before you queue",
+							h2: "How to verify undetected status before you deploy",
 							paragraphs: [
-								"Step one: open <a href=\"/updates/\">Undetected hile rehberi</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">BattlEye bakımı</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for ranked.",
+								"Step one: open <a href=\"/updates/\">Undetected hile rehberi</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">BattlEye bakımı</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
 								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/deadside-battleye-bypass/\">battleye bypass</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a>.",
 							],
@@ -11412,7 +11412,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"ESP wallhack modules rebuild after BattlEye patches. Follow the <a href=\"/updates/\">Undetected hile rehberi</a> and complete checkout for instant license delivery on Windows PC.",
 								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and <a href=\"/battleye-bypass/\">BattlEye bakımı</a>.",
-								"Ready to buy? Compare <a href=\"/pricing/\">Mağaza</a> or continue to the <a href=\"/deadside-esp/\">ESP ve wallhack rehberi</a> landing for alternate search wording.",
+								"Compare <a href=\"/pricing/\">Mağaza</a> or continue to the <a href=\"/deadside-esp/\">ESP ve wallhack rehberi</a> landing page.",
 							],
 						},
 					],
@@ -11492,10 +11492,10 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "HWID bans, spoofers, and what we do not sell",
+							h2: "HWID yasakları, spoofer'lar ve satmadıklarımız",
 							paragraphs: [
 								"Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, radar hack ve Deadside Aimbot undetected paket sunar. Deadside cheats için BattlEye güncellemelerinin nasıl yönetildiği",
-								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
+								"If you have a prior HWID ban, no cheat package magically resets Bad Pixel’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
 								"BattlEye yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı undetected garantisi vermez.",
 							],
 						},
@@ -11522,11 +11522,11 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/deadside-cheats/",
 					sections: [
 						{
-							h2: "Why deadside cheats buyers choose Deadside Cheats in 2026",
+							h2: "Alıcılar 2026'da neden Deadside Cheats seçiyor",
 							paragraphs: [
 								"Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, radar hack ve Deadside Aimbot undetected paket sunar. checkout öncesi 2026 deadside cheats kontrol listesi",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">Undetected hile rehberi</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href=\"/pricing/\">Mağaza</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover survival and PvP raids match loops — see <a href=\"/pricing/\">Mağaza</a>.",
 							],
 						},
 						{
@@ -11538,7 +11538,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Before you buy in 2026",
+							h2: "Vor dem Kauf in 2026",
 							paragraphs: [
 								"Read the <a href=\"/deadside-cheats/\">Deadside Cheats genel bakış</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
 								"Also compare the <a href=\"/deadside-cheats/\">Deadside Cheats genel bakış</a> checklist, <a href=\"/blog/deadside-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">SSS</a>.",
@@ -11546,9 +11546,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Episode 10+ and ranked meta in 2026",
+							h2: "Episode 10+ and competitive raids meta in 2026",
 							paragraphs: [
-								"2026 ranked play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot ve soft aim</a> and ESP toggles.",
+								"2026 competitive raids play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot ve soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Tam ürün</a> criteria and <a href=\"/undetected-deadside-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/deadside-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/deadside-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
@@ -12071,7 +12071,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				images: {
 					hero: "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
-					espWallhack: "Wallhack outlines showing agents through walls",
+					espWallhack: "Wallhack outlines showing players through walls",
 					aimbotCombat: "Soft aim assist overlay during a Deadside match",
 					squadFight: "Deadside Cheats combat overlay during a team fight",
 					playerEsp: "Player ESP boxes and distance readouts in a Deadside match",
@@ -12079,7 +12079,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Deadside",
 					raidFight: "Aimbot assist during a Deadside tactical combat",
 					battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for hero skills and POIs in Deadside",
+					raidMap: "ESP markers for loot and player markers and POIs in Deadside",
 				},
 			},
 			pages: {
@@ -12098,7 +12098,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "لماذا Deadside Cheats في 2026",
 							paragraphs: [
-								"Deadside Cheats يجمع ESP wallhack وradar hack وDeadside Aimbot غير مكتشف لـ Deadside على Windows PC. مثالي لقراءة فرق العدو في BR وQuick Match sessions.",
+								"Deadside Cheats يجمع ESP wallhack وradar hack وDeadside Aimbot غير مكتشف لـ Deadside على Windows PC. مثالي لقراءة فرق العدو في BR وPvP raid sessions.",
 								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 							],
 						},
@@ -12537,7 +12537,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/deadside-cheats/",
 					sections: [
 						{
-							h2: "What undetected means for Deadside Cheats",
+							h2: "ماذا يعني غير المكتشف لـ Deadside Cheats",
 							paragraphs: [
 								"Deadside Cheats يجمع ESP wallhack وradar hack وDeadside Aimbot غير مكتشف لـ Deadside على Windows PC. صيانة undetected بعد patch BattlEye",
 								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
@@ -12561,9 +12561,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "How to verify undetected status before you queue",
+							h2: "How to verify undetected status before you deploy",
 							paragraphs: [
-								"Step one: open <a href=\"/updates/\">دليل الغش غير المكتشف</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">صيانة BattlEye</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for ranked.",
+								"Step one: open <a href=\"/updates/\">دليل الغش غير المكتشف</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">صيانة BattlEye</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
 								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/deadside-battleye-bypass/\">battleye bypass</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a>.",
 							],
@@ -12603,7 +12603,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"ESP wallhack modules rebuild after BattlEye patches. Follow the <a href=\"/updates/\">دليل الغش غير المكتشف</a> and complete checkout for instant license delivery on Windows PC.",
 								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and <a href=\"/battleye-bypass/\">صيانة BattlEye</a>.",
-								"Ready to buy? Compare <a href=\"/pricing/\">المتجر</a> or continue to the <a href=\"/deadside-esp/\">دليل ESP وWallhack</a> landing for alternate search wording.",
+								"Compare <a href=\"/pricing/\">المتجر</a> or continue to the <a href=\"/deadside-esp/\">دليل ESP وWallhack</a> landing page.",
 							],
 						},
 					],
@@ -12683,10 +12683,10 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "HWID bans, spoofers, and what we do not sell",
+							h2: "حظر HWID والمُزيّفون وما لا نبيعه",
 							paragraphs: [
 								"Deadside Cheats يجمع ESP wallhack وradar hack وDeadside Aimbot غير مكتشف لـ Deadside على Windows PC. كيف تُدار تحديثات BattlEye لـ Deadside cheats",
-								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
+								"If you have a prior HWID ban, no cheat package magically resets Bad Pixel’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
 								"راجع Updates بعد تص patches BattlEye. لا يضمن أي غش حالة undetected دائمة.",
 							],
 						},
@@ -12713,11 +12713,11 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/deadside-cheats/",
 					sections: [
 						{
-							h2: "Why deadside cheats buyers choose Deadside Cheats in 2026",
+							h2: "لماذا يختار المشترون Deadside Cheats في 2026",
 							paragraphs: [
 								"Deadside Cheats يجمع ESP wallhack وradar hack وDeadside Aimbot غير مكتشف لـ Deadside على Windows PC. قائمة deadside cheats 2026 قبل checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">دليل الغش غير المكتشف</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href=\"/pricing/\">المتجر</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover survival and PvP raids match loops — see <a href=\"/pricing/\">المتجر</a>.",
 							],
 						},
 						{
@@ -12729,7 +12729,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Before you buy in 2026",
+							h2: "Antes de comprar in 2026",
 							paragraphs: [
 								"Read the <a href=\"/deadside-cheats/\">نظرة عامة على Deadside Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
 								"Also compare the <a href=\"/deadside-cheats/\">نظرة عامة على Deadside Cheats</a> checklist, <a href=\"/blog/deadside-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">الأسئلة الشائعة</a>.",
@@ -12737,9 +12737,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Episode 10+ and ranked meta in 2026",
+							h2: "Episode 10+ and competitive raids meta in 2026",
 							paragraphs: [
-								"2026 ranked play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot وSoft aim</a> and ESP toggles.",
+								"2026 competitive raids play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot وSoft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">المنتج الكامل</a> criteria and <a href=\"/undetected-deadside-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/deadside-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/deadside-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
@@ -13262,7 +13262,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				images: {
 					hero: "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
-					espWallhack: "Wallhack outlines showing agents through walls",
+					espWallhack: "Wallhack outlines showing players through walls",
 					aimbotCombat: "Soft aim assist overlay during a Deadside match",
 					squadFight: "Deadside Cheats combat overlay during a team fight",
 					playerEsp: "Player ESP boxes and distance readouts in a Deadside match",
@@ -13270,7 +13270,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Deadside",
 					raidFight: "Aimbot assist during a Deadside tactical combat",
 					battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for hero skills and POIs in Deadside",
+					raidMap: "ESP markers for loot and player markers and POIs in Deadside",
 				},
 			},
 			pages: {
@@ -13289,7 +13289,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "2026年にDeadside Cheatsを選ぶ理由",
 							paragraphs: [
-								"Deadside CheatsはDeadside向けWindows PC用ESP wallhack、radar hack、Deadside Aimbotのundetectedパッケージです。BRとQuick Match sessionsで敵スクワッドを読むのに最適。",
+								"Deadside CheatsはDeadside向けWindows PC用ESP wallhack、radar hack、Deadside Aimbotのundetectedパッケージです。BRとPvP raid sessionsで敵スクワッドを読むのに最適。",
 								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 							],
 						},
@@ -13728,7 +13728,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/deadside-cheats/",
 					sections: [
 						{
-							h2: "What undetected means for Deadside Cheats",
+							h2: "Deadside Cheatsにおけるundetectedの意味",
 							paragraphs: [
 								"Deadside CheatsはDeadside向けWindows PC用ESP wallhack、radar hack、Deadside Aimbotのundetectedパッケージです。BattlEyeパッチ後のundetectedメンテナンス",
 								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
@@ -13752,9 +13752,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "How to verify undetected status before you queue",
+							h2: "How to verify undetected status before you deploy",
 							paragraphs: [
-								"Step one: open <a href=\"/updates/\">Undetectedチートガイド</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">BattlEyeメンテナンス</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for ranked.",
+								"Step one: open <a href=\"/updates/\">Undetectedチートガイド</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">BattlEyeメンテナンス</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
 								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/deadside-battleye-bypass/\">battleye bypass</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a>.",
 							],
@@ -13794,7 +13794,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"ESP wallhack modules rebuild after BattlEye patches. Follow the <a href=\"/updates/\">Undetectedチートガイド</a> and complete checkout for instant license delivery on Windows PC.",
 								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and <a href=\"/battleye-bypass/\">BattlEyeメンテナンス</a>.",
-								"Ready to buy? Compare <a href=\"/pricing/\">ストア</a> or continue to the <a href=\"/deadside-esp/\">ESP・Wallhackガイド</a> landing for alternate search wording.",
+								"Compare <a href=\"/pricing/\">ストア</a> or continue to the <a href=\"/deadside-esp/\">ESP・Wallhackガイド</a> landing page.",
 							],
 						},
 					],
@@ -13874,10 +13874,10 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "HWID bans, spoofers, and what we do not sell",
+							h2: "HWID BAN、スプーファー、販売しないもの",
 							paragraphs: [
 								"Deadside CheatsはDeadside向けWindows PC用ESP wallhack、radar hack、Deadside Aimbotのundetectedパッケージです。Deadside cheats向けBattlEye更新の対応方法",
-								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
+								"If you have a prior HWID ban, no cheat package magically resets Bad Pixel’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
 								"BattlEyeパッチ後はUpdatesページを確認。永久undetectedは保証されません。",
 							],
 						},
@@ -13904,11 +13904,11 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/deadside-cheats/",
 					sections: [
 						{
-							h2: "Why deadside cheats buyers choose Deadside Cheats in 2026",
+							h2: "2026年にDeadside Cheatsが選ばれる理由",
 							paragraphs: [
 								"Deadside CheatsはDeadside向けWindows PC用ESP wallhack、radar hack、Deadside Aimbotのundetectedパッケージです。checkout前の2026 deadside cheatsチェックリスト",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">Undetectedチートガイド</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href=\"/pricing/\">ストア</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover survival and PvP raids match loops — see <a href=\"/pricing/\">ストア</a>.",
 							],
 						},
 						{
@@ -13928,9 +13928,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Episode 10+ and ranked meta in 2026",
+							h2: "Episode 10+ and competitive raids meta in 2026",
 							paragraphs: [
-								"2026 ranked play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot・Soft aim</a> and ESP toggles.",
+								"2026 competitive raids play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot・Soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">製品全体</a> criteria and <a href=\"/undetected-deadside-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/deadside-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/deadside-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
@@ -14453,7 +14453,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				images: {
 					hero: "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
-					espWallhack: "Wallhack outlines showing agents through walls",
+					espWallhack: "Wallhack outlines showing players through walls",
 					aimbotCombat: "Soft aim assist overlay during a Deadside match",
 					squadFight: "Deadside Cheats combat overlay during a team fight",
 					playerEsp: "Player ESP boxes and distance readouts in a Deadside match",
@@ -14461,7 +14461,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Deadside",
 					raidFight: "Aimbot assist during a Deadside tactical combat",
 					battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for hero skills and POIs in Deadside",
+					raidMap: "ESP markers for loot and player markers and POIs in Deadside",
 				},
 			},
 			pages: {
@@ -14480,7 +14480,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "2026년 Deadside Cheats를 선택하는 이유",
 							paragraphs: [
-								"Deadside Cheats는 Deadside Windows PC용 ESP wallhack, radar hack, Deadside Aimbot undetected 패키지입니다. BR 및 Quick Match sessions에서 적 분대 읽기에 이상적.",
+								"Deadside Cheats는 Deadside Windows PC용 ESP wallhack, radar hack, Deadside Aimbot undetected 패키지입니다. BR 및 PvP raid sessions에서 적 분대 읽기에 이상적.",
 								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 							],
 						},
@@ -14919,7 +14919,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/deadside-cheats/",
 					sections: [
 						{
-							h2: "What undetected means for Deadside Cheats",
+							h2: "Deadside Cheats에서 undetected의 의미",
 							paragraphs: [
 								"Deadside Cheats는 Deadside Windows PC용 ESP wallhack, radar hack, Deadside Aimbot undetected 패키지입니다. BattlEye 패치 후 undetected 유지보수",
 								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
@@ -14943,9 +14943,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "How to verify undetected status before you queue",
+							h2: "How to verify undetected status before you deploy",
 							paragraphs: [
-								"Step one: open <a href=\"/updates/\">Undetected 치트 가이드</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">BattlEye 유지보수</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for ranked.",
+								"Step one: open <a href=\"/updates/\">Undetected 치트 가이드</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">BattlEye 유지보수</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
 								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/deadside-battleye-bypass/\">battleye bypass</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a>.",
 							],
@@ -14985,7 +14985,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"ESP wallhack modules rebuild after BattlEye patches. Follow the <a href=\"/updates/\">Undetected 치트 가이드</a> and complete checkout for instant license delivery on Windows PC.",
 								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and <a href=\"/battleye-bypass/\">BattlEye 유지보수</a>.",
-								"Ready to buy? Compare <a href=\"/pricing/\">스토어</a> or continue to the <a href=\"/deadside-esp/\">ESP 및 wallhack 가이드</a> landing for alternate search wording.",
+								"Compare <a href=\"/pricing/\">스토어</a> or continue to the <a href=\"/deadside-esp/\">ESP 및 wallhack 가이드</a> landing page.",
 							],
 						},
 					],
@@ -15065,10 +15065,10 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "HWID bans, spoofers, and what we do not sell",
+							h2: "HWID 밴, 스푸퍼 및 판매하지 않는 항목",
 							paragraphs: [
 								"Deadside Cheats는 Deadside Windows PC용 ESP wallhack, radar hack, Deadside Aimbot undetected 패키지입니다. Deadside cheats용 BattlEye 업데이트 처리 방법",
-								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
+								"If you have a prior HWID ban, no cheat package magically resets Bad Pixel’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
 								"BattlEye 패치 후 Updates 페이지 확인. 영구 undetected 보장 없음.",
 							],
 						},
@@ -15095,11 +15095,11 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/deadside-cheats/",
 					sections: [
 						{
-							h2: "Why deadside cheats buyers choose Deadside Cheats in 2026",
+							h2: "2026년에 Deadside Cheats를 선택하는 이유",
 							paragraphs: [
 								"Deadside Cheats는 Deadside Windows PC용 ESP wallhack, radar hack, Deadside Aimbot undetected 패키지입니다. checkout 전 2026 deadside cheats 체크리스트",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">Undetected 치트 가이드</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href=\"/pricing/\">스토어</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover survival and PvP raids match loops — see <a href=\"/pricing/\">스토어</a>.",
 							],
 						},
 						{
@@ -15119,9 +15119,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Episode 10+ and ranked meta in 2026",
+							h2: "Episode 10+ and competitive raids meta in 2026",
 							paragraphs: [
-								"2026 ranked play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot 및 soft aim</a> and ESP toggles.",
+								"2026 competitive raids play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot 및 soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">전체 제품</a> criteria and <a href=\"/undetected-deadside-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/deadside-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/deadside-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
@@ -15644,7 +15644,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				images: {
 					hero: "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
-					espWallhack: "Wallhack outlines showing agents through walls",
+					espWallhack: "Wallhack outlines showing players through walls",
 					aimbotCombat: "Soft aim assist overlay during a Deadside match",
 					squadFight: "Deadside Cheats combat overlay during a team fight",
 					playerEsp: "Player ESP boxes and distance readouts in a Deadside match",
@@ -15652,7 +15652,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Deadside",
 					raidFight: "Aimbot assist during a Deadside tactical combat",
 					battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for hero skills and POIs in Deadside",
+					raidMap: "ESP markers for loot and player markers and POIs in Deadside",
 				},
 			},
 			pages: {
@@ -15671,7 +15671,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "2026年选择Deadside Cheats的原因",
 							paragraphs: [
-								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、radar hack和Deadside Aimbotundetected套餐。适合在BR和Quick Match sessions中读取敌方小队。",
+								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、radar hack和Deadside Aimbotundetected套餐。适合在BR和PvP raid sessions中读取敌方小队。",
 								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 							],
 						},
@@ -16110,7 +16110,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/deadside-cheats/",
 					sections: [
 						{
-							h2: "What undetected means for Deadside Cheats",
+							h2: "Deadside Cheats中undetected的含义",
 							paragraphs: [
 								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、radar hack和Deadside Aimbotundetected套餐。BattlEye补丁后的undetected维护",
 								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
@@ -16134,9 +16134,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "How to verify undetected status before you queue",
+							h2: "How to verify undetected status before you deploy",
 							paragraphs: [
-								"Step one: open <a href=\"/updates/\">Undetected作弊指南</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">BattlEye维护</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for ranked.",
+								"Step one: open <a href=\"/updates/\">Undetected作弊指南</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">BattlEye维护</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
 								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/deadside-battleye-bypass/\">battleye bypass</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a>.",
 							],
@@ -16176,7 +16176,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"ESP wallhack modules rebuild after BattlEye patches. Follow the <a href=\"/updates/\">Undetected作弊指南</a> and complete checkout for instant license delivery on Windows PC.",
 								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and <a href=\"/battleye-bypass/\">BattlEye维护</a>.",
-								"Ready to buy? Compare <a href=\"/pricing/\">商店</a> or continue to the <a href=\"/deadside-esp/\">ESP和透视指南</a> landing for alternate search wording.",
+								"Compare <a href=\"/pricing/\">商店</a> or continue to the <a href=\"/deadside-esp/\">ESP和透视指南</a> landing page.",
 							],
 						},
 					],
@@ -16256,10 +16256,10 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "HWID bans, spoofers, and what we do not sell",
+							h2: "HWID封禁、欺骗器与我们不出售的内容",
 							paragraphs: [
 								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、radar hack和Deadside Aimbotundetected套餐。Deadside cheats的BattlEye更新处理方式",
-								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
+								"If you have a prior HWID ban, no cheat package magically resets Bad Pixel’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
 								"BattlEye补丁后请查看Updates页面。无任何作弊保证永久undetected。",
 							],
 						},
@@ -16286,11 +16286,11 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/deadside-cheats/",
 					sections: [
 						{
-							h2: "Why deadside cheats buyers choose Deadside Cheats in 2026",
+							h2: "2026年买家选择Deadside Cheats的原因",
 							paragraphs: [
 								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、radar hack和Deadside Aimbotundetected套餐。checkout前的2026 deadside cheats清单",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">Undetected作弊指南</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href=\"/pricing/\">商店</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover survival and PvP raids match loops — see <a href=\"/pricing/\">商店</a>.",
 							],
 						},
 						{
@@ -16310,9 +16310,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Episode 10+ and ranked meta in 2026",
+							h2: "Episode 10+ and competitive raids meta in 2026",
 							paragraphs: [
-								"2026 ranked play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">自瞄和软瞄准</a> and ESP toggles.",
+								"2026 competitive raids play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">自瞄和软瞄准</a> and ESP toggles.",
 								"Compare against <a href=\"/\">完整产品</a> criteria and <a href=\"/undetected-deadside-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/deadside-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/deadside-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
@@ -16835,7 +16835,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				images: {
 					hero: "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
-					espWallhack: "Wallhack outlines showing agents through walls",
+					espWallhack: "Wallhack outlines showing players through walls",
 					aimbotCombat: "Soft aim assist overlay during a Deadside match",
 					squadFight: "Deadside Cheats combat overlay during a team fight",
 					playerEsp: "Player ESP boxes and distance readouts in a Deadside match",
@@ -16843,7 +16843,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Deadside",
 					raidFight: "Aimbot assist during a Deadside tactical combat",
 					battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for hero skills and POIs in Deadside",
+					raidMap: "ESP markers for loot and player markers and POIs in Deadside",
 				},
 			},
 			pages: {
@@ -16862,7 +16862,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "2026 में Deadside Cheats क्यों",
 							paragraphs: [
-								"Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, radar hack और Deadside Aimbot undetected पैकेज देता है। BR और Quick Match sessions में दुश्मन squad पढ़ने के लिए आदर्श.",
+								"Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, radar hack और Deadside Aimbot undetected पैकेज देता है। BR और PvP raid sessions में दुश्मन squad पढ़ने के लिए आदर्श.",
 								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 							],
 						},
@@ -17301,7 +17301,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/deadside-cheats/",
 					sections: [
 						{
-							h2: "What undetected means for Deadside Cheats",
+							h2: "Deadside Cheats के लिए undetected का मतलब",
 							paragraphs: [
 								"Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, radar hack और Deadside Aimbot undetected पैकेज देता है। BattlEye patches के बाद undetected maintenance",
 								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
@@ -17325,9 +17325,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "How to verify undetected status before you queue",
+							h2: "How to verify undetected status before you deploy",
 							paragraphs: [
-								"Step one: open <a href=\"/updates/\">Undetected cheats गाइड</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">BattlEye रखरखाव</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for ranked.",
+								"Step one: open <a href=\"/updates/\">Undetected cheats गाइड</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">BattlEye रखरखाव</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
 								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/deadside-battleye-bypass/\">battleye bypass</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a>.",
 							],
@@ -17367,7 +17367,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"ESP wallhack modules rebuild after BattlEye patches. Follow the <a href=\"/updates/\">Undetected cheats गाइड</a> and complete checkout for instant license delivery on Windows PC.",
 								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and <a href=\"/battleye-bypass/\">BattlEye रखरखाव</a>.",
-								"Ready to buy? Compare <a href=\"/pricing/\">स्टोर</a> or continue to the <a href=\"/deadside-esp/\">ESP और wallhack गाइड</a> landing for alternate search wording.",
+								"Compare <a href=\"/pricing/\">स्टोर</a> or continue to the <a href=\"/deadside-esp/\">ESP और wallhack गाइड</a> landing page.",
 							],
 						},
 					],
@@ -17447,10 +17447,10 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "HWID bans, spoofers, and what we do not sell",
+							h2: "HWID प्रतिबंध, स्पूफ़र और जो हम नहीं बेचते",
 							paragraphs: [
 								"Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, radar hack और Deadside Aimbot undetected पैकेज देता है। Deadside cheats के लिए BattlEye updates कैसे handle होते हैं",
-								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
+								"If you have a prior HWID ban, no cheat package magically resets Bad Pixel’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
 								"BattlEye पैच के बाद Updates पेज देखें। कोई भी cheat permanent undetected गारंटी नहीं देता।",
 							],
 						},
@@ -17477,11 +17477,11 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/deadside-cheats/",
 					sections: [
 						{
-							h2: "Why deadside cheats buyers choose Deadside Cheats in 2026",
+							h2: "2026 में खरीदार Deadside Cheats क्यों चुनते हैं",
 							paragraphs: [
 								"Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, radar hack और Deadside Aimbot undetected पैकेज देता है। checkout से पहले 2026 deadside cheats checklist",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">Undetected cheats गाइड</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href=\"/pricing/\">स्टोर</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover survival and PvP raids match loops — see <a href=\"/pricing/\">स्टोर</a>.",
 							],
 						},
 						{
@@ -17501,9 +17501,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Episode 10+ and ranked meta in 2026",
+							h2: "Episode 10+ and competitive raids meta in 2026",
 							paragraphs: [
-								"2026 ranked play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot और soft aim</a> and ESP toggles.",
+								"2026 competitive raids play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot और soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">पूरा उत्पाद</a> criteria and <a href=\"/undetected-deadside-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/deadside-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/deadside-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
@@ -18026,7 +18026,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				images: {
 					hero: "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
-					espWallhack: "Wallhack outlines showing agents through walls",
+					espWallhack: "Wallhack outlines showing players through walls",
 					aimbotCombat: "Soft aim assist overlay during a Deadside match",
 					squadFight: "Deadside Cheats combat overlay during a team fight",
 					playerEsp: "Player ESP boxes and distance readouts in a Deadside match",
@@ -18034,7 +18034,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Deadside",
 					raidFight: "Aimbot assist during a Deadside tactical combat",
 					battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for hero skills and POIs in Deadside",
+					raidMap: "ESP markers for loot and player markers and POIs in Deadside",
 				},
 			},
 			pages: {
@@ -18053,7 +18053,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Mengapa Deadside Cheats di 2026",
 							paragraphs: [
-								"Deadside Cheats menyediakan ESP wallhack, radar hack, dan Deadside Aimbot undetected untuk Deadside di PC Windows. Ideal membaca squad musuh di BR dan Quick Match sessions.",
+								"Deadside Cheats menyediakan ESP wallhack, radar hack, dan Deadside Aimbot undetected untuk Deadside di PC Windows. Ideal membaca squad musuh di BR dan PvP raid sessions.",
 								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 							],
 						},
@@ -18492,7 +18492,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/deadside-cheats/",
 					sections: [
 						{
-							h2: "What undetected means for Deadside Cheats",
+							h2: "Apa arti undetected untuk Deadside Cheats",
 							paragraphs: [
 								"Deadside Cheats menyediakan ESP wallhack, radar hack, dan Deadside Aimbot undetected untuk Deadside di PC Windows. pemeliharaan undetected setelah patch BattlEye",
 								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
@@ -18516,9 +18516,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "How to verify undetected status before you queue",
+							h2: "How to verify undetected status before you deploy",
 							paragraphs: [
-								"Step one: open <a href=\"/updates/\">Panduan cheat undetected</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">Pemeliharaan BattlEye</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for ranked.",
+								"Step one: open <a href=\"/updates/\">Panduan cheat undetected</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">Pemeliharaan BattlEye</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
 								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/deadside-battleye-bypass/\">battleye bypass</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a>.",
 							],
@@ -18558,7 +18558,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"ESP wallhack modules rebuild after BattlEye patches. Follow the <a href=\"/updates/\">Panduan cheat undetected</a> and complete checkout for instant license delivery on Windows PC.",
 								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and <a href=\"/battleye-bypass/\">Pemeliharaan BattlEye</a>.",
-								"Ready to buy? Compare <a href=\"/pricing/\">Toko</a> or continue to the <a href=\"/deadside-esp/\">Panduan ESP & wallhack</a> landing for alternate search wording.",
+								"Compare <a href=\"/pricing/\">Toko</a> or continue to the <a href=\"/deadside-esp/\">Panduan ESP & wallhack</a> landing page.",
 							],
 						},
 					],
@@ -18638,10 +18638,10 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "HWID bans, spoofers, and what we do not sell",
+							h2: "Ban HWID, spoofer, dan yang tidak kami jual",
 							paragraphs: [
 								"Deadside Cheats menyediakan ESP wallhack, radar hack, dan Deadside Aimbot undetected untuk Deadside di PC Windows. cara pembaruan BattlEye ditangani untuk Deadside cheats",
-								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
+								"If you have a prior HWID ban, no cheat package magically resets Bad Pixel’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
 								"Periksa Updates setelah patch BattlEye. Tidak ada cheat yang menjamin undetected permanen.",
 							],
 						},
@@ -18668,11 +18668,11 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/deadside-cheats/",
 					sections: [
 						{
-							h2: "Why deadside cheats buyers choose Deadside Cheats in 2026",
+							h2: "Mengapa pembeli memilih Deadside Cheats di 2026",
 							paragraphs: [
 								"Deadside Cheats menyediakan ESP wallhack, radar hack, dan Deadside Aimbot undetected untuk Deadside di PC Windows. checklist deadside cheats 2026 sebelum checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">Panduan cheat undetected</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href=\"/pricing/\">Toko</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover survival and PvP raids match loops — see <a href=\"/pricing/\">Toko</a>.",
 							],
 						},
 						{
@@ -18692,9 +18692,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Episode 10+ and ranked meta in 2026",
+							h2: "Episode 10+ and competitive raids meta in 2026",
 							paragraphs: [
-								"2026 ranked play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot & soft aim</a> and ESP toggles.",
+								"2026 competitive raids play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot & soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Produk lengkap</a> criteria and <a href=\"/undetected-deadside-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/deadside-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/deadside-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
@@ -19217,7 +19217,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				images: {
 					hero: "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
-					espWallhack: "Wallhack outlines showing agents through walls",
+					espWallhack: "Wallhack outlines showing players through walls",
 					aimbotCombat: "Soft aim assist overlay during a Deadside match",
 					squadFight: "Deadside Cheats combat overlay during a team fight",
 					playerEsp: "Player ESP boxes and distance readouts in a Deadside match",
@@ -19225,7 +19225,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Deadside",
 					raidFight: "Aimbot assist during a Deadside tactical combat",
 					battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for hero skills and POIs in Deadside",
+					raidMap: "ESP markers for loot and player markers and POIs in Deadside",
 				},
 			},
 			pages: {
@@ -19244,7 +19244,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "ทำไมเลือก Deadside Cheats ปี 2026",
 							paragraphs: [
-								"Deadside Cheats รวม ESP wallhack, radar hack และ Deadside Aimbot แบบ undetected สำหรับ Deadside บน Windows PC เหมาะสำหรับอ่าน squad ศัตรูใน BR และ Quick Match sessions",
+								"Deadside Cheats รวม ESP wallhack, radar hack และ Deadside Aimbot แบบ undetected สำหรับ Deadside บน Windows PC เหมาะสำหรับอ่าน squad ศัตรูใน BR และ PvP raid sessions",
 								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 							],
 						},
@@ -19683,7 +19683,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/deadside-cheats/",
 					sections: [
 						{
-							h2: "What undetected means for Deadside Cheats",
+							h2: "undetected หมายถึงอะไรสำหรับ Deadside Cheats",
 							paragraphs: [
 								"Deadside Cheats รวม ESP wallhack, radar hack และ Deadside Aimbot แบบ undetected สำหรับ Deadside บน Windows PC การบำรุงรักษา undetected หลัง patch BattlEye",
 								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
@@ -19707,9 +19707,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "How to verify undetected status before you queue",
+							h2: "How to verify undetected status before you deploy",
 							paragraphs: [
-								"Step one: open <a href=\"/updates/\">คู่มือ cheat undetected</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">การดูแล BattlEye</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for ranked.",
+								"Step one: open <a href=\"/updates/\">คู่มือ cheat undetected</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">การดูแล BattlEye</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
 								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/deadside-battleye-bypass/\">battleye bypass</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a>.",
 							],
@@ -19749,7 +19749,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"ESP wallhack modules rebuild after BattlEye patches. Follow the <a href=\"/updates/\">คู่มือ cheat undetected</a> and complete checkout for instant license delivery on Windows PC.",
 								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and <a href=\"/battleye-bypass/\">การดูแล BattlEye</a>.",
-								"Ready to buy? Compare <a href=\"/pricing/\">ร้านค้า</a> or continue to the <a href=\"/deadside-esp/\">คู่มือ ESP และ wallhack</a> landing for alternate search wording.",
+								"Compare <a href=\"/pricing/\">ร้านค้า</a> or continue to the <a href=\"/deadside-esp/\">คู่มือ ESP และ wallhack</a> landing page.",
 							],
 						},
 					],
@@ -19829,10 +19829,10 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "HWID bans, spoofers, and what we do not sell",
+							h2: "แบน HWID, spoofer และสิ่งที่เราไม่ขาย",
 							paragraphs: [
 								"Deadside Cheats รวม ESP wallhack, radar hack และ Deadside Aimbot แบบ undetected สำหรับ Deadside บน Windows PC วิธีจัดการอัปเดต BattlEye สำหรับ Deadside cheats",
-								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
+								"If you have a prior HWID ban, no cheat package magically resets Bad Pixel’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
 								"ตรวจ Updates หลังแพตช์ BattlEye ไม่มี cheat รับประกัน undetected ถาวร",
 							],
 						},
@@ -19859,11 +19859,11 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/deadside-cheats/",
 					sections: [
 						{
-							h2: "Why deadside cheats buyers choose Deadside Cheats in 2026",
+							h2: "ทำไมผู้ซื้อเลือก Deadside Cheats ในปี 2026",
 							paragraphs: [
 								"Deadside Cheats รวม ESP wallhack, radar hack และ Deadside Aimbot แบบ undetected สำหรับ Deadside บน Windows PC checklist deadside cheats 2026 ก่อน checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">คู่มือ cheat undetected</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href=\"/pricing/\">ร้านค้า</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover survival and PvP raids match loops — see <a href=\"/pricing/\">ร้านค้า</a>.",
 							],
 						},
 						{
@@ -19883,9 +19883,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Episode 10+ and ranked meta in 2026",
+							h2: "Episode 10+ and competitive raids meta in 2026",
 							paragraphs: [
-								"2026 ranked play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot และ soft aim</a> and ESP toggles.",
+								"2026 competitive raids play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot และ soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">ผลิตภัณฑ์เต็มรูปแบบ</a> criteria and <a href=\"/undetected-deadside-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/deadside-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/deadside-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
@@ -20408,7 +20408,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				images: {
 					hero: "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
-					espWallhack: "Wallhack outlines showing agents through walls",
+					espWallhack: "Wallhack outlines showing players through walls",
 					aimbotCombat: "Soft aim assist overlay during a Deadside match",
 					squadFight: "Deadside Cheats combat overlay during a team fight",
 					playerEsp: "Player ESP boxes and distance readouts in a Deadside match",
@@ -20416,7 +20416,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Deadside",
 					raidFight: "Aimbot assist during a Deadside tactical combat",
 					battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for hero skills and POIs in Deadside",
+					raidMap: "ESP markers for loot and player markers and POIs in Deadside",
 				},
 			},
 			pages: {
@@ -20435,7 +20435,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Vì sao chọn Deadside Cheats 2026",
 							paragraphs: [
-								"Deadside Cheats cung cấp ESP wallhack, radar hack và Deadside Aimbot undetected cho Deadside trên PC Windows. Lý tưởng đọc squad địch trong BR và Quick Match sessions.",
+								"Deadside Cheats cung cấp ESP wallhack, radar hack và Deadside Aimbot undetected cho Deadside trên PC Windows. Lý tưởng đọc squad địch trong BR và PvP raid sessions.",
 								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 							],
 						},
@@ -20874,7 +20874,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/deadside-cheats/",
 					sections: [
 						{
-							h2: "What undetected means for Deadside Cheats",
+							h2: "Undetected có nghĩa gì với Deadside Cheats",
 							paragraphs: [
 								"Deadside Cheats cung cấp ESP wallhack, radar hack và Deadside Aimbot undetected cho Deadside trên PC Windows. bảo trì undetected sau patch BattlEye",
 								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
@@ -20898,9 +20898,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "How to verify undetected status before you queue",
+							h2: "How to verify undetected status before you deploy",
 							paragraphs: [
-								"Step one: open <a href=\"/updates/\">Hướng dẫn cheat undetected</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">Bảo trì BattlEye</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for ranked.",
+								"Step one: open <a href=\"/updates/\">Hướng dẫn cheat undetected</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">Bảo trì BattlEye</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
 								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/deadside-battleye-bypass/\">battleye bypass</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a>.",
 							],
@@ -20940,7 +20940,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"ESP wallhack modules rebuild after BattlEye patches. Follow the <a href=\"/updates/\">Hướng dẫn cheat undetected</a> and complete checkout for instant license delivery on Windows PC.",
 								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and <a href=\"/battleye-bypass/\">Bảo trì BattlEye</a>.",
-								"Ready to buy? Compare <a href=\"/pricing/\">Cửa hàng</a> or continue to the <a href=\"/deadside-esp/\">Hướng dẫn ESP & wallhack</a> landing for alternate search wording.",
+								"Compare <a href=\"/pricing/\">Cửa hàng</a> or continue to the <a href=\"/deadside-esp/\">Hướng dẫn ESP & wallhack</a> landing page.",
 							],
 						},
 					],
@@ -21020,10 +21020,10 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "HWID bans, spoofers, and what we do not sell",
+							h2: "Cấm HWID, spoofer và những gì chúng tôi không bán",
 							paragraphs: [
 								"Deadside Cheats cung cấp ESP wallhack, radar hack và Deadside Aimbot undetected cho Deadside trên PC Windows. cách xử lý cập nhật BattlEye cho Deadside cheats",
-								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
+								"If you have a prior HWID ban, no cheat package magically resets Bad Pixel’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
 								"Kiểm tra Updates sau bản vá BattlEye. Không cheat nào đảm bảo undetected vĩnh viễn.",
 							],
 						},
@@ -21050,11 +21050,11 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/deadside-cheats/",
 					sections: [
 						{
-							h2: "Why deadside cheats buyers choose Deadside Cheats in 2026",
+							h2: "Vì sao người mua chọn Deadside Cheats năm 2026",
 							paragraphs: [
 								"Deadside Cheats cung cấp ESP wallhack, radar hack và Deadside Aimbot undetected cho Deadside trên PC Windows. checklist deadside cheats 2026 trước checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">Hướng dẫn cheat undetected</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href=\"/pricing/\">Cửa hàng</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover survival and PvP raids match loops — see <a href=\"/pricing/\">Cửa hàng</a>.",
 							],
 						},
 						{
@@ -21074,9 +21074,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Episode 10+ and ranked meta in 2026",
+							h2: "Episode 10+ and competitive raids meta in 2026",
 							paragraphs: [
-								"2026 ranked play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot & soft aim</a> and ESP toggles.",
+								"2026 competitive raids play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot & soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Sản phẩm đầy đủ</a> criteria and <a href=\"/undetected-deadside-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/deadside-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/deadside-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
@@ -21599,7 +21599,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				images: {
 					hero: "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
-					espWallhack: "Wallhack outlines showing agents through walls",
+					espWallhack: "Wallhack outlines showing players through walls",
 					aimbotCombat: "Soft aim assist overlay during a Deadside match",
 					squadFight: "Deadside Cheats combat overlay during a team fight",
 					playerEsp: "Player ESP boxes and distance readouts in a Deadside match",
@@ -21607,7 +21607,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Deadside",
 					raidFight: "Aimbot assist during a Deadside tactical combat",
 					battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for hero skills and POIs in Deadside",
+					raidMap: "ESP markers for loot and player markers and POIs in Deadside",
 				},
 			},
 			pages: {
@@ -21626,7 +21626,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Чому Deadside Cheats у 2026",
 							paragraphs: [
-								"Deadside Cheats об'єднує ESP wallhack, radar hack і Deadside Aimbot у undetected пакеті для Deadside на Windows PC. Ідеально для читання ворожих загонів у BR і Quick Match sessions.",
+								"Deadside Cheats об'єднує ESP wallhack, radar hack і Deadside Aimbot у undetected пакеті для Deadside на Windows PC. Ідеально для читання ворожих загонів у BR і PvP raid sessions.",
 								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 							],
 						},
@@ -22065,7 +22065,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/deadside-cheats/",
 					sections: [
 						{
-							h2: "What undetected means for Deadside Cheats",
+							h2: "Що означає undetected для Deadside Cheats",
 							paragraphs: [
 								"Deadside Cheats об'єднує ESP wallhack, radar hack і Deadside Aimbot у undetected пакеті для Deadside на Windows PC. undetected обслуговування після патчів BattlEye",
 								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
@@ -22089,9 +22089,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "How to verify undetected status before you queue",
+							h2: "How to verify undetected status before you deploy",
 							paragraphs: [
-								"Step one: open <a href=\"/updates/\">Гайд undetected чітів</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">Обслуговування BattlEye</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for ranked.",
+								"Step one: open <a href=\"/updates/\">Гайд undetected чітів</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">Обслуговування BattlEye</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
 								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/deadside-battleye-bypass/\">battleye bypass</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a>.",
 							],
@@ -22131,7 +22131,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"ESP wallhack modules rebuild after BattlEye patches. Follow the <a href=\"/updates/\">Гайд undetected чітів</a> and complete checkout for instant license delivery on Windows PC.",
 								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and <a href=\"/battleye-bypass/\">Обслуговування BattlEye</a>.",
-								"Ready to buy? Compare <a href=\"/pricing/\">Магазин</a> or continue to the <a href=\"/deadside-esp/\">Гайд ESP і wallhack</a> landing for alternate search wording.",
+								"Compare <a href=\"/pricing/\">Магазин</a> or continue to the <a href=\"/deadside-esp/\">Гайд ESP і wallhack</a> landing page.",
 							],
 						},
 					],
@@ -22211,10 +22211,10 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "HWID bans, spoofers, and what we do not sell",
+							h2: "HWID-бани, спуфери та що ми не продаємо",
 							paragraphs: [
 								"Deadside Cheats об'єднує ESP wallhack, radar hack і Deadside Aimbot у undetected пакеті для Deadside на Windows PC. як обробляються оновлення BattlEye для Deadside cheats",
-								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
+								"If you have a prior HWID ban, no cheat package magically resets Bad Pixel’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
 								"Перевіряйте Updates після патчів BattlEye. Жоден чит не гарантує постійний undetected статус.",
 							],
 						},
@@ -22241,11 +22241,11 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/deadside-cheats/",
 					sections: [
 						{
-							h2: "Why deadside cheats buyers choose Deadside Cheats in 2026",
+							h2: "Чому покупці обирають Deadside Cheats у 2026",
 							paragraphs: [
 								"Deadside Cheats об'єднує ESP wallhack, radar hack і Deadside Aimbot у undetected пакеті для Deadside на Windows PC. чеклист deadside cheats 2026 перед checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">Гайд undetected чітів</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href=\"/pricing/\">Магазин</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover survival and PvP raids match loops — see <a href=\"/pricing/\">Магазин</a>.",
 							],
 						},
 						{
@@ -22265,9 +22265,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Episode 10+ and ranked meta in 2026",
+							h2: "Episode 10+ and competitive raids meta in 2026",
 							paragraphs: [
-								"2026 ranked play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot і soft aim</a> and ESP toggles.",
+								"2026 competitive raids play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot і soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Повний продукт</a> criteria and <a href=\"/undetected-deadside-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/deadside-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/deadside-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
@@ -22790,7 +22790,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				images: {
 					hero: "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
-					espWallhack: "Wallhack outlines showing agents through walls",
+					espWallhack: "Wallhack outlines showing players through walls",
 					aimbotCombat: "Soft aim assist overlay during a Deadside match",
 					squadFight: "Deadside Cheats combat overlay during a team fight",
 					playerEsp: "Player ESP boxes and distance readouts in a Deadside match",
@@ -22798,7 +22798,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Deadside",
 					raidFight: "Aimbot assist during a Deadside tactical combat",
 					battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for hero skills and POIs in Deadside",
+					raidMap: "ESP markers for loot and player markers and POIs in Deadside",
 				},
 			},
 			pages: {
@@ -22817,7 +22817,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Proč Deadside Cheats v roce 2026",
 							paragraphs: [
-								"Deadside Cheats spojuje ESP wallhack, radar hack a Deadside Aimbot jako undetected balíček pro Deadside na Windows PC. Ideální pro čtení nepřátelských squadů v BR a Quick Match sessions.",
+								"Deadside Cheats spojuje ESP wallhack, radar hack a Deadside Aimbot jako undetected balíček pro Deadside na Windows PC. Ideální pro čtení nepřátelských squadů v BR a PvP raid sessions.",
 								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 							],
 						},
@@ -22856,7 +22856,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Kdy použít",
 							paragraphs: [
-								"Přehledné high-traffic POIs a extract routes bez zaplnění obrazovky.",
+								"Přehledné high-traffic compounds a extract routes bez zaplnění obrazovky.",
 								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 							],
 							list: [
@@ -23256,7 +23256,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/deadside-cheats/",
 					sections: [
 						{
-							h2: "What undetected means for Deadside Cheats",
+							h2: "Co znamená undetected pro Deadside Cheats",
 							paragraphs: [
 								"Deadside Cheats spojuje ESP wallhack, radar hack a Deadside Aimbot jako undetected balíček pro Deadside na Windows PC. undetected údržba po patchech BattlEye",
 								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
@@ -23280,9 +23280,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "How to verify undetected status before you queue",
+							h2: "How to verify undetected status before you deploy",
 							paragraphs: [
-								"Step one: open <a href=\"/updates/\">Průvodce undetected cheaty</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">Údržba BattlEye</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for ranked.",
+								"Step one: open <a href=\"/updates/\">Průvodce undetected cheaty</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">Údržba BattlEye</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
 								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/deadside-battleye-bypass/\">battleye bypass</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a>.",
 							],
@@ -23322,7 +23322,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"ESP wallhack modules rebuild after BattlEye patches. Follow the <a href=\"/updates/\">Průvodce undetected cheaty</a> and complete checkout for instant license delivery on Windows PC.",
 								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and <a href=\"/battleye-bypass/\">Údržba BattlEye</a>.",
-								"Ready to buy? Compare <a href=\"/pricing/\">Obchod</a> or continue to the <a href=\"/deadside-esp/\">Průvodce ESP a wallhack</a> landing for alternate search wording.",
+								"Compare <a href=\"/pricing/\">Obchod</a> or continue to the <a href=\"/deadside-esp/\">Průvodce ESP a wallhack</a> landing page.",
 							],
 						},
 					],
@@ -23402,10 +23402,10 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "HWID bans, spoofers, and what we do not sell",
+							h2: "HWID bany, spoofery a co neprodáváme",
 							paragraphs: [
 								"Deadside Cheats spojuje ESP wallhack, radar hack a Deadside Aimbot jako undetected balíček pro Deadside na Windows PC. jak se řeší aktualizace BattlEye pro Deadside cheats",
-								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
+								"If you have a prior HWID ban, no cheat package magically resets Bad Pixel’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
 								"Po patchích BattlEye zkontrolujte Updates. Žádný cheat negarantuje trvalý undetected stav.",
 							],
 						},
@@ -23432,11 +23432,11 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/deadside-cheats/",
 					sections: [
 						{
-							h2: "Why deadside cheats buyers choose Deadside Cheats in 2026",
+							h2: "Proč kupující volí Deadside Cheats v roce 2026",
 							paragraphs: [
 								"Deadside Cheats spojuje ESP wallhack, radar hack a Deadside Aimbot jako undetected balíček pro Deadside na Windows PC. checklist deadside cheats 2026 před checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">Průvodce undetected cheaty</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href=\"/pricing/\">Obchod</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover survival and PvP raids match loops — see <a href=\"/pricing/\">Obchod</a>.",
 							],
 						},
 						{
@@ -23456,9 +23456,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Episode 10+ and ranked meta in 2026",
+							h2: "Episode 10+ and competitive raids meta in 2026",
 							paragraphs: [
-								"2026 ranked play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot a soft aim</a> and ESP toggles.",
+								"2026 competitive raids play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot a soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Kompletní produkt</a> criteria and <a href=\"/undetected-deadside-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/deadside-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/deadside-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
@@ -23981,7 +23981,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				images: {
 					hero: "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
-					espWallhack: "Wallhack outlines showing agents through walls",
+					espWallhack: "Wallhack outlines showing players through walls",
 					aimbotCombat: "Soft aim assist overlay during a Deadside match",
 					squadFight: "Deadside Cheats combat overlay during a team fight",
 					playerEsp: "Player ESP boxes and distance readouts in a Deadside match",
@@ -23989,7 +23989,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Deadside",
 					raidFight: "Aimbot assist during a Deadside tactical combat",
 					battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for hero skills and POIs in Deadside",
+					raidMap: "ESP markers for loot and player markers and POIs in Deadside",
 				},
 			},
 			pages: {
@@ -24008,7 +24008,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "De ce Deadside Cheats în 2026",
 							paragraphs: [
-								"Deadside Cheats combină ESP wallhack, radar hack și Deadside Aimbot undetected pentru Deadside pe PC Windows. Ideal pentru citirea squad-urilor inamice în BR și Quick Match sessions.",
+								"Deadside Cheats combină ESP wallhack, radar hack și Deadside Aimbot undetected pentru Deadside pe PC Windows. Ideal pentru citirea squad-urilor inamice în BR și PvP raid sessions.",
 								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 							],
 						},
@@ -24447,7 +24447,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/deadside-cheats/",
 					sections: [
 						{
-							h2: "What undetected means for Deadside Cheats",
+							h2: "Ce înseamnă undetected pentru Deadside Cheats",
 							paragraphs: [
 								"Deadside Cheats combină ESP wallhack, radar hack și Deadside Aimbot undetected pentru Deadside pe PC Windows. mentenanță undetected după patch-uri BattlEye",
 								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
@@ -24471,9 +24471,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "How to verify undetected status before you queue",
+							h2: "How to verify undetected status before you deploy",
 							paragraphs: [
-								"Step one: open <a href=\"/updates/\">Ghid cheats undetected</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">Mentenanță BattlEye</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for ranked.",
+								"Step one: open <a href=\"/updates/\">Ghid cheats undetected</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">Mentenanță BattlEye</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
 								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/deadside-battleye-bypass/\">battleye bypass</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a>.",
 							],
@@ -24513,7 +24513,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"ESP wallhack modules rebuild after BattlEye patches. Follow the <a href=\"/updates/\">Ghid cheats undetected</a> and complete checkout for instant license delivery on Windows PC.",
 								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and <a href=\"/battleye-bypass/\">Mentenanță BattlEye</a>.",
-								"Ready to buy? Compare <a href=\"/pricing/\">Magazin</a> or continue to the <a href=\"/deadside-esp/\">Ghid ESP și wallhack</a> landing for alternate search wording.",
+								"Compare <a href=\"/pricing/\">Magazin</a> or continue to the <a href=\"/deadside-esp/\">Ghid ESP și wallhack</a> landing page.",
 							],
 						},
 					],
@@ -24593,10 +24593,10 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "HWID bans, spoofers, and what we do not sell",
+							h2: "Interdicții HWID, spooferi și ce nu vindem",
 							paragraphs: [
 								"Deadside Cheats combină ESP wallhack, radar hack și Deadside Aimbot undetected pentru Deadside pe PC Windows. cum sunt gestionate actualizările BattlEye pentru Deadside cheats",
-								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
+								"If you have a prior HWID ban, no cheat package magically resets Bad Pixel’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
 								"Verificați Updates după patch-uri BattlEye. Niciun cheat nu garantează undetected permanent.",
 							],
 						},
@@ -24623,11 +24623,11 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/deadside-cheats/",
 					sections: [
 						{
-							h2: "Why deadside cheats buyers choose Deadside Cheats in 2026",
+							h2: "De ce cumpărătorii aleg Deadside Cheats în 2026",
 							paragraphs: [
 								"Deadside Cheats combină ESP wallhack, radar hack și Deadside Aimbot undetected pentru Deadside pe PC Windows. checklist deadside cheats 2026 înainte de checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">Ghid cheats undetected</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href=\"/pricing/\">Magazin</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover survival and PvP raids match loops — see <a href=\"/pricing/\">Magazin</a>.",
 							],
 						},
 						{
@@ -24639,7 +24639,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Before you buy in 2026",
+							h2: "Antes de comprar in 2026",
 							paragraphs: [
 								"Read the <a href=\"/deadside-cheats/\">Prezentare Deadside Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
 								"Also compare the <a href=\"/deadside-cheats/\">Prezentare Deadside Cheats</a> checklist, <a href=\"/blog/deadside-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
@@ -24647,9 +24647,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Episode 10+ and ranked meta in 2026",
+							h2: "Episode 10+ and competitive raids meta in 2026",
 							paragraphs: [
-								"2026 ranked play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot și soft aim</a> and ESP toggles.",
+								"2026 competitive raids play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot și soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Produs complet</a> criteria and <a href=\"/undetected-deadside-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/deadside-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/deadside-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
@@ -25172,7 +25172,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				images: {
 					hero: "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
-					espWallhack: "Wallhack outlines showing agents through walls",
+					espWallhack: "Wallhack outlines showing players through walls",
 					aimbotCombat: "Soft aim assist overlay during a Deadside match",
 					squadFight: "Deadside Cheats combat overlay during a team fight",
 					playerEsp: "Player ESP boxes and distance readouts in a Deadside match",
@@ -25180,7 +25180,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					hacksPackage: "2D radar threat overlay for Deadside",
 					raidFight: "Aimbot assist during a Deadside tactical combat",
 					battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-					raidMap: "ESP markers for hero skills and POIs in Deadside",
+					raidMap: "ESP markers for loot and player markers and POIs in Deadside",
 				},
 			},
 			pages: {
@@ -25199,7 +25199,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Varför Deadside Cheats 2026",
 							paragraphs: [
-								"Deadside Cheats kombinerar ESP wallhack, radar hack och Deadside Aimbot som undetected paket för Deadside på Windows PC. Ideal för att läsa fiendesquads i BR och Quick Match sessions.",
+								"Deadside Cheats kombinerar ESP wallhack, radar hack och Deadside Aimbot som undetected paket för Deadside på Windows PC. Ideal för att läsa fiendesquads i BR och PvP raid sessions.",
 								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 							],
 						},
@@ -25638,7 +25638,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/deadside-cheats/",
 					sections: [
 						{
-							h2: "What undetected means for Deadside Cheats",
+							h2: "Vad undetected betyder för Deadside Cheats",
 							paragraphs: [
 								"Deadside Cheats kombinerar ESP wallhack, radar hack och Deadside Aimbot som undetected paket för Deadside på Windows PC. undetected underhåll efter BattlEye patchar",
 								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
@@ -25662,9 +25662,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "How to verify undetected status before you queue",
+							h2: "How to verify undetected status before you deploy",
 							paragraphs: [
-								"Step one: open <a href=\"/updates/\">Undetected cheats-guide</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">BattlEye-underhåll</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for ranked.",
+								"Step one: open <a href=\"/updates/\">Undetected cheats-guide</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">BattlEye-underhåll</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
 								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/deadside-battleye-bypass/\">battleye bypass</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a>.",
 							],
@@ -25704,7 +25704,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"ESP wallhack modules rebuild after BattlEye patches. Follow the <a href=\"/updates/\">Undetected cheats-guide</a> and complete checkout for instant license delivery on Windows PC.",
 								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and <a href=\"/battleye-bypass/\">BattlEye-underhåll</a>.",
-								"Ready to buy? Compare <a href=\"/pricing/\">Butik</a> or continue to the <a href=\"/deadside-esp/\">ESP- och wallhack-guide</a> landing for alternate search wording.",
+								"Compare <a href=\"/pricing/\">Butik</a> or continue to the <a href=\"/deadside-esp/\">ESP- och wallhack-guide</a> landing page.",
 							],
 						},
 					],
@@ -25784,10 +25784,10 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "HWID bans, spoofers, and what we do not sell",
+							h2: "HWID-avstängningar, spoofers och vad vi inte säljer",
 							paragraphs: [
 								"Deadside Cheats kombinerar ESP wallhack, radar hack och Deadside Aimbot som undetected paket för Deadside på Windows PC. hur BattlEye-uppdateringar hanteras för Deadside cheats",
-								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
+								"If you have a prior HWID ban, no cheat package magically resets Bad Pixel’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
 								"Kontrollera Updates ruster BattlEye-patchar. Ingen cheat garanterar permanent undetected status.",
 							],
 						},
@@ -25814,11 +25814,11 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/deadside-cheats/",
 					sections: [
 						{
-							h2: "Why deadside cheats buyers choose Deadside Cheats in 2026",
+							h2: "Varför köpare väljer Deadside Cheats 2026",
 							paragraphs: [
 								"Deadside Cheats kombinerar ESP wallhack, radar hack och Deadside Aimbot som undetected paket för Deadside på Windows PC. 2026 deadside cheats checklist före checkout",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">Undetected cheats-guide</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href=\"/pricing/\">Butik</a>.",
+								"Monthly ($35) and lifetime ($150) plans cover survival and PvP raids match loops — see <a href=\"/pricing/\">Butik</a>.",
 							],
 						},
 						{
@@ -25830,7 +25830,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Before you buy in 2026",
+							h2: "Vor dem Kauf in 2026",
 							paragraphs: [
 								"Read the <a href=\"/deadside-cheats/\">Deadside Cheats-översikt</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
 								"Also compare the <a href=\"/deadside-cheats/\">Deadside Cheats-översikt</a> checklist, <a href=\"/blog/deadside-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
@@ -25838,9 +25838,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Episode 10+ and ranked meta in 2026",
+							h2: "Episode 10+ and competitive raids meta in 2026",
 							paragraphs: [
-								"2026 ranked play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot och soft aim</a> and ESP toggles.",
+								"2026 competitive raids play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href=\"/deadside-aimbot/\">Aimbot och soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Fullständig produkt</a> criteria and <a href=\"/undetected-deadside-cheats/\">undetected maintenance</a> before switching shops mid-season.",
 								"Blog: <a href=\"/blog/deadside-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/deadside-cheats-complete-guide-2026/\">complete guide</a>.",
 							],

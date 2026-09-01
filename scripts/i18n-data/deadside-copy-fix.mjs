@@ -1,0 +1,58 @@
+/**
+ * Normalize leftover Naraka/Valorant vocabulary to Deadside survival terms.
+ * Applied during i18n generation — do not hand-edit generated outputs.
+ */
+const REPLACEMENTS = [
+	[/enemy heroes/gi, 'enemy players'],
+	[/enemy hero/gi, 'enemy player'],
+	[/hero skills/gi, 'loot and player markers'],
+	[/hero skill/gi, 'loot marker'],
+	[/soul jades/gi, 'loot crates'],
+	[/soul jade/gi, 'loot crate'],
+	[/Quick Match and Ranked/gi, 'PvP raids and squad sessions'],
+	[/ranked and Quick Match/gi, 'survival and PvP raids'],
+	[/Quick Match sessions/gi, 'PvP raid sessions'],
+	[/Quick Match/gi, 'PvP raids'],
+	[/Ranked queues/gi, 'competitive raid queues'],
+	[/Ranked and Quick Match/gi, 'competitive and PvP raids'],
+	[/Ranked/gi, 'competitive raids'],
+	[/ranked/gi, 'competitive'],
+	[/grapple and ult cues/gi, 'weapon and loot cues'],
+	[/agents through walls/gi, 'players through walls'],
+	[/high-traffic POIs/gi, 'high-traffic compounds'],
+	[/Fortnite, Tarkov, Warzone, Marvel Rivals, and more — mixed across titles below\./g,
+		'Deadside survival routes, loot spots, compound tactics, and squad play — curated guides below.'],
+	[/Dedicated articles for Fortnite, Tarkov, Warzone, Marvel Rivals, and more — mixed across titles below\./g,
+		'Deadside survival guides, loot routes, compound zones, and squad tactics — curated resources below.'],
+	[/BR and Quick Match sessions/gi, 'survival and PvP sessions'],
+	[/Episode 10\+ and ranked meta in 2026/gi, '2026 survival meta on Deadside'],
+	[/maintenance EAC/gi, 'BattlEye maintenance'],
+	[/EAC-Wartung/gi, 'BattlEye-Wartung'],
+	[/mantenimiento EAC/gi, 'mantenimiento BattlEye'],
+	[/before you queue/gi, 'before you deploy'],
+	[/hero abilities/gi, 'map mechanics'],
+	[/landing for alternate search wording\./g, 'landing page.'],
+	[/Ready to buy\? Compare/g, 'Compare'],
+];
+
+export function fixDeadsideCopy(input) {
+	if (typeof input !== 'string' || !input) return input;
+	let out = input;
+	for (const [pattern, replacement] of REPLACEMENTS) {
+		out = out.replace(pattern, replacement);
+	}
+	return out;
+}
+
+export function fixDeadsideCopyDeep(value) {
+	if (typeof value === 'string') return fixDeadsideCopy(value);
+	if (Array.isArray(value)) return value.map(fixDeadsideCopyDeep);
+	if (value && typeof value === 'object') {
+		const out = {};
+		for (const [k, v] of Object.entries(value)) {
+			out[k] = fixDeadsideCopyDeep(v);
+		}
+		return out;
+	}
+	return value;
+}

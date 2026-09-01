@@ -20,14 +20,14 @@
     "closeMenu": "Close menu"
   },
   "hero": {
-    "accent": "Undetected Deadside作弊",
-    "accentShort": "Deadside Cheats",
+    "accent": "2026 — Undetected ESP, Aimbot & Wallhack",
+    "accentShort": "Undetected deadside cheats 2026",
     "title": "Deadside Cheats",
-    "subtitle": "适用于Deadside Windows PC的ESP wallhack、radar hack和Aimbot — 含BattlEye维护。",
-    "subtitleShort": "Deadside PC版ESP、radar与Aimbot",
-    "buyNow": "立即购买",
-    "seeFeatures": "查看功能",
-    "priceFrom": "from",
+    "subtitle": "deadside cheats with Deadside ESP, radar hack and Deadside Aimbot for Windows PC — BattlEye maintenance included.",
+    "subtitleShort": "Deadside ESP, radar & aimbot for PC",
+    "buyNow": "Buy Deadside Cheats",
+    "seeFeatures": "See Features",
+    "priceFrom": "起",
     "imageAlt": "{{brand}} — Deadside ESP and aimbot overlay",
     "chipEsp": "ESP / wallhack",
     "chipAim": "Soft aim",
@@ -82,37 +82,37 @@
     "language": "Language",
     "officialLanguageNote": "English is official; other locales are translated.",
     "relatedPages": "Related pages",
-    "selectLanguage": "语言",
-    "englishOfficial": "英语为官方语言。其他语言为全球SEO翻译版本。",
-    "englishIsOfficial": "英语为官方语言。其他语言为全球SEO翻译版本。",
-    "languageSuggestion": "语言",
-    "dismiss": "Dismiss",
+    "selectLanguage": "Select language",
+    "englishOfficial": "English — official language",
+    "englishIsOfficial": "English is the official language",
+    "languageSuggestion": "Language suggestion",
+    "dismiss": "关闭",
     "localeVersion": "{{name}} version",
     "localeSuggestLead": "{{nativeName}} ({{region}}) — ",
-    "breadcrumb": "Breadcrumb",
-    "gallery": "Gallery",
-    "inGameLook": "In-game look",
-    "allQuestions": "常见问题",
-    "openAnyQuestion": "阅读指南",
-    "packageStatus": "更新",
-    "productDetails": "功能",
-    "browse": "相关页面",
-    "featured": "Featured",
-    "share": "Share",
+    "breadcrumb": "面包屑",
+    "gallery": "图库",
+    "inGameLook": "图库",
+    "allQuestions": "All questions",
+    "openAnyQuestion": "Open any question for the full answer.",
+    "packageStatus": "Package status",
+    "productDetails": "Product details",
+    "browse": "Browse",
+    "featured": "精选",
+    "share": "分享",
     "shareX": "Share on X",
     "shareReddit": "Share on Reddit",
     "shareFacebook": "Share on Facebook",
-    "blog": "Blog",
+    "blog": "博客",
     "guides": "Guides",
     "home": "Home",
-    "support": "Support",
-    "privacy": "Privacy",
-    "terms": "Terms",
-    "featureList": "功能",
-    "pricingPlans": "价格",
-    "buyerReviewsNav": "玩家评价",
+    "support": "支持",
+    "privacy": "隐私",
+    "terms": "条款",
+    "featureList": "Feature list",
+    "pricingPlans": "Pricing plans",
+    "buyerReviewsNav": "Buyer reviews",
     "copyright": "© {{year}} {{brand}}",
-    "refundPolicy": "Refund policy"
+    "refundPolicy": "退款政策"
   },
   "footer": {
     "explore": "探索",
@@ -120,17 +120,26 @@
     "tagline": "Deadside undetected ESP、wallhack、radar与Aimbot — 通过Zadeyo结账。"
   },
   "home": {
-    "aboutTitle": "Deadside的undetected外挂",
-    "aboutP1": "Deadside Windows PC undetected套餐：ESP wallhack、radar、Aimbot，含BattlEye维护。 价格 · 更新.",
-    "aboutPricingCta": "比较价格",
-    "aboutP2Before": "从",
-    "aboutPillar": "Deadside Cheats指南",
-    "aboutEsp": "ESP指南",
-    "aboutAimbot": "自瞄控制",
-    "aboutUndetected": "undetected状态",
-    "aboutP2Mid": "、",
-    "aboutP2Or": "，或",
-    "aboutP2After": "开始，如果您还在比较工具。",
+    "aboutTitle": "undetected cheats for Deadside",
+    "aboutP1": "Deadside Cheats is an undetected deadside cheats package for Deadside on Windows PC. One license includes ESP wallhack, soft aim, and 2D radar, with BattlEye rebuilds after game patches. Check Status before you deploy.",
+    "aboutP1Before": "Deadside Cheats is an undetected Deadside cheat package for Windows PC. One license includes ESP wallhack, soft aim, and 2D radar, with BattlEye rebuilds after game patches. Compare plans on",
+    "aboutStore": "Store",
+    "aboutP1Mid": ", then check",
+    "aboutStatus": "Status",
+    "aboutP1After": " before you drop in.",
+    "aboutPricingCta": "Compare pricing",
+    "aboutP2Before": "Start with the",
+    "aboutPillar": "Deadside cheats pillar",
+    "aboutEsp": "ESP guide",
+    "aboutAimbot": "aimbot controls",
+    "aboutUndetected": "undetected status",
+    "aboutP2Mid": ", ",
+    "aboutP2Or": ", or ",
+    "aboutP2After": " if you are still comparing tools.",
+    "demoGalleryCaption": "Deadside Cheats — ESP, aimbot & radar in match",
+    "demoGalleryScrollLabel": "Deadside Cheats gameplay screenshots",
+    "demoGalleryPrev": "Previous screenshot",
+    "demoGalleryNext": "Next screenshot",
     "playDemoVideo": "Play Deadside cheats demo video",
     "pauseDemoVideo": "Pause Deadside cheats demo video",
     "demoVideoCaption": "Deadside Cheats — ESP, aimbot & radar in match",
@@ -140,16 +149,16 @@
     "seekLabel": "Video progress"
   },
   "homeSeo": {
-    "eyebrow": "Guides",
-    "title": "相关页面 by category",
+    "eyebrow": "游戏指南中心",
+    "title": "相关页面 — 价格",
     "lede": "功能, 更新, 价格, 常见问题.",
-    "catFeatures": "功能",
+    "catFeatures": "Features",
     "catFeaturesHint": "功能",
-    "catStatus": "更新",
+    "catStatus": "Status",
     "catStatusHint": "更新",
-    "catStore": "价格",
+    "catStore": "Store",
     "catStoreHint": "价格",
-    "catHelp": "常见问题",
+    "catHelp": "Help",
     "catHelpHint": "常见问题",
     "linkAllFeatures": "功能",
     "linkEsp": "ESP",
@@ -160,27 +169,27 @@
     "linkBattlEye": "BattlEye",
     "linkSetup": "安装",
     "linkPlans": "价格",
-    "linkReviews": "玩家评价",
+    "linkReviews": "Reviews",
     "linkFinalsCheats": "Deadside Cheats",
     "linkFaq": "常见问题",
-    "linkSupport": "Support",
+    "linkSupport": "支持",
     "linkSetupGuide": "安装",
-    "linkBlog": "Blog",
-    "linkRefunds": "Refunds",
-    "faqEyebrow": "常见问题",
+    "linkBlog": "博客",
+    "linkRefunds": "退款政策",
+    "faqEyebrow": "FAQ",
     "faqTitle": "常见问题",
-    "faqLede": "即时数字交付",
+    "faqLede": "常见问题",
     "allAnswers": "常见问题",
     "openFullPage": "阅读指南"
   },
   "deals": {
-    "pricing": "价格",
-    "chooseLicense": "价格",
-    "features": "功能",
+    "pricing": "Pricing",
+    "chooseLicense": "Choose your license",
+    "features": "Features",
     "featEsp": "ESP / wallhack",
-    "featAim": "Aimbot",
+    "featAim": "Soft aim & hotkeys",
     "featRadar": "2D radar",
-    "featUpdates": "更新"
+    "featUpdates": "Patch updates"
   },
   "trustStrip": {
     "instantDelivery": "即时数字交付",
@@ -193,14 +202,14 @@
     "aimbot": "Aimbot",
     "radar": "Radar",
     "wallhack": "Wallhack",
-    "undetected": "Undetected套餐",
-    "features": "功能",
-    "pricing": "价格",
-    "setup": "安装",
-    "blog": "Blog"
+    "undetected": "Undetected",
+    "features": "Features",
+    "pricing": "Pricing",
+    "setup": "Setup",
+    "blog": "博客"
   },
   "internalLinks": {
-    "relatedLede": "Deadside Cheats — 相关页面.",
+    "relatedLede": "Explore more Deadside Cheats guides mapped to our canonical pages.",
     "topicsTitle": "功能",
     "topicsLabel": "功能",
     "topicsLede": "ESP, Aimbot, 价格, 安装, 更新.",
@@ -213,88 +222,88 @@
     "setup": "安装",
     "status": "更新",
     "faq": "常见问题",
-    "support": "Support",
-    "blog": "Blog",
+    "support": "支持",
+    "blog": "博客",
     "reviews": "玩家评价",
     "hacks": "Cheats",
     "undetected": "Undetected套餐"
   },
   "externalResources": {
     "title": "Guías oficiales del juego y recursos",
-    "lede": "Enlazamos fuentes de confianza para verificar parches, estadísticas y mapas fuera de nuestro sitio.",
+    "lede": "Trusted third-party sources for patch notes, player stats, and map info outside our site.",
     "pillsTitle": "Guías oficiales del juego y recursos",
     "pillsLabel": "Guías oficiales del juego y recursos",
     "steam": {
       "label": "Deadside en PC",
-      "note": "Página oficial de la tienda, requisitos y reseñas."
+      "note": "Official store page, system requirements, and player reviews."
     },
     "patch": {
       "label": "Parches y noticias de Deadside",
-      "note": "Lee actualizaciones oficiales antes de cambiar tu loadout."
+      "note": "Read official update posts before you change your loadout."
     },
     "official": {
       "label": "Sitio oficial de Deadside",
-      "note": "Resumen del juego de Bad Pixel."
+      "note": "Game overview from Bad Pixel."
     },
     "wiki": {
       "label": "Wiki de Deadside (Fandom)",
-      "note": "Estadísticas, mapas y mecánicas de supervivencia."
+      "note": "Player stats, maps, and survival mechanics."
     },
     "community": {
-      "label": "Hub de Deadside community",
-      "note": "Anuncios y debates de la comunidad."
+      "label": "Comunidad Deadside",
+      "note": "Announcements and community discussions."
     }
   },
   "images": {
-    "hero": "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
-    "espWallhack": "Wallhack outlines showing agents through walls",
+    "hero": "deadside cheats player ESP aimbot wallhack",
+    "espWallhack": "Wallhack outlines showing enemy players through walls",
     "aimbotCombat": "Soft aim assist overlay during a Deadside match",
-    "squadFight": "Deadside Cheats combat overlay during a team fight",
+    "squadFight": "Deadside Cheats combat overlay during a squad fight",
     "playerEsp": "Player ESP boxes and distance readouts in a Deadside match",
     "headerArt": "Aimbot view and bone priority controls for Deadside",
     "hacksPackage": "2D radar threat overlay for Deadside",
-    "raidFight": "Aimbot assist during a Deadside tactical combat",
+    "raidFight": "Aimbot assist during a Deadside firefight",
     "battleRoyale": "Deadside Cheats in-session overview for Windows PC",
-    "raidMap": "ESP markers for hero skills and POIs in Deadside"
+    "raidMap": "ESP markers for loot and players in Deadside"
   },
   "guides": {
-    "hubTitle": "Game Guides Hub",
-    "hubIntro": "Deadside Cheats product guides sit at the top. Scroll down for dedicated PC game guides — each with its own article and resources.",
-    "nativeTitle": "Deadside Cheats guides",
-    "nativeLede": "Our primary guides for ESP, aimbot, radar, setup, and pricing on deadsidecheats.com.",
-    "gameTitle": "Other Games Guides",
-    "gameLede": "Dedicated articles for Fortnite, Tarkov, Warzone, Marvel Rivals, and more — mixed across titles below.",
-    "readGuide": "Read guide",
-    "published": "Published",
-    "updated": "Updated"
+    "hubTitle": "游戏指南中心",
+    "hubIntro": "Deadside Cheats产品指南在上方。向下滚动查看Deadside生存资源。",
+    "nativeTitle": "Deadside Cheats指南",
+    "nativeLede": "ESP、自瞄、雷达、安装与价格指南见deadsidecheats.com。",
+    "gameTitle": "Deadside生存指南",
+    "gameLede": "物资路线、营地区域、小队战术与Deadside生存玩法。",
+    "readGuide": "阅读指南",
+    "published": "发布",
+    "updated": "更新"
   },
   "blog": {
-    "blogTitle": "Deadside Cheats Blog | Guides & Patch Tips",
-    "blogDescription": "Deadside guides — survival tips, ESP, aimbot notes, extract routes, and BattlEye update coverage. English blog at deadsidecheats.com/blog/.",
+    "blogTitle": "Deadside Cheats Blog | 阅读指南 & Patch Tips",
+    "blogDescription": "Deadside guides — survival tips, ESP, aimbot notes, loot routes, and BattlEye update coverage.",
     "blogH1": "Deadside Cheats Intel",
-    "blogIntro": "Actionable Deadside guides for ranked and Quick Match sessions — meta breakdowns, extract routes, loot routes, and pro warmup routines. Pair these tips with our Deadside Cheats pages for ESP, soft aim, and radar when you need in-match tools.",
-    "readMore": "Read guide",
-    "published": "Published",
-    "updated": "Updated",
+    "blogIntro": "Actionable Deadside guides for survival and PvP raids — loot routes, compound tactics, and squad play. Pair these tips with our Deadside Cheats pages for ESP, soft aim, and radar.",
+    "readMore": "阅读指南",
+    "published": "发布",
+    "updated": "更新",
     "relatedPosts": "Related Deadside guides",
     "allPosts": "All blog posts",
     "home": "Deadside Cheats home",
     "language": "Language",
-    "label": "Deadside Intel"
+    "label": "Deadside Cheats Intel"
   },
   "gallery": {
     "eyebrow": "Deadside Cheats",
-    "title": "Deadside Cheats gallery",
+    "title": "Deadside Cheats图库 — ESP、Aimbot、wallhack",
     "subtitle": "Deadside Cheats visuals — ESP, wallhack, aimbot, and radar for Deadside on PC.",
-    "lead": "Deadside Cheats helps you spot enemy heroes, loot, and high-traffic POIs with ESP, aimbot, and radar in one license.",
+    "lead": "Deadside Cheats helps you spot enemy players, loot, and compound zones with ESP, aimbot, and radar in one license.",
     "highlightEspTitle": "Deadside Cheats ESP",
-    "highlightEspCopy": "See enemy heroes through walls with Deadside Cheats ESP and wallhack overlays.",
+    "highlightEspCopy": "See enemy players through walls with Deadside Cheats ESP and wallhack overlays.",
     "highlightRadarTitle": "Deadside Cheats radar",
     "highlightRadarCopy": "Track nearby threats with Deadside Cheats radar before you push or rotate.",
     "highlightAimbotTitle": "Deadside Cheats aimbot",
     "highlightAimbotCopy": "Use soft aim and aimbot controls tuned for Deadside matches on Windows PC.",
-    "updatesLabel": "Deadside Cheats updates",
-    "updatesShort": "Updates"
+    "updatesLabel": "Deadside Cheats 更新",
+    "updatesShort": "更新"
   },
   "faq": {
     "items": {
@@ -308,7 +317,7 @@
       },
       "solo-farmer-and-raider-sessions": {
         "q": "适用于大逃杀回合和排位赛吗？",
-        "a": "是的。ESP、雷达和自瞄专为 Deadside 对局流程设计 — 读取敌方英雄、追踪物资和 soul jades，在 Quick Match 和 Ranked 中关注 POI 与战斗区域。"
+        "a": "是的。ESP、雷达和自瞄专为 Deadside 对局流程设计 — 读取敌方英雄、追踪物资和 loot crates，在 PvP raids 和 competitive raids 中关注 POI 与战斗区域。"
       },
       "esp-wallhack-radar-or-aimbot": {
         "q": "¿Qué incluye: ESP, wallhack, radar o Aimbot?",
@@ -348,11 +357,11 @@
       },
       "what-is-deadside-esp-hack": {
         "q": "什么是 Deadside ESP hack？",
-        "a": "Deadside ESP hack 是一种可见性覆盖层，可透过墙壁显示敌方英雄、武器和物资。Deadside Cheats ESP 包含玩家框、距离标签、钩锁与大招提示，以及 Quick Match 和 Ranked 的可切换类别。"
+        "a": "Deadside ESP hack 是一种可见性覆盖层，可透过墙壁显示敌方英雄、武器和物资。Deadside Cheats ESP 包含玩家框、距离标签、钩锁与大招提示，以及 PvP raids 和 competitive raids 的可切换类别。"
       },
       "what-is-deadside-aimbot-hack": {
         "q": "什么是 Deadside aimbot hack？",
-        "a": "Deadside aimbot hack 提供可配置 FOV、平滑度和骨骼优先级的瞄准辅助。Deadside Cheats 使用在团战和决斗中感觉自然的软自瞄配置 — 在 Ranked 排队前于 mod 菜单调整。"
+        "a": "Deadside aimbot hack 提供可配置 FOV、平滑度和骨骼优先级的瞄准辅助。Deadside Cheats 使用在团战和决斗中感觉自然的软自瞄配置 — 在 competitive raids 排队前于 mod 菜单调整。"
       },
       "how-to-install-deadside-cheats": {
         "q": "How do I install deadside cheats on Windows PC?",
@@ -372,7 +381,7 @@
       },
       "what-is-deadside-soft-aim": {
         "q": "什么是 Deadside soft aim？",
-        "a": "Deadside soft aim 在设定 FOV 内温和引导瞄准，而非瞬间吸附。Deadside Cheats 可调整平滑度、骨骼优先级和按武器类型的配置，在 Quick Match 和 Ranked 中保持可控辅助。"
+        "a": "Deadside soft aim 在设定 FOV 内温和引导瞄准，而非瞬间吸附。Deadside Cheats 可调整平滑度、骨骼优先级和按武器类型的配置，在 PvP raids 和 competitive raids 中保持可控辅助。"
       },
       "free-deadside-cheat-download": {
         "q": "Is there a free Deadside hack download?",
@@ -384,7 +393,7 @@
       },
       "deadside-cheats-for-ranked": {
         "q": "deadside cheats 在排位竞技中可用吗？",
-        "a": "是的。ESP、雷达和软自瞄专为 Windows PC 上 Deadside 的 Ranked 和 Quick Match 设计。使用保守的覆盖层设置，补丁后阅读维护说明，并在竞技排队前于更新页面确认 undetected 状态。"
+        "a": "是的。ESP、雷达和软自瞄专为 Windows PC 上 Deadside 的 competitive raids 和 PvP raids 设计。使用保守的覆盖层设置，补丁后阅读维护说明，并在竞技排队前于更新页面确认 undetected 状态。"
       },
       "what-is-deadside-mod-menu": {
         "q": "What is a Deadside mod menu?",

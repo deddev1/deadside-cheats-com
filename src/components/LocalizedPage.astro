@@ -68,7 +68,7 @@ const faqSchema =
 				mainEntity: localizedFaqs.map((item) => ({
 					'@type': 'Question',
 					name: item.question,
-					url: absoluteFaqUrl(item.slug),
+					url: locale === 'en' ? absoluteFaqUrl(item.slug) : pageUrl,
 					acceptedAnswer: { '@type': 'Answer', text: item.answer },
 				})),
 			}
@@ -113,10 +113,10 @@ const eyebrowByPage: Partial<Record<PageId, string>> = {
 	support: t('common.support'),
 	undetected: t('categoryRow.undetected'),
 	wallhack: t('categoryRow.wallhack'),
-	battleye: 'BattlEye',
+	battleye: ui.nav.updates,
 	'cheats-2026': '2026',
 	'cheat-download': t('common.readGuide'),
-	'mod-menu': 'Mod Menu',
+	'mod-menu': ui.nav.features,
 	'soft-aim': ui.nav.aimbot,
 	'best-cheats': t('categoryRow.hacks'),
 	'aimbot-hack': ui.nav.aimbot,
@@ -150,7 +150,7 @@ const breadcrumbLabel = eyebrowByPage[pageId];
 		pageId === 'support'
 			? {
 					href: `mailto:${siteConfig.supportEmail}`,
-					label: 'Email support',
+					label: t('common.support'),
 				}
 			: { href: siteConfig.checkoutUrl, label: ctaPrimaryLabel, edit: 'ctaBuy' }
 	}

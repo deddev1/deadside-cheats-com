@@ -497,7 +497,7 @@ export const enPages = {
 			section(
 				'HWID bans, spoofers, and what we do not sell',
 				'Deadside can issue hardware (HWID) bans tied to your PC. Some competitors market HWID spoofers alongside cheats. Deadside Cheats does not sell a spoofer — we focus on maintained ESP, radar, and soft aim plus clear rebuild communication.',
-				'If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href="/faq/deadside-battleye-bypass/">BattlEye FAQ</a> before buying anywhere.',
+				'If you have a prior HWID ban, no cheat package magically resets Bad Pixel’s hardware flags. Treat spoofer claims skeptically and read <a href="/faq/deadside-battleye-bypass/">BattlEye FAQ</a> before buying anywhere.',
 				'Responsible use: conservative settings, public status checks, and avoiding obvious rage clips reduce report-based penalties.',
 			),
 			section(

@@ -1,4 +1,5 @@
 import { PAGE_META_HOME } from './pages-i18n.mjs';
+import { buildExtendedUiOverlay } from './locale-ui-content.mjs';
 
 /** Per-locale home/about connector strings (non-meta prose). */
 const HOME_CONNECTORS = {
@@ -516,9 +517,6 @@ export function buildLocaleOverlay(locale, ui) {
 		},
 		internalLinks: buildInternalLinks(ui),
 		externalResources: buildExternalResources(locale),
-		media: {
-			demoVideoTitle: `${p.title} ESP, ${n.aimbot} demo`,
-			playVideo: 'Play video',
-		},
+		...buildExtendedUiOverlay(locale, ui),
 	};
 }

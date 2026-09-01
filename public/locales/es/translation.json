@@ -121,6 +121,11 @@
   "home": {
     "aboutTitle": "cheats indetectables para Deadside",
     "aboutP1": "Deadside Cheats es un paquete de trucos indetectables para Deadside en PC Windows. Una licencia incluye ESP wallhack, soft aim y radar 2D, con reconstrucciones BattlEye tras los parches del juego. Compara planes en la Tienda y revisa el Estado antes de entrar en match.",
+    "aboutP1Before": "Deadside Cheats is an undetected Deadside cheat package for Windows PC. One license includes ESP wallhack, soft aim, and 2D radar, with BattlEye rebuilds after game patches. Compare plans on",
+    "aboutStore": "Store",
+    "aboutP1Mid": ", then check",
+    "aboutStatus": "Status",
+    "aboutP1After": " before you drop in.",
     "aboutPricingCta": "Compare pricing",
     "aboutP2Before": "Empieza por el",
     "aboutPillar": "pilar de trucos de Deadside",
@@ -130,6 +135,10 @@
     "aboutP2Mid": ", ",
     "aboutP2Or": ", o ",
     "aboutP2After": " si aún estás comparando herramientas.",
+    "demoGalleryCaption": "Deadside Cheats — ESP, aimbot & radar in match",
+    "demoGalleryScrollLabel": "Deadside cheats gameplay screenshots",
+    "demoGalleryPrev": "Previous screenshot",
+    "demoGalleryNext": "Next screenshot",
     "playDemoVideo": "Play Deadside cheats demo video",
     "pauseDemoVideo": "Pause Deadside cheats demo video",
     "demoVideoCaption": "Deadside Cheats — ESP, aimbot & radar in match",
@@ -262,7 +271,7 @@
     "nativeTitle": "Deadside Cheats guides",
     "nativeLede": "Our primary guides for ESP, aimbot, radar, setup, and pricing on deadsidecheats.com.",
     "gameTitle": "Other Games Guides",
-    "gameLede": "Dedicated articles for Fortnite, Tarkov, Warzone, Marvel Rivals, and more — mixed across titles below.",
+    "gameLede": "Dedicated articles for Deadside survival routes, loot spots, compound tactics, and squad play — curated guides below.",
     "readGuide": "Read guide",
     "published": "Published",
     "updated": "Updated"
@@ -307,7 +316,7 @@
       },
       "solo-farmer-and-raider-sessions": {
         "q": "¿Funciona en rondas battle royale y partidas clasificadas?",
-        "a": "Sí. ESP, radar y aimbot están pensados para el flujo de partida de Deadside: leer héroes enemigos, rastrear loot y soul jades, y mantener conciencia cerca de POIs y zonas de combate en Quick Match y Ranked."
+        "a": "Sí. ESP, radar y aimbot están pensados para el flujo de partida de Deadside: leer héroes enemigos, rastrear loot y loot crates, y mantener conciencia cerca de POIs y zonas de combate en PvP raids y competitive raids."
       },
       "esp-wallhack-radar-or-aimbot": {
         "q": "¿Qué incluye: ESP, wallhack, radar o Aimbot?",
@@ -347,11 +356,11 @@
       },
       "what-is-deadside-esp-hack": {
         "q": "¿Qué es un ESP hack de Deadside?",
-        "a": "Un ESP hack de Deadside es un overlay de visibilidad que muestra héroes enemigos, armas y loot a través de las paredes. Deadside Cheats ESP incluye cajas de jugador, etiquetas de distancia, señales de agarre y ultimate, y categorías configurables para Quick Match y Ranked."
+        "a": "Un ESP hack de Deadside es un overlay de visibilidad que muestra héroes enemigos, armas y loot a través de las paredes. Deadside Cheats ESP incluye cajas de jugador, etiquetas de distancia, señales de agarre y ultimate, y categorías configurables para PvP raids y competitive raids."
       },
       "what-is-deadside-aimbot-hack": {
         "q": "¿Qué es un aimbot hack de Deadside?",
-        "a": "Un aimbot hack de Deadside proporciona asistencia de puntería con FOV, suavizado y prioridad de huesos configurables. Deadside Cheats usa perfiles de soft aim diseñados para sentirse naturales en peleas de equipo y duelos — ajusta la configuración en el menú mod antes de las colas Ranked."
+        "a": "Un aimbot hack de Deadside proporciona asistencia de puntería con FOV, suavizado y prioridad de huesos configurables. Deadside Cheats usa perfiles de soft aim diseñados para sentirse naturales en peleas de equipo y duelos — ajusta la configuración en el menú mod antes de las colas competitive raids."
       },
       "how-to-install-deadside-cheats": {
         "q": "How do I install deadside cheats on Windows PC?",
@@ -371,7 +380,7 @@
       },
       "what-is-deadside-soft-aim": {
         "q": "¿Qué es el soft aim de Deadside?",
-        "a": "El soft aim de Deadside guía suavemente la puntería hacia objetivos dentro de un FOV establecido en lugar de bloquear al instante. Deadside Cheats te permite ajustar suavizado, prioridad de huesos y perfiles por tipo de arma para que la asistencia se sienta controlada en Quick Match y Ranked."
+        "a": "El soft aim de Deadside guía suavemente la puntería hacia objetivos dentro de un FOV establecido en lugar de bloquear al instante. Deadside Cheats te permite ajustar suavizado, prioridad de huesos y perfiles por tipo de arma para que la asistencia se sienta controlada en PvP raids y competitive raids."
       },
       "free-deadside-cheat-download": {
         "q": "Is there a free Deadside hack download?",
@@ -383,7 +392,7 @@
       },
       "deadside-cheats-for-ranked": {
         "q": "¿Funcionan los trucos de Deadside en competitivo clasificado?",
-        "a": "Sí. ESP, radar y soft aim están pensados para Ranked y Quick Match de Deadside en PC Windows. Usa ajustes conservadores de overlay, lee las notas de mantenimiento tras parches y confirma el estado undetected en la página de Actualizaciones antes de las colas competitivas."
+        "a": "Sí. ESP, radar y soft aim están pensados para competitive raids y PvP raids de Deadside en PC Windows. Usa ajustes conservadores de overlay, lee las notas de mantenimiento tras parches y confirma el estado undetected en la página de Actualizaciones antes de las colas competitivas."
       },
       "what-is-deadside-mod-menu": {
         "q": "What is a Deadside mod menu?",

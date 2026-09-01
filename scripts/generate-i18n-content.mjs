@@ -11,6 +11,7 @@ import { LOCALES, TS_HEADER } from './i18n-data/constants.mjs';
 import { allUiStrings } from './i18n-data/ui-strings.mjs';
 import { getCanonicalEnPages } from './i18n-data/canonical-en-pages.mjs';
 import { buildLocalizedPages, validateStructure } from './i18n-data/localize-pages.mjs';
+import { fixDeadsideCopyDeep } from './i18n-data/deadside-copy-fix.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
@@ -49,7 +50,8 @@ function buildI18nContent() {
 		const ui = allUiStrings[locale];
 		if (!ui) throw new Error(`Missing UI strings for locale: ${locale}`);
 
-		const pages = locale === 'en' ? canonicalEn : buildLocalizedPages(locale);
+		const pages =
+			locale === 'en' ? fixDeadsideCopyDeep(canonicalEn) : fixDeadsideCopyDeep(buildLocalizedPages(locale));
 
 		if (locale !== 'en') {
 			const structErrors = validateStructure(locale, pages);
@@ -98,7 +100,7 @@ function buildI18nContent() {
 			}
 		}
 
-		content[locale] = { ui, pages };
+		content[locale] = { ui: fixDeadsideCopyDeep(ui), pages };
 	}
 
 	return content;

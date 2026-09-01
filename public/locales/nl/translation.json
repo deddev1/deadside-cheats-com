@@ -20,14 +20,14 @@
     "closeMenu": "Close menu"
   },
   "hero": {
-    "accent": "Undetected Deadside Cheats",
-    "accentShort": "Deadside Cheats",
+    "accent": "2026 — Undetected ESP, Aimbot & Wallhack",
+    "accentShort": "Undetected deadside cheats 2026",
     "title": "Deadside Cheats",
-    "subtitle": "ESP wallhack, radar hack en Aimbot voor Deadside op Windows PC — BattlEye-onderhoud inbegrepen.",
-    "subtitleShort": "ESP, radar & Aimbot voor Deadside PC",
-    "buyNow": "Nu kopen",
-    "seeFeatures": "Bekijk functies",
-    "priceFrom": "from",
+    "subtitle": "deadside cheats with Deadside ESP, radar hack and Deadside Aimbot for Windows PC — BattlEye maintenance included.",
+    "subtitleShort": "Deadside ESP, radar & aimbot for PC",
+    "buyNow": "Buy Deadside Cheats",
+    "seeFeatures": "See Features",
+    "priceFrom": "vanaf",
     "imageAlt": "{{brand}} — Deadside ESP and aimbot overlay",
     "chipEsp": "ESP / wallhack",
     "chipAim": "Soft aim",
@@ -82,23 +82,23 @@
     "language": "Language",
     "officialLanguageNote": "English is official; other locales are translated.",
     "relatedPages": "Related pages",
-    "selectLanguage": "Taal",
-    "englishOfficial": "Engels is de officiële taal",
-    "englishIsOfficial": "Engels is de officiële taal. Andere talen zijn vertaald voor wereldwijde SEO.",
-    "languageSuggestion": "Taal",
-    "dismiss": "Dismiss",
+    "selectLanguage": "Select language",
+    "englishOfficial": "English — official language",
+    "englishIsOfficial": "English is the official language",
+    "languageSuggestion": "Language suggestion",
+    "dismiss": "Sluiten",
     "localeVersion": "{{name}} version",
     "localeSuggestLead": "{{nativeName}} ({{region}}) — ",
-    "breadcrumb": "Breadcrumb",
-    "gallery": "Gallery",
-    "inGameLook": "In-game look",
-    "allQuestions": "FAQ",
-    "openAnyQuestion": "Lees gids",
-    "packageStatus": "Updates",
-    "productDetails": "Functies",
-    "browse": "Gerelateerde pagina's",
-    "featured": "Featured",
-    "share": "Share",
+    "breadcrumb": "Broodkruimels",
+    "gallery": "Galerij",
+    "inGameLook": "Galerij",
+    "allQuestions": "All questions",
+    "openAnyQuestion": "Open any question for the full answer.",
+    "packageStatus": "Package status",
+    "productDetails": "Product details",
+    "browse": "Browse",
+    "featured": "Uitgelicht",
+    "share": "Delen",
     "shareX": "Share on X",
     "shareReddit": "Share on Reddit",
     "shareFacebook": "Share on Facebook",
@@ -107,12 +107,12 @@
     "home": "Home",
     "support": "Support",
     "privacy": "Privacy",
-    "terms": "Terms",
-    "featureList": "Functies",
-    "pricingPlans": "Prijzen",
-    "buyerReviewsNav": "Wat spelers zeggen",
+    "terms": "Voorwaarden",
+    "featureList": "Feature list",
+    "pricingPlans": "Pricing plans",
+    "buyerReviewsNav": "Buyer reviews",
     "copyright": "© {{year}} {{brand}}",
-    "refundPolicy": "Refund policy"
+    "refundPolicy": "Restitutiebeleid"
   },
   "footer": {
     "explore": "Verkennen",
@@ -120,17 +120,26 @@
     "tagline": "Undetected ESP, wallhack, radar en Aimbot voor Deadside — checkout via Zadeyo."
   },
   "home": {
-    "aboutTitle": "undetected cheats voor Deadside",
-    "aboutP1": "Undetected Windows PC pakket voor Deadside: ESP wallhack, radar en Aimbot met BattlEye-onderhoud na elke patch. Prijzen · Updates.",
-    "aboutPricingCta": "Prijzen vergelijken",
-    "aboutP2Before": "Begin met de",
-    "aboutPillar": "Deadside Cheats-pijler",
-    "aboutEsp": "ESP-gids",
-    "aboutAimbot": "aimbot-bediening",
-    "aboutUndetected": "undetected-status",
+    "aboutTitle": "undetected cheats for Deadside",
+    "aboutP1": "Deadside Cheats is an undetected deadside cheats package for Deadside on Windows PC. One license includes ESP wallhack, soft aim, and 2D radar, with BattlEye rebuilds after game patches. Check Status before you deploy.",
+    "aboutP1Before": "Deadside Cheats is an undetected Deadside cheat package for Windows PC. One license includes ESP wallhack, soft aim, and 2D radar, with BattlEye rebuilds after game patches. Compare plans on",
+    "aboutStore": "Store",
+    "aboutP1Mid": ", then check",
+    "aboutStatus": "Status",
+    "aboutP1After": " before you drop in.",
+    "aboutPricingCta": "Compare pricing",
+    "aboutP2Before": "Start with the",
+    "aboutPillar": "Deadside cheats pillar",
+    "aboutEsp": "ESP guide",
+    "aboutAimbot": "aimbot controls",
+    "aboutUndetected": "undetected status",
     "aboutP2Mid": ", ",
-    "aboutP2Or": ", of ",
-    "aboutP2After": " als je nog tools vergelijkt.",
+    "aboutP2Or": ", or ",
+    "aboutP2After": " if you are still comparing tools.",
+    "demoGalleryCaption": "Deadside Cheats — ESP, aimbot & radar in match",
+    "demoGalleryScrollLabel": "Deadside Cheats gameplay screenshots",
+    "demoGalleryPrev": "Previous screenshot",
+    "demoGalleryNext": "Next screenshot",
     "playDemoVideo": "Play Deadside cheats demo video",
     "pauseDemoVideo": "Pause Deadside cheats demo video",
     "demoVideoCaption": "Deadside Cheats — ESP, aimbot & radar in match",
@@ -140,16 +149,16 @@
     "seekLabel": "Video progress"
   },
   "homeSeo": {
-    "eyebrow": "Guides",
-    "title": "Gerelateerde pagina's by category",
+    "eyebrow": "Spelgidsen-hub",
+    "title": "Gerelateerde pagina's — Prijzen",
     "lede": "Functies, Updates, Prijzen, FAQ.",
-    "catFeatures": "Functies",
+    "catFeatures": "Features",
     "catFeaturesHint": "Functies",
-    "catStatus": "Updates",
+    "catStatus": "Status",
     "catStatusHint": "Updates",
-    "catStore": "Prijzen",
+    "catStore": "Store",
     "catStoreHint": "Prijzen",
-    "catHelp": "FAQ",
+    "catHelp": "Help",
     "catHelpHint": "FAQ",
     "linkAllFeatures": "Functies",
     "linkEsp": "ESP",
@@ -160,27 +169,27 @@
     "linkBattlEye": "BattlEye",
     "linkSetup": "Setup",
     "linkPlans": "Prijzen",
-    "linkReviews": "Wat spelers zeggen",
+    "linkReviews": "Reviews",
     "linkFinalsCheats": "Deadside Cheats",
     "linkFaq": "FAQ",
     "linkSupport": "Support",
     "linkSetupGuide": "Setup",
     "linkBlog": "Blog",
-    "linkRefunds": "Refunds",
+    "linkRefunds": "Restitutiebeleid",
     "faqEyebrow": "FAQ",
     "faqTitle": "FAQ",
-    "faqLede": "Directe digitale levering",
+    "faqLede": "FAQ",
     "allAnswers": "FAQ",
-    "openFullPage": "Lees gids"
+    "openFullPage": "Gids lezen"
   },
   "deals": {
-    "pricing": "Prijzen",
-    "chooseLicense": "Prijzen",
-    "features": "Functies",
+    "pricing": "Pricing",
+    "chooseLicense": "Choose your license",
+    "features": "Features",
     "featEsp": "ESP / wallhack",
-    "featAim": "Aimbot",
+    "featAim": "Soft aim & hotkeys",
     "featRadar": "2D radar",
-    "featUpdates": "Updates"
+    "featUpdates": "Patch updates"
   },
   "trustStrip": {
     "instantDelivery": "Directe digitale levering",
@@ -193,14 +202,14 @@
     "aimbot": "Aimbot",
     "radar": "Radar",
     "wallhack": "Wallhack",
-    "undetected": "Undetected pakket",
-    "features": "Functies",
-    "pricing": "Prijzen",
+    "undetected": "Undetected",
+    "features": "Features",
+    "pricing": "Pricing",
     "setup": "Setup",
     "blog": "Blog"
   },
   "internalLinks": {
-    "relatedLede": "Deadside Cheats — Gerelateerde pagina's.",
+    "relatedLede": "Explore more Deadside Cheats guides mapped to our canonical pages.",
     "topicsTitle": "Functies",
     "topicsLabel": "Functies",
     "topicsLede": "ESP, Aimbot, Prijzen, Setup, Updates.",
@@ -221,79 +230,79 @@
   },
   "externalResources": {
     "title": "Guías oficiales del juego y recursos",
-    "lede": "Enlazamos fuentes de confianza para verificar parches, estadísticas y mapas fuera de nuestro sitio.",
+    "lede": "Trusted third-party sources for patch notes, player stats, and map info outside our site.",
     "pillsTitle": "Guías oficiales del juego y recursos",
     "pillsLabel": "Guías oficiales del juego y recursos",
     "steam": {
       "label": "Deadside en PC",
-      "note": "Página oficial de la tienda, requisitos y reseñas."
+      "note": "Official store page, system requirements, and player reviews."
     },
     "patch": {
       "label": "Parches y noticias de Deadside",
-      "note": "Lee actualizaciones oficiales antes de cambiar tu loadout."
+      "note": "Read official update posts before you change your loadout."
     },
     "official": {
       "label": "Sitio oficial de Deadside",
-      "note": "Resumen del juego de Bad Pixel."
+      "note": "Game overview from Bad Pixel."
     },
     "wiki": {
       "label": "Wiki de Deadside (Fandom)",
-      "note": "Estadísticas, mapas y mecánicas de supervivencia."
+      "note": "Player stats, maps, and survival mechanics."
     },
     "community": {
-      "label": "Hub de Deadside community",
-      "note": "Anuncios y debates de la comunidad."
+      "label": "Comunidad Deadside",
+      "note": "Announcements and community discussions."
     }
   },
   "images": {
-    "hero": "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
-    "espWallhack": "Wallhack outlines showing agents through walls",
+    "hero": "Deadside ESP player tags hack",
+    "espWallhack": "Wallhack outlines showing enemy players through walls",
     "aimbotCombat": "Soft aim assist overlay during a Deadside match",
-    "squadFight": "Deadside Cheats combat overlay during a team fight",
+    "squadFight": "Deadside Cheats combat overlay during a squad fight",
     "playerEsp": "Player ESP boxes and distance readouts in a Deadside match",
     "headerArt": "Aimbot view and bone priority controls for Deadside",
     "hacksPackage": "2D radar threat overlay for Deadside",
-    "raidFight": "Aimbot assist during a Deadside tactical combat",
+    "raidFight": "Aimbot assist during a Deadside firefight",
     "battleRoyale": "Deadside Cheats in-session overview for Windows PC",
-    "raidMap": "ESP markers for hero skills and POIs in Deadside"
+    "raidMap": "ESP markers for loot and players in Deadside"
   },
   "guides": {
-    "hubTitle": "Game Guides Hub",
-    "hubIntro": "Deadside Cheats product guides sit at the top. Scroll down for dedicated PC game guides — each with its own article and resources.",
-    "nativeTitle": "Deadside Cheats guides",
-    "nativeLede": "Our primary guides for ESP, aimbot, radar, setup, and pricing on deadsidecheats.com.",
-    "gameTitle": "Other Games Guides",
-    "gameLede": "Dedicated articles for Fortnite, Tarkov, Warzone, Marvel Rivals, and more — mixed across titles below.",
-    "readGuide": "Read guide",
-    "published": "Published",
-    "updated": "Updated"
+    "hubTitle": "Spelgidsen-hub",
+    "hubIntro": "Deadside Cheats productgidsen staan bovenaan. Scroll voor Deadside survival-bronnen.",
+    "nativeTitle": "Deadside Cheats gidsen",
+    "nativeLede": "ESP-, aimbot-, radar-, setup- en prijsgidsen op deadsidecheats.com.",
+    "gameTitle": "Deadside survival-gidsen",
+    "gameLede": "Loot-routes, compound-zones, squad-tactieken en survival op Deadside.",
+    "readGuide": "Gids lezen",
+    "published": "Gepubliceerd",
+    "updated": "Bijgewerkt"
   },
   "blog": {
-    "blogTitle": "Deadside Cheats Blog | Guides & Patch Tips",
-    "blogDescription": "Deadside guides — survival tips, ESP, aimbot notes, extract routes, and BattlEye update coverage. English blog at deadsidecheats.com/blog/.",
+    "blogTitle": "Deadside Cheats Blog | Gids lezen & Patch Tips",
+    "blogDescription": "Deadside guides — survival tips, ESP, aimbot notes, loot routes, and BattlEye update coverage.",
     "blogH1": "Deadside Cheats Intel",
-    "blogIntro": "Actionable Deadside guides for ranked and Quick Match sessions — meta breakdowns, extract routes, loot routes, and pro warmup routines. Pair these tips with our Deadside Cheats pages for ESP, soft aim, and radar when you need in-match tools.",
-    "readMore": "Read guide",
-    "published": "Published",
-    "updated": "Updated",
+    "blogIntro": "Actionable Deadside guides for survival and PvP raids — loot routes, compound tactics, and squad play. Pair these tips with our Deadside Cheats pages for ESP, soft aim, and radar.",
+    "readMore": "Gids lezen",
+    "published": "Gepubliceerd",
+    "updated": "Bijgewerkt",
     "relatedPosts": "Related Deadside guides",
     "allPosts": "All blog posts",
     "home": "Deadside Cheats home",
     "language": "Language",
-    "label": "Deadside Intel"
+    "label": "Deadside Cheats Intel"
   },
   "gallery": {
     "eyebrow": "Deadside Cheats",
-    "title": "Deadside Cheats gallery",
+    "title": "Deadside Cheats galerij — ESP, Aimbot en wallhack",
     "subtitle": "Deadside Cheats visuals — ESP, wallhack, aimbot, and radar for Deadside on PC.",
-    "lead": "Deadside Cheats helps you spot enemy heroes, loot, and high-traffic POIs with ESP, aimbot, and radar in one license.",
+    "lead": "Deadside Cheats helps you spot enemy players, loot, and compound zones with ESP, aimbot, and radar in one license.",
     "highlightEspTitle": "Deadside Cheats ESP",
-    "highlightEspCopy": "See enemy heroes through walls with Deadside Cheats ESP and wallhack overlays.",
+    "highlightEspCopy": "See enemy players through walls with Deadside Cheats ESP and wallhack overlays.",
     "highlightRadarTitle": "Deadside Cheats radar",
     "highlightRadarCopy": "Track nearby threats with Deadside Cheats radar before you push or rotate.",
     "highlightAimbotTitle": "Deadside Cheats aimbot",
     "highlightAimbotCopy": "Use soft aim and aimbot controls tuned for Deadside matches on Windows PC.",
-    "updatesLabel": "Deadside Cheats updates",
+    "updatesLabel": "Deadside Cheats Updates",
     "updatesShort": "Updates"
   },
   "faq": {
@@ -307,8 +316,8 @@
         "a": "Deadside Cheats se mantiene para Deadside con reconstrucciones tras parches de BattlEye y del juego. Revisa la Status antes de entrar en match. Ningún cheat puede garantizar indetectabilidad permanente."
       },
       "solo-farmer-and-raider-sessions": {
-        "q": "Werkt dit in battle royale-rondes en ranked matches?",
-        "a": "Ja. ESP, radar en aimbot zijn gebouwd voor Deadside-matchflow — vijandelijke helden lezen, loot en soul jades volgen, en bewust blijven bij POI's en gevechtszones in Quick Match en Ranked."
+        "q": "Werkt dit in battle royale-rondes en competitive raids matches?",
+        "a": "Ja. ESP, radar en aimbot zijn gebouwd voor Deadside-matchflow — vijandelijke helden lezen, loot en loot crates volgen, en bewust blijven bij POI's en gevechtszones in PvP raids en competitive raids."
       },
       "esp-wallhack-radar-or-aimbot": {
         "q": "¿Qué incluye: ESP, wallhack, radar o Aimbot?",
@@ -348,11 +357,11 @@
       },
       "what-is-deadside-esp-hack": {
         "q": "Wat is een Deadside ESP hack?",
-        "a": "Een Deadside ESP hack is een zichtbaarheidsoverlay die vijandelijke helden, wapens en loot door muren toont. Deadside Cheats ESP bevat spelerboxen, afstandstags, grapple- en ult-signalen, en schakelbare categorieën voor Quick Match en Ranked."
+        "a": "Een Deadside ESP hack is een zichtbaarheidsoverlay die vijandelijke helden, wapens en loot door muren toont. Deadside Cheats ESP bevat spelerboxen, afstandstags, grapple- en ult-signalen, en schakelbare categorieën voor PvP raids en competitive raids."
       },
       "what-is-deadside-aimbot-hack": {
         "q": "Wat is een Deadside aimbot hack?",
-        "a": "Een Deadside aimbot hack biedt aim assist met instelbare FOV, smoothing en botprioriteit. Deadside Cheats gebruikt soft aim-profielen voor natuurlijke team fights en duels — stel in via het mod-menu vóór Ranked-queues."
+        "a": "Een Deadside aimbot hack biedt aim assist met instelbare FOV, smoothing en botprioriteit. Deadside Cheats gebruikt soft aim-profielen voor natuurlijke team fights en duels — stel in via het mod-menu vóór competitive raids-queues."
       },
       "how-to-install-deadside-cheats": {
         "q": "How do I install deadside cheats on Windows PC?",
@@ -372,7 +381,7 @@
       },
       "what-is-deadside-soft-aim": {
         "q": "Wat is Deadside soft aim?",
-        "a": "Deadside soft aim stuurt zacht richting doelen binnen een ingestelde FOV in plaats van direct te snappen. Deadside Cheats laat smoothing, botprioriteit en profielen per wapentype aanpassen in Quick Match en Ranked."
+        "a": "Deadside soft aim stuurt zacht richting doelen binnen een ingestelde FOV in plaats van direct te snappen. Deadside Cheats laat smoothing, botprioriteit en profielen per wapentype aanpassen in PvP raids en competitive raids."
       },
       "free-deadside-cheat-download": {
         "q": "Is there a free Deadside hack download?",
@@ -383,8 +392,8 @@
         "a": "Er is geen permanente BattlEye-bypass. Deadside Cheats wordt onderhouden met rebuilds na Deadside- en BattlEye-patches — check de Updates-pagina vóór je in de queue gaat. Verantwoorde instellingen en de nieuwste build tellen meer dan elke “bypass”-claim."
       },
       "deadside-cheats-for-ranked": {
-        "q": "Werken deadside cheats in ranked competitief?",
-        "a": "Ja. ESP, radar en soft aim zijn gebouwd voor Ranked en Quick Match in Deadside op Windows PC. Gebruik conservatieve overlay-instellingen, lees onderhoudsnotities na patches en bevestig undetected-status op de Updates-pagina vóór competitieve queues."
+        "q": "Werken deadside cheats in competitive raids competitief?",
+        "a": "Ja. ESP, radar en soft aim zijn gebouwd voor competitive raids en PvP raids in Deadside op Windows PC. Gebruik conservatieve overlay-instellingen, lees onderhoudsnotities na patches en bevestig undetected-status op de Updates-pagina vóór competitieve queues."
       },
       "what-is-deadside-mod-menu": {
         "q": "What is a Deadside mod menu?",

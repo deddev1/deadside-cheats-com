@@ -20,14 +20,14 @@
     "closeMenu": "Close menu"
   },
   "hero": {
-    "accent": "Triches Deadside indétectables",
-    "accentShort": "Deadside Cheats",
+    "accent": "2026 — Undetected ESP, Aimbot & Wallhack",
+    "accentShort": "Undetected deadside cheats 2026",
     "title": "Deadside Cheats",
-    "subtitle": "ESP wallhack, radar hack et Aimbot pour Deadside sur PC Windows — maintenance BattlEye incluse.",
-    "subtitleShort": "ESP, radar et Aimbot pour Deadside PC",
-    "buyNow": "Acheter",
-    "seeFeatures": "Voir les fonctions",
-    "priceFrom": "from",
+    "subtitle": "deadside cheats with Deadside ESP, radar hack and Deadside Aimbot for Windows PC — BattlEye maintenance included.",
+    "subtitleShort": "Deadside ESP, radar & aimbot for PC",
+    "buyNow": "Buy Deadside Cheats",
+    "seeFeatures": "See Features",
+    "priceFrom": "à partir de",
     "imageAlt": "{{brand}} — Deadside ESP and aimbot overlay",
     "chipEsp": "ESP / wallhack",
     "chipAim": "Soft aim",
@@ -82,23 +82,23 @@
     "language": "Language",
     "officialLanguageNote": "English is official; other locales are translated.",
     "relatedPages": "Related pages",
-    "selectLanguage": "Langue",
-    "englishOfficial": "L'anglais est la langue officielle",
-    "englishIsOfficial": "L'anglais est la langue officielle. Les autres versions sont traduites pour le SEO mondial.",
-    "languageSuggestion": "Langue",
-    "dismiss": "Dismiss",
+    "selectLanguage": "Select language",
+    "englishOfficial": "English — official language",
+    "englishIsOfficial": "English is the official language",
+    "languageSuggestion": "Language suggestion",
+    "dismiss": "Fermer",
     "localeVersion": "{{name}} version",
     "localeSuggestLead": "{{nativeName}} ({{region}}) — ",
-    "breadcrumb": "Breadcrumb",
-    "gallery": "Gallery",
-    "inGameLook": "In-game look",
-    "allQuestions": "FAQ",
-    "openAnyQuestion": "Lire le guide",
-    "packageStatus": "Mises à jour",
-    "productDetails": "Fonctions",
-    "browse": "Pages associées",
-    "featured": "Featured",
-    "share": "Share",
+    "breadcrumb": "Fil d'Ariane",
+    "gallery": "Galerie",
+    "inGameLook": "Galerie",
+    "allQuestions": "All questions",
+    "openAnyQuestion": "Open any question for the full answer.",
+    "packageStatus": "Package status",
+    "productDetails": "Product details",
+    "browse": "Browse",
+    "featured": "À la une",
+    "share": "Partager",
     "shareX": "Share on X",
     "shareReddit": "Share on Reddit",
     "shareFacebook": "Share on Facebook",
@@ -106,13 +106,13 @@
     "guides": "Guides",
     "home": "Home",
     "support": "Support",
-    "privacy": "Privacy",
-    "terms": "Terms",
-    "featureList": "Fonctions",
-    "pricingPlans": "Tarifs",
-    "buyerReviewsNav": "Ce que disent les joueurs",
+    "privacy": "Confidentialité",
+    "terms": "Conditions",
+    "featureList": "Feature list",
+    "pricingPlans": "Pricing plans",
+    "buyerReviewsNav": "Buyer reviews",
     "copyright": "© {{year}} {{brand}}",
-    "refundPolicy": "Refund policy"
+    "refundPolicy": "Politique de remboursement"
   },
   "footer": {
     "explore": "Explorer",
@@ -120,17 +120,26 @@
     "tagline": "ESP, wallhack, radar et Aimbot indétectables pour Deadside — checkout via Zadeyo."
   },
   "home": {
-    "aboutTitle": "triches indétectables pour Deadside",
-    "aboutP1": "Pack undetected pour Deadside sur PC Windows : ESP wallhack, radar et Aimbot avec maintenance BattlEye après chaque patch. Tarifs · Mises à jour.",
-    "aboutPricingCta": "Comparer les tarifs",
-    "aboutP2Before": "Commencez par le",
-    "aboutPillar": "pilier Deadside Cheats",
-    "aboutEsp": "guide ESP",
-    "aboutAimbot": "contrôles aimbot",
-    "aboutUndetected": "statut indétectable",
+    "aboutTitle": "undetected cheats for Deadside",
+    "aboutP1": "Deadside Cheats is an undetected deadside cheats package for Deadside on Windows PC. One license includes ESP wallhack, soft aim, and 2D radar, with BattlEye rebuilds after game patches. Check Status before you deploy.",
+    "aboutP1Before": "Deadside Cheats is an undetected Deadside cheat package for Windows PC. One license includes ESP wallhack, soft aim, and 2D radar, with BattlEye rebuilds after game patches. Compare plans on",
+    "aboutStore": "Store",
+    "aboutP1Mid": ", then check",
+    "aboutStatus": "Status",
+    "aboutP1After": " before you drop in.",
+    "aboutPricingCta": "Compare pricing",
+    "aboutP2Before": "Start with the",
+    "aboutPillar": "Deadside cheats pillar",
+    "aboutEsp": "ESP guide",
+    "aboutAimbot": "aimbot controls",
+    "aboutUndetected": "undetected status",
     "aboutP2Mid": ", ",
-    "aboutP2Or": ", ou ",
-    "aboutP2After": " si vous comparez encore les outils.",
+    "aboutP2Or": ", or ",
+    "aboutP2After": " if you are still comparing tools.",
+    "demoGalleryCaption": "Deadside Cheats — ESP, aimbot & radar in match",
+    "demoGalleryScrollLabel": "Deadside Cheats gameplay screenshots",
+    "demoGalleryPrev": "Capture précédente",
+    "demoGalleryNext": "Capture suivante",
     "playDemoVideo": "Play Deadside cheats demo video",
     "pauseDemoVideo": "Pause Deadside cheats demo video",
     "demoVideoCaption": "Deadside Cheats — ESP, aimbot & radar in match",
@@ -140,47 +149,47 @@
     "seekLabel": "Video progress"
   },
   "homeSeo": {
-    "eyebrow": "Guides",
+    "eyebrow": "Hub",
     "title": "Parcourir par catégorie",
-    "lede": "Liens rapides vers fonctions, statut, boutique et aide.",
-    "catFeatures": "Fonctions",
-    "catFeaturesHint": "Ce qui est inclus",
-    "catStatus": "Mises à jour",
-    "catStatusHint": "Avant de jouer",
-    "catStore": "Tarifs",
-    "catStoreHint": "Achat et formules",
-    "catHelp": "FAQ",
-    "catHelpHint": "Besoin d'aide ?",
-    "linkAllFeatures": "Toutes les fonctions",
+    "lede": "Fonctions, Mises à jour, Tarifs, FAQ.",
+    "catFeatures": "Features",
+    "catFeaturesHint": "Fonctions",
+    "catStatus": "Status",
+    "catStatusHint": "Mises à jour",
+    "catStore": "Store",
+    "catStoreHint": "Tarifs",
+    "catHelp": "Help",
+    "catHelpHint": "FAQ",
+    "linkAllFeatures": "Fonctions",
     "linkEsp": "ESP",
     "linkAimbot": "Aimbot",
     "linkRadar": "Radar",
-    "linkLiveStatus": "Statut en direct",
-    "linkUndetected": "Indétectable",
+    "linkLiveStatus": "Mises à jour",
+    "linkUndetected": "Pack indétectable",
     "linkBattlEye": "BattlEye",
     "linkSetup": "Installation",
-    "linkPlans": "Formules",
-    "linkReviews": "Avis",
-    "linkFinalsCheats": "Triches Deadside",
+    "linkPlans": "Tarifs",
+    "linkReviews": "Reviews",
+    "linkFinalsCheats": "Deadside Cheats",
     "linkFaq": "FAQ",
     "linkSupport": "Support",
-    "linkSetupGuide": "Guide d'installation",
+    "linkSetupGuide": "Installation",
     "linkBlog": "Blog",
-    "linkRefunds": "Remboursements",
+    "linkRefunds": "Politique de remboursement",
     "faqEyebrow": "FAQ",
     "faqTitle": "Avant d'acheter",
-    "faqLede": "Livraison, statut de détection et contenu inclus.",
-    "allAnswers": "Toutes les réponses",
-    "openFullPage": "Ouvrir la page complète"
+    "faqLede": "Livraison, statut et contenu inclus.",
+    "allAnswers": "FAQ",
+    "openFullPage": "Lire le guide"
   },
   "deals": {
-    "pricing": "Tarifs",
-    "chooseLicense": "Tarifs",
-    "features": "Fonctions",
+    "pricing": "Pricing",
+    "chooseLicense": "Choose your license",
+    "features": "Features",
     "featEsp": "ESP / wallhack",
-    "featAim": "Aimbot",
+    "featAim": "Soft aim & hotkeys",
     "featRadar": "2D radar",
-    "featUpdates": "Mises à jour"
+    "featUpdates": "Patch updates"
   },
   "trustStrip": {
     "instantDelivery": "Livraison numérique instantanée",
@@ -193,14 +202,14 @@
     "aimbot": "Aimbot",
     "radar": "Radar",
     "wallhack": "Wallhack",
-    "undetected": "Pack indétectable",
-    "features": "Fonctions",
-    "pricing": "Tarifs",
-    "setup": "Installation",
+    "undetected": "Undetected",
+    "features": "Features",
+    "pricing": "Pricing",
+    "setup": "Setup",
     "blog": "Blog"
   },
   "internalLinks": {
-    "relatedLede": "Deadside Cheats — Pages associées.",
+    "relatedLede": "Explore more Deadside Cheats guides mapped to our canonical pages.",
     "topicsTitle": "Fonctions",
     "topicsLabel": "Fonctions",
     "topicsLede": "ESP, Aimbot, Tarifs, Installation, Mises à jour.",
@@ -221,80 +230,80 @@
   },
   "externalResources": {
     "title": "Guides officiels et ressources",
-    "lede": "Nous lions des sources fiables pour vérifier les patchs, stats et cartes hors de notre site.",
+    "lede": "Trusted third-party sources for patch notes, player stats, and map info outside our site.",
     "pillsTitle": "Guides officiels et ressources",
     "pillsLabel": "Guides officiels et ressources",
     "steam": {
       "label": "Deadside sur PC",
-      "note": "Page officielle, configuration requise et avis."
+      "note": "Official store page, system requirements, and player reviews."
     },
     "patch": {
       "label": "Notes de patch Deadside",
-      "note": "Lisez les mises à jour officielles avant de changer votre loadout."
+      "note": "Read official update posts before you change your loadout."
     },
     "official": {
       "label": "Site officiel Deadside",
-      "note": "Présentation du jeu par Bad Pixel."
+      "note": "Game overview from Bad Pixel."
     },
     "wiki": {
       "label": "Wiki Deadside (Fandom)",
-      "note": "Stats joueurs, cartes et mécaniques de survie."
+      "note": "Player stats, maps, and survival mechanics."
     },
     "community": {
-      "label": "Hub Deadside community",
-      "note": "Annonces et discussions communautaires."
+      "label": "Communauté Deadside",
+      "note": "Announcements and community discussions."
     }
   },
   "images": {
-    "hero": "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
-    "espWallhack": "Wallhack outlines showing agents through walls",
+    "hero": "Deadside ESP — tags joueur hack",
+    "espWallhack": "Wallhack outlines showing enemy players through walls",
     "aimbotCombat": "Soft aim assist overlay during a Deadside match",
-    "squadFight": "Deadside Cheats combat overlay during a team fight",
+    "squadFight": "Deadside Cheats combat overlay during a squad fight",
     "playerEsp": "Player ESP boxes and distance readouts in a Deadside match",
     "headerArt": "Aimbot view and bone priority controls for Deadside",
     "hacksPackage": "2D radar threat overlay for Deadside",
-    "raidFight": "Aimbot assist during a Deadside tactical combat",
+    "raidFight": "Aimbot assist during a Deadside firefight",
     "battleRoyale": "Deadside Cheats in-session overview for Windows PC",
-    "raidMap": "ESP markers for hero skills and POIs in Deadside"
+    "raidMap": "ESP markers for loot and players in Deadside"
   },
   "guides": {
-    "hubTitle": "Game Guides Hub",
-    "hubIntro": "Deadside Cheats product guides sit at the top. Scroll down for dedicated PC game guides — each with its own article and resources.",
-    "nativeTitle": "Deadside Cheats guides",
-    "nativeLede": "Our primary guides for ESP, aimbot, radar, setup, and pricing on deadsidecheats.com.",
-    "gameTitle": "Other Games Guides",
-    "gameLede": "Dedicated articles for Fortnite, Tarkov, Warzone, Marvel Rivals, and more — mixed across titles below.",
-    "readGuide": "Read guide",
-    "published": "Published",
-    "updated": "Updated"
+    "hubTitle": "Hub des guides de jeu",
+    "hubIntro": "Les guides produit Deadside Cheats sont en haut. Faites défiler pour les ressources de survie Deadside.",
+    "nativeTitle": "Guides Deadside Cheats",
+    "nativeLede": "Guides ESP, aimbot, radar, installation et tarifs sur deadsidecheats.com.",
+    "gameTitle": "Guides de survie Deadside",
+    "gameLede": "Routes de loot, zones de compounds, tactiques d'escouade et survie sur Deadside.",
+    "readGuide": "Lire le guide",
+    "published": "Publié",
+    "updated": "Mis à jour"
   },
   "blog": {
-    "blogTitle": "Deadside Cheats Blog | Guides & Patch Tips",
-    "blogDescription": "Deadside guides — survival tips, ESP, aimbot notes, extract routes, and BattlEye update coverage. English blog at deadsidecheats.com/blog/.",
+    "blogTitle": "Deadside Cheats Blog | Lire le guide & Patch Tips",
+    "blogDescription": "Deadside guides — survival tips, ESP, aimbot notes, loot routes, and BattlEye update coverage.",
     "blogH1": "Deadside Cheats Intel",
-    "blogIntro": "Actionable Deadside guides for ranked and Quick Match sessions — meta breakdowns, extract routes, loot routes, and pro warmup routines. Pair these tips with our Deadside Cheats pages for ESP, soft aim, and radar when you need in-match tools.",
-    "readMore": "Read guide",
-    "published": "Published",
-    "updated": "Updated",
+    "blogIntro": "Actionable Deadside guides for survival and PvP raids — loot routes, compound tactics, and squad play. Pair these tips with our Deadside Cheats pages for ESP, soft aim, and radar.",
+    "readMore": "Lire le guide",
+    "published": "Publié",
+    "updated": "Mis à jour",
     "relatedPosts": "Related Deadside guides",
     "allPosts": "All blog posts",
     "home": "Deadside Cheats home",
     "language": "Language",
-    "label": "Deadside Intel"
+    "label": "Deadside Cheats Intel"
   },
   "gallery": {
     "eyebrow": "Deadside Cheats",
-    "title": "Deadside Cheats gallery",
+    "title": "Galerie Deadside Cheats — ESP, Aimbot et wallhack",
     "subtitle": "Deadside Cheats visuals — ESP, wallhack, aimbot, and radar for Deadside on PC.",
-    "lead": "Deadside Cheats helps you spot enemy heroes, loot, and high-traffic POIs with ESP, aimbot, and radar in one license.",
+    "lead": "Deadside Cheats helps you spot enemy players, loot, and compound zones with ESP, aimbot, and radar in one license.",
     "highlightEspTitle": "Deadside Cheats ESP",
-    "highlightEspCopy": "See enemy heroes through walls with Deadside Cheats ESP and wallhack overlays.",
+    "highlightEspCopy": "See enemy players through walls with Deadside Cheats ESP and wallhack overlays.",
     "highlightRadarTitle": "Deadside Cheats radar",
     "highlightRadarCopy": "Track nearby threats with Deadside Cheats radar before you push or rotate.",
     "highlightAimbotTitle": "Deadside Cheats aimbot",
     "highlightAimbotCopy": "Use soft aim and aimbot controls tuned for Deadside matches on Windows PC.",
-    "updatesLabel": "Deadside Cheats updates",
-    "updatesShort": "Updates"
+    "updatesLabel": "Deadside Cheats Mises à jour",
+    "updatesShort": "Mises à jour"
   },
   "faq": {
     "items": {
@@ -308,7 +317,7 @@
       },
       "solo-farmer-and-raider-sessions": {
         "q": "Est-ce que ça fonctionne en battle royale et en matchs classés ?",
-        "a": "Oui. ESP, radar et aimbot sont conçus pour le flux de match Deadside — lire les héros ennemis, suivre le loot et les soul jades, et rester vigilant près des POI et zones de combat en Quick Match et Ranked."
+        "a": "Oui. ESP, radar et aimbot sont conçus pour le flux de match Deadside — lire les héros ennemis, suivre le loot et les loot crates, et rester vigilant près des POI et zones de combat en PvP raids et competitive raids."
       },
       "esp-wallhack-radar-or-aimbot": {
         "q": "Qu'est-ce qui est inclus — ESP, wallhack, radar ou Aimbot ?",
@@ -348,11 +357,11 @@
       },
       "what-is-deadside-esp-hack": {
         "q": "Qu'est-ce qu'un ESP hack Deadside ?",
-        "a": "Un ESP hack Deadside est un overlay de visibilité qui affiche héros ennemis, armes et loot à travers les murs. Deadside Cheats ESP inclut boîtes joueur, étiquettes de distance, signaux de grappin et ultime, et catégories configurables pour Quick Match et Ranked."
+        "a": "Un ESP hack Deadside est un overlay de visibilité qui affiche héros ennemis, armes et loot à travers les murs. Deadside Cheats ESP inclut boîtes joueur, étiquettes de distance, signaux de grappin et ultime, et catégories configurables pour PvP raids et competitive raids."
       },
       "what-is-deadside-aimbot-hack": {
         "q": "Qu'est-ce qu'un aimbot hack Deadside ?",
-        "a": "Un aimbot hack Deadside fournit une assistance de visée avec FOV, lissage et priorité d'os configurables. Deadside Cheats utilise des profils soft aim conçus pour paraître naturels en team fights et duels — règle les paramètres dans le menu mod avant les files Ranked."
+        "a": "Un aimbot hack Deadside fournit une assistance de visée avec FOV, lissage et priorité d'os configurables. Deadside Cheats utilise des profils soft aim conçus pour paraître naturels en team fights et duels — règle les paramètres dans le menu mod avant les files competitive raids."
       },
       "how-to-install-deadside-cheats": {
         "q": "How do I install deadside cheats on Windows PC?",
@@ -372,7 +381,7 @@
       },
       "what-is-deadside-soft-aim": {
         "q": "Qu'est-ce que le soft aim Deadside ?",
-        "a": "Le soft aim Deadside guide doucement la visée vers les cibles dans un FOV défini au lieu de verrouiller instantanément. Deadside Cheats permet d'ajuster lissage, priorité d'os et profils par type d'arme pour une assistance contrôlée en Quick Match et Ranked."
+        "a": "Le soft aim Deadside guide doucement la visée vers les cibles dans un FOV défini au lieu de verrouiller instantanément. Deadside Cheats permet d'ajuster lissage, priorité d'os et profils par type d'arme pour une assistance contrôlée en PvP raids et competitive raids."
       },
       "free-deadside-cheat-download": {
         "q": "Is there a free Deadside hack download?",
@@ -384,7 +393,7 @@
       },
       "deadside-cheats-for-ranked": {
         "q": "Les triches Deadside fonctionnent-elles en compétitif classé ?",
-        "a": "Oui. ESP, radar et soft aim sont conçus pour Ranked et Quick Match sur Deadside en PC Windows. Utilisez des réglages d'overlay conservateurs, lisez les notes de maintenance après les patchs et confirmez le statut undetected sur la page Mises à jour avant les files compétitives."
+        "a": "Oui. ESP, radar et soft aim sont conçus pour competitive raids et PvP raids sur Deadside en PC Windows. Utilisez des réglages d'overlay conservateurs, lisez les notes de maintenance après les patchs et confirmez le statut undetected sur la page Mises à jour avant les files compétitives."
       },
       "what-is-deadside-mod-menu": {
         "q": "What is a Deadside mod menu?",
@@ -406,6 +415,6 @@
   },
   "media": {
     "demoVideoTitle": "Deadside Cheats ESP, Aimbot demo",
-    "playVideo": "Play video"
+    "playVideo": "Lire la vidéo"
   }
 }
