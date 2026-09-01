@@ -504,7 +504,7 @@ export const enPages = {
 				'External architecture, stream proofing, and patch-day checklist',
 				'Maintenance prioritizes external-style overlays and behavioral tuning over risky injection patterns. Reduce on-screen ESP markers if you stream — pair with radar for awareness.',
 				'Patch-day checklist: (1) read <a href="/updates/">Updates</a>, (2) confirm BattlEye notes on <a href="/battleye-bypass/">this page</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.',
-				'Deep dives: <a href="/undetected-deadside-cheats/">undetected guide</a> · <a href="/blog/undetected-deadside-cheats-eac/">BattlEye reality blog</a> · <a href="/deadside-cheats/">deadside cheats pillar</a>.',
+				'Deep dives: <a href="/undetected-deadside-cheats/">undetected guide</a> · <a href="/blog/undetected-deadside-cheats-battleye/">BattlEye reality blog</a> · <a href="/deadside-cheats/">deadside cheats pillar</a>.',
 			),
 		],
 	},
@@ -576,7 +576,7 @@ export const enPages = {
 				'Undetected status and BattlEye',
 				'Deadside runs on BattlEye. No cheat can promise permanent undetected status — what matters is maintenance after patches. Deadside Cheats rebuilds ESP, radar, and aim modules when BattlEye or Deadside updates ship.',
 				'Check the <a href="/updates/">Status page</a> before patch-day load ins. Read <a href="/undetected-deadside-cheats/">undetected deadside cheats</a> and <a href="/battleye-bypass/">BattlEye bypass guide</a> for the full workflow.',
-				'Official background: <a href="https://www.easy.ac/" target="_blank" rel="noopener noreferrer">BattlEye</a>. Questions before checkout: <a href="/faq/">FAQ</a> and <a href="/support/">Support</a>.',
+				'Official background: <a href="https://www.battleye.com/" target="_blank" rel="noopener noreferrer">BattlEye</a>. Questions before checkout: <a href="/faq/">FAQ</a> and <a href="/support/">Support</a>.',
 			),
 			section(
 				'Getting started',

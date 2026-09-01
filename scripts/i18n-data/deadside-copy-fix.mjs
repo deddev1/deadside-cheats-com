@@ -49,8 +49,6 @@ const REPLACEMENTS = [
 	[/2D radar/gi, '2D radar'],
 	[/deadside cheats pc/gi, 'deadside cheats pc'],
 	[/Deadside Cheats/g, 'Deadside Cheats'],
-	[/Deadside cheats/g, 'Deadside cheats'],
-	[/deadside cheats/gi, 'deadside cheats'],
 	[/">hacks<\/a>/g, '">cheats</a>'],
 ];
 

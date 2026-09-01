@@ -156,7 +156,7 @@ const ENGLISH_PATHS = [
 	'/blog/deadside-cheats-2026-whats-new/',
 	'/blog/deadside-aimbot-settings-guide/',
 	'/blog/deadside-esp-wallhack-explained/',
-	'/blog/undetected-deadside-cheats-eac/',
+	'/blog/undetected-deadside-cheats-battleye/',
 	'/blog/deadside-cheats-vs-cheatvault-comparison/',
 	'/blog/elitefn-vs-deadside-cheats-two-week-test/',
 	'/blog/deadside-cheats-vs-ghostware-features-pricing/',

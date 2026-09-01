@@ -18,8 +18,8 @@ const EXT = {
 		'<a href="https://store.steampowered.com/app/895400/Deadside/" target="_blank" rel="noopener noreferrer">Deadside</a>',
 	status:
 		'<a href="https://store.steampowered.com/app/895400/Deadside//" target="_blank" rel="noopener noreferrer">Deadside on PC</a>',
-	eac:
-		'<a href="https://www.easy.ac/" target="_blank" rel="noopener noreferrer">BattlEye</a>',
+	battleye:
+		'<a href="https://www.battleye.com/" target="_blank" rel="noopener noreferrer">BattlEye</a>',
 };
 
 /** @typedef {{ h2: string, paragraphs: string[] }} Section */
@@ -55,7 +55,7 @@ const sources = [
 				paragraphs: [
 					`Official notes live on ${EXT.deadside}. Treat that page as the source of truth — Discord rumors and streamer hot takes come second. Ask three plain questions for every bullet: Does this change how shield tiers fight? Does this change what economy rounds are worth saving? Does this change which site or map I should play tonight?`,
 					'Growth stat tables, armor tiers, heli spawn rates, and blueprint unlocks move the real economy. A small recoil control tweak on an mid-tier weapons looks boring in a video title, but it quietly reshapes mid-range fights on maps and Map. Cosmetic lines and UI polish almost never decide whether you survive high-traffic zones.',
-					`If you also run third-party tools, separate game balance from anti-cheat maintenance. After a ${EXT.eac} or client update, check our <a href="/updates/">Deadside Cheats status page</a> before you blame your own aim.`,
+					`If you also run third-party tools, separate game balance from anti-cheat maintenance. After a ${EXT.battleye} or client update, check our <a href="/updates/">Deadside Cheats status page</a> before you blame your own aim.`,
 				],
 			},
 			{
@@ -162,7 +162,7 @@ const sources = [
 			{
 				h2: 'Loadout pairings and common mistakes',
 				paragraphs: [
-					'A durable kit is usually a reliable mid-tier AR, an SMG build in compound zones or high-traffic zones, enough meds, and an armor tier you can replace after deaths. In Quick Match sessions, that same spine supports the aggression patterns in our <a href="/blog/deadside-loot-run-strategies/">economy round strategies article</a>.',
+					'A durable kit is usually a reliable mid-tier AR, an SMG build in compound zones or high-traffic zones, enough meds, and an armor tier you can replace after deaths. In PvP raid sessions, that same spine supports the aggression patterns in our <a href="/blog/deadside-loot-run-strategies/">economy round strategies article</a>.',
 					'Common mistakes: full-spraying from eighty meters, re-peeking the same pixel, swapping to an SMG at forty meters out of habit, and never practicing controlled bursts offline. If you also use aim-assist tooling, lock aim smoothing and fundamentals first, then review <a href="/deadside-aimbot/">Deadside Aimbot settings</a>.',
 				],
 			},
@@ -189,10 +189,10 @@ const sources = [
 			'extract routes',
 			'Deadside ESP',
 		],
-		imageAlt: 'Deadside heroes pushing toward a contested POI',
+		imageAlt: 'Deadside players pushing toward a contested POI',
 		sections: [
 			{
-				h2: 'Why so many Quick Match lobbies feel soft',
+				h2: 'Why so many PvP raid lobbies feel soft',
 				paragraphs: [
 					'starter kits are random, timers are limited, and player enemy players can turn on you. Waiting forever for a “perfect” third-party often means you arrive late to a patched lobby with nothing left. Information tools like <a href="/deadside-esp/">Deadside ESP</a> can help you see fights early — but you still need an exit plan.',
 					'Decide your match route before you swing. Take a clear damage window, grab high-value loot, then leave. The usual third-party clock in hot POIs is only a few seconds long once gunfire starts.',
@@ -379,7 +379,7 @@ const sources = [
 				h2: 'Why your first match should not be the warmup',
 				paragraphs: [
 					'Most players boot the game, slap on a kit, and die to the first clean peeker. Hands are cold, audio is not dialed, and map timing feels off. Treat warmup as part of the match, not optional fluff.',
-					'Offline practice, practice server habits, and a couple of low-stakes Quick Match sessions exist so your expensive grown player is not the experiment.',
+					'Offline practice, practice server habits, and a couple of low-stakes PvP raid sessions exist so your expensive geared loadout is not the experiment.',
 				],
 			},
 			{
@@ -438,7 +438,7 @@ const sources = [
 			{
 				h2: 'BattlEye, “undetected,” and honest expectations',
 				paragraphs: [
-					`${EXT.eac} protects Deadside. No seller can promise permanent undetected status. What a serious vendor can offer is maintenance: rebuilds after patches, a public status note, and clear setup steps. That workflow is documented on <a href="/updates/">undetected deadside cheats</a> and <a href="/updates/">BattlEye maintenance</a>.`,
+					`${EXT.battleye} protects Deadside. No seller can promise permanent undetected status. What a serious vendor can offer is maintenance: rebuilds after patches, a public status note, and clear setup steps. That workflow is documented on <a href="/updates/">undetected deadside cheats</a> and <a href="/updates/">BattlEye maintenance</a>.`,
 					'Before every patch-day load in, read <a href="/updates/">Updates</a>. If status is quiet, wait. Responsible settings matter as much as the binary itself.',
 				],
 			},
@@ -524,7 +524,7 @@ const sources = [
 				h2: 'Why 2026 buyers care more about status pages',
 				paragraphs: [
 					'Players got tired of “undetected forever” slogans. They want a dated note after patches. That is why we invest in the <a href="/updates/">Updates</a> log and the <a href="/updates/">undetected explainer</a> instead of empty guarantees.',
-					`${EXT.eac} and Deadside client updates still force rebuilds. The shops that survive are the ones that communicate during those windows.`,
+					`${EXT.battleye} and Deadside client updates still force rebuilds. The shops that survive are the ones that communicate during those windows.`,
 				],
 			},
 			{
@@ -634,13 +634,13 @@ const sources = [
 		],
 	},
 	{
-		id: 'undetected-deadside-cheats-eac',
+		id: 'undetected-deadside-cheats-battleye',
 		imageKey: 'playerEsp',
 		published: '2026-07-19',
 		updated: '2026-08-13',
 		category: 'Undetected',
 		featured: true,
-		slug: 'undetected-deadside-cheats-eac',
+		slug: 'undetected-deadside-cheats-battleye',
 		title: 'Undetected Deadside Cheats and BattlEye Reality',
 		metaDescription:
 			'What “undetected deadside cheats” really means under BattlEye — maintenance, patch days, risk, and how to read status before you queue Deadside.',
@@ -659,14 +659,14 @@ const sources = [
 			{
 				h2: 'What undetected can honestly mean',
 				paragraphs: [
-					`BattlEye is documented at ${EXT.eac}. It evolves. Vendors who care publish rebuild notes when ESP, radar, or aim modules need work. Deadside Cheats does that on <a href="/updates/">Updates</a> and explains the workflow on <a href="/updates/">BattlEye maintenance</a>.`,
+					`BattlEye is documented at ${EXT.battleye}. It evolves. Vendors who care publish rebuild notes when ESP, radar, or aim modules need work. Deadside Cheats does that on <a href="/updates/">Updates</a> and explains the workflow on <a href="/updates/">BattlEye maintenance</a>.`,
 					'If a seller says “100% undetected forever,” treat it as advertising. Your risk also depends on how obviously you play.',
 				],
 			},
 			{
 				h2: 'Patch-day habits that reduce pain',
 				paragraphs: [
-					`After a Deadside or BattlEye update, wait for a status note before loading in. Confirm Riot services on ${EXT.status} if the launcher itself is failing. Do not run yesterday’s build into today’s anti-cheat and call it bad luck.`,
+					`After a Deadside or BattlEye update, wait for a status note before loading in. Confirm ${EXT.status} is online if the launcher itself is failing. Do not run yesterday’s build into today’s anti-cheat and call it bad luck.`,
 					'Keep soft aim conservative and avoid highlight-reel rage settings that attract reports even when the binary is clean.',
 				],
 			},
@@ -900,7 +900,7 @@ const POST_META = {
 		h1: 'Deadside ESP and Wallhack Guide',
 		keywords: ['deadside esp', 'deadside wallhack', 'deadside cheats'],
 	},
-	'undetected-deadside-cheats-eac': {
+	'undetected-deadside-cheats-battleye': {
 		h1: 'Undetected Deadside Cheats Explained',
 		keywords: ['undetected deadside cheats', 'battleye bypass', 'ban risk'],
 	},
@@ -952,7 +952,7 @@ const EXTRA_SECTIONS = {
 			h2: 'Growth runs and information tools work together',
 			paragraphs: [
 				'Juvenile timing is about seconds. Seeing a fight early — through sound, map knowledge, or <a href="/deadside-esp/">ESP</a> — lets you third-party with a plan instead of sprinting into a crossfire.',
-				'After a strong Quick Match session, protect the kit with conservative settings from our <a href="/deadside-aimbot/">aimbot guide</a> and check <a href="/updates/">Updates</a> before long matches on patch weeks.',
+				'After a strong PvP raid session, protect the kit with conservative settings from our <a href="/deadside-aimbot/">aimbot guide</a> and check <a href="/updates/">Updates</a> before long matches on patch weeks.',
 			],
 		},
 	],
@@ -970,7 +970,7 @@ const EXTRA_SECTIONS = {
 			h2: 'Route discipline plus loot awareness',
 			paragraphs: [
 				'Routes fail when players loot like tourists. Mark your ninety-second plan, stick to cover ladders, and use <a href="/deadside-esp/">player ESP filters</a> only to confirm what your route already predicted — not to replace map knowledge.',
-				'Strong routes feed into Quick Match sessions and Ranked spawns. Link this guide with <a href="/deadside-cheats/">Deadside Cheats</a> if you want radar for compound zones after your kit is online.',
+				'Strong routes feed into PvP raids and squad sessions. Link this guide with <a href="/deadside-cheats/">Deadside Cheats</a> if you want radar for compound zones after your kit is online.',
 			],
 		},
 	],
@@ -1037,7 +1037,7 @@ const EXTRA_SECTIONS = {
 			],
 		},
 	],
-	'undetected-deadside-cheats-eac': [
+	'undetected-deadside-cheats-battleye': [
 		{
 			h2: 'Responsible undetected habits for Deadside',
 			paragraphs: [
