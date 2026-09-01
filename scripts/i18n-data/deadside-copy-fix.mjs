@@ -4,7 +4,9 @@
  */
 const REPLACEMENTS = [
 	[/enemy heroes/gi, 'enemy players'],
-	[/enemy hero/gi, 'enemy player'],
+	[/enemies and heroes/gi, 'enemy players'],
+	[/,\s*heroes,/gi, ', players,'],
+	[/spot enemy heroes/gi, 'spot enemy players'],
 	[/hero skills/gi, 'loot and player markers'],
 	[/hero skill/gi, 'loot marker'],
 	[/soul jades/gi, 'loot crates'],
@@ -29,6 +31,18 @@ const REPLACEMENTS = [
 	[/maintenance EAC/gi, 'BattlEye maintenance'],
 	[/EAC-Wartung/gi, 'BattlEye-Wartung'],
 	[/mantenimiento EAC/gi, 'mantenimiento BattlEye'],
+	[/Deadside- of EAC-update/gi, 'Deadside- of BattlEye-update'],
+	[/Deadside lub EAC/gi, 'Deadside lub BattlEye'],
+	[/Deadside sau EAC/gi, 'Deadside sau BattlEye'],
+	[/Deadside nebo EAC/gi, 'Deadside nebo BattlEye'],
+	[/Deadside eller EAC/gi, 'Deadside eller BattlEye'],
+	[/Deadside of EAC/gi, 'Deadside of BattlEye'],
+	[/Deadside oder EAC/gi, 'Deadside oder BattlEye'],
+	[/Deadside або EAC/gi, 'Deadside або BattlEye'],
+	[/Deadside أو EAC/gi, 'Deadside أو BattlEye'],
+	[/Vandal\/Phantom/gi, 'AR and SMG'],
+	[/Vandal vs Spectre/gi, 'AR and SMG'],
+	[/souljade/gi, 'loot crate'],
 	[/before you queue/gi, 'before you deploy'],
 	[/hero abilities/gi, 'map mechanics'],
 	[/landing for alternate search wording\./g, 'landing page.'],
@@ -49,8 +63,6 @@ const REPLACEMENTS = [
 	[/2D radar/gi, '2D radar'],
 	[/deadside cheats pc/gi, 'deadside cheats pc'],
 	[/Deadside Cheats/g, 'Deadside Cheats'],
-	[/Deadside cheats/g, 'Deadside cheats'],
-	[/deadside cheats/gi, 'deadside cheats'],
 	[/">hacks<\/a>/g, '">cheats</a>'],
 ];
 

@@ -62,10 +62,10 @@ export const generatedCustomerReviews = [
 		"text": "i dont even run aimbot much — these cheats feels solid for loot zone runs. per-weapon profiles is why i kept it after testing status page on airfield. only gripe is menu could be cleaner but support answered same day. would recommend if you want undetected deadside cheats for pvp raids",
 		"short": "these cheats — per-weapon profiles on loot zone, support was quick",
 		"slug": "deadside-review-lootgoblinx-5",
-		"seoTitle": "Ranked Review by @lootGoblinx — 4/5 | {brand}",
+		"seoTitle": "PvP raids Review by @lootGoblinx — 4/5 | {brand}",
 		"seoDescription": "@lootGoblinx rates {brand} 4/5 — per-weapon profiles for Deadside on Windows PC.",
 		"date": "2026-06-06",
-		"tag": "Ranked"
+		"tag": "PvP raids"
 	},
 	{
 		"handle": "rankedGrind42",
@@ -172,10 +172,10 @@ export const generatedCustomerReviews = [
 		"text": "solo player here — these cheats feels solid for extract point runs. per-weapon profiles is why i kept it after testing status page on extract point. only gripe is menu could be cleaner but support answered same day. would recommend if you want undetected deadside cheats for pvp raids",
 		"short": "these cheats — per-weapon profiles on extract point, support was quick",
 		"slug": "deadside-review-duoqueuemike-15",
-		"seoTitle": "Ranked Review by @duoQueueMike — 4/5 | {brand}",
+		"seoTitle": "PvP raids Review by @duoQueueMike — 4/5 | {brand}",
 		"seoDescription": "@duoQueueMike rates {brand} 4/5 — per-weapon profiles for Deadside on Windows PC.",
 		"date": "2026-06-16",
-		"tag": "Ranked"
+		"tag": "PvP raids"
 	},
 	{
 		"handle": "extractOrDie",
@@ -282,10 +282,10 @@ export const generatedCustomerReviews = [
 		"text": "main reason i bought — these cheats feels solid for airfield runs. per-weapon profiles is why i kept it after testing status page on loot zone. only gripe is menu could be cleaner but support answered same day. would recommend if you want undetected deadside cheats for pvp raids",
 		"short": "these cheats — per-weapon profiles on airfield, support was quick",
 		"slug": "deadside-review-monthlymike-25",
-		"seoTitle": "Ranked Review by @monthlyMike — 4/5 | {brand}",
+		"seoTitle": "PvP raids Review by @monthlyMike — 4/5 | {brand}",
 		"seoDescription": "@monthlyMike rates {brand} 4/5 — per-weapon profiles for Deadside on Windows PC.",
 		"date": "2026-06-26",
-		"tag": "Ranked"
+		"tag": "PvP raids"
 	},
 	{
 		"handle": "lifetimeLex",
@@ -392,10 +392,10 @@ export const generatedCustomerReviews = [
 		"text": "first week with this cheat — these cheats feels solid for compound runs. per-weapon profiles is why i kept it after testing status page on compound. only gripe is menu could be cleaner but support answered same day. would recommend if you want undetected deadside cheats for pvp raids",
 		"short": "these cheats — per-weapon profiles on compound, support was quick",
 		"slug": "deadside-review-chopperchad-35",
-		"seoTitle": "Ranked Review by @chopperChad — 4/5 | {brand}",
+		"seoTitle": "PvP raids Review by @chopperChad — 4/5 | {brand}",
 		"seoDescription": "@chopperChad rates {brand} 4/5 — per-weapon profiles for Deadside on Windows PC.",
 		"date": "2026-07-08",
-		"tag": "Ranked"
+		"tag": "PvP raids"
 	},
 	{
 		"handle": "soloGrind77",
@@ -502,10 +502,10 @@ export const generatedCustomerReviews = [
 		"text": "been using this a while now — these cheats feels solid for loot zone runs. per-weapon profiles is why i kept it after testing status page on airfield. only gripe is menu could be cleaner but support answered same day. would recommend if you want undetected deadside cheats for pvp raids",
 		"short": "these cheats — per-weapon profiles on loot zone, support was quick",
 		"slug": "deadside-review-smoothaimjay-45",
-		"seoTitle": "Ranked Review by @smoothAimJay — 4/5 | {brand}",
+		"seoTitle": "PvP raids Review by @smoothAimJay — 4/5 | {brand}",
 		"seoDescription": "@smoothAimJay rates {brand} 4/5 — per-weapon profiles for Deadside on Windows PC.",
 		"date": "2026-07-18",
-		"tag": "Ranked"
+		"tag": "PvP raids"
 	},
 	{
 		"handle": "wallhackWes",
@@ -612,10 +612,10 @@ export const generatedCustomerReviews = [
 		"text": "honestly — these cheats feels solid for extract point runs. per-weapon profiles is why i kept it after testing status page on extract point. only gripe is menu could be cleaner but support answered same day. would recommend if you want undetected deadside cheats for pvp raids",
 		"short": "these cheats — per-weapon profiles on extract point, support was quick",
 		"slug": "deadside-review-undetecteduma-55",
-		"seoTitle": "Ranked Review by @undetectedUma — 4/5 | {brand}",
+		"seoTitle": "PvP raids Review by @undetectedUma — 4/5 | {brand}",
 		"seoDescription": "@undetectedUma rates {brand} 4/5 — per-weapon profiles for Deadside on Windows PC.",
 		"date": "2026-07-28",
-		"tag": "Ranked"
+		"tag": "PvP raids"
 	},
 	{
 		"handle": "patchDayPat",
@@ -722,10 +722,10 @@ export const generatedCustomerReviews = [
 		"text": "i dont even run aimbot much — these cheats feels solid for airfield runs. per-weapon profiles is why i kept it after testing status page on loot zone. only gripe is menu could be cleaner but support answered same day. would recommend if you want undetected deadside cheats for pvp raids",
 		"short": "these cheats — per-weapon profiles on airfield, support was quick",
 		"slug": "deadside-review-vehiclevic-65",
-		"seoTitle": "Ranked Review by @vehicleVic — 4/5 | {brand}",
+		"seoTitle": "PvP raids Review by @vehicleVic — 4/5 | {brand}",
 		"seoDescription": "@vehicleVic rates {brand} 4/5 — per-weapon profiles for Deadside on Windows PC.",
 		"date": "2026-07-10",
-		"tag": "Ranked"
+		"tag": "PvP raids"
 	},
 	{
 		"handle": "nightVisionNina",
@@ -832,10 +832,10 @@ export const generatedCustomerReviews = [
 		"text": "solo player here — these cheats feels solid for compound runs. per-weapon profiles is why i kept it after testing status page on compound. only gripe is menu could be cleaner but support answered same day. would recommend if you want undetected deadside cheats for pvp raids",
 		"short": "these cheats — per-weapon profiles on compound, support was quick",
 		"slug": "deadside-review-clipcleanchris-75",
-		"seoTitle": "Ranked Review by @clipCleanChris — 4/5 | {brand}",
+		"seoTitle": "PvP raids Review by @clipCleanChris — 4/5 | {brand}",
 		"seoDescription": "@clipCleanChris rates {brand} 4/5 — per-weapon profiles for Deadside on Windows PC.",
 		"date": "2026-08-20",
-		"tag": "Ranked"
+		"tag": "PvP raids"
 	},
 	{
 		"handle": "modMenuMia",
@@ -942,10 +942,10 @@ export const generatedCustomerReviews = [
 		"text": "main reason i bought — these cheats works ok for loot zone runs. per-weapon profiles is why i kept it after testing status page on airfield. defender blocked loader first try but support fixed my key in a couple hours. still testing more before i call it perfect tbh",
 		"short": "these cheats — per-weapon profiles on loot zone, setup took patience",
 		"slug": "deadside-review-loottrackleo-85",
-		"seoTitle": "Ranked Review by @lootTrackLeo — 3/5 | {brand}",
+		"seoTitle": "PvP raids Review by @lootTrackLeo — 3/5 | {brand}",
 		"seoDescription": "@lootTrackLeo rates {brand} 3/5 — per-weapon profiles for Deadside on Windows PC.",
 		"date": "2026-08-02",
-		"tag": "Ranked"
+		"tag": "PvP raids"
 	},
 	{
 		"handle": "kitCallKay",
@@ -1052,10 +1052,10 @@ export const generatedCustomerReviews = [
 		"text": "first week with this cheat — these cheats feels solid for extract point runs. per-weapon profiles is why i kept it after testing status page on extract point. only gripe is menu could be cleaner but support answered same day. would recommend if you want undetected deadside cheats for pvp raids",
 		"short": "these cheats — per-weapon profiles on extract point, support was quick",
 		"slug": "deadside-review-deadsidedan-95",
-		"seoTitle": "Ranked Review by @deadsideDan — 4/5 | {brand}",
+		"seoTitle": "PvP raids Review by @deadsideDan — 4/5 | {brand}",
 		"seoDescription": "@deadsideDan rates {brand} 4/5 — per-weapon profiles for Deadside on Windows PC.",
 		"date": "2026-08-12",
-		"tag": "Ranked"
+		"tag": "PvP raids"
 	},
 	{
 		"handle": "hacksHannah",

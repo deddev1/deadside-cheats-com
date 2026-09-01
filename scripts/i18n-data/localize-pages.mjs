@@ -102,15 +102,15 @@ function localizeRichPage(enPage, locale, pageKey) {
 /** Optional native h2 overrides for rich pages. */
 const RICH_SECTION_H2 = {
 	es: {
-		'deadside-esp': ['Qué resuelve el ESP en matches', 'Categorías ESP jugador, apex y loot', 'ESP indetectable con mantenimiento EAC', 'ESP — siguientes pasos'],
+		'deadside-esp': ['Qué resuelve el ESP en raids', 'Categorías ESP jugador, loot y vehículos', 'ESP indetectable con mantenimiento BattlEye', 'ESP — siguientes pasos'],
 		hacks: ['¿Qué son los trucos de Deadside?', 'Qué incluye Deadside Cheats', 'Estado indetectable y BattlEye', 'Primeros pasos'],
 	},
 	fr: {
-		'deadside-esp': ['Ce que l\'ESP résout en match', 'Catégories ESP joueur, apex et loot', 'ESP indétectable avec maintenance EAC', 'ESP — prochaines étapes'],
+		'deadside-esp': ['Ce que l\'ESP résout en raid', 'Catégories ESP joueur, loot et véhicules', 'ESP indétectable avec maintenance BattlEye', 'ESP — prochaines étapes'],
 		hacks: ['Que sont les triches Deadside ?', 'Ce que Deadside Cheats inclut', 'Statut indétectable et BattlEye', 'Premiers pas'],
 	},
 	de: {
-		'deadside-esp': ['Was ESP in matches löst', 'Spieler-, Apex- und Loot-ESP-Kategorien', 'Undetected ESP mit EAC-Wartung', 'ESP — nächste Schritte'],
+		'deadside-esp': ['Was ESP in Raids löst', 'Spieler-, Loot- und Fahrzeug-ESP-Kategorien', 'Undetected ESP mit BattlEye-Wartung', 'ESP — nächste Schritte'],
 		hacks: ['Was sind Deadside Cheats?', 'Was Deadside Cheats enthält', 'Undetected-Status und BattlEye', 'Erste Schritte'],
 	},
 };

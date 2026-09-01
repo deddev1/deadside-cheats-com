@@ -198,6 +198,13 @@ const chipKeys = [
 		z-index: 1;
 		pointer-events: none;
 		background:
+			radial-gradient(
+				ellipse 95% 140% at 0% 0%,
+				color-mix(in srgb, var(--bg) 78%, transparent) 0%,
+				color-mix(in srgb, var(--bg) 52%, transparent) 38%,
+				color-mix(in srgb, var(--bg) 22%, transparent) 62%,
+				transparent 82%
+			),
 			linear-gradient(
 				180deg,
 				color-mix(in srgb, var(--bg) 22%, transparent) 0%,
@@ -206,8 +213,8 @@ const chipKeys = [
 			),
 			linear-gradient(
 				90deg,
-				color-mix(in srgb, var(--bg) 84%, transparent) 0%,
-				color-mix(in srgb, var(--bg) 58%, transparent) 34%,
+				color-mix(in srgb, var(--bg) 88%, transparent) 0%,
+				color-mix(in srgb, var(--bg) 62%, transparent) 34%,
 				color-mix(in srgb, var(--bg) 28%, transparent) 58%,
 				color-mix(in srgb, var(--bg) 12%, transparent) 74%,
 				color-mix(in srgb, var(--bg) 18%, transparent) 100%
@@ -441,6 +448,12 @@ const chipKeys = [
 
 		.hero__veil {
 			background:
+				radial-gradient(
+					ellipse 80% 110% at 0% 0%,
+					color-mix(in srgb, var(--bg) 82%, transparent) 0%,
+					color-mix(in srgb, var(--bg) 55%, transparent) 42%,
+					transparent 72%
+				),
 				linear-gradient(
 					180deg,
 					color-mix(in srgb, var(--bg) 35%, transparent) 0%,

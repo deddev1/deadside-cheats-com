@@ -1,5 +1,4 @@
 import { brand, fillBrandTokens, seoDescription, seoTitle } from './brand';
-import { globalSeoKeywords } from './seo-keywords';
 
 /**
  * Title clamp lives here — NOT in brand.ts.
@@ -77,7 +76,7 @@ const seoDefaults = {
 		'What Deadside players actually say — ESP in raid, BattlEye after patches, setup, and support. Honest ratings from license holders at deadsidecheats.com.',
 	blogTitle: 'Deadside Blog | Guides & Patch Tips | {brand}',
 	blogDescription:
-		'Deadside guides — ranked tips, ESP & aimbot notes, loot routes & {antiCheat} updates for PC. Read the blog at deadsidecheats.com/blog.',
+		'Deadside guides — survival tips, ESP & aimbot notes, loot routes & {antiCheat} updates for PC. Read the blog at deadsidecheats.com/blog.',
 } as const;
 
 type SeoShape = typeof seoDefaults;
@@ -117,9 +116,6 @@ export const siteConfig = {
 	twitterSite: brand.social.twitterSite,
 	socialSameAs: [...brand.social.sameAs],
 } as const;
-
-/** Prefer brand.keywords — kept for Layout meta keywords. */
-export const seoKeywords = globalSeoKeywords;
 
 /** Blog eyebrow / title suffix */
 export const blogLabel = fillBrandTokens(brandCopy.blogLabel);

@@ -17,10 +17,10 @@ export const enPages = {
 		sections: [
 			section(
 				'Why players choose deadside cheats in 2026',
-				'Deadside rewards map awareness. Deadside Cheats combines ESP wallhack for enemy heroes and player positions, radar-style threat cues, and configurable Aimbot so you can read fights before committing — in ranked, Quick Match, and official servers.',
-				`Official seasons, patches, and anti-cheat updates come from ${EXT.deadside} and ${EXT.eac}. We rebuild ESP, radar, and Aimbot modules when those patches require maintenance — then post status on the <a href="/updates/">Updates page</a>.`,
+				'Deadside rewards map awareness. Deadside Cheats combines ESP wallhack for enemy players and squad positions, radar-style threat cues, and configurable Aimbot so you can read fights before committing — in PvP raids, loot runs, and official servers.',
+				`Official seasons, patches, and anti-cheat updates come from ${EXT.deadside} and ${EXT.battleye}. We rebuild ESP, radar, and Aimbot modules when those patches require maintenance — then post status on the <a href="/updates/">Updates page</a>.`,
 				'Licenses ship digitally after payment confirmation. Monthly ($35) and lifetime ($150) plans include BattlEye maintenance rebuilds when anti-cheat or game patches require updates.',
-				'Many shops sell ESP-only or aimbot-only modules. Deadside Cheats ships player ESP wallhack, hero skill markers, 2D radar overlays, and configurable soft aim in one license — with a public <a href="/updates/">status log</a> after BattlEye patches.',
+				'Many shops sell ESP-only or aimbot-only modules. Deadside Cheats ships player ESP wallhack, loot and player markers, 2D radar overlays, and configurable soft aim in one license — with a public <a href="/updates/">status log</a> after BattlEye patches.',
 				'Compare our stack on <a href="/compare/">Compare</a>, read <a href="/undetected-deadside-cheats/">undetected deadside cheats</a>, and review <a href="/">deadside cheats 2026</a> criteria before checkout.',
 			),
 			section(
@@ -39,7 +39,7 @@ export const enPages = {
 			'Deadside ESP wallhack — player boxes, loot markers & distance tags on PC. Undetected deadside cheats with aimbot & radar. Shop at deadsidecheats.com.',
 		h1: 'Deadside ESP — Player Boxes & Wallhack',
 		intro:
-			'Deadside ESP visibility tools for ranked and Quick Match sessions. Read enemy squads, heroes, loot, and distance before you commit — toggleable Deadside ESP wallhack overlays bundled in our Deadside Cheats package.',
+			'Deadside ESP visibility tools for survival raids and squad sessions. Read enemy squads, player positions, loot crates, and distance before you commit — toggleable Deadside ESP wallhack overlays bundled in our Deadside Cheats package.',
 		imageAlt: "Deadside ESP player boxes and distance readouts in a match",
 		galleryTitle: 'Deadside ESP overlay visuals',
 		ctaPrimary: 'Buy Deadside Cheats',
@@ -48,8 +48,8 @@ export const enPages = {
 		sections: [
 			section(
 				'What Deadside ESP solves in matches',
-				'Deadside maps punish incomplete information. Deadside Cheats ESP wallhack helps you spot enemy squads early, spot enemy heroes before they push your angle, and mark high-value eliminations worth the push.',
-				'In ranked, Quick Match, and official servers, that visibility gap is often the difference between a clean third-party and a patched squad. ESP ships bundled with radar overlays and Aimbot in one license.',
+				'Deadside maps punish incomplete information. Deadside Cheats ESP wallhack helps you spot enemy squads early, spot enemy players before they push your angle, and mark high-value loot worth the push.',
+				'In PvP raids, loot runs, and official servers, that visibility gap is often the difference between a clean third-party and a patched squad. ESP ships bundled with radar overlays and Aimbot in one license.',
 				`Deadside’s live seasons and map updates are published by Bad Pixel (${EXT.deadside}). When POIs or match rules shift, ESP categories stay useful because they track players and loot — not a single static landmark.`,
 			),
 			section(
@@ -78,7 +78,7 @@ export const enPages = {
 			),
 			section(
 				'Hero ESP, skeleton overlays, and threat awareness',
-				'Beyond basic player boxes, Deadside Cheats ESP supports hero skill markers, distance tags, and configurable skeleton-style outlines for ranked reads. Toggle categories so souljade contests, third-party fights, and flank routes stay readable without screen clutter.',
+				'Beyond basic player boxes, Deadside Cheats ESP supports loot and player markers, distance tags, and configurable skeleton-style outlines for compound reads. Toggle categories so loot runs, third-party fights, and flank routes stay readable without screen clutter.',
 				'Pair ESP with <a href="/deadside-radar-hack/">2D radar</a> for off-screen threats during zone pushes. Map-specific awareness (high-traffic POIs and vertical extract routes) matters as much as raw wallhack range.',
 				'Stream-conscious players can reduce on-screen markers and rely on radar plus minimal boxes — see <a href="/features/">Features</a> for the full toggle list.',
 			),
@@ -136,7 +136,7 @@ export const enPages = {
 			section(
 				'Legit vs rage soft aim settings',
 				'Legit settings use narrow FOV (roughly 4–12 degrees), medium smoothness, and visibility checks so tracking looks natural in killcam review. Rage settings widen FOV and reduce smoothing — higher ban risk from player reports even when BattlEye is clean.',
-				'Start with body-priority bones for entries, head-priority for cleanups, and per-weapon profiles for Vandal vs Spectre fights. Full walkthrough: <a href="/blog/deadside-aimbot-settings-guide/">aimbot settings guide</a>.',
+				'Start with body-priority bones for entries, head-priority for cleanups, and per-weapon profiles for AR and SMG fights. Full walkthrough: <a href="/blog/deadside-aimbot-settings-guide/">aimbot settings guide</a>.',
 				'Soft aim works best with ESP context — you still choose when to commit. Combine with <a href="/deadside-esp/">wallhack</a> and <a href="/deadside-radar-hack/">radar</a> rather than maxing every slider.',
 			),
 			section(
@@ -162,7 +162,7 @@ export const enPages = {
 		sections: [
 			section(
 				'ESP wallhack and visibility features',
-				'Enemy player ESP wallhack, objective and vault awareness cues, hero skill markers, distance readouts, snaplines, and toggleable ESP categories for match-critical overlays only.',
+				'Enemy player ESP wallhack, compound and military-base awareness cues, loot markers, distance readouts, snaplines, and toggleable ESP categories for raid-critical overlays only.',
 				'Team and enemy colour coding supports survival raids and squad sessions. Deep-dive the <a href="/deadside-esp/">ESP page</a> and <a href="/deadside-esp/">wallhack guide</a> for category-level detail.',
 				`mapy and loot systems evolve with ${EXT.deadside} patch cycle and map updates — toggleable ESP categories keep overlays useful when POIs rotate.`,
 			),
@@ -247,7 +247,7 @@ export const enPages = {
 			section(
 				'After Deadside or BattlEye patches',
 				'When Bad Pixel ships a major Deadside update or BattlEye patch, revisit Updates before loading in. Download maintenance rebuilds when posted.',
-				`Official anti-cheat background: ${EXT.eac}. Our practical workflow is documented on the <a href="/battleye-bypass/">BattlEye bypass page</a> and <a href="/undetected-deadside-cheats/">undetected guide</a>.`,
+				`Official anti-cheat background: ${EXT.battleye}. Our practical workflow is documented on the <a href="/battleye-bypass/">BattlEye bypass page</a> and <a href="/undetected-deadside-cheats/">undetected guide</a>.`,
 				'Contact <a href="/support/">Support</a> with your order ID if activation fails after a patch — include Windows version and error details for faster replies.',
 			),
 		],
@@ -269,7 +269,7 @@ export const enPages = {
 				'Why the Updates page matters',
 				'Deadside and BattlEye receive frequent patches. Deadside Cheats publishes maintenance notes when ESP wallhack, radar, or Aimbot behavior needs a rebuild.',
 				`Use ${EXT.status} for Bad Pixel platform health and this page for Deadside Cheats build status — both matter on big update days.`,
-				'Checking this log before you queue reduces surprises after game days or seasonal launches on ranked and Quick Match sessions.',
+				'Checking this log before you deploy reduces surprises after game days or major patches on PvP raids and squad sessions.',
 			),
 			section(
 				'What maintenance entries cover',
@@ -286,7 +286,7 @@ export const enPages = {
 			section(
 				'Maintenance changelog — recent Deadside & BattlEye windows',
 				'2026-08-25 — Full stack online: ESP wallhack, 2D radar, and soft aim profiles verified on Windows 10/11 after latest BattlEye compatibility check. No rebuild required.',
-				'2026-08-17 — Post-patch review completed for ranked and Quick Match queues. ESP loot markers and radar range defaults refreshed in maintenance notes.',
+				'2026-08-17 — Post-patch review completed for PvP raid and squad sessions. ESP loot markers and radar range defaults refreshed in maintenance notes.',
 				'2026-08-10 — Seasonal content update: map rotation awareness copy refreshed; core ESP and aimbot modules unchanged. Check <a href="/battleye-bypass/">BattlEye guide</a> before major patch days.',
 				'Always confirm Steam service health on the official status page before assuming a product outage. When in doubt, skip the queue until this log shows a green build.',
 			),
@@ -308,7 +308,7 @@ export const enPages = {
 			section(
 				'What is Deadside Cheats?',
 				'Deadside Cheats is an undetected cheat package for Deadside on Windows PC. It includes ESP wallhack, 2D radar-style awareness, and Aimbot controls with BattlEye maintenance updates.',
-				'Packages cover ranked and Quick Match sessions. Explore <a href="/features/">Features</a> for the full control list and <a href="/deadside-esp/">ESP</a> / <a href="/deadside-aimbot/">Aimbot</a> for module detail.',
+				'Packages cover survival raids and squad sessions. Explore <a href="/features/">Features</a> for the full control list and <a href="/deadside-esp/">ESP</a> / <a href="/deadside-aimbot/">Aimbot</a> for module detail.',
 				`Deadside itself is published by Bad Pixel (${EXT.deadside}). Cheats are third-party tools and may violate Bad Pixel rules — use is at your own risk.`,
 			),
 			section(
@@ -418,7 +418,7 @@ export const enPages = {
 			),
 			section(
 				'Map coverage for wallhack ESP',
-				'Wallhack overlays support match, Quick Match sessions, and official servers with distance readouts and snaplines for engagement control.',
+				'Wallhack overlays support loot runs, PvP raid sessions, and official servers with distance readouts and snaplines for engagement control.',
 				`Season maps and POI changes are announced via ${EXT.deadside}. Wallhack remains useful because it tracks entities, not fixed landmarks alone.`,
 				'Pair wallhack awareness with <a href="/deadside-radar-hack/">2D radar</a> cues for flanks during arena corners and vertical fights.',
 			),
@@ -451,7 +451,7 @@ export const enPages = {
 			),
 			section(
 				'Configurable radar range',
-				'Adjust radar range for early rotations versus tight compound zones. Directional cues highlight flanks during zone recoveries and flank pushes across ranked and Quick Match sessions.',
+				'Adjust radar range for early rotations versus tight compound zones. Directional cues highlight flanks during extract pushes and squad raids across PvP sessions.',
 				'Toggle radar alongside ESP and Aimbot with in-client hotkeys during live matches — see the <a href="/deadside-cheats/">mod menu</a> page.',
 				'Combat follow-up lives on <a href="/deadside-aimbot/">Aimbot</a> when you convert radar info into a fight.',
 			),
@@ -504,7 +504,7 @@ export const enPages = {
 				'External architecture, stream proofing, and patch-day checklist',
 				'Maintenance prioritizes external-style overlays and behavioral tuning over risky injection patterns. Reduce on-screen ESP markers if you stream — pair with radar for awareness.',
 				'Patch-day checklist: (1) read <a href="/updates/">Updates</a>, (2) confirm BattlEye notes on <a href="/battleye-bypass/">this page</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.',
-				'Deep dives: <a href="/undetected-deadside-cheats/">undetected guide</a> · <a href="/blog/undetected-deadside-cheats-eac/">BattlEye reality blog</a> · <a href="/deadside-cheats/">deadside cheats pillar</a>.',
+				'Deep dives: <a href="/undetected-deadside-cheats/">undetected guide</a> · <a href="/blog/undetected-deadside-cheats-battleye/">BattlEye reality blog</a> · <a href="/deadside-cheats/">deadside cheats pillar</a>.',
 			),
 		],
 	},
@@ -525,7 +525,7 @@ export const enPages = {
 				'Why deadside cheats buyers choose Deadside Cheats in 2026',
 				'2026 updates bring new maps, player balance changes, and BattlEye patches. Deadside Cheats bundles ESP wallhack, 2D radar, and Aimbot with active maintenance — not a stale prior-year build.',
 				`Track official season messaging on ${EXT.deadside}, then use our <a href="/updates/">Updates log</a> for product rebuild timing.`,
-				'Monthly ($35) and lifetime ($150) plans cover ranked and Quick Match match loops — see <a href="/pricing/">Pricing</a>.',
+				'Monthly ($35) and lifetime ($150) plans cover survival raids and squad sessions — see <a href="/pricing/">Pricing</a>.',
 			),
 			section(
 				'Full feature stack for 2026 buyers',
@@ -540,8 +540,8 @@ export const enPages = {
 				'Support is available at support@deadsidecheats.com via the <a href="/support/">Support page</a>.',
 			),
 			section(
-				'Episode 10+ and ranked meta in 2026',
-				'2026 ranked play rewards information speed — ESP loot markers, radar flank cues, and soft aim tuned for Vandal/Phantom TTK windows. After each Act, revisit <a href="/deadside-aimbot/">aimbot profiles</a> and ESP toggles.',
+				'2026 survival meta on Deadside',
+				'2026 PvP raids reward information speed — ESP loot markers, radar flank cues, and soft aim tuned for Deadside weapon TTK windows. After each major patch, revisit <a href="/deadside-aimbot/">aimbot profiles</a> and ESP toggles.',
 				'Compare against <a href="/">deadside cheats</a> criteria and <a href="/undetected-deadside-cheats/">undetected maintenance</a> before switching shops mid-season.',
 				'Blog: <a href="/blog/deadside-cheats-2026-whats-new/">what changed in 2026</a> · <a href="/blog/deadside-cheats-complete-guide-2026/">complete guide</a>.',
 			),
@@ -563,12 +563,12 @@ export const enPages = {
 			section(
 				'What are deadside cheats?',
 				'Deadside is an information-heavy survival game. Deadside cheats are third-party tools that add overlays and assist features — typically ESP to see players and loot through walls, radar for off-screen threats, and soft aim to smooth combat under pressure.',
-				'Deadside Cheats bundles those tools in one maintained package instead of juggling separate downloads. One license covers match sessions, Quick Match sessions, and official servers on Windows 10 and 11.',
+				'Deadside Cheats bundles those tools in one maintained package instead of juggling separate downloads. One license covers loot runs, PvP raid sessions, and official servers on Windows 10 and 11.',
 				`Game updates publish on ${EXT.deadside}. Our rebuild notes live on the <a href="/updates/">Updates page</a> so you know when to load in after a patch.`,
 			),
 			section(
 				'What Deadside Cheats includes',
-				'Player ESP wallhack outlines enemies and heroes with distance readouts. Loot ESP highlights crates, corpses, and high-value resources. A 2D radar shows threats outside your view. Soft aim profiles let you tune FOV and smoothness per weapon.',
+				'Player ESP wallhack outlines enemy players with distance readouts. Loot ESP highlights crates, corpses, and high-value resources. A 2D radar shows threats outside your view. Soft aim profiles let you tune FOV and smoothness per weapon.',
 				'Monthly ($35) and lifetime ($150) plans include the same feature stack — compare options on <a href="/pricing/">Pricing</a>.',
 				'Deep dives: <a href="/deadside-esp/">Deadside ESP</a>, <a href="/deadside-aimbot/">Deadside Aimbot</a>, <a href="/deadside-radar-hack/">2D radar</a>, and the full <a href="/features/">Features</a> list.',
 			),
@@ -576,7 +576,7 @@ export const enPages = {
 				'Undetected status and BattlEye',
 				'Deadside runs on BattlEye. No cheat can promise permanent undetected status — what matters is maintenance after patches. Deadside Cheats rebuilds ESP, radar, and aim modules when BattlEye or Deadside updates ship.',
 				'Check the <a href="/updates/">Status page</a> before patch-day load ins. Read <a href="/undetected-deadside-cheats/">undetected deadside cheats</a> and <a href="/battleye-bypass/">BattlEye bypass guide</a> for the full workflow.',
-				'Official background: <a href="https://www.easy.ac/" target="_blank" rel="noopener noreferrer">BattlEye</a>. Questions before checkout: <a href="/faq/">FAQ</a> and <a href="/support/">Support</a>.',
+				'Official background: <a href="https://www.battleye.com/" target="_blank" rel="noopener noreferrer">BattlEye</a>. Questions before checkout: <a href="/faq/">FAQ</a> and <a href="/support/">Support</a>.',
 			),
 			section(
 				'Getting started',
@@ -646,7 +646,7 @@ export const enPages = {
 			),
 			section(
 				'Mod menu categories for survival raids and squad sessions',
-				'Separate ESP wallhack categories for players, heroes, hero skills, and loot let you reduce overlay noise during rotations and compound zones.',
+				'Separate ESP wallhack categories for players, loot markers, vehicles, and crates let you reduce overlay noise during rotations and compound zones.',
 				`2D radar range and Aimbot smoothness adjust from the same mod menu — useful when ${EXT.deadside} seasons change fight distances and mobility.`,
 				'Soft tracking players should start with <a href="/deadside-aimbot/">soft aim</a> profiles before aggressive FOV.',
 			),
@@ -707,7 +707,7 @@ export const enPages = {
 			section(
 				'What makes deadside cheats in 2026',
 				'The deadside cheats combine active BattlEye maintenance, a full ESP wallhack and radar stack, configurable Aimbot, and clear update communication — not a stale build from a prior season.',
-				'Deadside Cheats covers ranked and Quick Match sessions with in-client toggles and post-patch rebuilds.',
+				'Deadside Cheats covers survival raids and squad sessions with in-client toggles and post-patch rebuilds.',
 				`Verify the live game is healthy via ${EXT.status}, then confirm our <a href="/updates/">Updates</a> note before you judge any package “best.”`,
 			),
 			section(
@@ -769,7 +769,7 @@ export const enPages = {
 			'Deadside ESP with player boxes & loot markers on PC. Wallhack, radar & aimbot included in one license. Buy at deadsidecheats.com from $35.',
 		h1: 'Deadside ESP — Player Boxes Guide',
 		intro:
-			'Deadside ESP overlays for Deadside — player outlines, threat cues, hero skill markers with distance readouts across ranked and Quick Match sessions.',
+			'Deadside ESP overlays for Deadside — player outlines, threat cues, loot markers with distance readouts across PvP raids and squad sessions.',
 		imageAlt: "Deadside ESP boxes and loot markers",
 		galleryTitle: 'Deadside ESP gallery',
 		ctaPrimary: 'Buy Deadside Cheats',

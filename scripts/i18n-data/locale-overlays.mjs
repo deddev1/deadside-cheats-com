@@ -1,5 +1,6 @@
 import { PAGE_META_HOME } from './pages-i18n.mjs';
 import { buildExtendedUiOverlay } from './locale-ui-content.mjs';
+import { applyNativeUiPatch } from './locale-native-ui.mjs';
 
 /** Per-locale home/about connector strings (non-meta prose). */
 const HOME_CONNECTORS = {
@@ -136,7 +137,7 @@ const HOME_CONNECTORS = {
 		aboutP2After: '부터 시작하세요.',
 	},
 	zh: {
-		aboutPricingCta: '比较价格',
+		aboutPricingCta: '比較價格',
 		aboutP2Before: '从',
 		aboutPillar: 'Deadside Cheats指南',
 		aboutEsp: 'ESP指南',
@@ -277,6 +278,14 @@ function buildHomeSeo(ui, locale) {
 			linkSetupGuide: 'Setup-Anleitung', linkRefunds: 'Rückerstattungen', faqTitle: 'Vor dem Kauf',
 			faqLede: 'Lieferung, Erkennungsstatus und Inhalt.', allAnswers: 'Alle Antworten', openFullPage: 'Vollständige Seite öffnen',
 		},
+		zh: {
+			eyebrow: '指南', title: '依類別瀏覽', lede: '快速前往功能、狀態、商店與說明頁面。',
+			catFeaturesHint: '包含內容', catStatusHint: '進場前必看', catStoreHint: '購買與方案', catHelpHint: '需要協助？',
+			linkAllFeatures: '所有功能', linkLiveStatus: '即時狀態', linkUndetected: 'Undetected',
+			linkPlans: '方案', linkReviews: '玩家評價', linkFinalsCheats: 'Deadside Cheats',
+			linkSetupGuide: '安裝指南', linkRefunds: '退款政策', faqTitle: '購買前必讀',
+			faqLede: '交付方式、偵測狀態與授權內容。', allAnswers: '所有解答', openFullPage: '開啟完整頁面',
+		},
 	};
 	const l = labels[locale] ?? {
 		eyebrow: 'Guides',
@@ -339,6 +348,10 @@ function buildCommon(ui, locale) {
 	const c = ui.common;
 	const r = ui.reviews;
 	return {
+		buyNow: c.buyNow ?? n.buyNow,
+		readGuide: c.readGuide,
+		language: c.language,
+		relatedPages: c.relatedPages,
 		selectLanguage: c.language,
 		englishOfficial: c.officialLanguageNote?.split('.')[0] ?? 'English — official language',
 		englishIsOfficial: c.officialLanguageNote ?? 'English is the official language',
@@ -446,23 +459,14 @@ export function buildLocaleOverlay(locale, ui) {
 	const p = ui.product;
 	const r = ui.reviews;
 	const f = ui.footer;
-	return {
+	const extended = buildExtendedUiOverlay(locale, ui);
+	const base = {
 		nav: {
 			...n,
 			preview: n.hacks,
 			store: n.pricing,
 			status: n.updates,
 			reviews: r.title,
-		},
-		hero: {
-			...h,
-			title: p.title,
-			priceFrom: h.priceFrom ?? 'from',
-			imageAlt: '{{brand}} — Deadside ESP and aimbot overlay',
-			chipEsp: 'ESP / wallhack',
-			chipAim: 'Soft aim',
-			chipRadar: '2D radar',
-			chipUpdates: n.updates,
 		},
 		cta: { buy: h.buyNow, buyShort: n.buyNow },
 		trust: ui.trust,
@@ -485,10 +489,10 @@ export function buildLocaleOverlay(locale, ui) {
 			outOfFiveAria: r.outOf,
 			readAll: '→',
 		},
-		common: buildCommon(ui, locale),
+		common: { ...buildCommon(ui, locale), ...(extended.common ?? {}) },
 		footer: f,
-		home: buildHome(ui, locale),
-		homeSeo: buildHomeSeo(ui, locale),
+		home: { ...buildHome(ui, locale), ...(extended.home ?? {}) },
+		homeSeo: { ...buildHomeSeo(ui, locale), ...(extended.homeSeo ?? {}) },
 		deals: {
 			pricing: n.pricing,
 			chooseLicense: n.pricing,
@@ -517,6 +521,22 @@ export function buildLocaleOverlay(locale, ui) {
 		},
 		internalLinks: buildInternalLinks(ui),
 		externalResources: buildExternalResources(locale),
-		...buildExtendedUiOverlay(locale, ui),
+		guides: extended.guides,
+		gallery: extended.gallery,
+		images: extended.images,
+		blog: extended.blog,
+		media: extended.media,
+		hero: {
+			...h,
+			title: h.title ?? p.title,
+			priceFrom: h.priceFrom ?? 'from',
+			imageAlt: h.imageAlt ?? '{{brand}} — Deadside ESP and aimbot overlay',
+			chipEsp: 'ESP / wallhack',
+			chipAim: 'Soft aim',
+			chipRadar: '2D radar',
+			chipUpdates: n.updates,
+			...(extended.hero ?? {}),
+		},
 	};
+	return applyNativeUiPatch(locale, base);
 }

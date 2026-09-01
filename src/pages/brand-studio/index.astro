@@ -452,7 +452,7 @@ const keywords: Field[] = [
 	{
 		name: 'keywords',
 		label: 'Keyword list',
-		tip: 'What: 5-8 related searches (one per line). | Why: Feeds the meta keywords tag and keeps targeting consistent when you rebrand. | Example: fortnite cheats, fortnite hacks, fortnite esp (one phrase per line)',
+		tip: 'What: 5-8 related searches (one per line). | Why: Keeps on-page SEO targeting consistent when you rebrand. | Example: fortnite cheats, fortnite hacks, fortnite esp (one phrase per line)',
 		value: brand.keywords.list.join('\n'),
 		textarea: true,
 		rows: 6,
@@ -1707,7 +1707,7 @@ const sections = [
 					setText('sitemap-preview-robots', 'Sitemap: ' + origin + '/sitemap.xml');
 					setText('identity-domain-code', origin + '/sitemap.xml');
 
-					root.querySelectorAll('[data-sitemap-abs-for]').foreach((el) => {
+					root.querySelectorAll('[data-sitemap-abs-for]').forEach((el) => {
 						const name = el.getAttribute('data-sitemap-abs-for');
 						const path = val(name) || '/images/…';
 						const clean = path.startsWith('/') ? path : '/' + path;
@@ -1781,9 +1781,9 @@ const sections = [
 					if (heroLede) heroLede.textContent = fillTokens(val('heroLede')) || 'Hero lede';
 				}
 
-				root.querySelectorAll('.studio__serp-tab').foreach((tab) => {
+				root.querySelectorAll('.studio__serp-tab').forEach((tab) => {
 					tab.addEventListener('click', () => {
-						root.querySelectorAll('.studio__serp-tab').foreach((t) => t.classList.remove('is-active'));
+						root.querySelectorAll('.studio__serp-tab').forEach((t) => t.classList.remove('is-active'));
 						tab.classList.add('is-active');
 						activeSerp = tab.getAttribute('data-serp') || 'home';
 						updateSerp();
@@ -2030,7 +2030,7 @@ const sections = [
 				function applySitePreview(t) {
 					const map = themeCssMap(t);
 					const root = document.documentElement;
-					Object.entries(map).foreach(([k, v]) => root.style.setProperty(k, v));
+					Object.entries(map).forEach(([k, v]) => root.style.setProperty(k, v));
 
 					let tag = document.getElementById('brand-theme-vars');
 					if (!tag) {
@@ -2082,7 +2082,7 @@ const sections = [
 					updateThemePreview();
 				}
 
-				['accent', 'soft', 'deep', 'hover', 'bg', 'panel'].foreach((id) => {
+				['accent', 'soft', 'deep', 'hover', 'bg', 'panel'].forEach((id) => {
 					const fallback =
 						id === 'accent'
 							? '#c026d3'
@@ -2102,7 +2102,7 @@ const sections = [
 					if (accent) setColorVal('accent', accent);
 					if (bg) setColorVal('bg', bg);
 					fillDerivedTones();
-					document.querySelectorAll('.studio__theme-preset').foreach((el) => el.classList.remove('is-active'));
+					document.querySelectorAll('.studio__theme-preset').forEach((el) => el.classList.remove('is-active'));
 					btn.classList.add('is-active');
 				});
 
@@ -2112,7 +2112,7 @@ const sections = [
 					if (e.target.matches('input, textarea')) lastFocus = e.target;
 				});
 
-				root.querySelectorAll('.studio__chip').foreach((chip) => {
+				root.querySelectorAll('.studio__chip').forEach((chip) => {
 					chip.addEventListener('click', () => {
 						const el = lastFocus || document.activeElement;
 						if (!el || !el.matches('input, textarea')) return;
@@ -2148,11 +2148,11 @@ const sections = [
 					if (!confirm('Reset all SEO titles/descriptions and page intros to templates? Custom SEO will be overwritten.')) {
 						return;
 					}
-					Object.entries(seoTemplates).foreach(([key, tpl]) => {
+					Object.entries(seoTemplates).forEach(([key, tpl]) => {
 						const el = form.elements.namedItem(key);
 						if (el && 'value' in el) el.value = tpl;
 					});
-					Object.entries(copyTemplates).foreach(([key, tpl]) => {
+					Object.entries(copyTemplates).forEach(([key, tpl]) => {
 						const el = form.elements.namedItem(key);
 						if (el && 'value' in el) el.value = tpl;
 					});
@@ -2176,7 +2176,7 @@ const sections = [
 						reviewsImageTitle: '{brand} reviews',
 						reviewsImageCaption: 'What buyers say about {primaryKeyword}',
 					};
-					Object.entries(defaults).foreach(([key, tpl]) => {
+					Object.entries(defaults).forEach(([key, tpl]) => {
 						const el = form.elements.namedItem(key);
 						if (el && 'value' in el) el.value = tpl;
 					});
@@ -2407,7 +2407,7 @@ const sections = [
 								if (el && 'value' in el) el.value = String(value);
 							};
 							// Hydrate from what was actually written (truthful permanence)
-							Object.keys(brand).foreach((k) => {
+							Object.keys(brand).forEach((k) => {
 								if (k === 'keywords' || k === 'platforms' || k === 'sitemapImages' || k === 'tokenRequired') {
 									return;
 								}

@@ -19,7 +19,7 @@ export const uiStringsPart2 = {
 		hacksPackage: "2D radar threat overlay for Deadside",
 		raidFight: "Aimbot assist during a Deadside tactical combat",
 		battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-		raidMap: "ESP markers for hero skills and POIs in Deadside",
+		raidMap: "ESP markers for loot routes and compounds in Deadside",
 	},
 	},
 	ja: {
@@ -40,7 +40,7 @@ export const uiStringsPart2 = {
 		hacksPackage: "2D radar threat overlay for Deadside",
 		raidFight: "Aimbot assist during a Deadside tactical combat",
 		battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-		raidMap: "ESP markers for hero skills and POIs in Deadside",
+		raidMap: "ESP markers for loot routes and compounds in Deadside",
 	},
 	},
 	ko: {
@@ -61,17 +61,17 @@ export const uiStringsPart2 = {
 		hacksPackage: "2D radar threat overlay for Deadside",
 		raidFight: "Aimbot assist during a Deadside tactical combat",
 		battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-		raidMap: "ESP markers for hero skills and POIs in Deadside",
+		raidMap: "ESP markers for loot routes and compounds in Deadside",
 	},
 	},
 	zh: {
-		nav: { home: '首页', hacks: 'Cheats', aimbot: 'Aimbot', esp: 'ESP', features: '功能', pricing: '价格', setup: '安装', updates: '更新', faq: '常见问题', buyNow: '立即购买' },
-		hero: { accent: 'Undetected Deadside作弊', accentShort: 'Deadside Cheats', subtitle: '适用于Deadside Windows PC的ESP wallhack、2D radar和Aimbot — 含BattlEye维护。', subtitleShort: 'Deadside PC版ESP、radar与Aimbot', buyNow: '立即购买', seeFeatures: '查看功能' },
-		trust: { status: '在线', statusNote: 'Deadside Cheats套餐已在Deadside Windows PC上线。', statusShort: '运行中', delivery: '即时数字交付', platform: 'Windows 10 和 11', antiCheat: '支持BattlEye维护', antiCheatShort: 'BattlEye支持' },
-		product: { title: 'Deadside Cheats', addToCart: '加入购物车', monthly: '月付', lifetime: '终身', available: '现已可用', gameBadge: 'Deadside', platformBadge: 'Windows PC', statusBadge: 'Undetected套餐' },
-		reviews: { title: '玩家评价', subtitle: 'Deadside Cheats 买家近期反馈', outOf: '/5', countLabel: '条评价' },
-		common: { buyNow: '立即购买', readGuide: '阅读指南', language: '语言', officialLanguageNote: '英语为官方语言。其他语言为全球SEO翻译版本。', relatedPages: '相关页面' },
-		footer: { explore: '探索', help: '帮助与法律', tagline: 'Deadside undetected ESP、wallhack、radar与Aimbot — 通过Zadeyo结账。' },
+		nav: { home: '首頁', hacks: 'Cheats', aimbot: 'Aimbot', esp: 'ESP', features: '功能', pricing: '價格', setup: '安裝', updates: '更新', faq: '常見問題', buyNow: '立即購買' },
+		hero: { accent: 'Undetected Deadside 外掛', accentShort: 'Deadside Cheats', title: 'Deadside Cheats', subtitle: '適用於 Deadside Windows 版的 ESP wallhack、2D 雷達與 Aimbot — 含 BattlEye 維護。', subtitleShort: 'PC 版 ESP、雷達與 Aimbot', buyNow: '立即購買', seeFeatures: '查看功能' },
+		trust: { status: '線上', statusNote: 'Deadside Cheats 方案已在 Windows PC 版 Deadside 上線。', statusShort: '運作中', delivery: '即時數位交付', platform: 'Windows 10 與 11', antiCheat: '支援 BattlEye 維護', antiCheatShort: 'BattlEye 支援' },
+		product: { title: 'Deadside Cheats', addToCart: '加入購物車', monthly: '月付', lifetime: '終身', available: '現已可用', gameBadge: 'Deadside', platformBadge: 'Windows PC', statusBadge: 'Undetected 方案' },
+		reviews: { title: '玩家評價', subtitle: 'Deadside Cheats 買家近期回饋', outOf: '/5', countLabel: '則評價' },
+		common: { buyNow: '立即購買', readGuide: '閱讀指南', language: '語言', officialLanguageNote: '英文為官方語言；其他語言為在地化翻譯版本。', relatedPages: '相關頁面' },
+		footer: { explore: '探索', help: '說明與法律', tagline: '適用於 Deadside 的 undetected ESP、wallhack、雷達與 Aimbot。' },
 		images: {
 		hero: "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
 		espWallhack: "Wallhack outlines showing agents through walls",
@@ -82,7 +82,7 @@ export const uiStringsPart2 = {
 		hacksPackage: "2D radar threat overlay for Deadside",
 		raidFight: "Aimbot assist during a Deadside tactical combat",
 		battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-		raidMap: "ESP markers for hero skills and POIs in Deadside",
+		raidMap: "ESP markers for loot routes and compounds in Deadside",
 	},
 	},
 	hi: {
@@ -103,7 +103,7 @@ export const uiStringsPart2 = {
 		hacksPackage: "2D radar threat overlay for Deadside",
 		raidFight: "Aimbot assist during a Deadside tactical combat",
 		battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-		raidMap: "ESP markers for hero skills and POIs in Deadside",
+		raidMap: "ESP markers for loot routes and compounds in Deadside",
 	},
 	},
 	id: {
@@ -124,7 +124,7 @@ export const uiStringsPart2 = {
 		hacksPackage: "2D radar threat overlay for Deadside",
 		raidFight: "Aimbot assist during a Deadside tactical combat",
 		battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-		raidMap: "ESP markers for hero skills and POIs in Deadside",
+		raidMap: "ESP markers for loot routes and compounds in Deadside",
 	},
 	},
 	th: {
@@ -145,7 +145,7 @@ export const uiStringsPart2 = {
 		hacksPackage: "2D radar threat overlay for Deadside",
 		raidFight: "Aimbot assist during a Deadside tactical combat",
 		battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-		raidMap: "ESP markers for hero skills and POIs in Deadside",
+		raidMap: "ESP markers for loot routes and compounds in Deadside",
 	},
 	},
 	vi: {
@@ -166,7 +166,7 @@ export const uiStringsPart2 = {
 		hacksPackage: "2D radar threat overlay for Deadside",
 		raidFight: "Aimbot assist during a Deadside tactical combat",
 		battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-		raidMap: "ESP markers for hero skills and POIs in Deadside",
+		raidMap: "ESP markers for loot routes and compounds in Deadside",
 	},
 	},
 	uk: {
@@ -187,7 +187,7 @@ export const uiStringsPart2 = {
 		hacksPackage: "2D radar threat overlay for Deadside",
 		raidFight: "Aimbot assist during a Deadside tactical combat",
 		battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-		raidMap: "ESP markers for hero skills and POIs in Deadside",
+		raidMap: "ESP markers for loot routes and compounds in Deadside",
 	},
 	},
 	cs: {
@@ -208,7 +208,7 @@ export const uiStringsPart2 = {
 		hacksPackage: "2D radar threat overlay for Deadside",
 		raidFight: "Aimbot assist during a Deadside tactical combat",
 		battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-		raidMap: "ESP markers for hero skills and POIs in Deadside",
+		raidMap: "ESP markers for loot routes and compounds in Deadside",
 	},
 	},
 	ro: {
@@ -229,7 +229,7 @@ export const uiStringsPart2 = {
 		hacksPackage: "2D radar threat overlay for Deadside",
 		raidFight: "Aimbot assist during a Deadside tactical combat",
 		battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-		raidMap: "ESP markers for hero skills and POIs in Deadside",
+		raidMap: "ESP markers for loot routes and compounds in Deadside",
 	},
 	},
 	sv: {
@@ -250,7 +250,7 @@ export const uiStringsPart2 = {
 		hacksPackage: "2D radar threat overlay for Deadside",
 		raidFight: "Aimbot assist during a Deadside tactical combat",
 		battleRoyale: "Deadside Cheats in-session overview for Windows PC",
-		raidMap: "ESP markers for hero skills and POIs in Deadside",
+		raidMap: "ESP markers for loot routes and compounds in Deadside",
 	},
 	},
 };

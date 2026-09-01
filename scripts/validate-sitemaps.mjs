@@ -23,6 +23,15 @@ function readBrandUrl() {
 	return m[1].replace(/\\'/g, "'").replace(/\/$/, '');
 }
 
+/** Slugs for cross-game guide stubs — built HTML is noindex and omitted from sitemaps. */
+function readExternalGuideSlugs() {
+	const src = readFileSync(
+		path.join(ROOT, 'src/data/guides/external-guides.generated.ts'),
+		'utf8',
+	);
+	return [...src.matchAll(/slug:\s*"([^"]+)"/g)].map((m) => m[1]);
+}
+
 function countBrandSitemapImages() {
 	const src = readBrandSource();
 	const block = src.match(/sitemap:\s*\{([\s\S]*?)\n\t\},/);
@@ -56,13 +65,13 @@ const BLOG_PAGES = 18; // /blog/ index + 17 posts
 const REVIEW_PAGES = 101; // /reviews/ index + 100 review detail pages
 const FAQ_PAGES = 26; // standalone FAQ answer pages (index is in product pages)
 const GUIDE_SITEMAP_PAGES = 13; // /guides/ hub + 12 Deadside guide posts
-const GUIDE_HTML_PAGES = 13; // /guides/ hub + 12 posts (all built)
+const GUIDE_HTML_PAGES = 137; // hub + Deadside guides + legacy competitor guide stubs (built, omitted from sitemaps)
 const STANDALONE_PAGES = 3; // /about/ /compare/ /write-for-us/
 /** Product pages in sitemap — excludes cannibal EN URLs that 301 to stronger pillars */
 const ENGLISH_PRODUCT_PAGES = 18;
 const ENGLISH_PAGES =
 	ENGLISH_PRODUCT_PAGES + BLOG_PAGES + REVIEW_PAGES + FAQ_PAGES + GUIDE_SITEMAP_PAGES + STANDALONE_PAGES;
-const INDEXABLE_LOCALE_CODES = ['en', 'es', 'fr', 'de', 'pt', 'ru'];
+const INDEXABLE_LOCALE_CODES = ['en', 'es', 'fr', 'de', 'pt', 'ru', 'zh'];
 const I18N_LOCALES = INDEXABLE_LOCALE_CODES.length - 1; // non-English indexable locales in sitemaps
 /** Locale product pages also exclude the same cannibal pageIds */
 const PRODUCT_PAGES_PER_LOCALE = 18;
@@ -147,7 +156,7 @@ const ENGLISH_PATHS = [
 	'/blog/deadside-cheats-2026-whats-new/',
 	'/blog/deadside-aimbot-settings-guide/',
 	'/blog/deadside-esp-wallhack-explained/',
-	'/blog/undetected-deadside-cheats-eac/',
+	'/blog/undetected-deadside-cheats-battleye/',
 	'/blog/deadside-cheats-vs-cheatvault-comparison/',
 	'/blog/elitefn-vs-deadside-cheats-two-week-test/',
 	'/blog/deadside-cheats-vs-ghostware-features-pricing/',
@@ -572,6 +581,33 @@ async function main() {
 		fail(`Sitemap URLs without HTML: ${extraInSitemap.slice(0, 5).join(', ')}`);
 		bump();
 	} else ok('Every sitemap URL has a matching HTML page');
+
+	// Cross-game guide stubs must stay noindex and out of sitemaps
+	const externalGuideSlugs = readExternalGuideSlugs();
+	const externalInSitemap = externalGuideSlugs.filter((slug) =>
+		enLocs.includes(`${SITE}/guides/${slug}/`),
+	);
+	if (externalInSitemap.length > 0) {
+		fail(
+			`External guide stubs must not be in sitemap-en.xml: ${externalInSitemap.slice(0, 3).join(', ')}${externalInSitemap.length > 3 ? '…' : ''}`,
+		);
+		bump();
+	}
+	const sampleExternalSlug = externalGuideSlugs[0];
+	if (sampleExternalSlug) {
+		const sampleGuideHtml = readFileSync(
+			path.join(DIST, 'guides', sampleExternalSlug, 'index.html'),
+			'utf8',
+		);
+		if (!sampleGuideHtml.includes('content="noindex')) {
+			fail(`External guide /guides/${sampleExternalSlug}/ must be noindex`);
+			bump();
+		} else {
+			ok(
+				`Cross-game guide stubs (${externalGuideSlugs.length}) stay noindex and out of sitemaps`,
+			);
+		}
+	}
 
 	// Locale homepages in per-locale sitemaps
 	for (const locale of I18N_LOCALE_CODES) {

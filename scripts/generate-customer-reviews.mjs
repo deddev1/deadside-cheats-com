@@ -33,7 +33,7 @@ const HANDLES = [
 	'deadsideDan', 'hacksHannah', 'cheatCheckChad', 'realTalkRae', 'pcOnlyPax',
 ];
 
-const TAGS = ['ESP', 'Soft aim', 'Radar', 'Setup', 'Updates', 'Ranked', 'Sniper', 'BattlEye updates', 'Loot', 'Duos'];
+const TAGS = ['ESP', 'Soft aim', 'Radar', 'Setup', 'Updates', 'PvP raids', 'Sniper', 'BattlEye updates', 'Loot', 'Duos'];
 
 const OPENERS = [
 	'ngl', 'honestly', 'real talk', 'been using this a while now', 'switched from another provider',

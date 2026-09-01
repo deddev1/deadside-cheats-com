@@ -4,7 +4,7 @@ import type { PageId } from './i18n/routing';
 export const primarySeoKeyword = 'deadside cheats';
 
 /**
- * Default meta keywords (fallback when no page-specific set).
+ * Default SEO keyword targets (internal reference — not emitted as HTML meta keywords).
  * Ordered by commercial intent + search volume fit for deadsidecheats.com.
  */
 export const globalSeoKeywords = [
@@ -24,11 +24,10 @@ export const globalSeoKeywords = [
 	'deadside mod menu',
 	'deadside cheats undetected',
 	'best deadside cheats 2026',
-	'deadside cheats for ranked',
 	'deadside external cheat',
 ] as const;
 
-/** Page-level meta keywords — aligned to canonical URLs and on-page intent. */
+/** Page-level keyword targets — aligned to canonical URLs and on-page intent. */
 export const pageSeoKeywords: Partial<Record<PageId, readonly string[]>> = {
 	home: [
 		'deadside cheats',
@@ -122,7 +121,7 @@ export const pageSeoKeywords: Partial<Record<PageId, readonly string[]>> = {
 	support: ['deadside cheats support', 'deadside cheats license help'],
 };
 
-/** Meta keywords for /reviews/ and individual review pages (English-only routes). */
+/** Keyword targets for /reviews/ and individual review pages (English-only routes). */
 export const reviewsSeoKeywords = [
 	'deadside cheats reviews',
 	'deadside cheats',

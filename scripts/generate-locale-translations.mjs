@@ -15,7 +15,6 @@ import { fixDeadsideCopyDeep } from './i18n-data/deadside-copy-fix.mjs';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
 const EN_FILE = path.join(ROOT, 'src', 'locales', 'en', 'translation.json');
-const ES_FILE = path.join(ROOT, 'src', 'locales', 'es', 'translation.json');
 
 function deepMerge(base, overlay) {
 	const out = structuredClone(base);
@@ -229,9 +228,21 @@ async function main() {
 	};
 	en.home = {
 		...en.home,
-		aboutTitle: 'undetected cheats for Deadside',
+		aboutTitle: 'Deadside cheats for Windows PC',
 		aboutP1:
-			'Deadside Cheats is an undetected deadside cheats package for Deadside on Windows PC. One license includes ESP wallhack, soft aim, and 2D radar, with BattlEye rebuilds after game patches. Check Status before you queue.',
+			'Deadside Cheats is an undetected Windows PC package for Deadside raids, loot runs, and compound PvP. One license includes ESP wallhack, soft aim, and 2D radar, with BattlEye rebuilds after game patches. Compare Pricing · Live Status.',
+		aboutP1Before:
+			'Deadside Cheats is an undetected Windows PC package for Deadside raids, loot runs, and compound PvP. One license includes ESP wallhack, soft aim, and 2D radar, with BattlEye rebuilds after game patches. Compare monthly and lifetime plans on',
+		aboutStore: 'Pricing',
+		aboutP1Mid: ', then confirm the package is live on',
+		aboutStatus: 'Live Status',
+		aboutP1After: ' before checkout.',
+		aboutP2Before: 'New here? Browse the',
+		aboutPillar: 'Deadside cheats hub',
+		aboutEsp: 'ESP wallhack guide',
+		aboutAimbot: 'soft aim settings',
+		aboutUndetected: 'BattlEye update log',
+		aboutP2After: ' while you compare options.',
 		volumeLabel: 'Volume',
 		seekLabel: 'Video progress',
 		muteVideo: 'Mute video',
@@ -267,26 +278,12 @@ async function main() {
 			'Actionable Deadside guides for survival and PvP raids — loot routes, compound tactics, and squad play. Pair these tips with our Deadside Cheats pages for ESP, soft aim, and radar when you need in-match tools.',
 	};
 
-	let es;
-	try {
-		es = JSON.parse(await readFile(ES_FILE, 'utf8'));
-		es.faq = { items: FAQ_I18N.es };
-		es.home = {
-			...(es.home ?? {}),
-			aboutTitle: 'cheats indetectables para Deadside',
-		};
-	} catch {
-		es = en;
-	}
-
 	for (const locale of LOCALES) {
 		const dir = path.join(ROOT, 'src', 'locales', locale);
 		await mkdir(dir, { recursive: true });
 
 		let translation = en;
-		if (locale === 'es') {
-			translation = deepMerge(en, es);
-		} else if (locale !== 'en') {
+		if (locale !== 'en') {
 			const ui = allUiStrings[locale];
 			const overlay = buildLocaleOverlay(locale, ui);
 			const faqOverlay = buildFaqOverlay(locale);
