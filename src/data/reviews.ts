@@ -4,6 +4,20 @@ import { absoluteImageUrl, crawlPhotoMeta, reviewsImageSrc } from './page-images
 
 export const reviewsBasePath = '/reviews/';
 
+/** Evenly sample reviews for the homepage marquee (keeps scroll speed readable). */
+export function pickMarqueeReviews<T>(reviews: readonly T[], limit = 20): T[] {
+	if (reviews.length <= limit) return [...reviews];
+	const picked: T[] = [];
+	const step = reviews.length / limit;
+	for (let i = 0; i < limit; i += 1) {
+		picked.push(reviews[Math.min(reviews.length - 1, Math.floor(i * step))]!);
+	}
+	return picked;
+}
+
+/** ~6s per card matches the original ~12-review / 70s marquee speed. */
+export const MARQUEE_SECONDS_PER_CARD = 6;
+
 export function getReviewPath(slug: string): string {
 	return `${reviewsBasePath}${slug}/`;
 }
