@@ -135,6 +135,9 @@ const chipKeys = [
 	.hero {
 		--hero-pad-y: clamp(1rem, 2vw, 1.75rem);
 		--hero-stack: clamp(0.5rem, 1.1vw, 0.75rem);
+		--hero-art-scale: 1.22;
+		--hero-art-focus-x: 76%;
+		--hero-art-focus-y: 44%;
 		/*
 		 * Wide hero bar (3.15:1) — matches marketing site fold height.
 		 * Character art fills the right side via cover crop.
@@ -159,12 +162,12 @@ const chipKeys = [
 		z-index: 0;
 		overflow: hidden;
 		perspective: 900px;
-		perspective-origin: 72% 50%;
+		perspective-origin: var(--hero-art-focus-x) 50%;
 	}
 
 	.hero__parallax-stack {
 		position: absolute;
-		inset: -10px;
+		inset: -18px;
 		will-change: transform;
 		transform: translate3d(0, 0, 0);
 		transform-style: preserve-3d;
@@ -181,7 +184,9 @@ const chipKeys = [
 
 	.hero__parallax-stack img {
 		object-fit: cover;
-		object-position: 72% center;
+		object-position: var(--hero-art-focus-x) var(--hero-art-focus-y);
+		transform: scale(var(--hero-art-scale));
+		transform-origin: var(--hero-art-focus-x) var(--hero-art-focus-y);
 		image-rendering: auto;
 		filter: brightness(0.78) contrast(1.04);
 		animation: hero-in 0.9s ease-out both;
@@ -415,6 +420,9 @@ const chipKeys = [
 	 */
 	@media (max-width: 900px) {
 		.hero {
+			--hero-art-scale: 1.28;
+			--hero-art-focus-x: 70%;
+			--hero-art-focus-y: 40%;
 			aspect-ratio: auto;
 			min-height: clamp(22rem, 88vw, 28rem);
 			height: auto;
@@ -426,9 +434,9 @@ const chipKeys = [
 			width: 100%;
 		}
 
-		.hero__media img {
-			object-fit: cover;
-			object-position: 72% 38%;
+		.hero__parallax-stack img {
+			object-position: var(--hero-art-focus-x) var(--hero-art-focus-y);
+			transform-origin: var(--hero-art-focus-x) var(--hero-art-focus-y);
 		}
 
 		.hero__veil {
