@@ -62,11 +62,11 @@ export function latestPageLastmod(): string {
  */
 export const SITEMAP_COUNTS = {
 	englishPages: 179,
-	i18nLocales: 5,
+	i18nLocales: 6,
 	pagesPerLocale: 18,
-	i18nUrls: 5 * 18,
-	totalIndexablePages: 179 + 5 * 18,
-	hreflangLinksPerUrl: 7,
-	/** sitemap.xml (index): EN + 5 indexable locale sitemaps + images */
-	sitemapIndexEntries: 1 + 5 + 1,
+	i18nUrls: 6 * 18,
+	totalIndexablePages: 179 + 6 * 18,
+	hreflangLinksPerUrl: 8,
+	/** sitemap.xml (index): EN + 6 indexable locale sitemaps + images */
+	sitemapIndexEntries: 1 + 6 + 1,
 } as const;

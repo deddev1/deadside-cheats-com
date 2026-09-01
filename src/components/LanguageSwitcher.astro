@@ -6,6 +6,7 @@ import {
 	type PageId,
 } from '../data/i18n/routing';
 import { getBlogLocaleSwitchHref, isBlogPath } from '../data/blog/helpers';
+import { getT } from '../i18n/server';
 
 interface Props {
 	pageId?: PageId;
@@ -34,10 +35,11 @@ function localeSwitchHref(targetLocale: LocaleCode): string {
 }
 
 const currentMeta = locales.find((l) => l.code === currentLocale)!;
+const t = getT(currentLocale);
 ---
 
 <details class="lang-switcher">
-	<summary class="lang-switcher__toggle" aria-label="Select language">
+	<summary class="lang-switcher__toggle" aria-label={t('common.selectLanguage')}>
 		<svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true">
 			<circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="1.6"></circle>
 			<path
@@ -49,7 +51,7 @@ const currentMeta = locales.find((l) => l.code === currentLocale)!;
 	</summary>
 	<div class="lang-switcher__panel">
 		<p class="lang-switcher__note">
-			{currentLocale === 'en' ? 'English — official language' : `English is the official language`}
+			{t('common.englishIsOfficial')}
 		</p>
 		<ul class="lang-switcher__list">
 			{

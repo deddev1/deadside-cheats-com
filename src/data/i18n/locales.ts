@@ -47,7 +47,7 @@ export const locales: LocaleMeta[] = [
 	{ code: 'ar', name: 'Arabic', nativeName: 'العربية', hreflang: 'ar', ogLocale: 'ar_SA', dir: 'rtl', region: 'Worldwide' },
 	{ code: 'ja', name: 'Japanese', nativeName: '日本語', hreflang: 'ja', ogLocale: 'ja_JP', dir: 'ltr', region: 'Worldwide' },
 	{ code: 'ko', name: 'Korean', nativeName: '한국어', hreflang: 'ko', ogLocale: 'ko_KR', dir: 'ltr', region: 'Worldwide' },
-	{ code: 'zh', name: 'Chinese', nativeName: '中文', hreflang: 'zh', ogLocale: 'zh_CN', dir: 'ltr', region: 'Worldwide' },
+	{ code: 'zh', name: 'Chinese (Traditional)', nativeName: '繁體中文', hreflang: 'zh-Hant', ogLocale: 'zh_TW', dir: 'ltr', region: 'Taiwan' },
 	{ code: 'hi', name: 'Hindi', nativeName: 'हिन्दी', hreflang: 'hi', ogLocale: 'hi_IN', dir: 'ltr', region: 'Worldwide' },
 	{ code: 'id', name: 'Indonesian', nativeName: 'Bahasa Indonesia', hreflang: 'id', ogLocale: 'id_ID', dir: 'ltr', region: 'Worldwide' },
 	{ code: 'th', name: 'Thai', nativeName: 'ไทย', hreflang: 'th', ogLocale: 'th_TH', dir: 'ltr', region: 'Worldwide' },
@@ -68,6 +68,7 @@ export const indexableLocales: readonly LocaleCode[] = [
 	'de',
 	'pt',
 	'ru',
+	'zh',
 ] as const;
 
 export function isIndexableLocale(code: LocaleCode): boolean {
