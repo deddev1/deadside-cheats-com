@@ -61,12 +61,12 @@ export function latestPageLastmod(): string {
  * Product pages = all PageIds minus cannibal 301 targets (7) → 18.
  */
 export const SITEMAP_COUNTS = {
-	englishPages: 18,
-	i18nLocales: 21,
+	englishPages: 179,
+	i18nLocales: 5,
 	pagesPerLocale: 18,
-	i18nUrls: 21 * 18,
-	totalIndexablePages: 18 + 21 * 18,
-	hreflangLinksPerUrl: 23,
-	/** sitemap.xml (index): EN + 21 locale sitemaps + images */
-	sitemapIndexEntries: 1 + 21 + 1,
+	i18nUrls: 5 * 18,
+	totalIndexablePages: 179 + 5 * 18,
+	hreflangLinksPerUrl: 7,
+	/** sitemap.xml (index): EN + 5 indexable locale sitemaps + images */
+	sitemapIndexEntries: 1 + 5 + 1,
 } as const;

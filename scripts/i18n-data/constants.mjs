@@ -115,6 +115,27 @@ export function stripZadeyoFromMeta(text) {
 		.trim();
 }
 
+/** Remove/rescribe Zadeyo brand references from visible body copy. */
+export function stripZadeyoFromBody(text) {
+	if (typeof text !== 'string') return text;
+	return stripZadeyoFromMeta(text)
+		.replace(/\bZadeyo[- ]?checkout\b/gi, 'secure checkout')
+		.replace(/\bZadeyo\b/gi, 'secure checkout')
+		.replace(/\bvia secure checkout checkout\b/gi, 'via secure checkout')
+		.replace(/checkout secure checkout/gi, 'secure checkout')
+		.replace(/\s{2,}/g, ' ')
+		.trim();
+}
+
+export function stripZadeyoDeep(value) {
+	if (typeof value === 'string') return stripZadeyoFromBody(value);
+	if (Array.isArray(value)) return value.map(stripZadeyoDeep);
+	if (value && typeof value === 'object') {
+		return Object.fromEntries(Object.entries(value).map(([k, v]) => [k, stripZadeyoDeep(v)]));
+	}
+	return value;
+}
+
 /** Build a page section. Pass 2+ paragraph strings; optional trailing string[] becomes list. */
 export function section(h2, ...args) {
 	let list;

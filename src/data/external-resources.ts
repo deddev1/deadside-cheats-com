@@ -19,7 +19,7 @@ export const externalUrls = {
 	steamNews: 'https://store.steampowered.com/app/895400/news/',
 	officialSite: 'https://www.deadsidethegame.com/',
 	wiki: 'https://deadside.fandom.com/wiki/Deadside',
-	steamCommunity: 'https://steamcommunity.com/app/1203220',
+	steamCommunity: 'https://steamcommunity.com/app/895400',
 } as const;
 
 /** Authoritative third-party guides — cite official game sources for readers and search engines. */

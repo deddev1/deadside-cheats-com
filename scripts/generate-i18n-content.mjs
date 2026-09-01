@@ -7,7 +7,7 @@ import { mkdir, writeFile, stat } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
-import { LOCALES, TS_HEADER } from './i18n-data/constants.mjs';
+import { LOCALES, TS_HEADER, stripZadeyoDeep } from './i18n-data/constants.mjs';
 import { allUiStrings } from './i18n-data/ui-strings.mjs';
 import { getCanonicalEnPages } from './i18n-data/canonical-en-pages.mjs';
 import { buildLocalizedPages, validateStructure } from './i18n-data/localize-pages.mjs';
@@ -100,7 +100,7 @@ function buildI18nContent() {
 			}
 		}
 
-		content[locale] = { ui: fixDeadsideCopyDeep(ui), pages };
+		content[locale] = stripZadeyoDeep({ ui: fixDeadsideCopyDeep(ui), pages });
 	}
 
 	return content;

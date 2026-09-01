@@ -352,132 +352,15 @@ export type CustomerReview = {
 	tag?: string;
 };
 
-export const customerReviews = [
-	reviewMeta({
-		handle: 'xKrypt0_Deadside',
-		rating: 5,
-		text: 'ngl i burned through like 3 diff deadside hacks before this one. they all felt way too snappy in PvP raids. this cheat actually lets you tune soft aim so it doesnt look obvious when youre holding a compound. been running it a week, setup took probs 12 min after i whitelisted the loader in defender. no drama yet tbh',
-		short: 'tried 3 deadside hacks before — this cheat feels human in raids once you tune soft aim on compounds',
-		slug: 'deadside-soft-aim-review-xkrypt0',
-		seoTitle: 'Soft Aim Review by @xKrypt0_Deadside — 5/5 | {brand}',
-		seoDescription:
-			'@xKrypt0_Deadside rates {brand} 5/5 after testing deadside cheats soft aim in PvP raids on Windows PC.',
-		date: '2026-07-24',
-		tag: 'Soft aim',
-	}),
-	reviewMeta({
-		handle: 'buildsR4K',
-		rating: 4,
-		text: 'honestly i dont even run aimbot much. bought these deadside cheats for the esp and thats the whole reason im still paying monthly. seeing who rotated before you third party near sawmill is insane info. menu could look cleaner but as deadside hacks go this package is solid',
-		short: 'bought for esp not aimbot — wallhack shows rotations before third parties, huge on sawmill runs',
-		slug: 'deadside-esp-growth-run-review-buildsr4k',
-		seoTitle: 'ESP Review by @buildsR4K — 4/5 | {brand}',
-		seoDescription:
-			'@buildsR4K rates {brand} deadside hacks ESP 4/5 for loot runs and PvP on Windows PC.',
-		date: '2026-07-19',
-		tag: 'ESP',
-	}),
-	reviewMeta({
-		handle: 'dma_wizard',
-		rating: 5,
-		text: 'last deadside cheat i had got cooked the day after a BattlEye update lol. switched to this one and loader was back same night they posted the rebuild. running esp + radar on survival raids, still clean after 2 weeks. grabbed lifetime cause im done paying monthly for dead hacks',
-		short: 'old cheat died on BattlEye patch — this deadside hack rebuilt same night, still undetected 2 weeks later',
-		slug: 'deadside-cloud-dma-review-dma-wizard',
-		seoTitle: 'Update Review by @dma_wizard — 5/5 | {brand}',
-		seoDescription:
-			'@dma_wizard rates {brand} 5/5 after a {antiCheat} update — fast deadside cheats rebuild on Windows PC.',
-		date: '2026-06-27',
-		tag: 'Updates',
-	}),
-	reviewMeta({
-		handle: 'ctrl_player99',
-		rating: 4,
-		text: 'im not techy at all bro. menu on this cheat is simple tho — dropped fov on soft aim, bumped smoothing, stopped the snap. feels more like muscle memory now in duos and solo raids. only 4 stars cause first login support took an hour but they fixed my key quick',
-		short: 'not techy but the menu is easy — soft aim feels natural after fov tweaks in duos',
-		slug: 'deadside-soft-aim-review-ctrl-player99',
-		seoTitle: 'Soft Aim Review by @ctrl_player99 — 4/5 | {brand}',
-		seoDescription:
-			'@ctrl_player99 rates {brand} deadside cheats 4/5 after FOV tuning on Deadside for Windows PC.',
-		date: '2026-07-11',
-		tag: 'Soft aim',
-	}),
-	reviewMeta({
-		handle: 'stormChaser_07',
-		rating: 3,
-		text: 'works fine once youre actually in game. windows defender blocked the loader first try and i panicked ngl. emailed support with order id, got a reply in like 2 hours with steps. esp looks clean in customs, havent pushed hard into hot zones yet. 3 stars cause setup stress but the cheat itself seems ok',
-		short: 'defender blocked loader at first but support fixed it in 2hrs — esp looks clean in custom lobbies',
-		slug: 'deadside-cheat-setup-review-stormchaser07',
-		seoTitle: 'Setup Review by @stormChaser_07 — 3/5 | {brand}',
-		seoDescription:
-			'@stormChaser_07 rates {brand} setup 3/5 — deadside hacks ESP solid after support helped on Windows PC.',
-		date: '2026-06-15',
-		tag: 'Setup',
-	}),
-	reviewMeta({
-		handle: 'lootGoblinx',
-		rating: 5,
-		text: 'mainly wanted player esp and loot tracking for deadside. these hacks show kits and third parties earlier than my brain does lol. duos with my mate is way less chaos when you know whos flanking the airfield. way better than random free deadside cheats that look sketchy af',
-		short: 'player esp catches flanks and loot early — way better than sketchy free deadside hacks',
-		slug: 'deadside-loot-esp-review-lootgoblinx',
-		seoTitle: 'Hero ESP Review by @lootGoblinx — 5/5 | {brand}',
-		seoDescription:
-			'@lootGoblinx rates {brand} player ESP 5/5 for Deadside loot runs on Windows PC.',
-		date: '2026-08-01',
-		tag: 'ESP',
-	}),
-	reviewMeta({
-		handle: 'rankedGrind42',
-		rating: 4,
-		text: 'been on this deadside cheat since the new patch cycle. per weapon aim profiles help on sniper holds — rifle vs shotgun actually feels different which is nice. status page was slow after BattlEye update but build was back next morning. solid for long grind sessions near compounds',
-		short: 'per-weapon aim profiles help sniper holds — back online next day after BattlEye patch',
-		slug: 'deadside-soft-aim-session-review-rankedgrind42',
-		seoTitle: 'Ranked Soft Aim by @rankedGrind42 — 4/5 | {brand}',
-		seoDescription:
-			'@rankedGrind42 rates {brand} soft aim 4/5 for Deadside sniper holds on Windows PC.',
-		date: '2026-07-07',
-		tag: 'Ranked',
-	}),
-	reviewMeta({
-		handle: 'vanLifeDeadside',
-		rating: 5,
-		text: 'everyone talks esp but the 2d radar on this thing is cracked. caught a flank on a compound twice in one raid without staring at wallhack boxes. esp + radar combo feels like legit tier 1 deadside cheats. running low opacity so it doesnt scream cheat in clips',
-		short: '2d radar caught compound flanks twice — esp + radar combo feels like real deadside hacks',
-		slug: 'deadside-radar-hack-review-vanlifedeadside',
-		seoTitle: 'Radar Review by @vanLifeDeadside — 5/5 | {brand}',
-		seoDescription:
-			'@vanLifeDeadside rates {brand} radar hack 5/5 for flank detection on Deadside maps.',
-		date: '2026-07-28',
-		tag: 'Radar',
-	}),
-	reviewMeta({
-		handle: 'patchDayMike',
-		rating: 4,
-		text: 'patch day is when half the cheat discords go silent lol. team posted on status in like 3 hrs and i was back in queue next morning. old provider left me waiting 4 days with no loader. not perfect but way better support than im used to from other deadside hacks',
-		short: 'patch day usually kills cheats — this one was back next morning, old provider took 4 days',
-		slug: 'deadside-battleye-update-review-patchdaymike',
-		seoTitle: 'Status Review by @patchDayMike — 4/5 | {brand}',
-		seoDescription:
-			'@patchDayMike rates {brand} status updates 4/5 after {antiCheat} patches on Deadside for Windows PC.',
-		date: '2026-06-09',
-		tag: 'BattlEye updates',
-	}),
-	reviewMeta({
-		handle: 'snipezOnly_',
-		rating: 5,
-		text: 'sniper main here. long-range soft aim with esp callouts is stupid strong if you keep settings lowkey. no bloat loader, simple install on win11. best deadside cheat ive used for late-game fights on cruiser and sawmill — just dont crank fov like an idiot',
-		short: 'sniper main — soft aim + esp hits different on cruiser/sawmill if you keep settings subtle',
-		slug: 'deadside-sniper-soft-aim-review-snipezonly',
-		seoTitle: 'Sniper Soft Aim by @snipezOnly_ — 5/5 | {brand}',
-		seoDescription:
-			'@snipezOnly_ rates {brand} deadside hacks soft aim 5/5 with ESP on Deadside for Windows PC.',
-		date: '2026-08-01',
-		tag: 'Sniper',
-	}),
-] as const satisfies readonly CustomerReview[];
+import { generatedCustomerReviews } from './customer-reviews.generated';
+
+export const customerReviews = generatedCustomerReviews.map((review) => reviewMeta(review));
+
+const reviewTotal = customerReviews.length;
 
 export const customerReviewStats = {
-	averageRating: 4.4,
+	averageRating: Math.round((customerReviews.reduce((sum, r) => sum + r.rating, 0) / reviewTotal) * 10) / 10,
 	/** Published review count for schema and marketing UI */
-	totalCount: 100,
-	reviewCountLabel: '100+',
+	totalCount: reviewTotal,
+	reviewCountLabel: reviewTotal >= 100 ? '100+' : `${reviewTotal}+`,
 } as const;

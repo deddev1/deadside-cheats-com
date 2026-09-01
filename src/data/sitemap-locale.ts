@@ -1,6 +1,6 @@
 import { getPageContent } from './i18n';
 import { getLocalizedPath, hreflangLinksXml, pageIds, type PageId } from './i18n/routing';
-import { defaultLocale, localeCodes, type LocaleCode } from './i18n/locales';
+import { defaultLocale, indexableLocales, type LocaleCode } from './i18n/locales';
 import { siteConfig } from './site';
 import { pageSitemapMeta } from './sitemap-meta';
 import { escapeXml, assertCrawlableAssetUrl } from './sitemap-xml';
@@ -17,8 +17,8 @@ export type LocaleSitemapEntry = {
 	image?: { url: string; title: string; caption: string };
 };
 
-/** Non-English locale codes included in regional sitemaps. */
-export const i18nLocaleCodes = localeCodes.filter((code) => code !== defaultLocale);
+/** Non-English indexable locale codes included in regional sitemaps. */
+export const i18nLocaleCodes = indexableLocales.filter((code) => code !== defaultLocale);
 
 const BLOG_PAGES_PER_LOCALE = 0; // Locale blogs 301 to EN — not indexed
 

@@ -60,7 +60,7 @@
     "oneTime": "Pago único",
     "plans": "Planes",
     "perMonth": "/ mes",
-    "once": " una vez",
+    "once": "una vez",
     "buyMonthly": "Comprar mensual",
     "buyLifetime": "Comprar de por vida"
   },
@@ -88,7 +88,7 @@
     "languageSuggestion": "Sugerencia de idioma",
     "dismiss": "Cerrar",
     "localeVersion": "versión en {{name}}",
-    "localeSuggestLead": "{{nativeName}} ({{region}}) — ",
+    "localeSuggestLead": "{{nativeName}} ({{region}}) —",
     "breadcrumb": "Miguitas de pan",
     "gallery": "Galería",
     "inGameLook": "Aspecto en el juego",
@@ -116,7 +116,7 @@
   "footer": {
     "explore": "Explorar",
     "help": "Ayuda y legal",
-    "tagline": "ESP, wallhack, radar y Aimbot indetectables para Deadside — checkout en Zadeyo."
+    "tagline": "ESP, wallhack, radar y Aimbot indetectables para Deadside."
   },
   "home": {
     "aboutTitle": "cheats indetectables para Deadside",
@@ -125,16 +125,16 @@
     "aboutStore": "Store",
     "aboutP1Mid": ", then check",
     "aboutStatus": "Status",
-    "aboutP1After": " before you drop in.",
+    "aboutP1After": "before you drop in.",
     "aboutPricingCta": "Compare pricing",
     "aboutP2Before": "Empieza por el",
     "aboutPillar": "pilar de trucos de Deadside",
     "aboutEsp": "guía de ESP",
     "aboutAimbot": "controles de aimbot",
     "aboutUndetected": "estado indetectable",
-    "aboutP2Mid": ", ",
-    "aboutP2Or": ", o ",
-    "aboutP2After": " si aún estás comparando herramientas.",
+    "aboutP2Mid": ",",
+    "aboutP2Or": ", o",
+    "aboutP2After": "si aún estás comparando herramientas.",
     "demoGalleryCaption": "Deadside Cheats — ESP, aimbot & radar in match",
     "demoGalleryScrollLabel": "Deadside cheats gameplay screenshots",
     "demoGalleryPrev": "Previous screenshot",

@@ -51,8 +51,8 @@ export type BrandThemeResolved = {
 };
 
 export const themeDefaults: BrandThemeInput = {
-	accent: '#c026d3',
-	bg: '#08090a',
+	accent: '#7FAF5A',
+	bg: '#080A09',
 };
 
 export const themePresets: { id: string; label: string; accent: string; bg: string }[] = [

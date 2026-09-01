@@ -6,7 +6,7 @@ import { brandTheme, brandThemeInlineStyle, brandThemeRootCss } from '../data/br
 import I18nHead from '../components/I18nHead.astro';
 import LocaleSuggest from '../components/LocaleSuggest.astro';
 import InlineBrandEditor from '../components/InlineBrandEditor.astro';
-import { defaultLocale, localeMap, locales, type LocaleCode } from '../data/i18n/locales';
+import { defaultLocale, isIndexableLocale, localeMap, locales, type LocaleCode } from '../data/i18n/locales';
 import type { PageId } from '../data/i18n/content.generated';
 import { buildCanonicalUrl, type HreflangAlternate } from '../data/i18n/routing';
 import { heroHeight, heroWidth } from '../lib/responsive-images';
@@ -68,10 +68,13 @@ const ogImageType = ogImage.endsWith('.webp') ? 'image/webp' : 'image/png';
 const ogImageWidth = ogImageIsLogo ? '512' : String(heroWidth);
 const ogImageHeight = ogImageIsLogo ? '512' : String(heroHeight);
 const twitterCard = ogImageIsLogo ? 'summary' : 'summary_large_image';
-const robots = noindex ? 'noindex, nofollow' : 'index, follow, max-image-preview:large';
+const shouldNoindex = noindex || !isIndexableLocale(locale);
+const robots = shouldNoindex ? 'noindex, nofollow' : 'index, follow, max-image-preview:large';
 const siteDescription = `${productInfo.tagline}. ${productInfo.summary}`;
 const localeMeta = localeMap[locale];
-const ogLocaleAlternateLocales = ogLocaleAlternates ? locales.filter((l) => l.code !== locale) : [];
+const ogLocaleAlternateLocales = ogLocaleAlternates
+	? locales.filter((l) => l.code !== locale && isIndexableLocale(l.code))
+	: [];
 const schemaLanguage = localeMeta.ogLocale.replace('_', '-');
 const schemaLanguages = locales.map((l) => l.ogLocale.replace('_', '-'));
 const worldwidePlace = { '@type': 'Place' as const, name: siteConfig.market };
@@ -223,7 +226,7 @@ if (aboutNode) {
 				)
 			)
 		}
-		{pageId && <I18nHead pageId={pageId} locale={locale} />}
+		{pageId && !shouldNoindex && <I18nHead pageId={pageId} locale={locale} />}
 		{
 			!pageId &&
 				hreflangAlternates?.map((alt) => (
@@ -254,7 +257,7 @@ if (aboutNode) {
 		<meta name="twitter:image" content={ogImageURL} />
 		<meta name="twitter:image:alt" content={ogImageAlt} />
 
-		{!noindex && (
+		{!shouldNoindex && (
 			<script type="application/ld+json" set:html={JSON.stringify({ '@context': 'https://schema.org', '@graph': graph })} />
 		)}
 

@@ -20,14 +20,14 @@ const mixedGuides = getMixedGuides();
 const canonicalPath = getGuidesBasePath();
 const homeHref = getLocalizedPath('home', locale);
 
-const pageTitle = 'Game Guides Hub | Deadside Cheats';
+const pageTitle = 'Deadside Guides Hub | Deadside Cheats';
 const pageDescription =
-	'Free PC game guides for Fortnite, Tarkov, Warzone & more — plus Deadside cheat tips. Browse 80+ guides at deadsidecheats.com/guides.';
+	'Deadside survival guides — loot routes, compound PvP, BattlEye patch tips, and cheat feature explainers. Browse guides at deadsidecheats.com/guides.';
 
 const collectionSchema = {
 	'@type': 'CollectionPage',
 	'@id': `${absoluteGuideUrl()}#collection`,
-	name: 'Game Guides',
+	name: 'Deadside Guides',
 	description: pageDescription,
 	url: absoluteGuideUrl(),
 	inLanguage: locale,
@@ -51,7 +51,7 @@ const collectionSchema = {
 	locale={locale}
 	ogLocaleAlternates={false}
 	ogImage={siteConfig.defaultOgImage}
-	ogImageAlt="Game Guides Hub"
+	ogImageAlt="Deadside Guides Hub"
 	breadcrumbs={[{ label: t('common.home'), href: homeHref }, { label: t('common.guides') }]}
 	extraGraph={[collectionSchema]}
 >

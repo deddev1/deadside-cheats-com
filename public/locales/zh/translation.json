@@ -22,7 +22,7 @@
   "hero": {
     "accent": "2026 — Undetected ESP, Aimbot & Wallhack",
     "accentShort": "Undetected deadside cheats 2026",
-    "title": "Deadside Cheats",
+    "title": "Undetected Deadside Cheats — ESP, Aimbot & Radar",
     "subtitle": "deadside cheats with Deadside ESP, radar hack and Deadside Aimbot for Windows PC — BattlEye maintenance included.",
     "subtitleShort": "Deadside ESP, radar & aimbot for PC",
     "buyNow": "Buy Deadside Cheats",
@@ -88,7 +88,7 @@
     "languageSuggestion": "Language suggestion",
     "dismiss": "关闭",
     "localeVersion": "{{name}} version",
-    "localeSuggestLead": "{{nativeName}} ({{region}}) — ",
+    "localeSuggestLead": "{{nativeName}} ({{region}}) —",
     "breadcrumb": "面包屑",
     "gallery": "图库",
     "inGameLook": "图库",
@@ -117,7 +117,7 @@
   "footer": {
     "explore": "探索",
     "help": "帮助与法律",
-    "tagline": "Deadside undetected ESP、wallhack、radar与Aimbot — 通过Zadeyo结账。"
+    "tagline": "Deadside undetected ESP、wallhack、radar与Aimbot — 通过secure checkout结账。"
   },
   "home": {
     "aboutTitle": "undetected cheats for Deadside",
@@ -126,16 +126,16 @@
     "aboutStore": "Store",
     "aboutP1Mid": ", then check",
     "aboutStatus": "Status",
-    "aboutP1After": " before you drop in.",
+    "aboutP1After": "before you drop in.",
     "aboutPricingCta": "Compare pricing",
     "aboutP2Before": "Start with the",
     "aboutPillar": "Deadside cheats pillar",
     "aboutEsp": "ESP guide",
     "aboutAimbot": "aimbot controls",
     "aboutUndetected": "undetected status",
-    "aboutP2Mid": ", ",
-    "aboutP2Or": ", or ",
-    "aboutP2After": " if you are still comparing tools.",
+    "aboutP2Mid": ",",
+    "aboutP2Or": ", or",
+    "aboutP2After": "if you are still comparing tools.",
     "demoGalleryCaption": "Deadside Cheats — ESP, aimbot & radar in match",
     "demoGalleryScrollLabel": "Deadside Cheats gameplay screenshots",
     "demoGalleryPrev": "Previous screenshot",

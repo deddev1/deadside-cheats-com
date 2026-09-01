@@ -51,7 +51,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				hero: {
 					accent: "2026 — Undetected ESP, Aimbot & Wallhack",
 					accentShort: "Undetected deadside cheats 2026",
-					title: "Deadside Cheats",
+					title: "Undetected Deadside Cheats — ESP, Aimbot & Radar",
 					subtitle: "deadside cheats with Deadside ESP, radar hack and Deadside Aimbot for Windows PC — BattlEye maintenance included.",
 					subtitleShort: "Deadside ESP, radar & aimbot for PC",
 					buyNow: "Buy Deadside Cheats",
@@ -1345,7 +1345,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				footer: {
 					explore: "Explorar",
 					help: "Ayuda y legal",
-					tagline: "ESP, wallhack, radar y Aimbot indetectables para Deadside — checkout en Zadeyo.",
+					tagline: "ESP, wallhack, radar y Aimbot indetectables para Deadside.",
 				},
 				images: {
 					hero: "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
@@ -1377,7 +1377,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Por qué eligen Deadside Cheats en 2026",
 							paragraphs: [
 								"Deadside Cheats ofrece ESP wallhack, radar hack y Deadside Aimbot indetectables para Deadside en Windows PC. Ideal para leer escuadrones enemigos en BR y PvP raid sessions.",
-								"Licencias con entrega digital instantánea vía checkout Zadeyo. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
+								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
 							],
 						},
 						{
@@ -1404,7 +1404,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Qué muestra el ESP",
 							paragraphs: [
 								"Cajas, distancia y filtros para jugadores, científicos y loot.",
-								"Licencias con entrega digital instantánea vía checkout Zadeyo. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
+								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
 							],
 							list: [
 								"ESP de jugador",
@@ -1416,7 +1416,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Cuándo usarlo",
 							paragraphs: [
 								"Limpia zonas de POI de alto tráfico y extract routes sin inundar la pantalla.",
-								"Licencias con entrega digital instantánea vía checkout Zadeyo. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
+								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
 							],
 							list: [
 								"Ajusta opacidad",
@@ -1428,7 +1428,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Próximos pasos",
 							paragraphs: [
 								"ESP incluido con aimbot y radar en un solo plan.",
-								"Licencias con entrega digital instantánea vía checkout Zadeyo. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
+								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
 							],
 							list: [
 								"<a href=\"/\">Producto completo</a>",
@@ -1454,7 +1454,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Controles",
 							paragraphs: [
 								"Configura FOV, suavidad y prioridad de huesos antes del match.",
-								"Licencias con entrega digital instantánea vía checkout Zadeyo. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
+								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
 							],
 							list: [
 								"Fuerza de soft aim",
@@ -1466,7 +1466,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Estilos de juego",
 							paragraphs: [
 								"Mantén ajustes sutiles para matches largos. Sube la fuerza solo cuando aceptes más riesgo.",
-								"Licencias con entrega digital instantánea vía checkout Zadeyo. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
+								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
 							],
 							list: [
 								"Soft aim legit",
@@ -1478,7 +1478,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Próximos pasos",
 							paragraphs: [
 								"Aimbot incluido con ESP y radar en una licencia.",
-								"Licencias con entrega digital instantánea vía checkout Zadeyo. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
+								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
 							],
 							list: [
 								"<a href=\"/\">Producto completo</a>",
@@ -1608,7 +1608,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Antes de comprar",
 							paragraphs: [
 								"Lee la política de reembolso si la necesitas. Contacta soporte con tu ID de pedido.",
-								"Licencias con entrega digital instantánea vía checkout Zadeyo. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
+								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
 							],
 							list: [
 								"<a href=\"/refund-policy/\">Política de reembolso</a>",
@@ -1634,7 +1634,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Antes de instalar",
 							paragraphs: [
 								"Compra un plan primero. Recibes la licencia por email.",
-								"Licencias con entrega digital instantánea vía checkout Zadeyo. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
+								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
 							],
 							list: [
 								"PC Windows 10 / 11",
@@ -1646,7 +1646,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Pasos de instalación",
 							paragraphs: [
 								"Ejecuta el loader como admin, pega tu licencia y lanza Deadside.",
-								"Licencias con entrega digital instantánea vía checkout Zadeyo. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
+								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
 							],
 							list: [
 								"Descarga el loader del email de entrega",
@@ -1658,7 +1658,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Si algo falla",
 							paragraphs: [
 								"Revisa Estado tras un parche. Email a support@deadsidecheats.com con tu ID de pedido.",
-								"Licencias con entrega digital instantánea vía checkout Zadeyo. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
+								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
 							],
 							list: [
 								"<a href=\"/updates/\">Guía de trucos indetectables</a>",
@@ -1696,7 +1696,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Después de un parche",
 							paragraphs: [
 								"Espera nuestra nota de rebuild, luego inicia. No juegues con una build antigua tras una gran actualización.",
-								"Licencias con entrega digital instantánea vía checkout Zadeyo. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
+								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
 							],
 							list: [
 								"Lee la última nota de estado",
@@ -1708,7 +1708,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Importante",
 							paragraphs: [
 								"Ningún cheat es 100% seguro para siempre. Mantente actualizado y usa ajustes seguros.",
-								"Licencias con entrega digital instantánea vía checkout Zadeyo. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
+								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
 							],
 							list: [
 								"Estado primero, luego jugar",
@@ -1733,7 +1733,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Compra y entrega",
 							paragraphs: [
 								"Recibes una licencia digital por email tras el pago.",
-								"Licencias con entrega digital instantánea vía checkout Zadeyo. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
+								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
 							],
 							list: [
 								"Entrega instantánea tras checkout",
@@ -1745,7 +1745,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Instalación y actualizaciones",
 							paragraphs: [
 								"Sigue Instalación tras comprar. Revisa Estado tras parches grandes de Deadside o BattlEye.",
-								"Licencias con entrega digital instantánea vía checkout Zadeyo. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
+								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
 							],
 							list: [
 								"<a href=\"/setup/\">Guía de instalación</a>",
@@ -1756,7 +1756,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Reembolsos",
 							paragraphs: [
 								"Lee la política de reembolso antes de comprar si necesitas detalles.",
-								"Licencias con entrega digital instantánea vía checkout Zadeyo. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
+								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
 							],
 							list: [
 								"<a href=\"/refund-policy/\">Política de reembolso</a>",
@@ -1781,7 +1781,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Cómo contactarnos",
 							paragraphs: [
 								"Email a support@deadsidecheats.com. Incluye tu ID de pedido y una nota breve sobre el problema.",
-								"Licencias con entrega digital instantánea vía checkout Zadeyo. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
+								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
 							],
 							list: [
 								"ID de pedido del recibo",
@@ -1793,7 +1793,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Respuestas más rápidas",
 							paragraphs: [
 								"Revisa FAQ y Estado antes de escribir. Muchas dudas de instalación ya están cubiertas.",
-								"Licencias con entrega digital instantánea vía checkout Zadeyo. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
+								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
 							],
 							list: [
 								"<a href=\"/faq/\">FAQ</a>",
@@ -1819,7 +1819,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Qué significa indetectable para Deadside Cheats",
 							paragraphs: [
 								"Deadside Cheats ofrece ESP wallhack, radar hack y Deadside Aimbot indetectables para Deadside en Windows PC. mantenimiento undetected tras parches BattlEye",
-								"Licencias con entrega digital instantánea vía checkout Zadeyo. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
+								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
 								"Anti-cheat technology is documented by <a href=\"https://www.battleye.com/\" target=\"_blank\" rel=\"noopener noreferrer\">BattlEye</a>; Deadside client updates ship through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Undetected status is an ongoing process tied to those releases.",
 							],
 						},
@@ -1865,7 +1865,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Wallhack ESP vs raw aim tools",
 							paragraphs: [
 								"Deadside Cheats ofrece ESP wallhack, radar hack y Deadside Aimbot indetectables para Deadside en Windows PC. wallhack ESP para jugadores, loot y distancia",
-								"Licencias con entrega digital instantánea vía checkout Zadeyo. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
+								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
 								"For the broader ESP keyword page see <a href=\"/deadside-esp/\">Guía ESP y wallhack</a>; for combat assist see <a href=\"/deadside-aimbot/\">Aimbot y soft aim</a>.",
 							],
 						},
@@ -1903,7 +1903,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Qué muestra",
 							paragraphs: [
 								"Señales de enemigos cercanos con rango ajustable para farmers y matchers solitarios.",
-								"Licencias con entrega digital instantánea vía checkout Zadeyo. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
+								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
 							],
 							list: [
 								"Detección de flancos",
@@ -1915,7 +1915,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Con ESP",
 							paragraphs: [
 								"Usa radar para amenazas que aún no ves. Usa ESP cuando avances.",
-								"Licencias con entrega digital instantánea vía checkout Zadeyo. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
+								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">Guía ESP y wallhack</a>",
@@ -2062,7 +2062,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Guías de módulos",
 							paragraphs: [
 								"Cada herramienta tiene su propia página detallada si quieres más info antes del checkout.",
-								"Licencias con entrega digital instantánea vía checkout Zadeyo. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
+								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">Guía ESP y wallhack</a>",
@@ -2075,7 +2075,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Estado indetectable y parches",
 							paragraphs: [
 								"Deadside usa BattlEye. Ningún cheat permanece indetectable para siempre — lo importante es el mantenimiento tras parches. Revisa la página de Estado tras cada actualización de Deadside o BattlEye antes de entrar.",
-								"Licencias con entrega digital instantánea vía checkout Zadeyo. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
+								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
 							],
 							list: [
 								"<a href=\"/updates/\">Guía de trucos indetectables</a>",
@@ -2088,7 +2088,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Cómo empezar",
 							paragraphs: [
 								"Elige mensual ($35) o de por vida ($150) en la tienda — mismas funciones en ambos. Tras el checkout recibes la licencia por email. Sigue la guía de instalación y revisa el estado tras parches importantes.",
-								"Licencias con entrega digital instantánea vía checkout Zadeyo. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
+								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
 							],
 							list: [
 								"<a href=\"/pricing/\">Tienda</a>",
@@ -2152,7 +2152,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What a Deadside mod menu controls",
 							paragraphs: [
 								"Deadside Cheats ofrece ESP wallhack, radar hack y Deadside Aimbot indetectables para Deadside en Windows PC. toggles de ESP y soft aim en el cliente",
-								"Licencias con entrega digital instantánea vía checkout Zadeyo. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
+								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
 								"Control deep-dives: <a href=\"/deadside-esp/\">Guía ESP y wallhack</a>, <a href=\"/deadside-aimbot/\">Aimbot y soft aim</a>, <a href=\"/deadside-radar-hack/\">Overlay radar 2D</a>.",
 							],
 						},
@@ -2190,7 +2190,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What Deadside soft aim means",
 							paragraphs: [
 								"Deadside Cheats ofrece ESP wallhack, radar hack y Deadside Aimbot indetectables para Deadside en Windows PC. ajustes suaves de soft aim para Windows PC",
-								"Licencias con entrega digital instantánea vía checkout Zadeyo. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
+								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
 								"Full Aimbot documentation: <a href=\"/deadside-aimbot/\">Aimbot y soft aim</a>. Alternate wording: <a href=\"/deadside-aimbot/\">Aimbot y soft aim</a>.",
 							],
 						},
@@ -2228,7 +2228,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What makes deadside cheats in 2026",
 							paragraphs: [
 								"Deadside Cheats ofrece ESP wallhack, radar hack y Deadside Aimbot indetectables para Deadside en Windows PC. qué comparar antes de comprar deadside cheats",
-								"Licencias con entrega digital instantánea vía checkout Zadeyo. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
+								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
 								"Verify the live game is healthy via <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside on Steam</a>, then confirm our <a href=\"/updates/\">Guía de trucos indetectables</a> note before you judge any package “best.”",
 							],
 						},
@@ -2244,7 +2244,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Buying deadside cheats safely",
 							paragraphs: [
 								"Deadside Cheats ofrece ESP wallhack, radar hack y Deadside Aimbot indetectables para Deadside en Windows PC. qué comparar antes de comprar deadside cheats",
-								"Licencias con entrega digital instantánea vía checkout Zadeyo. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
+								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
 								"Consulta la página Updates antes de jugar tras parches de BattlEye. Ningún cheat garantiza estado indetectable permanente.",
 							],
 						},
@@ -2274,7 +2274,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Deadside Aimbot hack vs visibility tools",
 							paragraphs: [
 								"Deadside Cheats ofrece ESP wallhack, radar hack y Deadside Aimbot indetectables para Deadside en Windows PC. asistencia undetected de hack Aimbot para Deadside",
-								"Licencias con entrega digital instantánea vía checkout Zadeyo. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
+								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
 								"Prefer softer tracking language? See <a href=\"/deadside-aimbot/\">Aimbot y soft aim</a>. Full settings: <a href=\"/deadside-aimbot/\">Aimbot y soft aim</a>.",
 							],
 						},
@@ -2282,7 +2282,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot hack controls and hotkeys",
 							paragraphs: [
 								"Deadside Cheats ofrece ESP wallhack, radar hack y Deadside Aimbot indetectables para Deadside en Windows PC. asistencia undetected de hack Aimbot para Deadside",
-								"Licencias con entrega digital instantánea vía checkout Zadeyo. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
+								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
 								"Balance patches from <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> can change ideal FOV — retune after major weapon balance updates.",
 							],
 						},
@@ -2312,7 +2312,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What a Deadside ESP hack shows",
 							paragraphs: [
 								"Deadside Cheats ofrece ESP wallhack, radar hack y Deadside Aimbot indetectables para Deadside en Windows PC. cajas ESP hack, pins de carcasa y distancia",
-								"Licencias con entrega digital instantánea vía checkout Zadeyo. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
+								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
 								"Canonical visibility guide: <a href=\"/deadside-esp/\">Guía ESP y wallhack</a>. Wallhack wording: <a href=\"/deadside-esp/\">Guía ESP y wallhack</a>.",
 							],
 						},
@@ -2320,7 +2320,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP hack categories for matches",
 							paragraphs: [
 								"Deadside Cheats ofrece ESP wallhack, radar hack y Deadside Aimbot indetectables para Deadside en Windows PC. cajas ESP hack, pins de carcasa y distancia",
-								"Licencias con entrega digital instantánea vía checkout Zadeyo. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
+								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
 								"POI and loot changes publish through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> — keep categories toggled to what the current map rewards.",
 							],
 						},
@@ -2350,7 +2350,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What Deadside unlock-all usually means",
 							paragraphs: [
 								"Deadside Cheats ofrece ESP wallhack, radar hack y Deadside Aimbot indetectables para Deadside en Windows PC. búsquedas unlock-all vs herramientas reales ESP y Aimbot",
-								"Licencias con entrega digital instantánea vía checkout Zadeyo. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
+								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
 								"Cosmetics and patch cycle progression items are sold through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Be wary of unlock-all downloads that promise free skins — they are often scams.",
 							],
 						},
@@ -2388,8 +2388,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Información que recopilamos",
 							paragraphs: [
-								"Deadside Cheats ofrece ESP wallhack, radar hack y Deadside Aimbot indetectables para Deadside en Windows PC. Correo de contacto, referencias de pedido Zadeyo y datos básicos de seguridad del sitio.",
-								"Los datos de pago se procesan en el checkout de Zadeyo — no se almacenan en deadsidecheats.com.",
+								"Deadside Cheats ofrece ESP wallhack, radar hack y Deadside Aimbot indetectables para Deadside en Windows PC. Correo de contacto, referencias de pedido secure checkout y datos básicos de seguridad del sitio.",
+								"Los datos de pago se procesan en el checkout de secure checkout — no se almacenan en deadsidecheats.com.",
 							],
 						},
 						{
@@ -2423,8 +2423,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Entrega digital",
 							paragraphs: [
-								"Deadside Cheats ofrece ESP wallhack, radar hack y Deadside Aimbot indetectables para Deadside en Windows PC. Correo de contacto, referencias de pedido Zadeyo y datos básicos de seguridad del sitio.",
-								"Licencias con entrega digital instantánea vía checkout Zadeyo. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
+								"Deadside Cheats ofrece ESP wallhack, radar hack y Deadside Aimbot indetectables para Deadside en Windows PC. Correo de contacto, referencias de pedido secure checkout y datos básicos de seguridad del sitio.",
+								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
 							],
 						},
 						{
@@ -2458,8 +2458,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Aceptación de términos",
 							paragraphs: [
-								"Deadside Cheats ofrece ESP wallhack, radar hack y Deadside Aimbot indetectables para Deadside en Windows PC. Correo de contacto, referencias de pedido Zadeyo y datos básicos de seguridad del sitio.",
-								"Licencias con entrega digital instantánea vía checkout Zadeyo. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
+								"Deadside Cheats ofrece ESP wallhack, radar hack y Deadside Aimbot indetectables para Deadside en Windows PC. Correo de contacto, referencias de pedido secure checkout y datos básicos de seguridad del sitio.",
+								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
 							],
 						},
 						{
@@ -2537,7 +2537,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				footer: {
 					explore: "Explorer",
 					help: "Aide et légal",
-					tagline: "ESP, wallhack, radar et Aimbot indétectables pour Deadside — checkout via Zadeyo.",
+					tagline: "ESP, wallhack, radar et Aimbot indétectables pour Deadside.",
 				},
 				images: {
 					hero: "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
@@ -2569,7 +2569,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Pourquoi choisir Deadside Cheats en 2026",
 							paragraphs: [
 								"Deadside Cheats combine ESP wallhack, radar hack et Deadside Aimbot indétectables pour Deadside sur PC Windows. Parfait pour lire les équipes ennemies en BR et PvP raid sessions.",
-								"Licences avec livraison numérique instantanée via checkout Zadeyo. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
+								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
 							],
 						},
 						{
@@ -2596,7 +2596,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Ce que l'ESP affiche",
 							paragraphs: [
 								"Boîtes, distance et filtres pour joueurs, scientifiques et loot.",
-								"Licences avec livraison numérique instantanée via checkout Zadeyo. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
+								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
 							],
 							list: [
 								"ESP joueur",
@@ -2608,7 +2608,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Quand l'utiliser",
 							paragraphs: [
 								"Gardez les zones de high-traffic compounds et extract routes lisibles sans saturer l'écran.",
-								"Licences avec livraison numérique instantanée via checkout Zadeyo. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
+								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
 							],
 							list: [
 								"Régler l'opacité",
@@ -2620,7 +2620,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Étapes suivantes",
 							paragraphs: [
 								"ESP inclus avec aimbot et radar dans un seul plan.",
-								"Licences avec livraison numérique instantanée via checkout Zadeyo. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
+								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
 							],
 							list: [
 								"<a href=\"/\">Produit complet</a>",
@@ -2646,7 +2646,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Contrôles",
 							paragraphs: [
 								"Réglez FOV, fluidité et priorité d'os avant le match.",
-								"Licences avec livraison numérique instantanée via checkout Zadeyo. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
+								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
 							],
 							list: [
 								"Force du soft aim",
@@ -2658,7 +2658,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Styles de jeu",
 							paragraphs: [
 								"Gardez des réglages discrets pour les longs matches. Montez la force seulement si vous acceptez plus de risque.",
-								"Licences avec livraison numérique instantanée via checkout Zadeyo. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
+								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
 							],
 							list: [
 								"Soft aim discret",
@@ -2670,7 +2670,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Étapes suivantes",
 							paragraphs: [
 								"Aimbot inclus avec ESP et radar dans une licence.",
-								"Licences avec livraison numérique instantanée via checkout Zadeyo. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
+								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
 							],
 							list: [
 								"<a href=\"/\">Produit complet</a>",
@@ -2800,7 +2800,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Avant d'acheter",
 							paragraphs: [
 								"Lisez la politique de remboursement si besoin. Contactez le support avec votre ID commande.",
-								"Licences avec livraison numérique instantanée via checkout Zadeyo. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
+								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
 							],
 							list: [
 								"<a href=\"/refund-policy/\">Politique de remboursement</a>",
@@ -2826,7 +2826,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Avant d'installer",
 							paragraphs: [
 								"Achetez d'abord une formule. Vous recevez la licence par email.",
-								"Licences avec livraison numérique instantanée via checkout Zadeyo. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
+								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
 							],
 							list: [
 								"PC Windows 10 / 11",
@@ -2838,7 +2838,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Étapes d'installation",
 							paragraphs: [
 								"Lancez le loader en admin, collez votre licence puis lancez Deadside.",
-								"Licences avec livraison numérique instantanée via checkout Zadeyo. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
+								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
 							],
 							list: [
 								"Téléchargez le loader depuis l'email de livraison",
@@ -2850,7 +2850,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Si quelque chose échoue",
 							paragraphs: [
 								"Consultez Statut après un patch. Email support@deadsidecheats.com avec votre ID commande.",
-								"Licences avec livraison numérique instantanée via checkout Zadeyo. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
+								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
 							],
 							list: [
 								"<a href=\"/updates/\">Guide triches indétectables</a>",
@@ -2888,7 +2888,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Après un patch",
 							paragraphs: [
 								"Attendez notre note de reconstruction, puis lancez. Ne jouez pas sur une ancienne build après une grosse mise à jour.",
-								"Licences avec livraison numérique instantanée via checkout Zadeyo. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
+								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
 							],
 							list: [
 								"Lisez la dernière note de statut",
@@ -2900,7 +2900,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Important",
 							paragraphs: [
 								"Aucune triche n'est sûre à 100% pour toujours. Restez à jour et utilisez des réglages prudents.",
-								"Licences avec livraison numérique instantanée via checkout Zadeyo. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
+								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
 							],
 							list: [
 								"Statut d'abord, puis jouer",
@@ -2925,7 +2925,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Achat et livraison",
 							paragraphs: [
 								"Vous recevez une licence numérique par email après paiement.",
-								"Licences avec livraison numérique instantanée via checkout Zadeyo. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
+								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
 							],
 							list: [
 								"Livraison instantanée après checkout",
@@ -2937,7 +2937,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Installation et mises à jour",
 							paragraphs: [
 								"Suivez Installation après achat. Consultez Statut après gros patchs Deadside ou BattlEye.",
-								"Licences avec livraison numérique instantanée via checkout Zadeyo. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
+								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
 							],
 							list: [
 								"<a href=\"/setup/\">Guide d'installation</a>",
@@ -2948,7 +2948,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Remboursements",
 							paragraphs: [
 								"Lisez la politique de remboursement avant achat si vous avez besoin de détails.",
-								"Licences avec livraison numérique instantanée via checkout Zadeyo. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
+								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
 							],
 							list: [
 								"<a href=\"/refund-policy/\">Politique de remboursement</a>",
@@ -2973,7 +2973,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Comment nous contacter",
 							paragraphs: [
 								"Email support@deadsidecheats.com. Incluez votre ID commande et une brève note.",
-								"Licences avec livraison numérique instantanée via checkout Zadeyo. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
+								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
 							],
 							list: [
 								"ID commande du reçu",
@@ -2985,7 +2985,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Réponses plus rapides",
 							paragraphs: [
 								"Consultez FAQ et Statut avant d'écrire. Beaucoup de questions setup sont déjà couvertes.",
-								"Licences avec livraison numérique instantanée via checkout Zadeyo. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
+								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
 							],
 							list: [
 								"<a href=\"/faq/\">FAQ</a>",
@@ -3011,7 +3011,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Ce que signifie indétectable pour Deadside Cheats",
 							paragraphs: [
 								"Deadside Cheats combine ESP wallhack, radar hack et Deadside Aimbot indétectables pour Deadside sur PC Windows. maintenance undetected après patchs BattlEye",
-								"Licences avec livraison numérique instantanée via checkout Zadeyo. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
+								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
 								"Anti-cheat technology is documented by <a href=\"https://www.battleye.com/\" target=\"_blank\" rel=\"noopener noreferrer\">BattlEye</a>; Deadside client updates ship through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Undetected status is an ongoing process tied to those releases.",
 							],
 						},
@@ -3057,7 +3057,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Wallhack ESP vs raw aim tools",
 							paragraphs: [
 								"Deadside Cheats combine ESP wallhack, radar hack et Deadside Aimbot indétectables pour Deadside sur PC Windows. wallhack ESP pour joueurs, loot et distance",
-								"Licences avec livraison numérique instantanée via checkout Zadeyo. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
+								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
 								"For the broader ESP keyword page see <a href=\"/deadside-esp/\">Guide ESP et wallhack</a>; for combat assist see <a href=\"/deadside-aimbot/\">Aimbot et soft aim</a>.",
 							],
 						},
@@ -3095,7 +3095,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Ce qu'il affiche",
 							paragraphs: [
 								"Indices d'ennemis proches avec portée réglable pour farmers et matchers solo.",
-								"Licences avec livraison numérique instantanée via checkout Zadeyo. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
+								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
 							],
 							list: [
 								"Détection des flancs",
@@ -3107,7 +3107,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Avec ESP",
 							paragraphs: [
 								"Utilisez le radar pour les menaces pas encore visibles. Utilisez l'ESP en push.",
-								"Licences avec livraison numérique instantanée via checkout Zadeyo. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
+								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">Guide ESP et wallhack</a>",
@@ -3254,7 +3254,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Guides des modules",
 							paragraphs: [
 								"Chaque outil a sa page détaillée si vous voulez plus d'infos avant checkout.",
-								"Licences avec livraison numérique instantanée via checkout Zadeyo. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
+								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">Guide ESP et wallhack</a>",
@@ -3267,7 +3267,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Statut indétectable et patchs",
 							paragraphs: [
 								"Deadside utilise BattlEye. Aucune triche ne reste indétectable éternellement — la maintenance après patchs compte. Consultez la page Statut après chaque mise à jour Deadside ou BattlEye avant de jouer.",
-								"Licences avec livraison numérique instantanée via checkout Zadeyo. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
+								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
 							],
 							list: [
 								"<a href=\"/updates/\">Guide triches indétectables</a>",
@@ -3280,7 +3280,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Comment commencer",
 							paragraphs: [
 								"Choisissez mensuel ($35) ou à vie ($150) en boutique — mêmes fonctions. Après checkout vous recevez la licence par email. Suivez le guide d'installation puis vérifiez le statut après les gros patchs.",
-								"Licences avec livraison numérique instantanée via checkout Zadeyo. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
+								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
 							],
 							list: [
 								"<a href=\"/pricing/\">Boutique</a>",
@@ -3344,7 +3344,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What a Deadside mod menu controls",
 							paragraphs: [
 								"Deadside Cheats combine ESP wallhack, radar hack et Deadside Aimbot indétectables pour Deadside sur PC Windows. toggles ESP et soft aim in-client",
-								"Licences avec livraison numérique instantanée via checkout Zadeyo. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
+								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
 								"Control deep-dives: <a href=\"/deadside-esp/\">Guide ESP et wallhack</a>, <a href=\"/deadside-aimbot/\">Aimbot et soft aim</a>, <a href=\"/deadside-radar-hack/\">Overlay radar 2D</a>.",
 							],
 						},
@@ -3382,7 +3382,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What Deadside soft aim means",
 							paragraphs: [
 								"Deadside Cheats combine ESP wallhack, radar hack et Deadside Aimbot indétectables pour Deadside sur PC Windows. réglages soft aim fluides pour Windows PC",
-								"Licences avec livraison numérique instantanée via checkout Zadeyo. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
+								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
 								"Full Aimbot documentation: <a href=\"/deadside-aimbot/\">Aimbot et soft aim</a>. Alternate wording: <a href=\"/deadside-aimbot/\">Aimbot et soft aim</a>.",
 							],
 						},
@@ -3420,7 +3420,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What makes deadside cheats in 2026",
 							paragraphs: [
 								"Deadside Cheats combine ESP wallhack, radar hack et Deadside Aimbot indétectables pour Deadside sur PC Windows. quoi comparer avant d'acheter deadside cheats",
-								"Licences avec livraison numérique instantanée via checkout Zadeyo. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
+								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
 								"Verify the live game is healthy via <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside on Steam</a>, then confirm our <a href=\"/updates/\">Guide triches indétectables</a> note before you judge any package “best.”",
 							],
 						},
@@ -3436,7 +3436,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Buying deadside cheats safely",
 							paragraphs: [
 								"Deadside Cheats combine ESP wallhack, radar hack et Deadside Aimbot indétectables pour Deadside sur PC Windows. quoi comparer avant d'acheter deadside cheats",
-								"Licences avec livraison numérique instantanée via checkout Zadeyo. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
+								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
 								"Consultez Updates après les patchs BattlEye. Aucune triche ne garantit un statut indétectable permanent.",
 							],
 						},
@@ -3466,7 +3466,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Deadside Aimbot hack vs visibility tools",
 							paragraphs: [
 								"Deadside Cheats combine ESP wallhack, radar hack et Deadside Aimbot indétectables pour Deadside sur PC Windows. assist hack Aimbot undetected pour Deadside",
-								"Licences avec livraison numérique instantanée via checkout Zadeyo. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
+								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
 								"Prefer softer tracking language? See <a href=\"/deadside-aimbot/\">Aimbot et soft aim</a>. Full settings: <a href=\"/deadside-aimbot/\">Aimbot et soft aim</a>.",
 							],
 						},
@@ -3474,7 +3474,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot hack controls and hotkeys",
 							paragraphs: [
 								"Deadside Cheats combine ESP wallhack, radar hack et Deadside Aimbot indétectables pour Deadside sur PC Windows. assist hack Aimbot undetected pour Deadside",
-								"Licences avec livraison numérique instantanée via checkout Zadeyo. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
+								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
 								"Balance patches from <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> can change ideal FOV — retune after major weapon balance updates.",
 							],
 						},
@@ -3504,7 +3504,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What a Deadside ESP hack shows",
 							paragraphs: [
 								"Deadside Cheats combine ESP wallhack, radar hack et Deadside Aimbot indétectables pour Deadside sur PC Windows. boîtes ESP hack, pins loote et distance",
-								"Licences avec livraison numérique instantanée via checkout Zadeyo. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
+								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
 								"Canonical visibility guide: <a href=\"/deadside-esp/\">Guide ESP et wallhack</a>. Wallhack wording: <a href=\"/deadside-esp/\">Guide ESP et wallhack</a>.",
 							],
 						},
@@ -3512,7 +3512,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP hack categories for matches",
 							paragraphs: [
 								"Deadside Cheats combine ESP wallhack, radar hack et Deadside Aimbot indétectables pour Deadside sur PC Windows. boîtes ESP hack, pins loote et distance",
-								"Licences avec livraison numérique instantanée via checkout Zadeyo. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
+								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
 								"POI and loot changes publish through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> — keep categories toggled to what the current map rewards.",
 							],
 						},
@@ -3542,7 +3542,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What Deadside unlock-all usually means",
 							paragraphs: [
 								"Deadside Cheats combine ESP wallhack, radar hack et Deadside Aimbot indétectables pour Deadside sur PC Windows. recherches unlock-all vs vrais outils ESP et Aimbot",
-								"Licences avec livraison numérique instantanée via checkout Zadeyo. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
+								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
 								"Cosmetics and patch cycle progression items are sold through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Be wary of unlock-all downloads that promise free skins — they are often scams.",
 							],
 						},
@@ -3580,8 +3580,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Informations collectées",
 							paragraphs: [
-								"Deadside Cheats combine ESP wallhack, radar hack et Deadside Aimbot indétectables pour Deadside sur PC Windows. E-mail de contact, références de commande Zadeyo et données de sécurité de base du site.",
-								"Les détails de paiement sont traités par le checkout Zadeyo — non stockés sur deadsidecheats.com.",
+								"Deadside Cheats combine ESP wallhack, radar hack et Deadside Aimbot indétectables pour Deadside sur PC Windows. E-mail de contact, références de commande secure checkout et données de sécurité de base du site.",
+								"Les détails de paiement sont traités par le secure checkout — non stockés sur deadsidecheats.com.",
 							],
 						},
 						{
@@ -3615,8 +3615,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Livraison numérique",
 							paragraphs: [
-								"Deadside Cheats combine ESP wallhack, radar hack et Deadside Aimbot indétectables pour Deadside sur PC Windows. E-mail de contact, références de commande Zadeyo et données de sécurité de base du site.",
-								"Licences avec livraison numérique instantanée via checkout Zadeyo. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
+								"Deadside Cheats combine ESP wallhack, radar hack et Deadside Aimbot indétectables pour Deadside sur PC Windows. E-mail de contact, références de commande secure checkout et données de sécurité de base du site.",
+								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
 							],
 						},
 						{
@@ -3650,8 +3650,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Acceptation des conditions",
 							paragraphs: [
-								"Deadside Cheats combine ESP wallhack, radar hack et Deadside Aimbot indétectables pour Deadside sur PC Windows. E-mail de contact, références de commande Zadeyo et données de sécurité de base du site.",
-								"Licences avec livraison numérique instantanée via checkout Zadeyo. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
+								"Deadside Cheats combine ESP wallhack, radar hack et Deadside Aimbot indétectables pour Deadside sur PC Windows. E-mail de contact, références de commande secure checkout et données de sécurité de base du site.",
+								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
 							],
 						},
 						{
@@ -3729,7 +3729,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				footer: {
 					explore: "Entdecken",
 					help: "Hilfe & Rechtliches",
-					tagline: "Undetected ESP, Wallhack, Radar und Aimbot für Deadside — Checkout über Zadeyo.",
+					tagline: "Undetected ESP, Wallhack, Radar und Aimbot für Deadside.",
 				},
 				images: {
 					hero: "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
@@ -3761,7 +3761,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warum Deadside Cheats 2026 führt",
 							paragraphs: [
 								"Deadside Cheats bündelt ESP wallhack, radar hack und Deadside Aimbot als undetected Paket für Deadside auf Windows PC. Ideal um feindliche Squads in BR und PvP raid sessions zu lesen.",
-								"Lizenzen mit sofortige digitale Lieferung über Zadeyo Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über secure checkout Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
 							],
 						},
 						{
@@ -3788,7 +3788,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Was ESP zeigt",
 							paragraphs: [
 								"Boxen, Distanz und Filter für Spieler, Wissenschaftler und Loot.",
-								"Lizenzen mit sofortige digitale Lieferung über Zadeyo Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über secure checkout Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
 							],
 							list: [
 								"Spieler-ESP",
@@ -3800,7 +3800,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Wann nutzen",
 							paragraphs: [
 								"Monument-Zonen und Loot-Runs klar halten, ohne den Bildschirm zu überladen.",
-								"Lizenzen mit sofortige digitale Lieferung über Zadeyo Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über secure checkout Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
 							],
 							list: [
 								"Deckkraft anpassen",
@@ -3812,7 +3812,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Nächste Schritte",
 							paragraphs: [
 								"ESP inklusive Aimbot und Radar in einem Plan.",
-								"Lizenzen mit sofortige digitale Lieferung über Zadeyo Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über secure checkout Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
 							],
 							list: [
 								"<a href=\"/\">Vollständiges Produkt</a>",
@@ -3838,7 +3838,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Steuerung",
 							paragraphs: [
 								"FOV, Smoothness und Knochenpriorität before queueing einstellen.",
-								"Lizenzen mit sofortige digitale Lieferung über Zadeyo Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über secure checkout Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
 							],
 							list: [
 								"Soft-Aim-Stärke",
@@ -3850,7 +3850,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Spielstile",
 							paragraphs: [
 								"Halte Einstellungen dezent für längere matches. Erhöhe Stärke nur wenn du mehr Risiko akzeptierst.",
-								"Lizenzen mit sofortige digitale Lieferung über Zadeyo Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über secure checkout Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
 							],
 							list: [
 								"Legit Soft Aim",
@@ -3862,7 +3862,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Nächste Schritte",
 							paragraphs: [
 								"Aimbot mit ESP und Radar in einer Lizenz enthalten.",
-								"Lizenzen mit sofortige digitale Lieferung über Zadeyo Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über secure checkout Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
 							],
 							list: [
 								"<a href=\"/\">Vollständiges Produkt</a>",
@@ -3992,7 +3992,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Vor dem Kauf",
 							paragraphs: [
 								"Lies die Rückerstattungsrichtlinie bei Bedarf. Kontaktiere Support mit deiner Bestell-ID.",
-								"Lizenzen mit sofortige digitale Lieferung über Zadeyo Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über secure checkout Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
 							],
 							list: [
 								"<a href=\"/refund-policy/\">Rückerstattungsrichtlinie</a>",
@@ -4018,7 +4018,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Vor der Installation",
 							paragraphs: [
 								"Kaufe zuerst einen Plan. Du erhältst die Lizenz per E-Mail.",
-								"Lizenzen mit sofortige digitale Lieferung über Zadeyo Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über secure checkout Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
 							],
 							list: [
 								"Windows 10 / 11 PC",
@@ -4030,7 +4030,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Installationsschritte",
 							paragraphs: [
 								"Loader als Admin starten, Lizenz einfügen, dann Deadside starten.",
-								"Lizenzen mit sofortige digitale Lieferung über Zadeyo Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über secure checkout Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
 							],
 							list: [
 								"Loader aus der Liefer-E-Mail laden",
@@ -4042,7 +4042,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Wenn etwas schiefgeht",
 							paragraphs: [
 								"Status nach Patch prüfen. E-Mail an support@deadsidecheats.com mit Bestell-ID.",
-								"Lizenzen mit sofortige digitale Lieferung über Zadeyo Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über secure checkout Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
 							],
 							list: [
 								"<a href=\"/updates/\">Undetected Cheats Guide</a>",
@@ -4080,7 +4080,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Nach einem Patch",
 							paragraphs: [
 								"Warte auf unsere Rebuild-Notiz, dann starte. Spiele nach großen Updates nicht mit altem Build.",
-								"Lizenzen mit sofortige digitale Lieferung über Zadeyo Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über secure checkout Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
 							],
 							list: [
 								"Lies die neueste Status-Notiz",
@@ -4092,7 +4092,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Wichtig",
 							paragraphs: [
 								"Kein Cheat ist für immer 100% sicher. Bleib aktuell und nutze sichere Einstellungen.",
-								"Lizenzen mit sofortige digitale Lieferung über Zadeyo Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über secure checkout Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
 							],
 							list: [
 								"Erst Status, dann spielen",
@@ -4117,7 +4117,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Kauf & Lieferung",
 							paragraphs: [
 								"Du erhältst nach Zahlung eine digitale Lizenz per E-Mail.",
-								"Lizenzen mit sofortige digitale Lieferung über Zadeyo Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über secure checkout Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
 							],
 							list: [
 								"Sofortige Lieferung nach Checkout",
@@ -4129,7 +4129,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Setup & Updates",
 							paragraphs: [
 								"Folge Setup nach Kauf. Prüfe Status nach großen Deadside- oder BattlEye-Patches.",
-								"Lizenzen mit sofortige digitale Lieferung über Zadeyo Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über secure checkout Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
 							],
 							list: [
 								"<a href=\"/setup/\">Setup-Anleitung</a>",
@@ -4140,7 +4140,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Rückerstattungen",
 							paragraphs: [
 								"Lies die Rückerstattungsrichtlinie vor dem Kauf, wenn du Details brauchst.",
-								"Lizenzen mit sofortige digitale Lieferung über Zadeyo Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über secure checkout Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
 							],
 							list: [
 								"<a href=\"/refund-policy/\">Rückerstattungsrichtlinie</a>",
@@ -4165,7 +4165,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "So erreichst du uns",
 							paragraphs: [
 								"E-Mail an support@deadsidecheats.com. Bestell-ID und kurze Problembeschreibung angeben.",
-								"Lizenzen mit sofortige digitale Lieferung über Zadeyo Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über secure checkout Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
 							],
 							list: [
 								"Bestell-ID vom Beleg",
@@ -4177,7 +4177,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Schnellere Antworten",
 							paragraphs: [
 								"Prüfe FAQ und Status vor dem Schreiben. Viele Setup-Fragen sind bereits beantwortet.",
-								"Lizenzen mit sofortige digitale Lieferung über Zadeyo Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über secure checkout Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
 							],
 							list: [
 								"<a href=\"/faq/\">FAQ</a>",
@@ -4203,7 +4203,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Was undetected für Deadside Cheats bedeutet",
 							paragraphs: [
 								"Deadside Cheats bündelt ESP wallhack, radar hack und Deadside Aimbot als undetected Paket für Deadside auf Windows PC. Undetected-Wartung nach BattlEye Patches",
-								"Lizenzen mit sofortige digitale Lieferung über Zadeyo Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über secure checkout Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
 								"Anti-cheat technology is documented by <a href=\"https://www.battleye.com/\" target=\"_blank\" rel=\"noopener noreferrer\">BattlEye</a>; Deadside client updates ship through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Undetected status is an ongoing process tied to those releases.",
 							],
 						},
@@ -4249,7 +4249,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Wallhack ESP vs raw aim tools",
 							paragraphs: [
 								"Deadside Cheats bündelt ESP wallhack, radar hack und Deadside Aimbot als undetected Paket für Deadside auf Windows PC. Wallhack ESP für Spieler, Kadaver und Entfernung",
-								"Lizenzen mit sofortige digitale Lieferung über Zadeyo Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über secure checkout Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
 								"For the broader ESP keyword page see <a href=\"/deadside-esp/\">ESP- und Wallhack-Guide</a>; for combat assist see <a href=\"/deadside-aimbot/\">Aimbot und Soft Aim</a>.",
 							],
 						},
@@ -4287,7 +4287,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Was es zeigt",
 							paragraphs: [
 								"Nahe Feind-Hinweise mit einstellbarer Reichweite für Solo-Queue-Spieler.",
-								"Lizenzen mit sofortige digitale Lieferung über Zadeyo Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über secure checkout Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
 							],
 							list: [
 								"Flanken-Bewusstsein",
@@ -4299,7 +4299,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Mit ESP",
 							paragraphs: [
 								"Radar für noch unsichtbare Bedrohungen. ESP beim Pushen nutzen.",
-								"Lizenzen mit sofortige digitale Lieferung über Zadeyo Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über secure checkout Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">ESP- und Wallhack-Guide</a>",
@@ -4446,7 +4446,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Modul-Guides",
 							paragraphs: [
 								"Jedes Tool hat eine eigene Detailseite, wenn du vor dem Checkout mehr wissen willst.",
-								"Lizenzen mit sofortige digitale Lieferung über Zadeyo Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über secure checkout Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">ESP- und Wallhack-Guide</a>",
@@ -4459,7 +4459,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Undetected-Status & Patches",
 							paragraphs: [
 								"Deadside nutzt BattlEye. Kein Cheat bleibt für immer undetected — Wartung nach Patches zählt. Prüfe die Status-Seite nach jedem Deadside- oder BattlEye-Update vor dem Spielen.",
-								"Lizenzen mit sofortige digitale Lieferung über Zadeyo Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über secure checkout Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
 							],
 							list: [
 								"<a href=\"/updates/\">Undetected Cheats Guide</a>",
@@ -4472,7 +4472,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "So startest du",
 							paragraphs: [
 								"Wähle monatlich ($35) oder Lifetime ($150) im Shop — gleiche Features. Nach Checkout erhältst du die Lizenz per E-Mail. Folge der Setup-Anleitung und prüfe den Status nach großen Patches.",
-								"Lizenzen mit sofortige digitale Lieferung über Zadeyo Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über secure checkout Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
 							],
 							list: [
 								"<a href=\"/pricing/\">Shop</a>",
@@ -4536,7 +4536,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What a Deadside mod menu controls",
 							paragraphs: [
 								"Deadside Cheats bündelt ESP wallhack, radar hack und Deadside Aimbot als undetected Paket für Deadside auf Windows PC. In-Client ESP- und Soft-Aim-Toggles",
-								"Lizenzen mit sofortige digitale Lieferung über Zadeyo Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über secure checkout Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
 								"Control deep-dives: <a href=\"/deadside-esp/\">ESP- und Wallhack-Guide</a>, <a href=\"/deadside-aimbot/\">Aimbot und Soft Aim</a>, <a href=\"/deadside-radar-hack/\">2D-Radar-Overlay</a>.",
 							],
 						},
@@ -4574,7 +4574,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What Deadside soft aim means",
 							paragraphs: [
 								"Deadside Cheats bündelt ESP wallhack, radar hack und Deadside Aimbot als undetected Paket für Deadside auf Windows PC. sanfte Soft-Aim-Einstellungen für Windows PC",
-								"Lizenzen mit sofortige digitale Lieferung über Zadeyo Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über secure checkout Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
 								"Full Aimbot documentation: <a href=\"/deadside-aimbot/\">Aimbot und Soft Aim</a>. Alternate wording: <a href=\"/deadside-aimbot/\">Aimbot und Soft Aim</a>.",
 							],
 						},
@@ -4612,7 +4612,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What makes deadside cheats in 2026",
 							paragraphs: [
 								"Deadside Cheats bündelt ESP wallhack, radar hack und Deadside Aimbot als undetected Paket für Deadside auf Windows PC. was vor dem Kauf der deadside cheats verglichen werden sollte",
-								"Lizenzen mit sofortige digitale Lieferung über Zadeyo Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über secure checkout Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
 								"Verify the live game is healthy via <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside on Steam</a>, then confirm our <a href=\"/updates/\">Undetected Cheats Guide</a> note before you judge any package “best.”",
 							],
 						},
@@ -4628,7 +4628,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Buying deadside cheats safely",
 							paragraphs: [
 								"Deadside Cheats bündelt ESP wallhack, radar hack und Deadside Aimbot als undetected Paket für Deadside auf Windows PC. was vor dem Kauf der deadside cheats verglichen werden sollte",
-								"Lizenzen mit sofortige digitale Lieferung über Zadeyo Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über secure checkout Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
 								"Updates-Seite nach BattlEye-Patches prüfen. Kein Cheat garantiert dauerhaft undetected Status.",
 							],
 						},
@@ -4658,7 +4658,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Deadside Aimbot hack vs visibility tools",
 							paragraphs: [
 								"Deadside Cheats bündelt ESP wallhack, radar hack und Deadside Aimbot als undetected Paket für Deadside auf Windows PC. undetected Aimbot-Hack-Assist für Deadside",
-								"Lizenzen mit sofortige digitale Lieferung über Zadeyo Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über secure checkout Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
 								"Prefer softer tracking language? See <a href=\"/deadside-aimbot/\">Aimbot und Soft Aim</a>. Full settings: <a href=\"/deadside-aimbot/\">Aimbot und Soft Aim</a>.",
 							],
 						},
@@ -4666,7 +4666,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot hack controls and hotkeys",
 							paragraphs: [
 								"Deadside Cheats bündelt ESP wallhack, radar hack und Deadside Aimbot als undetected Paket für Deadside auf Windows PC. undetected Aimbot-Hack-Assist für Deadside",
-								"Lizenzen mit sofortige digitale Lieferung über Zadeyo Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über secure checkout Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
 								"Balance patches from <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> can change ideal FOV — retune after major weapon balance updates.",
 							],
 						},
@@ -4696,7 +4696,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What a Deadside ESP hack shows",
 							paragraphs: [
 								"Deadside Cheats bündelt ESP wallhack, radar hack und Deadside Aimbot als undetected Paket für Deadside auf Windows PC. ESP-Hack-Boxen, Kadaver-Pins und Entfernung",
-								"Lizenzen mit sofortige digitale Lieferung über Zadeyo Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über secure checkout Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
 								"Canonical visibility guide: <a href=\"/deadside-esp/\">ESP- und Wallhack-Guide</a>. Wallhack wording: <a href=\"/deadside-esp/\">ESP- und Wallhack-Guide</a>.",
 							],
 						},
@@ -4704,7 +4704,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP hack categories for matches",
 							paragraphs: [
 								"Deadside Cheats bündelt ESP wallhack, radar hack und Deadside Aimbot als undetected Paket für Deadside auf Windows PC. ESP-Hack-Boxen, Kadaver-Pins und Entfernung",
-								"Lizenzen mit sofortige digitale Lieferung über Zadeyo Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über secure checkout Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
 								"POI and loot changes publish through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> — keep categories toggled to what the current map rewards.",
 							],
 						},
@@ -4734,7 +4734,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What Deadside unlock-all usually means",
 							paragraphs: [
 								"Deadside Cheats bündelt ESP wallhack, radar hack und Deadside Aimbot als undetected Paket für Deadside auf Windows PC. unlock-all Suchen vs echte ESP- und Aimbot-Tools",
-								"Lizenzen mit sofortige digitale Lieferung über Zadeyo Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über secure checkout Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
 								"Cosmetics and patch cycle progression items are sold through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Be wary of unlock-all downloads that promise free skins — they are often scams.",
 							],
 						},
@@ -4772,8 +4772,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Erhobene Daten",
 							paragraphs: [
-								"Deadside Cheats bündelt ESP wallhack, radar hack und Deadside Aimbot als undetected Paket für Deadside auf Windows PC. Kontakt-E-Mail, Zadeyo-Bestellreferenzen und grundlegende Sicherheitsdaten der Website.",
-								"Zahlungsdaten werden über Zadeyo-Checkout verarbeitet — nicht auf deadsidecheats.com gespeichert.",
+								"Deadside Cheats bündelt ESP wallhack, radar hack und Deadside Aimbot als undetected Paket für Deadside auf Windows PC. Kontakt-E-Mail, secure checkout-Bestellreferenzen und grundlegende Sicherheitsdaten der Website.",
+								"Zahlungsdaten werden über secure checkout verarbeitet — nicht auf deadsidecheats.com gespeichert.",
 							],
 						},
 						{
@@ -4807,8 +4807,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Digitale Lieferung",
 							paragraphs: [
-								"Deadside Cheats bündelt ESP wallhack, radar hack und Deadside Aimbot als undetected Paket für Deadside auf Windows PC. Kontakt-E-Mail, Zadeyo-Bestellreferenzen und grundlegende Sicherheitsdaten der Website.",
-								"Lizenzen mit sofortige digitale Lieferung über Zadeyo Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
+								"Deadside Cheats bündelt ESP wallhack, radar hack und Deadside Aimbot als undetected Paket für Deadside auf Windows PC. Kontakt-E-Mail, secure checkout-Bestellreferenzen und grundlegende Sicherheitsdaten der Website.",
+								"Lizenzen mit sofortige digitale Lieferung über secure checkout Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
 							],
 						},
 						{
@@ -4842,8 +4842,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Annahme der Bedingungen",
 							paragraphs: [
-								"Deadside Cheats bündelt ESP wallhack, radar hack und Deadside Aimbot als undetected Paket für Deadside auf Windows PC. Kontakt-E-Mail, Zadeyo-Bestellreferenzen und grundlegende Sicherheitsdaten der Website.",
-								"Lizenzen mit sofortige digitale Lieferung über Zadeyo Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
+								"Deadside Cheats bündelt ESP wallhack, radar hack und Deadside Aimbot als undetected Paket für Deadside auf Windows PC. Kontakt-E-Mail, secure checkout-Bestellreferenzen und grundlegende Sicherheitsdaten der Website.",
+								"Lizenzen mit sofortige digitale Lieferung über secure checkout Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
 							],
 						},
 						{
@@ -4921,7 +4921,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				footer: {
 					explore: "Explorar",
 					help: "Ajuda e legal",
-					tagline: "ESP, wallhack, radar e Aimbot indetectáveis para Deadside — checkout via Zadeyo.",
+					tagline: "ESP, wallhack, radar e Aimbot indetectáveis para Deadside.",
 				},
 				images: {
 					hero: "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
@@ -4953,7 +4953,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Por que escolher Deadside Cheats em 2026",
 							paragraphs: [
 								"Deadside Cheats reúne ESP wallhack, radar hack e Deadside Aimbot indetectáveis para Deadside no PC Windows. Ideal para ler equipes inimigos em BR e PvP raid sessions.",
-								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
+								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 							],
 						},
 						{
@@ -4980,7 +4980,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "O que o ESP mostra",
 							paragraphs: [
 								"Caixas, distância e filtros para jogadores, cientistas e loot.",
-								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
+								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 							],
 							list: [
 								"ESP de jogador",
@@ -4992,7 +4992,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Quando usar",
 							paragraphs: [
 								"Mantenha POI de alto tráfico e extract routes claros sem lotar a tela.",
-								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
+								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 							],
 							list: [
 								"Ajuste opacidade",
@@ -5004,7 +5004,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Próximos passos",
 							paragraphs: [
 								"ESP incluído com aimbot e radar num plano.",
-								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
+								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 							],
 							list: [
 								"<a href=\"/\">Produto completo</a>",
@@ -5030,7 +5030,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Controles",
 							paragraphs: [
 								"Configure FOV, suavidade e prioridade de ossos antes do match.",
-								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
+								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 							],
 							list: [
 								"Força do soft aim",
@@ -5042,7 +5042,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Estilos de jogo",
 							paragraphs: [
 								"Mantenha ajustes sutis em matches longos. Aumente a força só quando aceitar mais risco.",
-								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
+								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 							],
 							list: [
 								"Soft aim legit",
@@ -5054,7 +5054,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Próximos passos",
 							paragraphs: [
 								"Aimbot incluído com ESP e radar numa licença.",
-								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
+								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 							],
 							list: [
 								"<a href=\"/\">Produto completo</a>",
@@ -5080,7 +5080,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP & wallhack",
 							paragraphs: [
 								"Deadside Cheats reúne ESP wallhack, radar hack e Deadside Aimbot indetectáveis para Deadside no PC Windows. ESP, soft aim, controles de radar",
-								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
+								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 							],
 							list: [
 								"Player boxes & distance",
@@ -5092,7 +5092,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot & soft aim",
 							paragraphs: [
 								"Deadside Cheats reúne ESP wallhack, radar hack e Deadside Aimbot indetectáveis para Deadside no PC Windows. ESP, soft aim, controles de radar",
-								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
+								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 							],
 							list: [
 								"Smooth aim strength",
@@ -5104,7 +5104,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Radar",
 							paragraphs: [
 								"Deadside Cheats reúne ESP wallhack, radar hack e Deadside Aimbot indetectáveis para Deadside no PC Windows. ESP, soft aim, controles de radar",
-								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
+								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 							],
 							list: [
 								"Nearby enemy cues",
@@ -5116,7 +5116,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Explore related topics",
 							paragraphs: [
 								"Deadside Cheats reúne ESP wallhack, radar hack e Deadside Aimbot indetectáveis para Deadside no PC Windows. ESP, soft aim, controles de radar",
-								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
+								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">ESP & wallhack guide</a>",
@@ -5133,7 +5133,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Updates & support",
 							paragraphs: [
 								"Deadside Cheats reúne ESP wallhack, radar hack e Deadside Aimbot indetectáveis para Deadside no PC Windows. ESP, soft aim, controles de radar",
-								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
+								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 							],
 							list: [
 								"Status on the Status page",
@@ -5183,7 +5183,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Antes de comprar",
 							paragraphs: [
 								"Leia a política de reembolso se precisar. Contacte o suporte com seu ID de pedido.",
-								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
+								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 							],
 							list: [
 								"<a href=\"/refund-policy/\">Política de reembolso</a>",
@@ -5209,7 +5209,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Antes de instalar",
 							paragraphs: [
 								"Compre um plano primeiro. Recebe a licença por email.",
-								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
+								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 							],
 							list: [
 								"PC Windows 10 / 11",
@@ -5221,7 +5221,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Passos de instalação",
 							paragraphs: [
 								"Execute o loader como admin, cole a licença e inicie Deadside.",
-								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
+								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 							],
 							list: [
 								"Baixe o loader do email de entrega",
@@ -5233,7 +5233,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Se algo falhar",
 							paragraphs: [
 								"Verifique Status após patch. Email support@deadsidecheats.com com ID do pedido.",
-								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
+								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 							],
 							list: [
 								"<a href=\"/updates/\">Guia de cheats indetectáveis</a>",
@@ -5271,7 +5271,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Após um patch",
 							paragraphs: [
 								"Aguarde nossa nota de rebuild, depois inicie. Não jogue com build antiga após grande atualização.",
-								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
+								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 							],
 							list: [
 								"Leia a última nota de status",
@@ -5283,7 +5283,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Importante",
 							paragraphs: [
 								"Nenhum cheat é 100% seguro para sempre. Mantenha-se atualizado e use configurações seguras.",
-								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
+								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 							],
 							list: [
 								"Status primeiro, depois jogar",
@@ -5308,7 +5308,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Compra e entrega",
 							paragraphs: [
 								"Recebe uma licença digital por email após pagamento.",
-								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
+								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 							],
 							list: [
 								"Entrega instantânea após checkout",
@@ -5320,7 +5320,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Instalação e atualizações",
 							paragraphs: [
 								"Siga Instalação após comprar. Verifique Status após patches grandes de Deadside ou BattlEye.",
-								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
+								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 							],
 							list: [
 								"<a href=\"/setup/\">Guia de instalação</a>",
@@ -5331,7 +5331,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Reembolsos",
 							paragraphs: [
 								"Leia a política de reembolso antes de comprar se precisar de detalhes.",
-								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
+								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 							],
 							list: [
 								"<a href=\"/refund-policy/\">Política de reembolso</a>",
@@ -5356,7 +5356,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Como nos contactar",
 							paragraphs: [
 								"Email support@deadsidecheats.com. Inclua ID do pedido e nota breve sobre o problema.",
-								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
+								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 							],
 							list: [
 								"ID do pedido do recibo",
@@ -5368,7 +5368,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Respostas mais rápidas",
 							paragraphs: [
 								"Verifique FAQ e Status antes de escrever. Muitas dúvidas de instalação já estão cobertas.",
-								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
+								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 							],
 							list: [
 								"<a href=\"/faq/\">FAQ</a>",
@@ -5394,7 +5394,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "O que significa indetectável para Deadside Cheats",
 							paragraphs: [
 								"Deadside Cheats reúne ESP wallhack, radar hack e Deadside Aimbot indetectáveis para Deadside no PC Windows. manutenção undetected após patches BattlEye",
-								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
+								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 								"Anti-cheat technology is documented by <a href=\"https://www.battleye.com/\" target=\"_blank\" rel=\"noopener noreferrer\">BattlEye</a>; Deadside client updates ship through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Undetected status is an ongoing process tied to those releases.",
 							],
 						},
@@ -5440,7 +5440,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Wallhack ESP vs raw aim tools",
 							paragraphs: [
 								"Deadside Cheats reúne ESP wallhack, radar hack e Deadside Aimbot indetectáveis para Deadside no PC Windows. wallhack ESP para jogadores, carcaças e distância",
-								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
+								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 								"For the broader ESP keyword page see <a href=\"/deadside-esp/\">Guia ESP e wallhack</a>; for combat assist see <a href=\"/deadside-aimbot/\">Aimbot e soft aim</a>.",
 							],
 						},
@@ -5478,7 +5478,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "O que mostra",
 							paragraphs: [
 								"Sinais de inimigos próximos com alcance ajustável para farmers e matchers solo.",
-								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
+								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 							],
 							list: [
 								"Detecção de flancos",
@@ -5490,7 +5490,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Com ESP",
 							paragraphs: [
 								"Use radar para ameaças que ainda não vê. Use ESP ao avançar.",
-								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
+								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">Guia ESP e wallhack</a>",
@@ -5637,7 +5637,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Guias de módulos",
 							paragraphs: [
 								"Cada ferramenta tem página detalhada se quiser mais info antes do checkout.",
-								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
+								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">Guia ESP e wallhack</a>",
@@ -5650,7 +5650,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Status indetectável e patches",
 							paragraphs: [
 								"Deadside usa BattlEye. Nenhum cheat fica indetectável para sempre — manutenção após patches importa. Verifique a página Status após cada update Deadside ou BattlEye antes de entrar.",
-								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
+								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 							],
 							list: [
 								"<a href=\"/updates/\">Guia de cheats indetectáveis</a>",
@@ -5663,7 +5663,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Como começar",
 							paragraphs: [
 								"Escolha mensal ($35) ou vitalício ($150) na loja — mesmos recursos. Após checkout recebe a licença por email. Siga o guia de instalação e verifique o status após patches importantes.",
-								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
+								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 							],
 							list: [
 								"<a href=\"/pricing/\">Loja</a>",
@@ -5727,7 +5727,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What a Deadside mod menu controls",
 							paragraphs: [
 								"Deadside Cheats reúne ESP wallhack, radar hack e Deadside Aimbot indetectáveis para Deadside no PC Windows. toggles de ESP e soft aim no cliente",
-								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
+								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 								"Control deep-dives: <a href=\"/deadside-esp/\">Guia ESP e wallhack</a>, <a href=\"/deadside-aimbot/\">Aimbot e soft aim</a>, <a href=\"/deadside-radar-hack/\">Overlay radar 2D</a>.",
 							],
 						},
@@ -5765,7 +5765,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What Deadside soft aim means",
 							paragraphs: [
 								"Deadside Cheats reúne ESP wallhack, radar hack e Deadside Aimbot indetectáveis para Deadside no PC Windows. ajustes suaves de soft aim para Windows PC",
-								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
+								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 								"Full Aimbot documentation: <a href=\"/deadside-aimbot/\">Aimbot e soft aim</a>. Alternate wording: <a href=\"/deadside-aimbot/\">Aimbot e soft aim</a>.",
 							],
 						},
@@ -5803,7 +5803,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What makes deadside cheats in 2026",
 							paragraphs: [
 								"Deadside Cheats reúne ESP wallhack, radar hack e Deadside Aimbot indetectáveis para Deadside no PC Windows. o que comparar antes de comprar deadside cheats",
-								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
+								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 								"Verify the live game is healthy via <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside on Steam</a>, then confirm our <a href=\"/updates/\">Guia de cheats indetectáveis</a> note before you judge any package “best.”",
 							],
 						},
@@ -5819,7 +5819,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Buying deadside cheats safely",
 							paragraphs: [
 								"Deadside Cheats reúne ESP wallhack, radar hack e Deadside Aimbot indetectáveis para Deadside no PC Windows. o que comparar antes de comprar deadside cheats",
-								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
+								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 								"Verifique Updates após patches BattlEye. Nenhum cheat garante status indetectável permanente.",
 							],
 						},
@@ -5849,7 +5849,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Deadside Aimbot hack vs visibility tools",
 							paragraphs: [
 								"Deadside Cheats reúne ESP wallhack, radar hack e Deadside Aimbot indetectáveis para Deadside no PC Windows. assistência undetected de hack Aimbot para Deadside",
-								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
+								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 								"Prefer softer tracking language? See <a href=\"/deadside-aimbot/\">Aimbot e soft aim</a>. Full settings: <a href=\"/deadside-aimbot/\">Aimbot e soft aim</a>.",
 							],
 						},
@@ -5857,7 +5857,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot hack controls and hotkeys",
 							paragraphs: [
 								"Deadside Cheats reúne ESP wallhack, radar hack e Deadside Aimbot indetectáveis para Deadside no PC Windows. assistência undetected de hack Aimbot para Deadside",
-								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
+								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 								"Balance patches from <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> can change ideal FOV — retune after major weapon balance updates.",
 							],
 						},
@@ -5887,7 +5887,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What a Deadside ESP hack shows",
 							paragraphs: [
 								"Deadside Cheats reúne ESP wallhack, radar hack e Deadside Aimbot indetectáveis para Deadside no PC Windows. caixas ESP hack, pins de carcaça e distância",
-								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
+								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 								"Canonical visibility guide: <a href=\"/deadside-esp/\">Guia ESP e wallhack</a>. Wallhack wording: <a href=\"/deadside-esp/\">Guia ESP e wallhack</a>.",
 							],
 						},
@@ -5895,7 +5895,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP hack categories for matches",
 							paragraphs: [
 								"Deadside Cheats reúne ESP wallhack, radar hack e Deadside Aimbot indetectáveis para Deadside no PC Windows. caixas ESP hack, pins de carcaça e distância",
-								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
+								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 								"POI and loot changes publish through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> — keep categories toggled to what the current map rewards.",
 							],
 						},
@@ -5925,7 +5925,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What Deadside unlock-all usually means",
 							paragraphs: [
 								"Deadside Cheats reúne ESP wallhack, radar hack e Deadside Aimbot indetectáveis para Deadside no PC Windows. buscas unlock-all vs ferramentas reais ESP e Aimbot",
-								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
+								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 								"Cosmetics and patch cycle progression items are sold through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Be wary of unlock-all downloads that promise free skins — they are often scams.",
 							],
 						},
@@ -5963,8 +5963,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Informações que coletamos",
 							paragraphs: [
-								"Deadside Cheats reúne ESP wallhack, radar hack e Deadside Aimbot indetectáveis para Deadside no PC Windows. E-mail de contato, referências de pedido Zadeyo e dados básicos de segurança do site.",
-								"Detalhes de pagamento são processados pelo checkout Zadeyo — não armazenados em deadsidecheats.com.",
+								"Deadside Cheats reúne ESP wallhack, radar hack e Deadside Aimbot indetectáveis para Deadside no PC Windows. E-mail de contato, referências de pedido secure checkout e dados básicos de segurança do site.",
+								"Detalhes de pagamento são processados pelo secure checkout — não armazenados em deadsidecheats.com.",
 							],
 						},
 						{
@@ -5998,8 +5998,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Entrega digital",
 							paragraphs: [
-								"Deadside Cheats reúne ESP wallhack, radar hack e Deadside Aimbot indetectáveis para Deadside no PC Windows. E-mail de contato, referências de pedido Zadeyo e dados básicos de segurança do site.",
-								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
+								"Deadside Cheats reúne ESP wallhack, radar hack e Deadside Aimbot indetectáveis para Deadside no PC Windows. E-mail de contato, referências de pedido secure checkout e dados básicos de segurança do site.",
+								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 							],
 						},
 						{
@@ -6033,8 +6033,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Aceitação dos termos",
 							paragraphs: [
-								"Deadside Cheats reúne ESP wallhack, radar hack e Deadside Aimbot indetectáveis para Deadside no PC Windows. E-mail de contato, referências de pedido Zadeyo e dados básicos de segurança do site.",
-								"Licenças com entrega digital instantânea via checkout Zadeyo. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
+								"Deadside Cheats reúne ESP wallhack, radar hack e Deadside Aimbot indetectáveis para Deadside no PC Windows. E-mail de contato, referências de pedido secure checkout e dados básicos de segurança do site.",
+								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 							],
 						},
 						{
@@ -6112,7 +6112,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				footer: {
 					explore: "Esplora",
 					help: "Aiuto e legale",
-					tagline: "ESP, wallhack, radar e Aimbot indetectable per Deadside — checkout via Zadeyo.",
+					tagline: "ESP, wallhack, radar e Aimbot indetectable per Deadside.",
 				},
 				images: {
 					hero: "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
@@ -6144,7 +6144,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Perché scegliere Deadside Cheats nel 2026",
 							paragraphs: [
 								"Deadside Cheats unisce ESP wallhack, radar hack e Deadside Aimbot indetectable per Deadside su PC Windows. Ideale per leggere squadre nemiche in BR e PvP raid sessions.",
-								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
+								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 							],
 						},
 						{
@@ -6171,7 +6171,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Cosa mostra l'ESP",
 							paragraphs: [
 								"Box, distanza e filtri per giocatori, scienziati e loot.",
-								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
+								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 							],
 							list: [
 								"ESP giocatore",
@@ -6183,7 +6183,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Quando usarlo",
 							paragraphs: [
 								"POI e rotazioni chiari chiari senza riempire lo schermo.",
-								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
+								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 							],
 							list: [
 								"Regola opacità",
@@ -6195,7 +6195,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Prossimi passi",
 							paragraphs: [
 								"ESP incluso con aimbot e radar in un piano.",
-								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
+								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 							],
 							list: [
 								"<a href=\"/\">Prodotto completo</a>",
@@ -6221,7 +6221,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Controlli",
 							paragraphs: [
 								"Imposta FOV, smoothness e priorità ossa prima del match.",
-								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
+								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 							],
 							list: [
 								"Forza soft aim",
@@ -6233,7 +6233,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Stili di gioco",
 							paragraphs: [
 								"Impostazioni discrete per match lunghi. Alza la forza solo se accetti più rischio.",
-								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
+								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 							],
 							list: [
 								"Soft aim legit",
@@ -6245,7 +6245,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Prossimi passi",
 							paragraphs: [
 								"Aimbot incluso con ESP e radar in una licenza.",
-								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
+								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 							],
 							list: [
 								"<a href=\"/\">Prodotto completo</a>",
@@ -6271,7 +6271,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP & wallhack",
 							paragraphs: [
 								"Deadside Cheats unisce ESP wallhack, radar hack e Deadside Aimbot indetectable per Deadside su PC Windows. ESP, soft aim, controlli radar",
-								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
+								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 							],
 							list: [
 								"Player boxes & distance",
@@ -6283,7 +6283,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot & soft aim",
 							paragraphs: [
 								"Deadside Cheats unisce ESP wallhack, radar hack e Deadside Aimbot indetectable per Deadside su PC Windows. ESP, soft aim, controlli radar",
-								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
+								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 							],
 							list: [
 								"Smooth aim strength",
@@ -6295,7 +6295,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Radar",
 							paragraphs: [
 								"Deadside Cheats unisce ESP wallhack, radar hack e Deadside Aimbot indetectable per Deadside su PC Windows. ESP, soft aim, controlli radar",
-								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
+								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 							],
 							list: [
 								"Nearby enemy cues",
@@ -6307,7 +6307,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Explore related topics",
 							paragraphs: [
 								"Deadside Cheats unisce ESP wallhack, radar hack e Deadside Aimbot indetectable per Deadside su PC Windows. ESP, soft aim, controlli radar",
-								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
+								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">ESP & wallhack guide</a>",
@@ -6324,7 +6324,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Updates & support",
 							paragraphs: [
 								"Deadside Cheats unisce ESP wallhack, radar hack e Deadside Aimbot indetectable per Deadside su PC Windows. ESP, soft aim, controlli radar",
-								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
+								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 							],
 							list: [
 								"Status on the Status page",
@@ -6374,7 +6374,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Prima di acquistare",
 							paragraphs: [
 								"Leggi la politica di rimborso se serve. Contatta il supporto con il tuo ID ordine.",
-								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
+								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 							],
 							list: [
 								"<a href=\"/refund-policy/\">Politica di rimborso</a>",
@@ -6400,7 +6400,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Prima di installare",
 							paragraphs: [
 								"Acquista prima un piano. Ricevi la licenza via email.",
-								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
+								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 							],
 							list: [
 								"PC Windows 10 / 11",
@@ -6412,7 +6412,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Passi di installazione",
 							paragraphs: [
 								"Avvia il loader come admin, incolla la licenza e lancia Deadside.",
-								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
+								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 							],
 							list: [
 								"Scarica il loader dall'email di consegna",
@@ -6424,7 +6424,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Se qualcosa non funziona",
 							paragraphs: [
 								"Controlla Stato dopo patch. Email support@deadsidecheats.com con ID ordine.",
-								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
+								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 							],
 							list: [
 								"<a href=\"/updates/\">Guida cheat indetectable</a>",
@@ -6462,7 +6462,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Dopo una patch",
 							paragraphs: [
 								"Attendi la nostra nota di rebuild, poi avvia. Non giocare con build vecchia dopo un grande aggiornamento.",
-								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
+								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 							],
 							list: [
 								"Leggi l'ultima nota di stato",
@@ -6474,7 +6474,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Importante",
 							paragraphs: [
 								"Nessun cheat è sicuro al 100% per sempre. Resta aggiornato e usa impostazioni prudenti.",
-								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
+								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 							],
 							list: [
 								"Stato prima, poi gioca",
@@ -6499,7 +6499,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Acquisto e consegna",
 							paragraphs: [
 								"Ricevi una licenza digitale via email dopo il pagamento.",
-								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
+								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 							],
 							list: [
 								"Consegna istantanea dopo checkout",
@@ -6511,7 +6511,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Setup e aggiornamenti",
 							paragraphs: [
 								"Segui Setup dopo l'acquisto. Controlla Stato dopo patch importanti Deadside o BattlEye.",
-								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
+								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 							],
 							list: [
 								"<a href=\"/setup/\">Guida installazione</a>",
@@ -6522,7 +6522,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Rimborsi",
 							paragraphs: [
 								"Leggi la politica di rimborso prima dell'acquisto se servono dettagli.",
-								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
+								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 							],
 							list: [
 								"<a href=\"/refund-policy/\">Politica di rimborso</a>",
@@ -6547,7 +6547,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Come contattarci",
 							paragraphs: [
 								"Email support@deadsidecheats.com. Includi ID ordine e breve nota sul problema.",
-								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
+								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 							],
 							list: [
 								"ID ordine dalla ricevuta",
@@ -6559,7 +6559,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Risposte più veloci",
 							paragraphs: [
 								"Controlla FAQ e Stato prima di scrivere. Molte domande setup sono già coperte.",
-								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
+								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 							],
 							list: [
 								"<a href=\"/faq/\">FAQ</a>",
@@ -6585,7 +6585,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Cosa significa indetectable per Deadside Cheats",
 							paragraphs: [
 								"Deadside Cheats unisce ESP wallhack, radar hack e Deadside Aimbot indetectable per Deadside su PC Windows. manutenzione undetected dopo patch BattlEye",
-								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
+								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 								"Anti-cheat technology is documented by <a href=\"https://www.battleye.com/\" target=\"_blank\" rel=\"noopener noreferrer\">BattlEye</a>; Deadside client updates ship through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Undetected status is an ongoing process tied to those releases.",
 							],
 						},
@@ -6631,7 +6631,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Wallhack ESP vs raw aim tools",
 							paragraphs: [
 								"Deadside Cheats unisce ESP wallhack, radar hack e Deadside Aimbot indetectable per Deadside su PC Windows. wallhack ESP per giocatori, loot e distanza",
-								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
+								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 								"For the broader ESP keyword page see <a href=\"/deadside-esp/\">Guida ESP e wallhack</a>; for combat assist see <a href=\"/deadside-aimbot/\">Aimbot e soft aim</a>.",
 							],
 						},
@@ -6669,7 +6669,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Cosa mostra",
 							paragraphs: [
 								"Segnali nemici vicini con portata regolabile per farmer e matcher solitari.",
-								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
+								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 							],
 							list: [
 								"Consapevolezza fianchi",
@@ -6681,7 +6681,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Con ESP",
 							paragraphs: [
 								"Usa radar per minacce non ancora visibili. Usa ESP quando spingi.",
-								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
+								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">Guida ESP e wallhack</a>",
@@ -6828,7 +6828,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Guide ai moduli",
 							paragraphs: [
 								"Ogni tool ha la sua pagina approfondita se vuoi dettagli prima del checkout.",
-								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
+								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">Guida ESP e wallhack</a>",
@@ -6841,7 +6841,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Stato indetectable e patch",
 							paragraphs: [
 								"Deadside usa BattlEye. Nessun cheat resta indetectable per sempre — conta la manutenzione post-patch. Controlla la pagina Stato dopo ogni update Deadside o BattlEye prima di giocare.",
-								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
+								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 							],
 							list: [
 								"<a href=\"/updates/\">Guida cheat indetectable</a>",
@@ -6854,7 +6854,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Come iniziare",
 							paragraphs: [
 								"Scegli mensile ($35) o lifetime ($150) nel negozio — stesse funzioni. Dopo checkout ricevi la licenza via email. Segui la guida installazione e controlla lo stato dopo patch importanti.",
-								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
+								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 							],
 							list: [
 								"<a href=\"/pricing/\">Negozio</a>",
@@ -6918,7 +6918,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What a Deadside mod menu controls",
 							paragraphs: [
 								"Deadside Cheats unisce ESP wallhack, radar hack e Deadside Aimbot indetectable per Deadside su PC Windows. toggle ESP e soft aim in-client",
-								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
+								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 								"Control deep-dives: <a href=\"/deadside-esp/\">Guida ESP e wallhack</a>, <a href=\"/deadside-aimbot/\">Aimbot e soft aim</a>, <a href=\"/deadside-radar-hack/\">Overlay radar 2D</a>.",
 							],
 						},
@@ -6956,7 +6956,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What Deadside soft aim means",
 							paragraphs: [
 								"Deadside Cheats unisce ESP wallhack, radar hack e Deadside Aimbot indetectable per Deadside su PC Windows. impostazioni soft aim fluide per Windows PC",
-								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
+								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 								"Full Aimbot documentation: <a href=\"/deadside-aimbot/\">Aimbot e soft aim</a>. Alternate wording: <a href=\"/deadside-aimbot/\">Aimbot e soft aim</a>.",
 							],
 						},
@@ -6994,7 +6994,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What makes deadside cheats in 2026",
 							paragraphs: [
 								"Deadside Cheats unisce ESP wallhack, radar hack e Deadside Aimbot indetectable per Deadside su PC Windows. cosa confrontare prima di acquistare deadside cheats",
-								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
+								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 								"Verify the live game is healthy via <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside on Steam</a>, then confirm our <a href=\"/updates/\">Guida cheat indetectable</a> note before you judge any package “best.”",
 							],
 						},
@@ -7010,7 +7010,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Buying deadside cheats safely",
 							paragraphs: [
 								"Deadside Cheats unisce ESP wallhack, radar hack e Deadside Aimbot indetectable per Deadside su PC Windows. cosa confrontare prima di acquistare deadside cheats",
-								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
+								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 								"Controlla Updates dopo patch BattlEye. Nessun cheat garantisce stato indetectable permanente.",
 							],
 						},
@@ -7040,7 +7040,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Deadside Aimbot hack vs visibility tools",
 							paragraphs: [
 								"Deadside Cheats unisce ESP wallhack, radar hack e Deadside Aimbot indetectable per Deadside su PC Windows. assist undetected hack Aimbot per Deadside",
-								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
+								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 								"Prefer softer tracking language? See <a href=\"/deadside-aimbot/\">Aimbot e soft aim</a>. Full settings: <a href=\"/deadside-aimbot/\">Aimbot e soft aim</a>.",
 							],
 						},
@@ -7048,7 +7048,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot hack controls and hotkeys",
 							paragraphs: [
 								"Deadside Cheats unisce ESP wallhack, radar hack e Deadside Aimbot indetectable per Deadside su PC Windows. assist undetected hack Aimbot per Deadside",
-								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
+								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 								"Balance patches from <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> can change ideal FOV — retune after major weapon balance updates.",
 							],
 						},
@@ -7078,7 +7078,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What a Deadside ESP hack shows",
 							paragraphs: [
 								"Deadside Cheats unisce ESP wallhack, radar hack e Deadside Aimbot indetectable per Deadside su PC Windows. box ESP hack, pin loota e distanza",
-								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
+								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 								"Canonical visibility guide: <a href=\"/deadside-esp/\">Guida ESP e wallhack</a>. Wallhack wording: <a href=\"/deadside-esp/\">Guida ESP e wallhack</a>.",
 							],
 						},
@@ -7086,7 +7086,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP hack categories for matches",
 							paragraphs: [
 								"Deadside Cheats unisce ESP wallhack, radar hack e Deadside Aimbot indetectable per Deadside su PC Windows. box ESP hack, pin loota e distanza",
-								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
+								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 								"POI and loot changes publish through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> — keep categories toggled to what the current map rewards.",
 							],
 						},
@@ -7116,7 +7116,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What Deadside unlock-all usually means",
 							paragraphs: [
 								"Deadside Cheats unisce ESP wallhack, radar hack e Deadside Aimbot indetectable per Deadside su PC Windows. ricerche unlock-all vs veri strumenti ESP e Aimbot",
-								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
+								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 								"Cosmetics and patch cycle progression items are sold through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Be wary of unlock-all downloads that promise free skins — they are often scams.",
 							],
 						},
@@ -7154,8 +7154,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Informazioni raccolte",
 							paragraphs: [
-								"Deadside Cheats unisce ESP wallhack, radar hack e Deadside Aimbot indetectable per Deadside su PC Windows. Email di contatto, riferimenti ordine Zadeyo e dati di sicurezza di base del sito.",
-								"I dati di pagamento sono elaborati dal checkout Zadeyo — non meloot zonezzati su deadsidecheats.com.",
+								"Deadside Cheats unisce ESP wallhack, radar hack e Deadside Aimbot indetectable per Deadside su PC Windows. Email di contatto, riferimenti ordine secure checkout e dati di sicurezza di base del sito.",
+								"I dati di pagamento sono elaborati dal secure checkout — non meloot zonezzati su deadsidecheats.com.",
 							],
 						},
 						{
@@ -7189,8 +7189,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Consegna digitale",
 							paragraphs: [
-								"Deadside Cheats unisce ESP wallhack, radar hack e Deadside Aimbot indetectable per Deadside su PC Windows. Email di contatto, riferimenti ordine Zadeyo e dati di sicurezza di base del sito.",
-								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
+								"Deadside Cheats unisce ESP wallhack, radar hack e Deadside Aimbot indetectable per Deadside su PC Windows. Email di contatto, riferimenti ordine secure checkout e dati di sicurezza di base del sito.",
+								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 							],
 						},
 						{
@@ -7224,8 +7224,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Accettazione dei termini",
 							paragraphs: [
-								"Deadside Cheats unisce ESP wallhack, radar hack e Deadside Aimbot indetectable per Deadside su PC Windows. Email di contatto, riferimenti ordine Zadeyo e dati di sicurezza di base del sito.",
-								"Licenze con consegna digitale istantanea via checkout Zadeyo. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
+								"Deadside Cheats unisce ESP wallhack, radar hack e Deadside Aimbot indetectable per Deadside su PC Windows. Email di contatto, riferimenti ordine secure checkout e dati di sicurezza di base del sito.",
+								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 							],
 						},
 						{
@@ -7303,7 +7303,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				footer: {
 					explore: "Verkennen",
 					help: "Help & juridisch",
-					tagline: "Undetected ESP, wallhack, radar en Aimbot voor Deadside — checkout via Zadeyo.",
+					tagline: "Undetected ESP, wallhack, radar en Aimbot voor Deadside.",
 				},
 				images: {
 					hero: "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
@@ -7335,7 +7335,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Waarom Deadside Cheats in 2026",
 							paragraphs: [
 								"Deadside Cheats bundelt ESP wallhack, radar hack en Deadside Aimbot als undetected pakket voor Deadside op Windows PC. Ideaal om vijandelijke squads te lezen in BR en PvP raid sessions.",
-								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
+								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 							],
 						},
 						{
@@ -7362,7 +7362,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Wat ESP toont",
 							paragraphs: [
 								"Boxen, afstand en filters voor spelers, contestants en loot.",
-								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
+								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 							],
 							list: [
 								"Speler-ESP",
@@ -7374,7 +7374,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Wanneer gebruiken",
 							paragraphs: [
 								"Monumentzones en extract routes helder houden zonder scherm overload.",
-								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
+								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 							],
 							list: [
 								"Opacity afstellen",
@@ -7386,7 +7386,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Volgende stappen",
 							paragraphs: [
 								"ESP inclusief aimbot en radar in één plan.",
-								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
+								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 							],
 							list: [
 								"<a href=\"/\">Volledig product</a>",
@@ -7412,7 +7412,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Bediening",
 							paragraphs: [
 								"Stel FOV, smoothness en bot-prioriteit in vóór de match.",
-								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
+								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 							],
 							list: [
 								"Soft aim-sterkte",
@@ -7424,7 +7424,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Speelstijlen",
 							paragraphs: [
 								"Houd instellingen subtiel voor langere matches. Verhoog kracht alleen als je meer risico accepteert.",
-								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
+								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 							],
 							list: [
 								"Legit soft aim",
@@ -7436,7 +7436,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Volgende stappen",
 							paragraphs: [
 								"Aimbot inclusief ESP en radar in één licentie.",
-								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
+								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 							],
 							list: [
 								"<a href=\"/\">Volledig product</a>",
@@ -7462,7 +7462,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP & wallhack",
 							paragraphs: [
 								"Deadside Cheats bundelt ESP wallhack, radar hack en Deadside Aimbot als undetected pakket voor Deadside op Windows PC. ESP, soft aim, radar bediening",
-								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
+								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 							],
 							list: [
 								"Player boxes & distance",
@@ -7474,7 +7474,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot & soft aim",
 							paragraphs: [
 								"Deadside Cheats bundelt ESP wallhack, radar hack en Deadside Aimbot als undetected pakket voor Deadside op Windows PC. ESP, soft aim, radar bediening",
-								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
+								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 							],
 							list: [
 								"Smooth aim strength",
@@ -7486,7 +7486,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Radar",
 							paragraphs: [
 								"Deadside Cheats bundelt ESP wallhack, radar hack en Deadside Aimbot als undetected pakket voor Deadside op Windows PC. ESP, soft aim, radar bediening",
-								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
+								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 							],
 							list: [
 								"Nearby enemy cues",
@@ -7498,7 +7498,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Explore related topics",
 							paragraphs: [
 								"Deadside Cheats bundelt ESP wallhack, radar hack en Deadside Aimbot als undetected pakket voor Deadside op Windows PC. ESP, soft aim, radar bediening",
-								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
+								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">ESP & wallhack guide</a>",
@@ -7515,7 +7515,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Updates & support",
 							paragraphs: [
 								"Deadside Cheats bundelt ESP wallhack, radar hack en Deadside Aimbot als undetected pakket voor Deadside op Windows PC. ESP, soft aim, radar bediening",
-								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
+								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 							],
 							list: [
 								"Status on the Status page",
@@ -7565,7 +7565,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Voor je koopt",
 							paragraphs: [
 								"Lees het restitutiebeleid indien nodig. Neem contact op met support met je order-ID.",
-								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
+								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 							],
 							list: [
 								"<a href=\"/refund-policy/\">Restitutiebeleid</a>",
@@ -7591,7 +7591,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Voor installatie",
 							paragraphs: [
 								"Koop eerst een plan. Je ontvangt de licentie per e-mail.",
-								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
+								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 							],
 							list: [
 								"Windows 10 / 11 PC",
@@ -7603,7 +7603,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Installatiestappen",
 							paragraphs: [
 								"Start loader als admin, plak licentie, start Deadside.",
-								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
+								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 							],
 							list: [
 								"Download loader uit leveringsmail",
@@ -7615,7 +7615,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Als iets misgaat",
 							paragraphs: [
 								"Check Status na patch. E-mail support@deadsidecheats.com met order-ID.",
-								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
+								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 							],
 							list: [
 								"<a href=\"/updates/\">Undetected cheats gids</a>",
@@ -7653,7 +7653,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Na een patch",
 							paragraphs: [
 								"Wacht op onze rebuild-notitie, start dan. Speel niet met oude build na grote update.",
-								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
+								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 							],
 							list: [
 								"Lees de laatste statusnotitie",
@@ -7665,7 +7665,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Belangrijk",
 							paragraphs: [
 								"Geen cheat is voor altijd 100% veilig. Blijf up-to-date en gebruik veilige instellingen.",
-								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
+								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 							],
 							list: [
 								"Eerst status, dan spelen",
@@ -7690,7 +7690,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Koop & levering",
 							paragraphs: [
 								"Je ontvangt na betaling een digitale licentie per e-mail.",
-								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
+								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 							],
 							list: [
 								"Directe levering na checkout",
@@ -7702,7 +7702,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Setup en updates",
 							paragraphs: [
 								"Volg Setup na aankoop. Check Status na grote Deadside- of BattlEye-patches.",
-								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
+								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 							],
 							list: [
 								"<a href=\"/setup/\">Installatiegids</a>",
@@ -7713,7 +7713,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Restituties",
 							paragraphs: [
 								"Lees het restitutiebeleid vóór aankoop als je details nodig hebt.",
-								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
+								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 							],
 							list: [
 								"<a href=\"/refund-policy/\">Restitutiebeleid</a>",
@@ -7738,7 +7738,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Hoe contact opnemen",
 							paragraphs: [
 								"E-mail support@deadsidecheats.com. Voeg order-ID en korte probleemnotitie toe.",
-								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
+								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 							],
 							list: [
 								"Order-ID van bon",
@@ -7750,7 +7750,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Snellere antwoorden",
 							paragraphs: [
 								"Check FAQ en Status vóór je schrijft. Veel setup-vragen zijn al beantwoord.",
-								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
+								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 							],
 							list: [
 								"<a href=\"/faq/\">FAQ</a>",
@@ -7776,7 +7776,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Wat undetected betekent voor Deadside Cheats",
 							paragraphs: [
 								"Deadside Cheats bundelt ESP wallhack, radar hack en Deadside Aimbot als undetected pakket voor Deadside op Windows PC. undetected onderhoud na BattlEye patches",
-								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
+								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 								"Anti-cheat technology is documented by <a href=\"https://www.battleye.com/\" target=\"_blank\" rel=\"noopener noreferrer\">BattlEye</a>; Deadside client updates ship through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Undetected status is an ongoing process tied to those releases.",
 							],
 						},
@@ -7822,7 +7822,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Wallhack ESP vs raw aim tools",
 							paragraphs: [
 								"Deadside Cheats bundelt ESP wallhack, radar hack en Deadside Aimbot als undetected pakket voor Deadside op Windows PC. wallhack ESP voor spelers, karkassen en afstand",
-								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
+								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 								"For the broader ESP keyword page see <a href=\"/deadside-esp/\">ESP- en wallhack-gids</a>; for combat assist see <a href=\"/deadside-aimbot/\">Aimbot en soft aim</a>.",
 							],
 						},
@@ -7860,7 +7860,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Wat het toont",
 							paragraphs: [
 								"Nabije vijand-signalen met instelbaar bereik voor solo farmers en matchers.",
-								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
+								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 							],
 							list: [
 								"Flank-bewustzijn",
@@ -7872,7 +7872,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Met ESP",
 							paragraphs: [
 								"Gebruik radar voor dreigingen die je nog niet ziet. Gebruik ESP bij push.",
-								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
+								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">ESP- en wallhack-gids</a>",
@@ -8019,7 +8019,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Modulegidsen",
 							paragraphs: [
 								"Elke tool heeft een eigen detailpagina als je meer info wilt vóór checkout.",
-								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
+								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">ESP- en wallhack-gids</a>",
@@ -8032,7 +8032,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Undetected status en patches",
 							paragraphs: [
 								"Deadside gebruikt BattlEye. Geen cheat blijft voor altijd undetected — onderhoud na patches telt. Check de Status-pagina na elke Deadside- of EAC-update vóór je speelt.",
-								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
+								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 							],
 							list: [
 								"<a href=\"/updates/\">Undetected cheats gids</a>",
@@ -8045,7 +8045,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aan de slag",
 							paragraphs: [
 								"Kies maandelijks ($35) of lifetime ($150) in de winkel — dezelfde functies. Na checkout ontvang je de licentie per e-mail. Volg de installatiegids en check status na grote patches.",
-								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
+								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 							],
 							list: [
 								"<a href=\"/pricing/\">Winkel</a>",
@@ -8109,7 +8109,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What a Deadside mod menu controls",
 							paragraphs: [
 								"Deadside Cheats bundelt ESP wallhack, radar hack en Deadside Aimbot als undetected pakket voor Deadside op Windows PC. in-client ESP en soft aim toggles",
-								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
+								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 								"Control deep-dives: <a href=\"/deadside-esp/\">ESP- en wallhack-gids</a>, <a href=\"/deadside-aimbot/\">Aimbot en soft aim</a>, <a href=\"/deadside-radar-hack/\">2D-radaroverlay</a>.",
 							],
 						},
@@ -8147,7 +8147,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What Deadside soft aim means",
 							paragraphs: [
 								"Deadside Cheats bundelt ESP wallhack, radar hack en Deadside Aimbot als undetected pakket voor Deadside op Windows PC. vloeiende soft aim instellingen voor Windows PC",
-								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
+								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 								"Full Aimbot documentation: <a href=\"/deadside-aimbot/\">Aimbot en soft aim</a>. Alternate wording: <a href=\"/deadside-aimbot/\">Aimbot en soft aim</a>.",
 							],
 						},
@@ -8185,7 +8185,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What makes deadside cheats in 2026",
 							paragraphs: [
 								"Deadside Cheats bundelt ESP wallhack, radar hack en Deadside Aimbot als undetected pakket voor Deadside op Windows PC. wat te vergelijken vóór aankoop van deadside cheats",
-								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
+								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 								"Verify the live game is healthy via <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside on Steam</a>, then confirm our <a href=\"/updates/\">Undetected cheats gids</a> note before you judge any package “best.”",
 							],
 						},
@@ -8201,7 +8201,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Buying deadside cheats safely",
 							paragraphs: [
 								"Deadside Cheats bundelt ESP wallhack, radar hack en Deadside Aimbot als undetected pakket voor Deadside op Windows PC. wat te vergelijken vóór aankoop van deadside cheats",
-								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
+								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 								"Check Updates na BattlEye-patches. Geen cheat garandeert permanent undetected status.",
 							],
 						},
@@ -8231,7 +8231,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Deadside Aimbot hack vs visibility tools",
 							paragraphs: [
 								"Deadside Cheats bundelt ESP wallhack, radar hack en Deadside Aimbot als undetected pakket voor Deadside op Windows PC. undetected Aimbot hack assist voor Deadside",
-								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
+								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 								"Prefer softer tracking language? See <a href=\"/deadside-aimbot/\">Aimbot en soft aim</a>. Full settings: <a href=\"/deadside-aimbot/\">Aimbot en soft aim</a>.",
 							],
 						},
@@ -8239,7 +8239,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot hack controls and hotkeys",
 							paragraphs: [
 								"Deadside Cheats bundelt ESP wallhack, radar hack en Deadside Aimbot als undetected pakket voor Deadside op Windows PC. undetected Aimbot hack assist voor Deadside",
-								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
+								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 								"Balance patches from <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> can change ideal FOV — retune after major weapon balance updates.",
 							],
 						},
@@ -8269,7 +8269,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What a Deadside ESP hack shows",
 							paragraphs: [
 								"Deadside Cheats bundelt ESP wallhack, radar hack en Deadside Aimbot als undetected pakket voor Deadside op Windows PC. ESP hack boxen, karkas pins en afstand",
-								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
+								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 								"Canonical visibility guide: <a href=\"/deadside-esp/\">ESP- en wallhack-gids</a>. Wallhack wording: <a href=\"/deadside-esp/\">ESP- en wallhack-gids</a>.",
 							],
 						},
@@ -8277,7 +8277,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP hack categories for matches",
 							paragraphs: [
 								"Deadside Cheats bundelt ESP wallhack, radar hack en Deadside Aimbot als undetected pakket voor Deadside op Windows PC. ESP hack boxen, karkas pins en afstand",
-								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
+								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 								"POI and loot changes publish through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> — keep categories toggled to what the current map rewards.",
 							],
 						},
@@ -8307,7 +8307,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What Deadside unlock-all usually means",
 							paragraphs: [
 								"Deadside Cheats bundelt ESP wallhack, radar hack en Deadside Aimbot als undetected pakket voor Deadside op Windows PC. unlock-all zoekopdrachten vs echte ESP en Aimbot tools",
-								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
+								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 								"Cosmetics and patch cycle progression items are sold through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Be wary of unlock-all downloads that promise free skins — they are often scams.",
 							],
 						},
@@ -8345,8 +8345,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Informatie die we verzamelen",
 							paragraphs: [
-								"Deadside Cheats bundelt ESP wallhack, radar hack en Deadside Aimbot als undetected pakket voor Deadside op Windows PC. Contact-e-mail, Zadeyo-orderreferenties en basisbeveiligingsgegevens van de site.",
-								"Betalingsgegevens worden verwerkt via Zadeyo checkout — niet opgeslagen op deadsidecheats.com.",
+								"Deadside Cheats bundelt ESP wallhack, radar hack en Deadside Aimbot als undetected pakket voor Deadside op Windows PC. Contact-e-mail, secure checkout-orderreferenties en basisbeveiligingsgegevens van de site.",
+								"Betalingsgegevens worden verwerkt. — niet opgeslagen op deadsidecheats.com.",
 							],
 						},
 						{
@@ -8380,8 +8380,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Digitale levering",
 							paragraphs: [
-								"Deadside Cheats bundelt ESP wallhack, radar hack en Deadside Aimbot als undetected pakket voor Deadside op Windows PC. Contact-e-mail, Zadeyo-orderreferenties en basisbeveiligingsgegevens van de site.",
-								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
+								"Deadside Cheats bundelt ESP wallhack, radar hack en Deadside Aimbot als undetected pakket voor Deadside op Windows PC. Contact-e-mail, secure checkout-orderreferenties en basisbeveiligingsgegevens van de site.",
+								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 							],
 						},
 						{
@@ -8415,8 +8415,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Acceptatie van voorwaarden",
 							paragraphs: [
-								"Deadside Cheats bundelt ESP wallhack, radar hack en Deadside Aimbot als undetected pakket voor Deadside op Windows PC. Contact-e-mail, Zadeyo-orderreferenties en basisbeveiligingsgegevens van de site.",
-								"Licenties met directe digitale levering via Zadeyo checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
+								"Deadside Cheats bundelt ESP wallhack, radar hack en Deadside Aimbot als undetected pakket voor Deadside op Windows PC. Contact-e-mail, secure checkout-orderreferenties en basisbeveiligingsgegevens van de site.",
+								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 							],
 						},
 						{
@@ -8494,7 +8494,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				footer: {
 					explore: "Odkrywaj",
 					help: "Pomoc i prawo",
-					tagline: "Undetected ESP, wallhack, radar i Aimbot dla Deadside — checkout przez Zadeyo.",
+					tagline: "Undetected ESP, wallhack, radar i Aimbot dla Deadside — checkout przez secure checkout.",
 				},
 				images: {
 					hero: "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
@@ -8526,7 +8526,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Dlaczego Deadside Cheats w 2026",
 							paragraphs: [
 								"Deadside Cheats łączy ESP wallhack, radar hack i Deadside Aimbot jako pakiet undetected dla Deadside na PC Windows. Idealny do czytania wrogich squadów w BR i PvP raid sessions.",
-								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 							],
 						},
 						{
@@ -8553,7 +8553,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Co pokazuje ESP",
 							paragraphs: [
 								"Boxy, dystans i filtry dla graczy, naukowców i lootu.",
-								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 							],
 							list: [
 								"ESP gracza",
@@ -8565,7 +8565,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Kiedy używać",
 							paragraphs: [
 								"Czytelne high-traffic compounds i extract routes bez przepełnienia ekranu.",
-								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 							],
 							list: [
 								"Dostosuj przezroczystość",
@@ -8577,7 +8577,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Następne kroki",
 							paragraphs: [
 								"ESP z aimbotem i radarem w jednym planie.",
-								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 							],
 							list: [
 								"<a href=\"/\">Pełny produkt</a>",
@@ -8603,7 +8603,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Sterowanie",
 							paragraphs: [
 								"Ustaw FOV, smoothness i priorytet kości przed match.",
-								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 							],
 							list: [
 								"Siła soft aim",
@@ -8615,7 +8615,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Style gry",
 							paragraphs: [
 								"Trzymaj subtelne ustawienia na dłuższe matchy. Zwiększ siłę tylko gdy akceptujesz większe ryzyko.",
-								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 							],
 							list: [
 								"Legit soft aim",
@@ -8627,7 +8627,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Następne kroki",
 							paragraphs: [
 								"Aimbot z ESP i radarem w jednej licencji.",
-								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 							],
 							list: [
 								"<a href=\"/\">Pełny produkt</a>",
@@ -8653,7 +8653,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP & wallhack",
 							paragraphs: [
 								"Deadside Cheats łączy ESP wallhack, radar hack i Deadside Aimbot jako pakiet undetected dla Deadside na PC Windows. ESP, soft aim, sterowanie radar",
-								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 							],
 							list: [
 								"Player boxes & distance",
@@ -8665,7 +8665,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot & soft aim",
 							paragraphs: [
 								"Deadside Cheats łączy ESP wallhack, radar hack i Deadside Aimbot jako pakiet undetected dla Deadside na PC Windows. ESP, soft aim, sterowanie radar",
-								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 							],
 							list: [
 								"Smooth aim strength",
@@ -8677,7 +8677,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Radar",
 							paragraphs: [
 								"Deadside Cheats łączy ESP wallhack, radar hack i Deadside Aimbot jako pakiet undetected dla Deadside na PC Windows. ESP, soft aim, sterowanie radar",
-								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 							],
 							list: [
 								"Nearby enemy cues",
@@ -8689,7 +8689,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Explore related topics",
 							paragraphs: [
 								"Deadside Cheats łączy ESP wallhack, radar hack i Deadside Aimbot jako pakiet undetected dla Deadside na PC Windows. ESP, soft aim, sterowanie radar",
-								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">ESP & wallhack guide</a>",
@@ -8706,7 +8706,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Updates & support",
 							paragraphs: [
 								"Deadside Cheats łączy ESP wallhack, radar hack i Deadside Aimbot jako pakiet undetected dla Deadside na PC Windows. ESP, soft aim, sterowanie radar",
-								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 							],
 							list: [
 								"Status on the Status page",
@@ -8756,7 +8756,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Przed zakupem",
 							paragraphs: [
 								"Przeczytaj politykę zwrotów w razie potrzeby. Skontaktuj się z supportem podając ID zamówienia.",
-								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 							],
 							list: [
 								"<a href=\"/refund-policy/\">Polityka zwrotów</a>",
@@ -8782,7 +8782,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Przed instalacją",
 							paragraphs: [
 								"Najpierw kup plan. Licencję dostaniesz mailem.",
-								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 							],
 							list: [
 								"PC Windows 10 / 11",
@@ -8794,7 +8794,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Kroki instalacji",
 							paragraphs: [
 								"Uruchom loader jako admin, wklej licencję, uruchom Deadside.",
-								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 							],
 							list: [
 								"Pobierz loader z maila dostawy",
@@ -8806,7 +8806,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Gdy coś nie działa",
 							paragraphs: [
 								"Sprawdź Status po patchu. Email support@deadsidecheats.com z ID zamówienia.",
-								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 							],
 							list: [
 								"<a href=\"/updates/\">Przewodnik cheatów undetected</a>",
@@ -8844,7 +8844,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Po patchu",
 							paragraphs: [
 								"Poczekaj na notatkę o rebuildzie, potem uruchom. Nie graj na starym buildzie po dużej aktualizacji.",
-								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 							],
 							list: [
 								"Przeczytaj najnowszą notatkę statusu",
@@ -8856,7 +8856,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Ważne",
 							paragraphs: [
 								"Żaden cheat nie jest w 100% bezpieczny na zawsze. Bądź na bieżąco i używaj bezpiecznych ustawień.",
-								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 							],
 							list: [
 								"Najpierw status, potem gra",
@@ -8881,7 +8881,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Zakup i dostawa",
 							paragraphs: [
 								"Po płatności dostajesz cyfrową licencję mailem.",
-								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 							],
 							list: [
 								"Natychmiastowa dostawa po checkout",
@@ -8893,7 +8893,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Instalacja i aktualizacje",
 							paragraphs: [
 								"Postępuj według Instalacji po zakupie. Sprawdź Status po dużych patchach Deadside lub BattlEye.",
-								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 							],
 							list: [
 								"<a href=\"/setup/\">Przewodnik instalacji</a>",
@@ -8904,7 +8904,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Zwroty",
 							paragraphs: [
 								"Przeczytaj politykę zwrotów przed zakupem, jeśli potrzebujesz szczegółów.",
-								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 							],
 							list: [
 								"<a href=\"/refund-policy/\">Polityka zwrotów</a>",
@@ -8929,7 +8929,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Jak się skontaktować",
 							paragraphs: [
 								"Email support@deadsidecheats.com. Dołącz ID zamówienia i krótki opis problemu.",
-								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 							],
 							list: [
 								"ID zamówienia z paragonu",
@@ -8941,7 +8941,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Szybsze odpowiedzi",
 							paragraphs: [
 								"Sprawdź FAQ i Status przed napisaniem. Wiele pytań instalacyjnych jest już opisanych.",
-								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 							],
 							list: [
 								"<a href=\"/faq/\">FAQ</a>",
@@ -8967,7 +8967,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Co oznacza undetected dla Deadside Cheats",
 							paragraphs: [
 								"Deadside Cheats łączy ESP wallhack, radar hack i Deadside Aimbot jako pakiet undetected dla Deadside na PC Windows. undetected konserwacja po patchach BattlEye",
-								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 								"Anti-cheat technology is documented by <a href=\"https://www.battleye.com/\" target=\"_blank\" rel=\"noopener noreferrer\">BattlEye</a>; Deadside client updates ship through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Undetected status is an ongoing process tied to those releases.",
 							],
 						},
@@ -9013,7 +9013,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Wallhack ESP vs raw aim tools",
 							paragraphs: [
 								"Deadside Cheats łączy ESP wallhack, radar hack i Deadside Aimbot jako pakiet undetected dla Deadside na PC Windows. wallhack ESP dla graczy, tusz i dystansu",
-								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 								"For the broader ESP keyword page see <a href=\"/deadside-esp/\">Przewodnik ESP i wallhack</a>; for combat assist see <a href=\"/deadside-aimbot/\">Aimbot i soft aim</a>.",
 							],
 						},
@@ -9051,7 +9051,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Co pokazuje",
 							paragraphs: [
 								"Sygnaly wrogów w pobliżu z regulowanym zasięgiem dla solo farmerów i matcherów.",
-								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 							],
 							list: [
 								"Wykrywanie flank",
@@ -9063,7 +9063,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Z ESP",
 							paragraphs: [
 								"Radar na zagrożenia, których jeszcze nie widzisz. ESP przy pushu.",
-								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">Przewodnik ESP i wallhack</a>",
@@ -9210,7 +9210,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Przewodniki modułów",
 							paragraphs: [
 								"Każde narzędzie ma własną stronę szczegółową, jeśli chcesz więcej info przed checkout.",
-								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">Przewodnik ESP i wallhack</a>",
@@ -9223,7 +9223,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Status undetected i patche",
 							paragraphs: [
 								"Deadside używa BattlEye. Żaden cheat nie jest undetected na zawsze — liczy się konserwacja po patchach. Sprawdź stronę Status po każdej aktualizacji Deadside lub EAC przed grą.",
-								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 							],
 							list: [
 								"<a href=\"/updates/\">Przewodnik cheatów undetected</a>",
@@ -9236,7 +9236,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Jak zacząć",
 							paragraphs: [
 								"Wybierz miesięczny ($35) lub lifetime ($150) w sklepie — te same funkcje. Po checkout licencja na email. Postępuj według instalacji i sprawdź status po dużych patchach.",
-								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 							],
 							list: [
 								"<a href=\"/pricing/\">Sklep</a>",
@@ -9300,7 +9300,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What a Deadside mod menu controls",
 							paragraphs: [
 								"Deadside Cheats łączy ESP wallhack, radar hack i Deadside Aimbot jako pakiet undetected dla Deadside na PC Windows. przełączniki ESP i soft aim w kliencie",
-								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 								"Control deep-dives: <a href=\"/deadside-esp/\">Przewodnik ESP i wallhack</a>, <a href=\"/deadside-aimbot/\">Aimbot i soft aim</a>, <a href=\"/deadside-radar-hack/\">Overlay radaru 2D</a>.",
 							],
 						},
@@ -9338,7 +9338,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What Deadside soft aim means",
 							paragraphs: [
 								"Deadside Cheats łączy ESP wallhack, radar hack i Deadside Aimbot jako pakiet undetected dla Deadside na PC Windows. płynne ustawienia soft aim dla Windows PC",
-								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 								"Full Aimbot documentation: <a href=\"/deadside-aimbot/\">Aimbot i soft aim</a>. Alternate wording: <a href=\"/deadside-aimbot/\">Aimbot i soft aim</a>.",
 							],
 						},
@@ -9376,7 +9376,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What makes deadside cheats in 2026",
 							paragraphs: [
 								"Deadside Cheats łączy ESP wallhack, radar hack i Deadside Aimbot jako pakiet undetected dla Deadside na PC Windows. co porównać przed zakupem deadside cheats",
-								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 								"Verify the live game is healthy via <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside on Steam</a>, then confirm our <a href=\"/updates/\">Przewodnik cheatów undetected</a> note before you judge any package “best.”",
 							],
 						},
@@ -9392,7 +9392,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Buying deadside cheats safely",
 							paragraphs: [
 								"Deadside Cheats łączy ESP wallhack, radar hack i Deadside Aimbot jako pakiet undetected dla Deadside na PC Windows. co porównać przed zakupem deadside cheats",
-								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 								"Sprawdź Updates po patchach BattlEye. Żaden cheat nie gwarantuje permanentnego undetected statusu.",
 							],
 						},
@@ -9422,7 +9422,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Deadside Aimbot hack vs visibility tools",
 							paragraphs: [
 								"Deadside Cheats łączy ESP wallhack, radar hack i Deadside Aimbot jako pakiet undetected dla Deadside na PC Windows. undetected Aimbot hack assist dla Deadside",
-								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 								"Prefer softer tracking language? See <a href=\"/deadside-aimbot/\">Aimbot i soft aim</a>. Full settings: <a href=\"/deadside-aimbot/\">Aimbot i soft aim</a>.",
 							],
 						},
@@ -9430,7 +9430,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot hack controls and hotkeys",
 							paragraphs: [
 								"Deadside Cheats łączy ESP wallhack, radar hack i Deadside Aimbot jako pakiet undetected dla Deadside na PC Windows. undetected Aimbot hack assist dla Deadside",
-								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 								"Balance patches from <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> can change ideal FOV — retune after major weapon balance updates.",
 							],
 						},
@@ -9460,7 +9460,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What a Deadside ESP hack shows",
 							paragraphs: [
 								"Deadside Cheats łączy ESP wallhack, radar hack i Deadside Aimbot jako pakiet undetected dla Deadside na PC Windows. boxy ESP hack, piny tusz i dystans",
-								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 								"Canonical visibility guide: <a href=\"/deadside-esp/\">Przewodnik ESP i wallhack</a>. Wallhack wording: <a href=\"/deadside-esp/\">Przewodnik ESP i wallhack</a>.",
 							],
 						},
@@ -9468,7 +9468,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP hack categories for matches",
 							paragraphs: [
 								"Deadside Cheats łączy ESP wallhack, radar hack i Deadside Aimbot jako pakiet undetected dla Deadside na PC Windows. boxy ESP hack, piny tusz i dystans",
-								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 								"POI and loot changes publish through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> — keep categories toggled to what the current map rewards.",
 							],
 						},
@@ -9498,7 +9498,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What Deadside unlock-all usually means",
 							paragraphs: [
 								"Deadside Cheats łączy ESP wallhack, radar hack i Deadside Aimbot jako pakiet undetected dla Deadside na PC Windows. wyszukiwania unlock-all vs prawdziwe narzędzia ESP i Aimbot",
-								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 								"Cosmetics and patch cycle progression items are sold through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Be wary of unlock-all downloads that promise free skins — they are often scams.",
 							],
 						},
@@ -9536,8 +9536,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Informacje, które zbieramy",
 							paragraphs: [
-								"Deadside Cheats łączy ESP wallhack, radar hack i Deadside Aimbot jako pakiet undetected dla Deadside na PC Windows. E-mail kontaktowy, referencje zamówień Zadeyo i podstawowe dane bezpieczeństwa witryny.",
-								"Dane płatności są przetwarzane przez checkout Zadeyo — nie przechowywane na deadsidecheats.com.",
+								"Deadside Cheats łączy ESP wallhack, radar hack i Deadside Aimbot jako pakiet undetected dla Deadside na PC Windows. E-mail kontaktowy, referencje zamówień secure checkout i podstawowe dane bezpieczeństwa witryny.",
+								"Dane płatności są przetwarzane przez secure checkout — nie przechowywane na deadsidecheats.com.",
 							],
 						},
 						{
@@ -9571,8 +9571,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Dostawa cyfrowa",
 							paragraphs: [
-								"Deadside Cheats łączy ESP wallhack, radar hack i Deadside Aimbot jako pakiet undetected dla Deadside na PC Windows. E-mail kontaktowy, referencje zamówień Zadeyo i podstawowe dane bezpieczeństwa witryny.",
-								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
+								"Deadside Cheats łączy ESP wallhack, radar hack i Deadside Aimbot jako pakiet undetected dla Deadside na PC Windows. E-mail kontaktowy, referencje zamówień secure checkout i podstawowe dane bezpieczeństwa witryny.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 							],
 						},
 						{
@@ -9606,8 +9606,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Akceptacja warunków",
 							paragraphs: [
-								"Deadside Cheats łączy ESP wallhack, radar hack i Deadside Aimbot jako pakiet undetected dla Deadside na PC Windows. E-mail kontaktowy, referencje zamówień Zadeyo i podstawowe dane bezpieczeństwa witryny.",
-								"Licencje z natychmiastowa dostawa cyfrowa przez checkout Zadeyo. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
+								"Deadside Cheats łączy ESP wallhack, radar hack i Deadside Aimbot jako pakiet undetected dla Deadside na PC Windows. E-mail kontaktowy, referencje zamówień secure checkout i podstawowe dane bezpieczeństwa witryny.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 							],
 						},
 						{
@@ -9685,7 +9685,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				footer: {
 					explore: "Обзор",
 					help: "Помощь и право",
-					tagline: "Undetected ESP, wallhack, radar и Aimbot для Deadside — оплата через Zadeyo.",
+					tagline: "Undetected ESP, wallhack, radar и Aimbot для Deadside — оплата через secure checkout.",
 				},
 				images: {
 					hero: "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
@@ -9717,7 +9717,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Почему выбирают Deadside Cheats в 2026",
 							paragraphs: [
 								"Deadside Cheats объединяет ESP wallhack, radar hack и Deadside Aimbot в undetected пакете для Deadside на Windows PC. Идеально для чтения вражеских отрядов в BR и PvP raid sessions.",
-								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
+								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 							],
 						},
 						{
@@ -9744,7 +9744,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Что показывает ESP",
 							paragraphs: [
 								"Боксы, дистанция и фильтры для игроков, учёных и лута.",
-								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
+								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 							],
 							list: [
 								"ESP игроков",
@@ -9756,7 +9756,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Когда использовать",
 							paragraphs: [
 								"Чистые зоны POI и маршрутов ротации без перегрузки экрана.",
-								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
+								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 							],
 							list: [
 								"Настройте прозрачность",
@@ -9768,7 +9768,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Следующие шаги",
 							paragraphs: [
 								"ESP включён с aimbot и radar в одном тарифе.",
-								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
+								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 							],
 							list: [
 								"<a href=\"/\">Полный продукт</a>",
@@ -9794,7 +9794,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Управление",
 							paragraphs: [
 								"Настройте FOV, плавность и приоритет костей перед рейдом.",
-								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
+								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 							],
 							list: [
 								"Сила soft aim",
@@ -9806,7 +9806,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Стили игры",
 							paragraphs: [
 								"Держите настройки сдержанными для длинных рейдов. Повышайте силу только если готовы к риску.",
-								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
+								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 							],
 							list: [
 								"Legit soft aim",
@@ -9818,7 +9818,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Следующие шаги",
 							paragraphs: [
 								"Aimbot входит вместе с ESP и radar в одной лицензии.",
-								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
+								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 							],
 							list: [
 								"<a href=\"/\">Полный продукт</a>",
@@ -9844,7 +9844,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP & wallhack",
 							paragraphs: [
 								"Deadside Cheats объединяет ESP wallhack, radar hack и Deadside Aimbot в undetected пакете для Deadside на Windows PC. ESP, soft aim, управление radar",
-								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
+								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 							],
 							list: [
 								"Player boxes & distance",
@@ -9856,7 +9856,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot & soft aim",
 							paragraphs: [
 								"Deadside Cheats объединяет ESP wallhack, radar hack и Deadside Aimbot в undetected пакете для Deadside на Windows PC. ESP, soft aim, управление radar",
-								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
+								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 							],
 							list: [
 								"Smooth aim strength",
@@ -9868,7 +9868,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Radar",
 							paragraphs: [
 								"Deadside Cheats объединяет ESP wallhack, radar hack и Deadside Aimbot в undetected пакете для Deadside на Windows PC. ESP, soft aim, управление radar",
-								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
+								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 							],
 							list: [
 								"Nearby enemy cues",
@@ -9880,7 +9880,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Explore related topics",
 							paragraphs: [
 								"Deadside Cheats объединяет ESP wallhack, radar hack и Deadside Aimbot в undetected пакете для Deadside на Windows PC. ESP, soft aim, управление radar",
-								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
+								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">ESP & wallhack guide</a>",
@@ -9897,7 +9897,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Updates & support",
 							paragraphs: [
 								"Deadside Cheats объединяет ESP wallhack, radar hack и Deadside Aimbot в undetected пакете для Deadside на Windows PC. ESP, soft aim, управление radar",
-								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
+								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 							],
 							list: [
 								"Status on the Status page",
@@ -9947,7 +9947,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Перед покупкой",
 							paragraphs: [
 								"Прочитайте политику возврата при необходимости. Напишите в поддержку с ID заказа.",
-								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
+								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 							],
 							list: [
 								"<a href=\"/refund-policy/\">Политика возврата</a>",
@@ -9973,7 +9973,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Перед установкой",
 							paragraphs: [
 								"Сначала купите тариф. Лицензия придёт на email.",
-								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
+								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 							],
 							list: [
 								"Windows 10 / 11 PC",
@@ -9985,7 +9985,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Шаги установки",
 							paragraphs: [
 								"Запустите loader от админа, вставьте лицензию, запустите Deadside.",
-								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
+								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 							],
 							list: [
 								"Скачайте loader из email доставки",
@@ -9997,7 +9997,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Если что-то не работает",
 							paragraphs: [
 								"Проверьте Статус после патча. Email support@deadsidecheats.com с ID заказа.",
-								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
+								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 							],
 							list: [
 								"<a href=\"/updates/\">Гайд undetected читов</a>",
@@ -10035,7 +10035,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "После патча",
 							paragraphs: [
 								"Дождитесь заметки о пересборке, затем запускайте. Не играйте на старом билде после крупного обновления.",
-								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
+								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 							],
 							list: [
 								"Прочитайте последнюю заметку статуса",
@@ -10047,7 +10047,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Важно",
 							paragraphs: [
 								"Ни один чит не безопасен на 100% навсегда. Следите за обновлениями и используйте безопасные настройки.",
-								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
+								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 							],
 							list: [
 								"Сначала статус, потом игра",
@@ -10072,7 +10072,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Покупка и доставка",
 							paragraphs: [
 								"После оплаты вы получаете цифровую лицензию на email.",
-								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
+								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 							],
 							list: [
 								"Мгновенная доставка после checkout",
@@ -10084,7 +10084,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Установка и обновления",
 							paragraphs: [
 								"Следуйте Установке после покупки. Проверяйте Статус после крупных патчей Deadside или BattlEye.",
-								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
+								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 							],
 							list: [
 								"<a href=\"/setup/\">Гайд по установке</a>",
@@ -10095,7 +10095,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Возвраты",
 							paragraphs: [
 								"Прочитайте политику возврата перед покупкой, если нужны детали.",
-								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
+								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 							],
 							list: [
 								"<a href=\"/refund-policy/\">Политика возврата</a>",
@@ -10120,7 +10120,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Как связаться",
 							paragraphs: [
 								"Email support@deadsidecheats.com. Укажите ID заказа и краткое описание проблемы.",
-								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
+								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 							],
 							list: [
 								"ID заказа из чека",
@@ -10132,7 +10132,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Быстрые ответы",
 							paragraphs: [
 								"Проверьте FAQ и Статус перед письмом. Многие вопросы установки уже освещены.",
-								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
+								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 							],
 							list: [
 								"<a href=\"/faq/\">FAQ</a>",
@@ -10158,7 +10158,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Что означает undetected для Deadside Cheats",
 							paragraphs: [
 								"Deadside Cheats объединяет ESP wallhack, radar hack и Deadside Aimbot в undetected пакете для Deadside на Windows PC. undetected обслуживание после патчей BattlEye",
-								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
+								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 								"Anti-cheat technology is documented by <a href=\"https://www.battleye.com/\" target=\"_blank\" rel=\"noopener noreferrer\">BattlEye</a>; Deadside client updates ship through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Undetected status is an ongoing process tied to those releases.",
 							],
 						},
@@ -10204,7 +10204,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Wallhack ESP vs raw aim tools",
 							paragraphs: [
 								"Deadside Cheats объединяет ESP wallhack, radar hack и Deadside Aimbot в undetected пакете для Deadside на Windows PC. wallhack ESP для игроков, туш и дистанции",
-								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
+								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 								"For the broader ESP keyword page see <a href=\"/deadside-esp/\">Гайд ESP и wallhack</a>; for combat assist see <a href=\"/deadside-aimbot/\">Aimbot и soft aim</a>.",
 							],
 						},
@@ -10242,7 +10242,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Что показывает",
 							paragraphs: [
 								"Подсказки о ближайших врагах с настраиваемой дальностью для соло-фармеров и рейдеров.",
-								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
+								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 							],
 							list: [
 								"Контроль флангов",
@@ -10254,7 +10254,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "С ESP",
 							paragraphs: [
 								"Radar для угроз, которые ещё не видны. ESP при пуше.",
-								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
+								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">Гайд ESP и wallhack</a>",
@@ -10401,7 +10401,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Гайды по модулям",
 							paragraphs: [
 								"У каждого инструмента своя страница с деталями, если нужно больше информации перед покупкой.",
-								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
+								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">Гайд ESP и wallhack</a>",
@@ -10414,7 +10414,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Undetected статус и патчи",
 							paragraphs: [
 								"Deadside использует BattlEye. Ни один чит не undetected навсегда — важно обслуживание после патчей. Проверяйте страницу Статус после каждого обновления Deadside или BattlEye перед игрой.",
-								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
+								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 							],
 							list: [
 								"<a href=\"/updates/\">Гайд undetected читов</a>",
@@ -10427,7 +10427,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Как начать",
 							paragraphs: [
 								"Выберите месячный ($35) или lifetime ($150) в магазине — те же функции. После checkout лицензия на email. Следуйте гайду по установке и проверяйте статус после крупных патчей.",
-								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
+								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 							],
 							list: [
 								"<a href=\"/pricing/\">Магазин</a>",
@@ -10491,7 +10491,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What a Deadside mod menu controls",
 							paragraphs: [
 								"Deadside Cheats объединяет ESP wallhack, radar hack и Deadside Aimbot в undetected пакете для Deadside на Windows PC. переключатели ESP и soft aim в клиенте",
-								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
+								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 								"Control deep-dives: <a href=\"/deadside-esp/\">Гайд ESP и wallhack</a>, <a href=\"/deadside-aimbot/\">Aimbot и soft aim</a>, <a href=\"/deadside-radar-hack/\">2D радар overlay</a>.",
 							],
 						},
@@ -10529,7 +10529,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What Deadside soft aim means",
 							paragraphs: [
 								"Deadside Cheats объединяет ESP wallhack, radar hack и Deadside Aimbot в undetected пакете для Deadside на Windows PC. плавные настройки soft aim для Windows PC",
-								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
+								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 								"Full Aimbot documentation: <a href=\"/deadside-aimbot/\">Aimbot и soft aim</a>. Alternate wording: <a href=\"/deadside-aimbot/\">Aimbot и soft aim</a>.",
 							],
 						},
@@ -10567,7 +10567,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What makes deadside cheats in 2026",
 							paragraphs: [
 								"Deadside Cheats объединяет ESP wallhack, radar hack и Deadside Aimbot в undetected пакете для Deadside на Windows PC. что сравнить перед покупкой deadside cheats",
-								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
+								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 								"Verify the live game is healthy via <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside on Steam</a>, then confirm our <a href=\"/updates/\">Гайд undetected читов</a> note before you judge any package “best.”",
 							],
 						},
@@ -10583,7 +10583,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Buying deadside cheats safely",
 							paragraphs: [
 								"Deadside Cheats объединяет ESP wallhack, radar hack и Deadside Aimbot в undetected пакете для Deadside на Windows PC. что сравнить перед покупкой deadside cheats",
-								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
+								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 								"Проверяйте Updates после патчей BattlEye. Ни один чит не гарантирует постоянный undetected статус.",
 							],
 						},
@@ -10613,7 +10613,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Deadside Aimbot hack vs visibility tools",
 							paragraphs: [
 								"Deadside Cheats объединяет ESP wallhack, radar hack и Deadside Aimbot в undetected пакете для Deadside на Windows PC. undetected Aimbot hack assist для Deadside",
-								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
+								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 								"Prefer softer tracking language? See <a href=\"/deadside-aimbot/\">Aimbot и soft aim</a>. Full settings: <a href=\"/deadside-aimbot/\">Aimbot и soft aim</a>.",
 							],
 						},
@@ -10621,7 +10621,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot hack controls and hotkeys",
 							paragraphs: [
 								"Deadside Cheats объединяет ESP wallhack, radar hack и Deadside Aimbot в undetected пакете для Deadside на Windows PC. undetected Aimbot hack assist для Deadside",
-								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
+								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 								"Balance patches from <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> can change ideal FOV — retune after major weapon balance updates.",
 							],
 						},
@@ -10651,7 +10651,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What a Deadside ESP hack shows",
 							paragraphs: [
 								"Deadside Cheats объединяет ESP wallhack, radar hack и Deadside Aimbot в undetected пакете для Deadside на Windows PC. ESP hack боксы, pins туш и дистанция",
-								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
+								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 								"Canonical visibility guide: <a href=\"/deadside-esp/\">Гайд ESP и wallhack</a>. Wallhack wording: <a href=\"/deadside-esp/\">Гайд ESP и wallhack</a>.",
 							],
 						},
@@ -10659,7 +10659,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP hack categories for matches",
 							paragraphs: [
 								"Deadside Cheats объединяет ESP wallhack, radar hack и Deadside Aimbot в undetected пакете для Deadside на Windows PC. ESP hack боксы, pins туш и дистанция",
-								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
+								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 								"POI and loot changes publish through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> — keep categories toggled to what the current map rewards.",
 							],
 						},
@@ -10689,7 +10689,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What Deadside unlock-all usually means",
 							paragraphs: [
 								"Deadside Cheats объединяет ESP wallhack, radar hack и Deadside Aimbot в undetected пакете для Deadside на Windows PC. поиски unlock-all vs настоящие ESP и Aimbot инструменты",
-								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
+								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 								"Cosmetics and patch cycle progression items are sold through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Be wary of unlock-all downloads that promise free skins — they are often scams.",
 							],
 						},
@@ -10727,8 +10727,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Информация, которую мы собираем",
 							paragraphs: [
-								"Deadside Cheats объединяет ESP wallhack, radar hack и Deadside Aimbot в undetected пакете для Deadside на Windows PC. Контактный email, ссылки на заказы Zadeyo и базовые данные безопасности сайта.",
-								"Платёжные данные обрабатываются через checkout Zadeyo — не хранятся на deadsidecheats.com.",
+								"Deadside Cheats объединяет ESP wallhack, radar hack и Deadside Aimbot в undetected пакете для Deadside на Windows PC. Контактный email, ссылки на заказы secure checkout и базовые данные безопасности сайта.",
+								"Платёжные данные обрабатываются через secure checkout — не хранятся на deadsidecheats.com.",
 							],
 						},
 						{
@@ -10762,8 +10762,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Цифровая доставка",
 							paragraphs: [
-								"Deadside Cheats объединяет ESP wallhack, radar hack и Deadside Aimbot в undetected пакете для Deadside на Windows PC. Контактный email, ссылки на заказы Zadeyo и базовые данные безопасности сайта.",
-								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
+								"Deadside Cheats объединяет ESP wallhack, radar hack и Deadside Aimbot в undetected пакете для Deadside на Windows PC. Контактный email, ссылки на заказы secure checkout и базовые данные безопасности сайта.",
+								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 							],
 						},
 						{
@@ -10797,8 +10797,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Принятие условий",
 							paragraphs: [
-								"Deadside Cheats объединяет ESP wallhack, radar hack и Deadside Aimbot в undetected пакете для Deadside на Windows PC. Контактный email, ссылки на заказы Zadeyo и базовые данные безопасности сайта.",
-								"Лицензии с мгновенная цифровая доставка через checkout Zadeyo. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
+								"Deadside Cheats объединяет ESP wallhack, radar hack и Deadside Aimbot в undetected пакете для Deadside на Windows PC. Контактный email, ссылки на заказы secure checkout и базовые данные безопасности сайта.",
+								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 							],
 						},
 						{
@@ -10876,7 +10876,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				footer: {
 					explore: "Keşfet",
 					help: "Yardım ve yasal",
-					tagline: "Deadside için undetected ESP, wallhack, radar ve Aimbot — Zadeyo checkout.",
+					tagline: "Deadside için undetected ESP, wallhack, radar ve Aimbot — .",
 				},
 				images: {
 					hero: "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
@@ -10908,7 +10908,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "2026'da neden Deadside Cheats",
 							paragraphs: [
 								"Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, radar hack ve Deadside Aimbot undetected paket sunar. BR ve PvP raid sessions'da düşman squad okumak için ideal.",
-								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
+								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 							],
 						},
 						{
@@ -10935,7 +10935,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP ne gösterir",
 							paragraphs: [
 								"Oyuncular, bilim insanları ve loot için kutular, mesafe ve filtreler.",
-								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
+								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 							],
 							list: [
 								"Oyuncu ESP",
@@ -10947,7 +10947,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Ne zaman kullanılır",
 							paragraphs: [
 								"Ekranı doldurmadan POI ve extract routes bölgelerini net tutun.",
-								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
+								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 							],
 							list: [
 								"Opaklığı ayarla",
@@ -10959,7 +10959,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Sonraki adımlar",
 							paragraphs: [
 								"ESP, aimbot ve radar tek planda dahil.",
-								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
+								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 							],
 							list: [
 								"<a href=\"/\">Tam ürün</a>",
@@ -10985,7 +10985,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Kontroller",
 							paragraphs: [
 								"Raid öncesi FOV, yumuşaklık ve kemik önceliğini ayarlayın.",
-								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
+								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 							],
 							list: [
 								"Soft aim gücü",
@@ -10997,7 +10997,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Oyun stilleri",
 							paragraphs: [
 								"Uzun matchler için ayarları hafif tutun. Daha fazla risk kabul ediyorsanız gücü artırın.",
-								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
+								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 							],
 							list: [
 								"Legit soft aim",
@@ -11009,7 +11009,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Sonraki adımlar",
 							paragraphs: [
 								"Aimbot ESP ve radar ile tek lisans altında.",
-								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
+								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 							],
 							list: [
 								"<a href=\"/\">Tam ürün</a>",
@@ -11035,7 +11035,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP & wallhack",
 							paragraphs: [
 								"Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, radar hack ve Deadside Aimbot undetected paket sunar. ESP, soft aim, radar kontrolleri",
-								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
+								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 							],
 							list: [
 								"Player boxes & distance",
@@ -11047,7 +11047,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot & soft aim",
 							paragraphs: [
 								"Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, radar hack ve Deadside Aimbot undetected paket sunar. ESP, soft aim, radar kontrolleri",
-								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
+								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 							],
 							list: [
 								"Smooth aim strength",
@@ -11059,7 +11059,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Radar",
 							paragraphs: [
 								"Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, radar hack ve Deadside Aimbot undetected paket sunar. ESP, soft aim, radar kontrolleri",
-								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
+								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 							],
 							list: [
 								"Nearby enemy cues",
@@ -11071,7 +11071,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Explore related topics",
 							paragraphs: [
 								"Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, radar hack ve Deadside Aimbot undetected paket sunar. ESP, soft aim, radar kontrolleri",
-								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
+								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">ESP & wallhack guide</a>",
@@ -11088,7 +11088,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Updates & support",
 							paragraphs: [
 								"Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, radar hack ve Deadside Aimbot undetected paket sunar. ESP, soft aim, radar kontrolleri",
-								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
+								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 							],
 							list: [
 								"Status on the Status page",
@@ -11138,7 +11138,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Satın almadan önce",
 							paragraphs: [
 								"Gerekirse iade politikasını okuyun. Sipariş ID'nizle destekle iletişime geçin.",
-								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
+								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 							],
 							list: [
 								"<a href=\"/refund-policy/\">İade politikası</a>",
@@ -11164,7 +11164,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Kurulumdan önce",
 							paragraphs: [
 								"Önce bir plan satın alın. Lisans e-posta ile gelir.",
-								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
+								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 							],
 							list: [
 								"Windows 10 / 11 PC",
@@ -11176,7 +11176,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Kurulum adımları",
 							paragraphs: [
 								"Loader'ı yönetici olarak çalıştırın, lisansı yapıştırın, Deadside'ı başlatın.",
-								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
+								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 							],
 							list: [
 								"Teslimat e-postasından loader indirin",
@@ -11188,7 +11188,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Bir şey başarısız olursa",
 							paragraphs: [
 								"Yama sonrası Durum kontrol edin. Sipariş ID ile support@deadsidecheats.com.",
-								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
+								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 							],
 							list: [
 								"<a href=\"/updates/\">Undetected hile rehberi</a>",
@@ -11226,7 +11226,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Yama sonrası",
 							paragraphs: [
 								"Rebuild notumuzu bekleyin, sonra başlatın. Büyük güncelleme sonrası eski build ile oynamayın.",
-								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
+								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 							],
 							list: [
 								"Son durum notunu okuyun",
@@ -11238,7 +11238,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Önemli",
 							paragraphs: [
 								"Hiçbir hile sonsuza kadar %100 güvenli değildir. Güncel kalın ve güvenli ayarlar kullanın.",
-								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
+								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 							],
 							list: [
 								"Önce durum, sonra oyna",
@@ -11263,7 +11263,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Satın alma ve teslimat",
 							paragraphs: [
 								"Ödeme sonrası e-posta ile dijital lisans alırsınız.",
-								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
+								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 							],
 							list: [
 								"Checkout sonrası anında teslimat",
@@ -11275,7 +11275,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Kurulum ve güncellemeler",
 							paragraphs: [
 								"Satın aldıktan sonra Kurulumu izleyin. Büyük Deadside veya BattlEye yamalarından sonra Durumu kontrol edin.",
-								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
+								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 							],
 							list: [
 								"<a href=\"/setup/\">Kurulum rehberi</a>",
@@ -11286,7 +11286,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "İadeler",
 							paragraphs: [
 								"Detay gerekiyorsa satın almadan önce iade politikasını okuyun.",
-								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
+								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 							],
 							list: [
 								"<a href=\"/refund-policy/\">İade politikası</a>",
@@ -11311,7 +11311,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Nasıl iletişime geçilir",
 							paragraphs: [
 								"support@deadsidecheats.com adresine email. Sipariş ID ve kısa sorun notu ekleyin.",
-								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
+								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 							],
 							list: [
 								"Makbuzdaki sipariş ID",
@@ -11323,7 +11323,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Daha hızlı yanıtlar",
 							paragraphs: [
 								"Yazmadan önce FAQ ve Durum kontrol edin. Birçok kurulum sorusu zaten yanıtlı.",
-								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
+								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 							],
 							list: [
 								"<a href=\"/faq/\">SSS</a>",
@@ -11349,7 +11349,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Deadside Cheats için undetected ne anlama gelir",
 							paragraphs: [
 								"Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, radar hack ve Deadside Aimbot undetected paket sunar. BattlEye yamalarından sonra undetected bakım",
-								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
+								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 								"Anti-cheat technology is documented by <a href=\"https://www.battleye.com/\" target=\"_blank\" rel=\"noopener noreferrer\">BattlEye</a>; Deadside client updates ship through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Undetected status is an ongoing process tied to those releases.",
 							],
 						},
@@ -11395,7 +11395,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Wallhack ESP vs raw aim tools",
 							paragraphs: [
 								"Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, radar hack ve Deadside Aimbot undetected paket sunar. oyuncular, leşler ve mesafe için wallhack ESP",
-								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
+								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 								"For the broader ESP keyword page see <a href=\"/deadside-esp/\">ESP ve wallhack rehberi</a>; for combat assist see <a href=\"/deadside-aimbot/\">Aimbot ve soft aim</a>.",
 							],
 						},
@@ -11433,7 +11433,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Ne gösterir",
 							paragraphs: [
 								"Solo farmer ve matcherlar için ayarlanabilir menzilli yakın düşman işaretleri.",
-								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
+								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 							],
 							list: [
 								"Kanat farkındalığı",
@@ -11445,7 +11445,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP ile",
 							paragraphs: [
 								"Henüz göremediğiniz tehditler için radar kullanın. İtme yaparken ESP.",
-								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
+								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">ESP ve wallhack rehberi</a>",
@@ -11592,7 +11592,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Modül rehberleri",
 							paragraphs: [
 								"Checkout öncesi detay istiyorsanız her aracın kendi derinlemesine sayfası var.",
-								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
+								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">ESP ve wallhack rehberi</a>",
@@ -11605,7 +11605,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Undetected durumu ve yamalar",
 							paragraphs: [
 								"Deadside BattlEye kullanır. Hiçbir hile sonsuza kadar undetected kalmaz — yama sonrası bakım önemlidir. Oyuna girmeden önce her Deadside veya BattlEye güncellemesinden sonra Durum sayfasını kontrol edin.",
-								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
+								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 							],
 							list: [
 								"<a href=\"/updates/\">Undetected hile rehberi</a>",
@@ -11618,7 +11618,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Nasıl başlanır",
 							paragraphs: [
 								"Mağazada aylık ($35) veya lifetime ($150) seçin — aynı özellikler. Checkout sonrası lisans e-posta ile gelir. Kurulum rehberini izleyin ve büyük yamalardan sonra durumu kontrol edin.",
-								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
+								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 							],
 							list: [
 								"<a href=\"/pricing/\">Mağaza</a>",
@@ -11682,7 +11682,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What a Deadside mod menu controls",
 							paragraphs: [
 								"Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, radar hack ve Deadside Aimbot undetected paket sunar. istemci içi ESP ve soft aim toggle'ları",
-								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
+								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 								"Control deep-dives: <a href=\"/deadside-esp/\">ESP ve wallhack rehberi</a>, <a href=\"/deadside-aimbot/\">Aimbot ve soft aim</a>, <a href=\"/deadside-radar-hack/\">2D radar overlay</a>.",
 							],
 						},
@@ -11720,7 +11720,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What Deadside soft aim means",
 							paragraphs: [
 								"Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, radar hack ve Deadside Aimbot undetected paket sunar. Windows PC için akıcı soft aim ayarları",
-								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
+								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 								"Full Aimbot documentation: <a href=\"/deadside-aimbot/\">Aimbot ve soft aim</a>. Alternate wording: <a href=\"/deadside-aimbot/\">Aimbot ve soft aim</a>.",
 							],
 						},
@@ -11758,7 +11758,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What makes deadside cheats in 2026",
 							paragraphs: [
 								"Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, radar hack ve Deadside Aimbot undetected paket sunar. deadside cheats satın almadan önce ne karşılaştırılmalı",
-								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
+								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 								"Verify the live game is healthy via <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside on Steam</a>, then confirm our <a href=\"/updates/\">Undetected hile rehberi</a> note before you judge any package “best.”",
 							],
 						},
@@ -11774,7 +11774,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Buying deadside cheats safely",
 							paragraphs: [
 								"Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, radar hack ve Deadside Aimbot undetected paket sunar. deadside cheats satın almadan önce ne karşılaştırılmalı",
-								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
+								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 								"BattlEye yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı undetected garantisi vermez.",
 							],
 						},
@@ -11804,7 +11804,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Deadside Aimbot hack vs visibility tools",
 							paragraphs: [
 								"Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, radar hack ve Deadside Aimbot undetected paket sunar. Deadside için undetected Aimbot hack assist",
-								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
+								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 								"Prefer softer tracking language? See <a href=\"/deadside-aimbot/\">Aimbot ve soft aim</a>. Full settings: <a href=\"/deadside-aimbot/\">Aimbot ve soft aim</a>.",
 							],
 						},
@@ -11812,7 +11812,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot hack controls and hotkeys",
 							paragraphs: [
 								"Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, radar hack ve Deadside Aimbot undetected paket sunar. Deadside için undetected Aimbot hack assist",
-								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
+								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 								"Balance patches from <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> can change ideal FOV — retune after major weapon balance updates.",
 							],
 						},
@@ -11842,7 +11842,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What a Deadside ESP hack shows",
 							paragraphs: [
 								"Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, radar hack ve Deadside Aimbot undetected paket sunar. ESP hack kutuları, leş pinleri ve mesafe",
-								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
+								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 								"Canonical visibility guide: <a href=\"/deadside-esp/\">ESP ve wallhack rehberi</a>. Wallhack wording: <a href=\"/deadside-esp/\">ESP ve wallhack rehberi</a>.",
 							],
 						},
@@ -11850,7 +11850,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP hack categories for matches",
 							paragraphs: [
 								"Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, radar hack ve Deadside Aimbot undetected paket sunar. ESP hack kutuları, leş pinleri ve mesafe",
-								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
+								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 								"POI and loot changes publish through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> — keep categories toggled to what the current map rewards.",
 							],
 						},
@@ -11880,7 +11880,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What Deadside unlock-all usually means",
 							paragraphs: [
 								"Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, radar hack ve Deadside Aimbot undetected paket sunar. unlock-all aramaları vs gerçek ESP ve Aimbot araçları",
-								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
+								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 								"Cosmetics and patch cycle progression items are sold through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Be wary of unlock-all downloads that promise free skins — they are often scams.",
 							],
 						},
@@ -11918,8 +11918,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Topladığımız bilgiler",
 							paragraphs: [
-								"Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, radar hack ve Deadside Aimbot undetected paket sunar. İletişim e-postası, Zadeyo sipariş referansları ve temel site güvenlik verileri.",
-								"Ödeme bilgileri Zadeyo checkout ile işlenir — deadsidecheats.com'da saklanmaz.",
+								"Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, radar hack ve Deadside Aimbot undetected paket sunar. İletişim e-postası, secure checkout sipariş referansları ve temel site güvenlik verileri.",
+								"Ödeme bilgileri ile işlenir — deadsidecheats.com'da saklanmaz.",
 							],
 						},
 						{
@@ -11953,8 +11953,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Dijital teslimat",
 							paragraphs: [
-								"Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, radar hack ve Deadside Aimbot undetected paket sunar. İletişim e-postası, Zadeyo sipariş referansları ve temel site güvenlik verileri.",
-								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
+								"Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, radar hack ve Deadside Aimbot undetected paket sunar. İletişim e-postası, secure checkout sipariş referansları ve temel site güvenlik verileri.",
+								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 							],
 						},
 						{
@@ -11988,8 +11988,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Şartların kabulü",
 							paragraphs: [
-								"Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, radar hack ve Deadside Aimbot undetected paket sunar. İletişim e-postası, Zadeyo sipariş referansları ve temel site güvenlik verileri.",
-								"Zadeyo checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
+								"Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, radar hack ve Deadside Aimbot undetected paket sunar. İletişim e-postası, secure checkout sipariş referansları ve temel site güvenlik verileri.",
+								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 							],
 						},
 						{
@@ -12067,7 +12067,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				footer: {
 					explore: "استكشف",
 					help: "المساعدة والقانون",
-					tagline: "ESP وwallhack ورadar وAimbot غير مكتشف لـ Deadside — الدفع عبر Zadeyo.",
+					tagline: "ESP وwallhack ورadar وAimbot غير مكتشف لـ Deadside — الدفع عبر secure checkout.",
 				},
 				images: {
 					hero: "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
@@ -12099,7 +12099,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "لماذا Deadside Cheats في 2026",
 							paragraphs: [
 								"Deadside Cheats يجمع ESP wallhack وradar hack وDeadside Aimbot غير مكتشف لـ Deadside على Windows PC. مثالي لقراءة فرق العدو في BR وPvP raid sessions.",
-								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
+								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 							],
 						},
 						{
@@ -12126,7 +12126,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ماذا يعرض ESP",
 							paragraphs: [
 								"صناديق ومسافة وفلاتر للاعبين والعلماء والloot.",
-								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
+								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 							],
 							list: [
 								"ESP اللاعب",
@@ -12138,7 +12138,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "متى تستخدمه",
 							paragraphs: [
 								"اجعل مناطق المعالم وextract routes واضحة دون إغراق الشاشة.",
-								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
+								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 							],
 							list: [
 								"اضبط الشفافية",
@@ -12150,7 +12150,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "الخطوات التالية",
 							paragraphs: [
 								"ESP مضمن مع aimbot وradar في خطة واحدة.",
-								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
+								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 							],
 							list: [
 								"<a href=\"/\">المنتج الكامل</a>",
@@ -12176,7 +12176,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "عناصر التحكم",
 							paragraphs: [
 								"اضبط FOV والنعومة وأولوية العظام قبل الraid.",
-								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
+								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 							],
 							list: [
 								"قوة soft aim",
@@ -12188,7 +12188,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "أنماط اللعب",
 							paragraphs: [
 								"اجعل الإعدادات خفيفة للـ matches الطويلة. ارفع القوة فقط عند قبول المزيد من المخاطر.",
-								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
+								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 							],
 							list: [
 								"Soft aim شرعي",
@@ -12200,7 +12200,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "الخطوات التالية",
 							paragraphs: [
 								"Aimbot مضمن مع ESP وradar في ترخيص واحد.",
-								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
+								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 							],
 							list: [
 								"<a href=\"/\">المنتج الكامل</a>",
@@ -12226,7 +12226,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP & wallhack",
 							paragraphs: [
 								"Deadside Cheats يجمع ESP wallhack وradar hack وDeadside Aimbot غير مكتشف لـ Deadside على Windows PC. ESP وsoft aim وضوابط radar",
-								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
+								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 							],
 							list: [
 								"Player boxes & distance",
@@ -12238,7 +12238,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot & soft aim",
 							paragraphs: [
 								"Deadside Cheats يجمع ESP wallhack وradar hack وDeadside Aimbot غير مكتشف لـ Deadside على Windows PC. ESP وsoft aim وضوابط radar",
-								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
+								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 							],
 							list: [
 								"Smooth aim strength",
@@ -12250,7 +12250,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Radar",
 							paragraphs: [
 								"Deadside Cheats يجمع ESP wallhack وradar hack وDeadside Aimbot غير مكتشف لـ Deadside على Windows PC. ESP وsoft aim وضوابط radar",
-								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
+								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 							],
 							list: [
 								"Nearby enemy cues",
@@ -12262,7 +12262,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Explore related topics",
 							paragraphs: [
 								"Deadside Cheats يجمع ESP wallhack وradar hack وDeadside Aimbot غير مكتشف لـ Deadside على Windows PC. ESP وsoft aim وضوابط radar",
-								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
+								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">ESP & wallhack guide</a>",
@@ -12279,7 +12279,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Updates & support",
 							paragraphs: [
 								"Deadside Cheats يجمع ESP wallhack وradar hack وDeadside Aimbot غير مكتشف لـ Deadside على Windows PC. ESP وsoft aim وضوابط radar",
-								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
+								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 							],
 							list: [
 								"Status on the Status page",
@@ -12329,7 +12329,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "قبل الشراء",
 							paragraphs: [
 								"اقرأ سياسة الاسترداد إذا احتجت. تواصل مع الدعم مع معرف طلبك.",
-								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
+								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 							],
 							list: [
 								"<a href=\"/refund-policy/\">سياسة الاسترداد</a>",
@@ -12355,7 +12355,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "قبل التثبيت",
 							paragraphs: [
 								"اشترِ خطة أولاً. تحصل على الترخيص بالبريد.",
-								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
+								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 							],
 							list: [
 								"Windows 10 / 11 PC",
@@ -12367,7 +12367,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "خطوات التثبيت",
 							paragraphs: [
 								"شغّل loader كمسؤول، الصق الترخيص، ثم شغّل Deadside.",
-								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
+								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 							],
 							list: [
 								"حمّل loader من بريد التسليم",
@@ -12379,7 +12379,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "إذا فشل شيء",
 							paragraphs: [
 								"تحقق من الحالة بعد التصحيح. راسل support@deadsidecheats.com مع معرف الطلب.",
-								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
+								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 							],
 							list: [
 								"<a href=\"/updates/\">دليل الغش غير المكتشف</a>",
@@ -12417,7 +12417,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "بعد التصحيح",
 							paragraphs: [
 								"انتظر ملاحظة إعادة البناء ثم شغّل. لا تلعب على build قديم بعد تحديث كبير.",
-								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
+								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 							],
 							list: [
 								"اقرأ آخر ملاحظة حالة",
@@ -12429,7 +12429,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "مهم",
 							paragraphs: [
 								"لا يوجد cheat آمن 100% للأبد. ابقَ محدّثاً واستخدم إعدادات آمنة.",
-								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
+								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 							],
 							list: [
 								"الحالة أولاً، ثم العب",
@@ -12454,7 +12454,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "الشراء والتسليم",
 							paragraphs: [
 								"تحصل على ترخيص رقمي بالبريد بعد الدفع.",
-								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
+								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 							],
 							list: [
 								"تسليم فوري بعد الدفع",
@@ -12466,7 +12466,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "التثبيت والتحديثات",
 							paragraphs: [
 								"اتبع التثبيت بعد الشراء. تحقق من الحالة بعد تصحيحات Deadside أو BattlEye الكبيرة.",
-								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
+								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 							],
 							list: [
 								"<a href=\"/setup/\">دليل التثبيت</a>",
@@ -12477,7 +12477,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "المبالغ المستردة",
 							paragraphs: [
 								"اقرأ سياسة الاسترداد قبل الشراء إذا احتجت التفاصيل.",
-								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
+								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 							],
 							list: [
 								"<a href=\"/refund-policy/\">سياسة الاسترداد</a>",
@@ -12502,7 +12502,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "كيف تتواصل معنا",
 							paragraphs: [
 								"راسل support@deadsidecheats.com. أرفق معرف الطلب وملاحظة قصيرة.",
-								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
+								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 							],
 							list: [
 								"معرف الطلب من الإيصال",
@@ -12514,7 +12514,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "إجابات أسرع",
 							paragraphs: [
 								"راجع FAQ والحالة قبل الكتابة. many أسئلة التثبيت مغطاة.",
-								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
+								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 							],
 							list: [
 								"<a href=\"/faq/\">الأسئلة الشائعة</a>",
@@ -12540,7 +12540,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ماذا يعني غير المكتشف لـ Deadside Cheats",
 							paragraphs: [
 								"Deadside Cheats يجمع ESP wallhack وradar hack وDeadside Aimbot غير مكتشف لـ Deadside على Windows PC. صيانة undetected بعد patch BattlEye",
-								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
+								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 								"Anti-cheat technology is documented by <a href=\"https://www.battleye.com/\" target=\"_blank\" rel=\"noopener noreferrer\">BattlEye</a>; Deadside client updates ship through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Undetected status is an ongoing process tied to those releases.",
 							],
 						},
@@ -12586,7 +12586,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Wallhack ESP vs raw aim tools",
 							paragraphs: [
 								"Deadside Cheats يجمع ESP wallhack وradar hack وDeadside Aimbot غير مكتشف لـ Deadside على Windows PC. wallhack ESP للاعبين والجيف والمسافة",
-								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
+								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 								"For the broader ESP keyword page see <a href=\"/deadside-esp/\">دليل ESP وWallhack</a>; for combat assist see <a href=\"/deadside-aimbot/\">Aimbot وSoft aim</a>.",
 							],
 						},
@@ -12624,7 +12624,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ماذا يعرض",
 							paragraphs: [
 								"إشارات أعداء قريبين مع نطاق قابل للضبط للfarmers والraiders المنفردين.",
-								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
+								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 							],
 							list: [
 								"الوعي بالمناورات",
@@ -12636,7 +12636,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "مع ESP",
 							paragraphs: [
 								"استخدم radar للتهديدات التي لا تراها بعد. استخدم ESP عند التقدم.",
-								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
+								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">دليل ESP وWallhack</a>",
@@ -12783,7 +12783,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "أدلة الوحدات",
 							paragraphs: [
 								"لكل أداة صفحة تفصيلية إذا أردت المزيد قبل الدفع.",
-								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
+								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">دليل ESP وWallhack</a>",
@@ -12796,7 +12796,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "الحالة غير المكتشفة والتصحيحات",
 							paragraphs: [
 								"Deadside يستخدم BattlEye. لا يبقى أي cheat غير مكتشف للأبد — الصيانة بعد التصحيحات هي المهم. تحقق من صفحة الحالة بعد كل تحديث Deadside أو EAC قبل الدخول.",
-								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
+								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 							],
 							list: [
 								"<a href=\"/updates/\">دليل الغش غير المكتشف</a>",
@@ -12809,7 +12809,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "كيف تبدأ",
 							paragraphs: [
 								"اختر شهرياً ($35) أو lifetime ($150) في المتجر — نفس الميزات. بعد الدفع تصل الترخيص بالبريد. اتبع دليل التثبيت وتحقق من الحالة بعد التصحيحات الكبيرة.",
-								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
+								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 							],
 							list: [
 								"<a href=\"/pricing/\">المتجر</a>",
@@ -12873,7 +12873,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What a Deadside mod menu controls",
 							paragraphs: [
 								"Deadside Cheats يجمع ESP wallhack وradar hack وDeadside Aimbot غير مكتشف لـ Deadside على Windows PC. مفاتيح ESP وsoft aim داخل العميل",
-								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
+								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 								"Control deep-dives: <a href=\"/deadside-esp/\">دليل ESP وWallhack</a>, <a href=\"/deadside-aimbot/\">Aimbot وSoft aim</a>, <a href=\"/deadside-radar-hack/\">تراكب رادار 2D</a>.",
 							],
 						},
@@ -12911,7 +12911,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What Deadside soft aim means",
 							paragraphs: [
 								"Deadside Cheats يجمع ESP wallhack وradar hack وDeadside Aimbot غير مكتشف لـ Deadside على Windows PC. إعدادات soft aim سلسة لـ Windows PC",
-								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
+								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 								"Full Aimbot documentation: <a href=\"/deadside-aimbot/\">Aimbot وSoft aim</a>. Alternate wording: <a href=\"/deadside-aimbot/\">Aimbot وSoft aim</a>.",
 							],
 						},
@@ -12949,7 +12949,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What makes deadside cheats in 2026",
 							paragraphs: [
 								"Deadside Cheats يجمع ESP wallhack وradar hack وDeadside Aimbot غير مكتشف لـ Deadside على Windows PC. ما يجب مقارنته قبل شراء deadside cheats",
-								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
+								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 								"Verify the live game is healthy via <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside on Steam</a>, then confirm our <a href=\"/updates/\">دليل الغش غير المكتشف</a> note before you judge any package “best.”",
 							],
 						},
@@ -12965,7 +12965,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Buying deadside cheats safely",
 							paragraphs: [
 								"Deadside Cheats يجمع ESP wallhack وradar hack وDeadside Aimbot غير مكتشف لـ Deadside على Windows PC. ما يجب مقارنته قبل شراء deadside cheats",
-								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
+								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 								"راجع Updates بعد تص patches BattlEye. لا يضمن أي غش حالة undetected دائمة.",
 							],
 						},
@@ -12995,7 +12995,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Deadside Aimbot hack vs visibility tools",
 							paragraphs: [
 								"Deadside Cheats يجمع ESP wallhack وradar hack وDeadside Aimbot غير مكتشف لـ Deadside على Windows PC. مساعدة hack Aimbot undetected لـ Deadside",
-								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
+								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 								"Prefer softer tracking language? See <a href=\"/deadside-aimbot/\">Aimbot وSoft aim</a>. Full settings: <a href=\"/deadside-aimbot/\">Aimbot وSoft aim</a>.",
 							],
 						},
@@ -13003,7 +13003,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot hack controls and hotkeys",
 							paragraphs: [
 								"Deadside Cheats يجمع ESP wallhack وradar hack وDeadside Aimbot غير مكتشف لـ Deadside على Windows PC. مساعدة hack Aimbot undetected لـ Deadside",
-								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
+								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 								"Balance patches from <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> can change ideal FOV — retune after major weapon balance updates.",
 							],
 						},
@@ -13033,7 +13033,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What a Deadside ESP hack shows",
 							paragraphs: [
 								"Deadside Cheats يجمع ESP wallhack وradar hack وDeadside Aimbot غير مكتشف لـ Deadside على Windows PC. صناديق ESP hack وpins الجيف والمسافة",
-								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
+								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 								"Canonical visibility guide: <a href=\"/deadside-esp/\">دليل ESP وWallhack</a>. Wallhack wording: <a href=\"/deadside-esp/\">دليل ESP وWallhack</a>.",
 							],
 						},
@@ -13041,7 +13041,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP hack categories for matches",
 							paragraphs: [
 								"Deadside Cheats يجمع ESP wallhack وradar hack وDeadside Aimbot غير مكتشف لـ Deadside على Windows PC. صناديق ESP hack وpins الجيف والمسافة",
-								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
+								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 								"POI and loot changes publish through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> — keep categories toggled to what the current map rewards.",
 							],
 						},
@@ -13071,7 +13071,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What Deadside unlock-all usually means",
 							paragraphs: [
 								"Deadside Cheats يجمع ESP wallhack وradar hack وDeadside Aimbot غير مكتشف لـ Deadside على Windows PC. بحث unlock-all مقابل أدوات ESP وAimbot الحقيقية",
-								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
+								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 								"Cosmetics and patch cycle progression items are sold through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Be wary of unlock-all downloads that promise free skins — they are often scams.",
 							],
 						},
@@ -13109,8 +13109,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "المعلومات التي نجمعها",
 							paragraphs: [
-								"Deadside Cheats يجمع ESP wallhack وradar hack وDeadside Aimbot غير مكتشف لـ Deadside على Windows PC. بريد الاتصال ومراجع طلبات Zadeyo وبيانات أمان الموقع الأساسية.",
-								"تُعالَج تفاصيل الدفع عبر checkout Zadeyo — ولا تُخزَّن على deadsidecheats.com.",
+								"Deadside Cheats يجمع ESP wallhack وradar hack وDeadside Aimbot غير مكتشف لـ Deadside على Windows PC. بريد الاتصال ومراجع طلبات secure checkout وبيانات أمان الموقع الأساسية.",
+								"تُعالَج تفاصيل الدفع عبر secure checkout — ولا تُخزَّن على deadsidecheats.com.",
 							],
 						},
 						{
@@ -13144,8 +13144,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "التسليم الرقمي",
 							paragraphs: [
-								"Deadside Cheats يجمع ESP wallhack وradar hack وDeadside Aimbot غير مكتشف لـ Deadside على Windows PC. بريد الاتصال ومراجع طلبات Zadeyo وبيانات أمان الموقع الأساسية.",
-								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
+								"Deadside Cheats يجمع ESP wallhack وradar hack وDeadside Aimbot غير مكتشف لـ Deadside على Windows PC. بريد الاتصال ومراجع طلبات secure checkout وبيانات أمان الموقع الأساسية.",
+								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 							],
 						},
 						{
@@ -13179,8 +13179,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "قبول الشروط",
 							paragraphs: [
-								"Deadside Cheats يجمع ESP wallhack وradar hack وDeadside Aimbot غير مكتشف لـ Deadside على Windows PC. بريد الاتصال ومراجع طلبات Zadeyo وبيانات أمان الموقع الأساسية.",
-								"تراخيص مع تسليم رقمي فوري عبر checkout Zadeyo. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
+								"Deadside Cheats يجمع ESP wallhack وradar hack وDeadside Aimbot غير مكتشف لـ Deadside على Windows PC. بريد الاتصال ومراجع طلبات secure checkout وبيانات أمان الموقع الأساسية.",
+								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 							],
 						},
 						{
@@ -13258,7 +13258,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				footer: {
 					explore: "探索",
 					help: "ヘルプと法務",
-					tagline: "Deadside向けundetected ESP、wallhack、radar、Aimbot — Zadeyoで購入。",
+					tagline: "Deadside向けundetected ESP、wallhack、radar、Aimbot — secure checkoutで購入。",
 				},
 				images: {
 					hero: "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
@@ -13290,7 +13290,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "2026年にDeadside Cheatsを選ぶ理由",
 							paragraphs: [
 								"Deadside CheatsはDeadside向けWindows PC用ESP wallhack、radar hack、Deadside Aimbotのundetectedパッケージです。BRとPvP raid sessionsで敵スクワッドを読むのに最適。",
-								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
+								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 							],
 						},
 						{
@@ -13317,7 +13317,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESPの表示内容",
 							paragraphs: [
 								"プレイヤー、科学者、loot向けボックス、距離、フィルター。",
-								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
+								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 							],
 							list: [
 								"プレイヤーESP",
@@ -13329,7 +13329,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "使いどき",
 							paragraphs: [
 								"画面を埋め尽くさずマップとスパイク設置ルートを見やすく。",
-								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
+								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 							],
 							list: [
 								"透明度を調整",
@@ -13341,7 +13341,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "次のステップ",
 							paragraphs: [
 								"ESPはaimbotとradarが1プランに含まれます。",
-								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
+								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 							],
 							list: [
 								"<a href=\"/\">製品全体</a>",
@@ -13367,7 +13367,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "コントロール",
 							paragraphs: [
 								"レイド前にFOV、スムーズさ、ボーン優先度を設定。",
-								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
+								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 							],
 							list: [
 								"soft aim強度",
@@ -13379,7 +13379,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "プレイスタイル",
 							paragraphs: [
 								"長時間レイドは控えめ設定。リスクを受け入れる時だけ強度を上げてください。",
-								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
+								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 							],
 							list: [
 								"自然なsoft aim",
@@ -13391,7 +13391,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "次のステップ",
 							paragraphs: [
 								"AimbotはESPとradarが1ライセンスに含まれます。",
-								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
+								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 							],
 							list: [
 								"<a href=\"/\">製品全体</a>",
@@ -13417,7 +13417,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP & wallhack",
 							paragraphs: [
 								"Deadside CheatsはDeadside向けWindows PC用ESP wallhack、radar hack、Deadside Aimbotのundetectedパッケージです。ESP、soft aim、radarコントロール",
-								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
+								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 							],
 							list: [
 								"Player boxes & distance",
@@ -13429,7 +13429,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot & soft aim",
 							paragraphs: [
 								"Deadside CheatsはDeadside向けWindows PC用ESP wallhack、radar hack、Deadside Aimbotのundetectedパッケージです。ESP、soft aim、radarコントロール",
-								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
+								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 							],
 							list: [
 								"Smooth aim strength",
@@ -13441,7 +13441,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Radar",
 							paragraphs: [
 								"Deadside CheatsはDeadside向けWindows PC用ESP wallhack、radar hack、Deadside Aimbotのundetectedパッケージです。ESP、soft aim、radarコントロール",
-								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
+								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 							],
 							list: [
 								"Nearby enemy cues",
@@ -13453,7 +13453,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Explore related topics",
 							paragraphs: [
 								"Deadside CheatsはDeadside向けWindows PC用ESP wallhack、radar hack、Deadside Aimbotのundetectedパッケージです。ESP、soft aim、radarコントロール",
-								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
+								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">ESP & wallhack guide</a>",
@@ -13470,7 +13470,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Updates & support",
 							paragraphs: [
 								"Deadside CheatsはDeadside向けWindows PC用ESP wallhack、radar hack、Deadside Aimbotのundetectedパッケージです。ESP、soft aim、radarコントロール",
-								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
+								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 							],
 							list: [
 								"Status on the Status page",
@@ -13520,7 +13520,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "購入前",
 							paragraphs: [
 								"必要なら返金ポリシーを確認。注文IDを添えてサポートへ。",
-								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
+								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 							],
 							list: [
 								"<a href=\"/refund-policy/\">返金ポリシー</a>",
@@ -13546,7 +13546,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "インストール前",
 							paragraphs: [
 								"まずプランを購入。ライセンスはメールで届きます。",
-								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
+								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 							],
 							list: [
 								"Windows 10 / 11 PC",
@@ -13558,7 +13558,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "インストール手順",
 							paragraphs: [
 								"loaderを管理者実行、ライセンス貼り付け、Deadside起動。",
-								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
+								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 							],
 							list: [
 								"配信メールからloaderをDL",
@@ -13570,7 +13570,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "問題が発生した場合",
 							paragraphs: [
 								"パッチ後はステータス確認。注文IDを添えてsupport@deadsidecheats.comへ。",
-								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
+								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 							],
 							list: [
 								"<a href=\"/updates/\">Undetectedチートガイド</a>",
@@ -13608,7 +13608,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "パッチ後",
 							paragraphs: [
 								"リビルド通知を待ってから起動。大規模アップデート後は古いビルドでプレイしないでください。",
-								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
+								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 							],
 							list: [
 								"最新ステータスを確認",
@@ -13620,7 +13620,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "重要",
 							paragraphs: [
 								"チートは永久に100%安全ではありません。最新状態を保ち安全な設定を使ってください。",
-								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
+								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 							],
 							list: [
 								"ステータス確認後にプレイ",
@@ -13645,7 +13645,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "購入と配信",
 							paragraphs: [
 								"支払い後メールでデジタルライセンスを受け取ります。",
-								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
+								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 							],
 							list: [
 								"チェックアウト後即時配信",
@@ -13657,7 +13657,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "セットアップと更新",
 							paragraphs: [
 								"購入後はセットアップに従い、DeadsideまたはBattlEye大型パッチ後はステータスを確認。",
-								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
+								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 							],
 							list: [
 								"<a href=\"/setup/\">セットアップガイド</a>",
@@ -13668,7 +13668,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "返金",
 							paragraphs: [
 								"詳細が必要なら購入前に返金ポリシーを確認。",
-								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
+								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 							],
 							list: [
 								"<a href=\"/refund-policy/\">返金ポリシー</a>",
@@ -13693,7 +13693,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "お問い合わせ方法",
 							paragraphs: [
 								"support@deadsidecheats.comへメール。注文IDと問題の概要を記載。",
-								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
+								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 							],
 							list: [
 								"領収書の注文ID",
@@ -13705,7 +13705,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "より早い回答",
 							paragraphs: [
 								"連絡前にFAQとステータスを確認。多くのセットアップ質問は既に掲載。",
-								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
+								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 							],
 							list: [
 								"<a href=\"/faq/\">FAQ</a>",
@@ -13731,7 +13731,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Deadside Cheatsにおけるundetectedの意味",
 							paragraphs: [
 								"Deadside CheatsはDeadside向けWindows PC用ESP wallhack、radar hack、Deadside Aimbotのundetectedパッケージです。BattlEyeパッチ後のundetectedメンテナンス",
-								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
+								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 								"Anti-cheat technology is documented by <a href=\"https://www.battleye.com/\" target=\"_blank\" rel=\"noopener noreferrer\">BattlEye</a>; Deadside client updates ship through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Undetected status is an ongoing process tied to those releases.",
 							],
 						},
@@ -13777,7 +13777,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Wallhack ESP vs raw aim tools",
 							paragraphs: [
 								"Deadside CheatsはDeadside向けWindows PC用ESP wallhack、radar hack、Deadside Aimbotのundetectedパッケージです。プレイヤー、死体、距離向けwallhack ESP",
-								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
+								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 								"For the broader ESP keyword page see <a href=\"/deadside-esp/\">ESP・Wallhackガイド</a>; for combat assist see <a href=\"/deadside-aimbot/\">Aimbot・Soft aim</a>.",
 							],
 						},
@@ -13815,7 +13815,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "表示内容",
 							paragraphs: [
 								"ソロファーマー・レイダー向け調整可能範囲の近距離敵表示。",
-								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
+								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 							],
 							list: [
 								"側面認識",
@@ -13827,7 +13827,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESPと併用",
 							paragraphs: [
 								"まだ見えない脅威はradar、押し込み時はESP。",
-								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
+								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">ESP・Wallhackガイド</a>",
@@ -13974,7 +13974,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "モジュールガイド",
 							paragraphs: [
 								"購入前に詳細が必要なら各ツールに専用ページがあります。",
-								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
+								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">ESP・Wallhackガイド</a>",
@@ -13987,7 +13987,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Undetectedステータスとパッチ",
 							paragraphs: [
 								"DeadsideはBattlEyeを使用。チートは永久にundetectedではありません — パッチ後のメンテナンスが重要です。プレイ前にDeadsideまたはBattlEye更新後はステータスページを確認してください。",
-								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
+								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 							],
 							list: [
 								"<a href=\"/updates/\">Undetectedチートガイド</a>",
@@ -14000,7 +14000,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "始め方",
 							paragraphs: [
 								"ストアで月額（$35）またはlifetime（$150）を選択 — 機能は同じ。チェックアウト後メールでライセンス。セットアップガイドに従い、大きなパッチ後はステータスを確認。",
-								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
+								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 							],
 							list: [
 								"<a href=\"/pricing/\">ストア</a>",
@@ -14064,7 +14064,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What a Deadside mod menu controls",
 							paragraphs: [
 								"Deadside CheatsはDeadside向けWindows PC用ESP wallhack、radar hack、Deadside Aimbotのundetectedパッケージです。クライアント内ESPとsoft aimトグル",
-								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
+								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 								"Control deep-dives: <a href=\"/deadside-esp/\">ESP・Wallhackガイド</a>, <a href=\"/deadside-aimbot/\">Aimbot・Soft aim</a>, <a href=\"/deadside-radar-hack/\">2Dレーダーオーバーレイ</a>.",
 							],
 						},
@@ -14102,7 +14102,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What Deadside soft aim means",
 							paragraphs: [
 								"Deadside CheatsはDeadside向けWindows PC用ESP wallhack、radar hack、Deadside Aimbotのundetectedパッケージです。Windows PC向けスムーズなsoft aim設定",
-								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
+								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 								"Full Aimbot documentation: <a href=\"/deadside-aimbot/\">Aimbot・Soft aim</a>. Alternate wording: <a href=\"/deadside-aimbot/\">Aimbot・Soft aim</a>.",
 							],
 						},
@@ -14140,7 +14140,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What makes deadside cheats in 2026",
 							paragraphs: [
 								"Deadside CheatsはDeadside向けWindows PC用ESP wallhack、radar hack、Deadside Aimbotのundetectedパッケージです。deadside cheats購入前に比較すべき点",
-								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
+								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 								"Verify the live game is healthy via <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside on Steam</a>, then confirm our <a href=\"/updates/\">Undetectedチートガイド</a> note before you judge any package “best.”",
 							],
 						},
@@ -14156,7 +14156,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Buying deadside cheats safely",
 							paragraphs: [
 								"Deadside CheatsはDeadside向けWindows PC用ESP wallhack、radar hack、Deadside Aimbotのundetectedパッケージです。deadside cheats購入前に比較すべき点",
-								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
+								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 								"BattlEyeパッチ後はUpdatesページを確認。永久undetectedは保証されません。",
 							],
 						},
@@ -14186,7 +14186,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Deadside Aimbot hack vs visibility tools",
 							paragraphs: [
 								"Deadside CheatsはDeadside向けWindows PC用ESP wallhack、radar hack、Deadside Aimbotのundetectedパッケージです。Deadside向けundetected Aimbot hack assist",
-								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
+								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 								"Prefer softer tracking language? See <a href=\"/deadside-aimbot/\">Aimbot・Soft aim</a>. Full settings: <a href=\"/deadside-aimbot/\">Aimbot・Soft aim</a>.",
 							],
 						},
@@ -14194,7 +14194,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot hack controls and hotkeys",
 							paragraphs: [
 								"Deadside CheatsはDeadside向けWindows PC用ESP wallhack、radar hack、Deadside Aimbotのundetectedパッケージです。Deadside向けundetected Aimbot hack assist",
-								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
+								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 								"Balance patches from <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> can change ideal FOV — retune after major weapon balance updates.",
 							],
 						},
@@ -14224,7 +14224,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What a Deadside ESP hack shows",
 							paragraphs: [
 								"Deadside CheatsはDeadside向けWindows PC用ESP wallhack、radar hack、Deadside Aimbotのundetectedパッケージです。ESP hackボックス、死体pin、距離",
-								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
+								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 								"Canonical visibility guide: <a href=\"/deadside-esp/\">ESP・Wallhackガイド</a>. Wallhack wording: <a href=\"/deadside-esp/\">ESP・Wallhackガイド</a>.",
 							],
 						},
@@ -14232,7 +14232,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP hack categories for matches",
 							paragraphs: [
 								"Deadside CheatsはDeadside向けWindows PC用ESP wallhack、radar hack、Deadside Aimbotのundetectedパッケージです。ESP hackボックス、死体pin、距離",
-								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
+								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 								"POI and loot changes publish through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> — keep categories toggled to what the current map rewards.",
 							],
 						},
@@ -14262,7 +14262,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What Deadside unlock-all usually means",
 							paragraphs: [
 								"Deadside CheatsはDeadside向けWindows PC用ESP wallhack、radar hack、Deadside Aimbotのundetectedパッケージです。unlock-all検索 vs 本物のESPとAimbotツール",
-								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
+								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 								"Cosmetics and patch cycle progression items are sold through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Be wary of unlock-all downloads that promise free skins — they are often scams.",
 							],
 						},
@@ -14300,8 +14300,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "収集する情報",
 							paragraphs: [
-								"Deadside CheatsはDeadside向けWindows PC用ESP wallhack、radar hack、Deadside Aimbotのundetectedパッケージです。連絡メール、Zadeyo注文参照、基本的なサイトセキュリティデータ。",
-								"支払い情報はZadeyo checkoutで処理され、deadsidecheats.comには保存されません。",
+								"Deadside CheatsはDeadside向けWindows PC用ESP wallhack、radar hack、Deadside Aimbotのundetectedパッケージです。連絡メール、secure checkout注文参照、基本的なサイトセキュリティデータ。",
+								"支払い情報は で処理され、deadsidecheats.comには保存されません。",
 							],
 						},
 						{
@@ -14335,8 +14335,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "デジタル配信",
 							paragraphs: [
-								"Deadside CheatsはDeadside向けWindows PC用ESP wallhack、radar hack、Deadside Aimbotのundetectedパッケージです。連絡メール、Zadeyo注文参照、基本的なサイトセキュリティデータ。",
-								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
+								"Deadside CheatsはDeadside向けWindows PC用ESP wallhack、radar hack、Deadside Aimbotのundetectedパッケージです。連絡メール、secure checkout注文参照、基本的なサイトセキュリティデータ。",
+								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 							],
 						},
 						{
@@ -14370,8 +14370,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "規約への同意",
 							paragraphs: [
-								"Deadside CheatsはDeadside向けWindows PC用ESP wallhack、radar hack、Deadside Aimbotのundetectedパッケージです。連絡メール、Zadeyo注文参照、基本的なサイトセキュリティデータ。",
-								"Zadeyo checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
+								"Deadside CheatsはDeadside向けWindows PC用ESP wallhack、radar hack、Deadside Aimbotのundetectedパッケージです。連絡メール、secure checkout注文参照、基本的なサイトセキュリティデータ。",
+								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 							],
 						},
 						{
@@ -14449,7 +14449,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				footer: {
 					explore: "탐색",
 					help: "도움말 및 법적",
-					tagline: "Deadside용 undetected ESP, wallhack, radar, Aimbot — Zadeyo 결제.",
+					tagline: "Deadside용 undetected ESP, wallhack, radar, Aimbot — secure checkout 결제.",
 				},
 				images: {
 					hero: "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
@@ -14481,7 +14481,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "2026년 Deadside Cheats를 선택하는 이유",
 							paragraphs: [
 								"Deadside Cheats는 Deadside Windows PC용 ESP wallhack, radar hack, Deadside Aimbot undetected 패키지입니다. BR 및 PvP raid sessions에서 적 분대 읽기에 이상적.",
-								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
+								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 							],
 						},
 						{
@@ -14508,7 +14508,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP 표시 내용",
 							paragraphs: [
 								"플레이어, 과학자, loot용 박스, 거리, 필터.",
-								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
+								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 							],
 							list: [
 								"플레이어 ESP",
@@ -14520,7 +14520,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "사용 시기",
 							paragraphs: [
 								"화면을 가리지 않고 POI와 extract routes 구역을 깔끔하게.",
-								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
+								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 							],
 							list: [
 								"불투명도 조절",
@@ -14532,7 +14532,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "다음 단계",
 							paragraphs: [
 								"ESP는 aimbot과 radar가 하나의 요금제에 포함됩니다.",
-								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
+								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 							],
 							list: [
 								"<a href=\"/\">전체 제품</a>",
@@ -14558,7 +14558,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "컨트롤",
 							paragraphs: [
 								"레이드 전 FOV, 부드러움, 본 우선순위를 설정하세요.",
-								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
+								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 							],
 							list: [
 								"soft aim 강도",
@@ -14570,7 +14570,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "플레이 스타일",
 							paragraphs: [
 								"긴 레이드는 미세한 설정 유지. 더 많은 위험을 감수할 때만 강도를 올리세요.",
-								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
+								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 							],
 							list: [
 								"자연스러운 soft aim",
@@ -14582,7 +14582,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "다음 단계",
 							paragraphs: [
 								"Aimbot은 ESP와 radar가 하나의 라이선스에 포함됩니다.",
-								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
+								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 							],
 							list: [
 								"<a href=\"/\">전체 제품</a>",
@@ -14608,7 +14608,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP & wallhack",
 							paragraphs: [
 								"Deadside Cheats는 Deadside Windows PC용 ESP wallhack, radar hack, Deadside Aimbot undetected 패키지입니다. ESP, soft aim, radar 컨트롤",
-								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
+								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 							],
 							list: [
 								"Player boxes & distance",
@@ -14620,7 +14620,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot & soft aim",
 							paragraphs: [
 								"Deadside Cheats는 Deadside Windows PC용 ESP wallhack, radar hack, Deadside Aimbot undetected 패키지입니다. ESP, soft aim, radar 컨트롤",
-								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
+								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 							],
 							list: [
 								"Smooth aim strength",
@@ -14632,7 +14632,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Radar",
 							paragraphs: [
 								"Deadside Cheats는 Deadside Windows PC용 ESP wallhack, radar hack, Deadside Aimbot undetected 패키지입니다. ESP, soft aim, radar 컨트롤",
-								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
+								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 							],
 							list: [
 								"Nearby enemy cues",
@@ -14644,7 +14644,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Explore related topics",
 							paragraphs: [
 								"Deadside Cheats는 Deadside Windows PC용 ESP wallhack, radar hack, Deadside Aimbot undetected 패키지입니다. ESP, soft aim, radar 컨트롤",
-								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
+								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">ESP & wallhack guide</a>",
@@ -14661,7 +14661,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Updates & support",
 							paragraphs: [
 								"Deadside Cheats는 Deadside Windows PC용 ESP wallhack, radar hack, Deadside Aimbot undetected 패키지입니다. ESP, soft aim, radar 컨트롤",
-								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
+								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 							],
 							list: [
 								"Status on the Status page",
@@ -14711,7 +14711,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "구매 전",
 							paragraphs: [
 								"필요하면 환불 정책을 읽으세요. 주문 ID와 함께 지원팀에 문의하세요.",
-								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
+								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 							],
 							list: [
 								"<a href=\"/refund-policy/\">환불 정책</a>",
@@ -14737,7 +14737,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "설치 전",
 							paragraphs: [
 								"먼저 요금제를 구매하세요. 이메일로 라이선스를 받습니다.",
-								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
+								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 							],
 							list: [
 								"Windows 10 / 11 PC",
@@ -14749,7 +14749,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "설치 단계",
 							paragraphs: [
 								"loader를 관리자로 실행, 라이선스 붙여넣기, Deadside 실행.",
-								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
+								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 							],
 							list: [
 								"배송 이메일에서 loader 다운로드",
@@ -14761,7 +14761,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "문제 발생 시",
 							paragraphs: [
 								"패치 후 상태 확인. 주문 ID와 함께 support@deadsidecheats.com.",
-								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
+								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 							],
 							list: [
 								"<a href=\"/updates/\">Undetected 치트 가이드</a>",
@@ -14799,7 +14799,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "패치 후",
 							paragraphs: [
 								"리빌드 공지를 기다린 후 실행하세요. 대규모 업데이트 후 구버전으로 플레이하지 마세요.",
-								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
+								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 							],
 							list: [
 								"최신 상태 공지 확인",
@@ -14811,7 +14811,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "중요",
 							paragraphs: [
 								"어떤 치트도 영원히 100% 안전하지 않습니다. 업데이트하고 안전한 설정을 사용하세요.",
-								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
+								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 							],
 							list: [
 								"상태 확인 후 플레이",
@@ -14836,7 +14836,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "구매 및 배송",
 							paragraphs: [
 								"결제 후 이메일로 디지털 라이선스를 받습니다.",
-								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
+								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 							],
 							list: [
 								"결제 후 즉시 배송",
@@ -14848,7 +14848,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "설치 및 업데이트",
 							paragraphs: [
 								"구매 후 설치를 따르고 Deadside 또는 BattlEye 대규모 패치 후 상태를 확인하세요.",
-								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
+								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 							],
 							list: [
 								"<a href=\"/setup/\">설치 가이드</a>",
@@ -14859,7 +14859,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "환불",
 							paragraphs: [
 								"자세한 내용이 필요하면 구매 전 환불 정책을 읽으세요.",
-								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
+								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 							],
 							list: [
 								"<a href=\"/refund-policy/\">환불 정책</a>",
@@ -14884,7 +14884,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "문의 방법",
 							paragraphs: [
 								"support@deadsidecheats.com로 이메일. 주문 ID와 문제 요약 포함.",
-								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
+								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 							],
 							list: [
 								"영수증의 주문 ID",
@@ -14896,7 +14896,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "빠른 답변",
 							paragraphs: [
 								"문의 전 FAQ와 상태 확인. 많은 설치 질문이 이미 다뤄집니다.",
-								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
+								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 							],
 							list: [
 								"<a href=\"/faq/\">FAQ</a>",
@@ -14922,7 +14922,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Deadside Cheats에서 undetected의 의미",
 							paragraphs: [
 								"Deadside Cheats는 Deadside Windows PC용 ESP wallhack, radar hack, Deadside Aimbot undetected 패키지입니다. BattlEye 패치 후 undetected 유지보수",
-								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
+								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 								"Anti-cheat technology is documented by <a href=\"https://www.battleye.com/\" target=\"_blank\" rel=\"noopener noreferrer\">BattlEye</a>; Deadside client updates ship through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Undetected status is an ongoing process tied to those releases.",
 							],
 						},
@@ -14968,7 +14968,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Wallhack ESP vs raw aim tools",
 							paragraphs: [
 								"Deadside Cheats는 Deadside Windows PC용 ESP wallhack, radar hack, Deadside Aimbot undetected 패키지입니다. 플레이어, 시체, 거리용 wallhack ESP",
-								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
+								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 								"For the broader ESP keyword page see <a href=\"/deadside-esp/\">ESP 및 wallhack 가이드</a>; for combat assist see <a href=\"/deadside-aimbot/\">Aimbot 및 soft aim</a>.",
 							],
 						},
@@ -15006,7 +15006,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "표시 내용",
 							paragraphs: [
 								"솔로 파밍·레이드용 조절 가능 범위의 근처 적 신호.",
-								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
+								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 							],
 							list: [
 								"측면 인식",
@@ -15018,7 +15018,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP와 함께",
 							paragraphs: [
 								"아직 보이지 않는 위협은 radar, 밀고 들어갈 때 ESP.",
-								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
+								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">ESP 및 wallhack 가이드</a>",
@@ -15165,7 +15165,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "모듈 가이드",
 							paragraphs: [
 								"결제 전 자세한 내용이 필요하면 각 도구별 상세 페이지가 있습니다.",
-								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
+								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">ESP 및 wallhack 가이드</a>",
@@ -15178,7 +15178,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Undetected 상태 및 패치",
 							paragraphs: [
 								"Deadside는 BattlEye를 사용합니다. 치트는 영원히 undetected가 아닙니다 — 패치 후 유지보수가 중요합니다. 접속 전 Deadside 또는 BattlEye 업데이트마다 상태 페이지를 확인하세요.",
-								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
+								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 							],
 							list: [
 								"<a href=\"/updates/\">Undetected 치트 가이드</a>",
@@ -15191,7 +15191,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "시작 방법",
 							paragraphs: [
 								"스토어에서 월간($35) 또는 lifetime($150) 선택 — 기능 동일. 결제 후 이메일로 라이선스. 설치 가이드를 따르고 주요 패치 후 상태 확인.",
-								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
+								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 							],
 							list: [
 								"<a href=\"/pricing/\">스토어</a>",
@@ -15255,7 +15255,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What a Deadside mod menu controls",
 							paragraphs: [
 								"Deadside Cheats는 Deadside Windows PC용 ESP wallhack, radar hack, Deadside Aimbot undetected 패키지입니다. 클라이언트 내 ESP 및 soft aim 토글",
-								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
+								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 								"Control deep-dives: <a href=\"/deadside-esp/\">ESP 및 wallhack 가이드</a>, <a href=\"/deadside-aimbot/\">Aimbot 및 soft aim</a>, <a href=\"/deadside-radar-hack/\">2D 레이더 오버레이</a>.",
 							],
 						},
@@ -15293,7 +15293,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What Deadside soft aim means",
 							paragraphs: [
 								"Deadside Cheats는 Deadside Windows PC용 ESP wallhack, radar hack, Deadside Aimbot undetected 패키지입니다. Windows PC용 부드러운 soft aim 설정",
-								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
+								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 								"Full Aimbot documentation: <a href=\"/deadside-aimbot/\">Aimbot 및 soft aim</a>. Alternate wording: <a href=\"/deadside-aimbot/\">Aimbot 및 soft aim</a>.",
 							],
 						},
@@ -15331,7 +15331,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What makes deadside cheats in 2026",
 							paragraphs: [
 								"Deadside Cheats는 Deadside Windows PC용 ESP wallhack, radar hack, Deadside Aimbot undetected 패키지입니다. deadside cheats 구매 전 비교할 항목",
-								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
+								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 								"Verify the live game is healthy via <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside on Steam</a>, then confirm our <a href=\"/updates/\">Undetected 치트 가이드</a> note before you judge any package “best.”",
 							],
 						},
@@ -15347,7 +15347,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Buying deadside cheats safely",
 							paragraphs: [
 								"Deadside Cheats는 Deadside Windows PC용 ESP wallhack, radar hack, Deadside Aimbot undetected 패키지입니다. deadside cheats 구매 전 비교할 항목",
-								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
+								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 								"BattlEye 패치 후 Updates 페이지 확인. 영구 undetected 보장 없음.",
 							],
 						},
@@ -15377,7 +15377,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Deadside Aimbot hack vs visibility tools",
 							paragraphs: [
 								"Deadside Cheats는 Deadside Windows PC용 ESP wallhack, radar hack, Deadside Aimbot undetected 패키지입니다. Deadside용 undetected Aimbot hack assist",
-								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
+								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 								"Prefer softer tracking language? See <a href=\"/deadside-aimbot/\">Aimbot 및 soft aim</a>. Full settings: <a href=\"/deadside-aimbot/\">Aimbot 및 soft aim</a>.",
 							],
 						},
@@ -15385,7 +15385,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot hack controls and hotkeys",
 							paragraphs: [
 								"Deadside Cheats는 Deadside Windows PC용 ESP wallhack, radar hack, Deadside Aimbot undetected 패키지입니다. Deadside용 undetected Aimbot hack assist",
-								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
+								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 								"Balance patches from <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> can change ideal FOV — retune after major weapon balance updates.",
 							],
 						},
@@ -15415,7 +15415,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What a Deadside ESP hack shows",
 							paragraphs: [
 								"Deadside Cheats는 Deadside Windows PC용 ESP wallhack, radar hack, Deadside Aimbot undetected 패키지입니다. ESP hack 박스, 시체 pin, 거리",
-								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
+								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 								"Canonical visibility guide: <a href=\"/deadside-esp/\">ESP 및 wallhack 가이드</a>. Wallhack wording: <a href=\"/deadside-esp/\">ESP 및 wallhack 가이드</a>.",
 							],
 						},
@@ -15423,7 +15423,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP hack categories for matches",
 							paragraphs: [
 								"Deadside Cheats는 Deadside Windows PC용 ESP wallhack, radar hack, Deadside Aimbot undetected 패키지입니다. ESP hack 박스, 시체 pin, 거리",
-								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
+								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 								"POI and loot changes publish through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> — keep categories toggled to what the current map rewards.",
 							],
 						},
@@ -15453,7 +15453,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What Deadside unlock-all usually means",
 							paragraphs: [
 								"Deadside Cheats는 Deadside Windows PC용 ESP wallhack, radar hack, Deadside Aimbot undetected 패키지입니다. unlock-all 검색 vs 실제 ESP 및 Aimbot 도구",
-								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
+								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 								"Cosmetics and patch cycle progression items are sold through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Be wary of unlock-all downloads that promise free skins — they are often scams.",
 							],
 						},
@@ -15491,8 +15491,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "수집하는 정보",
 							paragraphs: [
-								"Deadside Cheats는 Deadside Windows PC용 ESP wallhack, radar hack, Deadside Aimbot undetected 패키지입니다. 연락 이메일, Zadeyo 주문 참조 및 기본 사이트 보안 데이터.",
-								"결제 정보는 Zadeyo checkout에서 처리되며 deadsidecheats.com에 저장되지 않습니다.",
+								"Deadside Cheats는 Deadside Windows PC용 ESP wallhack, radar hack, Deadside Aimbot undetected 패키지입니다. 연락 이메일, secure checkout 주문 참조 및 기본 사이트 보안 데이터.",
+								"결제 정보는 에서 처리되며 deadsidecheats.com에 저장되지 않습니다.",
 							],
 						},
 						{
@@ -15526,8 +15526,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "디지털 배송",
 							paragraphs: [
-								"Deadside Cheats는 Deadside Windows PC용 ESP wallhack, radar hack, Deadside Aimbot undetected 패키지입니다. 연락 이메일, Zadeyo 주문 참조 및 기본 사이트 보안 데이터.",
-								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
+								"Deadside Cheats는 Deadside Windows PC용 ESP wallhack, radar hack, Deadside Aimbot undetected 패키지입니다. 연락 이메일, secure checkout 주문 참조 및 기본 사이트 보안 데이터.",
+								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 							],
 						},
 						{
@@ -15561,8 +15561,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "약관 동의",
 							paragraphs: [
-								"Deadside Cheats는 Deadside Windows PC용 ESP wallhack, radar hack, Deadside Aimbot undetected 패키지입니다. 연락 이메일, Zadeyo 주문 참조 및 기본 사이트 보안 데이터.",
-								"Zadeyo checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
+								"Deadside Cheats는 Deadside Windows PC용 ESP wallhack, radar hack, Deadside Aimbot undetected 패키지입니다. 연락 이메일, secure checkout 주문 참조 및 기본 사이트 보안 데이터.",
+								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 							],
 						},
 						{
@@ -15640,7 +15640,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				footer: {
 					explore: "探索",
 					help: "帮助与法律",
-					tagline: "Deadside undetected ESP、wallhack、radar与Aimbot — 通过Zadeyo结账。",
+					tagline: "Deadside undetected ESP、wallhack、radar与Aimbot — 通过secure checkout结账。",
 				},
 				images: {
 					hero: "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
@@ -15672,7 +15672,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "2026年选择Deadside Cheats的原因",
 							paragraphs: [
 								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、radar hack和Deadside Aimbotundetected套餐。适合在BR和PvP raid sessions中读取敌方小队。",
-								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 							],
 						},
 						{
@@ -15699,7 +15699,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP显示什么",
 							paragraphs: [
 								"玩家、科学家和物资的框体、距离和过滤器。",
-								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 							],
 							list: [
 								"玩家ESP",
@@ -15711,7 +15711,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "何时使用",
 							paragraphs: [
 								"清晰显示 POI 和 loot 路线，不遮挡屏幕。",
-								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 							],
 							list: [
 								"调节透明度",
@@ -15723,7 +15723,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "下一步",
 							paragraphs: [
 								"ESP 与 aimbot、radar 包含在同一方案中。",
-								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 							],
 							list: [
 								"<a href=\"/\">完整产品</a>",
@@ -15749,7 +15749,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "控制",
 							paragraphs: [
 								"raid 前设置 FOV、平滑度和骨骼优先级。",
-								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 							],
 							list: [
 								"soft aim 强度",
@@ -15761,7 +15761,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "游戏风格",
 							paragraphs: [
 								"长时间 match 保持低调设置。只在接受更高风险时提高强度。",
-								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 							],
 							list: [
 								"低调 soft aim",
@@ -15773,7 +15773,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "下一步",
 							paragraphs: [
 								"Aimbot 与 ESP、radar 包含在同一许可证中。",
-								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 							],
 							list: [
 								"<a href=\"/\">完整产品</a>",
@@ -15799,7 +15799,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP & wallhack",
 							paragraphs: [
 								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、radar hack和Deadside Aimbotundetected套餐。ESP、soft aim、radar控制",
-								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 							],
 							list: [
 								"Player boxes & distance",
@@ -15811,7 +15811,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot & soft aim",
 							paragraphs: [
 								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、radar hack和Deadside Aimbotundetected套餐。ESP、soft aim、radar控制",
-								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 							],
 							list: [
 								"Smooth aim strength",
@@ -15823,7 +15823,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Radar",
 							paragraphs: [
 								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、radar hack和Deadside Aimbotundetected套餐。ESP、soft aim、radar控制",
-								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 							],
 							list: [
 								"Nearby enemy cues",
@@ -15835,7 +15835,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Explore related topics",
 							paragraphs: [
 								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、radar hack和Deadside Aimbotundetected套餐。ESP、soft aim、radar控制",
-								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">ESP & wallhack guide</a>",
@@ -15852,7 +15852,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Updates & support",
 							paragraphs: [
 								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、radar hack和Deadside Aimbotundetected套餐。ESP、soft aim、radar控制",
-								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 							],
 							list: [
 								"Status on the Status page",
@@ -15902,7 +15902,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "购买前",
 							paragraphs: [
 								"如需了解请阅读退款政策。携带订单 ID 联系支持。",
-								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 							],
 							list: [
 								"<a href=\"/refund-policy/\">退款政策</a>",
@@ -15928,7 +15928,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "安装前",
 							paragraphs: [
 								"先购买方案。许可证通过邮件发送。",
-								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 							],
 							list: [
 								"Windows 10 / 11 PC",
@@ -15940,7 +15940,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "安装步骤",
 							paragraphs: [
 								"以管理员身份运行 loader，粘贴许可证，启动 Deadside。",
-								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 							],
 							list: [
 								"从交付邮件下载 loader",
@@ -15952,7 +15952,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "如果出现问题",
 							paragraphs: [
 								"补丁后查看状态。携带订单 ID 邮件 support@deadsidecheats.com。",
-								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 							],
 							list: [
 								"<a href=\"/updates/\">Undetected作弊指南</a>",
@@ -15990,7 +15990,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "补丁后",
 							paragraphs: [
 								"等待重建说明后再启动。大更新后不要用旧版本游玩。",
-								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 							],
 							list: [
 								"阅读最新状态说明",
@@ -16002,7 +16002,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "重要",
 							paragraphs: [
 								"没有作弊能永远100%安全。保持更新并使用安全设置。",
-								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 							],
 							list: [
 								"先查状态再玩",
@@ -16027,7 +16027,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "购买和交付",
 							paragraphs: [
 								"付款后通过邮件收到数字许可证。",
-								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 							],
 							list: [
 								"结账后即时交付",
@@ -16039,7 +16039,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "安装和更新",
 							paragraphs: [
 								"购买后按安装指南操作。Deadside 或 BattlEye 重大补丁后查看状态。",
-								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 							],
 							list: [
 								"<a href=\"/setup/\">安装指南</a>",
@@ -16050,7 +16050,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "退款",
 							paragraphs: [
 								"如需详情，购买前请阅读退款政策。",
-								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 							],
 							list: [
 								"<a href=\"/refund-policy/\">退款政策</a>",
@@ -16075,7 +16075,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "如何联系我们",
 							paragraphs: [
 								"邮件 support@deadsidecheats.com，附上订单 ID 和简要问题说明。",
-								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 							],
 							list: [
 								"收据中的订单 ID",
@@ -16087,7 +16087,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "更快获得答案",
 							paragraphs: [
 								"写信前先查 FAQ 和状态。许多安装问题已有答案。",
-								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 							],
 							list: [
 								"<a href=\"/faq/\">常见问题</a>",
@@ -16113,7 +16113,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Deadside Cheats中undetected的含义",
 							paragraphs: [
 								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、radar hack和Deadside Aimbotundetected套餐。BattlEye补丁后的undetected维护",
-								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 								"Anti-cheat technology is documented by <a href=\"https://www.battleye.com/\" target=\"_blank\" rel=\"noopener noreferrer\">BattlEye</a>; Deadside client updates ship through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Undetected status is an ongoing process tied to those releases.",
 							],
 						},
@@ -16159,7 +16159,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Wallhack ESP vs raw aim tools",
 							paragraphs: [
 								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、radar hack和Deadside Aimbotundetected套餐。玩家、尸体和距离的wallhack ESP",
-								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 								"For the broader ESP keyword page see <a href=\"/deadside-esp/\">ESP和透视指南</a>; for combat assist see <a href=\"/deadside-aimbot/\">自瞄和软瞄准</a>.",
 							],
 						},
@@ -16197,7 +16197,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "显示内容",
 							paragraphs: [
 								"为独狼玩家和 matcher 提供可调范围的附近敌人提示。",
-								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 							],
 							list: [
 								"侧翼感知",
@@ -16209,7 +16209,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "配合ESP",
 							paragraphs: [
 								"用 radar 发现尚未看到的威胁，推进时用 ESP。",
-								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">ESP和透视指南</a>",
@@ -16356,7 +16356,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "模块指南",
 							paragraphs: [
 								"结账前如需详细了解，每个工具都有专题页。",
-								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">ESP和透视指南</a>",
@@ -16369,7 +16369,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Undetected状态和补丁",
 							paragraphs: [
 								"Deadside 使用 BattlEye。没有作弊能永远 undetected — 补丁后维护才是关键。每次 Deadside 或 BattlEye 更新后、进游戏前先查状态页。",
-								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 							],
 							list: [
 								"<a href=\"/updates/\">Undetected作弊指南</a>",
@@ -16382,7 +16382,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "如何开始",
 							paragraphs: [
 								"在商店选择月付（$35）或 lifetime（$150）— 功能相同。结账后邮件收到许可证。按安装指南操作，重大补丁后查看状态。",
-								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 							],
 							list: [
 								"<a href=\"/pricing/\">商店</a>",
@@ -16446,7 +16446,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What a Deadside mod menu controls",
 							paragraphs: [
 								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、radar hack和Deadside Aimbotundetected套餐。客户端内ESP和soft aim开关",
-								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 								"Control deep-dives: <a href=\"/deadside-esp/\">ESP和透视指南</a>, <a href=\"/deadside-aimbot/\">自瞄和软瞄准</a>, <a href=\"/deadside-radar-hack/\">2D雷达覆盖</a>.",
 							],
 						},
@@ -16484,7 +16484,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What Deadside soft aim means",
 							paragraphs: [
 								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、radar hack和Deadside Aimbotundetected套餐。Windows PC的流畅soft aim设置",
-								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 								"Full Aimbot documentation: <a href=\"/deadside-aimbot/\">自瞄和软瞄准</a>. Alternate wording: <a href=\"/deadside-aimbot/\">自瞄和软瞄准</a>.",
 							],
 						},
@@ -16522,7 +16522,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What makes deadside cheats in 2026",
 							paragraphs: [
 								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、radar hack和Deadside Aimbotundetected套餐。购买deadside cheats前应比较的内容",
-								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 								"Verify the live game is healthy via <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside on Steam</a>, then confirm our <a href=\"/updates/\">Undetected作弊指南</a> note before you judge any package “best.”",
 							],
 						},
@@ -16538,7 +16538,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Buying deadside cheats safely",
 							paragraphs: [
 								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、radar hack和Deadside Aimbotundetected套餐。购买deadside cheats前应比较的内容",
-								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 								"BattlEye补丁后请查看Updates页面。无任何作弊保证永久undetected。",
 							],
 						},
@@ -16568,7 +16568,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Deadside Aimbot hack vs visibility tools",
 							paragraphs: [
 								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、radar hack和Deadside Aimbotundetected套餐。Deadside的undetected Aimbot hack assist",
-								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 								"Prefer softer tracking language? See <a href=\"/deadside-aimbot/\">自瞄和软瞄准</a>. Full settings: <a href=\"/deadside-aimbot/\">自瞄和软瞄准</a>.",
 							],
 						},
@@ -16576,7 +16576,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot hack controls and hotkeys",
 							paragraphs: [
 								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、radar hack和Deadside Aimbotundetected套餐。Deadside的undetected Aimbot hack assist",
-								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 								"Balance patches from <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> can change ideal FOV — retune after major weapon balance updates.",
 							],
 						},
@@ -16606,7 +16606,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What a Deadside ESP hack shows",
 							paragraphs: [
 								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、radar hack和Deadside Aimbotundetected套餐。ESP hack方框、尸体pin和距离",
-								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 								"Canonical visibility guide: <a href=\"/deadside-esp/\">ESP和透视指南</a>. Wallhack wording: <a href=\"/deadside-esp/\">ESP和透视指南</a>.",
 							],
 						},
@@ -16614,7 +16614,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP hack categories for matches",
 							paragraphs: [
 								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、radar hack和Deadside Aimbotundetected套餐。ESP hack方框、尸体pin和距离",
-								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 								"POI and loot changes publish through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> — keep categories toggled to what the current map rewards.",
 							],
 						},
@@ -16644,7 +16644,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What Deadside unlock-all usually means",
 							paragraphs: [
 								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、radar hack和Deadside Aimbotundetected套餐。unlock-all搜索 vs 真正的ESP和Aimbot工具",
-								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 								"Cosmetics and patch cycle progression items are sold through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Be wary of unlock-all downloads that promise free skins — they are often scams.",
 							],
 						},
@@ -16682,8 +16682,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "我们收集的信息",
 							paragraphs: [
-								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、radar hack和Deadside Aimbotundetected套餐。联系邮箱、Zadeyo 订单参考及基本网站安全数据。",
-								"支付详情由 Zadeyo checkout 处理 — 不存储在 deadsidecheats.com。",
+								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、radar hack和Deadside Aimbotundetected套餐。联系邮箱、secure checkout 订单参考及基本网站安全数据。",
+								"支付详情由 处理 — 不存储在 deadsidecheats.com。",
 							],
 						},
 						{
@@ -16717,8 +16717,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "数字交付",
 							paragraphs: [
-								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、radar hack和Deadside Aimbotundetected套餐。联系邮箱、Zadeyo 订单参考及基本网站安全数据。",
-								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、radar hack和Deadside Aimbotundetected套餐。联系邮箱、secure checkout 订单参考及基本网站安全数据。",
+								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 							],
 						},
 						{
@@ -16752,8 +16752,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "接受条款",
 							paragraphs: [
-								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、radar hack和Deadside Aimbotundetected套餐。联系邮箱、Zadeyo 订单参考及基本网站安全数据。",
-								"通过Zadeyo checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、radar hack和Deadside Aimbotundetected套餐。联系邮箱、secure checkout 订单参考及基本网站安全数据。",
+								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 							],
 						},
 						{
@@ -16831,7 +16831,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				footer: {
 					explore: "एक्सप्लोर",
 					help: "सहायता और कानूनी",
-					tagline: "Deadside के लिए undetected ESP, wallhack, radar और Aimbot — Zadeyo checkout।",
+					tagline: "Deadside के लिए undetected ESP, wallhack, radar और Aimbot — ।",
 				},
 				images: {
 					hero: "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
@@ -16863,7 +16863,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "2026 में Deadside Cheats क्यों",
 							paragraphs: [
 								"Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, radar hack और Deadside Aimbot undetected पैकेज देता है। BR और PvP raid sessions में दुश्मन squad पढ़ने के लिए आदर्श.",
-								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
+								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 							],
 						},
 						{
@@ -16890,7 +16890,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP क्या दिखाता है",
 							paragraphs: [
 								"Players, contestants और loot के लिए boxes, distance और filters।",
-								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
+								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 							],
 							list: [
 								"Player ESP",
@@ -16902,7 +16902,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "कब उपयोग करें",
 							paragraphs: [
 								"स्क्रीन भरे बिना POI zones और extract routes साफ रखें।",
-								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
+								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 							],
 							list: [
 								"Opacity ट्यून करें",
@@ -16914,7 +16914,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "अगले कदम",
 							paragraphs: [
 								"ESP aimbot और radar के साथ एक plan में शामिल।",
-								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
+								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 							],
 							list: [
 								"<a href=\"/\">पूरा उत्पाद</a>",
@@ -16940,7 +16940,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "नियंत्रण",
 							paragraphs: [
 								"Raid से पहले FOV, smoothness और bone priority सेट करें।",
-								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
+								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 							],
 							list: [
 								"Soft aim strength",
@@ -16952,7 +16952,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "खेल शैलियाँ",
 							paragraphs: [
 								"लंबे matches के लिए सेटिंग्स हल्की रखें। ज़्यादा जोखिम स्वीकार करें तभी strength बढ़ाएँ।",
-								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
+								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 							],
 							list: [
 								"Legit soft aim",
@@ -16964,7 +16964,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "अगले कदम",
 							paragraphs: [
 								"Aimbot ESP और radar के साथ एक लाइसेंस में शामिल।",
-								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
+								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 							],
 							list: [
 								"<a href=\"/\">पूरा उत्पाद</a>",
@@ -16990,7 +16990,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP & wallhack",
 							paragraphs: [
 								"Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, radar hack और Deadside Aimbot undetected पैकेज देता है। ESP, soft aim, radar controls",
-								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
+								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 							],
 							list: [
 								"Player boxes & distance",
@@ -17002,7 +17002,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot & soft aim",
 							paragraphs: [
 								"Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, radar hack और Deadside Aimbot undetected पैकेज देता है। ESP, soft aim, radar controls",
-								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
+								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 							],
 							list: [
 								"Smooth aim strength",
@@ -17014,7 +17014,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Radar",
 							paragraphs: [
 								"Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, radar hack और Deadside Aimbot undetected पैकेज देता है। ESP, soft aim, radar controls",
-								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
+								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 							],
 							list: [
 								"Nearby enemy cues",
@@ -17026,7 +17026,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Explore related topics",
 							paragraphs: [
 								"Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, radar hack और Deadside Aimbot undetected पैकेज देता है। ESP, soft aim, radar controls",
-								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
+								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">ESP & wallhack guide</a>",
@@ -17043,7 +17043,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Updates & support",
 							paragraphs: [
 								"Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, radar hack और Deadside Aimbot undetected पैकेज देता है। ESP, soft aim, radar controls",
-								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
+								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 							],
 							list: [
 								"Status on the Status page",
@@ -17093,7 +17093,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "खरीदने से पहले",
 							paragraphs: [
 								"ज़रूरत हो तो रिफंड नीति पढ़ें। ऑर्डर ID के साथ सहायता से संपर्क करें।",
-								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
+								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 							],
 							list: [
 								"<a href=\"/refund-policy/\">रिफंड नीति</a>",
@@ -17119,7 +17119,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "इंस्टॉल से पहले",
 							paragraphs: [
 								"पहले plan खरीदें। लाइसेंस ईमेल पर मिलता है।",
-								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
+								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 							],
 							list: [
 								"Windows 10 / 11 PC",
@@ -17131,7 +17131,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "इंस्टॉल चरण",
 							paragraphs: [
 								"Loader admin के रूप में चलाएँ, license paste करें, Deadside launch करें।",
-								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
+								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 							],
 							list: [
 								"Delivery email से loader डाउनलोड",
@@ -17143,7 +17143,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "यदि कुछ विफल हो",
 							paragraphs: [
 								"पैच के बाद Status जांचें। ऑर्डर ID के साथ support@deadsidecheats.com।",
-								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
+								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 							],
 							list: [
 								"<a href=\"/updates/\">Undetected cheats गाइड</a>",
@@ -17181,7 +17181,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "पैच के बाद",
 							paragraphs: [
 								"rebuild नोट का इंतज़ार करें, फिर लॉन्च करें। बड़े अपडेट के बाद पुराने build पर न खेलें।",
-								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
+								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 							],
 							list: [
 								"नवीनतम स्टेटस नोट पढ़ें",
@@ -17193,7 +17193,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "महत्वपूर्ण",
 							paragraphs: [
 								"कोई cheat हमेशा 100% सुरक्षित नहीं है। अपडेट रहें और सुरक्षित सेटिंग्स उपयोग करें।",
-								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
+								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 							],
 							list: [
 								"पहले स्टेटस, फिर खेल",
@@ -17218,7 +17218,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "खरीद और डिलीवरी",
 							paragraphs: [
 								"भुगतान के बाद ईमेल पर digital license मिलता है।",
-								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
+								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 							],
 							list: [
 								"Checkout के बाद instant delivery",
@@ -17230,7 +17230,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "सेटअप और अपडेट",
 							paragraphs: [
 								"खरीद के बाद Setup फॉलो करें। बड़े Deadside या BattlEye पैच के बाद Status जांचें।",
-								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
+								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 							],
 							list: [
 								"<a href=\"/setup/\">सेटअप गाइड</a>",
@@ -17241,7 +17241,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "रिफंड",
 							paragraphs: [
 								"विवरण चाहिए तो खरीद से पहले refund policy पढ़ें।",
-								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
+								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 							],
 							list: [
 								"<a href=\"/refund-policy/\">रिफंड नीति</a>",
@@ -17266,7 +17266,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "हमसे कैसे संपर्क करें",
 							paragraphs: [
 								"support@deadsidecheats.com पर email। ऑर्डर ID और समस्या का संक्षिप्त विवरण दें।",
-								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
+								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 							],
 							list: [
 								"Receipt से Order ID",
@@ -17278,7 +17278,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "तेज़ जवाब",
 							paragraphs: [
 								"लिखने से पहले FAQ और Status देखें। कई setup प्रश्न पहले से covered हैं।",
-								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
+								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 							],
 							list: [
 								"<a href=\"/faq/\">FAQ</a>",
@@ -17304,7 +17304,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Deadside Cheats के लिए undetected का मतलब",
 							paragraphs: [
 								"Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, radar hack और Deadside Aimbot undetected पैकेज देता है। BattlEye patches के बाद undetected maintenance",
-								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
+								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 								"Anti-cheat technology is documented by <a href=\"https://www.battleye.com/\" target=\"_blank\" rel=\"noopener noreferrer\">BattlEye</a>; Deadside client updates ship through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Undetected status is an ongoing process tied to those releases.",
 							],
 						},
@@ -17350,7 +17350,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Wallhack ESP vs raw aim tools",
 							paragraphs: [
 								"Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, radar hack और Deadside Aimbot undetected पैकेज देता है। players, loot और distance के लिए wallhack ESP",
-								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
+								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 								"For the broader ESP keyword page see <a href=\"/deadside-esp/\">ESP और wallhack गाइड</a>; for combat assist see <a href=\"/deadside-aimbot/\">Aimbot और soft aim</a>.",
 							],
 						},
@@ -17388,7 +17388,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "क्या दिखाता है",
 							paragraphs: [
 								"Solo farmers और matchers के लिए adjustable range के साथ nearby enemy cues।",
-								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
+								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 							],
 							list: [
 								"Flank awareness",
@@ -17400,7 +17400,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP के साथ",
 							paragraphs: [
 								"अभी न दिखने वाले threats के लिए radar। Push करते समय ESP।",
-								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
+								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">ESP और wallhack गाइड</a>",
@@ -17547,7 +17547,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "मॉड्यूल गाइड",
 							paragraphs: [
 								"Checkout से पहले विवरण चाहिए तो हर टूल का अपना deep-dive पेज है।",
-								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
+								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">ESP और wallhack गाइड</a>",
@@ -17560,7 +17560,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Undetected स्थिति और पैच",
 							paragraphs: [
 								"Deadside BattlEye उपयोग करता है। कोई cheat हमेशा undetected नहीं रहता — पैच के बाद maintenance मायने रखती है। खेलने से पहले हर Deadside या BattlEye अपडेट के बाद Status पेज देखें।",
-								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
+								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 							],
 							list: [
 								"<a href=\"/updates/\">Undetected cheats गाइड</a>",
@@ -17573,7 +17573,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "कैसे शुरू करें",
 							paragraphs: [
 								"स्टोर पर monthly ($35) या lifetime ($150) चुनें — दोनों में समान फ़ीचर्स। checkout के बाद ईमेल पर लाइसेंस। setup guide फॉलो करें और बड़े पैच के बाद status जांचें।",
-								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
+								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 							],
 							list: [
 								"<a href=\"/pricing/\">स्टोर</a>",
@@ -17637,7 +17637,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What a Deadside mod menu controls",
 							paragraphs: [
 								"Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, radar hack और Deadside Aimbot undetected पैकेज देता है। in-client ESP और soft aim toggles",
-								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
+								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 								"Control deep-dives: <a href=\"/deadside-esp/\">ESP और wallhack गाइड</a>, <a href=\"/deadside-aimbot/\">Aimbot और soft aim</a>, <a href=\"/deadside-radar-hack/\">2D रडार ओवरले</a>.",
 							],
 						},
@@ -17675,7 +17675,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What Deadside soft aim means",
 							paragraphs: [
 								"Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, radar hack और Deadside Aimbot undetected पैकेज देता है। Windows PC के लिए smooth soft aim settings",
-								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
+								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 								"Full Aimbot documentation: <a href=\"/deadside-aimbot/\">Aimbot और soft aim</a>. Alternate wording: <a href=\"/deadside-aimbot/\">Aimbot और soft aim</a>.",
 							],
 						},
@@ -17713,7 +17713,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What makes deadside cheats in 2026",
 							paragraphs: [
 								"Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, radar hack और Deadside Aimbot undetected पैकेज देता है। deadside cheats खरीदने से पहले क्या compare करें",
-								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
+								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 								"Verify the live game is healthy via <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside on Steam</a>, then confirm our <a href=\"/updates/\">Undetected cheats गाइड</a> note before you judge any package “best.”",
 							],
 						},
@@ -17729,7 +17729,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Buying deadside cheats safely",
 							paragraphs: [
 								"Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, radar hack और Deadside Aimbot undetected पैकेज देता है। deadside cheats खरीदने से पहले क्या compare करें",
-								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
+								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 								"BattlEye पैच के बाद Updates पेज देखें। कोई भी cheat permanent undetected गारंटी नहीं देता।",
 							],
 						},
@@ -17759,7 +17759,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Deadside Aimbot hack vs visibility tools",
 							paragraphs: [
 								"Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, radar hack और Deadside Aimbot undetected पैकेज देता है। Deadside के लिए undetected Aimbot hack assist",
-								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
+								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 								"Prefer softer tracking language? See <a href=\"/deadside-aimbot/\">Aimbot और soft aim</a>. Full settings: <a href=\"/deadside-aimbot/\">Aimbot और soft aim</a>.",
 							],
 						},
@@ -17767,7 +17767,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot hack controls and hotkeys",
 							paragraphs: [
 								"Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, radar hack और Deadside Aimbot undetected पैकेज देता है। Deadside के लिए undetected Aimbot hack assist",
-								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
+								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 								"Balance patches from <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> can change ideal FOV — retune after major weapon balance updates.",
 							],
 						},
@@ -17797,7 +17797,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What a Deadside ESP hack shows",
 							paragraphs: [
 								"Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, radar hack और Deadside Aimbot undetected पैकेज देता है। ESP hack boxes, loot pins और distance",
-								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
+								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 								"Canonical visibility guide: <a href=\"/deadside-esp/\">ESP और wallhack गाइड</a>. Wallhack wording: <a href=\"/deadside-esp/\">ESP और wallhack गाइड</a>.",
 							],
 						},
@@ -17805,7 +17805,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP hack categories for matches",
 							paragraphs: [
 								"Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, radar hack और Deadside Aimbot undetected पैकेज देता है। ESP hack boxes, loot pins और distance",
-								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
+								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 								"POI and loot changes publish through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> — keep categories toggled to what the current map rewards.",
 							],
 						},
@@ -17835,7 +17835,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What Deadside unlock-all usually means",
 							paragraphs: [
 								"Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, radar hack और Deadside Aimbot undetected पैकेज देता है। unlock-all searches vs real ESP और Aimbot tools",
-								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
+								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 								"Cosmetics and patch cycle progression items are sold through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Be wary of unlock-all downloads that promise free skins — they are often scams.",
 							],
 						},
@@ -17873,8 +17873,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "हम जो जानकारी एकत्र करते हैं",
 							paragraphs: [
-								"Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, radar hack और Deadside Aimbot undetected पैकेज देता है। संपर्क ईमेल, Zadeyo ऑर्डर संदर्भ और बुनियादी साइट सुरक्षा डेटा।",
-								"भुगतान विवरण Zadeyo checkout द्वारा संसाधित — deadsidecheats.com पर संग्रहीत नहीं।",
+								"Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, radar hack और Deadside Aimbot undetected पैकेज देता है। संपर्क ईमेल, secure checkout ऑर्डर संदर्भ और बुनियादी साइट सुरक्षा डेटा।",
+								"भुगतान विवरण द्वारा संसाधित — deadsidecheats.com पर संग्रहीत नहीं।",
 							],
 						},
 						{
@@ -17908,8 +17908,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "डिजिटल डिलीवरी",
 							paragraphs: [
-								"Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, radar hack और Deadside Aimbot undetected पैकेज देता है। संपर्क ईमेल, Zadeyo ऑर्डर संदर्भ और बुनियादी साइट सुरक्षा डेटा।",
-								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
+								"Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, radar hack और Deadside Aimbot undetected पैकेज देता है। संपर्क ईमेल, secure checkout ऑर्डर संदर्भ और बुनियादी साइट सुरक्षा डेटा।",
+								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 							],
 						},
 						{
@@ -17943,8 +17943,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "शर्तों की स्वीकृति",
 							paragraphs: [
-								"Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, radar hack और Deadside Aimbot undetected पैकेज देता है। संपर्क ईमेल, Zadeyo ऑर्डर संदर्भ और बुनियादी साइट सुरक्षा डेटा।",
-								"Zadeyo checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
+								"Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, radar hack और Deadside Aimbot undetected पैकेज देता है। संपर्क ईमेल, secure checkout ऑर्डर संदर्भ और बुनियादी साइट सुरक्षा डेटा।",
+								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 							],
 						},
 						{
@@ -18022,7 +18022,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				footer: {
 					explore: "Jelajahi",
 					help: "Bantuan & legal",
-					tagline: "ESP, wallhack, radar, dan Aimbot undetected untuk Deadside — checkout via Zadeyo.",
+					tagline: "ESP, wallhack, radar, dan Aimbot undetected untuk Deadside.",
 				},
 				images: {
 					hero: "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
@@ -18054,7 +18054,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Mengapa Deadside Cheats di 2026",
 							paragraphs: [
 								"Deadside Cheats menyediakan ESP wallhack, radar hack, dan Deadside Aimbot undetected untuk Deadside di PC Windows. Ideal membaca squad musuh di BR dan PvP raid sessions.",
-								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
+								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 							],
 						},
 						{
@@ -18081,7 +18081,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Apa yang ditampilkan ESP",
 							paragraphs: [
 								"Kotak, jarak, dan filter untuk pemain, scientist, dan loot.",
-								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
+								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 							],
 							list: [
 								"ESP pemain",
@@ -18093,7 +18093,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Kapan menggunakan",
 							paragraphs: [
 								"Jaga zona POI dan extract routes jelas tanpa membanjiri layar.",
-								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
+								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 							],
 							list: [
 								"Atur opacity",
@@ -18105,7 +18105,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Langkah selanjutnya",
 							paragraphs: [
 								"ESP termasuk aimbot dan radar dalam satu paket.",
-								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
+								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 							],
 							list: [
 								"<a href=\"/\">Produk lengkap</a>",
@@ -18131,7 +18131,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Kontrol",
 							paragraphs: [
 								"Atur FOV, smoothness, dan prioritas tulang sebelum match.",
-								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
+								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 							],
 							list: [
 								"Kekuatan soft aim",
@@ -18143,7 +18143,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Gaya bermain",
 							paragraphs: [
 								"Pertahankan pengaturan halus untuk match panjang. Naikkan kekuatan hanya jika menerima risiko lebih.",
-								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
+								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 							],
 							list: [
 								"Soft aim legit",
@@ -18155,7 +18155,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Langkah selanjutnya",
 							paragraphs: [
 								"Aimbot termasuk ESP dan radar dalam satu lisensi.",
-								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
+								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 							],
 							list: [
 								"<a href=\"/\">Produk lengkap</a>",
@@ -18181,7 +18181,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP & wallhack",
 							paragraphs: [
 								"Deadside Cheats menyediakan ESP wallhack, radar hack, dan Deadside Aimbot undetected untuk Deadside di PC Windows. ESP, soft aim, kontrol radar",
-								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
+								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 							],
 							list: [
 								"Player boxes & distance",
@@ -18193,7 +18193,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot & soft aim",
 							paragraphs: [
 								"Deadside Cheats menyediakan ESP wallhack, radar hack, dan Deadside Aimbot undetected untuk Deadside di PC Windows. ESP, soft aim, kontrol radar",
-								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
+								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 							],
 							list: [
 								"Smooth aim strength",
@@ -18205,7 +18205,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Radar",
 							paragraphs: [
 								"Deadside Cheats menyediakan ESP wallhack, radar hack, dan Deadside Aimbot undetected untuk Deadside di PC Windows. ESP, soft aim, kontrol radar",
-								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
+								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 							],
 							list: [
 								"Nearby enemy cues",
@@ -18217,7 +18217,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Explore related topics",
 							paragraphs: [
 								"Deadside Cheats menyediakan ESP wallhack, radar hack, dan Deadside Aimbot undetected untuk Deadside di PC Windows. ESP, soft aim, kontrol radar",
-								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
+								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">ESP & wallhack guide</a>",
@@ -18234,7 +18234,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Updates & support",
 							paragraphs: [
 								"Deadside Cheats menyediakan ESP wallhack, radar hack, dan Deadside Aimbot undetected untuk Deadside di PC Windows. ESP, soft aim, kontrol radar",
-								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
+								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 							],
 							list: [
 								"Status on the Status page",
@@ -18284,7 +18284,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Sebelum membeli",
 							paragraphs: [
 								"Baca kebijakan refund jika perlu. Hubungi dukungan dengan ID pesanan Anda.",
-								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
+								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 							],
 							list: [
 								"<a href=\"/refund-policy/\">Kebijakan refund</a>",
@@ -18310,7 +18310,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Sebelum instalasi",
 							paragraphs: [
 								"Beli paket dulu. Lisensi dikirim via email.",
-								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
+								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 							],
 							list: [
 								"PC Windows 10 / 11",
@@ -18322,7 +18322,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Langkah instalasi",
 							paragraphs: [
 								"Jalankan loader sebagai admin, tempel lisensi, lalu buka Deadside.",
-								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
+								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 							],
 							list: [
 								"Unduh loader dari email pengiriman",
@@ -18334,7 +18334,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Jika ada masalah",
 							paragraphs: [
 								"Cek Status setelah patch. Email support@deadsidecheats.com dengan ID pesanan.",
-								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
+								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 							],
 							list: [
 								"<a href=\"/updates/\">Panduan cheat undetected</a>",
@@ -18372,7 +18372,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Setelah patch",
 							paragraphs: [
 								"Tunggu catatan rebuild kami, lalu jalankan. Jangan main dengan build lama setelah update besar.",
-								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
+								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 							],
 							list: [
 								"Baca catatan status terbaru",
@@ -18384,7 +18384,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Penting",
 							paragraphs: [
 								"Tidak ada cheat 100% aman selamanya. Tetap update dan gunakan pengaturan aman.",
-								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
+								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 							],
 							list: [
 								"Status dulu, baru main",
@@ -18409,7 +18409,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Pembelian & pengiriman",
 							paragraphs: [
 								"Anda mendapat lisensi digital via email setelah pembayaran.",
-								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
+								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 							],
 							list: [
 								"Pengiriman instan setelah checkout",
@@ -18421,7 +18421,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Setup dan pembaruan",
 							paragraphs: [
 								"Ikuti Setup setelah beli. Cek Status setelah patch besar Deadside atau BattlEye.",
-								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
+								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 							],
 							list: [
 								"<a href=\"/setup/\">Panduan setup</a>",
@@ -18432,7 +18432,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Refund",
 							paragraphs: [
 								"Baca kebijakan refund sebelum membeli jika butuh detail.",
-								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
+								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 							],
 							list: [
 								"<a href=\"/refund-policy/\">Kebijakan refund</a>",
@@ -18457,7 +18457,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Cara menghubungi",
 							paragraphs: [
 								"Email support@deadsidecheats.com. Sertakan ID pesanan dan catatan singkat masalah.",
-								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
+								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 							],
 							list: [
 								"ID pesanan dari receipt",
@@ -18469,7 +18469,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Jawaban lebih cepat",
 							paragraphs: [
 								"Cek FAQ dan Status sebelum menulis. Banyak pertanyaan setup sudah tercakup.",
-								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
+								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 							],
 							list: [
 								"<a href=\"/faq/\">FAQ</a>",
@@ -18495,7 +18495,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Apa arti undetected untuk Deadside Cheats",
 							paragraphs: [
 								"Deadside Cheats menyediakan ESP wallhack, radar hack, dan Deadside Aimbot undetected untuk Deadside di PC Windows. pemeliharaan undetected setelah patch BattlEye",
-								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
+								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 								"Anti-cheat technology is documented by <a href=\"https://www.battleye.com/\" target=\"_blank\" rel=\"noopener noreferrer\">BattlEye</a>; Deadside client updates ship through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Undetected status is an ongoing process tied to those releases.",
 							],
 						},
@@ -18541,7 +18541,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Wallhack ESP vs raw aim tools",
 							paragraphs: [
 								"Deadside Cheats menyediakan ESP wallhack, radar hack, dan Deadside Aimbot undetected untuk Deadside di PC Windows. wallhack ESP untuk pemain, bangkai, dan jarak",
-								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
+								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 								"For the broader ESP keyword page see <a href=\"/deadside-esp/\">Panduan ESP & wallhack</a>; for combat assist see <a href=\"/deadside-aimbot/\">Aimbot & soft aim</a>.",
 							],
 						},
@@ -18579,7 +18579,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Apa yang ditampilkan",
 							paragraphs: [
 								"Isyarat musuh terdekat dengan jangkauan adjustable untuk solo farmer dan matcher.",
-								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
+								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 							],
 							list: [
 								"Kesadaran flank",
@@ -18591,7 +18591,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Dengan ESP",
 							paragraphs: [
 								"Gunakan radar untuk ancaman yang belum terlihat. Gunakan ESP saat push.",
-								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
+								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">Panduan ESP & wallhack</a>",
@@ -18738,7 +18738,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Panduan modul",
 							paragraphs: [
 								"Setiap alat punya halaman detail jika Anda ingin info lebih sebelum checkout.",
-								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
+								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">Panduan ESP & wallhack</a>",
@@ -18751,7 +18751,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Status undetected dan patch",
 							paragraphs: [
 								"Deadside memakai BattlEye. Tidak ada cheat undetected selamanya — pemeliharaan setelah patch yang penting. Cek halaman Status setelah setiap update Deadside atau BattlEye sebelum main.",
-								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
+								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 							],
 							list: [
 								"<a href=\"/updates/\">Panduan cheat undetected</a>",
@@ -18764,7 +18764,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Cara memulai",
 							paragraphs: [
 								"Pilih bulanan ($35) atau lifetime ($150) di toko — fitur sama. Setelah checkout lisensi via email. Ikuti panduan setup dan cek status setelah patch besar.",
-								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
+								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 							],
 							list: [
 								"<a href=\"/pricing/\">Toko</a>",
@@ -18828,7 +18828,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What a Deadside mod menu controls",
 							paragraphs: [
 								"Deadside Cheats menyediakan ESP wallhack, radar hack, dan Deadside Aimbot undetected untuk Deadside di PC Windows. toggle ESP dan soft aim in-client",
-								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
+								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 								"Control deep-dives: <a href=\"/deadside-esp/\">Panduan ESP & wallhack</a>, <a href=\"/deadside-aimbot/\">Aimbot & soft aim</a>, <a href=\"/deadside-radar-hack/\">Overlay radar 2D</a>.",
 							],
 						},
@@ -18866,7 +18866,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What Deadside soft aim means",
 							paragraphs: [
 								"Deadside Cheats menyediakan ESP wallhack, radar hack, dan Deadside Aimbot undetected untuk Deadside di PC Windows. pengaturan soft aim halus untuk Windows PC",
-								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
+								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 								"Full Aimbot documentation: <a href=\"/deadside-aimbot/\">Aimbot & soft aim</a>. Alternate wording: <a href=\"/deadside-aimbot/\">Aimbot & soft aim</a>.",
 							],
 						},
@@ -18904,7 +18904,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What makes deadside cheats in 2026",
 							paragraphs: [
 								"Deadside Cheats menyediakan ESP wallhack, radar hack, dan Deadside Aimbot undetected untuk Deadside di PC Windows. apa yang dibandingkan sebelum membeli deadside cheats",
-								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
+								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 								"Verify the live game is healthy via <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside on Steam</a>, then confirm our <a href=\"/updates/\">Panduan cheat undetected</a> note before you judge any package “best.”",
 							],
 						},
@@ -18920,7 +18920,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Buying deadside cheats safely",
 							paragraphs: [
 								"Deadside Cheats menyediakan ESP wallhack, radar hack, dan Deadside Aimbot undetected untuk Deadside di PC Windows. apa yang dibandingkan sebelum membeli deadside cheats",
-								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
+								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 								"Periksa Updates setelah patch BattlEye. Tidak ada cheat yang menjamin undetected permanen.",
 							],
 						},
@@ -18950,7 +18950,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Deadside Aimbot hack vs visibility tools",
 							paragraphs: [
 								"Deadside Cheats menyediakan ESP wallhack, radar hack, dan Deadside Aimbot undetected untuk Deadside di PC Windows. assist hack Aimbot undetected untuk Deadside",
-								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
+								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 								"Prefer softer tracking language? See <a href=\"/deadside-aimbot/\">Aimbot & soft aim</a>. Full settings: <a href=\"/deadside-aimbot/\">Aimbot & soft aim</a>.",
 							],
 						},
@@ -18958,7 +18958,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot hack controls and hotkeys",
 							paragraphs: [
 								"Deadside Cheats menyediakan ESP wallhack, radar hack, dan Deadside Aimbot undetected untuk Deadside di PC Windows. assist hack Aimbot undetected untuk Deadside",
-								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
+								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 								"Balance patches from <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> can change ideal FOV — retune after major weapon balance updates.",
 							],
 						},
@@ -18988,7 +18988,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What a Deadside ESP hack shows",
 							paragraphs: [
 								"Deadside Cheats menyediakan ESP wallhack, radar hack, dan Deadside Aimbot undetected untuk Deadside di PC Windows. kotak ESP hack, pin bangkai, dan jarak",
-								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
+								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 								"Canonical visibility guide: <a href=\"/deadside-esp/\">Panduan ESP & wallhack</a>. Wallhack wording: <a href=\"/deadside-esp/\">Panduan ESP & wallhack</a>.",
 							],
 						},
@@ -18996,7 +18996,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP hack categories for matches",
 							paragraphs: [
 								"Deadside Cheats menyediakan ESP wallhack, radar hack, dan Deadside Aimbot undetected untuk Deadside di PC Windows. kotak ESP hack, pin bangkai, dan jarak",
-								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
+								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 								"POI and loot changes publish through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> — keep categories toggled to what the current map rewards.",
 							],
 						},
@@ -19026,7 +19026,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What Deadside unlock-all usually means",
 							paragraphs: [
 								"Deadside Cheats menyediakan ESP wallhack, radar hack, dan Deadside Aimbot undetected untuk Deadside di PC Windows. pencarian unlock-all vs alat ESP dan Aimbot asli",
-								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
+								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 								"Cosmetics and patch cycle progression items are sold through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Be wary of unlock-all downloads that promise free skins — they are often scams.",
 							],
 						},
@@ -19064,8 +19064,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Informasi yang kami kumpulkan",
 							paragraphs: [
-								"Deadside Cheats menyediakan ESP wallhack, radar hack, dan Deadside Aimbot undetected untuk Deadside di PC Windows. Email kontak, referensi pesanan Zadeyo, dan data keamanan situs dasar.",
-								"Detail pembayaran diproses oleh checkout Zadeyo — tidak disimpan di deadsidecheats.com.",
+								"Deadside Cheats menyediakan ESP wallhack, radar hack, dan Deadside Aimbot undetected untuk Deadside di PC Windows. Email kontak, referensi pesanan secure checkout, dan data keamanan situs dasar.",
+								"Detail pembayaran diproses oleh secure checkout — tidak disimpan di deadsidecheats.com.",
 							],
 						},
 						{
@@ -19099,8 +19099,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Pengiriman digital",
 							paragraphs: [
-								"Deadside Cheats menyediakan ESP wallhack, radar hack, dan Deadside Aimbot undetected untuk Deadside di PC Windows. Email kontak, referensi pesanan Zadeyo, dan data keamanan situs dasar.",
-								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
+								"Deadside Cheats menyediakan ESP wallhack, radar hack, dan Deadside Aimbot undetected untuk Deadside di PC Windows. Email kontak, referensi pesanan secure checkout, dan data keamanan situs dasar.",
+								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 							],
 						},
 						{
@@ -19134,8 +19134,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Penerimaan syarat",
 							paragraphs: [
-								"Deadside Cheats menyediakan ESP wallhack, radar hack, dan Deadside Aimbot undetected untuk Deadside di PC Windows. Email kontak, referensi pesanan Zadeyo, dan data keamanan situs dasar.",
-								"pengiriman digital instan via checkout Zadeyo. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
+								"Deadside Cheats menyediakan ESP wallhack, radar hack, dan Deadside Aimbot undetected untuk Deadside di PC Windows. Email kontak, referensi pesanan secure checkout, dan data keamanan situs dasar.",
+								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 							],
 						},
 						{
@@ -19213,7 +19213,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				footer: {
 					explore: "สำรวจ",
 					help: "ช่วยเหลือและกฎหมาย",
-					tagline: "ESP, wallhack, radar และ Aimbot ไม่ถูกตรวจจับสำหรับ Deadside — ชำระผ่าน Zadeyo",
+					tagline: "ESP, wallhack, radar และ Aimbot ไม่ถูกตรวจจับสำหรับ Deadside — ชำระผ่าน secure checkout",
 				},
 				images: {
 					hero: "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
@@ -19245,7 +19245,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ทำไมเลือก Deadside Cheats ปี 2026",
 							paragraphs: [
 								"Deadside Cheats รวม ESP wallhack, radar hack และ Deadside Aimbot แบบ undetected สำหรับ Deadside บน Windows PC เหมาะสำหรับอ่าน squad ศัตรูใน BR และ PvP raid sessions",
-								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
+								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 							],
 						},
 						{
@@ -19272,7 +19272,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP แสดงอะไร",
 							paragraphs: [
 								"กล่อง ระยะ และฟิลเตอร์สำหรับผู้เล่น นักวิทยาศาสตร์ และ loot",
-								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
+								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 							],
 							list: [
 								"ESP ผู้เล่น",
@@ -19284,7 +19284,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "เมื่อไหร่ควรใช้",
 							paragraphs: [
 								"ทำให้ POI และ extract routes ชัดเจนโดยไม่เต็มหน้าจอ",
-								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
+								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 							],
 							list: [
 								"ปรับความโปร่งใส",
@@ -19296,7 +19296,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ขั้นตอนถัดไป",
 							paragraphs: [
 								"ESP รวม aimbot และ radar ในแพ็กเกจเดียว",
-								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
+								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 							],
 							list: [
 								"<a href=\"/\">ผลิตภัณฑ์เต็มรูปแบบ</a>",
@@ -19322,7 +19322,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "การควบคุม",
 							paragraphs: [
 								"ตั้งค่า FOV ความนุ่มนวล และลำดับกระดูกก่อน match",
-								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
+								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 							],
 							list: [
 								"ความแรง soft aim",
@@ -19334,7 +19334,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "สไตล์การเล่น",
 							paragraphs: [
 								"ใช้การตั้งค่าเบาๆ สำหรับ match ยาว เพิ่มความแรงเมื่อยอมรับความเสี่ยงมากขึ้น",
-								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
+								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 							],
 							list: [
 								"Soft aim แบบ legit",
@@ -19346,7 +19346,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ขั้นตอนถัดไป",
 							paragraphs: [
 								"Aimbot รวม ESP และ radar ในใบอนุญาตเดียว",
-								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
+								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 							],
 							list: [
 								"<a href=\"/\">ผลิตภัณฑ์เต็มรูปแบบ</a>",
@@ -19372,7 +19372,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP & wallhack",
 							paragraphs: [
 								"Deadside Cheats รวม ESP wallhack, radar hack และ Deadside Aimbot แบบ undetected สำหรับ Deadside บน Windows PC ESP, soft aim, การควบคุม radar",
-								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
+								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 							],
 							list: [
 								"Player boxes & distance",
@@ -19384,7 +19384,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot & soft aim",
 							paragraphs: [
 								"Deadside Cheats รวม ESP wallhack, radar hack และ Deadside Aimbot แบบ undetected สำหรับ Deadside บน Windows PC ESP, soft aim, การควบคุม radar",
-								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
+								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 							],
 							list: [
 								"Smooth aim strength",
@@ -19396,7 +19396,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Radar",
 							paragraphs: [
 								"Deadside Cheats รวม ESP wallhack, radar hack และ Deadside Aimbot แบบ undetected สำหรับ Deadside บน Windows PC ESP, soft aim, การควบคุม radar",
-								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
+								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 							],
 							list: [
 								"Nearby enemy cues",
@@ -19408,7 +19408,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Explore related topics",
 							paragraphs: [
 								"Deadside Cheats รวม ESP wallhack, radar hack และ Deadside Aimbot แบบ undetected สำหรับ Deadside บน Windows PC ESP, soft aim, การควบคุม radar",
-								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
+								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">ESP & wallhack guide</a>",
@@ -19425,7 +19425,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Updates & support",
 							paragraphs: [
 								"Deadside Cheats รวม ESP wallhack, radar hack และ Deadside Aimbot แบบ undetected สำหรับ Deadside บน Windows PC ESP, soft aim, การควบคุม radar",
-								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
+								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 							],
 							list: [
 								"Status on the Status page",
@@ -19475,7 +19475,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ก่อนซื้อ",
 							paragraphs: [
 								"อ่านนโยบายคืนเงินหากต้องการ ติดต่อฝ่ายสนับสนุนพร้อมรหัสคำสั่งซื้อ",
-								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
+								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 							],
 							list: [
 								"<a href=\"/refund-policy/\">นโยบายคืนเงิน</a>",
@@ -19501,7 +19501,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ก่อนติดตั้ง",
 							paragraphs: [
 								"ซื้อแพ็กเกจก่อน ได้ใบอนุญาตทางอีเมล",
-								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
+								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 							],
 							list: [
 								"Windows 10 / 11 PC",
@@ -19513,7 +19513,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ขั้นตอนติดตั้ง",
 							paragraphs: [
 								"รัน loader แบบ admin วางใบอนุญาต แล้วเปิด Deadside",
-								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
+								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 							],
 							list: [
 								"ดาวน์โหลด loader จากอีเมลจัดส่ง",
@@ -19525,7 +19525,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "หากมีปัญหา",
 							paragraphs: [
 								"ตรวจสถานะหลังแพตช์ อีเมล support@deadsidecheats.com พร้อมรหัสคำสั่งซื้อ",
-								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
+								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 							],
 							list: [
 								"<a href=\"/updates/\">คู่มือ cheat undetected</a>",
@@ -19563,7 +19563,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "หลังแพตช์",
 							paragraphs: [
 								"รอบันทึก rebuild แล้วค่อยเปิด อย่าเล่นบน build เก่าหลังอัปเดตใหญ่",
-								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
+								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 							],
 							list: [
 								"อ่านบันทึกสถานะล่าสุด",
@@ -19575,7 +19575,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "สำคัญ",
 							paragraphs: [
 								"ไม่มี cheat ปลอดภัย 100% ตลอดไป อัปเดตและใช้การตั้งค่าที่ปลอดภัย",
-								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
+								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 							],
 							list: [
 								"ตรวจสถานะก่อน แล้วค่อยเล่น",
@@ -19600,7 +19600,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "การซื้อและการจัดส่ง",
 							paragraphs: [
 								"ได้รับใบอนุญาตดิจิทัลทางอีเมลหลังชำระเงิน",
-								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
+								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 							],
 							list: [
 								"จัดส่งทันทีหลังชำระเงิน",
@@ -19612,7 +19612,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "การติดตั้งและอัปเดต",
 							paragraphs: [
 								"ทำตามการติดตั้งหลังซื้อ ตรวจสถานะหลังแพตช์ใหญ่ของ Deadside หรือ BattlEye",
-								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
+								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 							],
 							list: [
 								"<a href=\"/setup/\">คู่มือติดตั้ง</a>",
@@ -19623,7 +19623,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "การคืนเงิน",
 							paragraphs: [
 								"อ่านนโยบายคืนเงินก่อนซื้อหากต้องการรายละเอียด",
-								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
+								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 							],
 							list: [
 								"<a href=\"/refund-policy/\">นโยบายคืนเงิน</a>",
@@ -19648,7 +19648,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "วิธีติดต่อเรา",
 							paragraphs: [
 								"อีเมล support@deadsidecheats.com พร้อมรหัสคำสั่งซื้อและรายละเอียดปัญหา",
-								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
+								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 							],
 							list: [
 								"รหัสคำสั่งซื้อจากใบเสร็จ",
@@ -19660,7 +19660,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "คำตอบที่เร็วขึ้น",
 							paragraphs: [
 								"ตรวจ FAQ และสถานะก่อนติดต่อ คำถามติดตั้งหลายข้อมีคำตอบแล้ว",
-								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
+								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 							],
 							list: [
 								"<a href=\"/faq/\">FAQ</a>",
@@ -19686,7 +19686,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "undetected หมายถึงอะไรสำหรับ Deadside Cheats",
 							paragraphs: [
 								"Deadside Cheats รวม ESP wallhack, radar hack และ Deadside Aimbot แบบ undetected สำหรับ Deadside บน Windows PC การบำรุงรักษา undetected หลัง patch BattlEye",
-								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
+								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 								"Anti-cheat technology is documented by <a href=\"https://www.battleye.com/\" target=\"_blank\" rel=\"noopener noreferrer\">BattlEye</a>; Deadside client updates ship through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Undetected status is an ongoing process tied to those releases.",
 							],
 						},
@@ -19732,7 +19732,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Wallhack ESP vs raw aim tools",
 							paragraphs: [
 								"Deadside Cheats รวม ESP wallhack, radar hack และ Deadside Aimbot แบบ undetected สำหรับ Deadside บน Windows PC wallhack ESP สำหรับผู้เล่น ซาก และระยะทาง",
-								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
+								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 								"For the broader ESP keyword page see <a href=\"/deadside-esp/\">คู่มือ ESP และ wallhack</a>; for combat assist see <a href=\"/deadside-aimbot/\">Aimbot และ soft aim</a>.",
 							],
 						},
@@ -19770,7 +19770,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "แสดงอะไร",
 							paragraphs: [
 								"สัญญาณศัตรูใกล้พร้อมระยะปรับได้สำหรับ solo farmer และ matcher",
-								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
+								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 							],
 							list: [
 								"ตระหนัก flank",
@@ -19782,7 +19782,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "กับ ESP",
 							paragraphs: [
 								"ใช้ radar สำหรับภัยคุกคามที่ยังมองไม่เห็น ใช้ ESP เมื่อดันหน้า",
-								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
+								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">คู่มือ ESP และ wallhack</a>",
@@ -19929,7 +19929,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "คู่มือโมดูล",
 							paragraphs: [
 								"แต่ละเครื่องมือมีหน้ารายละเอียดหากต้องการข้อมูลก่อนชำระเงิน",
-								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
+								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">คู่มือ ESP และ wallhack</a>",
@@ -19942,7 +19942,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "สถานะ undetected และแพตช์",
 							paragraphs: [
 								"Deadside ใช้ BattlEye ไม่มี cheat undetected ตลอดไป — การดูแลหลังแพตช์สำคัญ ตรวจหน้าสถานะหลังอัปเดต Deadside หรือ BattlEye ก่อนเข้าเกม",
-								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
+								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 							],
 							list: [
 								"<a href=\"/updates/\">คู่มือ cheat undetected</a>",
@@ -19955,7 +19955,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "วิธีเริ่มต้น",
 							paragraphs: [
 								"เลือกรายเดือน ($35) หรือ lifetime ($150) ในร้าน — ฟีเจอร์เดียวกัน หลังชำระเงินได้ใบอนุญาตทางอีเมล ทำตามคู่มือติดตั้งและตรวจสถานะหลังแพตช์ใหญ่",
-								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
+								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 							],
 							list: [
 								"<a href=\"/pricing/\">ร้านค้า</a>",
@@ -20019,7 +20019,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What a Deadside mod menu controls",
 							paragraphs: [
 								"Deadside Cheats รวม ESP wallhack, radar hack และ Deadside Aimbot แบบ undetected สำหรับ Deadside บน Windows PC สวิตช์ ESP และ soft aim ในไคลเอนต์",
-								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
+								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 								"Control deep-dives: <a href=\"/deadside-esp/\">คู่มือ ESP และ wallhack</a>, <a href=\"/deadside-aimbot/\">Aimbot และ soft aim</a>, <a href=\"/deadside-radar-hack/\">โอเวอร์เลย์เรดาร์ 2D</a>.",
 							],
 						},
@@ -20057,7 +20057,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What Deadside soft aim means",
 							paragraphs: [
 								"Deadside Cheats รวม ESP wallhack, radar hack และ Deadside Aimbot แบบ undetected สำหรับ Deadside บน Windows PC การตั้งค่า soft aim ที่ลื่นไหลสำหรับ Windows PC",
-								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
+								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 								"Full Aimbot documentation: <a href=\"/deadside-aimbot/\">Aimbot และ soft aim</a>. Alternate wording: <a href=\"/deadside-aimbot/\">Aimbot และ soft aim</a>.",
 							],
 						},
@@ -20095,7 +20095,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What makes deadside cheats in 2026",
 							paragraphs: [
 								"Deadside Cheats รวม ESP wallhack, radar hack และ Deadside Aimbot แบบ undetected สำหรับ Deadside บน Windows PC สิ่งที่ควรเปรียบเทียบก่อนซื้อ deadside cheats",
-								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
+								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 								"Verify the live game is healthy via <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside on Steam</a>, then confirm our <a href=\"/updates/\">คู่มือ cheat undetected</a> note before you judge any package “best.”",
 							],
 						},
@@ -20111,7 +20111,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Buying deadside cheats safely",
 							paragraphs: [
 								"Deadside Cheats รวม ESP wallhack, radar hack และ Deadside Aimbot แบบ undetected สำหรับ Deadside บน Windows PC สิ่งที่ควรเปรียบเทียบก่อนซื้อ deadside cheats",
-								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
+								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 								"ตรวจ Updates หลังแพตช์ BattlEye ไม่มี cheat รับประกัน undetected ถาวร",
 							],
 						},
@@ -20141,7 +20141,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Deadside Aimbot hack vs visibility tools",
 							paragraphs: [
 								"Deadside Cheats รวม ESP wallhack, radar hack และ Deadside Aimbot แบบ undetected สำหรับ Deadside บน Windows PC assist hack Aimbot undetected สำหรับ Deadside",
-								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
+								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 								"Prefer softer tracking language? See <a href=\"/deadside-aimbot/\">Aimbot และ soft aim</a>. Full settings: <a href=\"/deadside-aimbot/\">Aimbot และ soft aim</a>.",
 							],
 						},
@@ -20149,7 +20149,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot hack controls and hotkeys",
 							paragraphs: [
 								"Deadside Cheats รวม ESP wallhack, radar hack และ Deadside Aimbot แบบ undetected สำหรับ Deadside บน Windows PC assist hack Aimbot undetected สำหรับ Deadside",
-								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
+								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 								"Balance patches from <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> can change ideal FOV — retune after major weapon balance updates.",
 							],
 						},
@@ -20179,7 +20179,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What a Deadside ESP hack shows",
 							paragraphs: [
 								"Deadside Cheats รวม ESP wallhack, radar hack และ Deadside Aimbot แบบ undetected สำหรับ Deadside บน Windows PC กล่อง ESP hack, pin ซาก และระยะทาง",
-								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
+								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 								"Canonical visibility guide: <a href=\"/deadside-esp/\">คู่มือ ESP และ wallhack</a>. Wallhack wording: <a href=\"/deadside-esp/\">คู่มือ ESP และ wallhack</a>.",
 							],
 						},
@@ -20187,7 +20187,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP hack categories for matches",
 							paragraphs: [
 								"Deadside Cheats รวม ESP wallhack, radar hack และ Deadside Aimbot แบบ undetected สำหรับ Deadside บน Windows PC กล่อง ESP hack, pin ซาก และระยะทาง",
-								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
+								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 								"POI and loot changes publish through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> — keep categories toggled to what the current map rewards.",
 							],
 						},
@@ -20217,7 +20217,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What Deadside unlock-all usually means",
 							paragraphs: [
 								"Deadside Cheats รวม ESP wallhack, radar hack และ Deadside Aimbot แบบ undetected สำหรับ Deadside บน Windows PC การค้นหา unlock-all vs เครื่องมือ ESP และ Aimbot จริง",
-								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
+								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 								"Cosmetics and patch cycle progression items are sold through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Be wary of unlock-all downloads that promise free skins — they are often scams.",
 							],
 						},
@@ -20255,8 +20255,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "ข้อมูลที่เราเก็บ",
 							paragraphs: [
-								"Deadside Cheats รวม ESP wallhack, radar hack และ Deadside Aimbot แบบ undetected สำหรับ Deadside บน Windows PC อีเมลติดต่อ อ้างอิงคำสั่งซื้อ Zadeyo และข้อมูลความปลอดภัยพื้นฐานของเว็บไซต์",
-								"รายละเอียดการชำระเงินประมวลผลผ่าน checkout Zadeyo — ไม่เก็บบน deadsidecheats.com",
+								"Deadside Cheats รวม ESP wallhack, radar hack และ Deadside Aimbot แบบ undetected สำหรับ Deadside บน Windows PC อีเมลติดต่อ อ้างอิงคำสั่งซื้อ secure checkout และข้อมูลความปลอดภัยพื้นฐานของเว็บไซต์",
+								"รายละเอียดการชำระเงินประมวลผลผ่าน secure checkout — ไม่เก็บบน deadsidecheats.com",
 							],
 						},
 						{
@@ -20290,8 +20290,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "การจัดส่งดิจิทัล",
 							paragraphs: [
-								"Deadside Cheats รวม ESP wallhack, radar hack และ Deadside Aimbot แบบ undetected สำหรับ Deadside บน Windows PC อีเมลติดต่อ อ้างอิงคำสั่งซื้อ Zadeyo และข้อมูลความปลอดภัยพื้นฐานของเว็บไซต์",
-								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
+								"Deadside Cheats รวม ESP wallhack, radar hack และ Deadside Aimbot แบบ undetected สำหรับ Deadside บน Windows PC อีเมลติดต่อ อ้างอิงคำสั่งซื้อ secure checkout และข้อมูลความปลอดภัยพื้นฐานของเว็บไซต์",
+								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 							],
 						},
 						{
@@ -20325,8 +20325,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "การยอมรับข้อกำหนด",
 							paragraphs: [
-								"Deadside Cheats รวม ESP wallhack, radar hack และ Deadside Aimbot แบบ undetected สำหรับ Deadside บน Windows PC อีเมลติดต่อ อ้างอิงคำสั่งซื้อ Zadeyo และข้อมูลความปลอดภัยพื้นฐานของเว็บไซต์",
-								"จัดส่งดิจิทัลทันที ผ่าน checkout Zadeyo แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
+								"Deadside Cheats รวม ESP wallhack, radar hack และ Deadside Aimbot แบบ undetected สำหรับ Deadside บน Windows PC อีเมลติดต่อ อ้างอิงคำสั่งซื้อ secure checkout และข้อมูลความปลอดภัยพื้นฐานของเว็บไซต์",
+								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 							],
 						},
 						{
@@ -20404,7 +20404,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				footer: {
 					explore: "Khám phá",
 					help: "Trợ giúp & pháp lý",
-					tagline: "ESP, wallhack, radar và Aimbot undetected cho Deadside — thanh toán qua Zadeyo.",
+					tagline: "ESP, wallhack, radar và Aimbot undetected cho Deadside — thanh toán qua secure checkout.",
 				},
 				images: {
 					hero: "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
@@ -20436,7 +20436,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Vì sao chọn Deadside Cheats 2026",
 							paragraphs: [
 								"Deadside Cheats cung cấp ESP wallhack, radar hack và Deadside Aimbot undetected cho Deadside trên PC Windows. Lý tưởng đọc squad địch trong BR và PvP raid sessions.",
-								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
+								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 							],
 						},
 						{
@@ -20463,7 +20463,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP hiển thị gì",
 							paragraphs: [
 								"Hộp, khoảng cách và bộ lọc cho người chơi, scientist và loot.",
-								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
+								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 							],
 							list: [
 								"ESP người chơi",
@@ -20475,7 +20475,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Khi nào sử dụng",
 							paragraphs: [
 								"Giữ vùng POI và extract routes rõ ràng không che màn hình.",
-								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
+								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 							],
 							list: [
 								"Chỉnh độ mờ",
@@ -20487,7 +20487,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Bước tiếp theo",
 							paragraphs: [
 								"ESP kèm aimbot và radar trong một gói.",
-								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
+								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 							],
 							list: [
 								"<a href=\"/\">Sản phẩm đầy đủ</a>",
@@ -20513,7 +20513,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Điều khiển",
 							paragraphs: [
 								"Đặt FOV, độ mượt và ưu tiên xương trước match.",
-								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
+								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 							],
 							list: [
 								"Cường độ soft aim",
@@ -20525,7 +20525,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Phong cách chơi",
 							paragraphs: [
 								"Giữ cài đặt tinh tế cho match dài. Tăng cường độ chỉ khi chấp nhận rủi ro hơn.",
-								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
+								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 							],
 							list: [
 								"Soft aim legit",
@@ -20537,7 +20537,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Bước tiếp theo",
 							paragraphs: [
 								"Aimbot kèm ESP và radar trong một giấy phép.",
-								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
+								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 							],
 							list: [
 								"<a href=\"/\">Sản phẩm đầy đủ</a>",
@@ -20563,7 +20563,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP & wallhack",
 							paragraphs: [
 								"Deadside Cheats cung cấp ESP wallhack, radar hack và Deadside Aimbot undetected cho Deadside trên PC Windows. ESP, soft aim, điều khiển radar",
-								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
+								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 							],
 							list: [
 								"Player boxes & distance",
@@ -20575,7 +20575,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot & soft aim",
 							paragraphs: [
 								"Deadside Cheats cung cấp ESP wallhack, radar hack và Deadside Aimbot undetected cho Deadside trên PC Windows. ESP, soft aim, điều khiển radar",
-								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
+								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 							],
 							list: [
 								"Smooth aim strength",
@@ -20587,7 +20587,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Radar",
 							paragraphs: [
 								"Deadside Cheats cung cấp ESP wallhack, radar hack và Deadside Aimbot undetected cho Deadside trên PC Windows. ESP, soft aim, điều khiển radar",
-								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
+								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 							],
 							list: [
 								"Nearby enemy cues",
@@ -20599,7 +20599,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Explore related topics",
 							paragraphs: [
 								"Deadside Cheats cung cấp ESP wallhack, radar hack và Deadside Aimbot undetected cho Deadside trên PC Windows. ESP, soft aim, điều khiển radar",
-								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
+								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">ESP & wallhack guide</a>",
@@ -20616,7 +20616,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Updates & support",
 							paragraphs: [
 								"Deadside Cheats cung cấp ESP wallhack, radar hack và Deadside Aimbot undetected cho Deadside trên PC Windows. ESP, soft aim, điều khiển radar",
-								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
+								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 							],
 							list: [
 								"Status on the Status page",
@@ -20666,7 +20666,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Trước khi mua",
 							paragraphs: [
 								"Đọc chính sách hoàn tiền nếu cần. Liên hệ hỗ trợ kèm ID đơn hàng.",
-								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
+								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 							],
 							list: [
 								"<a href=\"/refund-policy/\">Chính sách hoàn tiền</a>",
@@ -20692,7 +20692,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Trước khi cài",
 							paragraphs: [
 								"Mua gói trước. Nhận giấy phép qua email.",
-								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
+								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 							],
 							list: [
 								"PC Windows 10 / 11",
@@ -20704,7 +20704,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Các bước cài đặt",
 							paragraphs: [
 								"Chạy loader quyền admin, dán giấy phép, khởi động Deadside.",
-								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
+								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 							],
 							list: [
 								"Tải loader từ email giao hàng",
@@ -20716,7 +20716,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Nếu có lỗi",
 							paragraphs: [
 								"Kiểm tra Trạng thái sau bản vá. Email support@deadsidecheats.com kèm ID đơn.",
-								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
+								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 							],
 							list: [
 								"<a href=\"/updates/\">Hướng dẫn cheat undetected</a>",
@@ -20754,7 +20754,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Sau bản vá",
 							paragraphs: [
 								"Chờ ghi chú rebuild rồi mới khởi động. Đừng chơi bản build cũ sau cập nhật lớn.",
-								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
+								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 							],
 							list: [
 								"Đọc ghi chú trạng thái mới nhất",
@@ -20766,7 +20766,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Quan trọng",
 							paragraphs: [
 								"Không cheat nào an toàn 100% mãi mãi. Cập nhật và dùng cài đặt an toàn.",
-								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
+								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 							],
 							list: [
 								"Kiểm tra trạng thái trước, rồi chơi",
@@ -20791,7 +20791,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Mua và giao hàng",
 							paragraphs: [
 								"Nhận giấy phép số qua email sau thanh toán.",
-								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
+								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 							],
 							list: [
 								"Giao ngay sau thanh toán",
@@ -20803,7 +20803,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Cài đặt và cập nhật",
 							paragraphs: [
 								"Làm theo Cài đặt sau khi mua. Kiểm tra Trạng thái sau bản vá lớn Deadside hoặc BattlEye.",
-								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
+								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 							],
 							list: [
 								"<a href=\"/setup/\">Hướng dẫn cài đặt</a>",
@@ -20814,7 +20814,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Hoàn tiền",
 							paragraphs: [
 								"Đọc chính sách hoàn tiền trước khi mua nếu cần chi tiết.",
-								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
+								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 							],
 							list: [
 								"<a href=\"/refund-policy/\">Chính sách hoàn tiền</a>",
@@ -20839,7 +20839,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Cách liên hệ",
 							paragraphs: [
 								"Email support@deadsidecheats.com kèm ID đơn và mô tả ngắn.",
-								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
+								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 							],
 							list: [
 								"ID đơn từ biên lai",
@@ -20851,7 +20851,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Trả lời nhanh hơn",
 							paragraphs: [
 								"Kiểm tra FAQ và Trạng thái trước khi viết. Nhiều câu hỏi cài đặt đã có sẵn.",
-								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
+								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 							],
 							list: [
 								"<a href=\"/faq/\">FAQ</a>",
@@ -20877,7 +20877,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Undetected có nghĩa gì với Deadside Cheats",
 							paragraphs: [
 								"Deadside Cheats cung cấp ESP wallhack, radar hack và Deadside Aimbot undetected cho Deadside trên PC Windows. bảo trì undetected sau patch BattlEye",
-								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
+								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 								"Anti-cheat technology is documented by <a href=\"https://www.battleye.com/\" target=\"_blank\" rel=\"noopener noreferrer\">BattlEye</a>; Deadside client updates ship through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Undetected status is an ongoing process tied to those releases.",
 							],
 						},
@@ -20923,7 +20923,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Wallhack ESP vs raw aim tools",
 							paragraphs: [
 								"Deadside Cheats cung cấp ESP wallhack, radar hack và Deadside Aimbot undetected cho Deadside trên PC Windows. wallhack ESP cho người chơi, xác thịt và khoảng cách",
-								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
+								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 								"For the broader ESP keyword page see <a href=\"/deadside-esp/\">Hướng dẫn ESP & wallhack</a>; for combat assist see <a href=\"/deadside-aimbot/\">Aimbot & soft aim</a>.",
 							],
 						},
@@ -20961,7 +20961,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Hiển thị gì",
 							paragraphs: [
 								"Tín hiệu địch gần với tầm điều chỉnh cho solo farmer và matcher.",
-								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
+								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 							],
 							list: [
 								"Nhận biết flank",
@@ -20973,7 +20973,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Với ESP",
 							paragraphs: [
 								"Dùng radar cho mối đe dọa chưa thấy. Dùng ESP khi đẩy vào.",
-								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
+								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">Hướng dẫn ESP & wallhack</a>",
@@ -21120,7 +21120,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Hướng dẫn module",
 							paragraphs: [
 								"Mỗi công cụ có trang chi tiết nếu bạn muốn tìm hiểu thêm trước thanh toán.",
-								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
+								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">Hướng dẫn ESP & wallhack</a>",
@@ -21133,7 +21133,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Trạng thái undetected và bản vá",
 							paragraphs: [
 								"Deadside dùng BattlEye. Không cheat nào undetected mãi — bảo trì sau bản vá mới quan trọng. Kiểm tra trang Trạng thái sau mỗi cập nhật Deadside hoặc BattlEye trước khi vào game.",
-								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
+								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 							],
 							list: [
 								"<a href=\"/updates/\">Hướng dẫn cheat undetected</a>",
@@ -21146,7 +21146,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Cách bắt đầu",
 							paragraphs: [
 								"Chọn tháng ($35) hoặc lifetime ($150) tại cửa hàng — cùng tính năng. Sau thanh toán nhận giấy phép qua email. Làm theo hướng dẫn cài đặt và kiểm tra trạng thái sau bản vá lớn.",
-								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
+								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 							],
 							list: [
 								"<a href=\"/pricing/\">Cửa hàng</a>",
@@ -21210,7 +21210,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What a Deadside mod menu controls",
 							paragraphs: [
 								"Deadside Cheats cung cấp ESP wallhack, radar hack và Deadside Aimbot undetected cho Deadside trên PC Windows. công tắc ESP và soft aim trong client",
-								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
+								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 								"Control deep-dives: <a href=\"/deadside-esp/\">Hướng dẫn ESP & wallhack</a>, <a href=\"/deadside-aimbot/\">Aimbot & soft aim</a>, <a href=\"/deadside-radar-hack/\">Overlay radar 2D</a>.",
 							],
 						},
@@ -21248,7 +21248,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What Deadside soft aim means",
 							paragraphs: [
 								"Deadside Cheats cung cấp ESP wallhack, radar hack và Deadside Aimbot undetected cho Deadside trên PC Windows. cài đặt soft aim mượt cho Windows PC",
-								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
+								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 								"Full Aimbot documentation: <a href=\"/deadside-aimbot/\">Aimbot & soft aim</a>. Alternate wording: <a href=\"/deadside-aimbot/\">Aimbot & soft aim</a>.",
 							],
 						},
@@ -21286,7 +21286,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What makes deadside cheats in 2026",
 							paragraphs: [
 								"Deadside Cheats cung cấp ESP wallhack, radar hack và Deadside Aimbot undetected cho Deadside trên PC Windows. nên so sánh gì trước khi mua deadside cheats",
-								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
+								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 								"Verify the live game is healthy via <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside on Steam</a>, then confirm our <a href=\"/updates/\">Hướng dẫn cheat undetected</a> note before you judge any package “best.”",
 							],
 						},
@@ -21302,7 +21302,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Buying deadside cheats safely",
 							paragraphs: [
 								"Deadside Cheats cung cấp ESP wallhack, radar hack và Deadside Aimbot undetected cho Deadside trên PC Windows. nên so sánh gì trước khi mua deadside cheats",
-								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
+								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 								"Kiểm tra Updates sau bản vá BattlEye. Không cheat nào đảm bảo undetected vĩnh viễn.",
 							],
 						},
@@ -21332,7 +21332,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Deadside Aimbot hack vs visibility tools",
 							paragraphs: [
 								"Deadside Cheats cung cấp ESP wallhack, radar hack và Deadside Aimbot undetected cho Deadside trên PC Windows. hỗ trợ hack Aimbot undetected cho Deadside",
-								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
+								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 								"Prefer softer tracking language? See <a href=\"/deadside-aimbot/\">Aimbot & soft aim</a>. Full settings: <a href=\"/deadside-aimbot/\">Aimbot & soft aim</a>.",
 							],
 						},
@@ -21340,7 +21340,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot hack controls and hotkeys",
 							paragraphs: [
 								"Deadside Cheats cung cấp ESP wallhack, radar hack và Deadside Aimbot undetected cho Deadside trên PC Windows. hỗ trợ hack Aimbot undetected cho Deadside",
-								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
+								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 								"Balance patches from <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> can change ideal FOV — retune after major weapon balance updates.",
 							],
 						},
@@ -21370,7 +21370,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What a Deadside ESP hack shows",
 							paragraphs: [
 								"Deadside Cheats cung cấp ESP wallhack, radar hack và Deadside Aimbot undetected cho Deadside trên PC Windows. hộp ESP hack, pin xác thịt và khoảng cách",
-								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
+								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 								"Canonical visibility guide: <a href=\"/deadside-esp/\">Hướng dẫn ESP & wallhack</a>. Wallhack wording: <a href=\"/deadside-esp/\">Hướng dẫn ESP & wallhack</a>.",
 							],
 						},
@@ -21378,7 +21378,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP hack categories for matches",
 							paragraphs: [
 								"Deadside Cheats cung cấp ESP wallhack, radar hack và Deadside Aimbot undetected cho Deadside trên PC Windows. hộp ESP hack, pin xác thịt và khoảng cách",
-								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
+								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 								"POI and loot changes publish through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> — keep categories toggled to what the current map rewards.",
 							],
 						},
@@ -21408,7 +21408,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What Deadside unlock-all usually means",
 							paragraphs: [
 								"Deadside Cheats cung cấp ESP wallhack, radar hack và Deadside Aimbot undetected cho Deadside trên PC Windows. tìm kiếm unlock-all vs công cụ ESP và Aimbot thật",
-								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
+								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 								"Cosmetics and patch cycle progression items are sold through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Be wary of unlock-all downloads that promise free skins — they are often scams.",
 							],
 						},
@@ -21446,8 +21446,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Thông tin chúng tôi thu thập",
 							paragraphs: [
-								"Deadside Cheats cung cấp ESP wallhack, radar hack và Deadside Aimbot undetected cho Deadside trên PC Windows. Email liên hệ, tham chiếu đơn hàng Zadeyo và dữ liệu bảo mật cơ bản của trang.",
-								"Chi tiết thanh toán được xử lý qua checkout Zadeyo — không lưu trên deadsidecheats.com.",
+								"Deadside Cheats cung cấp ESP wallhack, radar hack và Deadside Aimbot undetected cho Deadside trên PC Windows. Email liên hệ, tham chiếu đơn hàng secure checkout và dữ liệu bảo mật cơ bản của trang.",
+								"Chi tiết thanh toán được xử lý qua secure checkout — không lưu trên deadsidecheats.com.",
 							],
 						},
 						{
@@ -21481,8 +21481,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Giao hàng kỹ thuật số",
 							paragraphs: [
-								"Deadside Cheats cung cấp ESP wallhack, radar hack và Deadside Aimbot undetected cho Deadside trên PC Windows. Email liên hệ, tham chiếu đơn hàng Zadeyo và dữ liệu bảo mật cơ bản của trang.",
-								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
+								"Deadside Cheats cung cấp ESP wallhack, radar hack và Deadside Aimbot undetected cho Deadside trên PC Windows. Email liên hệ, tham chiếu đơn hàng secure checkout và dữ liệu bảo mật cơ bản của trang.",
+								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 							],
 						},
 						{
@@ -21516,8 +21516,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Chấp nhận điều khoản",
 							paragraphs: [
-								"Deadside Cheats cung cấp ESP wallhack, radar hack và Deadside Aimbot undetected cho Deadside trên PC Windows. Email liên hệ, tham chiếu đơn hàng Zadeyo và dữ liệu bảo mật cơ bản của trang.",
-								"giao hàng kỹ thuật số tức thì qua checkout Zadeyo. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
+								"Deadside Cheats cung cấp ESP wallhack, radar hack và Deadside Aimbot undetected cho Deadside trên PC Windows. Email liên hệ, tham chiếu đơn hàng secure checkout và dữ liệu bảo mật cơ bản của trang.",
+								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 							],
 						},
 						{
@@ -21595,7 +21595,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				footer: {
 					explore: "Огляд",
 					help: "Допомога та право",
-					tagline: "Undetected ESP, wallhack, radar і Aimbot для Deadside — оплата через Zadeyo.",
+					tagline: "Undetected ESP, wallhack, radar і Aimbot для Deadside — оплата через secure checkout.",
 				},
 				images: {
 					hero: "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
@@ -21627,7 +21627,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Чому Deadside Cheats у 2026",
 							paragraphs: [
 								"Deadside Cheats об'єднує ESP wallhack, radar hack і Deadside Aimbot у undetected пакеті для Deadside на Windows PC. Ідеально для читання ворожих загонів у BR і PvP raid sessions.",
-								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
+								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 							],
 						},
 						{
@@ -21654,7 +21654,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Що показує ESP",
 							paragraphs: [
 								"Бокси, дистанція та фільтри для гравців, вчених і loot.",
-								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
+								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 							],
 							list: [
 								"ESP гравців",
@@ -21666,7 +21666,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Коли використовувати",
 							paragraphs: [
 								"Чіткі зони POI і extract routes без перевантаження екрана.",
-								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
+								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 							],
 							list: [
 								"Налаштуйте прозорість",
@@ -21678,7 +21678,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Наступні кроки",
 							paragraphs: [
 								"ESP включено з aimbot і radar в одному тарифі.",
-								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
+								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 							],
 							list: [
 								"<a href=\"/\">Повний продукт</a>",
@@ -21704,7 +21704,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Керування",
 							paragraphs: [
 								"Налаштуйте FOV, плавність і пріоритет кісток перед match.",
-								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
+								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 							],
 							list: [
 								"Сила soft aim",
@@ -21716,7 +21716,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Стилі гри",
 							paragraphs: [
 								"Тримайте налаштування стримко для довгих match. Підвищуйте силу лише коли приймаєте більший ризик.",
-								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
+								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 							],
 							list: [
 								"Legit soft aim",
@@ -21728,7 +21728,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Наступні кроки",
 							paragraphs: [
 								"Aimbot включено з ESP і radar в одній ліцензії.",
-								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
+								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 							],
 							list: [
 								"<a href=\"/\">Повний продукт</a>",
@@ -21754,7 +21754,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP & wallhack",
 							paragraphs: [
 								"Deadside Cheats об'єднує ESP wallhack, radar hack і Deadside Aimbot у undetected пакеті для Deadside на Windows PC. ESP, soft aim, керування radar",
-								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
+								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 							],
 							list: [
 								"Player boxes & distance",
@@ -21766,7 +21766,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot & soft aim",
 							paragraphs: [
 								"Deadside Cheats об'єднує ESP wallhack, radar hack і Deadside Aimbot у undetected пакеті для Deadside на Windows PC. ESP, soft aim, керування radar",
-								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
+								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 							],
 							list: [
 								"Smooth aim strength",
@@ -21778,7 +21778,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Radar",
 							paragraphs: [
 								"Deadside Cheats об'єднує ESP wallhack, radar hack і Deadside Aimbot у undetected пакеті для Deadside на Windows PC. ESP, soft aim, керування radar",
-								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
+								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 							],
 							list: [
 								"Nearby enemy cues",
@@ -21790,7 +21790,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Explore related topics",
 							paragraphs: [
 								"Deadside Cheats об'єднує ESP wallhack, radar hack і Deadside Aimbot у undetected пакеті для Deadside на Windows PC. ESP, soft aim, керування radar",
-								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
+								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">ESP & wallhack guide</a>",
@@ -21807,7 +21807,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Updates & support",
 							paragraphs: [
 								"Deadside Cheats об'єднує ESP wallhack, radar hack і Deadside Aimbot у undetected пакеті для Deadside на Windows PC. ESP, soft aim, керування radar",
-								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
+								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 							],
 							list: [
 								"Status on the Status page",
@@ -21857,7 +21857,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Перед покупкою",
 							paragraphs: [
 								"За потреби прочитайте політику повернення. Зверніться в підтримку з ID замовлення.",
-								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
+								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 							],
 							list: [
 								"<a href=\"/refund-policy/\">Політика повернення</a>",
@@ -21883,7 +21883,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Перед встановленням",
 							paragraphs: [
 								"Спочатку купіть тариф. Ліцензія на email.",
-								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
+								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 							],
 							list: [
 								"Windows 10 / 11 PC",
@@ -21895,7 +21895,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Кроки встановлення",
 							paragraphs: [
 								"Запустіть loader від адміна, вставте ліцензію, запустіть Deadside.",
-								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
+								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 							],
 							list: [
 								"Завантажте loader з email доставки",
@@ -21907,7 +21907,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Якщо щось не працює",
 							paragraphs: [
 								"Перевірте Статус після патчу. Email support@deadsidecheats.com з ID замовлення.",
-								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
+								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 							],
 							list: [
 								"<a href=\"/updates/\">Гайд undetected чітів</a>",
@@ -21945,7 +21945,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Після патчу",
 							paragraphs: [
 								"Дочекайтеся нотатки про перезбірку, потім запускайте. Не грайте на старому білді після великого оновлення.",
-								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
+								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 							],
 							list: [
 								"Прочитайте останню нотатку статусу",
@@ -21957,7 +21957,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Важливо",
 							paragraphs: [
 								"Жоден чит не безпечний на 100% назавжди. Будьте в курсі та використовуйте безпечні налаштування.",
-								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
+								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 							],
 							list: [
 								"Спочатку статус, потім гра",
@@ -21982,7 +21982,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Покупка та доставка",
 							paragraphs: [
 								"Після оплати отримуєте цифрову ліцензію на email.",
-								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
+								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 							],
 							list: [
 								"Миттєва доставка після checkout",
@@ -21994,7 +21994,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Встановлення та оновлення",
 							paragraphs: [
 								"Дотримуйтесь Встановлення після покупки. Перевіряйте Статус після великих патчів Deadside або BattlEye.",
-								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
+								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 							],
 							list: [
 								"<a href=\"/setup/\">Гайд з встановлення</a>",
@@ -22005,7 +22005,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Повернення коштів",
 							paragraphs: [
 								"Прочитайте політику повернення перед покупкою, якщо потрібні деталі.",
-								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
+								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 							],
 							list: [
 								"<a href=\"/refund-policy/\">Політика повернення</a>",
@@ -22030,7 +22030,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Як зв'язатися",
 							paragraphs: [
 								"Email support@deadsidecheats.com. Додайте ID замовлення і короткий опис проблеми.",
-								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
+								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 							],
 							list: [
 								"ID замовлення з квитанції",
@@ -22042,7 +22042,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Швидші відповіді",
 							paragraphs: [
 								"Перевірте FAQ і Статус перед листом. Багато питань встановлення вже описані.",
-								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
+								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 							],
 							list: [
 								"<a href=\"/faq/\">FAQ</a>",
@@ -22068,7 +22068,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Що означає undetected для Deadside Cheats",
 							paragraphs: [
 								"Deadside Cheats об'єднує ESP wallhack, radar hack і Deadside Aimbot у undetected пакеті для Deadside на Windows PC. undetected обслуговування після патчів BattlEye",
-								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
+								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 								"Anti-cheat technology is documented by <a href=\"https://www.battleye.com/\" target=\"_blank\" rel=\"noopener noreferrer\">BattlEye</a>; Deadside client updates ship through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Undetected status is an ongoing process tied to those releases.",
 							],
 						},
@@ -22114,7 +22114,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Wallhack ESP vs raw aim tools",
 							paragraphs: [
 								"Deadside Cheats об'єднує ESP wallhack, radar hack і Deadside Aimbot у undetected пакеті для Deadside на Windows PC. wallhack ESP для гравців, туш і дистанції",
-								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
+								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 								"For the broader ESP keyword page see <a href=\"/deadside-esp/\">Гайд ESP і wallhack</a>; for combat assist see <a href=\"/deadside-aimbot/\">Aimbot і soft aim</a>.",
 							],
 						},
@@ -22152,7 +22152,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Що показує",
 							paragraphs: [
 								"Підказки про ближніх ворогів з регульованою дальністю для solo farmer і matcher.",
-								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
+								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 							],
 							list: [
 								"Контроль флангів",
@@ -22164,7 +22164,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "З ESP",
 							paragraphs: [
 								"Radar для загроз, яких ще не видно. ESP під час push.",
-								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
+								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">Гайд ESP і wallhack</a>",
@@ -22311,7 +22311,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Гайди модулів",
 							paragraphs: [
 								"Кожен інструмент має окрему сторінку, якщо потрібні деталі перед checkout.",
-								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
+								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">Гайд ESP і wallhack</a>",
@@ -22324,7 +22324,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Undetected статус і патчі",
 							paragraphs: [
 								"Deadside використовує BattlEye. Жоден чит не undetected назавжди — важливе обслуговування після патчів. Перевіряйте сторінку Статус після кожного оновлення Deadside або EAC перед грою.",
-								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
+								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 							],
 							list: [
 								"<a href=\"/updates/\">Гайд undetected чітів</a>",
@@ -22337,7 +22337,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Як почати",
 							paragraphs: [
 								"Оберіть місячний ($35) або lifetime ($150) у магазині — ті самі функції. Після checkout ліцензія на email. Дотримуйтесь гайду з встановлення та перевіряйте статус після великих патчів.",
-								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
+								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 							],
 							list: [
 								"<a href=\"/pricing/\">Магазин</a>",
@@ -22401,7 +22401,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What a Deadside mod menu controls",
 							paragraphs: [
 								"Deadside Cheats об'єднує ESP wallhack, radar hack і Deadside Aimbot у undetected пакеті для Deadside на Windows PC. перемикачі ESP і soft aim у клієнті",
-								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
+								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 								"Control deep-dives: <a href=\"/deadside-esp/\">Гайд ESP і wallhack</a>, <a href=\"/deadside-aimbot/\">Aimbot і soft aim</a>, <a href=\"/deadside-radar-hack/\">2D радар overlay</a>.",
 							],
 						},
@@ -22439,7 +22439,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What Deadside soft aim means",
 							paragraphs: [
 								"Deadside Cheats об'єднує ESP wallhack, radar hack і Deadside Aimbot у undetected пакеті для Deadside на Windows PC. плавні налаштування soft aim для Windows PC",
-								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
+								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 								"Full Aimbot documentation: <a href=\"/deadside-aimbot/\">Aimbot і soft aim</a>. Alternate wording: <a href=\"/deadside-aimbot/\">Aimbot і soft aim</a>.",
 							],
 						},
@@ -22477,7 +22477,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What makes deadside cheats in 2026",
 							paragraphs: [
 								"Deadside Cheats об'єднує ESP wallhack, radar hack і Deadside Aimbot у undetected пакеті для Deadside на Windows PC. що порівняти перед покупкою deadside cheats",
-								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
+								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 								"Verify the live game is healthy via <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside on Steam</a>, then confirm our <a href=\"/updates/\">Гайд undetected чітів</a> note before you judge any package “best.”",
 							],
 						},
@@ -22493,7 +22493,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Buying deadside cheats safely",
 							paragraphs: [
 								"Deadside Cheats об'єднує ESP wallhack, radar hack і Deadside Aimbot у undetected пакеті для Deadside на Windows PC. що порівняти перед покупкою deadside cheats",
-								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
+								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 								"Перевіряйте Updates після патчів BattlEye. Жоден чит не гарантує постійний undetected статус.",
 							],
 						},
@@ -22523,7 +22523,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Deadside Aimbot hack vs visibility tools",
 							paragraphs: [
 								"Deadside Cheats об'єднує ESP wallhack, radar hack і Deadside Aimbot у undetected пакеті для Deadside на Windows PC. undetected Aimbot hack assist для Deadside",
-								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
+								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 								"Prefer softer tracking language? See <a href=\"/deadside-aimbot/\">Aimbot і soft aim</a>. Full settings: <a href=\"/deadside-aimbot/\">Aimbot і soft aim</a>.",
 							],
 						},
@@ -22531,7 +22531,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot hack controls and hotkeys",
 							paragraphs: [
 								"Deadside Cheats об'єднує ESP wallhack, radar hack і Deadside Aimbot у undetected пакеті для Deadside на Windows PC. undetected Aimbot hack assist для Deadside",
-								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
+								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 								"Balance patches from <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> can change ideal FOV — retune after major weapon balance updates.",
 							],
 						},
@@ -22561,7 +22561,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What a Deadside ESP hack shows",
 							paragraphs: [
 								"Deadside Cheats об'єднує ESP wallhack, radar hack і Deadside Aimbot у undetected пакеті для Deadside на Windows PC. ESP hack бокси, pins туш і дистанція",
-								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
+								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 								"Canonical visibility guide: <a href=\"/deadside-esp/\">Гайд ESP і wallhack</a>. Wallhack wording: <a href=\"/deadside-esp/\">Гайд ESP і wallhack</a>.",
 							],
 						},
@@ -22569,7 +22569,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP hack categories for matches",
 							paragraphs: [
 								"Deadside Cheats об'єднує ESP wallhack, radar hack і Deadside Aimbot у undetected пакеті для Deadside на Windows PC. ESP hack бокси, pins туш і дистанція",
-								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
+								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 								"POI and loot changes publish through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> — keep categories toggled to what the current map rewards.",
 							],
 						},
@@ -22599,7 +22599,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What Deadside unlock-all usually means",
 							paragraphs: [
 								"Deadside Cheats об'єднує ESP wallhack, radar hack і Deadside Aimbot у undetected пакеті для Deadside на Windows PC. пошуки unlock-all vs справжні ESP і Aimbot інструменти",
-								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
+								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 								"Cosmetics and patch cycle progression items are sold through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Be wary of unlock-all downloads that promise free skins — they are often scams.",
 							],
 						},
@@ -22637,8 +22637,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Інформація, яку ми збираємо",
 							paragraphs: [
-								"Deadside Cheats об'єднує ESP wallhack, radar hack і Deadside Aimbot у undetected пакеті для Deadside на Windows PC. Контактний email, посилання на замовлення Zadeyo та базові дані безпеки сайту.",
-								"Платіжні дані обробляються через checkout Zadeyo — не зберігаються на deadsidecheats.com.",
+								"Deadside Cheats об'єднує ESP wallhack, radar hack і Deadside Aimbot у undetected пакеті для Deadside на Windows PC. Контактний email, посилання на замовлення secure checkout та базові дані безпеки сайту.",
+								"Платіжні дані обробляються через secure checkout — не зберігаються на deadsidecheats.com.",
 							],
 						},
 						{
@@ -22672,8 +22672,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Цифрова доставка",
 							paragraphs: [
-								"Deadside Cheats об'єднує ESP wallhack, radar hack і Deadside Aimbot у undetected пакеті для Deadside на Windows PC. Контактний email, посилання на замовлення Zadeyo та базові дані безпеки сайту.",
-								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
+								"Deadside Cheats об'єднує ESP wallhack, radar hack і Deadside Aimbot у undetected пакеті для Deadside на Windows PC. Контактний email, посилання на замовлення secure checkout та базові дані безпеки сайту.",
+								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 							],
 						},
 						{
@@ -22707,8 +22707,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Прийняття умов",
 							paragraphs: [
-								"Deadside Cheats об'єднує ESP wallhack, radar hack і Deadside Aimbot у undetected пакеті для Deadside на Windows PC. Контактний email, посилання на замовлення Zadeyo та базові дані безпеки сайту.",
-								"Ліцензії з миттєва цифрова доставка через checkout Zadeyo. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
+								"Deadside Cheats об'єднує ESP wallhack, radar hack і Deadside Aimbot у undetected пакеті для Deadside на Windows PC. Контактний email, посилання на замовлення secure checkout та базові дані безпеки сайту.",
+								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 							],
 						},
 						{
@@ -22786,7 +22786,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				footer: {
 					explore: "Prozkoumat",
 					help: "Nápověda a právo",
-					tagline: "Undetected ESP, wallhack, radar a Aimbot pro Deadside — checkout přes Zadeyo.",
+					tagline: "Undetected ESP, wallhack, radar a Aimbot pro Deadside — checkout přes secure checkout.",
 				},
 				images: {
 					hero: "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
@@ -22818,7 +22818,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Proč Deadside Cheats v roce 2026",
 							paragraphs: [
 								"Deadside Cheats spojuje ESP wallhack, radar hack a Deadside Aimbot jako undetected balíček pro Deadside na Windows PC. Ideální pro čtení nepřátelských squadů v BR a PvP raid sessions.",
-								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
+								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 							],
 						},
 						{
@@ -22845,7 +22845,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Co ESP zobrazuje",
 							paragraphs: [
 								"Boxy, vzdálenost a filtry pro hráče, vědce a loot.",
-								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
+								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 							],
 							list: [
 								"ESP hráčů",
@@ -22857,7 +22857,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Kdy použít",
 							paragraphs: [
 								"Přehledné high-traffic compounds a extract routes bez zaplnění obrazovky.",
-								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
+								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 							],
 							list: [
 								"Upravte průhlednost",
@@ -22869,7 +22869,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Další kroky",
 							paragraphs: [
 								"ESP včetně aimbotu a radaru v jednom plánu.",
-								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
+								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 							],
 							list: [
 								"<a href=\"/\">Kompletní produkt</a>",
@@ -22895,7 +22895,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Ovládání",
 							paragraphs: [
 								"Před match nastavte FOV, smoothness a prioritu kostí.",
-								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
+								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 							],
 							list: [
 								"Síla soft aim",
@@ -22907,7 +22907,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Herní styly",
 							paragraphs: [
 								"Pro delší matchy držte jemná nastavení. Sílu zvyšte jen když akceptujete větší riziko.",
-								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
+								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 							],
 							list: [
 								"Legit soft aim",
@@ -22919,7 +22919,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Další kroky",
 							paragraphs: [
 								"Aimbot včetně ESP a radaru v jedné licenci.",
-								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
+								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 							],
 							list: [
 								"<a href=\"/\">Kompletní produkt</a>",
@@ -22945,7 +22945,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP & wallhack",
 							paragraphs: [
 								"Deadside Cheats spojuje ESP wallhack, radar hack a Deadside Aimbot jako undetected balíček pro Deadside na Windows PC. ESP, soft aim, ovládání radar",
-								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
+								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 							],
 							list: [
 								"Player boxes & distance",
@@ -22957,7 +22957,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot & soft aim",
 							paragraphs: [
 								"Deadside Cheats spojuje ESP wallhack, radar hack a Deadside Aimbot jako undetected balíček pro Deadside na Windows PC. ESP, soft aim, ovládání radar",
-								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
+								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 							],
 							list: [
 								"Smooth aim strength",
@@ -22969,7 +22969,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Radar",
 							paragraphs: [
 								"Deadside Cheats spojuje ESP wallhack, radar hack a Deadside Aimbot jako undetected balíček pro Deadside na Windows PC. ESP, soft aim, ovládání radar",
-								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
+								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 							],
 							list: [
 								"Nearby enemy cues",
@@ -22981,7 +22981,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Explore related topics",
 							paragraphs: [
 								"Deadside Cheats spojuje ESP wallhack, radar hack a Deadside Aimbot jako undetected balíček pro Deadside na Windows PC. ESP, soft aim, ovládání radar",
-								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
+								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">ESP & wallhack guide</a>",
@@ -22998,7 +22998,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Updates & support",
 							paragraphs: [
 								"Deadside Cheats spojuje ESP wallhack, radar hack a Deadside Aimbot jako undetected balíček pro Deadside na Windows PC. ESP, soft aim, ovládání radar",
-								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
+								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 							],
 							list: [
 								"Status on the Status page",
@@ -23048,7 +23048,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Před nákupem",
 							paragraphs: [
 								"V případě potřeby si přečtěte zásady vrácení. Kontaktujte podporu s ID objednávky.",
-								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
+								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 							],
 							list: [
 								"<a href=\"/refund-policy/\">Zásady vrácení peněz</a>",
@@ -23074,7 +23074,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Před instalací",
 							paragraphs: [
 								"Nejdřív kupte plán. Licenci dostanete e-mailem.",
-								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
+								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 							],
 							list: [
 								"Windows 10 / 11 PC",
@@ -23086,7 +23086,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Kroky instalace",
 							paragraphs: [
 								"Spusťte loader jako admin, vložte licenci, spusťte Deadside.",
-								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
+								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 							],
 							list: [
 								"Stáhněte loader z doručovacího e-mailu",
@@ -23098,7 +23098,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Pokud něco selže",
 							paragraphs: [
 								"Po patchi zkontrolujte Stav. Email support@deadsidecheats.com s ID objednávky.",
-								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
+								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 							],
 							list: [
 								"<a href=\"/updates/\">Průvodce undetected cheaty</a>",
@@ -23136,7 +23136,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Po patchi",
 							paragraphs: [
 								"Počkejte na poznámku o rebuildu, pak spusťte. Nehrajte na starém buildu po velké aktualizaci.",
-								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
+								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 							],
 							list: [
 								"Přečtěte nejnovější poznámku stavu",
@@ -23148,7 +23148,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Důležité",
 							paragraphs: [
 								"Žádný cheat není navždy 100% bezpečný. Buďte aktuální a používejte bezpečná nastavení.",
-								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
+								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 							],
 							list: [
 								"Nejdřív stav, pak hra",
@@ -23173,7 +23173,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Nákup a doručení",
 							paragraphs: [
 								"Po platbě dostanete digitální licenci e-mailem.",
-								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
+								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 							],
 							list: [
 								"Okamžité doručení po checkout",
@@ -23185,7 +23185,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Instalace a aktualizace",
 							paragraphs: [
 								"Po nákupu postupujte podle Instalace. Po velkých patchích Deadside nebo BattlEye kontrolujte Stav.",
-								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
+								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 							],
 							list: [
 								"<a href=\"/setup/\">Průvodce instalací</a>",
@@ -23196,7 +23196,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Vrácení peněz",
 							paragraphs: [
 								"Přečtěte si zásady vrácení před nákupem, pokud potřebujete podrobnosti.",
-								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
+								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 							],
 							list: [
 								"<a href=\"/refund-policy/\">Zásady vrácení peněz</a>",
@@ -23221,7 +23221,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Jak nás kontaktovat",
 							paragraphs: [
 								"Email support@deadsidecheats.com. Uveďte ID objednávky a stručný popis problému.",
-								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
+								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 							],
 							list: [
 								"ID objednávky z účtenky",
@@ -23233,7 +23233,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Rychlejší odpovědi",
 							paragraphs: [
 								"Před psaním zkontrolujte FAQ a Stav. Mnoho otázek instalace je již popsáno.",
-								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
+								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 							],
 							list: [
 								"<a href=\"/faq/\">FAQ</a>",
@@ -23259,7 +23259,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Co znamená undetected pro Deadside Cheats",
 							paragraphs: [
 								"Deadside Cheats spojuje ESP wallhack, radar hack a Deadside Aimbot jako undetected balíček pro Deadside na Windows PC. undetected údržba po patchech BattlEye",
-								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
+								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 								"Anti-cheat technology is documented by <a href=\"https://www.battleye.com/\" target=\"_blank\" rel=\"noopener noreferrer\">BattlEye</a>; Deadside client updates ship through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Undetected status is an ongoing process tied to those releases.",
 							],
 						},
@@ -23305,7 +23305,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Wallhack ESP vs raw aim tools",
 							paragraphs: [
 								"Deadside Cheats spojuje ESP wallhack, radar hack a Deadside Aimbot jako undetected balíček pro Deadside na Windows PC. wallhack ESP pro hráče, kadávery a vzdálenost",
-								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
+								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 								"For the broader ESP keyword page see <a href=\"/deadside-esp/\">Průvodce ESP a wallhack</a>; for combat assist see <a href=\"/deadside-aimbot/\">Aimbot a soft aim</a>.",
 							],
 						},
@@ -23343,7 +23343,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Co zobrazuje",
 							paragraphs: [
 								"Signály blízkých nepřátel s nastavitelným dosahem pro solo farmáře a matcher.",
-								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
+								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 							],
 							list: [
 								"Povědomí o flanku",
@@ -23355,7 +23355,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "S ESP",
 							paragraphs: [
 								"Radar pro hrozby, které ještě nevidíte. ESP při pushi.",
-								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
+								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">Průvodce ESP a wallhack</a>",
@@ -23502,7 +23502,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Průvodce moduly",
 							paragraphs: [
 								"Každý nástroj má vlastní detailní stránku, chcete-li více info před checkout.",
-								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
+								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">Průvodce ESP a wallhack</a>",
@@ -23515,7 +23515,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Undetected stav a patche",
 							paragraphs: [
 								"Deadside používá BattlEye. Žádný cheat není undetected navždy — záleží na údržbě po patchi. Před hrou zkontrolujte stránku Stav po každé aktualizaci Deadside nebo EAC.",
-								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
+								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 							],
 							list: [
 								"<a href=\"/updates/\">Průvodce undetected cheaty</a>",
@@ -23528,7 +23528,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Jak začít",
 							paragraphs: [
 								"Zvolte měsíční ($35) nebo lifetime ($150) v obchodě — stejné funkce. Po checkout licence e-mailem. Postupujte podle instalace a kontrolujte stav po velkých patchích.",
-								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
+								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 							],
 							list: [
 								"<a href=\"/pricing/\">Obchod</a>",
@@ -23592,7 +23592,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What a Deadside mod menu controls",
 							paragraphs: [
 								"Deadside Cheats spojuje ESP wallhack, radar hack a Deadside Aimbot jako undetected balíček pro Deadside na Windows PC. přepínače ESP a soft aim v klientu",
-								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
+								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 								"Control deep-dives: <a href=\"/deadside-esp/\">Průvodce ESP a wallhack</a>, <a href=\"/deadside-aimbot/\">Aimbot a soft aim</a>, <a href=\"/deadside-radar-hack/\">2D radar overlay</a>.",
 							],
 						},
@@ -23630,7 +23630,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What Deadside soft aim means",
 							paragraphs: [
 								"Deadside Cheats spojuje ESP wallhack, radar hack a Deadside Aimbot jako undetected balíček pro Deadside na Windows PC. plynulé nastavení soft aim pro Windows PC",
-								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
+								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 								"Full Aimbot documentation: <a href=\"/deadside-aimbot/\">Aimbot a soft aim</a>. Alternate wording: <a href=\"/deadside-aimbot/\">Aimbot a soft aim</a>.",
 							],
 						},
@@ -23668,7 +23668,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What makes deadside cheats in 2026",
 							paragraphs: [
 								"Deadside Cheats spojuje ESP wallhack, radar hack a Deadside Aimbot jako undetected balíček pro Deadside na Windows PC. co porovnat před nákupem deadside cheats",
-								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
+								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 								"Verify the live game is healthy via <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside on Steam</a>, then confirm our <a href=\"/updates/\">Průvodce undetected cheaty</a> note before you judge any package “best.”",
 							],
 						},
@@ -23684,7 +23684,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Buying deadside cheats safely",
 							paragraphs: [
 								"Deadside Cheats spojuje ESP wallhack, radar hack a Deadside Aimbot jako undetected balíček pro Deadside na Windows PC. co porovnat před nákupem deadside cheats",
-								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
+								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 								"Po patchích BattlEye zkontrolujte Updates. Žádný cheat negarantuje trvalý undetected stav.",
 							],
 						},
@@ -23714,7 +23714,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Deadside Aimbot hack vs visibility tools",
 							paragraphs: [
 								"Deadside Cheats spojuje ESP wallhack, radar hack a Deadside Aimbot jako undetected balíček pro Deadside na Windows PC. undetected Aimbot hack assist pro Deadside",
-								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
+								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 								"Prefer softer tracking language? See <a href=\"/deadside-aimbot/\">Aimbot a soft aim</a>. Full settings: <a href=\"/deadside-aimbot/\">Aimbot a soft aim</a>.",
 							],
 						},
@@ -23722,7 +23722,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot hack controls and hotkeys",
 							paragraphs: [
 								"Deadside Cheats spojuje ESP wallhack, radar hack a Deadside Aimbot jako undetected balíček pro Deadside na Windows PC. undetected Aimbot hack assist pro Deadside",
-								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
+								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 								"Balance patches from <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> can change ideal FOV — retune after major weapon balance updates.",
 							],
 						},
@@ -23752,7 +23752,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What a Deadside ESP hack shows",
 							paragraphs: [
 								"Deadside Cheats spojuje ESP wallhack, radar hack a Deadside Aimbot jako undetected balíček pro Deadside na Windows PC. ESP hack boxy, piny kadáverů a vzdálenost",
-								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
+								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 								"Canonical visibility guide: <a href=\"/deadside-esp/\">Průvodce ESP a wallhack</a>. Wallhack wording: <a href=\"/deadside-esp/\">Průvodce ESP a wallhack</a>.",
 							],
 						},
@@ -23760,7 +23760,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP hack categories for matches",
 							paragraphs: [
 								"Deadside Cheats spojuje ESP wallhack, radar hack a Deadside Aimbot jako undetected balíček pro Deadside na Windows PC. ESP hack boxy, piny kadáverů a vzdálenost",
-								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
+								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 								"POI and loot changes publish through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> — keep categories toggled to what the current map rewards.",
 							],
 						},
@@ -23790,7 +23790,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What Deadside unlock-all usually means",
 							paragraphs: [
 								"Deadside Cheats spojuje ESP wallhack, radar hack a Deadside Aimbot jako undetected balíček pro Deadside na Windows PC. vyhledávání unlock-all vs skutečné ESP a Aimbot nástroje",
-								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
+								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 								"Cosmetics and patch cycle progression items are sold through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Be wary of unlock-all downloads that promise free skins — they are often scams.",
 							],
 						},
@@ -23828,8 +23828,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Informace, které shromažďujeme",
 							paragraphs: [
-								"Deadside Cheats spojuje ESP wallhack, radar hack a Deadside Aimbot jako undetected balíček pro Deadside na Windows PC. Kontaktní e-mail, reference objednávek Zadeyo a základní bezpečnostní data webu.",
-								"Platební údaje zpracovává checkout Zadeyo — neukládají se na deadsidecheats.com.",
+								"Deadside Cheats spojuje ESP wallhack, radar hack a Deadside Aimbot jako undetected balíček pro Deadside na Windows PC. Kontaktní e-mail, reference objednávek secure checkout a základní bezpečnostní data webu.",
+								"Platební údaje zpracovává secure checkout — neukládají se na deadsidecheats.com.",
 							],
 						},
 						{
@@ -23863,8 +23863,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Digitální doručení",
 							paragraphs: [
-								"Deadside Cheats spojuje ESP wallhack, radar hack a Deadside Aimbot jako undetected balíček pro Deadside na Windows PC. Kontaktní e-mail, reference objednávek Zadeyo a základní bezpečnostní data webu.",
-								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
+								"Deadside Cheats spojuje ESP wallhack, radar hack a Deadside Aimbot jako undetected balíček pro Deadside na Windows PC. Kontaktní e-mail, reference objednávek secure checkout a základní bezpečnostní data webu.",
+								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 							],
 						},
 						{
@@ -23898,8 +23898,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Přijetí podmínek",
 							paragraphs: [
-								"Deadside Cheats spojuje ESP wallhack, radar hack a Deadside Aimbot jako undetected balíček pro Deadside na Windows PC. Kontaktní e-mail, reference objednávek Zadeyo a základní bezpečnostní data webu.",
-								"Licence s okamžité digitální doručení přes checkout Zadeyo. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
+								"Deadside Cheats spojuje ESP wallhack, radar hack a Deadside Aimbot jako undetected balíček pro Deadside na Windows PC. Kontaktní e-mail, reference objednávek secure checkout a základní bezpečnostní data webu.",
+								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 							],
 						},
 						{
@@ -23977,7 +23977,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				footer: {
 					explore: "Explorează",
 					help: "Ajutor și legal",
-					tagline: "ESP, wallhack, radar și Aimbot undetected pentru Deadside — checkout via Zadeyo.",
+					tagline: "ESP, wallhack, radar și Aimbot undetected pentru Deadside.",
 				},
 				images: {
 					hero: "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
@@ -24009,7 +24009,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "De ce Deadside Cheats în 2026",
 							paragraphs: [
 								"Deadside Cheats combină ESP wallhack, radar hack și Deadside Aimbot undetected pentru Deadside pe PC Windows. Ideal pentru citirea squad-urilor inamice în BR și PvP raid sessions.",
-								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
+								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 							],
 						},
 						{
@@ -24036,7 +24036,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Ce arată ESP",
 							paragraphs: [
 								"Cutii, distanță și filtre pentru jucători, oameni de știință și loot.",
-								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
+								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 							],
 							list: [
 								"ESP jucător",
@@ -24048,7 +24048,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Când să folosești",
 							paragraphs: [
 								"Zone POI și extract routes clare fără a umple ecranul.",
-								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
+								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 							],
 							list: [
 								"Ajustează opacitatea",
@@ -24060,7 +24060,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Pașii următori",
 							paragraphs: [
 								"ESP inclus cu aimbot și radar într-un plan.",
-								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
+								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 							],
 							list: [
 								"<a href=\"/\">Produs complet</a>",
@@ -24086,7 +24086,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Controale",
 							paragraphs: [
 								"Setează FOV, smoothness și prioritate oase înainte de match.",
-								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
+								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 							],
 							list: [
 								"Putere soft aim",
@@ -24098,7 +24098,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Stiluri de joc",
 							paragraphs: [
 								"Păstrează setări subtile pentru match-uri lungi. Crește puterea doar când accepți mai mult risc.",
-								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
+								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 							],
 							list: [
 								"Soft aim legit",
@@ -24110,7 +24110,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Pașii următori",
 							paragraphs: [
 								"Aimbot inclus cu ESP și radar într-o licență.",
-								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
+								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 							],
 							list: [
 								"<a href=\"/\">Produs complet</a>",
@@ -24136,7 +24136,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP & wallhack",
 							paragraphs: [
 								"Deadside Cheats combină ESP wallhack, radar hack și Deadside Aimbot undetected pentru Deadside pe PC Windows. ESP, soft aim, controale radar",
-								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
+								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 							],
 							list: [
 								"Player boxes & distance",
@@ -24148,7 +24148,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot & soft aim",
 							paragraphs: [
 								"Deadside Cheats combină ESP wallhack, radar hack și Deadside Aimbot undetected pentru Deadside pe PC Windows. ESP, soft aim, controale radar",
-								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
+								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 							],
 							list: [
 								"Smooth aim strength",
@@ -24160,7 +24160,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Radar",
 							paragraphs: [
 								"Deadside Cheats combină ESP wallhack, radar hack și Deadside Aimbot undetected pentru Deadside pe PC Windows. ESP, soft aim, controale radar",
-								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
+								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 							],
 							list: [
 								"Nearby enemy cues",
@@ -24172,7 +24172,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Explore related topics",
 							paragraphs: [
 								"Deadside Cheats combină ESP wallhack, radar hack și Deadside Aimbot undetected pentru Deadside pe PC Windows. ESP, soft aim, controale radar",
-								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
+								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">ESP & wallhack guide</a>",
@@ -24189,7 +24189,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Updates & support",
 							paragraphs: [
 								"Deadside Cheats combină ESP wallhack, radar hack și Deadside Aimbot undetected pentru Deadside pe PC Windows. ESP, soft aim, controale radar",
-								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
+								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 							],
 							list: [
 								"Status on the Status page",
@@ -24239,7 +24239,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Înainte de cumpărare",
 							paragraphs: [
 								"Citește politica de rambursare dacă ai nevoie. Contactează suportul cu ID-ul comenzii.",
-								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
+								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 							],
 							list: [
 								"<a href=\"/refund-policy/\">Politica de rambursare</a>",
@@ -24265,7 +24265,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Înainte de instalare",
 							paragraphs: [
 								"Cumpără un plan mai întâi. Primești licența pe email.",
-								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
+								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 							],
 							list: [
 								"PC Windows 10 / 11",
@@ -24277,7 +24277,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Pași de instalare",
 							paragraphs: [
 								"Rulează loader ca admin, lipește licența, lansează Deadside.",
-								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
+								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 							],
 							list: [
 								"Descarcă loader din email livrare",
@@ -24289,7 +24289,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Dacă ceva nu funcționează",
 							paragraphs: [
 								"Verifică Status după patch. Email support@deadsidecheats.com cu ID comandă.",
-								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
+								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 							],
 							list: [
 								"<a href=\"/updates/\">Ghid cheats undetected</a>",
@@ -24327,7 +24327,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "După patch",
 							paragraphs: [
 								"Așteaptă nota de rebuild, apoi lansează. Nu juca pe build vechi după update major.",
-								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
+								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 							],
 							list: [
 								"Citește ultima notă de status",
@@ -24339,7 +24339,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Important",
 							paragraphs: [
 								"Niciun cheat nu e 100% sigur pentru totdeauna. Rămâi la zi și folosește setări sigure.",
-								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
+								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 							],
 							list: [
 								"Status mai întâi, apoi joacă",
@@ -24364,7 +24364,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Cumpărare și livrare",
 							paragraphs: [
 								"Primești licență digitală prin email după plată.",
-								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
+								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 							],
 							list: [
 								"Livrare instant după checkout",
@@ -24376,7 +24376,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Instalare și actualizări",
 							paragraphs: [
 								"Urmează Instalarea după cumpărare. Verifică Status după patch-uri mari Deadside sau BattlEye.",
-								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
+								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 							],
 							list: [
 								"<a href=\"/setup/\">Ghid de instalare</a>",
@@ -24387,7 +24387,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Rambursări",
 							paragraphs: [
 								"Citește politica de rambursare înainte de cumpărare dacă ai nevoie de detalii.",
-								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
+								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 							],
 							list: [
 								"<a href=\"/refund-policy/\">Politica de rambursare</a>",
@@ -24412,7 +24412,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Cum ne contactezi",
 							paragraphs: [
 								"Email support@deadsidecheats.com. Include ID comandă și notă scurtă despre problemă.",
-								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
+								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 							],
 							list: [
 								"ID comandă din chitanță",
@@ -24424,7 +24424,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Răspunsuri mai rapide",
 							paragraphs: [
 								"Verifică FAQ și Status înainte de a scrie. Multe întrebări de instalare sunt deja acoperite.",
-								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
+								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 							],
 							list: [
 								"<a href=\"/faq/\">FAQ</a>",
@@ -24450,7 +24450,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Ce înseamnă undetected pentru Deadside Cheats",
 							paragraphs: [
 								"Deadside Cheats combină ESP wallhack, radar hack și Deadside Aimbot undetected pentru Deadside pe PC Windows. mentenanță undetected după patch-uri BattlEye",
-								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
+								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 								"Anti-cheat technology is documented by <a href=\"https://www.battleye.com/\" target=\"_blank\" rel=\"noopener noreferrer\">BattlEye</a>; Deadside client updates ship through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Undetected status is an ongoing process tied to those releases.",
 							],
 						},
@@ -24496,7 +24496,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Wallhack ESP vs raw aim tools",
 							paragraphs: [
 								"Deadside Cheats combină ESP wallhack, radar hack și Deadside Aimbot undetected pentru Deadside pe PC Windows. wallhack ESP pentru jucători, carcase și distanță",
-								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
+								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 								"For the broader ESP keyword page see <a href=\"/deadside-esp/\">Ghid ESP și wallhack</a>; for combat assist see <a href=\"/deadside-aimbot/\">Aimbot și soft aim</a>.",
 							],
 						},
@@ -24534,7 +24534,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Ce arată",
 							paragraphs: [
 								"Indicii inamici apropiați cu rază ajustabilă pentru solo farmers și matcheri.",
-								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
+								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 							],
 							list: [
 								"Conștientizare flancuri",
@@ -24546,7 +24546,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Cu ESP",
 							paragraphs: [
 								"Folosește radar pentru amenințări pe care încă nu le vezi. ESP la push.",
-								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
+								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">Ghid ESP și wallhack</a>",
@@ -24693,7 +24693,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Ghiduri module",
 							paragraphs: [
 								"Fiecare tool are pagină detaliată dacă vrei mai multe info înainte de checkout.",
-								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
+								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">Ghid ESP și wallhack</a>",
@@ -24706,7 +24706,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Status undetected și patch-uri",
 							paragraphs: [
 								"Deadside folosește BattlEye. Niciun cheat nu rămâne undetected pentru totdeauna — mentenanța după patch contează. Verifică pagina Status după fiecare update Deadside sau EAC înainte de joc.",
-								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
+								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 							],
 							list: [
 								"<a href=\"/updates/\">Ghid cheats undetected</a>",
@@ -24719,7 +24719,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Cum să începi",
 							paragraphs: [
 								"Alege lunar ($35) sau lifetime ($150) în magazin — aceleași funcții. După checkout licența pe email. Urmează ghidul de instalare și verifică statusul după patch-uri mari.",
-								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
+								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 							],
 							list: [
 								"<a href=\"/pricing/\">Magazin</a>",
@@ -24783,7 +24783,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What a Deadside mod menu controls",
 							paragraphs: [
 								"Deadside Cheats combină ESP wallhack, radar hack și Deadside Aimbot undetected pentru Deadside pe PC Windows. toggle-uri ESP și soft aim in-client",
-								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
+								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 								"Control deep-dives: <a href=\"/deadside-esp/\">Ghid ESP și wallhack</a>, <a href=\"/deadside-aimbot/\">Aimbot și soft aim</a>, <a href=\"/deadside-radar-hack/\">Overlay radar 2D</a>.",
 							],
 						},
@@ -24821,7 +24821,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What Deadside soft aim means",
 							paragraphs: [
 								"Deadside Cheats combină ESP wallhack, radar hack și Deadside Aimbot undetected pentru Deadside pe PC Windows. setări soft aim fluide pentru Windows PC",
-								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
+								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 								"Full Aimbot documentation: <a href=\"/deadside-aimbot/\">Aimbot și soft aim</a>. Alternate wording: <a href=\"/deadside-aimbot/\">Aimbot și soft aim</a>.",
 							],
 						},
@@ -24859,7 +24859,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What makes deadside cheats in 2026",
 							paragraphs: [
 								"Deadside Cheats combină ESP wallhack, radar hack și Deadside Aimbot undetected pentru Deadside pe PC Windows. ce să compari înainte de a cumpăra deadside cheats",
-								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
+								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 								"Verify the live game is healthy via <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside on Steam</a>, then confirm our <a href=\"/updates/\">Ghid cheats undetected</a> note before you judge any package “best.”",
 							],
 						},
@@ -24875,7 +24875,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Buying deadside cheats safely",
 							paragraphs: [
 								"Deadside Cheats combină ESP wallhack, radar hack și Deadside Aimbot undetected pentru Deadside pe PC Windows. ce să compari înainte de a cumpăra deadside cheats",
-								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
+								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 								"Verificați Updates după patch-uri BattlEye. Niciun cheat nu garantează undetected permanent.",
 							],
 						},
@@ -24905,7 +24905,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Deadside Aimbot hack vs visibility tools",
 							paragraphs: [
 								"Deadside Cheats combină ESP wallhack, radar hack și Deadside Aimbot undetected pentru Deadside pe PC Windows. assist hack Aimbot undetected pentru Deadside",
-								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
+								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 								"Prefer softer tracking language? See <a href=\"/deadside-aimbot/\">Aimbot și soft aim</a>. Full settings: <a href=\"/deadside-aimbot/\">Aimbot și soft aim</a>.",
 							],
 						},
@@ -24913,7 +24913,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot hack controls and hotkeys",
 							paragraphs: [
 								"Deadside Cheats combină ESP wallhack, radar hack și Deadside Aimbot undetected pentru Deadside pe PC Windows. assist hack Aimbot undetected pentru Deadside",
-								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
+								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 								"Balance patches from <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> can change ideal FOV — retune after major weapon balance updates.",
 							],
 						},
@@ -24943,7 +24943,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What a Deadside ESP hack shows",
 							paragraphs: [
 								"Deadside Cheats combină ESP wallhack, radar hack și Deadside Aimbot undetected pentru Deadside pe PC Windows. casete ESP hack, pin-uri carcase și distanță",
-								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
+								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 								"Canonical visibility guide: <a href=\"/deadside-esp/\">Ghid ESP și wallhack</a>. Wallhack wording: <a href=\"/deadside-esp/\">Ghid ESP și wallhack</a>.",
 							],
 						},
@@ -24951,7 +24951,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP hack categories for matches",
 							paragraphs: [
 								"Deadside Cheats combină ESP wallhack, radar hack și Deadside Aimbot undetected pentru Deadside pe PC Windows. casete ESP hack, pin-uri carcase și distanță",
-								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
+								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 								"POI and loot changes publish through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> — keep categories toggled to what the current map rewards.",
 							],
 						},
@@ -24981,7 +24981,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What Deadside unlock-all usually means",
 							paragraphs: [
 								"Deadside Cheats combină ESP wallhack, radar hack și Deadside Aimbot undetected pentru Deadside pe PC Windows. căutări unlock-all vs instrumente reale ESP și Aimbot",
-								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
+								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 								"Cosmetics and patch cycle progression items are sold through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Be wary of unlock-all downloads that promise free skins — they are often scams.",
 							],
 						},
@@ -25019,8 +25019,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Informații pe care le colectăm",
 							paragraphs: [
-								"Deadside Cheats combină ESP wallhack, radar hack și Deadside Aimbot undetected pentru Deadside pe PC Windows. Email de contact, referințe comenzi Zadeyo și date de securitate de bază ale site-ului.",
-								"Detaliile de plată sunt procesate prin checkout Zadeyo — nu sunt stocate pe deadsidecheats.com.",
+								"Deadside Cheats combină ESP wallhack, radar hack și Deadside Aimbot undetected pentru Deadside pe PC Windows. Email de contact, referințe comenzi secure checkout și date de securitate de bază ale site-ului.",
+								"Detaliile de plată sunt procesate prin secure checkout — nu sunt stocate pe deadsidecheats.com.",
 							],
 						},
 						{
@@ -25054,8 +25054,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Livrare digitală",
 							paragraphs: [
-								"Deadside Cheats combină ESP wallhack, radar hack și Deadside Aimbot undetected pentru Deadside pe PC Windows. Email de contact, referințe comenzi Zadeyo și date de securitate de bază ale site-ului.",
-								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
+								"Deadside Cheats combină ESP wallhack, radar hack și Deadside Aimbot undetected pentru Deadside pe PC Windows. Email de contact, referințe comenzi secure checkout și date de securitate de bază ale site-ului.",
+								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 							],
 						},
 						{
@@ -25089,8 +25089,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Acceptarea termenilor",
 							paragraphs: [
-								"Deadside Cheats combină ESP wallhack, radar hack și Deadside Aimbot undetected pentru Deadside pe PC Windows. Email de contact, referințe comenzi Zadeyo și date de securitate de bază ale site-ului.",
-								"Licențe cu livrare digitală instantă via checkout Zadeyo. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
+								"Deadside Cheats combină ESP wallhack, radar hack și Deadside Aimbot undetected pentru Deadside pe PC Windows. Email de contact, referințe comenzi secure checkout și date de securitate de bază ale site-ului.",
+								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 							],
 						},
 						{
@@ -25168,7 +25168,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				footer: {
 					explore: "Utforska",
 					help: "Hjälp & juridik",
-					tagline: "Undetected ESP, wallhack, radar och Aimbot för Deadside — checkout via Zadeyo.",
+					tagline: "Undetected ESP, wallhack, radar och Aimbot för Deadside.",
 				},
 				images: {
 					hero: "Deadside Cheats hero — ESP and aimbot overlay in Deadside",
@@ -25200,7 +25200,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Varför Deadside Cheats 2026",
 							paragraphs: [
 								"Deadside Cheats kombinerar ESP wallhack, radar hack och Deadside Aimbot som undetected paket för Deadside på Windows PC. Ideal för att läsa fiendesquads i BR och PvP raid sessions.",
-								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
+								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 							],
 						},
 						{
@@ -25227,7 +25227,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Vad ESP visar",
 							paragraphs: [
 								"Boxar, avstånd och filter för spelare, contestants och loot.",
-								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
+								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 							],
 							list: [
 								"Spelar-ESP",
@@ -25239,7 +25239,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "När du använder det",
 							paragraphs: [
 								"Håll POIzoner och extract routes tydliga utan att fylla skärmen.",
-								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
+								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 							],
 							list: [
 								"Justera opacitet",
@@ -25251,7 +25251,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Nästa steg",
 							paragraphs: [
 								"ESP ingår med aimbot och radar i en plan.",
-								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
+								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 							],
 							list: [
 								"<a href=\"/\">Fullständig produkt</a>",
@@ -25277,7 +25277,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Kontroller",
 							paragraphs: [
 								"Ställ in FOV, mjukhet och benprioritet före match.",
-								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
+								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 							],
 							list: [
 								"Soft aim-styrka",
@@ -25289,7 +25289,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Spelstilar",
 							paragraphs: [
 								"Håll inställningarna subtila för längre matches. Höj styrkan bara när du accepterar mer risk.",
-								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
+								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 							],
 							list: [
 								"Legit soft aim",
@@ -25301,7 +25301,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Nästa steg",
 							paragraphs: [
 								"Aimbot ingår med ESP och radar i en licens.",
-								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
+								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 							],
 							list: [
 								"<a href=\"/\">Fullständig produkt</a>",
@@ -25327,7 +25327,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP & wallhack",
 							paragraphs: [
 								"Deadside Cheats kombinerar ESP wallhack, radar hack och Deadside Aimbot som undetected paket för Deadside på Windows PC. ESP, soft aim, radar-kontroller",
-								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
+								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 							],
 							list: [
 								"Player boxes & distance",
@@ -25339,7 +25339,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot & soft aim",
 							paragraphs: [
 								"Deadside Cheats kombinerar ESP wallhack, radar hack och Deadside Aimbot som undetected paket för Deadside på Windows PC. ESP, soft aim, radar-kontroller",
-								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
+								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 							],
 							list: [
 								"Smooth aim strength",
@@ -25351,7 +25351,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Radar",
 							paragraphs: [
 								"Deadside Cheats kombinerar ESP wallhack, radar hack och Deadside Aimbot som undetected paket för Deadside på Windows PC. ESP, soft aim, radar-kontroller",
-								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
+								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 							],
 							list: [
 								"Nearby enemy cues",
@@ -25363,7 +25363,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Explore related topics",
 							paragraphs: [
 								"Deadside Cheats kombinerar ESP wallhack, radar hack och Deadside Aimbot som undetected paket för Deadside på Windows PC. ESP, soft aim, radar-kontroller",
-								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
+								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">ESP & wallhack guide</a>",
@@ -25380,7 +25380,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Updates & support",
 							paragraphs: [
 								"Deadside Cheats kombinerar ESP wallhack, radar hack och Deadside Aimbot som undetected paket för Deadside på Windows PC. ESP, soft aim, radar-kontroller",
-								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
+								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 							],
 							list: [
 								"Status on the Status page",
@@ -25430,7 +25430,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Innan du köper",
 							paragraphs: [
 								"Läs återbetalningspolicyn vid behov. Kontakta support med ditt order-ID.",
-								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
+								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 							],
 							list: [
 								"<a href=\"/refund-policy/\">Återbetalningspolicy</a>",
@@ -25456,7 +25456,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Före installation",
 							paragraphs: [
 								"Köp en plan först. Du får licensen via e-post.",
-								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
+								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 							],
 							list: [
 								"Windows 10 / 11 PC",
@@ -25468,7 +25468,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Installationssteg",
 							paragraphs: [
 								"Kör loader som admin, klistra in licens, starta Deadside.",
-								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
+								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 							],
 							list: [
 								"Ladda ner loader från leveransmejl",
@@ -25480,7 +25480,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Om något misslyckas",
 							paragraphs: [
 								"Kontrollera Status efter patch. Mejla support@deadsidecheats.com med order-ID.",
-								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
+								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 							],
 							list: [
 								"<a href=\"/updates/\">Undetected cheats-guide</a>",
@@ -25518,7 +25518,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Efter patch",
 							paragraphs: [
 								"Vänta på vår rebuild-notis, starta sedan. Spela inte med gammal build efter stor uppdatering.",
-								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
+								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 							],
 							list: [
 								"Läs senaste statusnotisen",
@@ -25530,7 +25530,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Viktigt",
 							paragraphs: [
 								"Ingen cheat är 100% säker för evigt. Håll dig uppdaterad och använd säkra inställningar.",
-								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
+								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 							],
 							list: [
 								"Status först, sedan spela",
@@ -25555,7 +25555,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Köp och leverans",
 							paragraphs: [
 								"Du får en digital licens via e-post efter betalning.",
-								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
+								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 							],
 							list: [
 								"Omedelbar leverans efter checkout",
@@ -25567,7 +25567,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Installation och uppdateringar",
 							paragraphs: [
 								"Följ Setup efter köp. Kontrollera Status efter stora Deadside- eller BattlEye-patchar.",
-								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
+								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 							],
 							list: [
 								"<a href=\"/setup/\">Installationsguide</a>",
@@ -25578,7 +25578,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Återbetalningar",
 							paragraphs: [
 								"Läs återbetalningspolicyn före köp om du behöver detaljer.",
-								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
+								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 							],
 							list: [
 								"<a href=\"/refund-policy/\">Återbetalningspolicy</a>",
@@ -25603,7 +25603,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Hur du kontaktar oss",
 							paragraphs: [
 								"Mejla support@deadsidecheats.com. Inkludera order-ID och kort problembeskrivning.",
-								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
+								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 							],
 							list: [
 								"Order-ID från kvitto",
@@ -25615,7 +25615,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Snabbare svar",
 							paragraphs: [
 								"Kontrollera FAQ och Status innan du skriver. Många setup-frågor är redan besvarade.",
-								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
+								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 							],
 							list: [
 								"<a href=\"/faq/\">FAQ</a>",
@@ -25641,7 +25641,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Vad undetected betyder för Deadside Cheats",
 							paragraphs: [
 								"Deadside Cheats kombinerar ESP wallhack, radar hack och Deadside Aimbot som undetected paket för Deadside på Windows PC. undetected underhåll efter BattlEye patchar",
-								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
+								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 								"Anti-cheat technology is documented by <a href=\"https://www.battleye.com/\" target=\"_blank\" rel=\"noopener noreferrer\">BattlEye</a>; Deadside client updates ship through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Undetected status is an ongoing process tied to those releases.",
 							],
 						},
@@ -25687,7 +25687,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Wallhack ESP vs raw aim tools",
 							paragraphs: [
 								"Deadside Cheats kombinerar ESP wallhack, radar hack och Deadside Aimbot som undetected paket för Deadside på Windows PC. wallhack ESP för spelare, kadaver och avstånd",
-								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
+								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 								"For the broader ESP keyword page see <a href=\"/deadside-esp/\">ESP- och wallhack-guide</a>; for combat assist see <a href=\"/deadside-aimbot/\">Aimbot och soft aim</a>.",
 							],
 						},
@@ -25725,7 +25725,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Vad det visar",
 							paragraphs: [
 								"Närliggande fiendesignaler med justerbart avstånd för solo farmers och matchers.",
-								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
+								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 							],
 							list: [
 								"Flank-medvetenhet",
@@ -25737,7 +25737,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Med ESP",
 							paragraphs: [
 								"Använd radar för hot du inte ser än. Använd ESP när du pushar.",
-								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
+								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">ESP- och wallhack-guide</a>",
@@ -25884,7 +25884,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Modulguider",
 							paragraphs: [
 								"Varje verktyg har en egen djupdykningssida om du vill veta mer före checkout.",
-								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
+								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">ESP- och wallhack-guide</a>",
@@ -25897,7 +25897,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Undetected-status och patchar",
 							paragraphs: [
 								"Deadside använder BattlEye. Ingen cheat förblir undetected för evigt — underhåll efter patchar räknas. Kontrollera Status-sidan efter varje Deadside- eller EAC-uppdatering före spel.",
-								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
+								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 							],
 							list: [
 								"<a href=\"/updates/\">Undetected cheats-guide</a>",
@@ -25910,7 +25910,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Kom igång",
 							paragraphs: [
 								"Välj månadsvis ($35) eller lifetime ($150) i butiken — samma funktioner. Efter checkout licens via e-post. Följ installationsguiden och kontrollera status efter stora patchar.",
-								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
+								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 							],
 							list: [
 								"<a href=\"/pricing/\">Butik</a>",
@@ -25974,7 +25974,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What a Deadside mod menu controls",
 							paragraphs: [
 								"Deadside Cheats kombinerar ESP wallhack, radar hack och Deadside Aimbot som undetected paket för Deadside på Windows PC. in-client ESP och soft aim-växlar",
-								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
+								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 								"Control deep-dives: <a href=\"/deadside-esp/\">ESP- och wallhack-guide</a>, <a href=\"/deadside-aimbot/\">Aimbot och soft aim</a>, <a href=\"/deadside-radar-hack/\">2D-radaroverlay</a>.",
 							],
 						},
@@ -26012,7 +26012,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What Deadside soft aim means",
 							paragraphs: [
 								"Deadside Cheats kombinerar ESP wallhack, radar hack och Deadside Aimbot som undetected paket för Deadside på Windows PC. mjuka soft aim-inställningar för Windows PC",
-								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
+								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 								"Full Aimbot documentation: <a href=\"/deadside-aimbot/\">Aimbot och soft aim</a>. Alternate wording: <a href=\"/deadside-aimbot/\">Aimbot och soft aim</a>.",
 							],
 						},
@@ -26050,7 +26050,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What makes deadside cheats in 2026",
 							paragraphs: [
 								"Deadside Cheats kombinerar ESP wallhack, radar hack och Deadside Aimbot som undetected paket för Deadside på Windows PC. vad du ska jämföra innan du köper deadside cheats",
-								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
+								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 								"Verify the live game is healthy via <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside on Steam</a>, then confirm our <a href=\"/updates/\">Undetected cheats-guide</a> note before you judge any package “best.”",
 							],
 						},
@@ -26066,7 +26066,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Buying deadside cheats safely",
 							paragraphs: [
 								"Deadside Cheats kombinerar ESP wallhack, radar hack och Deadside Aimbot som undetected paket för Deadside på Windows PC. vad du ska jämföra innan du köper deadside cheats",
-								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
+								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 								"Kontrollera Updates ruster BattlEye-patchar. Ingen cheat garanterar permanent undetected status.",
 							],
 						},
@@ -26096,7 +26096,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Deadside Aimbot hack vs visibility tools",
 							paragraphs: [
 								"Deadside Cheats kombinerar ESP wallhack, radar hack och Deadside Aimbot som undetected paket för Deadside på Windows PC. undetected Aimbot hack assist för Deadside",
-								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
+								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 								"Prefer softer tracking language? See <a href=\"/deadside-aimbot/\">Aimbot och soft aim</a>. Full settings: <a href=\"/deadside-aimbot/\">Aimbot och soft aim</a>.",
 							],
 						},
@@ -26104,7 +26104,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot hack controls and hotkeys",
 							paragraphs: [
 								"Deadside Cheats kombinerar ESP wallhack, radar hack och Deadside Aimbot som undetected paket för Deadside på Windows PC. undetected Aimbot hack assist för Deadside",
-								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
+								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 								"Balance patches from <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> can change ideal FOV — retune after major weapon balance updates.",
 							],
 						},
@@ -26134,7 +26134,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What a Deadside ESP hack shows",
 							paragraphs: [
 								"Deadside Cheats kombinerar ESP wallhack, radar hack och Deadside Aimbot som undetected paket för Deadside på Windows PC. ESP hack-boxar, kadaver-pins och avstånd",
-								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
+								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 								"Canonical visibility guide: <a href=\"/deadside-esp/\">ESP- och wallhack-guide</a>. Wallhack wording: <a href=\"/deadside-esp/\">ESP- och wallhack-guide</a>.",
 							],
 						},
@@ -26142,7 +26142,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP hack categories for matches",
 							paragraphs: [
 								"Deadside Cheats kombinerar ESP wallhack, radar hack och Deadside Aimbot som undetected paket för Deadside på Windows PC. ESP hack-boxar, kadaver-pins och avstånd",
-								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
+								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 								"POI and loot changes publish through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> — keep categories toggled to what the current map rewards.",
 							],
 						},
@@ -26172,7 +26172,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "What Deadside unlock-all usually means",
 							paragraphs: [
 								"Deadside Cheats kombinerar ESP wallhack, radar hack och Deadside Aimbot som undetected paket för Deadside på Windows PC. unlock-all-sökningar vs riktiga ESP- och Aimbot-verktyg",
-								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
+								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 								"Cosmetics and patch cycle progression items are sold through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Be wary of unlock-all downloads that promise free skins — they are often scams.",
 							],
 						},
@@ -26210,8 +26210,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Information vi samlar in",
 							paragraphs: [
-								"Deadside Cheats kombinerar ESP wallhack, radar hack och Deadside Aimbot som undetected paket för Deadside på Windows PC. Kontakt-e-post, Zadeyo-orderreferenser och grundläggande säkerhetsdata för webbplatsen.",
-								"Betalningsuppgifter behandlas via Zadeyo checkout — lagras inte på deadsidecheats.com.",
+								"Deadside Cheats kombinerar ESP wallhack, radar hack och Deadside Aimbot som undetected paket för Deadside på Windows PC. Kontakt-e-post, secure checkout-orderreferenser och grundläggande säkerhetsdata för webbplatsen.",
+								"Betalningsuppgifter behandlas. — lagras inte på deadsidecheats.com.",
 							],
 						},
 						{
@@ -26245,8 +26245,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Digital leverans",
 							paragraphs: [
-								"Deadside Cheats kombinerar ESP wallhack, radar hack och Deadside Aimbot som undetected paket för Deadside på Windows PC. Kontakt-e-post, Zadeyo-orderreferenser och grundläggande säkerhetsdata för webbplatsen.",
-								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
+								"Deadside Cheats kombinerar ESP wallhack, radar hack och Deadside Aimbot som undetected paket för Deadside på Windows PC. Kontakt-e-post, secure checkout-orderreferenser och grundläggande säkerhetsdata för webbplatsen.",
+								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 							],
 						},
 						{
@@ -26280,8 +26280,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Godkännande av villkor",
 							paragraphs: [
-								"Deadside Cheats kombinerar ESP wallhack, radar hack och Deadside Aimbot som undetected paket för Deadside på Windows PC. Kontakt-e-post, Zadeyo-orderreferenser och grundläggande säkerhetsdata för webbplatsen.",
-								"Licenser med omedelbar digital leverans via Zadeyo checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
+								"Deadside Cheats kombinerar ESP wallhack, radar hack och Deadside Aimbot som undetected paket för Deadside på Windows PC. Kontakt-e-post, secure checkout-orderreferenser och grundläggande säkerhetsdata för webbplatsen.",
+								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 							],
 						},
 						{

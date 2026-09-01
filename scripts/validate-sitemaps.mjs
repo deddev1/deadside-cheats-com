@@ -53,16 +53,17 @@ const SITE = readBrandUrl();
 const IMAGE_SITEMAP_ENTRIES = countBrandSitemapImages();
 
 const BLOG_PAGES = 18; // /blog/ index + 17 posts
-const REVIEW_PAGES = 11; // /reviews/ index + 10 review detail pages
+const REVIEW_PAGES = 101; // /reviews/ index + 100 review detail pages
 const FAQ_PAGES = 26; // standalone FAQ answer pages (index is in product pages)
-const GUIDE_SITEMAP_PAGES = 1; // /guides/ hub only (competitor guide posts are noindex)
-const GUIDE_HTML_PAGES = 82; // /guides/ hub + 81 posts (all built)
+const GUIDE_SITEMAP_PAGES = 13; // /guides/ hub + 12 Deadside guide posts
+const GUIDE_HTML_PAGES = 13; // /guides/ hub + 12 posts (all built)
 const STANDALONE_PAGES = 3; // /about/ /compare/ /write-for-us/
 /** Product pages in sitemap — excludes cannibal EN URLs that 301 to stronger pillars */
 const ENGLISH_PRODUCT_PAGES = 18;
 const ENGLISH_PAGES =
 	ENGLISH_PRODUCT_PAGES + BLOG_PAGES + REVIEW_PAGES + FAQ_PAGES + GUIDE_SITEMAP_PAGES + STANDALONE_PAGES;
-const I18N_LOCALES = 21;
+const INDEXABLE_LOCALE_CODES = ['en', 'es', 'fr', 'de', 'pt', 'ru'];
+const I18N_LOCALES = INDEXABLE_LOCALE_CODES.length - 1; // non-English indexable locales in sitemaps
 /** Locale product pages also exclude the same cannibal pageIds */
 const PRODUCT_PAGES_PER_LOCALE = 18;
 const BLOG_PAGES_PER_LOCALE = 0; // Locale blog URLs 301 to EN; not in sitemaps
@@ -72,11 +73,12 @@ const TOTAL_PAGES = ENGLISH_PAGES + I18N_URLS;
 /** Full EN HTML may still emit redirect stubs for cannibal URLs; sitemaps omit them */
 const ENGLISH_HTML_PAGES = 25 + BLOG_PAGES + REVIEW_PAGES + FAQ_PAGES + GUIDE_HTML_PAGES + STANDALONE_PAGES;
 /** Locale HTML = product pages + blog redirect stubs (index + 17 posts) that are omitted from sitemaps */
+const ALL_I18N_LOCALES = 21;
 const LOCALE_BLOG_REDIRECT_PAGES = 18;
 const TOTAL_HTML_PAGES =
-	ENGLISH_HTML_PAGES + I18N_LOCALES * (PRODUCT_PAGES_PER_LOCALE + LOCALE_BLOG_REDIRECT_PAGES);
-const HREFLANG_PER_URL = 23;
-const SITEMAP_INDEX_ENTRIES = 1 + I18N_LOCALES + 1; // EN + locales + images
+	ENGLISH_HTML_PAGES + ALL_I18N_LOCALES * (PRODUCT_PAGES_PER_LOCALE + LOCALE_BLOG_REDIRECT_PAGES);
+const HREFLANG_PER_URL = INDEXABLE_LOCALE_CODES.length + 1; // indexable locales + x-default
+const SITEMAP_INDEX_ENTRIES = 1 + I18N_LOCALES + 1; // EN + indexable locales + images
 
 /** Built HTML that intentionally 301s — allowed to be absent from sitemaps */
 const REDIRECT_ONLY_PATHS = new Set([
@@ -150,16 +152,6 @@ const ENGLISH_PATHS = [
 	'/blog/elitefn-vs-deadside-cheats-two-week-test/',
 	'/blog/deadside-cheats-vs-ghostware-features-pricing/',
 	'/reviews/',
-	'/reviews/deadside-soft-aim-review-xkrypt0/',
-	'/reviews/deadside-esp-growth-run-review-buildsr4k/',
-	'/reviews/deadside-cloud-dma-review-dma-wizard/',
-	'/reviews/deadside-soft-aim-review-ctrl-player99/',
-	'/reviews/deadside-cheat-setup-review-stormchaser07/',
-	'/reviews/deadside-loot-esp-review-lootgoblinx/',
-	'/reviews/deadside-soft-aim-session-review-rankedgrind42/',
-	'/reviews/deadside-radar-hack-review-vanlifedeadside/',
-	'/reviews/deadside-battleye-update-review-patchdaymike/',
-	'/reviews/deadside-sniper-soft-aim-review-snipezonly/',
 	'/faq/what-are-deadside-cheats/',
 	'/faq/are-deadside-cheats-undetected-in-2026/',
 	'/faq/solo-farmer-and-raider-sessions/',
@@ -197,7 +189,11 @@ const LOCALE_CODES = [
 	'ar', 'ja', 'ko', 'zh', 'hi', 'id', 'th', 'vi', 'uk', 'cs', 'ro', 'sv',
 ];
 
-const I18N_LOCALE_CODES = LOCALE_CODES.filter((code) => code !== 'en');
+const NON_INDEXABLE_I18N_CODES = LOCALE_CODES.filter(
+	(code) => code !== 'en' && !INDEXABLE_LOCALE_CODES.includes(code),
+);
+
+const I18N_LOCALE_CODES = INDEXABLE_LOCALE_CODES.filter((code) => code !== 'en');
 
 function extractLocs(xml) {
 	return [...xml.matchAll(/<loc>([^<]+)<\/loc>/g)].map((m) => m[1]);
@@ -321,7 +317,7 @@ async function main() {
 		}
 	}
 	if (errors === 0) {
-		ok(`All 21 locale sitemaps have ${PAGES_PER_LOCALE} URLs each (${localeUrlTotal} total)`);
+		ok(`All ${I18N_LOCALES} indexable locale sitemaps have ${PAGES_PER_LOCALE} URLs each (${localeUrlTotal} total)`);
 	}
 
 	// Count checks
@@ -329,6 +325,12 @@ async function main() {
 		fail(`sitemap-en.xml: expected ${ENGLISH_PAGES} URLs, got ${enLocs.length}`);
 		bump();
 	} else ok(`sitemap-en.xml has ${ENGLISH_PAGES} English URLs`);
+
+	const reviewDetailLocs = enLocs.filter((u) => u.startsWith(`${SITE}/reviews/`) && u !== `${SITE}/reviews/`);
+	if (reviewDetailLocs.length !== 100) {
+		fail(`sitemap-en.xml: expected 100 review detail URLs, got ${reviewDetailLocs.length}`);
+		bump();
+	} else ok('sitemap-en.xml lists 100 indexable review detail pages');
 
 	if (i18nLocs.length !== I18N_URLS) {
 		fail(`sitemap-i18n.xml: expected ${I18N_URLS} URLs, got ${i18nLocs.length}`);
@@ -460,7 +462,7 @@ async function main() {
 	if (homeHreflang !== HREFLANG_PER_URL) {
 		fail(`Homepage hreflang links: expected ${HREFLANG_PER_URL}, got ${homeHreflang}`);
 		bump();
-	} else ok(`Homepage has ${HREFLANG_PER_URL} hreflang alternates (22 locales + x-default)`);
+	} else ok(`Homepage has ${HREFLANG_PER_URL} hreflang alternates (indexable locales + x-default)`);
 
 	// sitemap.xml index — EN + 21 locale sitemaps + images
 	if (indexLocs.length !== SITEMAP_INDEX_ENTRIES) {
@@ -483,7 +485,7 @@ async function main() {
 			bump();
 		}
 	}
-	if (errors === 0) ok('sitemap.xml lists English, all 21 locale, and image sitemaps');
+	if (errors === 0) ok('sitemap.xml lists English, indexable locale, and image sitemaps');
 
 	// Index children must exist on disk; sitemap-i18n.xml is backward-compat only (not in index)
 	for (const loc of indexLocs) {
@@ -541,7 +543,8 @@ async function main() {
 		if (sitemapPaths.has(p) || REDIRECT_ONLY_PATHS.has(p) || SITEMAP_OMIT_PATHS.has(p)) return false;
 		// Locale blog stubs 301 to EN — intentionally omitted from sitemaps
 		if (/^\/[a-z]{2}\/blog(\/|$)/.test(p)) return false;
-		// Competitor guide posts are noindex — omitted from sitemaps by design
+		// Non-indexable locale HTML — noindex by design, omitted from sitemaps
+		if (NON_INDEXABLE_I18N_CODES.some((code) => p.startsWith(`/${code}/`))) return false;
 		if (/^\/guides\/[^/]+\/$/.test(p)) {
 			const rel = p === '/' ? 'index.html' : `${p.slice(1)}index.html`;
 			try {
@@ -578,7 +581,7 @@ async function main() {
 			bump();
 		}
 	}
-	if (errors === 0) ok('All 21 non-English locale homepages in per-locale sitemaps');
+	if (errors === 0) ok(`All ${I18N_LOCALES} indexable non-English locale homepages in per-locale sitemaps`);
 
 	// No legacy brand domains in sitemap XML
 	const sitemapFiles = [

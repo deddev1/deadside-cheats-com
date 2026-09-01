@@ -60,6 +60,20 @@ export const locales: LocaleMeta[] = [
 
 export const defaultLocale: LocaleCode = 'en';
 
+/** Locales we confidently index — others stay reachable but get noindex and are omitted from sitemaps/hreflang. */
+export const indexableLocales: readonly LocaleCode[] = [
+	'en',
+	'es',
+	'fr',
+	'de',
+	'pt',
+	'ru',
+] as const;
+
+export function isIndexableLocale(code: LocaleCode): boolean {
+	return (indexableLocales as readonly string[]).includes(code);
+}
+
 export const localeCodes = locales.map((l) => l.code);
 
 export const localeMap = Object.fromEntries(locales.map((l) => [l.code, l])) as Record<

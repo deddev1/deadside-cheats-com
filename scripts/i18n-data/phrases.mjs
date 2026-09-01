@@ -11,7 +11,7 @@ const KW = {
 	aimbot: 'Deadside Aimbot',
 	product: 'Deadside Cheats',
 	game: 'Deadside',
-	checkout: 'Zadeyo',
+	checkout: 'secure checkout',
 	eac: 'BattlEye',
 };
 

@@ -1,6 +1,7 @@
 import { siteConfig } from '../site';
 import {
 	defaultLocale,
+	indexableLocales,
 	isLocaleCode,
 	localeCodes,
 	localeMap,
@@ -734,12 +735,14 @@ export function getSelfHreflangAlternates(
 
 export function getHreflangAlternates(pageId: PageId, currentLocale: LocaleCode = defaultLocale) {
 	const resolvedId = (isCannibalPageId(pageId) ? getCannibalTargetId(pageId) : pageId) as PageId;
-	const byLocale = localeCodes.map((code) => ({
+	const byLocale = indexableLocales.map((code) => ({
 		hreflang: localeMap[code].hreflang,
 		href: absoluteLocalizedUrl(resolvedId, code),
 		code,
 	}));
-	const self = byLocale.find((alt) => alt.code === currentLocale)!;
+	const self =
+		byLocale.find((alt) => alt.code === currentLocale) ??
+		byLocale.find((alt) => alt.code === defaultLocale)!;
 	const others = byLocale.filter((alt) => alt.code !== currentLocale);
 	const xDefault = {
 		hreflang: 'x-default' as const,

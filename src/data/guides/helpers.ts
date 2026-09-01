@@ -34,25 +34,9 @@ export function getGuidesByGame(): Map<string, ResolvedGuide[]> {
 	return new Map([...map.entries()].sort(([a], [b]) => a.localeCompare(b)));
 }
 
-/** Interleave guides from each game so same-game articles are not grouped together. */
+/** Interleave Deadside guides for the hub grid (all guides are Deadside-only). */
 export function getMixedGuides(): ResolvedGuide[] {
-	const byGame = [...getGuidesByGame().values()];
-	const mixed: ResolvedGuide[] = [];
-	let index = 0;
-	let hasMore = true;
-
-	while (hasMore) {
-		hasMore = false;
-		for (const guidesForGame of byGame) {
-			if (index < guidesForGame.length) {
-				mixed.push(guidesForGame[index]);
-				hasMore = true;
-			}
-		}
-		index++;
-	}
-
-	return mixed;
+	return getAllGuides().filter((guide) => isDeadsideGuide(guide));
 }
 
 export function absoluteGuideUrl(slug?: string): string {

@@ -6,7 +6,7 @@ import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
-import { LOCALES } from './i18n-data/constants.mjs';
+import { LOCALES, stripZadeyoDeep } from './i18n-data/constants.mjs';
 import { allUiStrings } from './i18n-data/ui-strings.mjs';
 import { buildLocaleOverlay } from './i18n-data/locale-overlays.mjs';
 import { FAQ_I18N } from './i18n-data/faq-i18n.mjs';
@@ -305,13 +305,13 @@ async function main() {
 		}
 
 		const out = path.join(dir, 'translation.json');
-		const output = fixDeadsideCopyDeep(translation);
+		const output = stripZadeyoDeep(fixDeadsideCopyDeep(translation));
 		await writeFile(out, `${JSON.stringify(output, null, 2)}\n`, 'utf8');
 		console.log('✓', out);
 	}
 
 	// Refresh canonical EN with faq/media keys
-	await writeFile(EN_FILE, `${JSON.stringify(fixDeadsideCopyDeep(en), null, 2)}\n`, 'utf8');
+	await writeFile(EN_FILE, `${JSON.stringify(stripZadeyoDeep(fixDeadsideCopyDeep(en)), null, 2)}\n`, 'utf8');
 	console.log(`Generated ${LOCALES.length} locale translation files.`);
 }
 
