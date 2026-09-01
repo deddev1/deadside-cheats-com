@@ -14,10 +14,10 @@ const OUT = join(__dirname, '..', 'src', 'data', 'blog', 'posts.generated.ts');
 const LOCALES = ['en'];
 
 const EXT = {
-	finals:
+	deadside:
 		'<a href="https://store.steampowered.com/app/895400/Deadside/" target="_blank" rel="noopener noreferrer">Deadside</a>',
 	status:
-		'<a href="https://store.steampowered.com/app/895400/Deadside//" target="_blank" rel="noopener noreferrer">Deadside on PC</a>',
+		'<a href="https://store.steampowered.com/app/895400/Deadside/" target="_blank" rel="noopener noreferrer">Deadside on Steam</a>',
 	battleye:
 		'<a href="https://www.battleye.com/" target="_blank" rel="noopener noreferrer">BattlEye</a>',
 };
@@ -44,9 +44,9 @@ const sources = [
 		keywords: [
 			'Deadside patch notes',
 			'Deadside major update',
-			'neac patch',
+			'BattlEye patch',
 			'player build',
-			'Finals intel',
+			'Deadside survival intel',
 		],
 		imageAlt: 'Player reviewing Deadside patch notes before a match',
 		sections: [
@@ -94,7 +94,7 @@ const sources = [
 			'Deadside cosmetics',
 			'in-game store skins',
 			'the Deadside cosmetics',
-			'Finals intel',
+			'Deadside survival intel',
 		],
 		imageAlt: 'Deadside character cosmetics and skin appearance options',
 		sections: [
@@ -102,7 +102,7 @@ const sources = [
 				h2: 'Why most impulse cosmetic buys feel bad after a week',
 				paragraphs: [
 					`Shop rotations and official skins come from ${EXT.deadside}. Leaks are entertainment, not a shopping list. Many players spend hard-earned in-game currency the night before a patch cycle, then realize they still need ability cooldowns, ammo, and a backup kit.`,
-					'Controversial but useful: most cosmetics do not raise your survival rate. Some loud patterns even make you easier to spot in bushes on maps or near arena edges. Pros often prefer quieter silhouettes so enemy outlines stay readable in chaotic peeks.',
+					'Controversial but useful: most cosmetics do not raise your survival rate. Some loud patterns even make you easier to spot in bushes on maps or near compound edges. Pros often prefer quieter silhouettes so enemy outlines stay readable in chaotic peeks.',
 				],
 			},
 			{
@@ -140,7 +140,7 @@ const sources = [
 			'best deadside weapons',
 			'deadside meta loadouts',
 			'deadside weapon builds',
-			'Finals intel',
+			'Deadside survival intel',
 		],
 		imageAlt: 'Deadside players laid out for a weapon comparison for a weapon loadout comparison',
 		sections: [
@@ -229,11 +229,11 @@ const sources = [
 		intro:
 			'Tournament winners and high-level pairs are not lucky spawn gods. They optimize expected value: safer loot paths, cleaner mid-session habits, and fights they choose on purpose. Here is what translates into your normal Deadside load ins.',
 		keywords: [
-			'Deadside ranked',
+			'Deadside competitive',
 			'Deadside competitive meta',
 			'deadside competitive meta',
-			'arena habits',
-			'Finals intel',
+			'PvP raid habits',
+			'Deadside survival intel',
 		],
 		imageAlt: 'Competitive Deadside players reviewing match strategy',
 		sections: [
@@ -325,14 +325,14 @@ const sources = [
 			'deadside aim smoothing',
 			'deadside visibility',
 			'deadside audio settings',
-			'Finals intel',
+			'Deadside survival intel',
 		],
 		imageAlt: 'Deadside graphics and control settings menu',
 		sections: [
 			{
 				h2: 'Visibility and performance before fancy numbers',
 				paragraphs: [
-					'If your frame rate collapses in arena river zones or mapy interiors, no aim smoothing tip will save you. Prioritize a stable FPS and readable shadows over maximum eye candy. Many strong players lower clutter so player silhouettes pop sooner in tree lines and warehouse lighting.',
+					'If your frame rate collapses in riverside zones or dense interiors, no aim smoothing tip will save you. Prioritize a stable FPS and readable shadows over maximum eye candy. Many strong players lower clutter so player silhouettes pop sooner in tree lines and warehouse lighting.',
 					'Test changes in practice server or a quiet juvenile before locking them for serious matches. Your eyes adapt in a few matches — give settings that long before declaring them useless.',
 				],
 			},
@@ -369,9 +369,9 @@ const sources = [
 		keywords: [
 			'Deadside warmup',
 			'deadside aim practice',
-			'arena warmup routine',
+			'pvp warmup routine',
 			'deadside aim train sessions',
-			'Finals intel',
+			'Deadside survival intel',
 		],
 		imageAlt: 'Player warming up aim before a Deadside match',
 		sections: [
@@ -385,7 +385,7 @@ const sources = [
 			{
 				h2: 'A simple 15-minute routine that scales',
 				paragraphs: [
-					'Minutes 1–5: tracking and short bursts on a practice server with agents. Minutes 6–10: ambush practice on common angles — jiggle, counter-strafe, pre-aim head height. Minutes 11–15: one focused aim train or practice server block where you only work one habit, like holding a base or clearing dense cover.',
+					'Minutes 1–5: tracking and short bursts on a practice server with moving targets. Minutes 6–10: ambush practice on common angles — jiggle, counter-strafe, pre-aim head height. Minutes 11–15: one focused aim train or practice server block where you only work one habit, like holding a base or clearing dense cover.',
 					'Keep the routine identical for a week so improvements are mecompound zonesble. Rotate maps later — Map one day, Woods the next — after the habit sticks.',
 				],
 			},
@@ -484,7 +484,7 @@ const sources = [
 			{
 				h2: 'Feature checklist that matches real Deadside matches',
 				paragraphs: [
-					'For Deadside, useful features usually mean player ESP with distance, agent filters, site awareness, radar for flanks, and soft aim you can tone down. “Unlock all” marketing and other-game leftovers are red flags that the page was cloned from another game.',
+					'For Deadside, useful features usually mean player ESP with distance, player filters, compound awareness, radar for flanks, and soft aim you can tone down. “Unlock all” marketing and other-game leftovers are red flags that the page was cloned from another game.',
 					'Compare the stack on <a href="/features/">Features</a>, <a href="/deadside-esp/">ESP</a>, and <a href="/deadside-aimbot/">Aimbot</a>. If radar matters to how you hold bases, confirm it exists before checkout.',
 				],
 			},
@@ -514,7 +514,7 @@ const sources = [
 		keywords: [
 			'deadside cheats 2026',
 			'deadside cheats 2026',
-			'neac 2026',
+			'battleye 2026',
 			'deadside patch cycle',
 			'deadside cheats updates',
 		],
@@ -559,9 +559,9 @@ const sources = [
 			'A harsh aimbot gets you killed by reports and by your own bad habits. Soft, tunable aim assistance is what most Deadside players actually want. Here is how to think about FOV, smoothness, and weapon profiles.',
 		keywords: [
 			'Deadside Aimbot settings',
-			'finals soft aim',
+			'deadside soft aim',
 			'aimbot fov',
-			'finals aim assist',
+			'deadside aim assist',
 			'deadside cheats',
 		],
 		imageAlt: 'Soft aim and FOV settings for Deadside Aimbot on Windows PC',
@@ -576,7 +576,7 @@ const sources = [
 			{
 				h2: 'Per-weapon profiles beat one global slider',
 				paragraphs: [
-					'ARs, SMGs, and long-range rifles want different assist. Save separate profiles so close-range sprays and long arena ambushes do not share the same magnet. Bone priority should favor what you can actually hit under stress — usually upper chest to head transitions, not miracles.',
+					'ARs, SMGs, and long-range rifles want different assist. Save separate profiles so close-range sprays and long-range ambushes do not share the same magnet. Bone priority should favor what you can actually hit under stress — usually upper chest to head transitions, not miracles.',
 					'Hotkeys matter mid-session. You need to disable assist when you are looting friendlies or holding a suspicious angle where obvious corrections would look wrong.',
 				],
 			},
@@ -606,7 +606,7 @@ const sources = [
 			'Deadside ESP',
 			'deadside wallhack',
 			'Deadside ESP',
-			'loot esp finals',
+			'loot esp deadside',
 			'deadside cheats',
 		],
 		imageAlt: 'ESP wallhack overlay showing players and loot in Deadside',
@@ -614,7 +614,7 @@ const sources = [
 			{
 				h2: 'What ESP shows during a real match',
 				paragraphs: [
-					'Player ESP outlines agents through walls and terrain, often with distance. Loot ESP highlights loot or high-value items. Base cues help you avoid camping surprises. That information gap is why people search for Deadside ESP in the first place.',
+					'Player ESP outlines players through walls and terrain, often with distance. Loot ESP highlights loot or high-value items. Base cues help you avoid camping surprises. That information gap is why people search for Deadside ESP in the first place.',
 					'Read the dedicated pages for <a href="/deadside-esp/">ESP</a> and <a href="/deadside-esp/">wallhack</a> if you want category-level detail.',
 				],
 			},
@@ -649,10 +649,10 @@ const sources = [
 			'“Undetected” is the most abused word in cheat marketing. Under BattlEye, it means a package is being maintained against current detections — not that bans are impossible. Here is the honest version for Deadside players.',
 		keywords: [
 			'undetected deadside cheats',
-			'neac deadside',
-			'finals ban risk',
-			'finals undetected',
-			'finals status',
+			'battleye deadside',
+			'deadside ban risk',
+			'deadside undetected',
+			'deadside cheat status',
 		],
 		imageAlt: 'BattlEye maintenance status for undetected deadside cheats',
 		sections: [
@@ -839,7 +839,7 @@ function normalizeKeywords(keywords) {
 		.map((k) => k.trim())
 		.filter((k) => {
 			const lower = k.toLowerCase();
-			if (!k || lower === 'Finals intel' || seen.has(lower)) return false;
+			if (!k || lower === 'deadside survival intel' || seen.has(lower)) return false;
 			seen.add(lower);
 			return true;
 		})
@@ -850,7 +850,7 @@ function normalizeKeywords(keywords) {
 const POST_META = {
 	'patch-notes-breakdown': {
 		h1: 'How to Read Deadside Patch Notes',
-		keywords: ['Deadside patch notes', 'deadside updates', 'neac patch'],
+		keywords: ['Deadside patch notes', 'deadside updates', 'BattlEye patch'],
 	},
 	'deadside-skin-leaks': {
 		h1: 'Deadside Cosmetics Buying Guide',
@@ -866,7 +866,7 @@ const POST_META = {
 	},
 	'deadside-competitive-meta': {
 		h1: 'Competitive Deadside Meta Guide',
-		keywords: ['deadside competitive', 'deadside meta', 'ranked matches'],
+		keywords: ['deadside competitive', 'deadside meta', 'pvp raids'],
 	},
 	'deadside-loot-routes': {
 		h1: 'Deadside Map Control Guide',

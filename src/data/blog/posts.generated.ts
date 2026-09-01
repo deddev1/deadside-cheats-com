@@ -16,13 +16,13 @@ export const blogPosts: BlogPostDefinition[] = [
 		metaDescription: "Learn how Deadside patch notes change player builds, resource economy, and maps. What to do after BattlEye and major updates in 2026.",
 		h1: "How to Read Deadside Patch Notes",
 		intro: "When Bad Pixel drops a patch, most players skim the headline and load in anyway. That is how you walk into Map with the wrong ammo and a gun that just lost its damage output. Here is a calmer way to read Deadside patch notes so your next match still makes sense.",
-		keywords: ["Deadside patch notes","deadside updates","neac patch"],
+		keywords: ["Deadside patch notes","deadside updates","BattlEye patch"],
 		imageAlt: "Player reviewing Deadside patch notes before a match",
 		sections: [
 			{
 				h2: "What actually matters in a Deadside patch?",
 				paragraphs: [
-					"Official notes live on undefined. Treat that page as the source of truth — Discord rumors and streamer hot takes come second. Ask three plain questions for every bullet: Does this change how shield tiers fight? Does this change what economy rounds are worth saving? Does this change which site or map I should play tonight?",
+					"Official notes live on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Treat that page as the source of truth — Discord rumors and streamer hot takes come second. Ask three plain questions for every bullet: Does this change how shield tiers fight? Does this change what economy rounds are worth saving? Does this change which site or map I should play tonight?",
 					"Growth stat tables, armor tiers, heli spawn rates, and blueprint unlocks move the real economy. A small recoil control tweak on an mid-tier weapons looks boring in a video title, but it quietly reshapes mid-range fights on maps and Map. Cosmetic lines and UI polish almost never decide whether you survive high-traffic zones.",
 					"If you also run third-party tools, separate game balance from anti-cheat maintenance. After a <a href=\"https://www.battleye.com/\" target=\"_blank\" rel=\"noopener noreferrer\">BattlEye</a> or client update, check our <a href=\"/updates/\">Deadside Cheats status page</a> before you blame your own aim.",
 				],
@@ -39,7 +39,7 @@ export const blogPosts: BlogPostDefinition[] = [
 				paragraphs: [
 					"When mid-tier ARs feel strong, prioritize optics and stats that win 40–70 meter peeks. When recoil gets tighter, play more conservatively near maps and compound zones and avoid ego third-parties. When a map POI shifts — new locked rooms, moved spawns, heli spawn changes — rewrite your first three minutes on that map before you farm it for match goals.",
 					"Keep in-game cosmetics chatter out of patch-day focus. Skin talk is fun; TTK and camping combat-zone patterns are what get you killed. For aggressive juvenile timing after a meta shift, see our <a href=\"/blog/deadside-loot-run-strategies/\">farming-run strategies</a>.",
-					"On big mornings, confirm <a href=\"https://store.steampowered.com/app/895400/Deadside//\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside on PC</a> looks healthy before you assume your client is broken. Then run a short checklist: note removed items, update your progress “buy list,” play five intentional matches, and only then lock a new main kit.",
+					"On big mornings, confirm <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside on Steam</a> looks healthy before you assume your client is broken. Then run a short checklist: note removed items, update your progress “buy list,” play five intentional matches, and only then lock a new main kit.",
 				],
 			},
 			{
@@ -73,8 +73,8 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Why most impulse cosmetic buys feel bad after a week",
 				paragraphs: [
-					"Shop rotations and official skins come from undefined. Leaks are entertainment, not a shopping list. Many players spend hard-earned in-game currency the night before a patch cycle, then realize they still need ability cooldowns, ammo, and a backup kit.",
-					"Controversial but useful: most cosmetics do not raise your survival rate. Some loud patterns even make you easier to spot in bushes on maps or near arena edges. Pros often prefer quieter silhouettes so enemy outlines stay readable in chaotic peeks.",
+					"Shop rotations and official skins come from <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Leaks are entertainment, not a shopping list. Many players spend hard-earned in-game currency the night before a patch cycle, then realize they still need ability cooldowns, ammo, and a backup kit.",
+					"Controversial but useful: most cosmetics do not raise your survival rate. Some loud patterns even make you easier to spot in bushes on maps or near compound edges. Pros often prefer quieter silhouettes so enemy outlines stay readable in chaotic peeks.",
 				],
 			},
 			{
@@ -124,7 +124,7 @@ export const blogPosts: BlogPostDefinition[] = [
 				paragraphs: [
 					"S-tier means the best expected value across a hundred player encounters on maps like Map, Woods, and Map — not the gun that looks strongest in a controlled offline range. Mid-range rifles win many of the fights that actually decide matches: forty to seventy meters through doorways, parking lots, and tree lines.",
 					"Shotguns still own tight interiors. Long-ranges still punish long peeks on Shoreline and Lighthouse. Everything between those extremes is usually assault-rifle country, which is why a well-built M4A1 or similar 5.56 platform stays relevant patch cycle after patch cycle when ammo and mods are available.",
-					"Always re-check live values after patches on undefined. The hierarchy logic stays useful even when numbers nudge.",
+					"Always re-check live values after patches on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. The hierarchy logic stays useful even when numbers nudge.",
 				],
 			},
 			{
@@ -180,7 +180,7 @@ export const blogPosts: BlogPostDefinition[] = [
 				h2: "Five aggressive habits that still work",
 				paragraphs: [
 					"Pre-aim common corners on Map high-traffic zones and Map tech stores so you clear angles in under a second. Enter rooms with an exit path, not a panic turn. Fake one side of a doorway, then finish from the safer angle when their stamina is low.",
-					"Stay close to hard cover while you move — never more than a short sprint from a wall or vehicle. Pressure late rotates near maps and compound zones when players are silhouetted and greedy. Mode rules evolve with undefined patch cycles; the geometry of first-shot advantage does not.",
+					"Stay close to hard cover while you move — never more than a short sprint from a wall or vehicle. Pressure late rotates near maps and compound zones when players are silhouetted and greedy. Mode rules evolve with <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> patch cycles; the geometry of first-shot advantage does not.",
 				],
 			},
 			{
@@ -215,13 +215,13 @@ export const blogPosts: BlogPostDefinition[] = [
 		metaDescription: "What strong Deadside competitors optimize — match plans, loadouts, mid-session habits, and which competitive habits help normal match sessions.",
 		h1: "Competitive Deadside Meta Guide",
 		intro: "Tournament winners and high-level pairs are not lucky spawn gods. They optimize expected value: safer loot paths, cleaner mid-session habits, and fights they choose on purpose. Here is what translates into your normal Deadside load ins.",
-		keywords: ["deadside competitive","deadside meta","ranked matches"],
+		keywords: ["deadside competitive","deadside meta","pvp raids"],
 		imageAlt: "Competitive Deadside players reviewing match strategy",
 		sections: [
 			{
 				h2: "Watch official server stream replays like a coach, not a fan",
 				paragraphs: [
-					"Start with schedules and film from undefined official updates or trusted creators, then tag habits instead of meloot zonezing a single POI name. Note the landing plan, first heal, first rotate, first voluntary fight, and the key late-session decision.",
+					"Start with schedules and film from <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> official updates or trusted creators, then tag habits instead of meloot zonezing a single POI name. Note the landing plan, first heal, first rotate, first voluntary fight, and the key late-session decision.",
 					"Five clear timestamps beat a full passive watch. You are stealing decision patterns, not cosplaying someone else’s spawn.",
 				],
 			},
@@ -278,7 +278,7 @@ export const blogPosts: BlogPostDefinition[] = [
 				h2: "Three route archetypes that keep printing gear",
 				paragraphs: [
 					"Contested edge POI: land outer loot, snake inward, leave before late third parties. Uncontested chain: sacrifice early fights for a fuller kit by minute three. Mid-map surge: vacuum piles ninety to one hundred fifty seconds after hot spawns empty out.",
-					"Timing targets help: first gun quickly, clear a cluster, grab heals, then upgrade or leave. Slot priority is usually gun, ammo, armor, ability cooldowns, then flex loot. POI names shift with undefined patch cycles — keep the geometry, not just the landmark brand.",
+					"Timing targets help: first gun quickly, clear a cluster, grab heals, then upgrade or leave. Slot priority is usually gun, ammo, armor, ability cooldowns, then flex loot. POI names shift with <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> patch cycles — keep the geometry, not just the landmark brand.",
 				],
 			},
 			{
@@ -319,7 +319,7 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Visibility and performance before fancy numbers",
 				paragraphs: [
-					"If your frame rate collapses in arena river zones or mapy interiors, no aim smoothing tip will save you. Prioritize a stable FPS and readable shadows over maximum eye candy. Many strong players lower clutter so player silhouettes pop sooner in tree lines and warehouse lighting.",
+					"If your frame rate collapses in riverside zones or dense interiors, no aim smoothing tip will save you. Prioritize a stable FPS and readable shadows over maximum eye candy. Many strong players lower clutter so player silhouettes pop sooner in tree lines and warehouse lighting.",
 					"Test changes in practice server or a quiet juvenile before locking them for serious matches. Your eyes adapt in a few matches — give settings that long before declaring them useless.",
 				],
 			},
@@ -375,7 +375,7 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "A simple 15-minute routine that scales",
 				paragraphs: [
-					"Minutes 1–5: tracking and short bursts on a practice server with agents. Minutes 6–10: ambush practice on common angles — jiggle, counter-strafe, pre-aim head height. Minutes 11–15: one focused aim train or practice server block where you only work one habit, like holding a base or clearing dense cover.",
+					"Minutes 1–5: tracking and short bursts on a practice server with moving targets. Minutes 6–10: ambush practice on common angles — jiggle, counter-strafe, pre-aim head height. Minutes 11–15: one focused aim train or practice server block where you only work one habit, like holding a base or clearing dense cover.",
 					"Keep the routine identical for a week so improvements are mecompound zonesble. Rotate maps later — Map one day, Woods the next — after the habit sticks.",
 				],
 			},
@@ -480,7 +480,7 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Feature checklist that matches real Deadside matches",
 				paragraphs: [
-					"For Deadside, useful features usually mean player ESP with distance, agent filters, site awareness, radar for flanks, and soft aim you can tone down. “Unlock all” marketing and other-game leftovers are red flags that the page was cloned from another game.",
+					"For Deadside, useful features usually mean player ESP with distance, player filters, compound awareness, radar for flanks, and soft aim you can tone down. “Unlock all” marketing and other-game leftovers are red flags that the page was cloned from another game.",
 					"Compare the stack on <a href=\"/features/\">Features</a>, <a href=\"/deadside-esp/\">ESP</a>, and <a href=\"/deadside-aimbot/\">Aimbot</a>. If radar matters to how you hold bases, confirm it exists before checkout.",
 				],
 			},
@@ -578,7 +578,7 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Per-weapon profiles beat one global slider",
 				paragraphs: [
-					"ARs, SMGs, and long-range rifles want different assist. Save separate profiles so close-range sprays and long arena ambushes do not share the same magnet. Bone priority should favor what you can actually hit under stress — usually upper chest to head transitions, not miracles.",
+					"ARs, SMGs, and long-range rifles want different assist. Save separate profiles so close-range sprays and long-range ambushes do not share the same magnet. Bone priority should favor what you can actually hit under stress — usually upper chest to head transitions, not miracles.",
 					"Hotkeys matter mid-session. You need to disable assist when you are looting friendlies or holding a suspicious angle where obvious corrections would look wrong.",
 				],
 			},
@@ -619,7 +619,7 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "What ESP shows during a real match",
 				paragraphs: [
-					"Player ESP outlines agents through walls and terrain, often with distance. Loot ESP highlights loot or high-value items. Base cues help you avoid camping surprises. That information gap is why people search for Deadside ESP in the first place.",
+					"Player ESP outlines players through walls and terrain, often with distance. Loot ESP highlights loot or high-value items. Base cues help you avoid camping surprises. That information gap is why people search for Deadside ESP in the first place.",
 					"Read the dedicated pages for <a href=\"/deadside-esp/\">ESP</a> and <a href=\"/deadside-esp/\">wallhack</a> if you want category-level detail.",
 				],
 			},
@@ -674,7 +674,7 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Patch-day habits that reduce pain",
 				paragraphs: [
-					"After a Deadside or BattlEye update, wait for a status note before loading in. Confirm <a href=\"https://store.steampowered.com/app/895400/Deadside//\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside on PC</a> is online if the launcher itself is failing. Do not run yesterday’s build into today’s anti-cheat and call it bad luck.",
+					"After a Deadside or BattlEye update, wait for a status note before loading in. Confirm <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside on Steam</a> is online if the launcher itself is failing. Do not run yesterday’s build into today’s anti-cheat and call it bad luck.",
 					"Keep soft aim conservative and avoid highlight-reel rage settings that attract reports even when the binary is clean.",
 				],
 			},
