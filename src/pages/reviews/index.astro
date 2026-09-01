@@ -9,6 +9,9 @@ import { getSelfHreflangAlternates } from '../../data/i18n/routing';
 import { getReviewPath, reviewsBasePath } from '../../data/reviews';
 import { reviewsImageSrc } from '../../data/page-images';
 import { contentSrcSet, productMainSizes } from '../../lib/responsive-images';
+import { getT } from '../../i18n/server';
+
+const t = getT('en');
 
 const title = seoPageTitle(brandSeo.reviewsTitle);
 const description = seoDescription(brandSeo.reviewsDescription);
@@ -72,7 +75,7 @@ const extraGraph: Record<string, unknown>[] = [
 	canonicalPath={reviewsBasePath}
 	hreflangAlternates={hreflangAlternates}
 	ogImage={reviewsImageSrc}
-	ogImageAlt={fillBrandTokens('{brand} — Deadside cheats reviews')}
+	ogImageAlt={fillBrandTokens('What players say about {brand}')}
 	locale="en"
 	breadcrumbs={[
 		{ label: 'Home', href: '/' },
@@ -86,7 +89,7 @@ const extraGraph: Record<string, unknown>[] = [
 			<nav class="reviews-index__crumbs" aria-label="Breadcrumb">
 				<a href="/">Home</a>
 				<span aria-hidden="true">/</span>
-				<span aria-current="page">Reviews</span>
+				<span aria-current="page">{t('reviews.title')}</span>
 			</nav>
 
 			<figure class="reviews-index__media">
@@ -94,7 +97,7 @@ const extraGraph: Record<string, unknown>[] = [
 					src={reviewsImageSrc}
 					srcset={contentSrcSet(reviewsImageSrc)}
 					sizes={productMainSizes}
-					alt={fillBrandTokens('{brand} — Deadside cheats reviews')}
+					alt={fillBrandTokens('What players say about {brand}')}
 					width="960"
 					height="530"
 					loading="lazy"
@@ -104,13 +107,13 @@ const extraGraph: Record<string, unknown>[] = [
 
 			<header class="reviews-index__head">
 				<div>
-					<h1 data-edit="navReviews">Deadside cheats reviews</h1>
+					<h1 data-edit="navReviews">{t('reviews.homeTitle')}</h1>
 					<p class="reviews-index__intro" data-edit="reviewsIntro">{reviewsIntro}</p>
 				</div>
-				<div class="reviews-index__summary" aria-label={`${customerReviewStats.averageRating} out of 5 average rating`}>
+				<div class="reviews-index__summary" aria-label={t('reviews.averageAria', { rating: customerReviewStats.averageRating.toFixed(1), count: customerReviewStats.reviewCountLabel })}>
 					<p class="reviews-index__avg">{customerReviewStats.averageRating.toFixed(1)}</p>
 					<p class="reviews-index__avg-stars" aria-hidden="true">{stars(Math.round(customerReviewStats.averageRating))}</p>
-					<p class="reviews-index__count">{customerReviewStats.reviewCountLabel} buyer reviews · out of 5</p>
+					<p class="reviews-index__count">{t('reviews.buyerReviews', { count: customerReviewStats.reviewCountLabel })} · {t('reviews.outOf')}</p>
 				</div>
 			</header>
 

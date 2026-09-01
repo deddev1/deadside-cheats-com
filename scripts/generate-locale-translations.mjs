@@ -243,12 +243,14 @@ async function main() {
 	};
 	en.reviews = {
 		...(en.reviews ?? {}),
-		eyebrow: 'Deadside Cheats',
-		homeTitle: 'Deadside Cheats reviews',
-		subtitle: 'Recent feedback from Deadside Cheats buyers',
-		buyerReviews: '{{count}} Deadside Cheats buyer reviews',
-		averageAria: '{{rating}} average from {{count}} Deadside Cheats buyer reviews',
-		readAll: 'Read all Deadside Cheats reviews →',
+		title: 'What players say',
+		eyebrow: 'What players say',
+		homeTitle: 'What players say',
+		subtitle: 'Unfiltered notes from people running Deadside cheats in raid',
+		countLabel: 'player ratings',
+		buyerReviews: '{{count}} players rated this',
+		averageAria: '{{rating}} average from {{count}} player ratings',
+		readAll: 'Read what players are saying →',
 	};
 	en.guides = {
 		...(en.guides ?? {}),

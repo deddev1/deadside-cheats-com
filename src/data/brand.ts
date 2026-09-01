@@ -133,9 +133,9 @@ export const brand = {
 		faqTitle: 'Deadside Cheats FAQ | ESP, Aimbot & BattlEye',
 		faqDescription:
 			'FAQ for Deadside cheats — delivery, setup, survival raid use, {antiCheat} updates & pricing on PC. Answers at deadsidecheats.com before you buy.',
-		reviewsTitle: 'Deadside Cheats Reviews | Buyer Feedback & Ratings',
+		reviewsTitle: 'What Players Say | Deadside Cheats Reviews',
 		reviewsDescription:
-			'Real buyer reviews for Deadside cheats — ESP, soft aim, radar & {antiCheat} maintenance on PC. See license holder feedback at deadsidecheats.com.',
+			'What Deadside players actually say — ESP in raid, BattlEye after patches, setup, and support. Honest ratings from license holders at deadsidecheats.com.',
 		blogTitle: 'Deadside Blog | Guides & Patch Tips | {brand}',
 		blogDescription:
 			'Deadside guides — survival tips, ESP & aimbot notes, loot routes & {antiCheat} updates for PC. Read patch notes and buyer guides at deadsidecheats.com/blog.',
@@ -157,7 +157,7 @@ export const brand = {
 		supportIntro: 'Need help with {brand}? Email {email} with your order ID.',
 		faqIntro: 'Short answers about delivery, setup, updates, and refunds.',
 		reviewsIntro:
-			'What buyers actually write — mixed ratings, setup headaches, and how deadside cheats hold up after BattlEye patches.',
+			'Unfiltered write-ups from players who bought — what ESP feels like in a raid, when setup went sideways, and whether it still works after a BattlEye patch.',
 		chipEsp: 'ESP / wallhack',
 		chipAim: 'Soft aim',
 		chipRadar: '2D radar',
