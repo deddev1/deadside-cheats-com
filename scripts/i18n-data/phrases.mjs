@@ -21,7 +21,7 @@ const KW = {
  */
 export const phrases = {
 	es: {
-		buy: 'Comprar Deadside Cheats', undetected: 'indetectables', maps: 'maps, compounds, and loot zones',
+		buy: 'Comprar Deadside Cheats', undetected: 'indetectables', maps: 'mapas, compuestos y zonas de botín',
 		win: 'Windows PC', delivery: 'entrega digital instantánea', monthly: '$35/mes', lifetime: '$150 de por vida',
 		s1: (topic) => `${KW.product} ofrece ${KW.wallhack}, ${KW.radar} y ${KW.aimbot} ${phrases.es.undetected} para ${KW.game} en ${phrases.es.win}. ${topic}`,
 		s2: () => `Licencias con ${phrases.es.delivery} vía checkout ${KW.checkout}. Planes ${phrases.es.monthly} y ${phrases.es.lifetime} incluyen mantenimiento ${KW.eac}.`,
@@ -29,7 +29,7 @@ export const phrases = {
 		legal: () => 'Contacta support@deadsidecheats.com para solicitudes legales o de soporte.',
 	},
 	fr: {
-		buy: 'Acheter Deadside Cheats', undetected: 'indétectables', maps: 'maps, compounds, and loot zones',
+		buy: 'Acheter Deadside Cheats', undetected: 'indétectables', maps: 'cartes, compounds et zones de loot',
 		win: 'PC Windows', delivery: 'livraison numérique instantanée', monthly: '35 $/mois', lifetime: '150 $ à vie',
 		s1: (topic) => `${KW.product} combine ${KW.wallhack}, ${KW.radar} et ${KW.aimbot} ${phrases.fr.undetected} pour ${KW.game} sur ${phrases.fr.win}. ${topic}`,
 		s2: () => `Licences avec ${phrases.fr.delivery} via checkout ${KW.checkout}. Forfaits ${phrases.fr.monthly} et ${phrases.fr.lifetime} incluent la maintenance ${KW.eac}.`,
@@ -37,7 +37,7 @@ export const phrases = {
 		legal: () => 'Contactez support@deadsidecheats.com pour le support ou les demandes légales.',
 	},
 	de: {
-		buy: 'Deadside Cheats kaufen', undetected: 'undetected', maps: 'maps, compounds, and loot zones',
+		buy: 'Deadside Cheats kaufen', undetected: 'undetected', maps: 'Karten, Compounds und Loot-Zonen',
 		win: 'Windows PC', delivery: 'sofortige digitale Lieferung', monthly: '$35/Monat', lifetime: '$150 Lifetime',
 		s1: (topic) => `${KW.product} bündelt ${KW.wallhack}, ${KW.radar} und ${KW.aimbot} als ${phrases.de.undetected} Paket für ${KW.game} auf ${phrases.de.win}. ${topic}`,
 		s2: () => `Lizenzen mit ${phrases.de.delivery} über ${KW.checkout} Checkout. ${phrases.de.monthly} und ${phrases.de.lifetime} inkl. ${KW.eac}-Wartung.`,
@@ -45,7 +45,7 @@ export const phrases = {
 		legal: () => 'support@deadsidecheats.com für Support und rechtliche Anfragen.',
 	},
 	pt: {
-		buy: 'Comprar Deadside Cheats', undetected: 'indetectáveis', maps: 'maps, compounds, and loot zones',
+		buy: 'Comprar Deadside Cheats', undetected: 'indetectáveis', maps: 'mapas, compounds e zonas de loot',
 		win: 'PC Windows', delivery: 'entrega digital instantânea', monthly: '$35/mês', lifetime: '$150 vitalício',
 		s1: (topic) => `${KW.product} reúne ${KW.wallhack}, ${KW.radar} e ${KW.aimbot} ${phrases.pt.undetected} para ${KW.game} no ${phrases.pt.win}. ${topic}`,
 		s2: () => `Licenças com ${phrases.pt.delivery} via checkout ${KW.checkout}. Planos ${phrases.pt.monthly} e ${phrases.pt.lifetime} incluem manutenção ${KW.eac}.`,
@@ -77,7 +77,7 @@ export const phrases = {
 		legal: () => 'support@deadsidecheats.com w sprawach wsparcia i prawnych.',
 	},
 	ru: {
-		buy: 'Купить Deadside Cheats', undetected: 'undetected', maps: 'maps, compounds, and loot zones',
+		buy: 'Купить Deadside Cheats', undetected: 'undetected', maps: 'карты, комплексы и зоны лута',
 		win: 'Windows PC', delivery: 'мгновенная цифровая доставка', monthly: '$35/мес', lifetime: '$150 навсегда',
 		s1: (topic) => `${KW.product} объединяет ${KW.wallhack}, ${KW.radar} и ${KW.aimbot} в ${phrases.ru.undetected} пакете для ${KW.game} на ${phrases.ru.win}. ${topic}`,
 		s2: () => `Лицензии с ${phrases.ru.delivery} через checkout ${KW.checkout}. Тарифы ${phrases.ru.monthly} и ${phrases.ru.lifetime} включают обслуживание ${KW.eac}.`,
@@ -117,7 +117,7 @@ export const phrases = {
 		legal: () => '지원 및 법무: support@deadsidecheats.com',
 	},
 	zh: {
-		buy: '购买 Deadside Cheats', undetected: 'undetected', maps: 'maps, compounds, and loot zones',
+		buy: '购买 Deadside Cheats', undetected: 'undetected', maps: '地图、据点与搜刮区域',
 		win: 'Windows PC', delivery: '即时数字交付', monthly: '$35/月', lifetime: '$150终身',
 		s1: (topic) => `${KW.product}为${KW.game}${phrases.zh.win}提供${KW.wallhack}、${KW.radar}和${KW.aimbot}${phrases.zh.undetected}套餐。${topic}`,
 		s2: () => `通过${KW.checkout} checkout${phrases.zh.delivery}。${phrases.zh.monthly}和${phrases.zh.lifetime}含${KW.eac}维护。`,
@@ -189,3 +189,25 @@ export const phrases = {
 		legal: () => 'support@deadsidecheats.com för support och juridik.',
 	},
 };
+
+const META_DESC_BUILDERS = {
+	es: (p) => (topic, focus) =>
+		`${topic} para raids y PvP en Deadside en PC Windows — ${focus}. ${p.delivery}. Mantenimiento ${KW.eac}.`,
+	fr: (p) => (topic, focus) =>
+		`${topic} pour raids et PvP sur Deadside sur PC Windows — ${focus}. ${p.delivery}. Maintenance ${KW.eac}.`,
+	de: (p) => (topic, focus) =>
+		`${topic} für Raids und PvP in Deadside auf Windows PC — ${focus}. ${p.delivery}. ${KW.eac}-Wartung.`,
+	pt: (p) => (topic, focus) =>
+		`${topic} para raids e PvP em Deadside no PC Windows — ${focus}. ${p.delivery}. Manutenção ${KW.eac}.`,
+	ru: (p) => (topic, focus) =>
+		`${topic} для рейдов и PvP в Deadside на Windows PC — ${focus}. ${p.delivery}. Обслуживание ${KW.eac}.`,
+	zh: (p) => (topic, focus) =>
+		`${topic}，适用于 Windows PC 版 Deadside 突袭与 PvP — ${focus}。${p.delivery}。含 ${KW.eac} 维护。`,
+};
+
+for (const [locale, p] of Object.entries(phrases)) {
+	const build = META_DESC_BUILDERS[locale];
+	p.metaDesc = build
+		? build(p)
+		: (topic, focus) => `${topic} — ${focus}. ${p.delivery}. ${p.undetected}.`;
+}

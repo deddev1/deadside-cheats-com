@@ -2,7 +2,7 @@
   "remote.autoForwardPorts": true,
   "remote.autoForwardPortsSource": "hybrid",
   "remote.portsAttributes": {
-    "5173": {
+    "3000": {
       "label": "Deadside Cheats",
       "onAutoForward": "openBrowser",
       "protocol": "http"

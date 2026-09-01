@@ -10,6 +10,7 @@ import { getCanonicalEnPages } from './canonical-en-pages.mjs';
 import { SIMPLE_PAGE_IDS } from './simple-pages-en.mjs';
 import { buildSimplePagesForLocale } from './simple-pages-i18n.mjs';
 import { localizeHtmlLinks, localizeLinkListItem } from './link-labels.mjs';
+import { localizeLinkedParagraph } from './linked-paragraph-i18n.mjs';
 import { PAGE_IMAGE_ALTS } from './image-alts.mjs';
 import { translateSectionH2 } from './section-headings-i18n.mjs';
 import { fixDeadsideCopy } from './deadside-copy-fix.mjs';
@@ -27,14 +28,12 @@ function localizeSection(enSection, locale, pageKey, sectionIndex) {
 	const focus = FOCUS_I18N[locale]?.[pageKey] ?? pageKey;
 
 	const paragraphs = enSection.paragraphs.map((_, pi) => {
-		const gen = PARA_GENERATORS[pi % PARA_GENERATORS.length];
-		const text = gen(p, focus);
-		// Preserve inline links from EN when present
 		const enPara = enSection.paragraphs[pi];
 		if (enPara.includes('<a ')) {
-			return localizeHtmlLinks(enPara, locale);
+			return localizeLinkedParagraph(enPara, locale, pageKey, pi);
 		}
-		return text;
+		const gen = PARA_GENERATORS[pi % PARA_GENERATORS.length];
+		return fixDeadsideCopy(gen(p, focus));
 	});
 
 	const localizedParagraphs = paragraphs.map((p) => fixDeadsideCopy(p));
@@ -64,7 +63,9 @@ function localizeMeta(enPage, locale, pageKey) {
 		title: clampTitle(stripZadeyoFromMeta(`${topicName} | ${suffix}`)),
 		description: clampDesc(
 			stripZadeyoFromMeta(
-				`${topicName} for Deadside survival & squad raids on Windows PC — ${focus}. ${p.delivery}. ${p.undetected}. Official deadside cheats at deadsidecheats.com.`,
+				p.metaDesc
+					? p.metaDesc(topicName, focus)
+					: `${topicName} — ${focus}. ${p.delivery}. ${p.undetected}. deadsidecheats.com`,
 			),
 		),
 		h1: `${topicName} — ${suffix}`,
