@@ -6,6 +6,8 @@ export type GuideSection = {
 export type GuideDefinition = {
 	id: string;
 	slug: string;
+	/** `native` = site Deadside articles; `external` = third-party URL guides (noindex). */
+	source: 'native' | 'external';
 	game: string;
 	gameSlug: string;
 	externalUrl: string;

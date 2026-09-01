@@ -3,7 +3,7 @@ import Layout from '../layouts/Layout.astro';
 import Navbar from './Navbar.astro';
 import SiteFooter from './SiteFooter.astro';
 import { defaultLocale, type LocaleCode } from '../data/i18n/locales';
-import { getAllGuides, getGuidesBasePath, getMixedGuides, absoluteGuideUrl } from '../data/guides/helpers';
+import { getAllGuides, getDeadsideArticleGuides, getGuidesBasePath, getInterleavedExternalGuides, absoluteGuideUrl } from '../data/guides/helpers';
 import { nativeGuides } from '../data/guides/native-guides';
 import { siteConfig } from '../data/site';
 import { getLocalizedPath } from '../data/i18n/routing';
@@ -16,7 +16,8 @@ interface Props {
 const { locale } = Astro.props;
 const t = getT(locale);
 const guides = getAllGuides();
-const mixedGuides = getMixedGuides();
+const deadsideArticles = getDeadsideArticleGuides();
+const otherGameGuides = getInterleavedExternalGuides();
 const canonicalPath = getGuidesBasePath();
 const homeHref = getLocalizedPath('home', locale);
 
@@ -82,6 +83,30 @@ const collectionSchema = {
 						))
 					}
 				</ul>
+				{
+					deadsideArticles.length > 0 && (
+						<ul class="guides-hub__grid guides-hub__grid--articles">
+							{deadsideArticles.map((guide) => (
+								<li>
+									<a class="guides-hub__card" href={guide.canonicalPath}>
+										<img
+											src={guide.imageUrl}
+											alt={guide.imageAlt}
+											width="640"
+											height="360"
+											loading="lazy"
+											decoding="async"
+										/>
+										<div class="guides-hub__card-copy">
+											<h3>{guide.h1}</h3>
+											<p>{guide.metaDescription}</p>
+										</div>
+									</a>
+								</li>
+							))}
+						</ul>
+					)
+				}
 			</section>
 
 			<section class="guides-hub__external" aria-labelledby="game-guides-title">
@@ -91,7 +116,7 @@ const collectionSchema = {
 				</div>
 				<ul class="guides-hub__grid">
 					{
-						mixedGuides.map((guide) => (
+						otherGameGuides.map((guide) => (
 							<li>
 								<a class="guides-hub__card" href={guide.canonicalPath}>
 									<img
@@ -194,6 +219,10 @@ const collectionSchema = {
 
 	.guides-hub__grid--native {
 		grid-template-columns: repeat(auto-fill, minmax(14rem, 1fr));
+	}
+
+	.guides-hub__grid--articles {
+		margin-top: 1.25rem;
 	}
 
 	.guides-hub__card {

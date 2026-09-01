@@ -5,6 +5,7 @@ export const guides: GuideDefinition[] = [
 	{
 	id: "deadside-survival-fundamentals",
 	slug: "deadside-survival-fundamentals",
+	source: "native",
 	game: "Deadside",
 	gameSlug: "deadside",
 	externalUrl: "https://deadsidecheats.com/deadside-cheats/",
@@ -51,6 +52,7 @@ export const guides: GuideDefinition[] = [
 	{
 	id: "deadside-squad-raid-coordination",
 	slug: "deadside-squad-raid-coordination",
+	source: "native",
 	game: "Deadside",
 	gameSlug: "deadside",
 	externalUrl: "https://deadsidecheats.com/deadside-cheats/",
@@ -97,6 +99,7 @@ export const guides: GuideDefinition[] = [
 	{
 	id: "deadside-loot-route-planning",
 	slug: "deadside-loot-route-planning",
+	source: "native",
 	game: "Deadside",
 	gameSlug: "deadside",
 	externalUrl: "https://deadsidecheats.com/deadside-cheats/",
@@ -143,6 +146,7 @@ export const guides: GuideDefinition[] = [
 	{
 	id: "deadside-compound-pvp-tactics",
 	slug: "deadside-compound-pvp-tactics",
+	source: "native",
 	game: "Deadside",
 	gameSlug: "deadside",
 	externalUrl: "https://deadsidecheats.com/deadside-cheats/",
@@ -189,6 +193,7 @@ export const guides: GuideDefinition[] = [
 	{
 	id: "deadside-battleye-patch-day",
 	slug: "deadside-battleye-patch-day",
+	source: "native",
 	game: "Deadside",
 	gameSlug: "deadside",
 	externalUrl: "https://deadsidecheats.com/deadside-cheats/",
@@ -235,6 +240,7 @@ export const guides: GuideDefinition[] = [
 	{
 	id: "deadside-esp-survival-reads",
 	slug: "deadside-esp-survival-reads",
+	source: "native",
 	game: "Deadside",
 	gameSlug: "deadside",
 	externalUrl: "https://deadsidecheats.com/deadside-cheats/",
@@ -281,6 +287,7 @@ export const guides: GuideDefinition[] = [
 	{
 	id: "deadside-weapon-loadout-meta",
 	slug: "deadside-weapon-loadout-meta",
+	source: "native",
 	game: "Deadside",
 	gameSlug: "deadside",
 	externalUrl: "https://deadsidecheats.com/deadside-cheats/",
@@ -327,6 +334,7 @@ export const guides: GuideDefinition[] = [
 	{
 	id: "deadside-base-defense-basics",
 	slug: "deadside-base-defense-basics",
+	source: "native",
 	game: "Deadside",
 	gameSlug: "deadside",
 	externalUrl: "https://deadsidecheats.com/deadside-cheats/",
@@ -373,6 +381,7 @@ export const guides: GuideDefinition[] = [
 	{
 	id: "deadside-vehicle-extract-runs",
 	slug: "deadside-vehicle-extract-runs",
+	source: "native",
 	game: "Deadside",
 	gameSlug: "deadside",
 	externalUrl: "https://deadsidecheats.com/deadside-cheats/",
@@ -419,6 +428,7 @@ export const guides: GuideDefinition[] = [
 	{
 	id: "deadside-night-raid-visibility",
 	slug: "deadside-night-raid-visibility",
+	source: "native",
 	game: "Deadside",
 	gameSlug: "deadside",
 	externalUrl: "https://deadsidecheats.com/deadside-cheats/",
@@ -465,6 +475,7 @@ export const guides: GuideDefinition[] = [
 	{
 	id: "deadside-soft-aim-tuning",
 	slug: "deadside-soft-aim-tuning",
+	source: "native",
 	game: "Deadside",
 	gameSlug: "deadside",
 	externalUrl: "https://deadsidecheats.com/deadside-cheats/",
@@ -511,6 +522,7 @@ export const guides: GuideDefinition[] = [
 	{
 	id: "deadside-radar-flank-awareness",
 	slug: "deadside-radar-flank-awareness",
+	source: "native",
 	game: "Deadside",
 	gameSlug: "deadside",
 	externalUrl: "https://deadsidecheats.com/deadside-cheats/",

@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Generates src/data/guides/guides.generated.ts — one dedicated guide per external URL.
+ * Generates src/data/guides/external-guides.generated.ts — one dedicated guide per external URL.
  * Run: node scripts/generate-guides.mjs
  */
 import { writeFile } from 'node:fs/promises';
@@ -9,9 +9,11 @@ import { fileURLToPath } from 'node:url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
-const OUT = path.join(ROOT, 'src', 'data', 'guides', 'guides.generated.ts');
+const OUT = path.join(ROOT, 'src', 'data', 'guides', 'external-guides.generated.ts');
 
 const RAW_URLS = `
+https://arkascendedcheats.com/
+https://deadsidecheats.net/
 https://arcraiderscheat.net/
 https://genshincheats.net/
 https://dbdcheats.net/
@@ -46,12 +48,12 @@ https://thefinalscheats.org/
 https://dayzcheat.net/
 https://fncheats.net/
 http://islecheat.com
-http://islecheat.com
+https://deadsidecheats.com/
 http://marvelrivalscheat.net/
 http://meccacheats.com/
 http://rusthack.net
-http://warzonecheat.org/
 http://grayzonecheats.net/
+https://unturnedhacks.com/
 http://palworldhack.net/
 http://r6siegecheats.net/
 http://eftcheat.net/
@@ -69,7 +71,6 @@ https://huntshowdowncheats.com/
 https://destiny2cheats.com/
 https://tarkovhacks.net/
 https://r6siegecheats.com/
-https://sandraiderscheat.com/
 https://sandraiderscheat.com/
 https://palworldhacks.com/
 https://squadhacks.com/
@@ -103,6 +104,47 @@ https://thefinalscheats.net/
 https://theislehacks.net/
 https://valoranthack.net/
 https://warzonehacks.net/
+https://thefrontcheats.com/
+https://lostarkcheats.net/
+https://valoranthacks.org/
+https://siegehacks.com/
+https://warframehacks.com/
+https://warframecheat.com/
+https://narakacheats.org/
+https://minecraftcheat.com/
+https://destiny2hack.com/
+https://poecheats.com/
+https://genshinhacks.com/
+https://arcraiderscheat.org/
+https://palworldcheats.org/
+https://theislecheat.net/
+https://tarkovcheat.org/
+https://theislecheats.org/
+https://raftcheats.com/
+https://sandhacks.com/
+https://seaofthievescheats.net/
+https://battlefieldhacks.net/
+https://thefinalshacks.com/
+https://deltaforcecheats.org/
+https://warthunderhacks.net/
+https://valohacks.com/
+https://dbdcheat.org/
+https://arkcheats.net/
+https://unturnedcheats.org/
+https://warthundercheats.org/
+https://seaofthievescheats.org/
+https://warframecheats.net/
+https://arkascendedcheats.com/
+https://dunecheats.com/
+https://wutheringwavescheats.org/
+https://genshincheats.org/
+https://narakahacks.com/
+https://huntcheats.net/
+https://combatmastercheats.com/
+https://combatmastercheats.net/
+https://dunecheats.net/
+https://fncheat.com/
+https://deltaforcecheat.org/
 `.trim().split(/\s+/);
 
 const ANCHOR_TEXTS = [
@@ -137,15 +179,30 @@ const IGN_IMAGES = {
 	Palworld: 'https://assets-prd.ignimgs.com/2024/01/19/palworld-1705691572614.jpg',
 	'Rainbow Six Siege': 'https://assets-prd.ignimgs.com/2025/06/30/siegex-1751319986948.jpg',
 	Caliber: 'https://assets-prd.ignimgs.com/2023/04/06/caliber-1680811698787.jpg',
-	'Hunt: squad raids': 'https://assets-prd.ignimgs.com/2024/08/28/hunt-showdown-1896-button-1724846899827.jpg',
+	'Hunt: Showdown': 'https://assets-prd.ignimgs.com/2024/08/28/hunt-showdown-1896-button-1724846899827.jpg',
 	'Destiny 2': 'https://assets-prd.ignimgs.com/2025/03/12/destiny2heresy-1741800139522.jpg',
 	Squad: 'https://assets2.ignimgs.com/2015/12/17/squad-buttonjpg-19bbc6.jpg',
-	'Sand Raiders': 'https://assets-prd.ignimgs.com/2026/01/09/sand-raiders-of-sophie-button-1767971628115.jpg',
+	'Sand Raiders of Sophie': 'https://assets-prd.ignimgs.com/2026/01/09/sand-raiders-of-sophie-button-1767971628115.jpg',
 	'Arena Breakout Infinite': 'https://assets-prd.ignimgs.com/2024/04/17/infinite-button-1713363504862.jpg',
 	Bodycam: 'https://assets-prd.ignimgs.com/2024/01/21/untitled-1-1705872632310.jpg',
 	'Once Human': 'https://assets-prd.ignimgs.com/2022/06/13/once-human-button-22-1655151627567.jpg',
 	'Arma Reforger': 'https://assets-prd.ignimgs.com/2022/05/17/arma-reforger-button-1652812465455.jpg',
 	Backrooms: 'https://assets-prd.ignimgs.com/2024/02/13/backrooms-1707864765589.jpg',
+	'ARK: Survival Ascended': 'https://assets-prd.ignimgs.com/2023/04/01/arkascended-1680312404931.jpg',
+	Deadside: 'https://assets-prd.ignimgs.com/2022/11/16/deadside-1668635482936.jpg',
+	'Naraka Bladepoint': 'https://assets1.ignimgs.com/2019/12/13/naraka---button-00-1576208838937.jpg',
+	'The Front': 'https://assets-prd.ignimgs.com/2023/02/27/thefront-1677525834490.jpg',
+	'Lost Ark': 'https://assets2.ignimgs.com/2014/11/15/lostark-buttonjpg-bc185d.jpg',
+	Warframe: 'https://assets1.ignimgs.com/2019/02/22/warframe---button-1550875935085.jpg',
+	Minecraft: 'https://assets-prd.ignimgs.com/2021/12/14/minecraft-1639513933156.jpg',
+	'Path of Exile': 'https://assets1.ignimgs.com/2017/08/24/path-of-exile---button-1503612705551.jpg',
+	Raft: 'https://assets-prd.ignimgs.com/2022/07/29/raftfinal-1659126121018.jpg',
+	Sand: 'https://assets-prd.ignimgs.com/2023/06/11/sand-1686523368698.jpg',
+	'Sea of Thieves': 'https://assets-prd.ignimgs.com/2026/06/09/sot-customthieves-1781027869323.jpg',
+	'Delta Force': 'https://assets-prd.ignimgs.com/2024/08/28/delta-force-button-replacement-1724855313566.jpg',
+	'Dune: Awakening': 'https://assets-prd.ignimgs.com/2024/08/21/duneawak-1724235247826.jpg',
+	'Wuthering Waves': 'https://assets-prd.ignimgs.com/2024/11/20/wutheringwaves-1732060928478.jpg',
+	'Combat Master': 'https://assets-prd.ignimgs.com/2023/09/03/combatmaster-1693783237844.jpg',
 };
 
 const GAME_PROFILES = {
@@ -287,7 +344,7 @@ const GAME_PROFILES = {
 		mechanics: ['operator abilities', 'mission routing', 'cover trades'],
 		antiCheat: 'proprietary anti-cheat with server checks',
 	},
-	'Hunt: squad raids': {
+	'Hunt: Showdown': {
 		genre: 'extraction bounty hunter',
 		setting: 'Louisiana bayou with boss bounties and rival hunters',
 		mechanics: ['sound traps', 'boss burn timing', 'extract ambushes'],
@@ -305,7 +362,7 @@ const GAME_PROFILES = {
 		mechanics: ['FOB placement', 'squad comms', 'vehicle logistics'],
 		antiCheat: 'Easy Anti-Cheat on official servers',
 	},
-	'Sand Raiders': {
+	'Sand Raiders of Sophie': {
 		genre: 'action adventure',
 		setting: 'desert ruins with traversal puzzles and combat arenas',
 		mechanics: ['combo routes', 'gear unlocks', 'boss patterns'],
@@ -341,6 +398,96 @@ const GAME_PROFILES = {
 		mechanics: ['level routing', 'entity sound cues', 'team extraction'],
 		antiCheat: 'lightweight server validation',
 	},
+	'ARK: Survival Ascended': {
+		genre: 'survival sandbox',
+		setting: 'remastered island maps with dinosaurs and tribe warfare',
+		mechanics: ['tame cycles', 'base raids', 'boss arenas'],
+		antiCheat: 'BattlEye with server-side validation',
+	},
+	Deadside: {
+		genre: 'open-world survival',
+		setting: 'post-apocalyptic compounds with PvP loot runs',
+		mechanics: ['compound routes', 'vehicle extracts', 'squad flanks'],
+		antiCheat: 'BattlEye with frequent patch-day updates',
+	},
+	'Naraka Bladepoint': {
+		genre: 'melee battle royale',
+		setting: 'Morpheus arenas with parkour and weapon mastery',
+		mechanics: ['grapple mobility', 'parry timing', 'soul jade builds'],
+		antiCheat: 'NetEase anti-cheat with replay review',
+	},
+	'The Front': {
+		genre: 'survival sandbox',
+		setting: 'hostile frontier zones with base raids and factions',
+		mechanics: ['base defense', 'resource farming', 'faction wars'],
+		antiCheat: 'Easy Anti-Cheat on official servers',
+	},
+	'Lost Ark': {
+		genre: 'action MMORPG',
+		setting: 'Arkesia continents with raids and island content',
+		mechanics: ['class engravings', 'raid mechanics', 'guardian raids'],
+		antiCheat: 'Easy Anti-Cheat with kernel module',
+	},
+	Warframe: {
+		genre: 'looter shooter',
+		setting: 'Origin system missions with Warframe builds',
+		mechanics: ['mod polarities', 'ability combos', 'steel path'],
+		antiCheat: 'Easy Anti-Cheat with server checks',
+	},
+	Minecraft: {
+		genre: 'sandbox survival',
+		setting: 'procedural worlds with redstone and PvP servers',
+		mechanics: ['enchantment routes', 'nether travel', 'base hidden rooms'],
+		antiCheat: 'server-side plugins and client validation',
+	},
+	'Path of Exile': {
+		genre: 'action RPG',
+		setting: 'Wraeclast leagues with buildcrafting and maps',
+		mechanics: ['skill linking', 'resistance caps', 'league mechanics'],
+		antiCheat: 'server-authoritative with periodic ban waves',
+	},
+	Raft: {
+		genre: 'co-op survival',
+		setting: 'ocean drifts with island resource runs',
+		mechanics: ['raft expansion', 'shark defense', 'story islands'],
+		antiCheat: 'light anti-cheat on multiplayer hosts',
+	},
+	Sand: {
+		genre: 'extraction shooter',
+		setting: 'desert planet Sophie with walker convoys',
+		mechanics: ['Trampler builds', 'extraction windows', 'PvPvE ambushes'],
+		antiCheat: 'kernel anti-cheat at launch',
+	},
+	'Sea of Thieves': {
+		genre: 'pirate adventure',
+		setting: 'open seas with voyages and ship combat',
+		mechanics: ['cannon angles', 'voyage routing', 'crew roles'],
+		antiCheat: 'Easy Anti-Cheat with manual review',
+	},
+	'Delta Force': {
+		genre: 'tactical FPS',
+		setting: 'large-scale warfare with vehicles and extraction',
+		mechanics: ['squad tactics', 'vehicle spawns', 'objective pushes'],
+		antiCheat: 'ACE anti-cheat with kernel module',
+	},
+	'Dune: Awakening': {
+		genre: 'survival MMO',
+		setting: 'Arrakis with spice harvesting and faction conflict',
+		mechanics: ['spice runs', 'stilltent survival', 'faction alliances'],
+		antiCheat: 'Funcom anti-cheat stack',
+	},
+	'Wuthering Waves': {
+		genre: 'action RPG',
+		setting: 'Huanglong open world with echo abilities',
+		mechanics: ['resonator teams', 'echo farming', 'boss rotations'],
+		antiCheat: 'server-side validation with client checks',
+	},
+	'Combat Master': {
+		genre: 'mobile-style FPS',
+		setting: 'fast TTK arenas with movement tech',
+		mechanics: ['slide cancels', 'loadout swaps', 'ranked grind'],
+		antiCheat: 'kernel driver on PC',
+	},
 };
 
 function normalizeUrl(raw) {
@@ -353,13 +500,15 @@ function hostname(url) {
 
 function classifyGame(host) {
 	const h = host;
+	if (h.includes('arkascended') || h === 'arkcheats.net') return 'ARK: Survival Ascended';
+	if (h.includes('deadside')) return 'Deadside';
 	if (h.includes('arcraider')) return 'ARC Raiders';
 	if (h.includes('genshin')) return 'Genshin Impact';
 	if (h.includes('dbd')) return 'Dead by Daylight';
 	if (h.includes('tarkov') || h.includes('eft')) return 'Escape from Tarkov';
 	if (h.includes('unturned')) return 'Unturned';
 	if (h.includes('warthunder')) return 'War Thunder';
-	if (h.includes('fortnite') || h === 'fncheats.net') return 'Fortnite';
+	if (h.includes('fortnite') || h === 'fncheats.net' || h === 'fncheat.com') return 'Fortnite';
 	if (h.includes('marathon')) return 'Marathon';
 	if (h.includes('battlefield')) return 'Battlefield';
 	if (h.includes('lol')) return 'League of Legends';
@@ -376,15 +525,28 @@ function classifyGame(host) {
 	if (h.includes('palworld')) return 'Palworld';
 	if (h.includes('r6') || h.includes('siege')) return 'Rainbow Six Siege';
 	if (h.includes('caliber')) return 'Caliber';
-	if (h.includes('hunt')) return 'Hunt: squad raids';
+	if (h.includes('hunt')) return 'Hunt: Showdown';
 	if (h.includes('destiny')) return 'Destiny 2';
 	if (h.includes('squad')) return 'Squad';
-	if (h.includes('sandraid') || h.includes('sophie')) return 'Sand Raiders';
+	if (h.includes('sandraid') || h.includes('sophie')) return 'Sand Raiders of Sophie';
+	if (h === 'sandhacks.com') return 'Sand';
 	if (h.includes('abi')) return 'Arena Breakout Infinite';
 	if (h.includes('bodycam')) return 'Bodycam';
 	if (h.includes('oncehuman')) return 'Once Human';
 	if (h.includes('reforger')) return 'Arma Reforger';
 	if (h.includes('backroom')) return 'Backrooms';
+	if (h.includes('naraka')) return 'Naraka Bladepoint';
+	if (h.includes('thefront')) return 'The Front';
+	if (h.includes('lostark')) return 'Lost Ark';
+	if (h.includes('warframe')) return 'Warframe';
+	if (h.includes('minecraft')) return 'Minecraft';
+	if (h.includes('poe')) return 'Path of Exile';
+	if (h.includes('raft')) return 'Raft';
+	if (h.includes('seaofthieves')) return 'Sea of Thieves';
+	if (h.includes('deltaforce')) return 'Delta Force';
+	if (h.includes('dune')) return 'Dune: Awakening';
+	if (h.includes('wutheringwaves')) return 'Wuthering Waves';
+	if (h.includes('combatmaster')) return 'Combat Master';
 	return 'PC Gaming';
 }
 
@@ -482,6 +644,7 @@ function buildGuide(url, index) {
 	return {
 		id: slug,
 		slug,
+		source: 'external',
 		game,
 		gameSlug: gameSlug(game),
 		externalUrl,
@@ -516,8 +679,8 @@ function serializeGuide(guide) {
 
 async function main() {
 	const urls = uniqueUrls(RAW_URLS);
-	if (urls.length !== 81) {
-		throw new Error(`Expected 81 unique URLs, got ${urls.length}`);
+	if (urls.length !== 124) {
+		throw new Error(`Expected 124 unique URLs, got ${urls.length}`);
 	}
 
 	const guides = urls.map((url, i) => buildGuide(url, i));

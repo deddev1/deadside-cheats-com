@@ -168,7 +168,7 @@ const currentMeta = locales.find((l) => l.code === currentLocale)!;
 </style>
 
 <script>
-	document.querySelectorAll('.lang-switcher__link[data-locale]').foreach((link) => {
+	document.querySelectorAll('.lang-switcher__link[data-locale]').forEach((link) => {
 		link.addEventListener('click', () => {
 			const code = link.getAttribute('data-locale');
 			if (code) {

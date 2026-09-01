@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Generates Deadside-only guides for guides.generated.ts.
+ * Generates Deadside-only guides for deadside-guides.generated.ts.
  * Run: node scripts/generate-deadside-guides.mjs
  */
 import { writeFile } from 'node:fs/promises';
@@ -8,7 +8,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
-const OUT = path.join(ROOT, 'src', 'data', 'guides', 'guides.generated.ts');
+const OUT = path.join(ROOT, 'src', 'data', 'guides', 'deadside-guides.generated.ts');
 
 const HERO_IMAGE =
 	'https://cdn.akamai.steamstatic.com/steam/apps/895400/header.jpg';
@@ -239,6 +239,7 @@ function buildGuide(topic, index) {
 	return {
 		id: topic.slug,
 		slug: topic.slug,
+		source: 'native',
 		game: 'Deadside',
 		gameSlug: 'deadside',
 		externalUrl: internalLink,
