@@ -2,7 +2,7 @@
   "remote.autoForwardPorts": true,
   "remote.autoForwardPortsSource": "hybrid",
   "remote.portsAttributes": {
-    "8080": {
+    "4321": {
       "label": "Naraka Cheats",
       "onAutoForward": "openBrowser",
       "protocol": "http"

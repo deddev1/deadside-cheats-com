@@ -15,9 +15,9 @@ npm install
 npm run dev
 ```
 
-Open **http://localhost:8080** in your browser.
+Open **http://localhost:4321** in your browser.
 
-On a **Cursor Cloud Agent**, open the **Ports** panel, find port **8080**, and click the forwarded URL.
+On a **Cursor Cloud Agent**, open the **Ports** panel, find port **4321**, and click the forwarded URL.
 
 To serve the built site without hot reload:
 
