@@ -12,8 +12,8 @@ Static Astro 7 site for [deadsidecheats.com](https://deadsidecheats.com). Primar
 
 ```bash
 npm install
-npm run localhost
-# open http://localhost:5173
+npm run dev
+# open http://localhost:3000
 ```
 
 ## Deploy

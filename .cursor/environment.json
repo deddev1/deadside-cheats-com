@@ -4,15 +4,24 @@
   "start": "npm run dev",
   "ports": [
     {
-      "name": "Deadside Cheats site",
-      "port": 5173
+      "name": "Deadside Cheats dev",
+      "port": 3000
+    },
+    {
+      "name": "Deadside Cheats preview",
+      "port": 4321
     }
   ],
   "terminals": [
     {
       "name": "localhost",
       "command": "npm run dev",
-      "description": "Deadside dev server at http://localhost:5173"
+      "description": "Dev server — http://localhost:3000 (hot reload)"
+    },
+    {
+      "name": "preview",
+      "command": "npm run preview",
+      "description": "Production preview — http://localhost:4321 (built dist/)"
     }
   ]
 }

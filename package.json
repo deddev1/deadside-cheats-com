@@ -6,8 +6,9 @@
 		"node": ">=22.12.0"
 	},
 	"scripts": {
-		"localhost": "astro dev stop 2>/dev/null || true && npm run build && astro preview --host 0.0.0.0 --port 5173",
-		"dev": "astro dev --host 0.0.0.0 --port 5173",
+		"localhost": "astro dev stop 2>/dev/null || true && npm run build && astro preview --host 0.0.0.0 --port 4321",
+		"dev": "astro dev --host 0.0.0.0 --port 3000",
+		"dev:5173": "astro dev --host 0.0.0.0 --port 5173",
 		"dev:3000": "astro dev --host 0.0.0.0 --port 3000",
 		"serve:3000": "npx --yes serve dist -l 3000 --no-port-switching",
 		"sync:brand": "node scripts/sync-brand.mjs && node scripts/sync-cannibal-redirects.mjs",
@@ -24,8 +25,8 @@
 		"fetch:steam-hero": "node scripts/fetch-steam-hero.mjs",
 		"fetch:screenshots": "node scripts/import-deadside-screenshots.mjs",
 		"generate:brand": "node scripts/generate-brand-assets.mjs",
-		"preview": "astro preview --host 0.0.0.0 --port 3000",
-		"preview:4321": "astro preview --host 0.0.0.0 --port 4321",
+		"preview": "astro preview --host 0.0.0.0 --port 4321",
+		"preview:3000": "astro preview --host 0.0.0.0 --port 3000",
 		"validate:sitemaps": "node scripts/validate-sitemaps.mjs && node scripts/audit-sitemap-deep.mjs",
 		"generate:i18n": "node scripts/generate-i18n-content.mjs && node scripts/generate-locale-translations.mjs",
 		"postinstall": "node scripts/ensure-dist-for-workers-ci.mjs",
