@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 /**
  * Validates outbound links in built HTML resolve to HTTP 2xx/3xx.
+ * Catches Screaming Frog "External 4xx" and "No Response" issues.
  * Run after build: node scripts/audit-external-links.mjs
  */
 import { readFileSync, readdirSync, statSync } from 'node:fs';
@@ -38,18 +39,26 @@ function collectHtmlDirs(dir, base = '') {
 	return out;
 }
 
+function decodeHtmlEntities(value) {
+	return value
+		.replace(/&amp;/g, '&')
+		.replace(/&quot;/g, '"')
+		.replace(/&#39;/g, "'");
+}
+
 function collectExternalUrls() {
 	const urls = new Set();
 	for (const pagePath of collectHtmlDirs(DIST)) {
 		const html = readFileSync(path.join(DIST, pagePath.slice(1) || '.', 'index.html'), 'utf8');
 		for (const match of html.matchAll(/(?:href|src)="(https?:\/\/[^"#]+)"/g)) {
-			const url = match[1];
+			const url = decodeHtmlEntities(match[1]);
 			try {
 				const host = new URL(url).hostname;
 				if (host === SITE_HOST || host.endsWith('.zadeyo.com')) continue;
 				urls.add(url);
 			} catch {
-				// skip malformed
+				console.error(`[audit-external-links] Malformed URL on ${pagePath}: ${match[1]}`);
+				process.exit(1);
 			}
 		}
 	}
@@ -111,9 +120,18 @@ for (let i = 0; i < urls.length; i += 8) {
 
 const failures = results.filter((r) => !r.ok);
 if (failures.length > 0) {
+	const noResponse = failures.filter((r) => r.status === 0);
+	const clientError = failures.filter((r) => r.status >= 400);
 	console.error(`[audit-external-links] ${failures.length} broken external URL(s):`);
+	if (noResponse.length > 0) {
+		console.error(`  No response (DNS/timeout/refused): ${noResponse.length}`);
+	}
+	if (clientError.length > 0) {
+		console.error(`  Client error (4xx): ${clientError.length}`);
+	}
 	for (const row of failures.sort((a, b) => a.status - b.status).slice(0, 30)) {
-		console.error(`  ${row.status || 'ERR'}\t${row.url}${row.error ? ` (${row.error})` : ''}`);
+		const kind = row.status === 0 ? 'NO_RESPONSE' : `${row.status}`;
+		console.error(`  ${kind}\t${row.url}${row.error ? ` (${row.error})` : ''}`);
 	}
 	process.exit(1);
 }
