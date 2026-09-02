@@ -63,7 +63,7 @@ const t = getT(currentLocale);
 							<a
 								href={href}
 								hreflang={locale.hreflang}
-								lang={locale.code}
+								lang={locale.hreflang}
 								class:list={['lang-switcher__link', { 'is-current': isCurrent }]}
 								aria-current={isCurrent ? 'page' : undefined}
 								data-locale={locale.code}
