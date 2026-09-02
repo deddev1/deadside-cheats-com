@@ -10,7 +10,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
 const LOCALES_DIR = path.join(ROOT, 'src', 'locales');
 
-const INDEXABLE = new Set(['en', 'es', 'fr', 'de', 'pt', 'ru', 'zh']);
+const INDEXABLE = new Set(['en', 'es', 'fr', 'de', 'pt', 'ru', 'zh', 'uk']);
 const ENGLISH_PATTERNS = [
 	/\bBuy deadside cheats\b/i,
 	/\bSee Features\b/,

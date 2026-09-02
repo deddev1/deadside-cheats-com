@@ -69,6 +69,7 @@ export const indexableLocales: readonly LocaleCode[] = [
 	'pt',
 	'ru',
 	'zh',
+	'uk',
 ] as const;
 
 export function isIndexableLocale(code: LocaleCode): boolean {

@@ -71,7 +71,7 @@ const STANDALONE_PAGES = 3; // /about/ /compare/ /write-for-us/
 const ENGLISH_PRODUCT_PAGES = 18;
 const ENGLISH_PAGES =
 	ENGLISH_PRODUCT_PAGES + BLOG_PAGES + REVIEW_PAGES + FAQ_PAGES + GUIDE_SITEMAP_PAGES + STANDALONE_PAGES;
-const INDEXABLE_LOCALE_CODES = ['en', 'es', 'fr', 'de', 'pt', 'ru', 'zh'];
+const INDEXABLE_LOCALE_CODES = ['en', 'es', 'fr', 'de', 'pt', 'ru', 'zh', 'uk'];
 const I18N_LOCALES = INDEXABLE_LOCALE_CODES.length - 1; // non-English indexable locales in sitemaps
 /** Locale product pages also exclude the same cannibal pageIds */
 const PRODUCT_PAGES_PER_LOCALE = 18;

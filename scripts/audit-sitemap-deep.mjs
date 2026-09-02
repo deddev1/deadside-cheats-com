@@ -97,7 +97,7 @@ async function main() {
 	}
 
 	const allXmlFiles = ['sitemap-en.xml', 'sitemap-images.xml', 'sitemap-i18n.xml'];
-	const locales = ['es', 'fr', 'de', 'pt', 'ru'];
+	const locales = ['es', 'fr', 'de', 'pt', 'ru', 'zh', 'uk'];
 	for (const l of locales) allXmlFiles.push(`sitemap-${l}.xml`);
 
 	const allPageUrls = new Set();
