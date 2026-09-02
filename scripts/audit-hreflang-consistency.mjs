@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Validates hreflang reciprocity and html lang alignment with self-referencing hreflang.
+ * Validates hreflang reciprocity for <link rel="alternate"> and <a hreflang> annotations.
  * Run after build: node scripts/audit-hreflang-consistency.mjs
  */
 import { readFileSync, readdirSync, statSync } from 'node:fs';
@@ -8,6 +8,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const DIST = path.join(path.dirname(fileURLToPath(import.meta.url)), '..', 'dist');
+const SITE = 'https://deadsidecheats.com';
 
 function collectHtmlDirs(dir, base = '') {
 	const out = [];
@@ -22,68 +23,94 @@ function collectHtmlDirs(dir, base = '') {
 	return out;
 }
 
-function parseHreflang(filePath, pagePath) {
-	const html = readFileSync(filePath, 'utf8');
-	const htmlLang = html.match(/<html[^>]+lang="([^"]+)"/i)?.[1];
-	const links = [...html.matchAll(/rel="alternate"[^>]+hreflang="([^"]+)"[^>]+href="([^"]+)"/gi)].map(
-		(m) => ({
-			hreflang: m[1],
-			href: new URL(m[2]).pathname,
-		}),
-	);
-	const self = links.find((l) => l.href === pagePath);
-	return { htmlLang, links, selfHreflang: self?.hreflang };
+function parseHreflangAnnotations(html) {
+	const out = [];
+	for (const match of html.matchAll(/<link[^>]+rel="alternate"[^>]*>/gi)) {
+		const tag = match[0];
+		const hreflang = tag.match(/hreflang="([^"]+)"/i)?.[1];
+		const href = tag.match(/href="([^"]+)"/i)?.[1];
+		if (hreflang && href) {
+			out.push({
+				via: 'link',
+				hreflang,
+				href: new URL(href, SITE).pathname,
+			});
+		}
+	}
+	for (const match of html.matchAll(/<a\b[^>]*>/gi)) {
+		const tag = match[0];
+		if (!/hreflang=/i.test(tag)) continue;
+		const hreflang = tag.match(/hreflang="([^"]+)"/i)?.[1];
+		const href = tag.match(/href="([^"]+)"/i)?.[1];
+		if (!hreflang || !href || href.startsWith('mailto:') || href.startsWith('#')) continue;
+		out.push({
+			via: 'a',
+			hreflang,
+			href: href.startsWith('http') ? new URL(href).pathname : href,
+		});
+	}
+	return out;
+}
+
+const cache = new Map();
+function getAnnotations(pagePath) {
+	if (!cache.has(pagePath)) {
+		const file = path.join(DIST, pagePath === '/' ? '' : pagePath.slice(1), 'index.html');
+		cache.set(pagePath, parseHreflangAnnotations(readFileSync(file, 'utf8')));
+	}
+	return cache.get(pagePath);
 }
 
 const issues = [];
 const pages = collectHtmlDirs(DIST);
 
 for (const pagePath of pages) {
-	const file = path.join(DIST, pagePath === '/' ? '' : pagePath.slice(1), 'index.html');
-	let parsed;
-	try {
-		parsed = parseHreflang(file, pagePath);
-	} catch {
-		continue;
-	}
-	if (!parsed.links.length) continue;
+	const htmlFile = path.join(DIST, pagePath === '/' ? '' : pagePath.slice(1), 'index.html');
+	const html = readFileSync(htmlFile, 'utf8');
+	const htmlLang = html.match(/<html[^>]+lang="([^"]+)"/i)?.[1];
+	const annotations = getAnnotations(pagePath);
+	if (!annotations.length) continue;
 
-	if (
-		parsed.selfHreflang &&
-		parsed.selfHreflang !== 'x-default' &&
-		parsed.htmlLang &&
-		parsed.selfHreflang !== parsed.htmlLang
-	) {
+	const selfHreflang = annotations.find((a) => a.href === pagePath && a.hreflang !== 'x-default')?.hreflang;
+	if (selfHreflang && htmlLang && selfHreflang !== htmlLang) {
 		issues.push({
 			kind: 'html-lang-vs-self-hreflang',
 			page: pagePath,
-			htmlLang: parsed.htmlLang,
-			selfHreflang: parsed.selfHreflang,
+			htmlLang,
+			selfHreflang,
 		});
 	}
 
-	const fromSelf = parsed.selfHreflang;
-	for (const link of parsed.links) {
-		if (link.hreflang === 'x-default' || link.href === pagePath) continue;
-		const targetFile = path.join(DIST, link.href === '/' ? '' : link.href.slice(1), 'index.html');
-		let target;
-		try {
-			target = parseHreflang(targetFile, link.href);
-		} catch {
-			issues.push({ kind: 'missing-return', from: pagePath, target: link.href, hreflang: link.hreflang });
+	for (const ann of annotations) {
+		if (ann.hreflang === 'x-default' || ann.href === pagePath) continue;
+		const targetAnnotations = getAnnotations(ann.href);
+		if (!targetAnnotations.length) {
+			issues.push({
+				kind: 'missing-return',
+				page: pagePath,
+				target: ann.href,
+				via: ann.via,
+				hreflang: ann.hreflang,
+			});
 			continue;
 		}
-		if (!target.links.length) continue;
-		const back = target.links.find((l) => l.href === pagePath);
+		const back = targetAnnotations.find((a) => a.href === pagePath);
 		if (!back) {
-			issues.push({ kind: 'missing-return', from: pagePath, target: link.href, hreflang: link.hreflang });
-		} else if (fromSelf && back.hreflang !== fromSelf) {
+			issues.push({
+				kind: 'missing-return',
+				page: pagePath,
+				target: ann.href,
+				via: ann.via,
+				hreflang: ann.hreflang,
+			});
+		} else if (selfHreflang && back.hreflang !== selfHreflang) {
 			issues.push({
 				kind: 'inconsistent-return',
-				from: pagePath,
-				target: link.href,
-				fromSelf,
-				returnTag: back.hreflang,
+				page: pagePath,
+				target: ann.href,
+				selfHreflang,
+				returnHreflang: back.hreflang,
+				via: ann.via,
 			});
 		}
 	}
@@ -101,5 +128,5 @@ if (unique.length > 0) {
 }
 
 console.log(
-	`[audit-hreflang-consistency] OK — ${pages.length} pages checked; html lang matches self hreflang and return links are reciprocal`,
+	`[audit-hreflang-consistency] OK — ${pages.length} pages checked; all hreflang annotations are reciprocal`,
 );
