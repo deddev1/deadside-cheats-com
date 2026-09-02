@@ -5,6 +5,17 @@ export const PATH_REDIRECTS = pathRedirects as Record<string, string>;
 
 export const CANNIBAL_REDIRECTS = cannibalRedirects as Record<string, string>;
 
+/** EN cannibal URLs — static RedirectPage.astro HTML; Worker still 301s in production. */
+export const STATIC_REDIRECT_HTML_PATHS = new Set([
+	'/deadside-aimbot-hack/',
+	'/deadside-esp-hack/',
+	'/deadside-mod-menu/',
+	'/deadside-unlock-all/',
+	'/deadside-soft-aim/',
+	'/deadside-wallhack/',
+	'/deadside-cheat-download/',
+]);
+
 export function isBrandStudioPath(pathname: string): boolean {
 	return (
 		pathname === '/brand-studio' ||
@@ -28,6 +39,9 @@ export function trailingSlashRedirect(pathname: string): string | null {
 }
 
 export function resolvePathRedirect(pathname: string): string | null {
+	if (STATIC_REDIRECT_HTML_PATHS.has(pathname)) {
+		return null;
+	}
 	return (
 		PATH_REDIRECTS[pathname] ??
 		CANNIBAL_REDIRECTS[pathname] ??

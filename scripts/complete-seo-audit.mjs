@@ -116,10 +116,32 @@ function main() {
     (h) => !WARN_ONLY_PREFIXES.some((p) => h.file.startsWith(p)),
   );
   const indexableBrand = brandHits.filter((h) => !h.noindex);
+  const missingHead = [];
+
+  for (const file of htmlFiles) {
+    const raw = fs.readFileSync(file, 'utf8');
+    const rel = path.relative(distDir, file).replace(/\\/g, '/');
+    if (!/<head\b/i.test(raw)) {
+      missingHead.push(rel);
+      continue;
+    }
+    const htmlOpen = raw.match(/<html[^>]*>/i);
+    const headOpen = raw.match(/<head\b/i);
+    const bodyOpen = raw.match(/<body\b/i);
+    if (htmlOpen && headOpen && bodyOpen) {
+      const htmlIdx = htmlOpen.index ?? -1;
+      const headIdx = headOpen.index ?? -1;
+      const bodyIdx = bodyOpen.index ?? -1;
+      if (headIdx < htmlIdx || bodyIdx < headIdx) {
+        missingHead.push(`${rel} (head not first in html)`);
+      }
+    }
+  }
 
   console.log('=== SEO Audit (dist/) ===');
   console.log(`HTML files: ${htmlFiles.length}`);
   console.log(`Indexable: ${indexableCount} | noindex: ${noindexCount}`);
+  console.log(`Missing or invalid <head>: ${missingHead.length}`);
   console.log(`Legacy term hits (all): ${legacyHits.length}`);
   console.log(`Legacy term hits (indexable, fail): ${failLegacy.length}`);
   console.log(`Legacy term hits (indexable, warn only): ${warnLegacy.length}`);
@@ -146,9 +168,23 @@ function main() {
     }
   }
 
-  const failed = failLegacy.length > 0 || indexableBrand.length > 0;
+  if (missingHead.length > 0) {
+    console.log('\n--- HTML missing valid <head> (first 20) ---');
+    for (const file of missingHead.slice(0, 20)) {
+      console.log(`  ${file}`);
+    }
+  }
+
+  const failed = failLegacy.length > 0 || indexableBrand.length > 0 || missingHead.length > 0;
   if (failed) {
-    console.error('\nAudit FAILED: indexable HTML still contains legacy or drift terms.');
+    if (failLegacy.length > 0 || indexableBrand.length > 0) {
+      console.error('\nAudit FAILED: indexable HTML still contains legacy or drift terms.');
+    }
+    if (missingHead.length > 0) {
+      console.error(
+        `\nAudit FAILED: ${missingHead.length} HTML file(s) missing a valid <head> element.`,
+      );
+    }
     process.exit(1);
   }
 
