@@ -1,7 +1,7 @@
 ---
 import PageLayout from '../layouts/PageLayout.astro';
 import { getPageContent, getUi, type PageId } from '../data/i18n';
-import { getLocalizedPath, localizeInternalHref } from '../data/i18n/routing';
+import { getIndexableCanonicalPath, getLocalizedPath, localizeInternalHref } from '../data/i18n/routing';
 import type { LocaleCode } from '../data/i18n/locales';
 import { getLocalizedFaqs } from '../data/localized-faq';
 import { productInfo, siteConfig } from '../data/site';
@@ -132,7 +132,7 @@ const breadcrumbLabel = eyebrowByPage[pageId];
 <PageLayout
 	title={pageTitle}
 	description={pageDescription}
-	canonicalPath={getLocalizedPath(pageId, locale)}
+	canonicalPath={getIndexableCanonicalPath(pageId, locale)}
 	heading={heading}
 	breadcrumbLabel={breadcrumbLabel}
 	intro={intro}

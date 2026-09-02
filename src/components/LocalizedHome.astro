@@ -10,7 +10,7 @@ import ExternalResources from '../components/ExternalResources.astro';
 import { externalUrls } from '../data/external-resources';
 import SiteFooter from '../components/SiteFooter.astro';
 import { getLocaleContent, getPageContent } from '../data/i18n';
-import { getLocalizedPath } from '../data/i18n/routing';
+import { getIndexableCanonicalPath, getLocalizedPath } from '../data/i18n/routing';
 import { defaultLocale, type LocaleCode } from '../data/i18n/locales';
 import { homeSeo, productInfo, siteConfig, customerReviewStats } from '../data/site';
 import { getLocalizedHomeFaqs } from '../data/localized-faq';
@@ -28,7 +28,7 @@ const enHome = homeSeo();
 
 const title = home.title || enHome.title;
 const description = home.description || enHome.description;
-const canonicalPath = getLocalizedPath('home', locale);
+const canonicalPath = getIndexableCanonicalPath('home', locale);
 const canonicalURL = new URL(canonicalPath, siteConfig.url).href;
 /** Canonical product entity — always the English money URL, even on locale home pages. */
 const canonicalProductUrl = new URL('/', siteConfig.url).href;
