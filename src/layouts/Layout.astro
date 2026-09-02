@@ -75,7 +75,7 @@ const localeMeta = localeMap[locale];
 const ogLocaleAlternateLocales = ogLocaleAlternates
 	? locales.filter((l) => l.code !== locale && isIndexableLocale(l.code))
 	: [];
-const schemaLanguage = localeMeta.ogLocale.replace('_', '-');
+const schemaLanguage = localeMeta.hreflang;
 const schemaLanguages = locales.map((l) => l.ogLocale.replace('_', '-'));
 const worldwidePlace = { '@type': 'Place' as const, name: siteConfig.market };
 
@@ -176,7 +176,7 @@ if (aboutNode) {
 ---
 
 <!doctype html>
-<html lang={locale} dir={localeMeta.dir} style={brandThemeInlineStyle()}>
+<html lang={localeMeta.hreflang} dir={localeMeta.dir} style={brandThemeInlineStyle()}>
 	<head>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
