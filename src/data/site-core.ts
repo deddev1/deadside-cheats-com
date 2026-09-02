@@ -1,19 +1,12 @@
 import { brand, fillBrandTokens, seoDescription, seoTitle } from './brand';
+import { finalizeTitle } from '../lib/title-seo';
 
 /**
  * Title clamp lives here — NOT in brand.ts.
  * Brand Studio rewrites brand.ts on every save; helpers here stay stable.
  */
 export function seoPageTitle(template: string): string {
-	let text = fillBrandTokens(template).trim();
-	if (text.length < 30) {
-		text = `${text} | Deadside Cheats PC`;
-	}
-	/** Google SERP titles typically display ~50–60 chars; clamp at 60. */
-	if (text.length <= 60) return text;
-	const trimmed = text.slice(0, 60);
-	const lastSpace = trimmed.lastIndexOf(' ');
-	return lastSpace > 45 ? trimmed.slice(0, lastSpace) : trimmed.slice(0, 60);
+	return finalizeTitle(fillBrandTokens(template).trim());
 }
 
 export { brand, fillBrandTokens, seoDescription, seoTitle };
@@ -47,7 +40,7 @@ const copyDefaults = {
 } as const;
 
 const seoDefaults = {
-	homeTitle: 'Deadside Cheats | Undetected ESP, Aimbot & Radar',
+	homeTitle: 'Deadside Cheats 2026 | ESP, Aimbot & Radar',
 	homeDescription:
 		'Buy undetected Deadside cheats at deadsidecheat.com — ESP, aimbot, wallhack & radar for PC. BattlEye updates included. Plans from $35/month.',
 	featuresTitle: 'Deadside Cheats Features | ESP, Aimbot & Radar',
@@ -68,7 +61,7 @@ const seoDefaults = {
 	supportTitle: 'Deadside Cheats Support | License & Setup Help',
 	supportDescription:
 		'Support for license delivery, ESP setup & billing on PC. Email {email} with your order ID. deadsidecheat.com/support.',
-	faqTitle: 'Deadside Cheats FAQ | ESP, Aimbot & {antiCheat}',
+	faqTitle: 'Deadside Cheats FAQ | ESP, Aimbot & BattlEye',
 	faqDescription:
 		'FAQ for deadside cheats — delivery, setup, undetected status, {antiCheat} updates & pricing on PC. Answers at deadsidecheat.com before you buy.',
 	reviewsTitle: 'What Players Say | Deadside Cheats Reviews',

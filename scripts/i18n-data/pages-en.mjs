@@ -3,7 +3,7 @@ import { HERO_IMAGES, clampTitle, clampDesc, section, stripZadeyoFromMeta, EXT }
 /** Richest English page content — source of truth for structure. */
 export const enPages = {
 	home: {
-		title: 'Deadside Cheats 2026 | ESP, Aimbot & Radar',
+		title: 'Deadside Cheats 2026 | ESP, Aimbot & Radar PC',
 		description:
 			'Buy undetected Deadside cheats — ESP, aimbot, wallhack & radar for survival & squad raids on PC. BattlEye updates included. From $35/month.',
 		h1: 'Deadside Cheats',
@@ -509,7 +509,7 @@ export const enPages = {
 		],
 	},
 	'cheats-2026': {
-		title: 'Deadside Cheats 2026 | Undetected PC Cheats',
+		title: 'Deadside Cheats 2026 | Undetected PC Cheats Guide',
 		description:
 			'Best Deadside cheats 2026 — undetected ESP, soft aim & 2D radar on PC. BattlEye maintenance & instant delivery at deadsidecheat.com.',
 		h1: 'Deadside Cheats 2026 — ESP, Soft Aim & Radar',

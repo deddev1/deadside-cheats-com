@@ -73,12 +73,9 @@ export type LocaleUi = {
 export type PageId = 'home' | 'deadside-esp' | 'deadside-aimbot' | 'features' | 'pricing' | 'setup' | 'updates' | 'faq' | 'support' | 'undetected' | 'wallhack' | 'radar' | 'battleye' | 'cheats-2026' | 'hacks' | 'cheat-download' | 'mod-menu' | 'soft-aim' | 'best-cheats' | 'aimbot-hack' | 'esp-hack' | 'unlock-all' | 'privacy' | 'refund' | 'terms';
 `;
 
-/** Clamp meta strings to SEO limits without ugly ellipsis. */
+/** Generation-time title prep — final clamp/expand runs in Layout via seoPageTitle(). */
 export function clampTitle(s) {
-	if (s.length <= 60) return s;
-	const trimmed = s.slice(0, 60);
-	const lastSpace = trimmed.lastIndexOf(' ');
-	return lastSpace > 45 ? trimmed.slice(0, lastSpace) : trimmed.slice(0, 60);
+	return stripZadeyoFromMeta(s);
 }
 
 export function clampDesc(s) {

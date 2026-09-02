@@ -211,6 +211,7 @@ export const LEGAL_I18N = {
 		emailLabel: 'البريد:',
 	},
 	ja: {
+		titleTail: 'Deadside Cheats ライセンスとプライバシー',
 		emailSupport: 'サポートにメール',
 		readTerms: '利用規約を読む',
 		readPrivacy: 'プライバシーを読む',
@@ -232,6 +233,7 @@ export const LEGAL_I18N = {
 		emailLabel: 'メール:',
 	},
 	ko: {
+		titleTail: 'Deadside Cheats 라이선스 및 개인정보',
 		emailSupport: '지원 이메일',
 		readTerms: '이용 약관 읽기',
 		readPrivacy: '개인정보 읽기',
@@ -253,6 +255,7 @@ export const LEGAL_I18N = {
 		emailLabel: '이메일:',
 	},
 	zh: {
+		titleTail: 'Deadside Cheats 许可与隐私政策',
 		emailSupport: '邮件支持',
 		readTerms: '阅读使用条款',
 		readPrivacy: '阅读隐私政策',

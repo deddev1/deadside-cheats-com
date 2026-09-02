@@ -80,7 +80,7 @@ export const simplePagesEn = {
 		],
 	},
 	pricing: {
-		title: 'Deadside Cheats Pricing | $35/mo or $150',
+		title: 'Deadside Cheats Pricing | $35/mo Lifetime',
 		description:
 			'Buy Deadside cheats — $35/month or $150 lifetime. ESP, aimbot & radar for survival & squad raids on PC. Same features, instant delivery.',
 		h1: 'Deadside Cheats Pricing — Monthly & Lifetime',
@@ -317,7 +317,7 @@ export const simplePagesEn = {
 		],
 	},
 	radar: {
-		title: 'Deadside 2D Radar | 2D Threat Map',
+		title: 'Deadside 2D Radar | 2D Threat Map | Cheats',
 		description:
 			'2D radar for flank reads in Deadside survival & squad raids on PC. Bundled with ESP wallhack & soft aim in one license at deadsidecheat.com.',
 		h1: 'Deadside 2D Radar — 2D Threat Awareness',
