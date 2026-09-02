@@ -148,11 +148,17 @@ https://deltaforcecheat.org/
 `.trim().split(/\s+/);
 
 const ANCHOR_TEXTS = [
-	'this resource',
-	'more game information',
-	'additional guides',
-	'related resources',
+	'{game} cheats and guides',
+	'{game} ESP and aimbot resources',
+	'{game} player guides hub',
+	'{game} patch notes and tips',
 ];
+
+function anchorTextFor(game, host) {
+	if (host.includes('deadsidecheats.com')) return 'Deadside Cheats overview';
+	const template = pick(ANCHOR_TEXTS, hashString(host));
+	return template.replaceAll('{game}', game);
+}
 
 /** IGN-hosted images per game (assets-prd.ignimgs.com, sm.ign.com, assets2.ignimgs.com). */
 const IGN_IMAGES = {
@@ -582,7 +588,7 @@ function buildGuide(url, index) {
 		antiCheat: 'platform anti-cheat with periodic updates',
 	};
 	const seed = hashString(externalUrl);
-	const anchorText = pick(ANCHOR_TEXTS, seed);
+	const anchorText = anchorTextFor(game, host);
 	const slug = `${gameSlug(game)}-${host.replace(/\./g, '-')}-guide`;
 	const imageUrl = IGN_IMAGES[game];
 	if (!imageUrl) throw new Error(`Missing IGN image for game: ${game}`);

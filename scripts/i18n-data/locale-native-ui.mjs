@@ -321,6 +321,51 @@ const REVIEWS = {
 		readAll: 'Читать все отзывы →',
 		outOfFiveAria: '{{rating}} из 5',
 	},
+	it: {
+		readAll: 'Leggi tutte le recensioni dei giocatori →',
+	},
+	nl: {
+		readAll: 'Lees alle spelersrecensies →',
+	},
+	pl: {
+		readAll: 'Przeczytaj wszystkie opinie graczy →',
+	},
+	tr: {
+		readAll: 'Tüm oyuncu yorumlarını oku →',
+	},
+	ar: {
+		readAll: 'اقرأ جميع تقييمات اللاعبين →',
+	},
+	ja: {
+		readAll: 'すべてのプレイヤーレビューを読む →',
+	},
+	ko: {
+		readAll: '모든 플레이어 리뷰 읽기 →',
+	},
+	hi: {
+		readAll: 'सभी खिलाड़ी समीक्षाएँ पढ़ें →',
+	},
+	id: {
+		readAll: 'Baca semua ulasan pemain →',
+	},
+	th: {
+		readAll: 'อ่านรีวิวผู้เล่นทั้งหมด →',
+	},
+	vi: {
+		readAll: 'Đọc tất cả đánh giá của người chơi →',
+	},
+	uk: {
+		readAll: 'Читати всі відгуки гравців →',
+	},
+	cs: {
+		readAll: 'Přečíst všechny recenze hráčů →',
+	},
+	ro: {
+		readAll: 'Citește toate recenziile jucătorilor →',
+	},
+	sv: {
+		readAll: 'Läs alla spelarrecensioner →',
+	},
 };
 
 /** Home about + demo strings for locales without a full HOME_ABOUT block. */

@@ -9,7 +9,7 @@ export const guides: GuideDefinition[] = [
 	game: "ARK: Survival Ascended",
 	gameSlug: "ark-survival-ascended",
 	externalUrl: "https://arkascendedcheats.com",
-	anchorText: "related resources",
+	anchorText: "ARK: Survival Ascended player guides hub",
 	published: "2026-01-05",
 	updated: "2026-03-15",
 	title: "ARK: Survival Ascended Guide: Anti-Cheat Awareness (2026)",
@@ -44,7 +44,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: base raids, boss arenas, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://arkascendedcheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">related resources</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://arkascendedcheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">ARK: Survival Ascended player guides hub</a>."
 			]
 		}
 	]
@@ -56,7 +56,7 @@ export const guides: GuideDefinition[] = [
 	game: "Deadside",
 	gameSlug: "deadside",
 	externalUrl: "https://deadsidecheats.net",
-	anchorText: "more game information",
+	anchorText: "Deadside player guides hub",
 	published: "2026-02-06",
 	updated: "2026-03-15",
 	title: "Deadside Guide: Ranked Climb Strategy (2026)",
@@ -91,7 +91,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: vehicle extracts, squad flanks, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://deadsidecheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">more game information</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://deadsidecheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside player guides hub</a>."
 			]
 		}
 	]
@@ -103,7 +103,7 @@ export const guides: GuideDefinition[] = [
 	game: "ARC Raiders",
 	gameSlug: "arc-raiders",
 	externalUrl: "https://arcraiderscheat.net",
-	anchorText: "more game information",
+	anchorText: "ARC Raiders cheats and guides",
 	published: "2026-03-07",
 	updated: "2026-03-15",
 	title: "ARC Raiders Guide: Ranked Climb Strategy (2026)",
@@ -138,7 +138,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: gear durability, loot extraction windows, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://arcraiderscheat.net\" target=\"_blank\" rel=\"noopener noreferrer\">more game information</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://arcraiderscheat.net\" target=\"_blank\" rel=\"noopener noreferrer\">ARC Raiders cheats and guides</a>."
 			]
 		}
 	]
@@ -150,7 +150,7 @@ export const guides: GuideDefinition[] = [
 	game: "Genshin Impact",
 	gameSlug: "genshin-impact",
 	externalUrl: "https://genshincheats.net",
-	anchorText: "additional guides",
+	anchorText: "Genshin Impact ESP and aimbot resources",
 	published: "2026-04-08",
 	updated: "2026-03-15",
 	title: "Genshin Impact Guide: Patch-Day Preparation (2026)",
@@ -185,7 +185,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: world boss timers, elemental reactions, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://genshincheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">additional guides</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://genshincheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">Genshin Impact ESP and aimbot resources</a>."
 			]
 		}
 	]
@@ -197,7 +197,7 @@ export const guides: GuideDefinition[] = [
 	game: "Dead by Daylight",
 	gameSlug: "dead-by-daylight",
 	externalUrl: "https://dbdcheats.net",
-	anchorText: "additional guides",
+	anchorText: "Dead by Daylight ESP and aimbot resources",
 	published: "2026-05-09",
 	updated: "2026-03-15",
 	title: "Dead by Daylight Guide: Map Control Fundamentals (2026)",
@@ -232,7 +232,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: perk synergies, generator pacing, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://dbdcheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">additional guides</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://dbdcheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">Dead by Daylight ESP and aimbot resources</a>."
 			]
 		}
 	]
@@ -244,7 +244,7 @@ export const guides: GuideDefinition[] = [
 	game: "Escape from Tarkov",
 	gameSlug: "escape-from-tarkov",
 	externalUrl: "https://tarkovcheats.net",
-	anchorText: "related resources",
+	anchorText: "Escape from Tarkov cheats and guides",
 	published: "2026-06-10",
 	updated: "2026-03-15",
 	title: "Escape from Tarkov Guide: Solo Queue Survival (2026)",
@@ -279,7 +279,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: flea market economy, ammo types and armor classes, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://tarkovcheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">related resources</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://tarkovcheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">Escape from Tarkov cheats and guides</a>."
 			]
 		}
 	]
@@ -291,7 +291,7 @@ export const guides: GuideDefinition[] = [
 	game: "Unturned",
 	gameSlug: "unturned",
 	externalUrl: "https://unturnedcheats.net",
-	anchorText: "related resources",
+	anchorText: "Unturned cheats and guides",
 	published: "2026-07-11",
 	updated: "2026-03-15",
 	title: "Unturned Guide: Solo Queue Survival (2026)",
@@ -326,7 +326,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: resource farming, base raids, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://unturnedcheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">related resources</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://unturnedcheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">Unturned cheats and guides</a>."
 			]
 		}
 	]
@@ -338,7 +338,7 @@ export const guides: GuideDefinition[] = [
 	game: "Unturned",
 	gameSlug: "unturned",
 	externalUrl: "https://unturnedcheats.com",
-	anchorText: "related resources",
+	anchorText: "Unturned cheats and guides",
 	published: "2026-08-12",
 	updated: "2026-03-15",
 	title: "Unturned Guide: Anti-Cheat Awareness (2026)",
@@ -373,7 +373,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: base raids, vehicle logistics, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://unturnedcheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">related resources</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://unturnedcheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">Unturned cheats and guides</a>."
 			]
 		}
 	]
@@ -385,7 +385,7 @@ export const guides: GuideDefinition[] = [
 	game: "War Thunder",
 	gameSlug: "war-thunder",
 	externalUrl: "https://warthundercheats.com",
-	anchorText: "additional guides",
+	anchorText: "War Thunder patch notes and tips",
 	published: "2026-01-13",
 	updated: "2026-03-15",
 	title: "War Thunder Guide: Map Control Fundamentals (2026)",
@@ -420,7 +420,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: armor weak spots, BR matchmaking, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://warthundercheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">additional guides</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://warthundercheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">War Thunder patch notes and tips</a>."
 			]
 		}
 	]
@@ -432,7 +432,7 @@ export const guides: GuideDefinition[] = [
 	game: "Fortnite",
 	gameSlug: "fortnite",
 	externalUrl: "https://fortniteaimbot.com",
-	anchorText: "related resources",
+	anchorText: "Fortnite cheats and guides",
 	published: "2026-02-14",
 	updated: "2026-03-15",
 	title: "Fortnite Guide: Solo Queue Survival (2026)",
@@ -467,7 +467,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: edit plays, loadout rotations, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://fortniteaimbot.com\" target=\"_blank\" rel=\"noopener noreferrer\">related resources</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://fortniteaimbot.com\" target=\"_blank\" rel=\"noopener noreferrer\">Fortnite cheats and guides</a>."
 			]
 		}
 	]
@@ -479,7 +479,7 @@ export const guides: GuideDefinition[] = [
 	game: "Marathon",
 	gameSlug: "marathon",
 	externalUrl: "https://marathoncheats.org",
-	anchorText: "related resources",
+	anchorText: "Marathon cheats and guides",
 	published: "2026-03-15",
 	updated: "2026-03-15",
 	title: "Marathon Guide: Solo Queue Survival (2026)",
@@ -514,7 +514,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: contract routing, extraction timing, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://marathoncheats.org\" target=\"_blank\" rel=\"noopener noreferrer\">related resources</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://marathoncheats.org\" target=\"_blank\" rel=\"noopener noreferrer\">Marathon cheats and guides</a>."
 			]
 		}
 	]
@@ -526,7 +526,7 @@ export const guides: GuideDefinition[] = [
 	game: "Battlefield",
 	gameSlug: "battlefield",
 	externalUrl: "https://battlefieldcheats.org",
-	anchorText: "more game information",
+	anchorText: "Battlefield cheats and guides",
 	published: "2026-04-16",
 	updated: "2026-03-15",
 	title: "Battlefield Guide: Ranked Climb Strategy (2026)",
@@ -561,7 +561,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: capture point flow, vehicle weak points, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://battlefieldcheats.org\" target=\"_blank\" rel=\"noopener noreferrer\">more game information</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://battlefieldcheats.org\" target=\"_blank\" rel=\"noopener noreferrer\">Battlefield cheats and guides</a>."
 			]
 		}
 	]
@@ -573,7 +573,7 @@ export const guides: GuideDefinition[] = [
 	game: "League of Legends",
 	gameSlug: "league-of-legends",
 	externalUrl: "https://lolcheats.org",
-	anchorText: "this resource",
+	anchorText: "League of Legends patch notes and tips",
 	published: "2026-05-17",
 	updated: "2026-03-15",
 	title: "League of Legends Guide: Beginner Onboarding (2026)",
@@ -608,7 +608,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: wave management, vision control, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://lolcheats.org\" target=\"_blank\" rel=\"noopener noreferrer\">this resource</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://lolcheats.org\" target=\"_blank\" rel=\"noopener noreferrer\">League of Legends patch notes and tips</a>."
 			]
 		}
 	]
@@ -620,7 +620,7 @@ export const guides: GuideDefinition[] = [
 	game: "Call of Duty: Warzone",
 	gameSlug: "call-of-duty-warzone",
 	externalUrl: "https://warzonecheats.org",
-	anchorText: "related resources",
+	anchorText: "Call of Duty: Warzone player guides hub",
 	published: "2026-06-18",
 	updated: "2026-03-15",
 	title: "Call of Duty: Warzone Guide: Solo Queue Survival (2026)",
@@ -655,7 +655,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: loadout metas, buy stations, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://warzonecheats.org\" target=\"_blank\" rel=\"noopener noreferrer\">related resources</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://warzonecheats.org\" target=\"_blank\" rel=\"noopener noreferrer\">Call of Duty: Warzone player guides hub</a>."
 			]
 		}
 	]
@@ -667,7 +667,7 @@ export const guides: GuideDefinition[] = [
 	game: "Valorant",
 	gameSlug: "valorant",
 	externalUrl: "https://valocheats.com",
-	anchorText: "this resource",
+	anchorText: "Valorant ESP and aimbot resources",
 	published: "2026-07-19",
 	updated: "2026-03-15",
 	title: "Valorant Guide: Beginner Onboarding (2026)",
@@ -702,7 +702,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: ability combos, crosshair placement, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://valocheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">this resource</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://valocheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">Valorant ESP and aimbot resources</a>."
 			]
 		}
 	]
@@ -714,7 +714,7 @@ export const guides: GuideDefinition[] = [
 	game: "Gray Zone Warfare",
 	gameSlug: "gray-zone-warfare",
 	externalUrl: "https://grayzonecheats.com",
-	anchorText: "more game information",
+	anchorText: "Gray Zone Warfare player guides hub",
 	published: "2026-08-20",
 	updated: "2026-03-15",
 	title: "Gray Zone Warfare Guide: Ranked Climb Strategy (2026)",
@@ -749,7 +749,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: extraction contracts, NVG night raids, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://grayzonecheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">more game information</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://grayzonecheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">Gray Zone Warfare player guides hub</a>."
 			]
 		}
 	]
@@ -761,7 +761,7 @@ export const guides: GuideDefinition[] = [
 	game: "ARC Raiders",
 	gameSlug: "arc-raiders",
 	externalUrl: "https://arcraiderscheats.org",
-	anchorText: "related resources",
+	anchorText: "ARC Raiders cheats and guides",
 	published: "2026-01-21",
 	updated: "2026-03-15",
 	title: "ARC Raiders Guide: Anti-Cheat Awareness (2026)",
@@ -796,7 +796,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: loot extraction windows, PvPvE patrol routes, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://arcraiderscheats.org\" target=\"_blank\" rel=\"noopener noreferrer\">related resources</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://arcraiderscheats.org\" target=\"_blank\" rel=\"noopener noreferrer\">ARC Raiders cheats and guides</a>."
 			]
 		}
 	]
@@ -808,7 +808,7 @@ export const guides: GuideDefinition[] = [
 	game: "Escape from Tarkov",
 	gameSlug: "escape-from-tarkov",
 	externalUrl: "https://tarkovcheats.org",
-	anchorText: "additional guides",
+	anchorText: "Escape from Tarkov patch notes and tips",
 	published: "2026-02-22",
 	updated: "2026-03-15",
 	title: "Escape from Tarkov Guide: Patch-Day Preparation (2026)",
@@ -843,7 +843,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: ammo types and armor classes, insurance and hideout, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://tarkovcheats.org\" target=\"_blank\" rel=\"noopener noreferrer\">additional guides</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://tarkovcheats.org\" target=\"_blank\" rel=\"noopener noreferrer\">Escape from Tarkov patch notes and tips</a>."
 			]
 		}
 	]
@@ -855,7 +855,7 @@ export const guides: GuideDefinition[] = [
 	game: "Overwatch 2",
 	gameSlug: "overwatch-2",
 	externalUrl: "https://overwatchhacks.com",
-	anchorText: "more game information",
+	anchorText: "Overwatch 2 player guides hub",
 	published: "2026-03-23",
 	updated: "2026-03-15",
 	title: "Overwatch 2 Guide: Ranked Climb Strategy (2026)",
@@ -890,7 +890,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: cooldown tracking, ultimate economy, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://overwatchhacks.com\" target=\"_blank\" rel=\"noopener noreferrer\">more game information</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://overwatchhacks.com\" target=\"_blank\" rel=\"noopener noreferrer\">Overwatch 2 player guides hub</a>."
 			]
 		}
 	]
@@ -902,7 +902,7 @@ export const guides: GuideDefinition[] = [
 	game: "Dead by Daylight",
 	gameSlug: "dead-by-daylight",
 	externalUrl: "https://dbdcheats.org",
-	anchorText: "more game information",
+	anchorText: "Dead by Daylight cheats and guides",
 	published: "2026-04-24",
 	updated: "2026-03-15",
 	title: "Dead by Daylight Guide: Economy And Loadout Planning (2026)",
@@ -937,7 +937,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: generator pacing, chase mindgames, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://dbdcheats.org\" target=\"_blank\" rel=\"noopener noreferrer\">more game information</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://dbdcheats.org\" target=\"_blank\" rel=\"noopener noreferrer\">Dead by Daylight cheats and guides</a>."
 			]
 		}
 	]
@@ -949,7 +949,7 @@ export const guides: GuideDefinition[] = [
 	game: "The Isle",
 	gameSlug: "the-isle",
 	externalUrl: "https://theislehacks.org",
-	anchorText: "related resources",
+	anchorText: "The Isle cheats and guides",
 	published: "2026-05-05",
 	updated: "2026-03-15",
 	title: "The Isle Guide: Solo Queue Survival (2026)",
@@ -984,7 +984,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: nest spawning, pack hunting, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://theislehacks.org\" target=\"_blank\" rel=\"noopener noreferrer\">related resources</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://theislehacks.org\" target=\"_blank\" rel=\"noopener noreferrer\">The Isle cheats and guides</a>."
 			]
 		}
 	]
@@ -996,7 +996,7 @@ export const guides: GuideDefinition[] = [
 	game: "The Isle",
 	gameSlug: "the-isle",
 	externalUrl: "https://islecheats.net",
-	anchorText: "more game information",
+	anchorText: "The Isle player guides hub",
 	published: "2026-06-06",
 	updated: "2026-03-15",
 	title: "The Isle Guide: Ranked Climb Strategy (2026)",
@@ -1031,7 +1031,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: nest spawning, pack hunting, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://islecheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">more game information</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://islecheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">The Isle player guides hub</a>."
 			]
 		}
 	]
@@ -1043,7 +1043,7 @@ export const guides: GuideDefinition[] = [
 	game: "War Thunder",
 	gameSlug: "war-thunder",
 	externalUrl: "https://warthunderhacks.com",
-	anchorText: "additional guides",
+	anchorText: "War Thunder ESP and aimbot resources",
 	published: "2026-07-07",
 	updated: "2026-03-15",
 	title: "War Thunder Guide: Patch-Day Preparation (2026)",
@@ -1078,7 +1078,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: armor weak spots, BR matchmaking, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://warthunderhacks.com\" target=\"_blank\" rel=\"noopener noreferrer\">additional guides</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://warthunderhacks.com\" target=\"_blank\" rel=\"noopener noreferrer\">War Thunder ESP and aimbot resources</a>."
 			]
 		}
 	]
@@ -1090,7 +1090,7 @@ export const guides: GuideDefinition[] = [
 	game: "Marathon",
 	gameSlug: "marathon",
 	externalUrl: "https://marathoncheats.cc",
-	anchorText: "more game information",
+	anchorText: "Marathon cheats and guides",
 	published: "2026-08-08",
 	updated: "2026-03-15",
 	title: "Marathon Guide: Ranked Climb Strategy (2026)",
@@ -1125,7 +1125,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: extraction timing, runner builds, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://marathoncheats.cc\" target=\"_blank\" rel=\"noopener noreferrer\">more game information</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://marathoncheats.cc\" target=\"_blank\" rel=\"noopener noreferrer\">Marathon cheats and guides</a>."
 			]
 		}
 	]
@@ -1137,7 +1137,7 @@ export const guides: GuideDefinition[] = [
 	game: "Escape from Tarkov",
 	gameSlug: "escape-from-tarkov",
 	externalUrl: "https://besttarkovcheats.com",
-	anchorText: "related resources",
+	anchorText: "Escape from Tarkov cheats and guides",
 	published: "2026-01-09",
 	updated: "2026-03-15",
 	title: "Escape from Tarkov Guide: Solo Queue Survival (2026)",
@@ -1172,7 +1172,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: ammo types and armor classes, insurance and hideout, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://besttarkovcheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">related resources</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://besttarkovcheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">Escape from Tarkov cheats and guides</a>."
 			]
 		}
 	]
@@ -1184,7 +1184,7 @@ export const guides: GuideDefinition[] = [
 	game: "The Finals",
 	gameSlug: "the-finals",
 	externalUrl: "https://thefinalscheats.org",
-	anchorText: "more game information",
+	anchorText: "The Finals cheats and guides",
 	published: "2026-02-10",
 	updated: "2026-03-15",
 	title: "The Finals Guide: Economy And Loadout Planning (2026)",
@@ -1219,7 +1219,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: team cash-outs, gadget combos, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://thefinalscheats.org\" target=\"_blank\" rel=\"noopener noreferrer\">more game information</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://thefinalscheats.org\" target=\"_blank\" rel=\"noopener noreferrer\">The Finals cheats and guides</a>."
 			]
 		}
 	]
@@ -1231,7 +1231,7 @@ export const guides: GuideDefinition[] = [
 	game: "DayZ",
 	gameSlug: "dayz",
 	externalUrl: "https://dayzcheat.net",
-	anchorText: "more game information",
+	anchorText: "DayZ cheats and guides",
 	published: "2026-03-11",
 	updated: "2026-03-15",
 	title: "DayZ Guide: Economy And Loadout Planning (2026)",
@@ -1266,7 +1266,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: coastal spawns, infection management, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://dayzcheat.net\" target=\"_blank\" rel=\"noopener noreferrer\">more game information</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://dayzcheat.net\" target=\"_blank\" rel=\"noopener noreferrer\">DayZ cheats and guides</a>."
 			]
 		}
 	]
@@ -1278,7 +1278,7 @@ export const guides: GuideDefinition[] = [
 	game: "Fortnite",
 	gameSlug: "fortnite",
 	externalUrl: "https://fncheats.net",
-	anchorText: "additional guides",
+	anchorText: "Fortnite patch notes and tips",
 	published: "2026-04-12",
 	updated: "2026-03-15",
 	title: "Fortnite Guide: Map Control Fundamentals (2026)",
@@ -1313,7 +1313,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: loadout rotations, piece control, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://fncheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">additional guides</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://fncheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">Fortnite patch notes and tips</a>."
 			]
 		}
 	]
@@ -1325,7 +1325,7 @@ export const guides: GuideDefinition[] = [
 	game: "The Isle",
 	gameSlug: "the-isle",
 	externalUrl: "https://islecheat.com",
-	anchorText: "this resource",
+	anchorText: "The Isle patch notes and tips",
 	published: "2026-05-13",
 	updated: "2026-03-15",
 	title: "The Isle Guide: Squad Coordination (2026)",
@@ -1360,7 +1360,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: pack hunting, growth stages, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://islecheat.com\" target=\"_blank\" rel=\"noopener noreferrer\">this resource</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://islecheat.com\" target=\"_blank\" rel=\"noopener noreferrer\">The Isle patch notes and tips</a>."
 			]
 		}
 	]
@@ -1372,7 +1372,7 @@ export const guides: GuideDefinition[] = [
 	game: "Deadside",
 	gameSlug: "deadside",
 	externalUrl: "https://deadsidecheats.com",
-	anchorText: "more game information",
+	anchorText: "Deadside Cheats overview",
 	published: "2026-06-14",
 	updated: "2026-03-15",
 	title: "Deadside Guide: Economy And Loadout Planning (2026)",
@@ -1407,7 +1407,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: squad flanks, compound routes, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://deadsidecheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">more game information</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://deadsidecheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside Cheats overview</a>."
 			]
 		}
 	]
@@ -1419,7 +1419,7 @@ export const guides: GuideDefinition[] = [
 	game: "Marvel Rivals",
 	gameSlug: "marvel-rivals",
 	externalUrl: "https://marvelrivalscheat.net",
-	anchorText: "related resources",
+	anchorText: "Marvel Rivals player guides hub",
 	published: "2026-07-15",
 	updated: "2026-03-15",
 	title: "Marvel Rivals Guide: Solo Queue Survival (2026)",
@@ -1454,7 +1454,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: role synergy, ultimate combos, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://marvelrivalscheat.net\" target=\"_blank\" rel=\"noopener noreferrer\">related resources</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://marvelrivalscheat.net\" target=\"_blank\" rel=\"noopener noreferrer\">Marvel Rivals player guides hub</a>."
 			]
 		}
 	]
@@ -1466,7 +1466,7 @@ export const guides: GuideDefinition[] = [
 	game: "Mecha BREAK",
 	gameSlug: "mecha-break",
 	externalUrl: "https://meccacheats.com",
-	anchorText: "more game information",
+	anchorText: "Mecha BREAK cheats and guides",
 	published: "2026-08-16",
 	updated: "2026-03-15",
 	title: "Mecha BREAK Guide: Economy And Loadout Planning (2026)",
@@ -1501,7 +1501,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: mech loadouts, dash trades, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://meccacheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">more game information</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://meccacheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">Mecha BREAK cheats and guides</a>."
 			]
 		}
 	]
@@ -1513,7 +1513,7 @@ export const guides: GuideDefinition[] = [
 	game: "Rust",
 	gameSlug: "rust",
 	externalUrl: "https://rusthack.net",
-	anchorText: "related resources",
+	anchorText: "Rust cheats and guides",
 	published: "2026-01-17",
 	updated: "2026-03-15",
 	title: "Rust Guide: Solo Queue Survival (2026)",
@@ -1548,7 +1548,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: raid timing, recycler routes, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://rusthack.net\" target=\"_blank\" rel=\"noopener noreferrer\">related resources</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://rusthack.net\" target=\"_blank\" rel=\"noopener noreferrer\">Rust cheats and guides</a>."
 			]
 		}
 	]
@@ -1560,7 +1560,7 @@ export const guides: GuideDefinition[] = [
 	game: "Gray Zone Warfare",
 	gameSlug: "gray-zone-warfare",
 	externalUrl: "https://grayzonecheats.net",
-	anchorText: "more game information",
+	anchorText: "Gray Zone Warfare player guides hub",
 	published: "2026-02-18",
 	updated: "2026-03-15",
 	title: "Gray Zone Warfare Guide: Economy And Loadout Planning (2026)",
@@ -1595,7 +1595,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: squad comms, extraction contracts, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://grayzonecheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">more game information</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://grayzonecheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">Gray Zone Warfare player guides hub</a>."
 			]
 		}
 	]
@@ -1607,7 +1607,7 @@ export const guides: GuideDefinition[] = [
 	game: "Unturned",
 	gameSlug: "unturned",
 	externalUrl: "https://unturnedhacks.com",
-	anchorText: "more game information",
+	anchorText: "Unturned cheats and guides",
 	published: "2026-03-19",
 	updated: "2026-03-15",
 	title: "Unturned Guide: Ranked Climb Strategy (2026)",
@@ -1642,7 +1642,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: base raids, vehicle logistics, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://unturnedhacks.com\" target=\"_blank\" rel=\"noopener noreferrer\">more game information</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://unturnedhacks.com\" target=\"_blank\" rel=\"noopener noreferrer\">Unturned cheats and guides</a>."
 			]
 		}
 	]
@@ -1654,7 +1654,7 @@ export const guides: GuideDefinition[] = [
 	game: "Palworld",
 	gameSlug: "palworld",
 	externalUrl: "https://palworldhack.net",
-	anchorText: "additional guides",
+	anchorText: "Palworld patch notes and tips",
 	published: "2026-04-20",
 	updated: "2026-03-15",
 	title: "Palworld Guide: Map Control Fundamentals (2026)",
@@ -1689,7 +1689,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: base raids, dungeon clears, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://palworldhack.net\" target=\"_blank\" rel=\"noopener noreferrer\">additional guides</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://palworldhack.net\" target=\"_blank\" rel=\"noopener noreferrer\">Palworld patch notes and tips</a>."
 			]
 		}
 	]
@@ -1701,7 +1701,7 @@ export const guides: GuideDefinition[] = [
 	game: "Rainbow Six Siege",
 	gameSlug: "rainbow-six-siege",
 	externalUrl: "https://r6siegecheats.net",
-	anchorText: "more game information",
+	anchorText: "Rainbow Six Siege cheats and guides",
 	published: "2026-05-21",
 	updated: "2026-03-15",
 	title: "Rainbow Six Siege Guide: Ranked Climb Strategy (2026)",
@@ -1736,7 +1736,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: reinforcement setups, drone clears, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://r6siegecheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">more game information</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://r6siegecheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">Rainbow Six Siege cheats and guides</a>."
 			]
 		}
 	]
@@ -1748,7 +1748,7 @@ export const guides: GuideDefinition[] = [
 	game: "Escape from Tarkov",
 	gameSlug: "escape-from-tarkov",
 	externalUrl: "https://eftcheat.net",
-	anchorText: "additional guides",
+	anchorText: "Escape from Tarkov patch notes and tips",
 	published: "2026-06-22",
 	updated: "2026-03-15",
 	title: "Escape from Tarkov Guide: Map Control Fundamentals (2026)",
@@ -1783,7 +1783,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: insurance and hideout, flea market economy, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://eftcheat.net\" target=\"_blank\" rel=\"noopener noreferrer\">additional guides</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://eftcheat.net\" target=\"_blank\" rel=\"noopener noreferrer\">Escape from Tarkov patch notes and tips</a>."
 			]
 		}
 	]
@@ -1795,7 +1795,7 @@ export const guides: GuideDefinition[] = [
 	game: "Caliber",
 	gameSlug: "caliber",
 	externalUrl: "https://calibercheats.com",
-	anchorText: "this resource",
+	anchorText: "Caliber patch notes and tips",
 	published: "2026-07-23",
 	updated: "2026-03-15",
 	title: "Caliber Guide: Beginner Onboarding (2026)",
@@ -1830,7 +1830,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: mission routing, cover trades, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://calibercheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">this resource</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://calibercheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">Caliber patch notes and tips</a>."
 			]
 		}
 	]
@@ -1842,7 +1842,7 @@ export const guides: GuideDefinition[] = [
 	game: "Call of Duty: Warzone",
 	gameSlug: "call-of-duty-warzone",
 	externalUrl: "https://codcheats.net",
-	anchorText: "this resource",
+	anchorText: "Call of Duty: Warzone patch notes and tips",
 	published: "2026-08-24",
 	updated: "2026-03-15",
 	title: "Call of Duty: Warzone Guide: Beginner Onboarding (2026)",
@@ -1877,7 +1877,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: loadout metas, buy stations, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://codcheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">this resource</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://codcheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">Call of Duty: Warzone patch notes and tips</a>."
 			]
 		}
 	]
@@ -1889,7 +1889,7 @@ export const guides: GuideDefinition[] = [
 	game: "Hunt: Showdown",
 	gameSlug: "hunt-showdown",
 	externalUrl: "https://huntcheats.com",
-	anchorText: "more game information",
+	anchorText: "Hunt: Showdown player guides hub",
 	published: "2026-01-05",
 	updated: "2026-03-15",
 	title: "Hunt: Showdown Guide: Economy And Loadout Planning (2026)",
@@ -1924,7 +1924,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: extract ambushes, sound traps, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://huntcheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">more game information</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://huntcheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">Hunt: Showdown player guides hub</a>."
 			]
 		}
 	]
@@ -1936,7 +1936,7 @@ export const guides: GuideDefinition[] = [
 	game: "League of Legends",
 	gameSlug: "league-of-legends",
 	externalUrl: "https://lolcheat.net",
-	anchorText: "this resource",
+	anchorText: "League of Legends ESP and aimbot resources",
 	published: "2026-02-06",
 	updated: "2026-03-15",
 	title: "League of Legends Guide: Beginner Onboarding (2026)",
@@ -1971,7 +1971,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: teamfight positioning, wave management, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://lolcheat.net\" target=\"_blank\" rel=\"noopener noreferrer\">this resource</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://lolcheat.net\" target=\"_blank\" rel=\"noopener noreferrer\">League of Legends ESP and aimbot resources</a>."
 			]
 		}
 	]
@@ -1983,7 +1983,7 @@ export const guides: GuideDefinition[] = [
 	game: "Marathon",
 	gameSlug: "marathon",
 	externalUrl: "https://marathonhacks.net",
-	anchorText: "this resource",
+	anchorText: "Marathon patch notes and tips",
 	published: "2026-03-07",
 	updated: "2026-03-15",
 	title: "Marathon Guide: Squad Coordination (2026)",
@@ -2018,7 +2018,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: runner builds, contract routing, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://marathonhacks.net\" target=\"_blank\" rel=\"noopener noreferrer\">this resource</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://marathonhacks.net\" target=\"_blank\" rel=\"noopener noreferrer\">Marathon patch notes and tips</a>."
 			]
 		}
 	]
@@ -2030,7 +2030,7 @@ export const guides: GuideDefinition[] = [
 	game: "Mecha BREAK",
 	gameSlug: "mecha-break",
 	externalUrl: "https://mecchahacks.com",
-	anchorText: "more game information",
+	anchorText: "Mecha BREAK cheats and guides",
 	published: "2026-04-08",
 	updated: "2026-03-15",
 	title: "Mecha BREAK Guide: Economy And Loadout Planning (2026)",
@@ -2065,7 +2065,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: ultimate timing, mech loadouts, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://mecchahacks.com\" target=\"_blank\" rel=\"noopener noreferrer\">more game information</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://mecchahacks.com\" target=\"_blank\" rel=\"noopener noreferrer\">Mecha BREAK cheats and guides</a>."
 			]
 		}
 	]
@@ -2077,7 +2077,7 @@ export const guides: GuideDefinition[] = [
 	game: "Palworld",
 	gameSlug: "palworld",
 	externalUrl: "https://palworldhack.com",
-	anchorText: "additional guides",
+	anchorText: "Palworld patch notes and tips",
 	published: "2026-05-09",
 	updated: "2026-03-15",
 	title: "Palworld Guide: Patch-Day Preparation (2026)",
@@ -2112,7 +2112,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: dungeon clears, Pal breeding, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://palworldhack.com\" target=\"_blank\" rel=\"noopener noreferrer\">additional guides</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://palworldhack.com\" target=\"_blank\" rel=\"noopener noreferrer\">Palworld patch notes and tips</a>."
 			]
 		}
 	]
@@ -2124,7 +2124,7 @@ export const guides: GuideDefinition[] = [
 	game: "Escape from Tarkov",
 	gameSlug: "escape-from-tarkov",
 	externalUrl: "https://tarkovhack.net",
-	anchorText: "this resource",
+	anchorText: "Escape from Tarkov ESP and aimbot resources",
 	published: "2026-06-10",
 	updated: "2026-03-15",
 	title: "Escape from Tarkov Guide: Squad Coordination (2026)",
@@ -2159,7 +2159,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: ammo types and armor classes, insurance and hideout, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://tarkovhack.net\" target=\"_blank\" rel=\"noopener noreferrer\">this resource</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://tarkovhack.net\" target=\"_blank\" rel=\"noopener noreferrer\">Escape from Tarkov ESP and aimbot resources</a>."
 			]
 		}
 	]
@@ -2171,7 +2171,7 @@ export const guides: GuideDefinition[] = [
 	game: "War Thunder",
 	gameSlug: "war-thunder",
 	externalUrl: "https://warthundercheats.net",
-	anchorText: "additional guides",
+	anchorText: "War Thunder patch notes and tips",
 	published: "2026-07-11",
 	updated: "2026-03-15",
 	title: "War Thunder Guide: Patch-Day Preparation (2026)",
@@ -2206,7 +2206,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: line-of-sight spotting, armor weak spots, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://warthundercheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">additional guides</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://warthundercheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">War Thunder patch notes and tips</a>."
 			]
 		}
 	]
@@ -2218,7 +2218,7 @@ export const guides: GuideDefinition[] = [
 	game: "Hunt: Showdown",
 	gameSlug: "hunt-showdown",
 	externalUrl: "https://huntshowdowncheats.com",
-	anchorText: "this resource",
+	anchorText: "Hunt: Showdown ESP and aimbot resources",
 	published: "2026-08-12",
 	updated: "2026-03-15",
 	title: "Hunt: Showdown Guide: Squad Coordination (2026)",
@@ -2253,7 +2253,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: extract ambushes, sound traps, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://huntshowdowncheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">this resource</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://huntshowdowncheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">Hunt: Showdown ESP and aimbot resources</a>."
 			]
 		}
 	]
@@ -2265,7 +2265,7 @@ export const guides: GuideDefinition[] = [
 	game: "Destiny 2",
 	gameSlug: "destiny-2",
 	externalUrl: "https://destiny2cheats.com",
-	anchorText: "additional guides",
+	anchorText: "Destiny 2 patch notes and tips",
 	published: "2026-01-13",
 	updated: "2026-03-15",
 	title: "Destiny 2 Guide: Patch-Day Preparation (2026)",
@@ -2300,7 +2300,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: DPS phases, build synergies, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://destiny2cheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">additional guides</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://destiny2cheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">Destiny 2 patch notes and tips</a>."
 			]
 		}
 	]
@@ -2312,7 +2312,7 @@ export const guides: GuideDefinition[] = [
 	game: "Escape from Tarkov",
 	gameSlug: "escape-from-tarkov",
 	externalUrl: "https://tarkovhacks.net",
-	anchorText: "more game information",
+	anchorText: "Escape from Tarkov cheats and guides",
 	published: "2026-02-14",
 	updated: "2026-03-15",
 	title: "Escape from Tarkov Guide: Economy And Loadout Planning (2026)",
@@ -2347,7 +2347,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: ammo types and armor classes, insurance and hideout, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://tarkovhacks.net\" target=\"_blank\" rel=\"noopener noreferrer\">more game information</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://tarkovhacks.net\" target=\"_blank\" rel=\"noopener noreferrer\">Escape from Tarkov cheats and guides</a>."
 			]
 		}
 	]
@@ -2359,7 +2359,7 @@ export const guides: GuideDefinition[] = [
 	game: "Rainbow Six Siege",
 	gameSlug: "rainbow-six-siege",
 	externalUrl: "https://r6siegecheats.com",
-	anchorText: "more game information",
+	anchorText: "Rainbow Six Siege cheats and guides",
 	published: "2026-03-15",
 	updated: "2026-03-15",
 	title: "Rainbow Six Siege Guide: Economy And Loadout Planning (2026)",
@@ -2394,7 +2394,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: drone clears, clutch rounds, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://r6siegecheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">more game information</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://r6siegecheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">Rainbow Six Siege cheats and guides</a>."
 			]
 		}
 	]
@@ -2406,7 +2406,7 @@ export const guides: GuideDefinition[] = [
 	game: "Sand Raiders of Sophie",
 	gameSlug: "sand-raiders-of-sophie",
 	externalUrl: "https://sandraiderscheat.com",
-	anchorText: "more game information",
+	anchorText: "Sand Raiders of Sophie player guides hub",
 	published: "2026-04-16",
 	updated: "2026-03-15",
 	title: "Sand Raiders of Sophie Guide: Economy And Loadout Planning (2026)",
@@ -2441,7 +2441,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: combo routes, gear unlocks, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://sandraiderscheat.com\" target=\"_blank\" rel=\"noopener noreferrer\">more game information</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://sandraiderscheat.com\" target=\"_blank\" rel=\"noopener noreferrer\">Sand Raiders of Sophie player guides hub</a>."
 			]
 		}
 	]
@@ -2453,7 +2453,7 @@ export const guides: GuideDefinition[] = [
 	game: "Palworld",
 	gameSlug: "palworld",
 	externalUrl: "https://palworldhacks.com",
-	anchorText: "related resources",
+	anchorText: "Palworld player guides hub",
 	published: "2026-05-17",
 	updated: "2026-03-15",
 	title: "Palworld Guide: Anti-Cheat Awareness (2026)",
@@ -2488,7 +2488,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: dungeon clears, Pal breeding, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://palworldhacks.com\" target=\"_blank\" rel=\"noopener noreferrer\">related resources</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://palworldhacks.com\" target=\"_blank\" rel=\"noopener noreferrer\">Palworld player guides hub</a>."
 			]
 		}
 	]
@@ -2500,7 +2500,7 @@ export const guides: GuideDefinition[] = [
 	game: "Squad",
 	gameSlug: "squad",
 	externalUrl: "https://squadhacks.com",
-	anchorText: "additional guides",
+	anchorText: "Squad patch notes and tips",
 	published: "2026-06-18",
 	updated: "2026-03-15",
 	title: "Squad Guide: Patch-Day Preparation (2026)",
@@ -2535,7 +2535,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: vehicle logistics, FOB placement, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://squadhacks.com\" target=\"_blank\" rel=\"noopener noreferrer\">additional guides</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://squadhacks.com\" target=\"_blank\" rel=\"noopener noreferrer\">Squad patch notes and tips</a>."
 			]
 		}
 	]
@@ -2547,7 +2547,7 @@ export const guides: GuideDefinition[] = [
 	game: "Escape from Tarkov",
 	gameSlug: "escape-from-tarkov",
 	externalUrl: "https://eftcheats.net",
-	anchorText: "related resources",
+	anchorText: "Escape from Tarkov player guides hub",
 	published: "2026-07-19",
 	updated: "2026-03-15",
 	title: "Escape from Tarkov Guide: Solo Queue Survival (2026)",
@@ -2582,7 +2582,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: insurance and hideout, flea market economy, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://eftcheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">related resources</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://eftcheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">Escape from Tarkov player guides hub</a>."
 			]
 		}
 	]
@@ -2594,7 +2594,7 @@ export const guides: GuideDefinition[] = [
 	game: "Marathon",
 	gameSlug: "marathon",
 	externalUrl: "https://marathonhack.net",
-	anchorText: "more game information",
+	anchorText: "Marathon player guides hub",
 	published: "2026-08-20",
 	updated: "2026-03-15",
 	title: "Marathon Guide: Economy And Loadout Planning (2026)",
@@ -2629,7 +2629,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: extraction timing, runner builds, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://marathonhack.net\" target=\"_blank\" rel=\"noopener noreferrer\">more game information</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://marathonhack.net\" target=\"_blank\" rel=\"noopener noreferrer\">Marathon player guides hub</a>."
 			]
 		}
 	]
@@ -2641,7 +2641,7 @@ export const guides: GuideDefinition[] = [
 	game: "Arena Breakout Infinite",
 	gameSlug: "arena-breakout-infinite",
 	externalUrl: "https://abicheats.com",
-	anchorText: "this resource",
+	anchorText: "Arena Breakout Infinite patch notes and tips",
 	published: "2026-01-21",
 	updated: "2026-03-15",
 	title: "Arena Breakout Infinite Guide: Squad Coordination (2026)",
@@ -2676,7 +2676,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: ammo types, insurance returns, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://abicheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">this resource</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://abicheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">Arena Breakout Infinite patch notes and tips</a>."
 			]
 		}
 	]
@@ -2688,7 +2688,7 @@ export const guides: GuideDefinition[] = [
 	game: "Bodycam",
 	gameSlug: "bodycam",
 	externalUrl: "https://bodycamcheats.com",
-	anchorText: "more game information",
+	anchorText: "Bodycam cheats and guides",
 	published: "2026-02-22",
 	updated: "2026-03-15",
 	title: "Bodycam Guide: Ranked Climb Strategy (2026)",
@@ -2723,7 +2723,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: peek timing, room clearing, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://bodycamcheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">more game information</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://bodycamcheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">Bodycam cheats and guides</a>."
 			]
 		}
 	]
@@ -2735,7 +2735,7 @@ export const guides: GuideDefinition[] = [
 	game: "Gray Zone Warfare",
 	gameSlug: "gray-zone-warfare",
 	externalUrl: "https://grayzonehacks.com",
-	anchorText: "related resources",
+	anchorText: "Gray Zone Warfare player guides hub",
 	published: "2026-03-23",
 	updated: "2026-03-15",
 	title: "Gray Zone Warfare Guide: Anti-Cheat Awareness (2026)",
@@ -2770,7 +2770,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: NVG night raids, squad comms, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://grayzonehacks.com\" target=\"_blank\" rel=\"noopener noreferrer\">related resources</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://grayzonehacks.com\" target=\"_blank\" rel=\"noopener noreferrer\">Gray Zone Warfare player guides hub</a>."
 			]
 		}
 	]
@@ -2782,7 +2782,7 @@ export const guides: GuideDefinition[] = [
 	game: "League of Legends",
 	gameSlug: "league-of-legends",
 	externalUrl: "https://lolcheats.net",
-	anchorText: "more game information",
+	anchorText: "League of Legends cheats and guides",
 	published: "2026-04-24",
 	updated: "2026-03-15",
 	title: "League of Legends Guide: Ranked Climb Strategy (2026)",
@@ -2817,7 +2817,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: teamfight positioning, wave management, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://lolcheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">more game information</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://lolcheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">League of Legends cheats and guides</a>."
 			]
 		}
 	]
@@ -2829,7 +2829,7 @@ export const guides: GuideDefinition[] = [
 	game: "Once Human",
 	gameSlug: "once-human",
 	externalUrl: "https://oncehumanhacks.com",
-	anchorText: "this resource",
+	anchorText: "Once Human ESP and aimbot resources",
 	published: "2026-05-05",
 	updated: "2026-03-15",
 	title: "Once Human Guide: Beginner Onboarding (2026)",
@@ -2864,7 +2864,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: season wipes, territory control, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://oncehumanhacks.com\" target=\"_blank\" rel=\"noopener noreferrer\">this resource</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://oncehumanhacks.com\" target=\"_blank\" rel=\"noopener noreferrer\">Once Human ESP and aimbot resources</a>."
 			]
 		}
 	]
@@ -2876,7 +2876,7 @@ export const guides: GuideDefinition[] = [
 	game: "Palworld",
 	gameSlug: "palworld",
 	externalUrl: "https://palworldhacks.net",
-	anchorText: "related resources",
+	anchorText: "Palworld player guides hub",
 	published: "2026-06-06",
 	updated: "2026-03-15",
 	title: "Palworld Guide: Solo Queue Survival (2026)",
@@ -2911,7 +2911,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: base raids, dungeon clears, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://palworldhacks.net\" target=\"_blank\" rel=\"noopener noreferrer\">related resources</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://palworldhacks.net\" target=\"_blank\" rel=\"noopener noreferrer\">Palworld player guides hub</a>."
 			]
 		}
 	]
@@ -2923,7 +2923,7 @@ export const guides: GuideDefinition[] = [
 	game: "Arma Reforger",
 	gameSlug: "arma-reforger",
 	externalUrl: "https://reforgercheats.com",
-	anchorText: "this resource",
+	anchorText: "Arma Reforger ESP and aimbot resources",
 	published: "2026-07-07",
 	updated: "2026-03-15",
 	title: "Arma Reforger Guide: Beginner Onboarding (2026)",
@@ -2958,7 +2958,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: sector control, radio comms, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://reforgercheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">this resource</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://reforgercheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">Arma Reforger ESP and aimbot resources</a>."
 			]
 		}
 	]
@@ -2970,7 +2970,7 @@ export const guides: GuideDefinition[] = [
 	game: "Marvel Rivals",
 	gameSlug: "marvel-rivals",
 	externalUrl: "https://rivalshacks.com",
-	anchorText: "more game information",
+	anchorText: "Marvel Rivals cheats and guides",
 	published: "2026-08-08",
 	updated: "2026-03-15",
 	title: "Marvel Rivals Guide: Economy And Loadout Planning (2026)",
@@ -3005,7 +3005,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: ultimate combos, map verticality, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://rivalshacks.com\" target=\"_blank\" rel=\"noopener noreferrer\">more game information</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://rivalshacks.com\" target=\"_blank\" rel=\"noopener noreferrer\">Marvel Rivals cheats and guides</a>."
 			]
 		}
 	]
@@ -3017,7 +3017,7 @@ export const guides: GuideDefinition[] = [
 	game: "Once Human",
 	gameSlug: "once-human",
 	externalUrl: "https://oncehumancheats.net",
-	anchorText: "this resource",
+	anchorText: "Once Human patch notes and tips",
 	published: "2026-01-09",
 	updated: "2026-03-15",
 	title: "Once Human Guide: Squad Coordination (2026)",
@@ -3052,7 +3052,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: deviant capture, season wipes, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://oncehumancheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">this resource</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://oncehumancheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">Once Human patch notes and tips</a>."
 			]
 		}
 	]
@@ -3064,7 +3064,7 @@ export const guides: GuideDefinition[] = [
 	game: "Overwatch 2",
 	gameSlug: "overwatch-2",
 	externalUrl: "https://overwatchcheat.net",
-	anchorText: "additional guides",
+	anchorText: "Overwatch 2 patch notes and tips",
 	published: "2026-02-10",
 	updated: "2026-03-15",
 	title: "Overwatch 2 Guide: Map Control Fundamentals (2026)",
@@ -3099,7 +3099,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: map control, cooldown tracking, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://overwatchcheat.net\" target=\"_blank\" rel=\"noopener noreferrer\">additional guides</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://overwatchcheat.net\" target=\"_blank\" rel=\"noopener noreferrer\">Overwatch 2 patch notes and tips</a>."
 			]
 		}
 	]
@@ -3111,7 +3111,7 @@ export const guides: GuideDefinition[] = [
 	game: "DayZ",
 	gameSlug: "dayz",
 	externalUrl: "https://dayzhack.net",
-	anchorText: "more game information",
+	anchorText: "DayZ player guides hub",
 	published: "2026-03-11",
 	updated: "2026-03-15",
 	title: "DayZ Guide: Economy And Loadout Planning (2026)",
@@ -3146,7 +3146,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: coastal spawns, infection management, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://dayzhack.net\" target=\"_blank\" rel=\"noopener noreferrer\">more game information</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://dayzhack.net\" target=\"_blank\" rel=\"noopener noreferrer\">DayZ player guides hub</a>."
 			]
 		}
 	]
@@ -3158,7 +3158,7 @@ export const guides: GuideDefinition[] = [
 	game: "Battlefield",
 	gameSlug: "battlefield",
 	externalUrl: "https://battlefieldcheat.com",
-	anchorText: "related resources",
+	anchorText: "Battlefield cheats and guides",
 	published: "2026-04-12",
 	updated: "2026-03-15",
 	title: "Battlefield Guide: Solo Queue Survival (2026)",
@@ -3193,7 +3193,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: class gadgets, capture point flow, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://battlefieldcheat.com\" target=\"_blank\" rel=\"noopener noreferrer\">related resources</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://battlefieldcheat.com\" target=\"_blank\" rel=\"noopener noreferrer\">Battlefield cheats and guides</a>."
 			]
 		}
 	]
@@ -3205,7 +3205,7 @@ export const guides: GuideDefinition[] = [
 	game: "Arena Breakout Infinite",
 	gameSlug: "arena-breakout-infinite",
 	externalUrl: "https://abihacks.com",
-	anchorText: "this resource",
+	anchorText: "Arena Breakout Infinite ESP and aimbot resources",
 	published: "2026-05-13",
 	updated: "2026-03-15",
 	title: "Arena Breakout Infinite Guide: Squad Coordination (2026)",
@@ -3240,7 +3240,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: insurance returns, market flipping, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://abihacks.com\" target=\"_blank\" rel=\"noopener noreferrer\">this resource</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://abihacks.com\" target=\"_blank\" rel=\"noopener noreferrer\">Arena Breakout Infinite ESP and aimbot resources</a>."
 			]
 		}
 	]
@@ -3252,7 +3252,7 @@ export const guides: GuideDefinition[] = [
 	game: "ARC Raiders",
 	gameSlug: "arc-raiders",
 	externalUrl: "https://arcraidershack.com",
-	anchorText: "more game information",
+	anchorText: "ARC Raiders player guides hub",
 	published: "2026-06-14",
 	updated: "2026-03-15",
 	title: "ARC Raiders Guide: Economy And Loadout Planning (2026)",
@@ -3287,7 +3287,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: gear durability, loot extraction windows, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://arcraidershack.com\" target=\"_blank\" rel=\"noopener noreferrer\">more game information</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://arcraidershack.com\" target=\"_blank\" rel=\"noopener noreferrer\">ARC Raiders player guides hub</a>."
 			]
 		}
 	]
@@ -3299,7 +3299,7 @@ export const guides: GuideDefinition[] = [
 	game: "Backrooms",
 	gameSlug: "backrooms",
 	externalUrl: "https://backroomscheats.com",
-	anchorText: "more game information",
+	anchorText: "Backrooms cheats and guides",
 	published: "2026-07-15",
 	updated: "2026-03-15",
 	title: "Backrooms Guide: Economy And Loadout Planning (2026)",
@@ -3334,7 +3334,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: entity sound cues, team extraction, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://backroomscheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">more game information</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://backroomscheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">Backrooms cheats and guides</a>."
 			]
 		}
 	]
@@ -3346,7 +3346,7 @@ export const guides: GuideDefinition[] = [
 	game: "Marvel Rivals",
 	gameSlug: "marvel-rivals",
 	externalUrl: "https://marvelrivalshacks.net",
-	anchorText: "additional guides",
+	anchorText: "Marvel Rivals ESP and aimbot resources",
 	published: "2026-08-16",
 	updated: "2026-03-15",
 	title: "Marvel Rivals Guide: Patch-Day Preparation (2026)",
@@ -3381,7 +3381,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: map verticality, role synergy, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://marvelrivalshacks.net\" target=\"_blank\" rel=\"noopener noreferrer\">additional guides</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://marvelrivalshacks.net\" target=\"_blank\" rel=\"noopener noreferrer\">Marvel Rivals ESP and aimbot resources</a>."
 			]
 		}
 	]
@@ -3393,7 +3393,7 @@ export const guides: GuideDefinition[] = [
 	game: "Mecha BREAK",
 	gameSlug: "mecha-break",
 	externalUrl: "https://mecchachameleonhacks.com",
-	anchorText: "more game information",
+	anchorText: "Mecha BREAK player guides hub",
 	published: "2026-01-17",
 	updated: "2026-03-15",
 	title: "Mecha BREAK Guide: Ranked Climb Strategy (2026)",
@@ -3428,7 +3428,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: mech loadouts, dash trades, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://mecchachameleonhacks.com\" target=\"_blank\" rel=\"noopener noreferrer\">more game information</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://mecchachameleonhacks.com\" target=\"_blank\" rel=\"noopener noreferrer\">Mecha BREAK player guides hub</a>."
 			]
 		}
 	]
@@ -3440,7 +3440,7 @@ export const guides: GuideDefinition[] = [
 	game: "Mecha BREAK",
 	gameSlug: "mecha-break",
 	externalUrl: "https://mecchachameleonhacks.net",
-	anchorText: "more game information",
+	anchorText: "Mecha BREAK player guides hub",
 	published: "2026-02-18",
 	updated: "2026-03-15",
 	title: "Mecha BREAK Guide: Economy And Loadout Planning (2026)",
@@ -3475,7 +3475,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: ultimate timing, mech loadouts, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://mecchachameleonhacks.net\" target=\"_blank\" rel=\"noopener noreferrer\">more game information</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://mecchachameleonhacks.net\" target=\"_blank\" rel=\"noopener noreferrer\">Mecha BREAK player guides hub</a>."
 			]
 		}
 	]
@@ -3487,7 +3487,7 @@ export const guides: GuideDefinition[] = [
 	game: "Overwatch 2",
 	gameSlug: "overwatch-2",
 	externalUrl: "https://overwatch2cheats.com",
-	anchorText: "more game information",
+	anchorText: "Overwatch 2 player guides hub",
 	published: "2026-03-19",
 	updated: "2026-03-15",
 	title: "Overwatch 2 Guide: Ranked Climb Strategy (2026)",
@@ -3522,7 +3522,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: map control, cooldown tracking, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://overwatch2cheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">more game information</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://overwatch2cheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">Overwatch 2 player guides hub</a>."
 			]
 		}
 	]
@@ -3534,7 +3534,7 @@ export const guides: GuideDefinition[] = [
 	game: "Sand Raiders of Sophie",
 	gameSlug: "sand-raiders-of-sophie",
 	externalUrl: "https://sandraiderscheats.com",
-	anchorText: "this resource",
+	anchorText: "Sand Raiders of Sophie patch notes and tips",
 	published: "2026-04-20",
 	updated: "2026-03-15",
 	title: "Sand Raiders of Sophie Guide: Squad Coordination (2026)",
@@ -3569,7 +3569,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: combo routes, gear unlocks, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://sandraiderscheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">this resource</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://sandraiderscheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">Sand Raiders of Sophie patch notes and tips</a>."
 			]
 		}
 	]
@@ -3581,7 +3581,7 @@ export const guides: GuideDefinition[] = [
 	game: "Marvel Rivals",
 	gameSlug: "marvel-rivals",
 	externalUrl: "https://rivalscheats.net",
-	anchorText: "related resources",
+	anchorText: "Marvel Rivals cheats and guides",
 	published: "2026-05-21",
 	updated: "2026-03-15",
 	title: "Marvel Rivals Guide: Anti-Cheat Awareness (2026)",
@@ -3616,7 +3616,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: ultimate combos, map verticality, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://rivalscheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">related resources</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://rivalscheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">Marvel Rivals cheats and guides</a>."
 			]
 		}
 	]
@@ -3628,7 +3628,7 @@ export const guides: GuideDefinition[] = [
 	game: "Squad",
 	gameSlug: "squad",
 	externalUrl: "https://squadcheat.com",
-	anchorText: "related resources",
+	anchorText: "Squad cheats and guides",
 	published: "2026-06-22",
 	updated: "2026-03-15",
 	title: "Squad Guide: Solo Queue Survival (2026)",
@@ -3663,7 +3663,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: FOB placement, squad comms, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://squadcheat.com\" target=\"_blank\" rel=\"noopener noreferrer\">related resources</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://squadcheat.com\" target=\"_blank\" rel=\"noopener noreferrer\">Squad cheats and guides</a>."
 			]
 		}
 	]
@@ -3675,7 +3675,7 @@ export const guides: GuideDefinition[] = [
 	game: "Sand Raiders of Sophie",
 	gameSlug: "sand-raiders-of-sophie",
 	externalUrl: "https://sandraidersofsophiecheats.net",
-	anchorText: "related resources",
+	anchorText: "Sand Raiders of Sophie player guides hub",
 	published: "2026-07-23",
 	updated: "2026-03-15",
 	title: "Sand Raiders of Sophie Guide: Anti-Cheat Awareness (2026)",
@@ -3710,7 +3710,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: gear unlocks, boss patterns, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://sandraidersofsophiecheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">related resources</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://sandraidersofsophiecheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">Sand Raiders of Sophie player guides hub</a>."
 			]
 		}
 	]
@@ -3722,7 +3722,7 @@ export const guides: GuideDefinition[] = [
 	game: "Escape from Tarkov",
 	gameSlug: "escape-from-tarkov",
 	externalUrl: "https://tarkovcheat.net",
-	anchorText: "additional guides",
+	anchorText: "Escape from Tarkov ESP and aimbot resources",
 	published: "2026-08-24",
 	updated: "2026-03-15",
 	title: "Escape from Tarkov Guide: Map Control Fundamentals (2026)",
@@ -3757,7 +3757,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: ammo types and armor classes, insurance and hideout, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://tarkovcheat.net\" target=\"_blank\" rel=\"noopener noreferrer\">additional guides</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://tarkovcheat.net\" target=\"_blank\" rel=\"noopener noreferrer\">Escape from Tarkov ESP and aimbot resources</a>."
 			]
 		}
 	]
@@ -3769,7 +3769,7 @@ export const guides: GuideDefinition[] = [
 	game: "The Finals",
 	gameSlug: "the-finals",
 	externalUrl: "https://thefinalscheats.net",
-	anchorText: "additional guides",
+	anchorText: "The Finals ESP and aimbot resources",
 	published: "2026-01-05",
 	updated: "2026-03-15",
 	title: "The Finals Guide: Map Control Fundamentals (2026)",
@@ -3804,7 +3804,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: environmental destruction, team cash-outs, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://thefinalscheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">additional guides</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://thefinalscheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">The Finals ESP and aimbot resources</a>."
 			]
 		}
 	]
@@ -3816,7 +3816,7 @@ export const guides: GuideDefinition[] = [
 	game: "The Isle",
 	gameSlug: "the-isle",
 	externalUrl: "https://theislehacks.net",
-	anchorText: "this resource",
+	anchorText: "The Isle ESP and aimbot resources",
 	published: "2026-02-06",
 	updated: "2026-03-15",
 	title: "The Isle Guide: Squad Coordination (2026)",
@@ -3851,7 +3851,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: growth stages, nest spawning, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://theislehacks.net\" target=\"_blank\" rel=\"noopener noreferrer\">this resource</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://theislehacks.net\" target=\"_blank\" rel=\"noopener noreferrer\">The Isle ESP and aimbot resources</a>."
 			]
 		}
 	]
@@ -3863,7 +3863,7 @@ export const guides: GuideDefinition[] = [
 	game: "Valorant",
 	gameSlug: "valorant",
 	externalUrl: "https://valoranthack.net",
-	anchorText: "additional guides",
+	anchorText: "Valorant patch notes and tips",
 	published: "2026-03-07",
 	updated: "2026-03-15",
 	title: "Valorant Guide: Patch-Day Preparation (2026)",
@@ -3898,7 +3898,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: crosshair placement, economy rounds, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://valoranthack.net\" target=\"_blank\" rel=\"noopener noreferrer\">additional guides</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://valoranthack.net\" target=\"_blank\" rel=\"noopener noreferrer\">Valorant patch notes and tips</a>."
 			]
 		}
 	]
@@ -3910,7 +3910,7 @@ export const guides: GuideDefinition[] = [
 	game: "Call of Duty: Warzone",
 	gameSlug: "call-of-duty-warzone",
 	externalUrl: "https://warzonehacks.net",
-	anchorText: "this resource",
+	anchorText: "Call of Duty: Warzone ESP and aimbot resources",
 	published: "2026-04-08",
 	updated: "2026-03-15",
 	title: "Call of Duty: Warzone Guide: Squad Coordination (2026)",
@@ -3945,7 +3945,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: buy stations, gulag resets, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://warzonehacks.net\" target=\"_blank\" rel=\"noopener noreferrer\">this resource</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://warzonehacks.net\" target=\"_blank\" rel=\"noopener noreferrer\">Call of Duty: Warzone ESP and aimbot resources</a>."
 			]
 		}
 	]
@@ -3957,7 +3957,7 @@ export const guides: GuideDefinition[] = [
 	game: "The Front",
 	gameSlug: "the-front",
 	externalUrl: "https://thefrontcheats.com",
-	anchorText: "additional guides",
+	anchorText: "The Front patch notes and tips",
 	published: "2026-05-09",
 	updated: "2026-03-15",
 	title: "The Front Guide: Patch-Day Preparation (2026)",
@@ -3992,7 +3992,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: faction wars, base defense, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://thefrontcheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">additional guides</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://thefrontcheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">The Front patch notes and tips</a>."
 			]
 		}
 	]
@@ -4004,7 +4004,7 @@ export const guides: GuideDefinition[] = [
 	game: "Lost Ark",
 	gameSlug: "lost-ark",
 	externalUrl: "https://lostarkcheats.net",
-	anchorText: "additional guides",
+	anchorText: "Lost Ark ESP and aimbot resources",
 	published: "2026-06-10",
 	updated: "2026-03-15",
 	title: "Lost Ark Guide: Map Control Fundamentals (2026)",
@@ -4039,7 +4039,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: class engravings, raid mechanics, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://lostarkcheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">additional guides</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://lostarkcheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">Lost Ark ESP and aimbot resources</a>."
 			]
 		}
 	]
@@ -4051,7 +4051,7 @@ export const guides: GuideDefinition[] = [
 	game: "Valorant",
 	gameSlug: "valorant",
 	externalUrl: "https://valoranthacks.org",
-	anchorText: "additional guides",
+	anchorText: "Valorant ESP and aimbot resources",
 	published: "2026-07-11",
 	updated: "2026-03-15",
 	title: "Valorant Guide: Map Control Fundamentals (2026)",
@@ -4086,7 +4086,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: crosshair placement, economy rounds, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://valoranthacks.org\" target=\"_blank\" rel=\"noopener noreferrer\">additional guides</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://valoranthacks.org\" target=\"_blank\" rel=\"noopener noreferrer\">Valorant ESP and aimbot resources</a>."
 			]
 		}
 	]
@@ -4098,7 +4098,7 @@ export const guides: GuideDefinition[] = [
 	game: "Rainbow Six Siege",
 	gameSlug: "rainbow-six-siege",
 	externalUrl: "https://siegehacks.com",
-	anchorText: "related resources",
+	anchorText: "Rainbow Six Siege cheats and guides",
 	published: "2026-08-12",
 	updated: "2026-03-15",
 	title: "Rainbow Six Siege Guide: Anti-Cheat Awareness (2026)",
@@ -4133,7 +4133,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: drone clears, clutch rounds, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://siegehacks.com\" target=\"_blank\" rel=\"noopener noreferrer\">related resources</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://siegehacks.com\" target=\"_blank\" rel=\"noopener noreferrer\">Rainbow Six Siege cheats and guides</a>."
 			]
 		}
 	]
@@ -4145,7 +4145,7 @@ export const guides: GuideDefinition[] = [
 	game: "Warframe",
 	gameSlug: "warframe",
 	externalUrl: "https://warframehacks.com",
-	anchorText: "more game information",
+	anchorText: "Warframe cheats and guides",
 	published: "2026-01-13",
 	updated: "2026-03-15",
 	title: "Warframe Guide: Ranked Climb Strategy (2026)",
@@ -4180,7 +4180,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: ability combos, steel path, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://warframehacks.com\" target=\"_blank\" rel=\"noopener noreferrer\">more game information</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://warframehacks.com\" target=\"_blank\" rel=\"noopener noreferrer\">Warframe cheats and guides</a>."
 			]
 		}
 	]
@@ -4192,7 +4192,7 @@ export const guides: GuideDefinition[] = [
 	game: "Warframe",
 	gameSlug: "warframe",
 	externalUrl: "https://warframecheat.com",
-	anchorText: "additional guides",
+	anchorText: "Warframe ESP and aimbot resources",
 	published: "2026-02-14",
 	updated: "2026-03-15",
 	title: "Warframe Guide: Patch-Day Preparation (2026)",
@@ -4227,7 +4227,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: steel path, mod polarities, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://warframecheat.com\" target=\"_blank\" rel=\"noopener noreferrer\">additional guides</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://warframecheat.com\" target=\"_blank\" rel=\"noopener noreferrer\">Warframe ESP and aimbot resources</a>."
 			]
 		}
 	]
@@ -4239,7 +4239,7 @@ export const guides: GuideDefinition[] = [
 	game: "Naraka Bladepoint",
 	gameSlug: "naraka-bladepoint",
 	externalUrl: "https://narakacheats.org",
-	anchorText: "more game information",
+	anchorText: "Naraka Bladepoint player guides hub",
 	published: "2026-03-15",
 	updated: "2026-03-15",
 	title: "Naraka Bladepoint Guide: Economy And Loadout Planning (2026)",
@@ -4274,7 +4274,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: grapple mobility, parry timing, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://narakacheats.org\" target=\"_blank\" rel=\"noopener noreferrer\">more game information</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://narakacheats.org\" target=\"_blank\" rel=\"noopener noreferrer\">Naraka Bladepoint player guides hub</a>."
 			]
 		}
 	]
@@ -4286,7 +4286,7 @@ export const guides: GuideDefinition[] = [
 	game: "Minecraft",
 	gameSlug: "minecraft",
 	externalUrl: "https://minecraftcheat.com",
-	anchorText: "this resource",
+	anchorText: "Minecraft ESP and aimbot resources",
 	published: "2026-04-16",
 	updated: "2026-03-15",
 	title: "Minecraft Guide: Beginner Onboarding (2026)",
@@ -4321,7 +4321,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: nether travel, base hidden rooms, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://minecraftcheat.com\" target=\"_blank\" rel=\"noopener noreferrer\">this resource</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://minecraftcheat.com\" target=\"_blank\" rel=\"noopener noreferrer\">Minecraft ESP and aimbot resources</a>."
 			]
 		}
 	]
@@ -4333,7 +4333,7 @@ export const guides: GuideDefinition[] = [
 	game: "Destiny 2",
 	gameSlug: "destiny-2",
 	externalUrl: "https://destiny2hack.com",
-	anchorText: "related resources",
+	anchorText: "Destiny 2 cheats and guides",
 	published: "2026-05-17",
 	updated: "2026-03-15",
 	title: "Destiny 2 Guide: Solo Queue Survival (2026)",
@@ -4368,7 +4368,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: champion mods, DPS phases, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://destiny2hack.com\" target=\"_blank\" rel=\"noopener noreferrer\">related resources</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://destiny2hack.com\" target=\"_blank\" rel=\"noopener noreferrer\">Destiny 2 cheats and guides</a>."
 			]
 		}
 	]
@@ -4380,7 +4380,7 @@ export const guides: GuideDefinition[] = [
 	game: "Path of Exile",
 	gameSlug: "path-of-exile",
 	externalUrl: "https://poecheats.com",
-	anchorText: "additional guides",
+	anchorText: "Path of Exile ESP and aimbot resources",
 	published: "2026-06-18",
 	updated: "2026-03-15",
 	title: "Path of Exile Guide: Patch-Day Preparation (2026)",
@@ -4415,7 +4415,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: skill linking, resistance caps, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://poecheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">additional guides</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://poecheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">Path of Exile ESP and aimbot resources</a>."
 			]
 		}
 	]
@@ -4427,7 +4427,7 @@ export const guides: GuideDefinition[] = [
 	game: "Genshin Impact",
 	gameSlug: "genshin-impact",
 	externalUrl: "https://genshinhacks.com",
-	anchorText: "additional guides",
+	anchorText: "Genshin Impact patch notes and tips",
 	published: "2026-07-19",
 	updated: "2026-03-15",
 	title: "Genshin Impact Guide: Patch-Day Preparation (2026)",
@@ -4462,7 +4462,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: elemental reactions, domain rotations, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://genshinhacks.com\" target=\"_blank\" rel=\"noopener noreferrer\">additional guides</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://genshinhacks.com\" target=\"_blank\" rel=\"noopener noreferrer\">Genshin Impact patch notes and tips</a>."
 			]
 		}
 	]
@@ -4474,7 +4474,7 @@ export const guides: GuideDefinition[] = [
 	game: "ARC Raiders",
 	gameSlug: "arc-raiders",
 	externalUrl: "https://arcraiderscheat.org",
-	anchorText: "this resource",
+	anchorText: "ARC Raiders patch notes and tips",
 	published: "2026-08-20",
 	updated: "2026-03-15",
 	title: "ARC Raiders Guide: Beginner Onboarding (2026)",
@@ -4509,7 +4509,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: loot extraction windows, PvPvE patrol routes, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://arcraiderscheat.org\" target=\"_blank\" rel=\"noopener noreferrer\">this resource</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://arcraiderscheat.org\" target=\"_blank\" rel=\"noopener noreferrer\">ARC Raiders patch notes and tips</a>."
 			]
 		}
 	]
@@ -4521,7 +4521,7 @@ export const guides: GuideDefinition[] = [
 	game: "Palworld",
 	gameSlug: "palworld",
 	externalUrl: "https://palworldcheats.org",
-	anchorText: "this resource",
+	anchorText: "Palworld ESP and aimbot resources",
 	published: "2026-01-21",
 	updated: "2026-03-15",
 	title: "Palworld Guide: Squad Coordination (2026)",
@@ -4556,7 +4556,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: base raids, dungeon clears, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://palworldcheats.org\" target=\"_blank\" rel=\"noopener noreferrer\">this resource</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://palworldcheats.org\" target=\"_blank\" rel=\"noopener noreferrer\">Palworld ESP and aimbot resources</a>."
 			]
 		}
 	]
@@ -4568,7 +4568,7 @@ export const guides: GuideDefinition[] = [
 	game: "The Isle",
 	gameSlug: "the-isle",
 	externalUrl: "https://theislecheat.net",
-	anchorText: "more game information",
+	anchorText: "The Isle player guides hub",
 	published: "2026-02-22",
 	updated: "2026-03-15",
 	title: "The Isle Guide: Economy And Loadout Planning (2026)",
@@ -4603,7 +4603,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: nest spawning, pack hunting, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://theislecheat.net\" target=\"_blank\" rel=\"noopener noreferrer\">more game information</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://theislecheat.net\" target=\"_blank\" rel=\"noopener noreferrer\">The Isle player guides hub</a>."
 			]
 		}
 	]
@@ -4615,7 +4615,7 @@ export const guides: GuideDefinition[] = [
 	game: "Escape from Tarkov",
 	gameSlug: "escape-from-tarkov",
 	externalUrl: "https://tarkovcheat.org",
-	anchorText: "more game information",
+	anchorText: "Escape from Tarkov cheats and guides",
 	published: "2026-03-23",
 	updated: "2026-03-15",
 	title: "Escape from Tarkov Guide: Economy And Loadout Planning (2026)",
@@ -4650,7 +4650,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: insurance and hideout, flea market economy, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://tarkovcheat.org\" target=\"_blank\" rel=\"noopener noreferrer\">more game information</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://tarkovcheat.org\" target=\"_blank\" rel=\"noopener noreferrer\">Escape from Tarkov cheats and guides</a>."
 			]
 		}
 	]
@@ -4662,7 +4662,7 @@ export const guides: GuideDefinition[] = [
 	game: "The Isle",
 	gameSlug: "the-isle",
 	externalUrl: "https://theislecheats.org",
-	anchorText: "related resources",
+	anchorText: "The Isle player guides hub",
 	published: "2026-04-24",
 	updated: "2026-03-15",
 	title: "The Isle Guide: Solo Queue Survival (2026)",
@@ -4697,7 +4697,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: growth stages, nest spawning, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://theislecheats.org\" target=\"_blank\" rel=\"noopener noreferrer\">related resources</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://theislecheats.org\" target=\"_blank\" rel=\"noopener noreferrer\">The Isle player guides hub</a>."
 			]
 		}
 	]
@@ -4709,7 +4709,7 @@ export const guides: GuideDefinition[] = [
 	game: "Raft",
 	gameSlug: "raft",
 	externalUrl: "https://raftcheats.com",
-	anchorText: "related resources",
+	anchorText: "Raft cheats and guides",
 	published: "2026-05-05",
 	updated: "2026-03-15",
 	title: "Raft Guide: Anti-Cheat Awareness (2026)",
@@ -4744,7 +4744,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: story islands, raft expansion, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://raftcheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">related resources</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://raftcheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">Raft cheats and guides</a>."
 			]
 		}
 	]
@@ -4756,7 +4756,7 @@ export const guides: GuideDefinition[] = [
 	game: "Sand",
 	gameSlug: "sand",
 	externalUrl: "https://sandhacks.com",
-	anchorText: "additional guides",
+	anchorText: "Sand ESP and aimbot resources",
 	published: "2026-06-06",
 	updated: "2026-03-15",
 	title: "Sand Guide: Patch-Day Preparation (2026)",
@@ -4791,7 +4791,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: PvPvE ambushes, Trampler builds, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://sandhacks.com\" target=\"_blank\" rel=\"noopener noreferrer\">additional guides</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://sandhacks.com\" target=\"_blank\" rel=\"noopener noreferrer\">Sand ESP and aimbot resources</a>."
 			]
 		}
 	]
@@ -4803,7 +4803,7 @@ export const guides: GuideDefinition[] = [
 	game: "Sea of Thieves",
 	gameSlug: "sea-of-thieves",
 	externalUrl: "https://seaofthievescheats.net",
-	anchorText: "this resource",
+	anchorText: "Sea of Thieves ESP and aimbot resources",
 	published: "2026-07-07",
 	updated: "2026-03-15",
 	title: "Sea of Thieves Guide: Squad Coordination (2026)",
@@ -4838,7 +4838,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: crew roles, cannon angles, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://seaofthievescheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">this resource</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://seaofthievescheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">Sea of Thieves ESP and aimbot resources</a>."
 			]
 		}
 	]
@@ -4850,7 +4850,7 @@ export const guides: GuideDefinition[] = [
 	game: "Battlefield",
 	gameSlug: "battlefield",
 	externalUrl: "https://battlefieldhacks.net",
-	anchorText: "additional guides",
+	anchorText: "Battlefield patch notes and tips",
 	published: "2026-08-08",
 	updated: "2026-03-15",
 	title: "Battlefield Guide: Map Control Fundamentals (2026)",
@@ -4885,7 +4885,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: capture point flow, vehicle weak points, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://battlefieldhacks.net\" target=\"_blank\" rel=\"noopener noreferrer\">additional guides</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://battlefieldhacks.net\" target=\"_blank\" rel=\"noopener noreferrer\">Battlefield patch notes and tips</a>."
 			]
 		}
 	]
@@ -4897,7 +4897,7 @@ export const guides: GuideDefinition[] = [
 	game: "The Finals",
 	gameSlug: "the-finals",
 	externalUrl: "https://thefinalshacks.com",
-	anchorText: "additional guides",
+	anchorText: "The Finals patch notes and tips",
 	published: "2026-01-09",
 	updated: "2026-03-15",
 	title: "The Finals Guide: Map Control Fundamentals (2026)",
@@ -4932,7 +4932,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: gadget combos, environmental destruction, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://thefinalshacks.com\" target=\"_blank\" rel=\"noopener noreferrer\">additional guides</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://thefinalshacks.com\" target=\"_blank\" rel=\"noopener noreferrer\">The Finals patch notes and tips</a>."
 			]
 		}
 	]
@@ -4944,7 +4944,7 @@ export const guides: GuideDefinition[] = [
 	game: "Delta Force",
 	gameSlug: "delta-force",
 	externalUrl: "https://deltaforcecheats.org",
-	anchorText: "this resource",
+	anchorText: "Delta Force ESP and aimbot resources",
 	published: "2026-02-10",
 	updated: "2026-03-15",
 	title: "Delta Force Guide: Beginner Onboarding (2026)",
@@ -4979,7 +4979,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: vehicle spawns, objective pushes, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://deltaforcecheats.org\" target=\"_blank\" rel=\"noopener noreferrer\">this resource</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://deltaforcecheats.org\" target=\"_blank\" rel=\"noopener noreferrer\">Delta Force ESP and aimbot resources</a>."
 			]
 		}
 	]
@@ -4991,7 +4991,7 @@ export const guides: GuideDefinition[] = [
 	game: "War Thunder",
 	gameSlug: "war-thunder",
 	externalUrl: "https://warthunderhacks.net",
-	anchorText: "additional guides",
+	anchorText: "War Thunder ESP and aimbot resources",
 	published: "2026-03-11",
 	updated: "2026-03-15",
 	title: "War Thunder Guide: Map Control Fundamentals (2026)",
@@ -5026,7 +5026,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: line-of-sight spotting, armor weak spots, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://warthunderhacks.net\" target=\"_blank\" rel=\"noopener noreferrer\">additional guides</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://warthunderhacks.net\" target=\"_blank\" rel=\"noopener noreferrer\">War Thunder ESP and aimbot resources</a>."
 			]
 		}
 	]
@@ -5038,7 +5038,7 @@ export const guides: GuideDefinition[] = [
 	game: "Valorant",
 	gameSlug: "valorant",
 	externalUrl: "https://valohacks.com",
-	anchorText: "this resource",
+	anchorText: "Valorant patch notes and tips",
 	published: "2026-04-12",
 	updated: "2026-03-15",
 	title: "Valorant Guide: Beginner Onboarding (2026)",
@@ -5073,7 +5073,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: ability combos, crosshair placement, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://valohacks.com\" target=\"_blank\" rel=\"noopener noreferrer\">this resource</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://valohacks.com\" target=\"_blank\" rel=\"noopener noreferrer\">Valorant patch notes and tips</a>."
 			]
 		}
 	]
@@ -5085,7 +5085,7 @@ export const guides: GuideDefinition[] = [
 	game: "Dead by Daylight",
 	gameSlug: "dead-by-daylight",
 	externalUrl: "https://dbdcheat.org",
-	anchorText: "additional guides",
+	anchorText: "Dead by Daylight patch notes and tips",
 	published: "2026-05-13",
 	updated: "2026-03-15",
 	title: "Dead by Daylight Guide: Patch-Day Preparation (2026)",
@@ -5120,7 +5120,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: perk synergies, generator pacing, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://dbdcheat.org\" target=\"_blank\" rel=\"noopener noreferrer\">additional guides</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://dbdcheat.org\" target=\"_blank\" rel=\"noopener noreferrer\">Dead by Daylight patch notes and tips</a>."
 			]
 		}
 	]
@@ -5132,7 +5132,7 @@ export const guides: GuideDefinition[] = [
 	game: "ARK: Survival Ascended",
 	gameSlug: "ark-survival-ascended",
 	externalUrl: "https://arkcheats.net",
-	anchorText: "additional guides",
+	anchorText: "ARK: Survival Ascended ESP and aimbot resources",
 	published: "2026-06-14",
 	updated: "2026-03-15",
 	title: "ARK: Survival Ascended Guide: Patch-Day Preparation (2026)",
@@ -5167,7 +5167,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: tame cycles, base raids, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://arkcheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">additional guides</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://arkcheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">ARK: Survival Ascended ESP and aimbot resources</a>."
 			]
 		}
 	]
@@ -5179,7 +5179,7 @@ export const guides: GuideDefinition[] = [
 	game: "Unturned",
 	gameSlug: "unturned",
 	externalUrl: "https://unturnedcheats.org",
-	anchorText: "additional guides",
+	anchorText: "Unturned patch notes and tips",
 	published: "2026-07-15",
 	updated: "2026-03-15",
 	title: "Unturned Guide: Patch-Day Preparation (2026)",
@@ -5214,7 +5214,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: base raids, vehicle logistics, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://unturnedcheats.org\" target=\"_blank\" rel=\"noopener noreferrer\">additional guides</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://unturnedcheats.org\" target=\"_blank\" rel=\"noopener noreferrer\">Unturned patch notes and tips</a>."
 			]
 		}
 	]
@@ -5226,7 +5226,7 @@ export const guides: GuideDefinition[] = [
 	game: "War Thunder",
 	gameSlug: "war-thunder",
 	externalUrl: "https://warthundercheats.org",
-	anchorText: "more game information",
+	anchorText: "War Thunder player guides hub",
 	published: "2026-08-16",
 	updated: "2026-03-15",
 	title: "War Thunder Guide: Ranked Climb Strategy (2026)",
@@ -5261,7 +5261,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: armor weak spots, BR matchmaking, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://warthundercheats.org\" target=\"_blank\" rel=\"noopener noreferrer\">more game information</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://warthundercheats.org\" target=\"_blank\" rel=\"noopener noreferrer\">War Thunder player guides hub</a>."
 			]
 		}
 	]
@@ -5273,7 +5273,7 @@ export const guides: GuideDefinition[] = [
 	game: "Sea of Thieves",
 	gameSlug: "sea-of-thieves",
 	externalUrl: "https://seaofthievescheats.org",
-	anchorText: "related resources",
+	anchorText: "Sea of Thieves cheats and guides",
 	published: "2026-01-17",
 	updated: "2026-03-15",
 	title: "Sea of Thieves Guide: Solo Queue Survival (2026)",
@@ -5308,7 +5308,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: cannon angles, voyage routing, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://seaofthievescheats.org\" target=\"_blank\" rel=\"noopener noreferrer\">related resources</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://seaofthievescheats.org\" target=\"_blank\" rel=\"noopener noreferrer\">Sea of Thieves cheats and guides</a>."
 			]
 		}
 	]
@@ -5320,7 +5320,7 @@ export const guides: GuideDefinition[] = [
 	game: "Warframe",
 	gameSlug: "warframe",
 	externalUrl: "https://warframecheats.net",
-	anchorText: "related resources",
+	anchorText: "Warframe cheats and guides",
 	published: "2026-02-18",
 	updated: "2026-03-15",
 	title: "Warframe Guide: Solo Queue Survival (2026)",
@@ -5355,7 +5355,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: steel path, mod polarities, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://warframecheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">related resources</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://warframecheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">Warframe cheats and guides</a>."
 			]
 		}
 	]
@@ -5367,7 +5367,7 @@ export const guides: GuideDefinition[] = [
 	game: "Dune: Awakening",
 	gameSlug: "dune-awakening",
 	externalUrl: "https://dunecheats.com",
-	anchorText: "additional guides",
+	anchorText: "Dune: Awakening patch notes and tips",
 	published: "2026-03-19",
 	updated: "2026-03-15",
 	title: "Dune: Awakening Guide: Patch-Day Preparation (2026)",
@@ -5402,7 +5402,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: spice runs, stilltent survival, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://dunecheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">additional guides</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://dunecheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">Dune: Awakening patch notes and tips</a>."
 			]
 		}
 	]
@@ -5414,7 +5414,7 @@ export const guides: GuideDefinition[] = [
 	game: "Wuthering Waves",
 	gameSlug: "wuthering-waves",
 	externalUrl: "https://wutheringwavescheats.org",
-	anchorText: "this resource",
+	anchorText: "Wuthering Waves ESP and aimbot resources",
 	published: "2026-04-20",
 	updated: "2026-03-15",
 	title: "Wuthering Waves Guide: Squad Coordination (2026)",
@@ -5449,7 +5449,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: resonator teams, echo farming, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://wutheringwavescheats.org\" target=\"_blank\" rel=\"noopener noreferrer\">this resource</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://wutheringwavescheats.org\" target=\"_blank\" rel=\"noopener noreferrer\">Wuthering Waves ESP and aimbot resources</a>."
 			]
 		}
 	]
@@ -5461,7 +5461,7 @@ export const guides: GuideDefinition[] = [
 	game: "Genshin Impact",
 	gameSlug: "genshin-impact",
 	externalUrl: "https://genshincheats.org",
-	anchorText: "more game information",
+	anchorText: "Genshin Impact cheats and guides",
 	published: "2026-05-21",
 	updated: "2026-03-15",
 	title: "Genshin Impact Guide: Ranked Climb Strategy (2026)",
@@ -5496,7 +5496,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: elemental reactions, domain rotations, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://genshincheats.org\" target=\"_blank\" rel=\"noopener noreferrer\">more game information</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://genshincheats.org\" target=\"_blank\" rel=\"noopener noreferrer\">Genshin Impact cheats and guides</a>."
 			]
 		}
 	]
@@ -5508,7 +5508,7 @@ export const guides: GuideDefinition[] = [
 	game: "Naraka Bladepoint",
 	gameSlug: "naraka-bladepoint",
 	externalUrl: "https://narakahacks.com",
-	anchorText: "additional guides",
+	anchorText: "Naraka Bladepoint ESP and aimbot resources",
 	published: "2026-06-22",
 	updated: "2026-03-15",
 	title: "Naraka Bladepoint Guide: Map Control Fundamentals (2026)",
@@ -5543,7 +5543,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: parry timing, soul jade builds, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://narakahacks.com\" target=\"_blank\" rel=\"noopener noreferrer\">additional guides</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://narakahacks.com\" target=\"_blank\" rel=\"noopener noreferrer\">Naraka Bladepoint ESP and aimbot resources</a>."
 			]
 		}
 	]
@@ -5555,7 +5555,7 @@ export const guides: GuideDefinition[] = [
 	game: "Hunt: Showdown",
 	gameSlug: "hunt-showdown",
 	externalUrl: "https://huntcheats.net",
-	anchorText: "more game information",
+	anchorText: "Hunt: Showdown player guides hub",
 	published: "2026-07-23",
 	updated: "2026-03-15",
 	title: "Hunt: Showdown Guide: Ranked Climb Strategy (2026)",
@@ -5590,7 +5590,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: boss burn timing, extract ambushes, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://huntcheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">more game information</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://huntcheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">Hunt: Showdown player guides hub</a>."
 			]
 		}
 	]
@@ -5602,7 +5602,7 @@ export const guides: GuideDefinition[] = [
 	game: "Combat Master",
 	gameSlug: "combat-master",
 	externalUrl: "https://combatmastercheats.com",
-	anchorText: "this resource",
+	anchorText: "Combat Master ESP and aimbot resources",
 	published: "2026-08-24",
 	updated: "2026-03-15",
 	title: "Combat Master Guide: Beginner Onboarding (2026)",
@@ -5637,7 +5637,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: ranked grind, slide cancels, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://combatmastercheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">this resource</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://combatmastercheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">Combat Master ESP and aimbot resources</a>."
 			]
 		}
 	]
@@ -5649,7 +5649,7 @@ export const guides: GuideDefinition[] = [
 	game: "Combat Master",
 	gameSlug: "combat-master",
 	externalUrl: "https://combatmastercheats.net",
-	anchorText: "this resource",
+	anchorText: "Combat Master ESP and aimbot resources",
 	published: "2026-01-05",
 	updated: "2026-03-15",
 	title: "Combat Master Guide: Squad Coordination (2026)",
@@ -5684,7 +5684,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: loadout swaps, ranked grind, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://combatmastercheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">this resource</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://combatmastercheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">Combat Master ESP and aimbot resources</a>."
 			]
 		}
 	]
@@ -5696,7 +5696,7 @@ export const guides: GuideDefinition[] = [
 	game: "Dune: Awakening",
 	gameSlug: "dune-awakening",
 	externalUrl: "https://dunecheats.net",
-	anchorText: "additional guides",
+	anchorText: "Dune: Awakening patch notes and tips",
 	published: "2026-02-06",
 	updated: "2026-03-15",
 	title: "Dune: Awakening Guide: Map Control Fundamentals (2026)",
@@ -5731,7 +5731,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: faction alliances, spice runs, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://dunecheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">additional guides</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://dunecheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">Dune: Awakening patch notes and tips</a>."
 			]
 		}
 	]
@@ -5743,7 +5743,7 @@ export const guides: GuideDefinition[] = [
 	game: "Fortnite",
 	gameSlug: "fortnite",
 	externalUrl: "https://fncheat.com",
-	anchorText: "related resources",
+	anchorText: "Fortnite player guides hub",
 	published: "2026-03-07",
 	updated: "2026-03-15",
 	title: "Fortnite Guide: Anti-Cheat Awareness (2026)",
@@ -5778,7 +5778,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: loadout rotations, piece control, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://fncheat.com\" target=\"_blank\" rel=\"noopener noreferrer\">related resources</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://fncheat.com\" target=\"_blank\" rel=\"noopener noreferrer\">Fortnite player guides hub</a>."
 			]
 		}
 	]
@@ -5790,7 +5790,7 @@ export const guides: GuideDefinition[] = [
 	game: "Delta Force",
 	gameSlug: "delta-force",
 	externalUrl: "https://deltaforcecheat.org",
-	anchorText: "related resources",
+	anchorText: "Delta Force player guides hub",
 	published: "2026-04-08",
 	updated: "2026-03-15",
 	title: "Delta Force Guide: Anti-Cheat Awareness (2026)",
@@ -5825,7 +5825,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: squad tactics, vehicle spawns, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://deltaforcecheat.org\" target=\"_blank\" rel=\"noopener noreferrer\">related resources</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://deltaforcecheat.org\" target=\"_blank\" rel=\"noopener noreferrer\">Delta Force player guides hub</a>."
 			]
 		}
 	]
