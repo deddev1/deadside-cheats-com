@@ -3,7 +3,7 @@ import Layout from '../layouts/Layout.astro';
 import Navbar from './Navbar.astro';
 import SiteFooter from './SiteFooter.astro';
 import { defaultLocale, type LocaleCode } from '../data/i18n/locales';
-import { getAllGuides, getDeadsideArticleGuides, getGuidesBasePath, getInterleavedExternalGuides, absoluteGuideUrl } from '../data/guides/helpers';
+import { getDeadsideArticleGuides, getGuidesBasePath, getInterleavedExternalGuides, absoluteGuideUrl } from '../data/guides/helpers';
 import { nativeGuides } from '../data/guides/native-guides';
 import { siteConfig } from '../data/site';
 import { getLocalizedPath } from '../data/i18n/routing';
@@ -15,9 +15,12 @@ interface Props {
 
 const { locale } = Astro.props;
 const t = getT(locale);
-const guides = getAllGuides();
 const deadsideArticles = getDeadsideArticleGuides();
 const otherGameGuides = getInterleavedExternalGuides();
+const indexableGuideUrls = [
+	...nativeGuides.map((item) => new URL(item.href, siteConfig.url).href),
+	...deadsideArticles.map((guide) => absoluteGuideUrl(guide.slug)),
+];
 const canonicalPath = getGuidesBasePath();
 const homeHref = getLocalizedPath('home', locale);
 
@@ -35,11 +38,10 @@ const collectionSchema = {
 	isPartOf: { '@id': `${siteConfig.url}/#website` },
 	mainEntity: {
 		'@type': 'ItemList',
-		itemListElement: guides.map((guide, i) => ({
+		itemListElement: indexableGuideUrls.map((url, i) => ({
 			'@type': 'ListItem',
 			position: i + 1,
-			url: absoluteGuideUrl(guide.slug),
-			name: guide.title,
+			url,
 		})),
 	},
 };
@@ -118,7 +120,7 @@ const collectionSchema = {
 					{
 						otherGameGuides.map((guide) => (
 							<li>
-								<a class="guides-hub__card" href={guide.canonicalPath}>
+								<a class="guides-hub__card" href={guide.canonicalPath} rel="nofollow">
 									<img
 										src={guide.imageUrl}
 										alt={guide.imageAlt}

@@ -13,9 +13,16 @@ type Props = {
 	currentLocale: string;
 	locales: LocaleMeta[];
 	hrefForLocale: Record<string, string>;
+	/** Locale codes that should receive rel="nofollow" on switcher links. */
+	nofollowLocales?: ReadonlySet<string>;
 };
 
-export default function LanguageSwitcher({ currentLocale, locales, hrefForLocale }: Props) {
+export default function LanguageSwitcher({
+	currentLocale,
+	locales,
+	hrefForLocale,
+	nofollowLocales,
+}: Props) {
 	const { t } = useTranslation();
 	const currentMeta = useMemo(
 		() => locales.find((l) => l.code === currentLocale) ?? locales[0],
@@ -48,6 +55,7 @@ export default function LanguageSwitcher({ currentLocale, locales, hrefForLocale
 								<a
 									href={href}
 									lang={locale.hreflang}
+									rel={nofollowLocales?.has(locale.code) ? 'nofollow' : undefined}
 									className={`lang-switcher__link${isCurrent ? ' is-current' : ''}`}
 									aria-current={isCurrent ? 'page' : undefined}
 									data-locale={locale.code}
