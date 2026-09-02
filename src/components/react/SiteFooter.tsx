@@ -12,25 +12,37 @@ type Props = {
 	help: FooterLink[];
 };
 
+function buildShareUrl(base: string, params: Record<string, string>): string {
+	const url = new URL(base);
+	for (const [key, value] of Object.entries(params)) {
+		url.searchParams.set(key, value);
+	}
+	return url.toString();
+}
+
 function SiteFooterInner({ siteName, supportEmail, shareUrl, explore, help }: Props) {
 	const { t } = useTranslation();
 	const year = new Date().getFullYear();
-	const encodedUrl = encodeURIComponent(shareUrl);
-	const encodedName = encodeURIComponent(siteName);
 	const tagline = t('footer.tagline').split('\n')[0];
 
 	const shareLinks = [
 		{
 			label: t('common.shareX'),
-			href: `https://twitter.com/intent/tweet?url=${encodedUrl}&text=${encodedName}`,
+			href: buildShareUrl('https://twitter.com/intent/tweet', {
+				url: shareUrl,
+				text: siteName,
+			}),
 		},
 		{
 			label: t('common.shareReddit'),
-			href: `https://reddit.com/submit?url=${encodedUrl}&title=${encodedName}`,
+			href: buildShareUrl('https://www.reddit.com/submit', {
+				url: shareUrl,
+				title: siteName,
+			}),
 		},
 		{
 			label: t('common.shareFacebook'),
-			href: `https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}`,
+			href: buildShareUrl('https://www.facebook.com/sharer/sharer.php', { u: shareUrl }),
 		},
 	];
 

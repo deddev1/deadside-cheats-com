@@ -1,5 +1,5 @@
 ---
-import { locales, type LocaleCode } from '../data/i18n/locales';
+import { locales, isIndexableLocale, type LocaleCode } from '../data/i18n/locales';
 import {
 	getPageLocaleSwitchHref,
 	resolvePageContextFromPath,
@@ -62,8 +62,8 @@ const t = getT(currentLocale);
 						<li>
 							<a
 								href={href}
-								hreflang={locale.hreflang}
-								lang={locale.code}
+								lang={locale.hreflang}
+								rel={!isIndexableLocale(locale.code) ? 'nofollow' : undefined}
 								class:list={['lang-switcher__link', { 'is-current': isCurrent }]}
 								aria-current={isCurrent ? 'page' : undefined}
 								data-locale={locale.code}

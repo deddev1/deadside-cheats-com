@@ -1,0 +1,30 @@
+---
+import { buildCanonicalUrl } from '../data/i18n/routing';
+
+interface Props {
+	/** Root-relative or absolute redirect target */
+	to: string;
+	/** Canonical path for the indexable destination (defaults to `to`) */
+	canonicalPath?: string;
+	title?: string;
+}
+
+const { to, canonicalPath, title = 'Redirecting…' } = Astro.props;
+const targetUrl = to.startsWith('http') ? to : buildCanonicalUrl(to);
+const canonicalUrl = buildCanonicalUrl(canonicalPath ?? to);
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="robots" content="noindex, follow" />
+		<meta http-equiv="refresh" content={`0;url=${targetUrl}`} />
+		<link rel="canonical" href={canonicalUrl} />
+		<title>{title}</title>
+	</head>
+	<body>
+		<p><a href={targetUrl}>Redirecting to {targetUrl}</a></p>
+	</body>
+</html>

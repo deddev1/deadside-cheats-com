@@ -17,7 +17,7 @@ export type GuideCta = {
 export const externalUrls = {
 	steam: brand.gameUrl,
 	steamNews: 'https://store.steampowered.com/app/895400/news/',
-	officialSite: 'https://www.deadsidethegame.com/',
+	officialSite: 'https://www.deadsidegame.com/',
 	wiki: 'https://deadside.fandom.com/wiki/Deadside',
 	steamCommunity: 'https://steamcommunity.com/app/895400',
 } as const;
