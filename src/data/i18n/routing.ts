@@ -694,6 +694,11 @@ export function localizeInternalHref(href: string, locale: LocaleCode): string {
 	if (withSlash === '/deadside-cheats/' || withSlash === '/deadside-cheats/') {
 		return getLocalizedPath('hacks', locale);
 	}
+	const localeBlogMatch = trimmed.match(/^\/([a-z]{2})\/blog(\/.+)?$/);
+	if (localeBlogMatch && isLocaleCode(localeBlogMatch[1])) {
+		const rest = localeBlogMatch[2];
+		return rest ? `/blog${rest}/` : '/blog/';
+	}
 	for (const pageId of pageIds) {
 		const english = englishPaths[pageId];
 		if (english === withSlash || english.replace(/\/+$/, '') === trimmed) {

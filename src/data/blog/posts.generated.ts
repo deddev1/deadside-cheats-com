@@ -572,7 +572,7 @@ export const blogPosts: BlogPostDefinition[] = [
 				h2: "Start softer than you think you need",
 				paragraphs: [
 					"Begin with a smaller FOV and higher smoothness so the assist helps tracking instead of snapping. Play five matches on Map or high-traffic zones and only then widen FOV. If friends watching a demo say it looks robotic, you went too far.",
-					"Full control docs live on <a href=\"/deadside-aimbot/\">Deadside Aimbot</a> and <a href=\"/deadside-soft-aim/\">soft aim</a>.",
+					"Full control docs live on <a href=\"/deadside-aimbot/\">Deadside Aimbot</a> and <a href=\"/deadside-aimbot/\">soft aim</a>.",
 				],
 			},
 			{
