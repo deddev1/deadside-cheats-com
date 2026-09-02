@@ -33,7 +33,7 @@ export const brand = {
 	antiCheat: 'BattlEye',
 
 	logo: '/images/deadside-cheats-logo.webp',
-	logoRaster: '/images/deadside-cheats-logo.png',
+	logoRaster: '/images/deadside-cheats-logo.webp',
 	logoRasterWidth: 512,
 	logoRasterHeight: 512,
 	logoAlt: 'Deadside Cheats logo',

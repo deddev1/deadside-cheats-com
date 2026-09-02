@@ -33,6 +33,9 @@ const tmpDir = path.resolve('tmp/deadside-screenshots/sources');
 
 const CONTENT_WIDTHS = [480, 960];
 const WEBP = { quality: 82, effort: 6, smartSubsample: true };
+/** Screenshots that exceed 100 KB at quality 82 — encode slightly lower. */
+const HEAVY_BASES = new Set(['deadside-screenshot-03', 'deadside-screenshot-05']);
+const HEAVY_WEBP = { quality: 75, effort: 6, smartSubsample: true };
 
 const LEGACY_MAP = {
 	'deadside-screenshot-01': [
@@ -74,15 +77,16 @@ async function encodeWebp(input, width, options = WEBP) {
 async function writeScreenshotSet(pngPath, baseName) {
 	const outputs = [];
 	let canonical = null;
+	const webpOptions = HEAVY_BASES.has(baseName) ? HEAVY_WEBP : WEBP;
 
 	for (const width of CONTENT_WIDTHS) {
 		const file = `${baseName}-${width}w.webp`;
-		const webp = await encodeWebp(pngPath, width);
+		const webp = await encodeWebp(pngPath, width, webpOptions);
 		await writeFile(path.join(imagesDir, file), webp);
 		outputs.push({ file, bytes: webp.length });
 	}
 
-	canonical = await encodeWebp(pngPath, 960);
+	canonical = await encodeWebp(pngPath, 960, webpOptions);
 	await writeFile(path.join(imagesDir, `${baseName}.webp`), canonical);
 	outputs.push({ file: `${baseName}.webp`, bytes: canonical.length });
 
