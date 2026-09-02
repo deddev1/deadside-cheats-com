@@ -28,7 +28,7 @@ export const enPages = {
 				'Instead of stacking separate tools, Deadside Cheats bundles player ESP wallhack, loot markers, 2D radar overlays, and Aimbot profiles in one undetected package built for survival raids and squad sessions — covering both “deadside cheats” and “deadside cheats” search intent.',
 				'Browse the <a href="/deadside-esp/">ESP</a>, <a href="/deadside-aimbot/">Aimbot</a>, <a href="/deadside-esp/">wallhack</a>, and <a href="/deadside-radar-hack/">radar</a> pages for control details — or jump to <a href="/pricing/">Pricing</a> for monthly and lifetime options.',
 				`Before patch days, check ${EXT.status} for Deadside server status, then confirm our maintenance notes so you are not loading in on an outdated build.`,
-				'Deadside runs BattlEye at kernel level. No package stays undetected forever without rebuilds. We publish maintenance on <a href="/updates/">Updates</a> and explain the workflow on <a href="/battleye-bypass/">BattlEye bypass</a>.',
+				'Deadside runs BattlEye at kernel level. No package stays undetected forever without rebuilds. We publish maintenance on <a href="/updates/">Updates</a> and explain the workflow on the <a href="/battleye-bypass/">BattlEye bypass guide</a>.',
 				'Use conservative soft aim FOV, enable ESP categories selectively, and avoid rage settings that attract reports even when the build is clean. Read <a href="/deadside-aimbot/">legit aimbot settings</a> and <a href="/deadside-cheats-2026/">deadside cheats 2026</a> before you queue.',
 			),
 		],
@@ -247,7 +247,7 @@ export const enPages = {
 			section(
 				'After Deadside or BattlEye patches',
 				'When Bad Pixel ships a major Deadside update or BattlEye patch, revisit Updates before loading in. Download maintenance rebuilds when posted.',
-				`Official anti-cheat background: ${EXT.battleye}. Our practical workflow is documented on the <a href="/battleye-bypass/">BattlEye bypass page</a> and <a href="/undetected-deadside-cheats/">undetected guide</a>.`,
+				`Official anti-cheat background: ${EXT.battleye}. Our practical workflow is documented on the <a href="/battleye-bypass/">BattlEye bypass page</a> and <a href="/undetected-deadside-cheats/">undetected Deadside cheats guide</a>.`,
 				'Contact <a href="/support/">Support</a> with your order ID if activation fails after a patch — include Windows version and error details for faster replies.',
 			),
 		],
@@ -391,9 +391,9 @@ export const enPages = {
 			),
 			section(
 				'How to verify undetected status before you queue',
-				'Step one: open <a href="/updates/">Updates</a> for the latest build date. Step two: read <a href="/battleye-bypass/">BattlEye bypass</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for ranked.',
+				'Step one: open <a href="/updates/">Updates</a> for the latest build date. Step two: read <a href="/battleye-bypass/">BattlEye bypass guide</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for ranked.',
 				'Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href="/compare/">budget competitors</a> fairly.',
-				'FAQ shortcuts: <a href="/faq/are-deadside-cheats-undetected-in-2026/">undetected in 2026</a> · <a href="/faq/deadside-battleye-bypass/">battleye bypass</a> · <a href="/blog/deadside-cheats-buyers-guide/">buyers guide</a>.',
+				'FAQ shortcuts: <a href="/faq/are-deadside-cheats-undetected-in-2026/">undetected Deadside cheats FAQ</a> · <a href="/faq/deadside-battleye-bypass/">BattlEye bypass FAQ</a> · <a href="/blog/deadside-cheats-buyers-guide/">Deadside cheats buyers guide</a>.',
 			),
 		],
 	},
@@ -425,7 +425,7 @@ export const enPages = {
 			section(
 				'Undetected wallhack maintenance',
 				'ESP wallhack modules rebuild after BattlEye patches. Follow the <a href="/updates/">Updates page</a> and complete checkout for instant license delivery on Windows PC.',
-				'Learn the full maintenance story on <a href="/undetected-deadside-cheats/">undetected deadside cheats</a> and <a href="/battleye-bypass/">BattlEye bypass</a>.',
+				'Learn the full maintenance story on <a href="/undetected-deadside-cheats/">undetected deadside cheats</a> and the <a href="/battleye-bypass/">BattlEye bypass guide</a>.',
 				'Ready to buy? Compare <a href="/pricing/">Pricing</a> or continue to the <a href="/deadside-esp/">ESP</a> landing for alternate search wording.',
 			),
 		],
@@ -490,7 +490,7 @@ export const enPages = {
 			),
 			section(
 				'No permanent bypass guarantee',
-				'BattlEye bypass in practice means timely maintenance. Read the undetected guide, <a href="/faq/">FAQ</a>, and Updates log before every match.',
+				'BattlEye bypass in practice means timely maintenance. Read the <a href="/undetected-deadside-cheats/">undetected Deadside cheats guide</a>, <a href="/faq/">FAQ</a>, and <a href="/updates/">Updates</a> log before every match.',
 				'Contact <a href="/support/">Support</a> if activation fails immediately after a posted rebuild.',
 				'Buying for the first time? Compare <a href="/pricing/">Pricing</a> and finish <a href="/setup/">Setup</a> only after <a href="/updates/">Updates</a> shows a live build.',
 			),
@@ -503,8 +503,8 @@ export const enPages = {
 			section(
 				'External architecture, stream proofing, and patch-day checklist',
 				'Maintenance prioritizes external-style overlays and behavioral tuning over risky injection patterns. Reduce on-screen ESP markers if you stream — pair with radar for awareness.',
-				'Patch-day checklist: (1) read <a href="/updates/">Updates</a>, (2) confirm BattlEye notes on <a href="/battleye-bypass/">this page</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.',
-				'Deep dives: <a href="/undetected-deadside-cheats/">undetected guide</a> · <a href="/blog/undetected-deadside-cheats-battleye/">BattlEye reality blog</a> · <a href="/deadside-cheats/">deadside cheats pillar</a>.',
+				'Patch-day checklist: (1) read <a href="/updates/">Updates</a>, (2) confirm BattlEye notes on the <a href="/battleye-bypass/">BattlEye bypass guide</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.',
+				'Deep dives: <a href="/undetected-deadside-cheats/">undetected Deadside cheats guide</a> · <a href="/blog/undetected-deadside-cheats-battleye/">BattlEye maintenance blog</a> · <a href="/deadside-cheats/">Deadside cheats overview</a>.',
 			),
 		],
 	},
@@ -581,7 +581,7 @@ export const enPages = {
 			section(
 				'Getting started',
 				'After checkout, follow the <a href="/setup/">Setup guide</a> to activate your license and load default ESP and aim profiles. Keep your order ID ready for support at support@deadsidecheats.com.',
-				'New buyers should also read the <a href="/blog/deadside-cheats-complete-guide-2026/">2026 complete guide</a> and <a href="/blog/deadside-cheats-buyers-guide/">buyers guide</a> before comparing shops.',
+				'New buyers should also read the <a href="/blog/deadside-cheats-complete-guide-2026/">Deadside cheats 2026 guide</a> and <a href="/blog/deadside-cheats-buyers-guide/">Deadside cheats buyers guide</a> before comparing shops.',
 				'Ready to buy? Open <a href="/pricing/">Pricing</a> or return to the <a href="/">homepage</a> for the latest status summary.',
 			),
 			section(
@@ -792,7 +792,7 @@ export const enPages = {
 				'Undetected ESP with BattlEye maintenance',
 				'ESP modules rebuild after BattlEye and Deadside patches. Check the <a href="/updates/">Updates page</a> before loading in — pair ESP awareness with <a href="/deadside-radar-hack/">2D radar</a> for flank reads.',
 				'Licenses deliver digitally after checkout on Windows PC — see <a href="/pricing/">Pricing</a>.',
-				'Install steps: <a href="/setup/">Setup</a>. Status questions: <a href="/deadside-cheats/">undetected guide</a>.',
+				'Install steps: <a href="/setup/">Setup guide</a>. Status questions: <a href="/deadside-cheats/">undetected Deadside cheats guide</a>.',
 			),
 		],
 	},

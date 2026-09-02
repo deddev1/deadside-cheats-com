@@ -487,7 +487,7 @@ export function buildLocaleOverlay(locale, ui) {
 			buyerReviews: `${r.countLabel}`,
 			averageAria: r.title,
 			outOfFiveAria: r.outOf,
-			readAll: '→',
+			readAll: 'Read all player reviews →',
 		},
 		common: { ...buildCommon(ui, locale), ...(extended.common ?? {}) },
 		footer: f,

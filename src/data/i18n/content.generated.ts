@@ -135,7 +135,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 								"Instead of stacking separate tools, Deadside Cheats bundles player ESP wallhack, loot markers, 2D radar overlays, and Aimbot profiles in one undetected package built for survival raids and squad sessions — covering both “deadside cheats” and “deadside cheats” search intent.",
 								"Browse the <a href=\"/deadside-esp/\">ESP</a>, <a href=\"/deadside-aimbot/\">Aimbot</a>, <a href=\"/deadside-esp/\">wallhack</a>, and <a href=\"/deadside-radar-hack/\">radar</a> pages for control details — or jump to <a href=\"/pricing/\">Pricing</a> for monthly and lifetime options.",
 								"Before patch days, check <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside on Steam</a> for Deadside server status, then confirm our maintenance notes so you are not loading in on an outdated build.",
-								"Deadside runs BattlEye at kernel level. No package stays undetected forever without rebuilds. We publish maintenance on <a href=\"/updates/\">Updates</a> and explain the workflow on <a href=\"/battleye-bypass/\">BattlEye bypass</a>.",
+								"Deadside runs BattlEye at kernel level. No package stays undetected forever without rebuilds. We publish maintenance on <a href=\"/updates/\">Updates</a> and explain the workflow on the <a href=\"/battleye-bypass/\">BattlEye bypass guide</a>.",
 								"Use conservative soft aim FOV, enable ESP categories selectively, and avoid rage settings that attract reports even when the build is clean. Read <a href=\"/deadside-aimbot/\">legit aimbot settings</a> and <a href=\"/deadside-cheats-2026/\">deadside cheats 2026</a> before you deploy.",
 							],
 						},
@@ -596,9 +596,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "How to verify undetected status before you deploy",
 							paragraphs: [
-								"Step one: open <a href=\"/updates/\">Updates</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">BattlEye bypass</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
+								"Step one: open <a href=\"/updates/\">Updates</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">BattlEye bypass guide</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/deadside-battleye-bypass/\">battleye bypass</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a>.",
+								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected Deadside cheats FAQ</a> · <a href=\"/faq/deadside-battleye-bypass/\">BattlEye bypass FAQ</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">Deadside cheats buyers guide</a>.",
 							],
 						},
 					],
@@ -635,7 +635,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Undetected wallhack maintenance",
 							paragraphs: [
 								"ESP wallhack modules rebuild after BattlEye patches. Follow the <a href=\"/updates/\">Updates page</a> and complete checkout for instant license delivery on Windows PC.",
-								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and <a href=\"/battleye-bypass/\">BattlEye bypass</a>.",
+								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and the <a href=\"/battleye-bypass/\">BattlEye bypass guide</a>.",
 								"Compare <a href=\"/pricing/\">Pricing</a> or continue to the <a href=\"/deadside-esp/\">ESP</a> landing page.",
 							],
 						},
@@ -710,7 +710,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "No permanent bypass guarantee",
 							paragraphs: [
-								"BattlEye bypass in practice means timely maintenance. Read the undetected guide, <a href=\"/faq/\">FAQ</a>, and Updates log before every match.",
+								"BattlEye bypass in practice means timely maintenance. Read the <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a>, <a href=\"/faq/\">FAQ</a>, and <a href=\"/updates/\">Updates</a> log before every match.",
 								"Contact <a href=\"/support/\">Support</a> if activation fails immediately after a posted rebuild.",
 								"Buying for the first time? Compare <a href=\"/pricing/\">Pricing</a> and finish <a href=\"/setup/\">Setup</a> only after <a href=\"/updates/\">Updates</a> shows a live build.",
 							],
@@ -727,8 +727,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "External architecture, stream proofing, and patch-day checklist",
 							paragraphs: [
 								"Maintenance prioritizes external-style overlays and behavioral tuning over risky injection patterns. Reduce on-screen ESP markers if you stream — pair with radar for awareness.",
-								"Patch-day checklist: (1) read <a href=\"/updates/\">Updates</a>, (2) confirm BattlEye notes on <a href=\"/battleye-bypass/\">this page</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye reality blog</a> · <a href=\"/deadside-cheats/\">deadside cheats pillar</a>.",
+								"Patch-day checklist: (1) read <a href=\"/updates/\">Updates</a>, (2) confirm BattlEye notes on the <a href=\"/battleye-bypass/\">BattlEye bypass guide</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
+								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye maintenance blog</a> · <a href=\"/deadside-cheats/\">Deadside cheats overview</a>.",
 							],
 						},
 					],
@@ -1083,7 +1083,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"ESP modules rebuild after BattlEye and Deadside patches. Check the <a href=\"/updates/\">Updates page</a> before loading in — pair ESP awareness with <a href=\"/deadside-radar-hack/\">2D radar</a> for flank reads.",
 								"Licenses deliver digitally after checkout on Windows PC — see <a href=\"/pricing/\">Pricing</a>.",
-								"Install steps: <a href=\"/setup/\">Setup</a>. Status questions: <a href=\"/deadside-cheats/\">undetected guide</a>.",
+								"Install steps: <a href=\"/setup/\">Setup guide</a>. Status questions: <a href=\"/deadside-cheats/\">undetected Deadside cheats guide</a>.",
 							],
 						},
 					],
@@ -1844,7 +1844,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Step one: open <a href=\"/updates/\">Guía de trucos indetectables</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">Mantenimiento BattlEye</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/deadside-battleye-bypass/\">battleye bypass</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a>.",
+								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected Deadside cheats FAQ</a> · <a href=\"/faq/deadside-battleye-bypass/\">BattlEye bypass FAQ</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">Deadside cheats buyers guide</a>.",
 							],
 						},
 					],
@@ -1881,7 +1881,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Undetected wallhack maintenance",
 							paragraphs: [
 								"ESP wallhack modules rebuild after BattlEye patches. Follow the <a href=\"/updates/\">Guía de trucos indetectables</a> and complete checkout for instant license delivery on Windows PC.",
-								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and <a href=\"/battleye-bypass/\">Mantenimiento BattlEye</a>.",
+								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and the <a href=\"/battleye-bypass/\">Mantenimiento BattlEye</a>.",
 								"Compare <a href=\"/pricing/\">Tienda</a> or continue to the <a href=\"/deadside-esp/\">Guía ESP y wallhack</a> landing page.",
 							],
 						},
@@ -1956,7 +1956,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "No permanent bypass guarantee",
 							paragraphs: [
-								"BattlEye bypass in practice means timely maintenance. Read the undetected guide, <a href=\"/faq/\">FAQ</a>, and Updates log before every match.",
+								"BattlEye bypass in practice means timely maintenance. Read the <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a>, <a href=\"/faq/\">FAQ</a>, and <a href=\"/updates/\">Guía de trucos indetectables</a> log before every match.",
 								"Contact <a href=\"/support/\">Soporte</a> if activation fails immediately after a posted rebuild.",
 								"Buying for the first time? Compare <a href=\"/pricing/\">Tienda</a> and finish <a href=\"/setup/\">Guía de instalación</a> only after <a href=\"/updates/\">Guía de trucos indetectables</a> shows a live build.",
 							],
@@ -1973,8 +1973,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "External architecture, stream proofing, and patch-day checklist",
 							paragraphs: [
 								"Deadside Cheats ofrece ESP wallhack, 2D radar y deadside aimbot indetectables para Deadside en Windows PC. cómo se gestionan las actualizaciones BattlEye para Deadside cheats",
-								"Patch-day checklist: (1) read <a href=\"/updates/\">Guía de trucos indetectables</a>, (2) confirm BattlEye notes on <a href=\"/battleye-bypass/\">Mantenimiento BattlEye</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye reality blog</a> · <a href=\"/deadside-cheats/\">Resumen Deadside Cheats</a>.",
+								"Patch-day checklist: (1) read <a href=\"/updates/\">Guía de trucos indetectables</a>, (2) confirm BattlEye notes on the <a href=\"/battleye-bypass/\">Mantenimiento BattlEye</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
+								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye maintenance blog</a> · <a href=\"/deadside-cheats/\">Resumen Deadside Cheats</a>.",
 							],
 						},
 					],
@@ -3036,7 +3036,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Step one: open <a href=\"/updates/\">Guide triches indétectables</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">Maintenance BattlEye</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/deadside-battleye-bypass/\">battleye bypass</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a>.",
+								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected Deadside cheats FAQ</a> · <a href=\"/faq/deadside-battleye-bypass/\">BattlEye bypass FAQ</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">Deadside cheats buyers guide</a>.",
 							],
 						},
 					],
@@ -3073,7 +3073,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Undetected wallhack maintenance",
 							paragraphs: [
 								"ESP wallhack modules rebuild after BattlEye patches. Follow the <a href=\"/updates/\">Guide triches indétectables</a> and complete checkout for instant license delivery on Windows PC.",
-								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and <a href=\"/battleye-bypass/\">Maintenance BattlEye</a>.",
+								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and the <a href=\"/battleye-bypass/\">Maintenance BattlEye</a>.",
 								"Compare <a href=\"/pricing/\">Boutique</a> or continue to the <a href=\"/deadside-esp/\">Guide ESP et wallhack</a> landing page.",
 							],
 						},
@@ -3148,7 +3148,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "No permanent bypass guarantee",
 							paragraphs: [
-								"BattlEye bypass in practice means timely maintenance. Read the undetected guide, <a href=\"/faq/\">FAQ</a>, and Updates log before every match.",
+								"BattlEye bypass in practice means timely maintenance. Read the <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a>, <a href=\"/faq/\">FAQ</a>, and <a href=\"/updates/\">Guide triches indétectables</a> log before every match.",
 								"Contact <a href=\"/support/\">Support</a> if activation fails immediately after a posted rebuild.",
 								"Buying for the first time? Compare <a href=\"/pricing/\">Boutique</a> and finish <a href=\"/setup/\">Guide d'installation</a> only after <a href=\"/updates/\">Guide triches indétectables</a> shows a live build.",
 							],
@@ -3165,8 +3165,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "External architecture, stream proofing, and patch-day checklist",
 							paragraphs: [
 								"Deadside Cheats combine ESP wallhack, 2D radar et deadside aimbot indétectables pour Deadside sur PC Windows. gestion des mises à jour BattlEye pour Deadside cheats",
-								"Patch-day checklist: (1) read <a href=\"/updates/\">Guide triches indétectables</a>, (2) confirm BattlEye notes on <a href=\"/battleye-bypass/\">Maintenance BattlEye</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye reality blog</a> · <a href=\"/deadside-cheats/\">Aperçu Deadside Cheats</a>.",
+								"Patch-day checklist: (1) read <a href=\"/updates/\">Guide triches indétectables</a>, (2) confirm BattlEye notes on the <a href=\"/battleye-bypass/\">Maintenance BattlEye</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
+								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye maintenance blog</a> · <a href=\"/deadside-cheats/\">Aperçu Deadside Cheats</a>.",
 							],
 						},
 					],
@@ -4229,7 +4229,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Step one: open <a href=\"/updates/\">Undetected Cheats Guide</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">BattlEye Wartung</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/deadside-battleye-bypass/\">battleye bypass</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a>.",
+								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected Deadside cheats FAQ</a> · <a href=\"/faq/deadside-battleye-bypass/\">BattlEye bypass FAQ</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">Deadside cheats buyers guide</a>.",
 							],
 						},
 					],
@@ -4266,7 +4266,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Undetected wallhack maintenance",
 							paragraphs: [
 								"ESP wallhack modules rebuild after BattlEye patches. Follow the <a href=\"/updates/\">Undetected Cheats Guide</a> and complete checkout for instant license delivery on Windows PC.",
-								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and <a href=\"/battleye-bypass/\">BattlEye Wartung</a>.",
+								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and the <a href=\"/battleye-bypass/\">BattlEye Wartung</a>.",
 								"Compare <a href=\"/pricing/\">Shop</a> or continue to the <a href=\"/deadside-esp/\">ESP- und Wallhack-Guide</a> landing page.",
 							],
 						},
@@ -4341,7 +4341,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "No permanent bypass guarantee",
 							paragraphs: [
-								"BattlEye bypass in practice means timely maintenance. Read the undetected guide, <a href=\"/faq/\">FAQ</a>, and Updates log before every match.",
+								"BattlEye bypass in practice means timely maintenance. Read the <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a>, <a href=\"/faq/\">FAQ</a>, and <a href=\"/updates/\">Undetected Cheats Guide</a> log before every match.",
 								"Contact <a href=\"/support/\">Support</a> if activation fails immediately after a posted rebuild.",
 								"Buying for the first time? Compare <a href=\"/pricing/\">Shop</a> and finish <a href=\"/setup/\">Setup-Anleitung</a> only after <a href=\"/updates/\">Undetected Cheats Guide</a> shows a live build.",
 							],
@@ -4358,8 +4358,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "External architecture, stream proofing, and patch-day checklist",
 							paragraphs: [
 								"Deadside Cheats bündelt ESP wallhack, 2D radar und deadside aimbot als undetected Paket für Deadside auf Windows PC. wie BattlEye Updates für Deadside Cheats gehandhabt werden",
-								"Patch-day checklist: (1) read <a href=\"/updates/\">Undetected Cheats Guide</a>, (2) confirm BattlEye notes on <a href=\"/battleye-bypass/\">BattlEye Wartung</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye reality blog</a> · <a href=\"/deadside-cheats/\">Deadside Cheats Übersicht</a>.",
+								"Patch-day checklist: (1) read <a href=\"/updates/\">Undetected Cheats Guide</a>, (2) confirm BattlEye notes on the <a href=\"/battleye-bypass/\">BattlEye Wartung</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
+								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye maintenance blog</a> · <a href=\"/deadside-cheats/\">Deadside Cheats Übersicht</a>.",
 							],
 						},
 					],
@@ -5420,7 +5420,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Step one: open <a href=\"/updates/\">Guia de cheats indetectáveis</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">Manutenção BattlEye</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/deadside-battleye-bypass/\">battleye bypass</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a>.",
+								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected Deadside cheats FAQ</a> · <a href=\"/faq/deadside-battleye-bypass/\">BattlEye bypass FAQ</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">Deadside cheats buyers guide</a>.",
 							],
 						},
 					],
@@ -5457,7 +5457,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Undetected wallhack maintenance",
 							paragraphs: [
 								"ESP wallhack modules rebuild after BattlEye patches. Follow the <a href=\"/updates/\">Guia de cheats indetectáveis</a> and complete checkout for instant license delivery on Windows PC.",
-								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and <a href=\"/battleye-bypass/\">Manutenção BattlEye</a>.",
+								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and the <a href=\"/battleye-bypass/\">Manutenção BattlEye</a>.",
 								"Compare <a href=\"/pricing/\">Loja</a> or continue to the <a href=\"/deadside-esp/\">Guia ESP e wallhack</a> landing page.",
 							],
 						},
@@ -5532,7 +5532,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "No permanent bypass guarantee",
 							paragraphs: [
-								"BattlEye bypass in practice means timely maintenance. Read the undetected guide, <a href=\"/faq/\">FAQ</a>, and Updates log before every match.",
+								"BattlEye bypass in practice means timely maintenance. Read the <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a>, <a href=\"/faq/\">FAQ</a>, and <a href=\"/updates/\">Guia de cheats indetectáveis</a> log before every match.",
 								"Contact <a href=\"/support/\">Suporte</a> if activation fails immediately after a posted rebuild.",
 								"Buying for the first time? Compare <a href=\"/pricing/\">Loja</a> and finish <a href=\"/setup/\">Guia de instalação</a> only after <a href=\"/updates/\">Guia de cheats indetectáveis</a> shows a live build.",
 							],
@@ -5549,8 +5549,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "External architecture, stream proofing, and patch-day checklist",
 							paragraphs: [
 								"Deadside Cheats reúne ESP wallhack, 2D radar e deadside aimbot indetectáveis para Deadside no PC Windows. como as atualizações BattlEye são tratadas para Deadside cheats",
-								"Patch-day checklist: (1) read <a href=\"/updates/\">Guia de cheats indetectáveis</a>, (2) confirm BattlEye notes on <a href=\"/battleye-bypass/\">Manutenção BattlEye</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye reality blog</a> · <a href=\"/deadside-cheats/\">Visão geral Deadside Cheats</a>.",
+								"Patch-day checklist: (1) read <a href=\"/updates/\">Guia de cheats indetectáveis</a>, (2) confirm BattlEye notes on the <a href=\"/battleye-bypass/\">Manutenção BattlEye</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
+								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye maintenance blog</a> · <a href=\"/deadside-cheats/\">Visão geral Deadside Cheats</a>.",
 							],
 						},
 					],
@@ -6611,7 +6611,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Step one: open <a href=\"/updates/\">Guida cheat indetectable</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">Manutenzione BattlEye</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/deadside-battleye-bypass/\">battleye bypass</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a>.",
+								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected Deadside cheats FAQ</a> · <a href=\"/faq/deadside-battleye-bypass/\">BattlEye bypass FAQ</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">Deadside cheats buyers guide</a>.",
 							],
 						},
 					],
@@ -6648,7 +6648,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Undetected wallhack maintenance",
 							paragraphs: [
 								"ESP wallhack modules rebuild after BattlEye patches. Follow the <a href=\"/updates/\">Guida cheat indetectable</a> and complete checkout for instant license delivery on Windows PC.",
-								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and <a href=\"/battleye-bypass/\">Manutenzione BattlEye</a>.",
+								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and the <a href=\"/battleye-bypass/\">Manutenzione BattlEye</a>.",
 								"Compare <a href=\"/pricing/\">Negozio</a> or continue to the <a href=\"/deadside-esp/\">Guida ESP e wallhack</a> landing page.",
 							],
 						},
@@ -6723,7 +6723,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "No permanent bypass guarantee",
 							paragraphs: [
-								"BattlEye bypass in practice means timely maintenance. Read the undetected guide, <a href=\"/faq/\">FAQ</a>, and Updates log before every match.",
+								"BattlEye bypass in practice means timely maintenance. Read the <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a>, <a href=\"/faq/\">FAQ</a>, and <a href=\"/updates/\">Guida cheat indetectable</a> log before every match.",
 								"Contact <a href=\"/support/\">Supporto</a> if activation fails immediately after a posted rebuild.",
 								"Buying for the first time? Compare <a href=\"/pricing/\">Negozio</a> and finish <a href=\"/setup/\">Guida installazione</a> only after <a href=\"/updates/\">Guida cheat indetectable</a> shows a live build.",
 							],
@@ -6740,8 +6740,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "External architecture, stream proofing, and patch-day checklist",
 							paragraphs: [
 								"Deadside Cheats unisce ESP wallhack, 2D radar e deadside aimbot indetectable per Deadside su PC Windows. come vengono gestiti gli aggiornamenti BattlEye per Deadside cheats",
-								"Patch-day checklist: (1) read <a href=\"/updates/\">Guida cheat indetectable</a>, (2) confirm BattlEye notes on <a href=\"/battleye-bypass/\">Manutenzione BattlEye</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye reality blog</a> · <a href=\"/deadside-cheats/\">Panoramica Deadside Cheats</a>.",
+								"Patch-day checklist: (1) read <a href=\"/updates/\">Guida cheat indetectable</a>, (2) confirm BattlEye notes on the <a href=\"/battleye-bypass/\">Manutenzione BattlEye</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
+								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye maintenance blog</a> · <a href=\"/deadside-cheats/\">Panoramica Deadside Cheats</a>.",
 							],
 						},
 					],
@@ -7802,7 +7802,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Step one: open <a href=\"/updates/\">Undetected cheats gids</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">BattlEye onderhoud</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/deadside-battleye-bypass/\">battleye bypass</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a>.",
+								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected Deadside cheats FAQ</a> · <a href=\"/faq/deadside-battleye-bypass/\">BattlEye bypass FAQ</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">Deadside cheats buyers guide</a>.",
 							],
 						},
 					],
@@ -7839,7 +7839,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Undetected wallhack maintenance",
 							paragraphs: [
 								"ESP wallhack modules rebuild after BattlEye patches. Follow the <a href=\"/updates/\">Undetected cheats gids</a> and complete checkout for instant license delivery on Windows PC.",
-								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and <a href=\"/battleye-bypass/\">BattlEye onderhoud</a>.",
+								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and the <a href=\"/battleye-bypass/\">BattlEye onderhoud</a>.",
 								"Compare <a href=\"/pricing/\">Winkel</a> or continue to the <a href=\"/deadside-esp/\">ESP- en wallhack-gids</a> landing page.",
 							],
 						},
@@ -7914,7 +7914,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "No permanent bypass guarantee",
 							paragraphs: [
-								"BattlEye bypass in practice means timely maintenance. Read the undetected guide, <a href=\"/faq/\">FAQ</a>, and Updates log before every match.",
+								"BattlEye bypass in practice means timely maintenance. Read the <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a>, <a href=\"/faq/\">FAQ</a>, and <a href=\"/updates/\">Undetected cheats gids</a> log before every match.",
 								"Contact <a href=\"/support/\">Support</a> if activation fails immediately after a posted rebuild.",
 								"Buying for the first time? Compare <a href=\"/pricing/\">Winkel</a> and finish <a href=\"/setup/\">Installatiegids</a> only after <a href=\"/updates/\">Undetected cheats gids</a> shows a live build.",
 							],
@@ -7931,8 +7931,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "External architecture, stream proofing, and patch-day checklist",
 							paragraphs: [
 								"Deadside Cheats bundelt ESP wallhack, 2D radar en deadside aimbot als undetected pakket voor Deadside op Windows PC. hoe BattlEye updates worden afgehandeld voor Deadside cheats",
-								"Patch-day checklist: (1) read <a href=\"/updates/\">Undetected cheats gids</a>, (2) confirm BattlEye notes on <a href=\"/battleye-bypass/\">BattlEye onderhoud</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye reality blog</a> · <a href=\"/deadside-cheats/\">Deadside Cheats overzicht</a>.",
+								"Patch-day checklist: (1) read <a href=\"/updates/\">Undetected cheats gids</a>, (2) confirm BattlEye notes on the <a href=\"/battleye-bypass/\">BattlEye onderhoud</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
+								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye maintenance blog</a> · <a href=\"/deadside-cheats/\">Deadside Cheats overzicht</a>.",
 							],
 						},
 					],
@@ -8993,7 +8993,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Step one: open <a href=\"/updates/\">Przewodnik cheatów undetected</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">Konserwacja BattlEye</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/deadside-battleye-bypass/\">battleye bypass</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a>.",
+								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected Deadside cheats FAQ</a> · <a href=\"/faq/deadside-battleye-bypass/\">BattlEye bypass FAQ</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">Deadside cheats buyers guide</a>.",
 							],
 						},
 					],
@@ -9030,7 +9030,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Undetected wallhack maintenance",
 							paragraphs: [
 								"ESP wallhack modules rebuild after BattlEye patches. Follow the <a href=\"/updates/\">Przewodnik cheatów undetected</a> and complete checkout for instant license delivery on Windows PC.",
-								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and <a href=\"/battleye-bypass/\">Konserwacja BattlEye</a>.",
+								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and the <a href=\"/battleye-bypass/\">Konserwacja BattlEye</a>.",
 								"Compare <a href=\"/pricing/\">Sklep</a> or continue to the <a href=\"/deadside-esp/\">Przewodnik ESP i wallhack</a> landing page.",
 							],
 						},
@@ -9105,7 +9105,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "No permanent bypass guarantee",
 							paragraphs: [
-								"BattlEye bypass in practice means timely maintenance. Read the undetected guide, <a href=\"/faq/\">FAQ</a>, and Updates log before every match.",
+								"BattlEye bypass in practice means timely maintenance. Read the <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a>, <a href=\"/faq/\">FAQ</a>, and <a href=\"/updates/\">Przewodnik cheatów undetected</a> log before every match.",
 								"Contact <a href=\"/support/\">Wsparcie</a> if activation fails immediately after a posted rebuild.",
 								"Buying for the first time? Compare <a href=\"/pricing/\">Sklep</a> and finish <a href=\"/setup/\">Przewodnik instalacji</a> only after <a href=\"/updates/\">Przewodnik cheatów undetected</a> shows a live build.",
 							],
@@ -9122,8 +9122,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "External architecture, stream proofing, and patch-day checklist",
 							paragraphs: [
 								"Deadside Cheats łączy ESP wallhack, 2D radar i deadside aimbot jako pakiet undetected dla Deadside na PC Windows. jak obsługiwane są aktualizacje BattlEye dla Deadside cheats",
-								"Patch-day checklist: (1) read <a href=\"/updates/\">Przewodnik cheatów undetected</a>, (2) confirm BattlEye notes on <a href=\"/battleye-bypass/\">Konserwacja BattlEye</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye reality blog</a> · <a href=\"/deadside-cheats/\">Przegląd Deadside Cheats</a>.",
+								"Patch-day checklist: (1) read <a href=\"/updates/\">Przewodnik cheatów undetected</a>, (2) confirm BattlEye notes on the <a href=\"/battleye-bypass/\">Konserwacja BattlEye</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
+								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye maintenance blog</a> · <a href=\"/deadside-cheats/\">Przegląd Deadside Cheats</a>.",
 							],
 						},
 					],
@@ -10184,7 +10184,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Step one: open <a href=\"/updates/\">Гайд undetected читов</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">Обслуживание BattlEye</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/deadside-battleye-bypass/\">battleye bypass</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a>.",
+								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected Deadside cheats FAQ</a> · <a href=\"/faq/deadside-battleye-bypass/\">BattlEye bypass FAQ</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">Deadside cheats buyers guide</a>.",
 							],
 						},
 					],
@@ -10221,7 +10221,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Undetected wallhack maintenance",
 							paragraphs: [
 								"ESP wallhack modules rebuild after BattlEye patches. Follow the <a href=\"/updates/\">Гайд undetected читов</a> and complete checkout for instant license delivery on Windows PC.",
-								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and <a href=\"/battleye-bypass/\">Обслуживание BattlEye</a>.",
+								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and the <a href=\"/battleye-bypass/\">Обслуживание BattlEye</a>.",
 								"Compare <a href=\"/pricing/\">Магазин</a> or continue to the <a href=\"/deadside-esp/\">Гайд ESP и wallhack</a> landing page.",
 							],
 						},
@@ -10296,7 +10296,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "No permanent bypass guarantee",
 							paragraphs: [
-								"BattlEye bypass in practice means timely maintenance. Read the undetected guide, <a href=\"/faq/\">FAQ</a>, and Updates log before every match.",
+								"BattlEye bypass in practice means timely maintenance. Read the <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a>, <a href=\"/faq/\">FAQ</a>, and <a href=\"/updates/\">Гайд undetected читов</a> log before every match.",
 								"Contact <a href=\"/support/\">Поддержка</a> if activation fails immediately after a posted rebuild.",
 								"Buying for the first time? Compare <a href=\"/pricing/\">Магазин</a> and finish <a href=\"/setup/\">Гайд по установке</a> only after <a href=\"/updates/\">Гайд undetected читов</a> shows a live build.",
 							],
@@ -10313,8 +10313,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "External architecture, stream proofing, and patch-day checklist",
 							paragraphs: [
 								"Deadside Cheats объединяет ESP wallhack, 2D radar и deadside aimbot в undetected пакете для Deadside на Windows PC. как обрабатываются обновления BattlEye для Deadside cheats",
-								"Patch-day checklist: (1) read <a href=\"/updates/\">Гайд undetected читов</a>, (2) confirm BattlEye notes on <a href=\"/battleye-bypass/\">Обслуживание BattlEye</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye reality blog</a> · <a href=\"/deadside-cheats/\">Обзор Deadside Cheats</a>.",
+								"Patch-day checklist: (1) read <a href=\"/updates/\">Гайд undetected читов</a>, (2) confirm BattlEye notes on the <a href=\"/battleye-bypass/\">Обслуживание BattlEye</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
+								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye maintenance blog</a> · <a href=\"/deadside-cheats/\">Обзор Deadside Cheats</a>.",
 							],
 						},
 					],
@@ -11375,7 +11375,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Step one: open <a href=\"/updates/\">Undetected hile rehberi</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">BattlEye bakımı</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/deadside-battleye-bypass/\">battleye bypass</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a>.",
+								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected Deadside cheats FAQ</a> · <a href=\"/faq/deadside-battleye-bypass/\">BattlEye bypass FAQ</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">Deadside cheats buyers guide</a>.",
 							],
 						},
 					],
@@ -11412,7 +11412,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Undetected wallhack maintenance",
 							paragraphs: [
 								"ESP wallhack modules rebuild after BattlEye patches. Follow the <a href=\"/updates/\">Undetected hile rehberi</a> and complete checkout for instant license delivery on Windows PC.",
-								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and <a href=\"/battleye-bypass/\">BattlEye bakımı</a>.",
+								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and the <a href=\"/battleye-bypass/\">BattlEye bakımı</a>.",
 								"Compare <a href=\"/pricing/\">Mağaza</a> or continue to the <a href=\"/deadside-esp/\">ESP ve wallhack rehberi</a> landing page.",
 							],
 						},
@@ -11487,7 +11487,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "No permanent bypass guarantee",
 							paragraphs: [
-								"BattlEye bypass in practice means timely maintenance. Read the undetected guide, <a href=\"/faq/\">SSS</a>, and Updates log before every match.",
+								"BattlEye bypass in practice means timely maintenance. Read the <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a>, <a href=\"/faq/\">SSS</a>, and <a href=\"/updates/\">Undetected hile rehberi</a> log before every match.",
 								"Contact <a href=\"/support/\">Destek</a> if activation fails immediately after a posted rebuild.",
 								"Buying for the first time? Compare <a href=\"/pricing/\">Mağaza</a> and finish <a href=\"/setup/\">Kurulum rehberi</a> only after <a href=\"/updates/\">Undetected hile rehberi</a> shows a live build.",
 							],
@@ -11504,8 +11504,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "External architecture, stream proofing, and patch-day checklist",
 							paragraphs: [
 								"Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, 2D radar ve deadside aimbot undetected paket sunar. Deadside cheats için BattlEye güncellemelerinin nasıl yönetildiği",
-								"Patch-day checklist: (1) read <a href=\"/updates/\">Undetected hile rehberi</a>, (2) confirm BattlEye notes on <a href=\"/battleye-bypass/\">BattlEye bakımı</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye reality blog</a> · <a href=\"/deadside-cheats/\">Deadside Cheats genel bakış</a>.",
+								"Patch-day checklist: (1) read <a href=\"/updates/\">Undetected hile rehberi</a>, (2) confirm BattlEye notes on the <a href=\"/battleye-bypass/\">BattlEye bakımı</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
+								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye maintenance blog</a> · <a href=\"/deadside-cheats/\">Deadside Cheats genel bakış</a>.",
 							],
 						},
 					],
@@ -12566,7 +12566,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Step one: open <a href=\"/updates/\">دليل الغش غير المكتشف</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">صيانة BattlEye</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/deadside-battleye-bypass/\">battleye bypass</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a>.",
+								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected Deadside cheats FAQ</a> · <a href=\"/faq/deadside-battleye-bypass/\">BattlEye bypass FAQ</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">Deadside cheats buyers guide</a>.",
 							],
 						},
 					],
@@ -12603,7 +12603,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Undetected wallhack maintenance",
 							paragraphs: [
 								"ESP wallhack modules rebuild after BattlEye patches. Follow the <a href=\"/updates/\">دليل الغش غير المكتشف</a> and complete checkout for instant license delivery on Windows PC.",
-								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and <a href=\"/battleye-bypass/\">صيانة BattlEye</a>.",
+								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and the <a href=\"/battleye-bypass/\">صيانة BattlEye</a>.",
 								"Compare <a href=\"/pricing/\">المتجر</a> or continue to the <a href=\"/deadside-esp/\">دليل ESP وWallhack</a> landing page.",
 							],
 						},
@@ -12678,7 +12678,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "No permanent bypass guarantee",
 							paragraphs: [
-								"BattlEye bypass in practice means timely maintenance. Read the undetected guide, <a href=\"/faq/\">الأسئلة الشائعة</a>, and Updates log before every match.",
+								"BattlEye bypass in practice means timely maintenance. Read the <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a>, <a href=\"/faq/\">الأسئلة الشائعة</a>, and <a href=\"/updates/\">دليل الغش غير المكتشف</a> log before every match.",
 								"Contact <a href=\"/support/\">الدعم</a> if activation fails immediately after a posted rebuild.",
 								"Buying for the first time? Compare <a href=\"/pricing/\">المتجر</a> and finish <a href=\"/setup/\">دليل التثبيت</a> only after <a href=\"/updates/\">دليل الغش غير المكتشف</a> shows a live build.",
 							],
@@ -12695,8 +12695,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "External architecture, stream proofing, and patch-day checklist",
 							paragraphs: [
 								"Deadside Cheats يجمع ESP wallhack و2D radar وdeadside aimbot غير مكتشف لـ Deadside على Windows PC. كيف تُدار تحديثات BattlEye لـ Deadside cheats",
-								"Patch-day checklist: (1) read <a href=\"/updates/\">دليل الغش غير المكتشف</a>, (2) confirm BattlEye notes on <a href=\"/battleye-bypass/\">صيانة BattlEye</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye reality blog</a> · <a href=\"/deadside-cheats/\">نظرة عامة على Deadside Cheats</a>.",
+								"Patch-day checklist: (1) read <a href=\"/updates/\">دليل الغش غير المكتشف</a>, (2) confirm BattlEye notes on the <a href=\"/battleye-bypass/\">صيانة BattlEye</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
+								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye maintenance blog</a> · <a href=\"/deadside-cheats/\">نظرة عامة على Deadside Cheats</a>.",
 							],
 						},
 					],
@@ -13757,7 +13757,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Step one: open <a href=\"/updates/\">Undetectedチートガイド</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">BattlEyeメンテナンス</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/deadside-battleye-bypass/\">battleye bypass</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a>.",
+								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected Deadside cheats FAQ</a> · <a href=\"/faq/deadside-battleye-bypass/\">BattlEye bypass FAQ</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">Deadside cheats buyers guide</a>.",
 							],
 						},
 					],
@@ -13794,7 +13794,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Undetected wallhack maintenance",
 							paragraphs: [
 								"ESP wallhack modules rebuild after BattlEye patches. Follow the <a href=\"/updates/\">Undetectedチートガイド</a> and complete checkout for instant license delivery on Windows PC.",
-								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and <a href=\"/battleye-bypass/\">BattlEyeメンテナンス</a>.",
+								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and the <a href=\"/battleye-bypass/\">BattlEyeメンテナンス</a>.",
 								"Compare <a href=\"/pricing/\">ストア</a> or continue to the <a href=\"/deadside-esp/\">ESP・Wallhackガイド</a> landing page.",
 							],
 						},
@@ -13869,7 +13869,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "No permanent bypass guarantee",
 							paragraphs: [
-								"BattlEye bypass in practice means timely maintenance. Read the undetected guide, <a href=\"/faq/\">FAQ</a>, and Updates log before every match.",
+								"BattlEye bypass in practice means timely maintenance. Read the <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a>, <a href=\"/faq/\">FAQ</a>, and <a href=\"/updates/\">Undetectedチートガイド</a> log before every match.",
 								"Contact <a href=\"/support/\">サポート</a> if activation fails immediately after a posted rebuild.",
 								"Buying for the first time? Compare <a href=\"/pricing/\">ストア</a> and finish <a href=\"/setup/\">セットアップガイド</a> only after <a href=\"/updates/\">Undetectedチートガイド</a> shows a live build.",
 							],
@@ -13886,8 +13886,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "External architecture, stream proofing, and patch-day checklist",
 							paragraphs: [
 								"Deadside CheatsはDeadside向けWindows PC用ESP wallhack、2D radar、deadside aimbotのundetectedパッケージです。Deadside cheats向けBattlEye更新の対応方法",
-								"Patch-day checklist: (1) read <a href=\"/updates/\">Undetectedチートガイド</a>, (2) confirm BattlEye notes on <a href=\"/battleye-bypass/\">BattlEyeメンテナンス</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye reality blog</a> · <a href=\"/deadside-cheats/\">Deadside Cheats概要</a>.",
+								"Patch-day checklist: (1) read <a href=\"/updates/\">Undetectedチートガイド</a>, (2) confirm BattlEye notes on the <a href=\"/battleye-bypass/\">BattlEyeメンテナンス</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
+								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye maintenance blog</a> · <a href=\"/deadside-cheats/\">Deadside Cheats概要</a>.",
 							],
 						},
 					],
@@ -14948,7 +14948,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Step one: open <a href=\"/updates/\">Undetected 치트 가이드</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">BattlEye 유지보수</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/deadside-battleye-bypass/\">battleye bypass</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a>.",
+								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected Deadside cheats FAQ</a> · <a href=\"/faq/deadside-battleye-bypass/\">BattlEye bypass FAQ</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">Deadside cheats buyers guide</a>.",
 							],
 						},
 					],
@@ -14985,7 +14985,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Undetected wallhack maintenance",
 							paragraphs: [
 								"ESP wallhack modules rebuild after BattlEye patches. Follow the <a href=\"/updates/\">Undetected 치트 가이드</a> and complete checkout for instant license delivery on Windows PC.",
-								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and <a href=\"/battleye-bypass/\">BattlEye 유지보수</a>.",
+								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and the <a href=\"/battleye-bypass/\">BattlEye 유지보수</a>.",
 								"Compare <a href=\"/pricing/\">스토어</a> or continue to the <a href=\"/deadside-esp/\">ESP 및 wallhack 가이드</a> landing page.",
 							],
 						},
@@ -15060,7 +15060,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "No permanent bypass guarantee",
 							paragraphs: [
-								"BattlEye bypass in practice means timely maintenance. Read the undetected guide, <a href=\"/faq/\">FAQ</a>, and Updates log before every match.",
+								"BattlEye bypass in practice means timely maintenance. Read the <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a>, <a href=\"/faq/\">FAQ</a>, and <a href=\"/updates/\">Undetected 치트 가이드</a> log before every match.",
 								"Contact <a href=\"/support/\">지원</a> if activation fails immediately after a posted rebuild.",
 								"Buying for the first time? Compare <a href=\"/pricing/\">스토어</a> and finish <a href=\"/setup/\">설치 가이드</a> only after <a href=\"/updates/\">Undetected 치트 가이드</a> shows a live build.",
 							],
@@ -15077,8 +15077,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "External architecture, stream proofing, and patch-day checklist",
 							paragraphs: [
 								"Deadside Cheats는 Deadside Windows PC용 ESP wallhack, 2D radar, deadside aimbot undetected 패키지입니다. Deadside cheats용 BattlEye 업데이트 처리 방법",
-								"Patch-day checklist: (1) read <a href=\"/updates/\">Undetected 치트 가이드</a>, (2) confirm BattlEye notes on <a href=\"/battleye-bypass/\">BattlEye 유지보수</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye reality blog</a> · <a href=\"/deadside-cheats/\">Deadside Cheats 개요</a>.",
+								"Patch-day checklist: (1) read <a href=\"/updates/\">Undetected 치트 가이드</a>, (2) confirm BattlEye notes on the <a href=\"/battleye-bypass/\">BattlEye 유지보수</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
+								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye maintenance blog</a> · <a href=\"/deadside-cheats/\">Deadside Cheats 개요</a>.",
 							],
 						},
 					],
@@ -16140,7 +16140,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Step one: open <a href=\"/updates/\">Undetected作弊指南</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">BattlEye维护</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/deadside-battleye-bypass/\">battleye bypass</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a>.",
+								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected Deadside cheats FAQ</a> · <a href=\"/faq/deadside-battleye-bypass/\">BattlEye bypass FAQ</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">Deadside cheats buyers guide</a>.",
 							],
 						},
 					],
@@ -16177,7 +16177,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Undetected wallhack maintenance",
 							paragraphs: [
 								"ESP wallhack modules rebuild after BattlEye patches. Follow the <a href=\"/updates/\">Undetected作弊指南</a> and complete checkout for instant license delivery on Windows PC.",
-								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and <a href=\"/battleye-bypass/\">BattlEye维护</a>.",
+								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and the <a href=\"/battleye-bypass/\">BattlEye维护</a>.",
 								"Compare <a href=\"/pricing/\">商店</a> or continue to the <a href=\"/deadside-esp/\">ESP和透视指南</a> landing page.",
 							],
 						},
@@ -16252,7 +16252,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "No permanent bypass guarantee",
 							paragraphs: [
-								"BattlEye bypass in practice means timely maintenance. Read the undetected guide, <a href=\"/faq/\">常见问题</a>, and Updates log before every match.",
+								"BattlEye bypass in practice means timely maintenance. Read the <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a>, <a href=\"/faq/\">常见问题</a>, and <a href=\"/updates/\">Undetected作弊指南</a> log before every match.",
 								"Contact <a href=\"/support/\">支持</a> if activation fails immediately after a posted rebuild.",
 								"Buying for the first time? Compare <a href=\"/pricing/\">商店</a> and finish <a href=\"/setup/\">安装指南</a> only after <a href=\"/updates/\">Undetected作弊指南</a> shows a live build.",
 							],
@@ -16269,8 +16269,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "External architecture, stream proofing, and patch-day checklist",
 							paragraphs: [
 								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。Deadside cheats的BattlEye更新处理方式",
-								"Patch-day checklist: (1) read <a href=\"/updates/\">Undetected作弊指南</a>, (2) confirm BattlEye notes on <a href=\"/battleye-bypass/\">BattlEye维护</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye reality blog</a> · <a href=\"/deadside-cheats/\">Deadside Cheats概览</a>.",
+								"Patch-day checklist: (1) read <a href=\"/updates/\">Undetected作弊指南</a>, (2) confirm BattlEye notes on the <a href=\"/battleye-bypass/\">BattlEye维护</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
+								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye maintenance blog</a> · <a href=\"/deadside-cheats/\">Deadside Cheats概览</a>.",
 							],
 						},
 					],
@@ -17331,7 +17331,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Step one: open <a href=\"/updates/\">Undetected cheats गाइड</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">BattlEye रखरखाव</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/deadside-battleye-bypass/\">battleye bypass</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a>.",
+								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected Deadside cheats FAQ</a> · <a href=\"/faq/deadside-battleye-bypass/\">BattlEye bypass FAQ</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">Deadside cheats buyers guide</a>.",
 							],
 						},
 					],
@@ -17368,7 +17368,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Undetected wallhack maintenance",
 							paragraphs: [
 								"ESP wallhack modules rebuild after BattlEye patches. Follow the <a href=\"/updates/\">Undetected cheats गाइड</a> and complete checkout for instant license delivery on Windows PC.",
-								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and <a href=\"/battleye-bypass/\">BattlEye रखरखाव</a>.",
+								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and the <a href=\"/battleye-bypass/\">BattlEye रखरखाव</a>.",
 								"Compare <a href=\"/pricing/\">स्टोर</a> or continue to the <a href=\"/deadside-esp/\">ESP और wallhack गाइड</a> landing page.",
 							],
 						},
@@ -17443,7 +17443,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "No permanent bypass guarantee",
 							paragraphs: [
-								"BattlEye bypass in practice means timely maintenance. Read the undetected guide, <a href=\"/faq/\">FAQ</a>, and Updates log before every match.",
+								"BattlEye bypass in practice means timely maintenance. Read the <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a>, <a href=\"/faq/\">FAQ</a>, and <a href=\"/updates/\">Undetected cheats गाइड</a> log before every match.",
 								"Contact <a href=\"/support/\">सहायता</a> if activation fails immediately after a posted rebuild.",
 								"Buying for the first time? Compare <a href=\"/pricing/\">स्टोर</a> and finish <a href=\"/setup/\">सेटअप गाइड</a> only after <a href=\"/updates/\">Undetected cheats गाइड</a> shows a live build.",
 							],
@@ -17460,8 +17460,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "External architecture, stream proofing, and patch-day checklist",
 							paragraphs: [
 								"Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, 2D radar और deadside aimbot undetected पैकेज देता है। Deadside cheats के लिए BattlEye updates कैसे handle होते हैं",
-								"Patch-day checklist: (1) read <a href=\"/updates/\">Undetected cheats गाइड</a>, (2) confirm BattlEye notes on <a href=\"/battleye-bypass/\">BattlEye रखरखाव</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye reality blog</a> · <a href=\"/deadside-cheats/\">Deadside Cheats अवलोकन</a>.",
+								"Patch-day checklist: (1) read <a href=\"/updates/\">Undetected cheats गाइड</a>, (2) confirm BattlEye notes on the <a href=\"/battleye-bypass/\">BattlEye रखरखाव</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
+								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye maintenance blog</a> · <a href=\"/deadside-cheats/\">Deadside Cheats अवलोकन</a>.",
 							],
 						},
 					],
@@ -18522,7 +18522,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Step one: open <a href=\"/updates/\">Panduan cheat undetected</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">Pemeliharaan BattlEye</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/deadside-battleye-bypass/\">battleye bypass</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a>.",
+								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected Deadside cheats FAQ</a> · <a href=\"/faq/deadside-battleye-bypass/\">BattlEye bypass FAQ</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">Deadside cheats buyers guide</a>.",
 							],
 						},
 					],
@@ -18559,7 +18559,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Undetected wallhack maintenance",
 							paragraphs: [
 								"ESP wallhack modules rebuild after BattlEye patches. Follow the <a href=\"/updates/\">Panduan cheat undetected</a> and complete checkout for instant license delivery on Windows PC.",
-								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and <a href=\"/battleye-bypass/\">Pemeliharaan BattlEye</a>.",
+								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and the <a href=\"/battleye-bypass/\">Pemeliharaan BattlEye</a>.",
 								"Compare <a href=\"/pricing/\">Toko</a> or continue to the <a href=\"/deadside-esp/\">Panduan ESP & wallhack</a> landing page.",
 							],
 						},
@@ -18634,7 +18634,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "No permanent bypass guarantee",
 							paragraphs: [
-								"BattlEye bypass in practice means timely maintenance. Read the undetected guide, <a href=\"/faq/\">FAQ</a>, and Updates log before every match.",
+								"BattlEye bypass in practice means timely maintenance. Read the <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a>, <a href=\"/faq/\">FAQ</a>, and <a href=\"/updates/\">Panduan cheat undetected</a> log before every match.",
 								"Contact <a href=\"/support/\">Dukungan</a> if activation fails immediately after a posted rebuild.",
 								"Buying for the first time? Compare <a href=\"/pricing/\">Toko</a> and finish <a href=\"/setup/\">Panduan setup</a> only after <a href=\"/updates/\">Panduan cheat undetected</a> shows a live build.",
 							],
@@ -18651,8 +18651,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "External architecture, stream proofing, and patch-day checklist",
 							paragraphs: [
 								"Deadside Cheats menyediakan ESP wallhack, 2D radar, dan deadside aimbot undetected untuk Deadside di PC Windows. cara pembaruan BattlEye ditangani untuk Deadside cheats",
-								"Patch-day checklist: (1) read <a href=\"/updates/\">Panduan cheat undetected</a>, (2) confirm BattlEye notes on <a href=\"/battleye-bypass/\">Pemeliharaan BattlEye</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye reality blog</a> · <a href=\"/deadside-cheats/\">Ringkasan Deadside Cheats</a>.",
+								"Patch-day checklist: (1) read <a href=\"/updates/\">Panduan cheat undetected</a>, (2) confirm BattlEye notes on the <a href=\"/battleye-bypass/\">Pemeliharaan BattlEye</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
+								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye maintenance blog</a> · <a href=\"/deadside-cheats/\">Ringkasan Deadside Cheats</a>.",
 							],
 						},
 					],
@@ -19713,7 +19713,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Step one: open <a href=\"/updates/\">คู่มือ cheat undetected</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">การดูแล BattlEye</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/deadside-battleye-bypass/\">battleye bypass</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a>.",
+								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected Deadside cheats FAQ</a> · <a href=\"/faq/deadside-battleye-bypass/\">BattlEye bypass FAQ</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">Deadside cheats buyers guide</a>.",
 							],
 						},
 					],
@@ -19750,7 +19750,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Undetected wallhack maintenance",
 							paragraphs: [
 								"ESP wallhack modules rebuild after BattlEye patches. Follow the <a href=\"/updates/\">คู่มือ cheat undetected</a> and complete checkout for instant license delivery on Windows PC.",
-								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and <a href=\"/battleye-bypass/\">การดูแล BattlEye</a>.",
+								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and the <a href=\"/battleye-bypass/\">การดูแล BattlEye</a>.",
 								"Compare <a href=\"/pricing/\">ร้านค้า</a> or continue to the <a href=\"/deadside-esp/\">คู่มือ ESP และ wallhack</a> landing page.",
 							],
 						},
@@ -19825,7 +19825,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "No permanent bypass guarantee",
 							paragraphs: [
-								"BattlEye bypass in practice means timely maintenance. Read the undetected guide, <a href=\"/faq/\">FAQ</a>, and Updates log before every match.",
+								"BattlEye bypass in practice means timely maintenance. Read the <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a>, <a href=\"/faq/\">FAQ</a>, and <a href=\"/updates/\">คู่มือ cheat undetected</a> log before every match.",
 								"Contact <a href=\"/support/\">ฝ่ายสนับสนุน</a> if activation fails immediately after a posted rebuild.",
 								"Buying for the first time? Compare <a href=\"/pricing/\">ร้านค้า</a> and finish <a href=\"/setup/\">คู่มือติดตั้ง</a> only after <a href=\"/updates/\">คู่มือ cheat undetected</a> shows a live build.",
 							],
@@ -19842,8 +19842,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "External architecture, stream proofing, and patch-day checklist",
 							paragraphs: [
 								"Deadside Cheats รวม ESP wallhack, 2D radar และ deadside aimbot แบบ undetected สำหรับ Deadside บน Windows PC วิธีจัดการอัปเดต BattlEye สำหรับ Deadside cheats",
-								"Patch-day checklist: (1) read <a href=\"/updates/\">คู่มือ cheat undetected</a>, (2) confirm BattlEye notes on <a href=\"/battleye-bypass/\">การดูแล BattlEye</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye reality blog</a> · <a href=\"/deadside-cheats/\">ภาพรวม Deadside Cheats</a>.",
+								"Patch-day checklist: (1) read <a href=\"/updates/\">คู่มือ cheat undetected</a>, (2) confirm BattlEye notes on the <a href=\"/battleye-bypass/\">การดูแล BattlEye</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
+								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye maintenance blog</a> · <a href=\"/deadside-cheats/\">ภาพรวม Deadside Cheats</a>.",
 							],
 						},
 					],
@@ -20904,7 +20904,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Step one: open <a href=\"/updates/\">Hướng dẫn cheat undetected</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">Bảo trì BattlEye</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/deadside-battleye-bypass/\">battleye bypass</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a>.",
+								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected Deadside cheats FAQ</a> · <a href=\"/faq/deadside-battleye-bypass/\">BattlEye bypass FAQ</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">Deadside cheats buyers guide</a>.",
 							],
 						},
 					],
@@ -20941,7 +20941,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Undetected wallhack maintenance",
 							paragraphs: [
 								"ESP wallhack modules rebuild after BattlEye patches. Follow the <a href=\"/updates/\">Hướng dẫn cheat undetected</a> and complete checkout for instant license delivery on Windows PC.",
-								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and <a href=\"/battleye-bypass/\">Bảo trì BattlEye</a>.",
+								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and the <a href=\"/battleye-bypass/\">Bảo trì BattlEye</a>.",
 								"Compare <a href=\"/pricing/\">Cửa hàng</a> or continue to the <a href=\"/deadside-esp/\">Hướng dẫn ESP & wallhack</a> landing page.",
 							],
 						},
@@ -21016,7 +21016,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "No permanent bypass guarantee",
 							paragraphs: [
-								"BattlEye bypass in practice means timely maintenance. Read the undetected guide, <a href=\"/faq/\">FAQ</a>, and Updates log before every match.",
+								"BattlEye bypass in practice means timely maintenance. Read the <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a>, <a href=\"/faq/\">FAQ</a>, and <a href=\"/updates/\">Hướng dẫn cheat undetected</a> log before every match.",
 								"Contact <a href=\"/support/\">Hỗ trợ</a> if activation fails immediately after a posted rebuild.",
 								"Buying for the first time? Compare <a href=\"/pricing/\">Cửa hàng</a> and finish <a href=\"/setup/\">Hướng dẫn cài đặt</a> only after <a href=\"/updates/\">Hướng dẫn cheat undetected</a> shows a live build.",
 							],
@@ -21033,8 +21033,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "External architecture, stream proofing, and patch-day checklist",
 							paragraphs: [
 								"Deadside Cheats cung cấp ESP wallhack, 2D radar và deadside aimbot undetected cho Deadside trên PC Windows. cách xử lý cập nhật BattlEye cho Deadside cheats",
-								"Patch-day checklist: (1) read <a href=\"/updates/\">Hướng dẫn cheat undetected</a>, (2) confirm BattlEye notes on <a href=\"/battleye-bypass/\">Bảo trì BattlEye</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye reality blog</a> · <a href=\"/deadside-cheats/\">Tổng quan Deadside Cheats</a>.",
+								"Patch-day checklist: (1) read <a href=\"/updates/\">Hướng dẫn cheat undetected</a>, (2) confirm BattlEye notes on the <a href=\"/battleye-bypass/\">Bảo trì BattlEye</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
+								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye maintenance blog</a> · <a href=\"/deadside-cheats/\">Tổng quan Deadside Cheats</a>.",
 							],
 						},
 					],
@@ -22095,7 +22095,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Step one: open <a href=\"/updates/\">Гайд undetected чітів</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">Обслуговування BattlEye</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/deadside-battleye-bypass/\">battleye bypass</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a>.",
+								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected Deadside cheats FAQ</a> · <a href=\"/faq/deadside-battleye-bypass/\">BattlEye bypass FAQ</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">Deadside cheats buyers guide</a>.",
 							],
 						},
 					],
@@ -22132,7 +22132,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Undetected wallhack maintenance",
 							paragraphs: [
 								"ESP wallhack modules rebuild after BattlEye patches. Follow the <a href=\"/updates/\">Гайд undetected чітів</a> and complete checkout for instant license delivery on Windows PC.",
-								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and <a href=\"/battleye-bypass/\">Обслуговування BattlEye</a>.",
+								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and the <a href=\"/battleye-bypass/\">Обслуговування BattlEye</a>.",
 								"Compare <a href=\"/pricing/\">Магазин</a> or continue to the <a href=\"/deadside-esp/\">Гайд ESP і wallhack</a> landing page.",
 							],
 						},
@@ -22207,7 +22207,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "No permanent bypass guarantee",
 							paragraphs: [
-								"BattlEye bypass in practice means timely maintenance. Read the undetected guide, <a href=\"/faq/\">FAQ</a>, and Updates log before every match.",
+								"BattlEye bypass in practice means timely maintenance. Read the <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a>, <a href=\"/faq/\">FAQ</a>, and <a href=\"/updates/\">Гайд undetected чітів</a> log before every match.",
 								"Contact <a href=\"/support/\">Підтримка</a> if activation fails immediately after a posted rebuild.",
 								"Buying for the first time? Compare <a href=\"/pricing/\">Магазин</a> and finish <a href=\"/setup/\">Гайд з встановлення</a> only after <a href=\"/updates/\">Гайд undetected чітів</a> shows a live build.",
 							],
@@ -22224,8 +22224,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "External architecture, stream proofing, and patch-day checklist",
 							paragraphs: [
 								"Deadside Cheats об'єднує ESP wallhack, 2D radar і deadside aimbot у undetected пакеті для Deadside на Windows PC. як обробляються оновлення BattlEye для Deadside cheats",
-								"Patch-day checklist: (1) read <a href=\"/updates/\">Гайд undetected чітів</a>, (2) confirm BattlEye notes on <a href=\"/battleye-bypass/\">Обслуговування BattlEye</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye reality blog</a> · <a href=\"/deadside-cheats/\">Огляд Deadside Cheats</a>.",
+								"Patch-day checklist: (1) read <a href=\"/updates/\">Гайд undetected чітів</a>, (2) confirm BattlEye notes on the <a href=\"/battleye-bypass/\">Обслуговування BattlEye</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
+								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye maintenance blog</a> · <a href=\"/deadside-cheats/\">Огляд Deadside Cheats</a>.",
 							],
 						},
 					],
@@ -23286,7 +23286,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Step one: open <a href=\"/updates/\">Průvodce undetected cheaty</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">Údržba BattlEye</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/deadside-battleye-bypass/\">battleye bypass</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a>.",
+								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected Deadside cheats FAQ</a> · <a href=\"/faq/deadside-battleye-bypass/\">BattlEye bypass FAQ</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">Deadside cheats buyers guide</a>.",
 							],
 						},
 					],
@@ -23323,7 +23323,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Undetected wallhack maintenance",
 							paragraphs: [
 								"ESP wallhack modules rebuild after BattlEye patches. Follow the <a href=\"/updates/\">Průvodce undetected cheaty</a> and complete checkout for instant license delivery on Windows PC.",
-								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and <a href=\"/battleye-bypass/\">Údržba BattlEye</a>.",
+								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and the <a href=\"/battleye-bypass/\">Údržba BattlEye</a>.",
 								"Compare <a href=\"/pricing/\">Obchod</a> or continue to the <a href=\"/deadside-esp/\">Průvodce ESP a wallhack</a> landing page.",
 							],
 						},
@@ -23398,7 +23398,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "No permanent bypass guarantee",
 							paragraphs: [
-								"BattlEye bypass in practice means timely maintenance. Read the undetected guide, <a href=\"/faq/\">FAQ</a>, and Updates log before every match.",
+								"BattlEye bypass in practice means timely maintenance. Read the <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a>, <a href=\"/faq/\">FAQ</a>, and <a href=\"/updates/\">Průvodce undetected cheaty</a> log before every match.",
 								"Contact <a href=\"/support/\">Podpora</a> if activation fails immediately after a posted rebuild.",
 								"Buying for the first time? Compare <a href=\"/pricing/\">Obchod</a> and finish <a href=\"/setup/\">Průvodce instalací</a> only after <a href=\"/updates/\">Průvodce undetected cheaty</a> shows a live build.",
 							],
@@ -23415,8 +23415,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "External architecture, stream proofing, and patch-day checklist",
 							paragraphs: [
 								"Deadside Cheats spojuje ESP wallhack, 2D radar a deadside aimbot jako undetected balíček pro Deadside na Windows PC. jak se řeší aktualizace BattlEye pro Deadside cheats",
-								"Patch-day checklist: (1) read <a href=\"/updates/\">Průvodce undetected cheaty</a>, (2) confirm BattlEye notes on <a href=\"/battleye-bypass/\">Údržba BattlEye</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye reality blog</a> · <a href=\"/deadside-cheats/\">Přehled Deadside Cheats</a>.",
+								"Patch-day checklist: (1) read <a href=\"/updates/\">Průvodce undetected cheaty</a>, (2) confirm BattlEye notes on the <a href=\"/battleye-bypass/\">Údržba BattlEye</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
+								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye maintenance blog</a> · <a href=\"/deadside-cheats/\">Přehled Deadside Cheats</a>.",
 							],
 						},
 					],
@@ -24477,7 +24477,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Step one: open <a href=\"/updates/\">Ghid cheats undetected</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">Mentenanță BattlEye</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/deadside-battleye-bypass/\">battleye bypass</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a>.",
+								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected Deadside cheats FAQ</a> · <a href=\"/faq/deadside-battleye-bypass/\">BattlEye bypass FAQ</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">Deadside cheats buyers guide</a>.",
 							],
 						},
 					],
@@ -24514,7 +24514,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Undetected wallhack maintenance",
 							paragraphs: [
 								"ESP wallhack modules rebuild after BattlEye patches. Follow the <a href=\"/updates/\">Ghid cheats undetected</a> and complete checkout for instant license delivery on Windows PC.",
-								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and <a href=\"/battleye-bypass/\">Mentenanță BattlEye</a>.",
+								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and the <a href=\"/battleye-bypass/\">Mentenanță BattlEye</a>.",
 								"Compare <a href=\"/pricing/\">Magazin</a> or continue to the <a href=\"/deadside-esp/\">Ghid ESP și wallhack</a> landing page.",
 							],
 						},
@@ -24589,7 +24589,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "No permanent bypass guarantee",
 							paragraphs: [
-								"BattlEye bypass in practice means timely maintenance. Read the undetected guide, <a href=\"/faq/\">FAQ</a>, and Updates log before every match.",
+								"BattlEye bypass in practice means timely maintenance. Read the <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a>, <a href=\"/faq/\">FAQ</a>, and <a href=\"/updates/\">Ghid cheats undetected</a> log before every match.",
 								"Contact <a href=\"/support/\">Suport</a> if activation fails immediately after a posted rebuild.",
 								"Buying for the first time? Compare <a href=\"/pricing/\">Magazin</a> and finish <a href=\"/setup/\">Ghid de instalare</a> only after <a href=\"/updates/\">Ghid cheats undetected</a> shows a live build.",
 							],
@@ -24606,8 +24606,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "External architecture, stream proofing, and patch-day checklist",
 							paragraphs: [
 								"Deadside Cheats combină ESP wallhack, 2D radar și deadside aimbot undetected pentru Deadside pe PC Windows. cum sunt gestionate actualizările BattlEye pentru Deadside cheats",
-								"Patch-day checklist: (1) read <a href=\"/updates/\">Ghid cheats undetected</a>, (2) confirm BattlEye notes on <a href=\"/battleye-bypass/\">Mentenanță BattlEye</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye reality blog</a> · <a href=\"/deadside-cheats/\">Prezentare Deadside Cheats</a>.",
+								"Patch-day checklist: (1) read <a href=\"/updates/\">Ghid cheats undetected</a>, (2) confirm BattlEye notes on the <a href=\"/battleye-bypass/\">Mentenanță BattlEye</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
+								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye maintenance blog</a> · <a href=\"/deadside-cheats/\">Prezentare Deadside Cheats</a>.",
 							],
 						},
 					],
@@ -25668,7 +25668,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Step one: open <a href=\"/updates/\">Undetected cheats-guide</a> for the latest build date. Step two: read <a href=\"/battleye-bypass/\">BattlEye-underhåll</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for competitive raids.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/deadside-battleye-bypass/\">battleye bypass</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a>.",
+								"FAQ shortcuts: <a href=\"/faq/are-deadside-cheats-undetected-in-2026/\">undetected Deadside cheats FAQ</a> · <a href=\"/faq/deadside-battleye-bypass/\">BattlEye bypass FAQ</a> · <a href=\"/blog/deadside-cheats-buyers-guide/\">Deadside cheats buyers guide</a>.",
 							],
 						},
 					],
@@ -25705,7 +25705,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Undetected wallhack maintenance",
 							paragraphs: [
 								"ESP wallhack modules rebuild after BattlEye patches. Follow the <a href=\"/updates/\">Undetected cheats-guide</a> and complete checkout for instant license delivery on Windows PC.",
-								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and <a href=\"/battleye-bypass/\">BattlEye-underhåll</a>.",
+								"Learn the full maintenance story on <a href=\"/undetected-deadside-cheats/\">undetected deadside cheats</a> and the <a href=\"/battleye-bypass/\">BattlEye-underhåll</a>.",
 								"Compare <a href=\"/pricing/\">Butik</a> or continue to the <a href=\"/deadside-esp/\">ESP- och wallhack-guide</a> landing page.",
 							],
 						},
@@ -25780,7 +25780,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "No permanent bypass guarantee",
 							paragraphs: [
-								"BattlEye bypass in practice means timely maintenance. Read the undetected guide, <a href=\"/faq/\">FAQ</a>, and Updates log before every match.",
+								"BattlEye bypass in practice means timely maintenance. Read the <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a>, <a href=\"/faq/\">FAQ</a>, and <a href=\"/updates/\">Undetected cheats-guide</a> log before every match.",
 								"Contact <a href=\"/support/\">Support</a> if activation fails immediately after a posted rebuild.",
 								"Buying for the first time? Compare <a href=\"/pricing/\">Butik</a> and finish <a href=\"/setup/\">Installationsguide</a> only after <a href=\"/updates/\">Undetected cheats-guide</a> shows a live build.",
 							],
@@ -25797,8 +25797,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "External architecture, stream proofing, and patch-day checklist",
 							paragraphs: [
 								"Deadside Cheats kombinerar ESP wallhack, 2D radar och deadside aimbot som undetected paket för Deadside på Windows PC. hur BattlEye-uppdateringar hanteras för Deadside cheats",
-								"Patch-day checklist: (1) read <a href=\"/updates/\">Undetected cheats-guide</a>, (2) confirm BattlEye notes on <a href=\"/battleye-bypass/\">BattlEye-underhåll</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye reality blog</a> · <a href=\"/deadside-cheats/\">Deadside Cheats-översikt</a>.",
+								"Patch-day checklist: (1) read <a href=\"/updates/\">Undetected cheats-guide</a>, (2) confirm BattlEye notes on the <a href=\"/battleye-bypass/\">BattlEye-underhåll</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
+								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye maintenance blog</a> · <a href=\"/deadside-cheats/\">Deadside Cheats-översikt</a>.",
 							],
 						},
 					],

@@ -438,7 +438,7 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "How to buy and set up without wasting a night",
 				paragraphs: [
-					"Compare monthly and lifetime on <a href=\"/pricing/\">Pricing</a>, then follow <a href=\"/setup/\">Setup</a> after delivery. Keep your order ID ready for <a href=\"/support/\">Support</a>. If you are still shopping, the <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a> lists the checklist we wish every shopper used.",
+					"Compare monthly and lifetime on <a href=\"/pricing/\">Pricing</a>, then follow <a href=\"/setup/\">Setup guide</a> after delivery. Keep your order ID ready for <a href=\"/support/\">Support</a>. If you are still shopping, the <a href=\"/blog/deadside-cheats-buyers-guide/\">Deadside cheats buyers guide</a> lists the checklist we wish every shopper used.",
 					"Deadside Cheats is built for Windows PC solo farmers and matchers play. It will not replace map knowledge — it amplifies the reads you already practice in matches.",
 				],
 			},
@@ -633,7 +633,7 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Maintenance and responsible use",
 				paragraphs: [
-					"ESP modules rebuild after BattlEye patches like everything else. Check <a href=\"/updates/\">Updates</a> and the <a href=\"/updates/\">undetected guide</a>. No overlay replaces listening and map knowledge — it shortens the time between “I heard something” and “I know where.”",
+					"ESP modules rebuild after BattlEye patches like everything else. Check <a href=\"/updates/\">Updates</a> and the <a href=\"/undetected-deadside-cheats/\">undetected Deadside cheats guide</a>. No overlay replaces listening and map knowledge — it shortens the time between “I heard something” and “I know where.”",
 				],
 			},
 			{
@@ -723,7 +723,7 @@ export const blogPosts: BlogPostDefinition[] = [
 				h2: "Price versus what you touch every match",
 				paragraphs: [
 					"If you only want basic player boxes in casual matches, a cheaper shop might feel enough. If you hold bases, run extract routes, and hate dying to unseen flanks, radar and clean filters pay for themselves quickly.",
-					"Our monthly and lifetime options are on <a href=\"/pricing/\">Pricing</a>. Read the <a href=\"/blog/deadside-cheats-buyers-guide/\">buyers guide</a> before you compare three storefronts at once.",
+					"Our monthly and lifetime options are on <a href=\"/pricing/\">Pricing</a>. Read the <a href=\"/blog/deadside-cheats-buyers-guide/\">Deadside cheats buyers guide</a> before you compare three storefronts at once.",
 				],
 			},
 			{
@@ -737,7 +737,7 @@ export const blogPosts: BlogPostDefinition[] = [
 				h2: "Side-by-side before you choose a shop",
 				paragraphs: [
 					"Open each seller’s status page, feature list, and support channel on the same screen. If one shop hides status in private Discord only, weigh that against a lower sticker price.",
-					"When the checklist favors a full stack, compare <a href=\"/features/\">Features</a> and <a href=\"/pricing/\">Pricing</a> here, then read <a href=\"/blog/deadside-cheats-buyers-guide/\">the buyers guide</a> before checkout.",
+					"When the checklist favors a full stack, compare <a href=\"/features/\">Features</a> and <a href=\"/pricing/\">Pricing</a> on our store, then read the <a href=\"/blog/deadside-cheats-buyers-guide/\">Deadside cheats buyers guide</a> before checkout.",
 				],
 			}
 		],
