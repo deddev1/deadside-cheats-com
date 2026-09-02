@@ -47,8 +47,7 @@ export default function LanguageSwitcher({ currentLocale, locales, hrefForLocale
 							<li key={locale.code}>
 								<a
 									href={href}
-									hrefLang={locale.hreflang}
-									lang={locale.code}
+									lang={locale.hreflang}
 									className={`lang-switcher__link${isCurrent ? ' is-current' : ''}`}
 									aria-current={isCurrent ? 'page' : undefined}
 									data-locale={locale.code}
