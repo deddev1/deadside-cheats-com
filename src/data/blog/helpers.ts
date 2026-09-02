@@ -3,6 +3,7 @@ import { deadsideImages } from '../deadside';
 import { blogSitemapImageMeta } from '../brand-sitemap';
 import {
 	defaultLocale,
+	isIndexableLocale,
 	localeCodes,
 	type LocaleCode,
 	locales,
@@ -89,6 +90,21 @@ export function getBlogPostPath(locale: LocaleCode, slug: string): string {
 	return `${base}${slug}/`;
 }
 
+/** Canonical blog index path — English for non-indexable locale stubs. */
+export function getBlogCanonicalPath(locale: LocaleCode): string {
+	return getBlogBasePath(isIndexableLocale(locale) ? locale : defaultLocale);
+}
+
+/** Canonical blog post path — English for non-indexable locale stubs. */
+export function getBlogPostCanonicalPath(
+	locale: LocaleCode,
+	post: BlogPostDefinition,
+): string {
+	const canonicalLocale = isIndexableLocale(locale) ? locale : defaultLocale;
+	const slug = post.translations[canonicalLocale]?.slug ?? post.translations[defaultLocale].slug;
+	return getBlogPostPath(canonicalLocale, slug);
+}
+
 export function absoluteBlogUrl(locale: LocaleCode, slug?: string): string {
 	const path = slug ? getBlogPostPath(locale, slug) : getBlogBasePath(locale);
 	return new URL(path, siteConfig.url).href;
@@ -101,7 +117,7 @@ export function resolvePost(post: BlogPostDefinition, locale: LocaleCode): Resol
 		locale,
 		translation,
 		imageSrc: getBlogImageSrc(post.imageKey),
-		canonicalPath: getBlogPostPath(locale, translation.slug),
+		canonicalPath: getBlogPostCanonicalPath(locale, post),
 	};
 }
 

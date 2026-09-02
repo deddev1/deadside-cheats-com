@@ -6,7 +6,7 @@ import { blogUi, type LocaleCode, defaultLocale } from '../data/i18n/locales';
 import {
 	absoluteBlogUrl,
 	getAllPostsForLocale,
-	getBlogBasePath,
+	getBlogCanonicalPath,
 	getFeaturedPosts,
 	getBlogIndexHreflangAlternates,
 } from '../data/blog/helpers';
@@ -29,7 +29,7 @@ const ui = blogUi[locale];
 const t = getT(locale);
 const posts = getAllPostsForLocale(locale);
 const featured = getFeaturedPosts(locale, 3);
-const canonicalPath = getBlogBasePath(locale);
+const canonicalPath = getBlogCanonicalPath(locale);
 const canonicalURL = absoluteBlogUrl(locale);
 const hreflangAlternates = getBlogIndexHreflangAlternates(locale);
 const homeHref = getLocalizedPath('home', locale);

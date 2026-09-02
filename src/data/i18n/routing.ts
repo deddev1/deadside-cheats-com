@@ -2,6 +2,7 @@ import { siteConfig } from '../site';
 import {
 	defaultLocale,
 	indexableLocales,
+	isIndexableLocale,
 	isLocaleCode,
 	localeCodes,
 	localeMap,
@@ -682,6 +683,21 @@ export function getLocalizedPath(pageId: PageId, locale: LocaleCode): string {
 	}
 	const slug = localizedSlugs[pageId][locale];
 	return slug ? `/${locale}/${slug}/` : `/${locale}/`;
+}
+
+/** Resolve cannibal stubs to their pillar pageId. */
+export function getResolvedPageId(pageId: PageId): PageId {
+	return (isCannibalPageId(pageId) ? getCannibalTargetId(pageId) : pageId) as PageId;
+}
+
+/**
+ * Canonical path for `<link rel="canonical">` — always indexable.
+ * Non-indexable locale stubs point at English; cannibal stubs point at pillars.
+ */
+export function getIndexableCanonicalPath(pageId: PageId, locale: LocaleCode): string {
+	const resolvedId = getResolvedPageId(pageId);
+	const canonicalLocale = isIndexableLocale(locale) ? locale : defaultLocale;
+	return getLocalizedPath(resolvedId, canonicalLocale);
 }
 
 /** Map English root paths to the correct locale URL (for CTAs and inline links). */

@@ -34,6 +34,7 @@ const articleBodyText = [
 const wordCount = countWords(articleBodyText);
 const articleUrl = absoluteGuideUrl(guide.slug);
 const guideNoindex = !isDeadsideGuide(guide);
+const guideCanonicalPath = guideNoindex ? getGuidesBasePath() : guide.canonicalPath;
 
 const articleSchema = {
 	'@type': 'Article',
@@ -72,7 +73,7 @@ function pageTitle(headline: string): string {
 <Layout
 	title={pageTitle(guide.title)}
 	description={guide.metaDescription}
-	canonicalPath={guide.canonicalPath}
+	canonicalPath={guideCanonicalPath}
 	locale={locale}
 	noindex={guideNoindex}
 	ogLocaleAlternates={false}
