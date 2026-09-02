@@ -178,7 +178,7 @@ export const homeFaqs: readonly FaqItem[] = [
 		slug: 'how-to-install-deadside-cheats',
 		seoTitle: 'How to Install {game} Hacks on Windows PC | FAQ',
 		seoDescription:
-			'Step-by-step {brand} install on Windows PC — loader, mod menu, and ESP/aimbot toggles. Setup help at deadsidecheats.com.',
+			'Step-by-step {brand} install on Windows PC — loader, mod menu, and ESP/aimbot toggles. Setup help at deadsidecheat.com.',
 	}),
 ] as const;
 
@@ -200,7 +200,7 @@ export const seoFaqs: readonly FaqItem[] = [
 		slug: 'does-deadside-cheats-include-radar-hack',
 		seoTitle: 'Does {brand} Include a 2D Radar? | FAQ',
 		seoDescription:
-			'Yes — {brand} includes 2D radar overlays for nearby threats outside your FOV. Compare ESP, aimbot, and radar in one license at deadsidecheats.com.',
+			'Yes — {brand} includes 2D radar overlays for nearby threats outside your FOV. Compare ESP, aimbot, and radar in one license at deadsidecheat.com.',
 	}),
 	faq({
 		question: 'How does {antiCheat} affect {primaryKeyword}?',
@@ -263,7 +263,7 @@ export const seoFaqs: readonly FaqItem[] = [
 		slug: 'deadside-cheats-windows-11',
 		seoTitle: 'Do {game} Hacks Work on Windows 11? | FAQ',
 		seoDescription:
-			'{brand} runs on Windows 10 and 11 — ESP, aimbot, and radar with {antiCheat} maintenance on PC. Read setup notes at deadsidecheats.com before you buy.',
+			'{brand} runs on Windows 10 and 11 — ESP, aimbot, and radar with {antiCheat} maintenance on PC. Read setup notes at deadsidecheat.com before you buy.',
 	}),
 	faq({
 		question: 'What is {game} soft aim?',

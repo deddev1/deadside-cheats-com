@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 /**
  * Rewrite legacy domains in built sitemap XML (safety net after astro build).
- * Fixes GSC "URL not allowed" when stale dist still references deadsidecheats.com.
+ * Fixes GSC "URL not allowed" when stale dist still references deadsidecheat.com.
  */
 import { readFileSync, writeFileSync, readdirSync } from 'node:fs';
 import path from 'node:path';
@@ -17,7 +17,7 @@ function readBrandUrl() {
 	const url = m[1].replace(/\\'/g, "'").replace(/\/$/, '');
 	if (/valorantcheats\.org/i.test(url)) {
 		throw new Error(
-			`brand.ts url must be deadsidecheats.com, not ${url}. Run: node scripts/rebrand-deadside-cheats.mjs`,
+			`brand.ts url must be deadsidecheat.com, not ${url}. Run: node scripts/rebrand-deadside-cheats.mjs`,
 		);
 	}
 	return url;

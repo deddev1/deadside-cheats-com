@@ -86,9 +86,9 @@ export function clampDesc(s) {
 	const MIN = 140;
 	const MAX = 160;
 	if (text.length < MIN) {
-		const pad = text.toLowerCase().includes('deadsidecheats.com')
+		const pad = text.toLowerCase().includes('deadsidecheat.com')
 			? ' Windows PC license with BattlEye maintenance after patches.'
-			: ' Compare plans and guides at deadsidecheats.com.';
+			: ' Compare plans and guides at deadsidecheat.com.';
 		text = `${text.replace(/[.…]+$/, '')}.${pad}`;
 	}
 	if (text.length <= MAX) return text;

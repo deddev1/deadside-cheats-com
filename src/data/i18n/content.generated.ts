@@ -144,7 +144,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"deadside-esp": {
 					title: "deadside esp | Wallhack & Player Boxes",
-					description: "deadside esp wallhack — player boxes, loot markers & distance for survival & squad raids on PC. Bundled with aimbot & radar at deadsidecheats.com.",
+					description: "deadside esp wallhack — player boxes, loot markers & distance for survival & squad raids on PC. Bundled with aimbot & radar at deadsidecheat.com.",
 					h1: "deadside esp — Player Boxes & Wallhack",
 					intro: "See players and loot through walls during Deadside matches. Part of the same Deadside Cheats license.",
 					imageAlt: "deadside esp player boxes and distance readouts in a match",
@@ -194,7 +194,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"deadside-aimbot": {
 					title: "deadside aimbot | Soft Aim & FOV Settings",
-					description: "deadside aimbot with soft aim, FOV & bone priority for competitive raids melee fights on PC. Undetected package with ESP & radar at deadsidecheats.com.",
+					description: "deadside aimbot with soft aim, FOV & bone priority for competitive raids melee fights on PC. Undetected package with ESP & radar at deadsidecheat.com.",
 					h1: "deadside aimbot — Soft Aim for Windows PC",
 					intro: "Soft aim and aim assist you can tune for Deadside. Included in the same Deadside Cheats license.",
 					imageAlt: "deadside aimbot and soft aim controls on Windows PC",
@@ -244,7 +244,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Deadside Cheats Features | ESP, Aimbot & Radar",
-					description: "Full Deadside cheats feature list — ESP wallhack, soft aim, 2D radar & toggles for survival & squad raids on PC. BattlEye maintenance at deadsidecheats.com.",
+					description: "Full Deadside cheats feature list — ESP wallhack, soft aim, 2D radar & toggles for survival & squad raids on PC. BattlEye maintenance at deadsidecheat.com.",
 					h1: "Deadside Cheats Features — Full Control List",
 					intro: "Everything included in one license for Deadside on Windows PC.",
 					imageAlt: "Deadside Cheats features — ESP, soft aim, and radar screenshots",
@@ -374,7 +374,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				setup: {
 					title: "Deadside Cheats Setup | Windows PC Install Guide",
-					description: "Install Deadside Cheats on PC — activate ESP, soft aim & radar step by step. Setup guide at deadsidecheats.com. Check BattlEye status first.",
+					description: "Install Deadside Cheats on PC — activate ESP, soft aim & radar step by step. Setup guide at deadsidecheat.com. Check BattlEye status first.",
 					h1: "Setup",
 					intro: "Install and activate your license on Windows 10 or 11 before your first match.",
 					imageAlt: "Deadside Cheats setup guide screenshot for Windows PC",
@@ -411,7 +411,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "If something fails",
 							paragraphs: [
-								"Check Status after a patch. Email support@deadsidecheats.com with your order ID.",
+								"Check Status after a patch. Email support@deadsidecheat.com with your order ID.",
 								"Include your Windows version and what you already tried for faster replies.",
 							],
 							list: [
@@ -425,7 +425,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				updates: {
 					title: "Deadside Status | BattlEye Updates | Deadside Cheats",
-					description: "Live status after Deadside & BattlEye patches. Check undetected ESP, aimbot & radar rebuilds on PC before you deploy. deadsidecheats.com.",
+					description: "Live status after Deadside & BattlEye patches. Check undetected ESP, aimbot & radar rebuilds on PC before you deploy. deadsidecheat.com.",
 					h1: "Status",
 					intro: "Check maintenance notes before you load in after a Deadside or BattlEye patch.",
 					imageAlt: "Deadside Cheats live status after BattlEye and game patches",
@@ -474,7 +474,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				faq: {
 					title: "Deadside Cheats FAQ | ESP, Aimbot & BattlEye",
-					description: "FAQ for Deadside cheats — delivery, setup, survival & squad raids use, BattlEye updates & pricing on PC. Answers at deadsidecheats.com before you buy.",
+					description: "FAQ for Deadside cheats — delivery, setup, survival & squad raids use, BattlEye updates & pricing on PC. Answers at deadsidecheat.com before you buy.",
 					h1: "Deadside Cheats FAQ — Common Questions",
 					intro: "Common questions about Deadside Cheats — delivery, setup, updates, and refunds.",
 					imageAlt: "Deadside Cheats FAQ — delivery, setup, and update answers",
@@ -522,7 +522,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				support: {
 					title: "Deadside Cheats Support | License & Setup Help",
-					description: "Support for license delivery, ESP setup & billing on PC. Email support@deadsidecheats.com with your order ID. deadsidecheats.com/support.",
+					description: "Support for license delivery, ESP setup & billing on PC. Email support@deadsidecheat.com with your order ID. deadsidecheat.com/support.",
 					h1: "Support",
 					intro: "Get help with licenses, setup, and billing for Deadside Cheats on Windows PC.",
 					imageAlt: "Deadside Cheats support page for license and setup help",
@@ -534,7 +534,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "How to contact us",
 							paragraphs: [
-								"Email support@deadsidecheats.com. Include your order ID and a short note about the issue.",
+								"Email support@deadsidecheat.com. Include your order ID and a short note about the issue.",
 								"We review support requests daily for delivery, billing, and setup issues.",
 							],
 							list: [
@@ -560,7 +560,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				undetected: {
 					title: "Undetected Deadside Cheats 2026 | BattlEye Safe",
-					description: "Undetected deadside cheats with BattlEye maintenance for ESP, soft aim & radar on PC. Public status, rebuild workflow — from $35 at deadsidecheats.com.",
+					description: "Undetected deadside cheats with BattlEye maintenance for ESP, soft aim & radar on PC. Public status, rebuild workflow — from $35 at deadsidecheat.com.",
 					h1: "Undetected Deadside Cheats — BattlEye Maintenance",
 					intro: "How Deadside Cheats stays maintained for Deadside after BattlEye patches — ESP wallhack, 2D radar, and Aimbot rebuilds for Windows PC.",
 					imageAlt: "Deadside Cheats undetected status overview for Windows PC",
@@ -606,7 +606,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				wallhack: {
 					title: "Deadside Wallhack | ESP Boxes & Loot Markers",
-					description: "Deadside wallhack ESP with player boxes, loot markers & skeleton overlays on PC. Undetected deadside cheats with BattlEye rebuilds. deadsidecheats.com.",
+					description: "Deadside wallhack ESP with player boxes, loot markers & skeleton overlays on PC. Undetected deadside cheats with BattlEye rebuilds. deadsidecheat.com.",
 					h1: "Deadside Wallhack — ESP Boxes & Visibility",
 					intro: "Deadside wallhack ESP for Deadside — see players, loot, enemy players, and resource nodes through toggleable wallhack overlays built for survival raids and squad sessions.",
 					imageAlt: "deadside wallhack visibility through walls in a match",
@@ -644,7 +644,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				radar: {
 					title: "Deadside 2D radar | 2D Threat Map",
-					description: "2D radar for flank reads in Deadside survival & squad raids on PC. Bundled with ESP wallhack & soft aim in one license at deadsidecheats.com.",
+					description: "2D radar for flank reads in Deadside survival & squad raids on PC. Bundled with ESP wallhack & soft aim in one license at deadsidecheat.com.",
 					h1: "Deadside 2D radar — 2D Threat Awareness",
 					intro: "A simple 2D radar for threats outside your view. Included in the same Deadside Cheats license.",
 					imageAlt: "Deadside 2D radar overlay showing nearby threats",
@@ -736,7 +736,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Deadside Cheats 2026 | Undetected PC Cheats",
-					description: "Best Deadside cheats 2026 — undetected ESP, soft aim & 2D radar on PC. BattlEye maintenance & instant delivery at deadsidecheats.com. Windows PC license with",
+					description: "Best Deadside cheats 2026 — undetected ESP, soft aim & 2D radar on PC. BattlEye maintenance & instant delivery at deadsidecheat.com. Windows PC license with",
 					h1: "Deadside Cheats 2026 — ESP, Soft Aim & Radar",
 					intro: "The 2026 Deadside Cheats package for Deadside — undetected ESP wallhack, 2D radar, and Aimbot with BattlEye maintenance, instant delivery, and Windows PC support.",
 					imageAlt: "Deadside Cheats product overview for Deadside",
@@ -766,7 +766,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Read the <a href=\"/deadside-cheats/\">deadside cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
 								"Also compare the <a href=\"/deadside-cheats/\">deadside cheats</a> checklist, <a href=\"/blog/deadside-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
-								"Support is available at support@deadsidecheats.com via the <a href=\"/support/\">Support page</a>.",
+								"Support is available at support@deadsidecheat.com via the <a href=\"/support/\">Support page</a>.",
 							],
 						},
 						{
@@ -782,7 +782,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				hacks: {
 					title: "Deadside Cheats Guide | ESP, Aimbot & Radar",
-					description: "Deadside cheats guide — undetected ESP wallhack, soft aim, radar & BattlEye rebuilds for survival & squad raids on PC. Buy from $35 at deadsidecheats.com.",
+					description: "Deadside cheats guide — undetected ESP wallhack, soft aim, radar & BattlEye rebuilds for survival & squad raids on PC. Buy from $35 at deadsidecheat.com.",
 					h1: "Deadside Cheats — Full Guide",
 					intro: "Deadside cheats add ESP, radar, and soft aim on top of the base game. This page explains what deadside cheats are, what Deadside Cheats includes, how BattlEye maintenance works, and where to go next before you buy.",
 					imageAlt: "Deadside Cheats overview — ESP, aimbot, and radar for Deadside",
@@ -855,7 +855,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheat-download": {
 					title: "Deadside Cheat Download | Instant Access | Deadside Cheats",
-					description: "Deadside cheats download with instant license delivery — ESP, soft aim & radar on PC. Secure checkout & activation at deadsidecheats.com from $35.",
+					description: "Deadside cheats download with instant license delivery — ESP, soft aim & radar on PC. Secure checkout & activation at deadsidecheat.com from $35.",
 					h1: "Deadside Cheat Download — Instant License Delivery",
 					intro: "How deadside cheat download works for Deadside — digital license delivery after payment confirmation, with ESP wallhack, 2D radar, and Aimbot access on Windows PC.",
 					imageAlt: "Deadside Cheats download and install delivery flow",
@@ -893,7 +893,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"mod-menu": {
 					title: "Deadside Mod Menu | In-Match Toggles | Deadside Cheats",
-					description: "Deadside mod menu for in-match ESP, soft aim & radar toggles on PC. Hotkeys & BattlEye maintenance included. Get access at deadsidecheats.com.",
+					description: "Deadside mod menu for in-match ESP, soft aim & radar toggles on PC. Hotkeys & BattlEye maintenance included. Get access at deadsidecheat.com.",
 					h1: "Deadside Mod Menu — In-Client Control Panel",
 					intro: "Deadside mod menu controls for Deadside — toggle ESP wallhack categories, radar range, and Aimbot profiles mid-match without leaving your Deadside match on Windows PC.",
 					imageAlt: "Deadside Cheats in-game menu controls",
@@ -931,7 +931,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"soft-aim": {
 					title: "Deadside Soft Aim | Aimbot Settings | Deadside Cheats",
-					description: "Soft aim settings for natural tracking on PC — smoothness, FOV & bone priority. Included in undetected Deadside Cheats at deadsidecheats.com.",
+					description: "Soft aim settings for natural tracking on PC — smoothness, FOV & bone priority. Included in undetected Deadside Cheats at deadsidecheat.com.",
 					h1: "Deadside Soft Aim — Smooth Aimbot Controls",
 					intro: "Deadside soft aim settings for Deadside — configurable Aimbot smoothness, FOV, bone priority, and hotkey toggles bundled with ESP wallhack and radar in one undetected license.",
 					imageAlt: "Deadside soft aim FOV and smoothness settings",
@@ -969,7 +969,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"best-cheats": {
 					title: "Best Deadside Cheats 2026 | Compare & Buy | Deadside Cheats",
-					description: "Best Deadside cheats for 2026 — undetected ESP, soft aim & BattlEye maintenance on PC. Buyer checklist before checkout at deadsidecheats.com.",
+					description: "Best Deadside cheats for 2026 — undetected ESP, soft aim & BattlEye maintenance on PC. Buyer checklist before checkout at deadsidecheat.com.",
 					h1: "Best Deadside Cheats — 2026 Buyer Guide",
 					intro: "Compare deadside cheats for Deadside in 2026 — undetected ESP wallhack, 2D radar, and Aimbot in one maintained package with BattlEye rebuilds and instant delivery.",
 					imageAlt: "Deadside Cheats overview for Deadside on PC",
@@ -1015,7 +1015,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"aimbot-hack": {
 					title: "deadside aimbot | Soft Aim | Deadside Cheats",
-					description: "deadside aimbot with soft aim, FOV & bone priority on PC. ESP wallhack & radar bundled. Undetected with BattlEye updates at deadsidecheats.com.",
+					description: "deadside aimbot with soft aim, FOV & bone priority on PC. ESP wallhack & radar bundled. Undetected with BattlEye updates at deadsidecheat.com.",
 					h1: "deadside aimbot — Soft Aim Assist",
 					intro: "deadside aimbot tools for Deadside — smoothness, FOV, bone priority, per-weapon profiles, and hotkey toggles bundled with ESP wallhack and radar in one undetected license.",
 					imageAlt: "deadside aimbot controls and bone priority",
@@ -1053,7 +1053,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"esp-hack": {
 					title: "deadside esp | Wallhack Boxes | Deadside Cheats",
-					description: "deadside esp with player boxes & loot markers on PC. Wallhack, radar & aimbot included in one license. Buy at deadsidecheats.com from $35. Windows PC license",
+					description: "deadside esp with player boxes & loot markers on PC. Wallhack, radar & aimbot included in one license. Buy at deadsidecheat.com from $35. Windows PC license",
 					h1: "deadside esp — Player Boxes Guide",
 					intro: "deadside esp overlays for Deadside — player outlines, threat cues, loot markers with distance readouts across PvP raids and squad sessions.",
 					imageAlt: "deadside esp boxes and loot markers",
@@ -1091,7 +1091,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"unlock-all": {
 					title: "Deadside Unlock All | What It Really Means",
-					description: "Unlock-all vs real Deadside cheats — ESP wallhack, soft aim & radar on PC. What Deadside Cheats offers before you buy at deadsidecheats.com.",
+					description: "Unlock-all vs real Deadside cheats — ESP wallhack, soft aim & radar on PC. What Deadside Cheats offers before you buy at deadsidecheat.com. Windows PC license",
 					h1: "Deadside Unlock All — What Players Search For",
 					intro: "Deadside unlock-all is a common search term for Deadside — this page clarifies what unlock-all tools claim versus the ESP wallhack, 2D radar, and Aimbot tools Deadside Cheats actually provides on Windows PC.",
 					imageAlt: "Deadside Cheats license features overview",
@@ -1129,9 +1129,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Privacy Policy | Deadside Cheats",
-					description: "Privacy policy for Deadside Cheats at deadsidecheats.com. How we handle support emails, order data & checkout for deadside cheats licenses on PC.",
+					description: "Privacy policy for Deadside Cheats at deadsidecheat.com. How we handle support emails, order data & checkout for deadside cheats licenses on PC.",
 					h1: "Privacy Policy",
-					intro: "How Deadside Cheats handles information when you browse deadsidecheats.com or contact support about a Deadside license.",
+					intro: "How Deadside Cheats handles information when you browse deadsidecheat.com or contact support about a Deadside license.",
 					imageAlt: "Deadside Cheats privacy policy page",
 					galleryTitle: "Deadside Cheats legal resources",
 					ctaPrimary: "Email support",
@@ -1160,8 +1160,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Your choices and contact",
 							paragraphs: [
-								"You may request correction or deletion of support email data by contacting support@deadsidecheats.com with your request details.",
-								"Policy updates publish on this page. Continued use of deadsidecheats.com after updates means you accept the revised policy. Also see <a href=\"/terms/\">Terms of Use</a> and <a href=\"/refund-policy/\">Refund Policy</a>.",
+								"You may request correction or deletion of support email data by contacting support@deadsidecheat.com with your request details.",
+								"Policy updates publish on this page. Continued use of deadsidecheat.com after updates means you accept the revised policy. Also see <a href=\"/terms/\">Terms of Use</a> and <a href=\"/refund-policy/\">Refund Policy</a>.",
 							],
 						},
 						{
@@ -1175,14 +1175,14 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Data retention and international transfers",
 							paragraphs: [
 								"Support emails are retained only as long as needed to resolve your request or meet legal obligations, then deleted or anonymized.",
-								"Checkout data is processed by our payment provider. deadsidecheats.com does not store full card numbers. International visitors are covered by the same policy.",
+								"Checkout data is processed by our payment provider. deadsidecheat.com does not store full card numbers. International visitors are covered by the same policy.",
 							],
 						},
 						{
 							h2: "Children and California / EU rights",
 							paragraphs: [
 								"Deadside Cheats is not directed at children under 13. We do not knowingly collect data from minors.",
-								"EU/UK users may request access, correction, or deletion under GDPR. California residents may exercise CCPA rights by emailing support@deadsidecheats.com.",
+								"EU/UK users may request access, correction, or deletion under GDPR. California residents may exercise CCPA rights by emailing support@deadsidecheat.com.",
 							],
 						},
 					],
@@ -1190,7 +1190,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				refund: {
 					title: "Refund Policy | Deadside Cheats",
-					description: "Refund policy for Deadside Cheats at deadsidecheats.com. Eligibility, delivery terms & how to request a refund for ESP, aimbot & radar licenses.",
+					description: "Refund policy for Deadside Cheats at deadsidecheat.com. Eligibility, delivery terms & how to request a refund for ESP, aimbot & radar licenses.",
 					h1: "Refund Policy",
 					intro: "Refund terms for Deadside Cheats licenses — ESP wallhack, 2D radar, and Aimbot packages purchased through checkout for Deadside.",
 					imageAlt: "Deadside Cheats refund policy page",
@@ -1216,7 +1216,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "How to request a refund",
 							paragraphs: [
-								"Email support@deadsidecheats.com with subject \"Refund Request\", your order ID, purchase date, and issue summary — or use the <a href=\"/support/\">Support page</a>.",
+								"Email support@deadsidecheat.com with subject \"Refund Request\", your order ID, purchase date, and issue summary — or use the <a href=\"/support/\">Support page</a>.",
 								"Approved refunds process back to the original payment method when possible. Pricing details live on <a href=\"/pricing/\">Pricing</a>.",
 							],
 						},
@@ -1239,9 +1239,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				terms: {
 					title: "Terms of Use | Deadside Cheats",
-					description: "Terms of use for deadsidecheats.com & Deadside Cheats licenses. Usage rules, BattlEye risk disclaimer & liability for PC deadside cheats. Windows PC license",
+					description: "Terms of use for deadsidecheat.com & Deadside Cheats licenses. Usage rules, BattlEye risk disclaimer & liability for PC deadside cheats. Windows PC license",
 					h1: "Terms of Use",
-					intro: "Terms governing use of deadsidecheats.com and Deadside Cheats licenses for Deadside on Windows PC.",
+					intro: "Terms governing use of deadsidecheat.com and Deadside Cheats licenses for Deadside on Windows PC.",
 					imageAlt: "Deadside Cheats terms of use page",
 					galleryTitle: "Deadside Cheats legal pages",
 					ctaPrimary: "Email support",
@@ -1266,7 +1266,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Changes and governing law",
 							paragraphs: [
 								"We may update these terms by posting revisions on this page. Continued use after changes constitutes acceptance.",
-								"Contact support@deadsidecheats.com for questions. Related policies: <a href=\"/privacy-policy/\">Privacy</a> and <a href=\"/refund-policy/\">Refunds</a>.",
+								"Contact support@deadsidecheat.com for questions. Related policies: <a href=\"/privacy-policy/\">Privacy</a> and <a href=\"/refund-policy/\">Refunds</a>.",
 							],
 						},
 						{
@@ -1280,7 +1280,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Limitation of liability and disputes",
 							paragraphs: [
 								"Deadside Cheats is provided \"as is.\" Our total liability is limited to the amount you paid for the license in the prior 30 days.",
-								"Disputes should first be emailed to support@deadsidecheats.com. Governing law follows the jurisdiction of our payment processor unless local law requires otherwise.",
+								"Disputes should first be emailed to support@deadsidecheat.com. Governing law follows the jurisdiction of our payment processor unless local law requires otherwise.",
 							],
 						},
 					],
@@ -1491,7 +1491,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Funciones 2026 | ESP, Aimbot & Radar | Deadside Cheats",
-					description: "Funciones: ESP, soft aim, controles de radar. entrega digital instantánea. indetectables. Compare plans and guides at deadsidecheats.com.",
+					description: "Funciones: ESP, soft aim, controles de radar. entrega digital instantánea. indetectables. Compare plans and guides at deadsidecheat.com.",
 					h1: "Funciones — Lista completa de funciones",
 					intro: "Deadside Cheats ofrece ESP wallhack, 2D radar y deadside aimbot indetectables para Deadside en Windows PC. Funciones für Deadside auf Windows PC.",
 					imageAlt: "Deadside Cheats features — ESP, soft aim, and radar screenshots",
@@ -1657,7 +1657,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Si algo falla",
 							paragraphs: [
-								"Revisa Estado tras un parche. Email a support@deadsidecheats.com con tu ID de pedido.",
+								"Revisa Estado tras un parche. Email a support@deadsidecheat.com con tu ID de pedido.",
 								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
 							],
 							list: [
@@ -1780,7 +1780,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Cómo contactarnos",
 							paragraphs: [
-								"Email a support@deadsidecheats.com. Incluye tu ID de pedido y una nota breve sobre el problema.",
+								"Email a support@deadsidecheat.com. Incluye tu ID de pedido y una nota breve sobre el problema.",
 								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
 							],
 							list: [
@@ -2012,7 +2012,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Read the <a href=\"/deadside-cheats/\">Resumen Deadside Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
 								"Also compare the <a href=\"/deadside-cheats/\">Resumen Deadside Cheats</a> checklist, <a href=\"/blog/deadside-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
-								"Support is available at support@deadsidecheats.com via the <a href=\"/support/\">Soporte</a>.",
+								"Support is available at support@deadsidecheat.com via the <a href=\"/support/\">Soporte</a>.",
 							],
 						},
 						{
@@ -2375,9 +2375,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Política de privacidad | Deadside Cheats",
-					description: "Política de privacidad para Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheats.com.",
+					description: "Política de privacidad para Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Política de privacidad",
-					intro: "Deadside Cheats ofrece ESP wallhack, 2D radar y deadside aimbot indetectables para Deadside en Windows PC. Política de privacidad para deadsidecheats.com y licencias de Deadside.",
+					intro: "Deadside Cheats ofrece ESP wallhack, 2D radar y deadside aimbot indetectables para Deadside en Windows PC. Política de privacidad para deadsidecheat.com y licencias de Deadside.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-aimbot.webp",
@@ -2389,7 +2389,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Información que recopilamos",
 							paragraphs: [
 								"Deadside Cheats ofrece ESP wallhack, 2D radar y deadside aimbot indetectables para Deadside en Windows PC. Correo de contacto, referencias de pedido secure checkout y datos básicos de seguridad del sitio.",
-								"Los datos de pago se procesan en el checkout de secure checkout — no se almacenan en deadsidecheats.com.",
+								"Los datos de pago se procesan en el checkout de secure checkout — no se almacenan en deadsidecheat.com.",
 							],
 						},
 						{
@@ -2402,17 +2402,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Tus derechos",
 							paragraphs: [
-								"Contacta support@deadsidecheats.com para solicitudes legales o de soporte.",
-								"Correo: support@deadsidecheats.com",
+								"Contacta support@deadsidecheat.com para solicitudes legales o de soporte.",
+								"Correo: support@deadsidecheat.com",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "Política de reembolso | Deadside Cheats",
-					description: "Política de reembolso para Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheats.com.",
+					description: "Política de reembolso para Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Política de reembolso",
-					intro: "Deadside Cheats ofrece ESP wallhack, 2D radar y deadside aimbot indetectables para Deadside en Windows PC. Política de reembolso para deadsidecheats.com y licencias de Deadside.",
+					intro: "Deadside Cheats ofrece ESP wallhack, 2D radar y deadside aimbot indetectables para Deadside en Windows PC. Política de reembolso para deadsidecheat.com y licencias de Deadside.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-session.webp",
@@ -2437,17 +2437,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Cómo solicitar",
 							paragraphs: [
-								"Contacta support@deadsidecheats.com para solicitudes legales o de soporte.",
-								"Correo: support@deadsidecheats.com",
+								"Contacta support@deadsidecheat.com para solicitudes legales o de soporte.",
+								"Correo: support@deadsidecheat.com",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Términos de uso | Deadside Cheats",
-					description: "Términos de uso para Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheats.com.",
+					description: "Términos de uso para Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Términos de uso",
-					intro: "Deadside Cheats ofrece ESP wallhack, 2D radar y deadside aimbot indetectables para Deadside en Windows PC. Términos de uso para deadsidecheats.com y licencias de Deadside.",
+					intro: "Deadside Cheats ofrece ESP wallhack, 2D radar y deadside aimbot indetectables para Deadside en Windows PC. Términos de uso para deadsidecheat.com y licencias de Deadside.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
@@ -2472,8 +2472,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Cambios de política",
 							paragraphs: [
-								"Contacta support@deadsidecheats.com para solicitudes legales o de soporte.",
-								"Correo: support@deadsidecheats.com",
+								"Contacta support@deadsidecheat.com para solicitudes legales o de soporte.",
+								"Correo: support@deadsidecheat.com",
 							],
 						},
 					],
@@ -2683,7 +2683,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Fonctions 2026 | ESP, Aimbot & Radar | Deadside Cheats",
-					description: "Fonctions: ESP, soft aim, contrôles radar. livraison numérique instantanée. indétectables. Compare plans and guides at deadsidecheats.com.",
+					description: "Fonctions: ESP, soft aim, contrôles radar. livraison numérique instantanée. indétectables. Compare plans and guides at deadsidecheat.com.",
 					h1: "Fonctions — Liste complète des fonctions",
 					intro: "Deadside Cheats combine ESP wallhack, 2D radar et deadside aimbot indétectables pour Deadside sur PC Windows. Fonctions für Deadside auf PC Windows.",
 					imageAlt: "Deadside Cheats features — ESP, soft aim, and radar screenshots",
@@ -2849,7 +2849,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Si quelque chose échoue",
 							paragraphs: [
-								"Consultez Statut après un patch. Email support@deadsidecheats.com avec votre ID commande.",
+								"Consultez Statut après un patch. Email support@deadsidecheat.com avec votre ID commande.",
 								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
 							],
 							list: [
@@ -2972,7 +2972,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Comment nous contacter",
 							paragraphs: [
-								"Email support@deadsidecheats.com. Incluez votre ID commande et une brève note.",
+								"Email support@deadsidecheat.com. Incluez votre ID commande et une brève note.",
 								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
 							],
 							list: [
@@ -3204,7 +3204,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Read the <a href=\"/deadside-cheats/\">Aperçu Deadside Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
 								"Also compare the <a href=\"/deadside-cheats/\">Aperçu Deadside Cheats</a> checklist, <a href=\"/blog/deadside-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
-								"Support is available at support@deadsidecheats.com via the <a href=\"/support/\">Support</a>.",
+								"Support is available at support@deadsidecheat.com via the <a href=\"/support/\">Support</a>.",
 							],
 						},
 						{
@@ -3567,9 +3567,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Politique de confidentialité | Deadside Cheats",
-					description: "Politique de confidentialité pour Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheats.com.",
+					description: "Politique de confidentialité pour Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheat.com.",
 					h1: "Politique de confidentialité",
-					intro: "Deadside Cheats combine ESP wallhack, 2D radar et deadside aimbot indétectables pour Deadside sur PC Windows. Politique de confidentialité pour deadsidecheats.com et les licences Deadside.",
+					intro: "Deadside Cheats combine ESP wallhack, 2D radar et deadside aimbot indétectables pour Deadside sur PC Windows. Politique de confidentialité pour deadsidecheat.com et les licences Deadside.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-aimbot.webp",
@@ -3581,7 +3581,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Informations collectées",
 							paragraphs: [
 								"Deadside Cheats combine ESP wallhack, 2D radar et deadside aimbot indétectables pour Deadside sur PC Windows. E-mail de contact, références de commande secure checkout et données de sécurité de base du site.",
-								"Les détails de paiement sont traités par le secure checkout — non stockés sur deadsidecheats.com.",
+								"Les détails de paiement sont traités par le secure checkout — non stockés sur deadsidecheat.com.",
 							],
 						},
 						{
@@ -3594,17 +3594,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Vos droits",
 							paragraphs: [
-								"Contactez support@deadsidecheats.com pour le support ou les demandes légales.",
-								"E-mail : support@deadsidecheats.com",
+								"Contactez support@deadsidecheat.com pour le support ou les demandes légales.",
+								"E-mail : support@deadsidecheat.com",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "Politique de remboursement | Deadside Cheats",
-					description: "Politique de remboursement pour Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheats.com.",
+					description: "Politique de remboursement pour Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheat.com.",
 					h1: "Politique de remboursement",
-					intro: "Deadside Cheats combine ESP wallhack, 2D radar et deadside aimbot indétectables pour Deadside sur PC Windows. Politique de remboursement pour deadsidecheats.com et les licences Deadside.",
+					intro: "Deadside Cheats combine ESP wallhack, 2D radar et deadside aimbot indétectables pour Deadside sur PC Windows. Politique de remboursement pour deadsidecheat.com et les licences Deadside.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-session.webp",
@@ -3629,17 +3629,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Comment demander",
 							paragraphs: [
-								"Contactez support@deadsidecheats.com pour le support ou les demandes légales.",
-								"E-mail : support@deadsidecheats.com",
+								"Contactez support@deadsidecheat.com pour le support ou les demandes légales.",
+								"E-mail : support@deadsidecheat.com",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Conditions d'utilisation | Deadside Cheats",
-					description: "Conditions d'utilisation pour Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheats.com.",
+					description: "Conditions d'utilisation pour Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheat.com.",
 					h1: "Conditions d'utilisation",
-					intro: "Deadside Cheats combine ESP wallhack, 2D radar et deadside aimbot indétectables pour Deadside sur PC Windows. Conditions d'utilisation pour deadsidecheats.com et les licences Deadside.",
+					intro: "Deadside Cheats combine ESP wallhack, 2D radar et deadside aimbot indétectables pour Deadside sur PC Windows. Conditions d'utilisation pour deadsidecheat.com et les licences Deadside.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
@@ -3664,8 +3664,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Modifications",
 							paragraphs: [
-								"Contactez support@deadsidecheats.com pour le support ou les demandes légales.",
-								"E-mail : support@deadsidecheats.com",
+								"Contactez support@deadsidecheat.com pour le support ou les demandes légales.",
+								"E-mail : support@deadsidecheat.com",
 							],
 						},
 					],
@@ -3876,7 +3876,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Features 2026 | ESP, Aimbot & Radar | Deadside Cheats",
-					description: "Features: ESP, Soft Aim, Radar-Steuerung. sofortige digitale Lieferung. undetected. Compare plans and guides at deadsidecheats.com.",
+					description: "Features: ESP, Soft Aim, Radar-Steuerung. sofortige digitale Lieferung. undetected. Compare plans and guides at deadsidecheat.com.",
 					h1: "Features — Vollständige Feature-Liste",
 					intro: "Deadside Cheats bündelt ESP wallhack, 2D radar und deadside aimbot als undetected Paket für Deadside auf Windows PC. Features für Deadside auf Windows PC.",
 					imageAlt: "Deadside Cheats features — ESP, soft aim, and radar screenshots",
@@ -4042,7 +4042,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Wenn etwas schiefgeht",
 							paragraphs: [
-								"Status nach Patch prüfen. E-Mail an support@deadsidecheats.com mit Bestell-ID.",
+								"Status nach Patch prüfen. E-Mail an support@deadsidecheat.com mit Bestell-ID.",
 								"Lizenzen mit sofortige digitale Lieferung über secure checkout Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
 							],
 							list: [
@@ -4165,7 +4165,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "So erreichst du uns",
 							paragraphs: [
-								"E-Mail an support@deadsidecheats.com. Bestell-ID und kurze Problembeschreibung angeben.",
+								"E-Mail an support@deadsidecheat.com. Bestell-ID und kurze Problembeschreibung angeben.",
 								"Lizenzen mit sofortige digitale Lieferung über secure checkout Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
 							],
 							list: [
@@ -4397,7 +4397,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Read the <a href=\"/deadside-cheats/\">Deadside Cheats Übersicht</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
 								"Also compare the <a href=\"/deadside-cheats/\">Deadside Cheats Übersicht</a> checklist, <a href=\"/blog/deadside-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
-								"Support is available at support@deadsidecheats.com via the <a href=\"/support/\">Support</a>.",
+								"Support is available at support@deadsidecheat.com via the <a href=\"/support/\">Support</a>.",
 							],
 						},
 						{
@@ -4760,9 +4760,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Datenschutz | Deadside Cheats",
-					description: "Datenschutz für Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheats.com.",
+					description: "Datenschutz für Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Datenschutz",
-					intro: "Deadside Cheats bündelt ESP wallhack, 2D radar und deadside aimbot als undetected Paket für Deadside auf Windows PC. Datenschutz für deadsidecheats.com und Deadside-Lizenzen.",
+					intro: "Deadside Cheats bündelt ESP wallhack, 2D radar und deadside aimbot als undetected Paket für Deadside auf Windows PC. Datenschutz für deadsidecheat.com und Deadside-Lizenzen.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-aimbot.webp",
@@ -4774,7 +4774,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Erhobene Daten",
 							paragraphs: [
 								"Deadside Cheats bündelt ESP wallhack, 2D radar und deadside aimbot als undetected Paket für Deadside auf Windows PC. Kontakt-E-Mail, secure checkout-Bestellreferenzen und grundlegende Sicherheitsdaten der Website.",
-								"Zahlungsdaten werden über secure checkout verarbeitet — nicht auf deadsidecheats.com gespeichert.",
+								"Zahlungsdaten werden über secure checkout verarbeitet — nicht auf deadsidecheat.com gespeichert.",
 							],
 						},
 						{
@@ -4787,17 +4787,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Ihre Rechte",
 							paragraphs: [
-								"support@deadsidecheats.com für Support und rechtliche Anfragen.",
-								"E-Mail: support@deadsidecheats.com",
+								"support@deadsidecheat.com für Support und rechtliche Anfragen.",
+								"E-Mail: support@deadsidecheat.com",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "Rückerstattung | Deadside Cheats",
-					description: "Rückerstattung für Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheats.com.",
+					description: "Rückerstattung für Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Rückerstattung",
-					intro: "Deadside Cheats bündelt ESP wallhack, 2D radar und deadside aimbot als undetected Paket für Deadside auf Windows PC. Rückerstattung für deadsidecheats.com und Deadside-Lizenzen.",
+					intro: "Deadside Cheats bündelt ESP wallhack, 2D radar und deadside aimbot als undetected Paket für Deadside auf Windows PC. Rückerstattung für deadsidecheat.com und Deadside-Lizenzen.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-session.webp",
@@ -4822,17 +4822,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "So beantragen",
 							paragraphs: [
-								"support@deadsidecheats.com für Support und rechtliche Anfragen.",
-								"E-Mail: support@deadsidecheats.com",
+								"support@deadsidecheat.com für Support und rechtliche Anfragen.",
+								"E-Mail: support@deadsidecheat.com",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Nutzungsbedingungen | Deadside Cheats",
-					description: "Nutzungsbedingungen für Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheats.com.",
+					description: "Nutzungsbedingungen für Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Nutzungsbedingungen",
-					intro: "Deadside Cheats bündelt ESP wallhack, 2D radar und deadside aimbot als undetected Paket für Deadside auf Windows PC. Nutzungsbedingungen für deadsidecheats.com und Deadside-Lizenzen.",
+					intro: "Deadside Cheats bündelt ESP wallhack, 2D radar und deadside aimbot als undetected Paket für Deadside auf Windows PC. Nutzungsbedingungen für deadsidecheat.com und Deadside-Lizenzen.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
@@ -4857,8 +4857,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Richtlinienänderungen",
 							paragraphs: [
-								"support@deadsidecheats.com für Support und rechtliche Anfragen.",
-								"E-Mail: support@deadsidecheats.com",
+								"support@deadsidecheat.com für Support und rechtliche Anfragen.",
+								"E-Mail: support@deadsidecheat.com",
 							],
 						},
 					],
@@ -5068,7 +5068,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Recursos 2026 | ESP, Aimbot & Radar | Deadside Cheats",
-					description: "Recursos: ESP, soft aim, controles de radar. entrega digital instantânea. indetectáveis. Compare plans and guides at deadsidecheats.com.",
+					description: "Recursos: ESP, soft aim, controles de radar. entrega digital instantânea. indetectáveis. Compare plans and guides at deadsidecheat.com.",
 					h1: "Recursos — Lista completa de recursos",
 					intro: "Deadside Cheats reúne ESP wallhack, 2D radar e deadside aimbot indetectáveis para Deadside no PC Windows. Recursos für Deadside auf PC Windows.",
 					imageAlt: "Deadside Cheats features — ESP, soft aim, and radar screenshots",
@@ -5233,7 +5233,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Se algo falhar",
 							paragraphs: [
-								"Verifique Status após patch. Email support@deadsidecheats.com com ID do pedido.",
+								"Verifique Status após patch. Email support@deadsidecheat.com com ID do pedido.",
 								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 							],
 							list: [
@@ -5356,7 +5356,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Como nos contactar",
 							paragraphs: [
-								"Email support@deadsidecheats.com. Inclua ID do pedido e nota breve sobre o problema.",
+								"Email support@deadsidecheat.com. Inclua ID do pedido e nota breve sobre o problema.",
 								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 							],
 							list: [
@@ -5588,7 +5588,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Read the <a href=\"/deadside-cheats/\">Visão geral Deadside Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
 								"Also compare the <a href=\"/deadside-cheats/\">Visão geral Deadside Cheats</a> checklist, <a href=\"/blog/deadside-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
-								"Support is available at support@deadsidecheats.com via the <a href=\"/support/\">Suporte</a>.",
+								"Support is available at support@deadsidecheat.com via the <a href=\"/support/\">Suporte</a>.",
 							],
 						},
 						{
@@ -5951,9 +5951,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Política de privacidade | Deadside Cheats",
-					description: "Política de privacidade para Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheats.com.",
+					description: "Política de privacidade para Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheat.com.",
 					h1: "Política de privacidade",
-					intro: "Deadside Cheats reúne ESP wallhack, 2D radar e deadside aimbot indetectáveis para Deadside no PC Windows. Política de privacidade para deadsidecheats.com e licenças Deadside.",
+					intro: "Deadside Cheats reúne ESP wallhack, 2D radar e deadside aimbot indetectáveis para Deadside no PC Windows. Política de privacidade para deadsidecheat.com e licenças Deadside.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-aimbot.webp",
@@ -5965,7 +5965,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Informações que coletamos",
 							paragraphs: [
 								"Deadside Cheats reúne ESP wallhack, 2D radar e deadside aimbot indetectáveis para Deadside no PC Windows. E-mail de contato, referências de pedido secure checkout e dados básicos de segurança do site.",
-								"Detalhes de pagamento são processados pelo secure checkout — não armazenados em deadsidecheats.com.",
+								"Detalhes de pagamento são processados pelo secure checkout — não armazenados em deadsidecheat.com.",
 							],
 						},
 						{
@@ -5978,17 +5978,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Seus direitos",
 							paragraphs: [
-								"Contacte support@deadsidecheats.com para suporte ou questões legais.",
-								"E-mail: support@deadsidecheats.com",
+								"Contacte support@deadsidecheat.com para suporte ou questões legais.",
+								"E-mail: support@deadsidecheat.com",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "Política de reembolso | Deadside Cheats",
-					description: "Política de reembolso para Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheats.com.",
+					description: "Política de reembolso para Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheat.com.",
 					h1: "Política de reembolso",
-					intro: "Deadside Cheats reúne ESP wallhack, 2D radar e deadside aimbot indetectáveis para Deadside no PC Windows. Política de reembolso para deadsidecheats.com e licenças Deadside.",
+					intro: "Deadside Cheats reúne ESP wallhack, 2D radar e deadside aimbot indetectáveis para Deadside no PC Windows. Política de reembolso para deadsidecheat.com e licenças Deadside.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-session.webp",
@@ -6013,17 +6013,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Como solicitar",
 							paragraphs: [
-								"Contacte support@deadsidecheats.com para suporte ou questões legais.",
-								"E-mail: support@deadsidecheats.com",
+								"Contacte support@deadsidecheat.com para suporte ou questões legais.",
+								"E-mail: support@deadsidecheat.com",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Termos de uso | Deadside Cheats",
-					description: "Termos de uso para Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheats.com.",
+					description: "Termos de uso para Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheat.com.",
 					h1: "Termos de uso",
-					intro: "Deadside Cheats reúne ESP wallhack, 2D radar e deadside aimbot indetectáveis para Deadside no PC Windows. Termos de uso para deadsidecheats.com e licenças Deadside.",
+					intro: "Deadside Cheats reúne ESP wallhack, 2D radar e deadside aimbot indetectáveis para Deadside no PC Windows. Termos de uso para deadsidecheat.com e licenças Deadside.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
@@ -6048,8 +6048,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Alterações de política",
 							paragraphs: [
-								"Contacte support@deadsidecheats.com para suporte ou questões legais.",
-								"E-mail: support@deadsidecheats.com",
+								"Contacte support@deadsidecheat.com para suporte ou questões legais.",
+								"E-mail: support@deadsidecheat.com",
 							],
 						},
 					],
@@ -6259,7 +6259,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Funzioni 2026 | ESP, Aimbot & Radar | Deadside Cheats",
-					description: "Funzioni: ESP, soft aim, controlli radar. consegna digitale istantanea. indetectable. Compare plans and guides at deadsidecheats.com.",
+					description: "Funzioni: ESP, soft aim, controlli radar. consegna digitale istantanea. indetectable. Compare plans and guides at deadsidecheat.com.",
 					h1: "Funzioni — Elenco completo funzioni",
 					intro: "Deadside Cheats unisce ESP wallhack, 2D radar e deadside aimbot indetectable per Deadside su PC Windows. Funzioni für Deadside auf PC Windows.",
 					imageAlt: "Deadside Cheats features — ESP, soft aim, and radar screenshots",
@@ -6424,7 +6424,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Se qualcosa non funziona",
 							paragraphs: [
-								"Controlla Stato dopo patch. Email support@deadsidecheats.com con ID ordine.",
+								"Controlla Stato dopo patch. Email support@deadsidecheat.com con ID ordine.",
 								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 							],
 							list: [
@@ -6547,7 +6547,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Come contattarci",
 							paragraphs: [
-								"Email support@deadsidecheats.com. Includi ID ordine e breve nota sul problema.",
+								"Email support@deadsidecheat.com. Includi ID ordine e breve nota sul problema.",
 								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 							],
 							list: [
@@ -6779,7 +6779,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Read the <a href=\"/deadside-cheats/\">Panoramica Deadside Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
 								"Also compare the <a href=\"/deadside-cheats/\">Panoramica Deadside Cheats</a> checklist, <a href=\"/blog/deadside-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
-								"Support is available at support@deadsidecheats.com via the <a href=\"/support/\">Supporto</a>.",
+								"Support is available at support@deadsidecheat.com via the <a href=\"/support/\">Supporto</a>.",
 							],
 						},
 						{
@@ -7142,9 +7142,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Informativa privacy | Deadside Cheats",
-					description: "Informativa privacy per Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheats.com.",
+					description: "Informativa privacy per Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheat.com.",
 					h1: "Informativa privacy",
-					intro: "Deadside Cheats unisce ESP wallhack, 2D radar e deadside aimbot indetectable per Deadside su PC Windows. Informativa privacy per deadsidecheats.com e licenze Deadside.",
+					intro: "Deadside Cheats unisce ESP wallhack, 2D radar e deadside aimbot indetectable per Deadside su PC Windows. Informativa privacy per deadsidecheat.com e licenze Deadside.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-aimbot.webp",
@@ -7156,7 +7156,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Informazioni raccolte",
 							paragraphs: [
 								"Deadside Cheats unisce ESP wallhack, 2D radar e deadside aimbot indetectable per Deadside su PC Windows. Email di contatto, riferimenti ordine secure checkout e dati di sicurezza di base del sito.",
-								"I dati di pagamento sono elaborati dal secure checkout — non meloot zonezzati su deadsidecheats.com.",
+								"I dati di pagamento sono elaborati dal secure checkout — non meloot zonezzati su deadsidecheat.com.",
 							],
 						},
 						{
@@ -7169,17 +7169,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "I tuoi diritti",
 							paragraphs: [
-								"Contatta support@deadsidecheats.com per supporto o richieste legali.",
-								"Email: support@deadsidecheats.com",
+								"Contatta support@deadsidecheat.com per supporto o richieste legali.",
+								"Email: support@deadsidecheat.com",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "Politica di rimborso | Deadside Cheats",
-					description: "Politica di rimborso per Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheats.com.",
+					description: "Politica di rimborso per Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheat.com.",
 					h1: "Politica di rimborso",
-					intro: "Deadside Cheats unisce ESP wallhack, 2D radar e deadside aimbot indetectable per Deadside su PC Windows. Politica di rimborso per deadsidecheats.com e licenze Deadside.",
+					intro: "Deadside Cheats unisce ESP wallhack, 2D radar e deadside aimbot indetectable per Deadside su PC Windows. Politica di rimborso per deadsidecheat.com e licenze Deadside.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-session.webp",
@@ -7204,17 +7204,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Come richiedere",
 							paragraphs: [
-								"Contatta support@deadsidecheats.com per supporto o richieste legali.",
-								"Email: support@deadsidecheats.com",
+								"Contatta support@deadsidecheat.com per supporto o richieste legali.",
+								"Email: support@deadsidecheat.com",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Termini di utilizzo | Deadside Cheats",
-					description: "Termini di utilizzo per Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheats.com.",
+					description: "Termini di utilizzo per Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheat.com.",
 					h1: "Termini di utilizzo",
-					intro: "Deadside Cheats unisce ESP wallhack, 2D radar e deadside aimbot indetectable per Deadside su PC Windows. Termini di utilizzo per deadsidecheats.com e licenze Deadside.",
+					intro: "Deadside Cheats unisce ESP wallhack, 2D radar e deadside aimbot indetectable per Deadside su PC Windows. Termini di utilizzo per deadsidecheat.com e licenze Deadside.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
@@ -7239,8 +7239,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Modifiche alla policy",
 							paragraphs: [
-								"Contatta support@deadsidecheats.com per supporto o richieste legali.",
-								"Email: support@deadsidecheats.com",
+								"Contatta support@deadsidecheat.com per supporto o richieste legali.",
+								"Email: support@deadsidecheat.com",
 							],
 						},
 					],
@@ -7450,7 +7450,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Functies 2026 | ESP, Aimbot & Radar | Deadside Cheats",
-					description: "Functies: ESP, soft aim, radar bediening. directe digitale levering. undetected. Compare plans and guides at deadsidecheats.com.",
+					description: "Functies: ESP, soft aim, radar bediening. directe digitale levering. undetected. Compare plans and guides at deadsidecheat.com.",
 					h1: "Functies — Full Feature List",
 					intro: "Deadside Cheats bundelt ESP wallhack, 2D radar en deadside aimbot als undetected pakket voor Deadside op Windows PC. Functies für Deadside auf Windows PC.",
 					imageAlt: "Deadside Cheats features — ESP, soft aim, and radar screenshots",
@@ -7615,7 +7615,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Als iets misgaat",
 							paragraphs: [
-								"Check Status na patch. E-mail support@deadsidecheats.com met order-ID.",
+								"Check Status na patch. E-mail support@deadsidecheat.com met order-ID.",
 								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 							],
 							list: [
@@ -7738,7 +7738,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Hoe contact opnemen",
 							paragraphs: [
-								"E-mail support@deadsidecheats.com. Voeg order-ID en korte probleemnotitie toe.",
+								"E-mail support@deadsidecheat.com. Voeg order-ID en korte probleemnotitie toe.",
 								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 							],
 							list: [
@@ -7970,7 +7970,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Read the <a href=\"/deadside-cheats/\">Deadside Cheats overzicht</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
 								"Also compare the <a href=\"/deadside-cheats/\">Deadside Cheats overzicht</a> checklist, <a href=\"/blog/deadside-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
-								"Support is available at support@deadsidecheats.com via the <a href=\"/support/\">Support</a>.",
+								"Support is available at support@deadsidecheat.com via the <a href=\"/support/\">Support</a>.",
 							],
 						},
 						{
@@ -8333,9 +8333,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Privacybeleid | Deadside Cheats",
-					description: "Privacybeleid voor Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheats.com.",
+					description: "Privacybeleid voor Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Privacybeleid",
-					intro: "Deadside Cheats bundelt ESP wallhack, 2D radar en deadside aimbot als undetected pakket voor Deadside op Windows PC. Privacybeleid voor deadsidecheats.com en Deadside-licenties.",
+					intro: "Deadside Cheats bundelt ESP wallhack, 2D radar en deadside aimbot als undetected pakket voor Deadside op Windows PC. Privacybeleid voor deadsidecheat.com en Deadside-licenties.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-aimbot.webp",
@@ -8347,7 +8347,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Informatie die we verzamelen",
 							paragraphs: [
 								"Deadside Cheats bundelt ESP wallhack, 2D radar en deadside aimbot als undetected pakket voor Deadside op Windows PC. Contact-e-mail, secure checkout-orderreferenties en basisbeveiligingsgegevens van de site.",
-								"Betalingsgegevens worden verwerkt. — niet opgeslagen op deadsidecheats.com.",
+								"Betalingsgegevens worden verwerkt. — niet opgeslagen op deadsidecheat.com.",
 							],
 						},
 						{
@@ -8360,17 +8360,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Uw rechten",
 							paragraphs: [
-								"support@deadsidecheats.com voor support en juridische vragen.",
-								"E-mail: support@deadsidecheats.com",
+								"support@deadsidecheat.com voor support en juridische vragen.",
+								"E-mail: support@deadsidecheat.com",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "Restitutiebeleid | Deadside Cheats",
-					description: "Restitutiebeleid voor Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheats.com.",
+					description: "Restitutiebeleid voor Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Restitutiebeleid",
-					intro: "Deadside Cheats bundelt ESP wallhack, 2D radar en deadside aimbot als undetected pakket voor Deadside op Windows PC. Restitutiebeleid voor deadsidecheats.com en Deadside-licenties.",
+					intro: "Deadside Cheats bundelt ESP wallhack, 2D radar en deadside aimbot als undetected pakket voor Deadside op Windows PC. Restitutiebeleid voor deadsidecheat.com en Deadside-licenties.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-session.webp",
@@ -8395,17 +8395,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Hoe aanvragen",
 							paragraphs: [
-								"support@deadsidecheats.com voor support en juridische vragen.",
-								"E-mail: support@deadsidecheats.com",
+								"support@deadsidecheat.com voor support en juridische vragen.",
+								"E-mail: support@deadsidecheat.com",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Gebruiksvoorwaarden | Deadside Cheats",
-					description: "Gebruiksvoorwaarden voor Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheats.com.",
+					description: "Gebruiksvoorwaarden voor Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Gebruiksvoorwaarden",
-					intro: "Deadside Cheats bundelt ESP wallhack, 2D radar en deadside aimbot als undetected pakket voor Deadside op Windows PC. Gebruiksvoorwaarden voor deadsidecheats.com en Deadside-licenties.",
+					intro: "Deadside Cheats bundelt ESP wallhack, 2D radar en deadside aimbot als undetected pakket voor Deadside op Windows PC. Gebruiksvoorwaarden voor deadsidecheat.com en Deadside-licenties.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
@@ -8430,8 +8430,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Beleidswijzigingen",
 							paragraphs: [
-								"support@deadsidecheats.com voor support en juridische vragen.",
-								"E-mail: support@deadsidecheats.com",
+								"support@deadsidecheat.com voor support en juridische vragen.",
+								"E-mail: support@deadsidecheat.com",
 							],
 						},
 					],
@@ -8641,7 +8641,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Funkcje 2026 | ESP, Aimbot & Radar | Deadside Cheats",
-					description: "Funkcje: ESP, soft aim, sterowanie radar. natychmiastowa dostawa cyfrowa. undetected. Compare plans and guides at deadsidecheats.com.",
+					description: "Funkcje: ESP, soft aim, sterowanie radar. natychmiastowa dostawa cyfrowa. undetected. Compare plans and guides at deadsidecheat.com.",
 					h1: "Funkcje — Full Feature List",
 					intro: "Deadside Cheats łączy ESP wallhack, 2D radar i deadside aimbot jako pakiet undetected dla Deadside na PC Windows. Funkcje für Deadside auf PC Windows.",
 					imageAlt: "Deadside Cheats features — ESP, soft aim, and radar screenshots",
@@ -8806,7 +8806,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Gdy coś nie działa",
 							paragraphs: [
-								"Sprawdź Status po patchu. Email support@deadsidecheats.com z ID zamówienia.",
+								"Sprawdź Status po patchu. Email support@deadsidecheat.com z ID zamówienia.",
 								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 							],
 							list: [
@@ -8929,7 +8929,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Jak się skontaktować",
 							paragraphs: [
-								"Email support@deadsidecheats.com. Dołącz ID zamówienia i krótki opis problemu.",
+								"Email support@deadsidecheat.com. Dołącz ID zamówienia i krótki opis problemu.",
 								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 							],
 							list: [
@@ -9161,7 +9161,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Read the <a href=\"/deadside-cheats/\">Przegląd Deadside Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
 								"Also compare the <a href=\"/deadside-cheats/\">Przegląd Deadside Cheats</a> checklist, <a href=\"/blog/deadside-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
-								"Support is available at support@deadsidecheats.com via the <a href=\"/support/\">Wsparcie</a>.",
+								"Support is available at support@deadsidecheat.com via the <a href=\"/support/\">Wsparcie</a>.",
 							],
 						},
 						{
@@ -9524,9 +9524,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Polityka prywatności | Deadside Cheats",
-					description: "Polityka prywatności dla Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheats.com.",
+					description: "Polityka prywatności dla Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheat.com.",
 					h1: "Polityka prywatności",
-					intro: "Deadside Cheats łączy ESP wallhack, 2D radar i deadside aimbot jako pakiet undetected dla Deadside na PC Windows. Polityka prywatności dla deadsidecheats.com i licencji Deadside.",
+					intro: "Deadside Cheats łączy ESP wallhack, 2D radar i deadside aimbot jako pakiet undetected dla Deadside na PC Windows. Polityka prywatności dla deadsidecheat.com i licencji Deadside.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-aimbot.webp",
@@ -9538,7 +9538,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Informacje, które zbieramy",
 							paragraphs: [
 								"Deadside Cheats łączy ESP wallhack, 2D radar i deadside aimbot jako pakiet undetected dla Deadside na PC Windows. E-mail kontaktowy, referencje zamówień secure checkout i podstawowe dane bezpieczeństwa witryny.",
-								"Dane płatności są przetwarzane przez secure checkout — nie przechowywane na deadsidecheats.com.",
+								"Dane płatności są przetwarzane przez secure checkout — nie przechowywane na deadsidecheat.com.",
 							],
 						},
 						{
@@ -9551,17 +9551,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Twoje prawa",
 							paragraphs: [
-								"support@deadsidecheats.com w sprawach wsparcia i prawnych.",
-								"E-mail: support@deadsidecheats.com",
+								"support@deadsidecheat.com w sprawach wsparcia i prawnych.",
+								"E-mail: support@deadsidecheat.com",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "Polityka zwrotów | Deadside Cheats",
-					description: "Polityka zwrotów dla Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheats.com.",
+					description: "Polityka zwrotów dla Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheat.com.",
 					h1: "Polityka zwrotów",
-					intro: "Deadside Cheats łączy ESP wallhack, 2D radar i deadside aimbot jako pakiet undetected dla Deadside na PC Windows. Polityka zwrotów dla deadsidecheats.com i licencji Deadside.",
+					intro: "Deadside Cheats łączy ESP wallhack, 2D radar i deadside aimbot jako pakiet undetected dla Deadside na PC Windows. Polityka zwrotów dla deadsidecheat.com i licencji Deadside.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-session.webp",
@@ -9586,17 +9586,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Jak złożyć wniosek",
 							paragraphs: [
-								"support@deadsidecheats.com w sprawach wsparcia i prawnych.",
-								"E-mail: support@deadsidecheats.com",
+								"support@deadsidecheat.com w sprawach wsparcia i prawnych.",
+								"E-mail: support@deadsidecheat.com",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Warunki użytkowania | Deadside Cheats",
-					description: "Warunki użytkowania dla Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheats.com.",
+					description: "Warunki użytkowania dla Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheat.com.",
 					h1: "Warunki użytkowania",
-					intro: "Deadside Cheats łączy ESP wallhack, 2D radar i deadside aimbot jako pakiet undetected dla Deadside na PC Windows. Warunki użytkowania dla deadsidecheats.com i licencji Deadside.",
+					intro: "Deadside Cheats łączy ESP wallhack, 2D radar i deadside aimbot jako pakiet undetected dla Deadside na PC Windows. Warunki użytkowania dla deadsidecheat.com i licencji Deadside.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
@@ -9621,8 +9621,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Zmiany polityki",
 							paragraphs: [
-								"support@deadsidecheats.com w sprawach wsparcia i prawnych.",
-								"E-mail: support@deadsidecheats.com",
+								"support@deadsidecheat.com w sprawach wsparcia i prawnych.",
+								"E-mail: support@deadsidecheat.com",
 							],
 						},
 					],
@@ -9832,7 +9832,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Функции 2026 | ESP, Aimbot & Radar | Deadside Cheats",
-					description: "Функции: ESP, soft aim, управление radar. мгновенная цифровая доставка. undetected. Compare plans and guides at deadsidecheats.com.",
+					description: "Функции: ESP, soft aim, управление radar. мгновенная цифровая доставка. undetected. Compare plans and guides at deadsidecheat.com.",
 					h1: "Функции — Полный список функций",
 					intro: "Deadside Cheats объединяет ESP wallhack, 2D radar и deadside aimbot в undetected пакете для Deadside на Windows PC. Функции für Deadside auf Windows PC.",
 					imageAlt: "Deadside Cheats features — ESP, soft aim, and radar screenshots",
@@ -9997,7 +9997,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Если что-то не работает",
 							paragraphs: [
-								"Проверьте Статус после патча. Email support@deadsidecheats.com с ID заказа.",
+								"Проверьте Статус после патча. Email support@deadsidecheat.com с ID заказа.",
 								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 							],
 							list: [
@@ -10120,7 +10120,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Как связаться",
 							paragraphs: [
-								"Email support@deadsidecheats.com. Укажите ID заказа и краткое описание проблемы.",
+								"Email support@deadsidecheat.com. Укажите ID заказа и краткое описание проблемы.",
 								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 							],
 							list: [
@@ -10352,7 +10352,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Read the <a href=\"/deadside-cheats/\">Обзор Deadside Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
 								"Also compare the <a href=\"/deadside-cheats/\">Обзор Deadside Cheats</a> checklist, <a href=\"/blog/deadside-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
-								"Support is available at support@deadsidecheats.com via the <a href=\"/support/\">Поддержка</a>.",
+								"Support is available at support@deadsidecheat.com via the <a href=\"/support/\">Поддержка</a>.",
 							],
 						},
 						{
@@ -10715,9 +10715,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Политика конфиденциальности | Deadside Cheats",
-					description: "Политика конфиденциальности для Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheats.com.",
+					description: "Политика конфиденциальности для Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Политика конфиденциальности",
-					intro: "Deadside Cheats объединяет ESP wallhack, 2D radar и deadside aimbot в undetected пакете для Deadside на Windows PC. Политика конфиденциальности для deadsidecheats.com и лицензий Deadside.",
+					intro: "Deadside Cheats объединяет ESP wallhack, 2D radar и deadside aimbot в undetected пакете для Deadside на Windows PC. Политика конфиденциальности для deadsidecheat.com и лицензий Deadside.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-aimbot.webp",
@@ -10729,7 +10729,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Информация, которую мы собираем",
 							paragraphs: [
 								"Deadside Cheats объединяет ESP wallhack, 2D radar и deadside aimbot в undetected пакете для Deadside на Windows PC. Контактный email, ссылки на заказы secure checkout и базовые данные безопасности сайта.",
-								"Платёжные данные обрабатываются через secure checkout — не хранятся на deadsidecheats.com.",
+								"Платёжные данные обрабатываются через secure checkout — не хранятся на deadsidecheat.com.",
 							],
 						},
 						{
@@ -10742,17 +10742,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Ваши права",
 							paragraphs: [
-								"support@deadsidecheats.com для поддержки и юридических вопросов.",
-								"Email: support@deadsidecheats.com",
+								"support@deadsidecheat.com для поддержки и юридических вопросов.",
+								"Email: support@deadsidecheat.com",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "Политика возврата | Deadside Cheats",
-					description: "Политика возврата для Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheats.com.",
+					description: "Политика возврата для Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Политика возврата",
-					intro: "Deadside Cheats объединяет ESP wallhack, 2D radar и deadside aimbot в undetected пакете для Deadside на Windows PC. Политика возврата для deadsidecheats.com и лицензий Deadside.",
+					intro: "Deadside Cheats объединяет ESP wallhack, 2D radar и deadside aimbot в undetected пакете для Deadside на Windows PC. Политика возврата для deadsidecheat.com и лицензий Deadside.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-session.webp",
@@ -10777,17 +10777,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Как запросить",
 							paragraphs: [
-								"support@deadsidecheats.com для поддержки и юридических вопросов.",
-								"Email: support@deadsidecheats.com",
+								"support@deadsidecheat.com для поддержки и юридических вопросов.",
+								"Email: support@deadsidecheat.com",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Условия использования | Deadside Cheats",
-					description: "Условия использования для Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheats.com.",
+					description: "Условия использования для Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Условия использования",
-					intro: "Deadside Cheats объединяет ESP wallhack, 2D radar и deadside aimbot в undetected пакете для Deadside на Windows PC. Условия использования для deadsidecheats.com и лицензий Deadside.",
+					intro: "Deadside Cheats объединяет ESP wallhack, 2D radar и deadside aimbot в undetected пакете для Deadside на Windows PC. Условия использования для deadsidecheat.com и лицензий Deadside.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
@@ -10812,8 +10812,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Изменения политики",
 							paragraphs: [
-								"support@deadsidecheats.com для поддержки и юридических вопросов.",
-								"Email: support@deadsidecheats.com",
+								"support@deadsidecheat.com для поддержки и юридических вопросов.",
+								"Email: support@deadsidecheat.com",
 							],
 						},
 					],
@@ -10895,7 +10895,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Deadside Cheats 2026 | ESP, Wallhack ve Aimbot",
-					description: "Deadside için undetected hileler. ESP wallhack, 2D radar ve Aimbot — BattlEye bakımı. Anında dijital teslimat. Compare plans and guides at deadsidecheats.com.",
+					description: "Deadside için undetected hileler. ESP wallhack, 2D radar ve Aimbot — BattlEye bakımı. Anında dijital teslimat. Compare plans and guides at deadsidecheat.com.",
 					h1: "Deadside için undetected hileler",
 					intro: "Deadside Windows PC undetected paketi: ESP wallhack, radar ve Aimbot — BattlEye bakımı dahil.",
 					imageAlt: "deadside esp player ESP tags",
@@ -11023,7 +11023,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Özellikler 2026 | ESP, Aimbot & Radar | Deadside Cheats",
-					description: "Özellikler: ESP, soft aim, radar kontrolleri. anında dijital teslimat. undetected. Compare plans and guides at deadsidecheats.com.",
+					description: "Özellikler: ESP, soft aim, radar kontrolleri. anında dijital teslimat. undetected. Compare plans and guides at deadsidecheat.com.",
 					h1: "Özellikler — Full Feature List",
 					intro: "Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, 2D radar ve deadside aimbot undetected paket sunar. Özellikler für Deadside auf Windows PC.",
 					imageAlt: "Deadside Cheats features — ESP, soft aim, and radar screenshots",
@@ -11188,7 +11188,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Bir şey başarısız olursa",
 							paragraphs: [
-								"Yama sonrası Durum kontrol edin. Sipariş ID ile support@deadsidecheats.com.",
+								"Yama sonrası Durum kontrol edin. Sipariş ID ile support@deadsidecheat.com.",
 								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 							],
 							list: [
@@ -11311,7 +11311,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Nasıl iletişime geçilir",
 							paragraphs: [
-								"support@deadsidecheats.com adresine email. Sipariş ID ve kısa sorun notu ekleyin.",
+								"support@deadsidecheat.com adresine email. Sipariş ID ve kısa sorun notu ekleyin.",
 								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 							],
 							list: [
@@ -11543,7 +11543,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Read the <a href=\"/deadside-cheats/\">Deadside Cheats genel bakış</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
 								"Also compare the <a href=\"/deadside-cheats/\">Deadside Cheats genel bakış</a> checklist, <a href=\"/blog/deadside-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">SSS</a>.",
-								"Support is available at support@deadsidecheats.com via the <a href=\"/support/\">Destek</a>.",
+								"Support is available at support@deadsidecheat.com via the <a href=\"/support/\">Destek</a>.",
 							],
 						},
 						{
@@ -11906,9 +11906,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Gizlilik politikası | Deadside Cheats",
-					description: "Gizlilik politikası Deadside Cheats — ESP wallhack, Aimbot için, Windows PC. Compare plans and guides at deadsidecheats.com.",
+					description: "Gizlilik politikası Deadside Cheats — ESP wallhack, Aimbot için, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Gizlilik politikası",
-					intro: "Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, 2D radar ve deadside aimbot undetected paket sunar. Gizlilik politikası deadsidecheats.com ve Deadside lisansları için.",
+					intro: "Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, 2D radar ve deadside aimbot undetected paket sunar. Gizlilik politikası deadsidecheat.com ve Deadside lisansları için.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-aimbot.webp",
@@ -11920,7 +11920,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Topladığımız bilgiler",
 							paragraphs: [
 								"Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, 2D radar ve deadside aimbot undetected paket sunar. İletişim e-postası, secure checkout sipariş referansları ve temel site güvenlik verileri.",
-								"Ödeme bilgileri ile işlenir — deadsidecheats.com'da saklanmaz.",
+								"Ödeme bilgileri ile işlenir — deadsidecheat.com'da saklanmaz.",
 							],
 						},
 						{
@@ -11933,17 +11933,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Haklarınız",
 							paragraphs: [
-								"Destek ve yasal sorular için support@deadsidecheats.com.",
-								"E-posta: support@deadsidecheats.com",
+								"Destek ve yasal sorular için support@deadsidecheat.com.",
+								"E-posta: support@deadsidecheat.com",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "İade politikası | Deadside Cheats",
-					description: "İade politikası Deadside Cheats — ESP wallhack, Aimbot için, Windows PC. Compare plans and guides at deadsidecheats.com.",
+					description: "İade politikası Deadside Cheats — ESP wallhack, Aimbot için, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "İade politikası",
-					intro: "Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, 2D radar ve deadside aimbot undetected paket sunar. İade politikası deadsidecheats.com ve Deadside lisansları için.",
+					intro: "Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, 2D radar ve deadside aimbot undetected paket sunar. İade politikası deadsidecheat.com ve Deadside lisansları için.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-session.webp",
@@ -11968,17 +11968,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Nasıl talep edilir",
 							paragraphs: [
-								"Destek ve yasal sorular için support@deadsidecheats.com.",
-								"E-posta: support@deadsidecheats.com",
+								"Destek ve yasal sorular için support@deadsidecheat.com.",
+								"E-posta: support@deadsidecheat.com",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Kullanım şartları | Deadside Cheats",
-					description: "Kullanım şartları Deadside Cheats — ESP wallhack, Aimbot için, Windows PC. Compare plans and guides at deadsidecheats.com.",
+					description: "Kullanım şartları Deadside Cheats — ESP wallhack, Aimbot için, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Kullanım şartları",
-					intro: "Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, 2D radar ve deadside aimbot undetected paket sunar. Kullanım şartları deadsidecheats.com ve Deadside lisansları için.",
+					intro: "Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, 2D radar ve deadside aimbot undetected paket sunar. Kullanım şartları deadsidecheat.com ve Deadside lisansları için.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
@@ -12003,8 +12003,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Politika değişiklikleri",
 							paragraphs: [
-								"Destek ve yasal sorular için support@deadsidecheats.com.",
-								"E-posta: support@deadsidecheats.com",
+								"Destek ve yasal sorular için support@deadsidecheat.com.",
+								"E-posta: support@deadsidecheat.com",
 							],
 						},
 					],
@@ -12086,7 +12086,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Deadside Cheats 2026 | ESP وWallhack وAimbot",
-					description: "غش Deadside undetected لـ Deadside على PC. ESP wallhack و2D radar وAimbot مع صيانة BattlEye. تسليم رقمي فوري. Compare plans and guides at deadsidecheats.com.",
+					description: "غش Deadside undetected لـ Deadside على PC. ESP wallhack و2D radar وAimbot مع صيانة BattlEye. تسليم رقمي فوري. Compare plans and guides at deadsidecheat.com.",
 					h1: "غش غير مكتشف لـ Deadside",
 					intro: "حزمة undetected لـ Deadside على Windows PC: ESP wallhack ورadar وAimbot مع صيانة BattlEye.",
 					imageAlt: "deadside esp player ESP tags",
@@ -12214,7 +12214,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "الميزات 2026 | ESP, Aimbot & Radar | Deadside Cheats",
-					description: "الميزات: ESP وsoft aim وضوابط radar. تسليم رقمي فوري. غير مكتشف. Compare plans and guides at deadsidecheats.com.",
+					description: "الميزات: ESP وsoft aim وضوابط radar. تسليم رقمي فوري. غير مكتشف. Compare plans and guides at deadsidecheat.com.",
 					h1: "الميزات — Full Feature List",
 					intro: "Deadside Cheats يجمع ESP wallhack و2D radar وdeadside aimbot غير مكتشف لـ Deadside على Windows PC. الميزات für Deadside auf Windows PC.",
 					imageAlt: "Deadside Cheats features — ESP, soft aim, and radar screenshots",
@@ -12379,7 +12379,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "إذا فشل شيء",
 							paragraphs: [
-								"تحقق من الحالة بعد التصحيح. راسل support@deadsidecheats.com مع معرف الطلب.",
+								"تحقق من الحالة بعد التصحيح. راسل support@deadsidecheat.com مع معرف الطلب.",
 								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 							],
 							list: [
@@ -12502,7 +12502,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "كيف تتواصل معنا",
 							paragraphs: [
-								"راسل support@deadsidecheats.com. أرفق معرف الطلب وملاحظة قصيرة.",
+								"راسل support@deadsidecheat.com. أرفق معرف الطلب وملاحظة قصيرة.",
 								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 							],
 							list: [
@@ -12734,7 +12734,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Read the <a href=\"/deadside-cheats/\">نظرة عامة على Deadside Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
 								"Also compare the <a href=\"/deadside-cheats/\">نظرة عامة على Deadside Cheats</a> checklist, <a href=\"/blog/deadside-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">الأسئلة الشائعة</a>.",
-								"Support is available at support@deadsidecheats.com via the <a href=\"/support/\">الدعم</a>.",
+								"Support is available at support@deadsidecheat.com via the <a href=\"/support/\">الدعم</a>.",
 							],
 						},
 						{
@@ -13097,9 +13097,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "سياسة الخصوصية | Deadside Cheats",
-					description: "سياسة الخصوصية لـ Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheats.com.",
+					description: "سياسة الخصوصية لـ Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "سياسة الخصوصية",
-					intro: "Deadside Cheats يجمع ESP wallhack و2D radar وdeadside aimbot غير مكتشف لـ Deadside على Windows PC. سياسة الخصوصية لـ deadsidecheats.com وتراخيص Deadside.",
+					intro: "Deadside Cheats يجمع ESP wallhack و2D radar وdeadside aimbot غير مكتشف لـ Deadside على Windows PC. سياسة الخصوصية لـ deadsidecheat.com وتراخيص Deadside.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-aimbot.webp",
@@ -13111,7 +13111,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "المعلومات التي نجمعها",
 							paragraphs: [
 								"Deadside Cheats يجمع ESP wallhack و2D radar وdeadside aimbot غير مكتشف لـ Deadside على Windows PC. بريد الاتصال ومراجع طلبات secure checkout وبيانات أمان الموقع الأساسية.",
-								"تُعالَج تفاصيل الدفع عبر secure checkout — ولا تُخزَّن على deadsidecheats.com.",
+								"تُعالَج تفاصيل الدفع عبر secure checkout — ولا تُخزَّن على deadsidecheat.com.",
 							],
 						},
 						{
@@ -13124,17 +13124,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "حقوقك",
 							paragraphs: [
-								"support@deadsidecheats.com للدعم والطلبات القانونية.",
-								"البريد: support@deadsidecheats.com",
+								"support@deadsidecheat.com للدعم والطلبات القانونية.",
+								"البريد: support@deadsidecheat.com",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "سياسة الاسترداد | Deadside Cheats",
-					description: "سياسة الاسترداد لـ Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheats.com.",
+					description: "سياسة الاسترداد لـ Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "سياسة الاسترداد",
-					intro: "Deadside Cheats يجمع ESP wallhack و2D radar وdeadside aimbot غير مكتشف لـ Deadside على Windows PC. سياسة الاسترداد لـ deadsidecheats.com وتراخيص Deadside.",
+					intro: "Deadside Cheats يجمع ESP wallhack و2D radar وdeadside aimbot غير مكتشف لـ Deadside على Windows PC. سياسة الاسترداد لـ deadsidecheat.com وتراخيص Deadside.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-session.webp",
@@ -13159,17 +13159,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "كيفية الطلب",
 							paragraphs: [
-								"support@deadsidecheats.com للدعم والطلبات القانونية.",
-								"البريد: support@deadsidecheats.com",
+								"support@deadsidecheat.com للدعم والطلبات القانونية.",
+								"البريد: support@deadsidecheat.com",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "شروط الاستخدام | Deadside Cheats",
-					description: "شروط الاستخدام لـ Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheats.com.",
+					description: "شروط الاستخدام لـ Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "شروط الاستخدام",
-					intro: "Deadside Cheats يجمع ESP wallhack و2D radar وdeadside aimbot غير مكتشف لـ Deadside على Windows PC. شروط الاستخدام لـ deadsidecheats.com وتراخيص Deadside.",
+					intro: "Deadside Cheats يجمع ESP wallhack و2D radar وdeadside aimbot غير مكتشف لـ Deadside على Windows PC. شروط الاستخدام لـ deadsidecheat.com وتراخيص Deadside.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
@@ -13194,8 +13194,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "تغييرات السياسة",
 							paragraphs: [
-								"support@deadsidecheats.com للدعم والطلبات القانونية.",
-								"البريد: support@deadsidecheats.com",
+								"support@deadsidecheat.com للدعم والطلبات القانونية.",
+								"البريد: support@deadsidecheat.com",
 							],
 						},
 					],
@@ -13277,7 +13277,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Deadside Cheats 2026 | ESP・Wallhack・Aimbot",
-					description: "Deadside向けundetectedチート。ESP wallhack、2D radar、Aimbot、BattlEyeメンテナンス。即時デジタル配信。. Compare plans and guides at deadsidecheats.com.",
+					description: "Deadside向けundetectedチート。ESP wallhack、2D radar、Aimbot、BattlEyeメンテナンス。即時デジタル配信。. Compare plans and guides at deadsidecheat.com.",
 					h1: "Deadside向けundetectedチート",
 					intro: "Deadside Windows PC向けundetectedパッケージ：ESP wallhack、radar、Aimbot、BattlEyeメンテナンス付き。",
 					imageAlt: "deadside cheats player ESP aimbot wallhack",
@@ -13405,7 +13405,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "機能 2026 | ESP, Aimbot & Radar | Deadside Cheats",
-					description: "機能: ESP、soft aim、radarコントロール. 即時デジタル配信. undetected. Compare plans and guides at deadsidecheats.com.",
+					description: "機能: ESP、soft aim、radarコントロール. 即時デジタル配信. undetected. Compare plans and guides at deadsidecheat.com.",
 					h1: "機能 — Full Feature List",
 					intro: "Deadside CheatsはDeadside向けWindows PC用ESP wallhack、2D radar、deadside aimbotのundetectedパッケージです。機能 für Deadside auf Windows PC.",
 					imageAlt: "Deadside Cheats features — ESP, soft aim, and radar screenshots",
@@ -13484,7 +13484,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				pricing: {
 					title: "料金 — Monthly & Lifetime | $35/mo or $150",
-					description: "料金 — Monthly & Lifetime for Deadside survival & squad raids on Windows PC — 月額$35またはlifetime $150ライセンス. 即時デジタル配信. Official deadside cheats at",
+					description: "料金 — Monthly & Lifetime for Deadside survival & squad raids on Windows PC — 月額$35またはlifetime $150ライセンス. 即時デジタル配信. Official deadside cheats at deadsidecheat.com.",
 					h1: "料金 — Monthly & Lifetime",
 					intro: "Deadside CheatsはDeadside向けWindows PC用ESP wallhack、2D radar、deadside aimbotのundetectedパッケージです。ストア — $35/月 y $150永久.",
 					imageAlt: "Deadside Cheats store plans for monthly and lifetime licenses",
@@ -13570,7 +13570,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "問題が発生した場合",
 							paragraphs: [
-								"パッチ後はステータス確認。注文IDを添えてsupport@deadsidecheats.comへ。",
+								"パッチ後はステータス確認。注文IDを添えてsupport@deadsidecheat.comへ。",
 								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 							],
 							list: [
@@ -13584,7 +13584,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				updates: {
 					title: "更新 — Live Status Log | BattlEye Updates | Deadside Cheats",
-					description: "更新 — Live Status Log for Deadside survival & squad raids on Windows PC — BattlEyeパッチ状況とrebuildメモ. 即時デジタル配信. Official deadside cheats at deadsidecheats.com.",
+					description: "更新 — Live Status Log for Deadside survival & squad raids on Windows PC — BattlEyeパッチ状況とrebuildメモ. 即時デジタル配信. Official deadside cheats at deadsidecheat.com.",
 					h1: "ステータス",
 					intro: "BattlEyeパッチ後はUpdatesページを確認。永久undetectedは保証されません。",
 					imageAlt: "Deadside Cheats live status after BattlEye and game patches",
@@ -13681,7 +13681,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				support: {
 					title: "サポート — Help & Contact | License & Setup Help",
-					description: "サポート — Help & Contact for Deadside survival & squad raids on Windows PC — 注文ヘルプとライセンスサポート連絡先. 即時デジタル配信. Official deadside cheats at deadsidecheats.com.",
+					description: "サポート — Help & Contact for Deadside survival & squad raids on Windows PC — 注文ヘルプとライセンスサポート連絡先. 即時デジタル配信. Official deadside cheats at deadsidecheat.com.",
 					h1: "サポート",
 					intro: "Windows PC向けDeadside Cheatsのライセンス、セットアップ、請求のサポート。",
 					imageAlt: "Deadside Cheats support page for license and setup help",
@@ -13693,7 +13693,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "お問い合わせ方法",
 							paragraphs: [
-								"support@deadsidecheats.comへメール。注文IDと問題の概要を記載。",
+								"support@deadsidecheat.comへメール。注文IDと問題の概要を記載。",
 								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 							],
 							list: [
@@ -13925,7 +13925,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Read the <a href=\"/deadside-cheats/\">Deadside Cheats概要</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
 								"Also compare the <a href=\"/deadside-cheats/\">Deadside Cheats概要</a> checklist, <a href=\"/blog/deadside-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
-								"Support is available at support@deadsidecheats.com via the <a href=\"/support/\">サポート</a>.",
+								"Support is available at support@deadsidecheat.com via the <a href=\"/support/\">サポート</a>.",
 							],
 						},
 						{
@@ -14212,7 +14212,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"esp-hack": {
 					title: "deadside esp | Boxes & Loot",
-					description: "deadside esp for Deadside survival & squad raids on Windows PC — ESPボックス、死体pin、距離. 即時デジタル配信. undetected. Official deadside cheats at deadsidecheats.com.",
+					description: "deadside esp for Deadside survival & squad raids on Windows PC — ESPボックス、死体pin、距離. 即時デジタル配信. undetected. Official deadside cheats at deadsidecheat.com.",
 					h1: "deadside esp — Boxes & Loot",
 					intro: "Deadside CheatsはDeadside向けWindows PC用ESP wallhack、2D radar、deadside aimbotのundetectedパッケージです。deadside esp. ESPボックス、死体pin、距離.",
 					imageAlt: "deadside esp boxes and loot markers",
@@ -14288,9 +14288,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "プライバシーポリシー | Deadside Cheats",
-					description: "プライバシーポリシー Deadside Cheats — ESP wallhack、Aimbot向け, Windows PC. Compare plans and guides at deadsidecheats.com.",
+					description: "プライバシーポリシー Deadside Cheats — ESP wallhack、Aimbot向け, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "プライバシーポリシー",
-					intro: "Deadside CheatsはDeadside向けWindows PC用ESP wallhack、2D radar、deadside aimbotのundetectedパッケージです。プライバシーポリシー deadsidecheats.comおよびDeadsideライセンス向け。",
+					intro: "Deadside CheatsはDeadside向けWindows PC用ESP wallhack、2D radar、deadside aimbotのundetectedパッケージです。プライバシーポリシー deadsidecheat.comおよびDeadsideライセンス向け。",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-aimbot.webp",
@@ -14302,7 +14302,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "収集する情報",
 							paragraphs: [
 								"Deadside CheatsはDeadside向けWindows PC用ESP wallhack、2D radar、deadside aimbotのundetectedパッケージです。連絡メール、secure checkout注文参照、基本的なサイトセキュリティデータ。",
-								"支払い情報は で処理され、deadsidecheats.comには保存されません。",
+								"支払い情報は で処理され、deadsidecheat.comには保存されません。",
 							],
 						},
 						{
@@ -14315,17 +14315,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "あなたの権利",
 							paragraphs: [
-								"サポート・法務: support@deadsidecheats.com",
-								"メール: support@deadsidecheats.com",
+								"サポート・法務: support@deadsidecheat.com",
+								"メール: support@deadsidecheat.com",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "返金ポリシー | Deadside Cheats",
-					description: "返金ポリシー Deadside Cheats — ESP wallhack、Aimbot向け, Windows PC. Compare plans and guides at deadsidecheats.com.",
+					description: "返金ポリシー Deadside Cheats — ESP wallhack、Aimbot向け, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "返金ポリシー",
-					intro: "Deadside CheatsはDeadside向けWindows PC用ESP wallhack、2D radar、deadside aimbotのundetectedパッケージです。返金ポリシー deadsidecheats.comおよびDeadsideライセンス向け。",
+					intro: "Deadside CheatsはDeadside向けWindows PC用ESP wallhack、2D radar、deadside aimbotのundetectedパッケージです。返金ポリシー deadsidecheat.comおよびDeadsideライセンス向け。",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-session.webp",
@@ -14350,17 +14350,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "申請方法",
 							paragraphs: [
-								"サポート・法務: support@deadsidecheats.com",
-								"メール: support@deadsidecheats.com",
+								"サポート・法務: support@deadsidecheat.com",
+								"メール: support@deadsidecheat.com",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "利用規約 | Deadside Cheats",
-					description: "利用規約 Deadside Cheats — ESP wallhack、Aimbot向け, Windows PC. Compare plans and guides at deadsidecheats.com.",
+					description: "利用規約 Deadside Cheats — ESP wallhack、Aimbot向け, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "利用規約",
-					intro: "Deadside CheatsはDeadside向けWindows PC用ESP wallhack、2D radar、deadside aimbotのundetectedパッケージです。利用規約 deadsidecheats.comおよびDeadsideライセンス向け。",
+					intro: "Deadside CheatsはDeadside向けWindows PC用ESP wallhack、2D radar、deadside aimbotのundetectedパッケージです。利用規約 deadsidecheat.comおよびDeadsideライセンス向け。",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
@@ -14385,8 +14385,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "ポリシー変更",
 							paragraphs: [
-								"サポート・法務: support@deadsidecheats.com",
-								"メール: support@deadsidecheats.com",
+								"サポート・法務: support@deadsidecheat.com",
+								"メール: support@deadsidecheat.com",
 							],
 						},
 					],
@@ -14468,7 +14468,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Deadside Cheats 2026 | ESP, Wallhack, Aimbot",
-					description: "Deadside undetected 치트. ESP wallhack, 2D radar, Aimbot, BattlEye 유지보수. 즉시 디지털 배송. Compare plans and guides at deadsidecheats.com.",
+					description: "Deadside undetected 치트. ESP wallhack, 2D radar, Aimbot, BattlEye 유지보수. 즉시 디지털 배송. Compare plans and guides at deadsidecheat.com.",
 					h1: "Deadside용 undetected 치트",
 					intro: "Deadside Windows PC undetected 패키지: ESP wallhack, radar, Aimbot, BattlEye 유지보수 포함.",
 					imageAlt: "deadside cheats player ESP aimbot wallhack",
@@ -14596,7 +14596,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "기능 2026 | ESP, Aimbot & Radar | Deadside Cheats",
-					description: "기능: ESP, soft aim, radar 컨트롤. 즉시 디지털 배송. undetected. Compare plans and guides at deadsidecheats.com.",
+					description: "기능: ESP, soft aim, radar 컨트롤. 즉시 디지털 배송. undetected. Compare plans and guides at deadsidecheat.com.",
 					h1: "기능 — Full Feature List",
 					intro: "Deadside Cheats는 Deadside Windows PC용 ESP wallhack, 2D radar, deadside aimbot undetected 패키지입니다. 기능 für Deadside auf Windows PC.",
 					imageAlt: "Deadside Cheats features — ESP, soft aim, and radar screenshots",
@@ -14725,7 +14725,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				setup: {
 					title: "설치 — PC Setup Guide | Windows PC Install",
-					description: "설치 — PC Setup Guide for Deadside survival & squad raids on Windows PC — Windows PC 활성화 및 첫 실행 설정. 즉시 디지털 배송. Official deadside cheats at deadsidecheats.com.",
+					description: "설치 — PC Setup Guide for Deadside survival & squad raids on Windows PC — Windows PC 활성화 및 첫 실행 설정. 즉시 디지털 배송. Official deadside cheats at deadsidecheat.com.",
 					h1: "설치",
 					intro: "첫 레이드 전 Windows 10 또는 11에서 라이선스를 설치하고 활성화하세요.",
 					imageAlt: "Deadside Cheats setup guide screenshot for Windows PC",
@@ -14761,7 +14761,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "문제 발생 시",
 							paragraphs: [
-								"패치 후 상태 확인. 주문 ID와 함께 support@deadsidecheats.com.",
+								"패치 후 상태 확인. 주문 ID와 함께 support@deadsidecheat.com.",
 								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 							],
 							list: [
@@ -14872,7 +14872,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				support: {
 					title: "지원 — Help & Contact | License & Setup Help",
-					description: "지원 — Help & Contact for Deadside survival & squad raids on Windows PC — 주문 도움 및 라이선스 지원 연락처. 즉시 디지털 배송. Official deadside cheats at deadsidecheats.com.",
+					description: "지원 — Help & Contact for Deadside survival & squad raids on Windows PC — 주문 도움 및 라이선스 지원 연락처. 즉시 디지털 배송. Official deadside cheats at deadsidecheat.com.",
 					h1: "지원",
 					intro: "Windows PC Deadside Cheats 라이선스, 설치, 결제 지원.",
 					imageAlt: "Deadside Cheats support page for license and setup help",
@@ -14884,7 +14884,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "문의 방법",
 							paragraphs: [
-								"support@deadsidecheats.com로 이메일. 주문 ID와 문제 요약 포함.",
+								"support@deadsidecheat.com로 이메일. 주문 ID와 문제 요약 포함.",
 								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 							],
 							list: [
@@ -15116,7 +15116,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Read the <a href=\"/deadside-cheats/\">Deadside Cheats 개요</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
 								"Also compare the <a href=\"/deadside-cheats/\">Deadside Cheats 개요</a> checklist, <a href=\"/blog/deadside-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
-								"Support is available at support@deadsidecheats.com via the <a href=\"/support/\">지원</a>.",
+								"Support is available at support@deadsidecheat.com via the <a href=\"/support/\">지원</a>.",
 							],
 						},
 						{
@@ -15403,7 +15403,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"esp-hack": {
 					title: "deadside esp | Boxes & Loot",
-					description: "deadside esp for Deadside survival & squad raids on Windows PC — ESP 박스, 시체 pin, 거리. 즉시 디지털 배송. undetected. Official deadside cheats at deadsidecheats.com.",
+					description: "deadside esp for Deadside survival & squad raids on Windows PC — ESP 박스, 시체 pin, 거리. 즉시 디지털 배송. undetected. Official deadside cheats at deadsidecheat.com.",
 					h1: "deadside esp — Boxes & Loot",
 					intro: "Deadside Cheats는 Deadside Windows PC용 ESP wallhack, 2D radar, deadside aimbot undetected 패키지입니다. deadside esp. ESP 박스, 시체 pin, 거리.",
 					imageAlt: "deadside esp boxes and loot markers",
@@ -15479,9 +15479,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "개인정보 처리방침 | Deadside Cheats",
-					description: "개인정보 처리방침 Deadside Cheats — ESP wallhack, Aimbot용, Windows PC. Compare plans and guides at deadsidecheats.com.",
+					description: "개인정보 처리방침 Deadside Cheats — ESP wallhack, Aimbot용, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "개인정보 처리방침",
-					intro: "Deadside Cheats는 Deadside Windows PC용 ESP wallhack, 2D radar, deadside aimbot undetected 패키지입니다. 개인정보 처리방침 deadsidecheats.com 및 Deadside 라이선스용.",
+					intro: "Deadside Cheats는 Deadside Windows PC용 ESP wallhack, 2D radar, deadside aimbot undetected 패키지입니다. 개인정보 처리방침 deadsidecheat.com 및 Deadside 라이선스용.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-aimbot.webp",
@@ -15493,7 +15493,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "수집하는 정보",
 							paragraphs: [
 								"Deadside Cheats는 Deadside Windows PC용 ESP wallhack, 2D radar, deadside aimbot undetected 패키지입니다. 연락 이메일, secure checkout 주문 참조 및 기본 사이트 보안 데이터.",
-								"결제 정보는 에서 처리되며 deadsidecheats.com에 저장되지 않습니다.",
+								"결제 정보는 에서 처리되며 deadsidecheat.com에 저장되지 않습니다.",
 							],
 						},
 						{
@@ -15506,17 +15506,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "귀하의 권리",
 							paragraphs: [
-								"지원 및 법무: support@deadsidecheats.com",
-								"이메일: support@deadsidecheats.com",
+								"지원 및 법무: support@deadsidecheat.com",
+								"이메일: support@deadsidecheat.com",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "환불 정책 | Deadside Cheats",
-					description: "환불 정책 Deadside Cheats — ESP wallhack, Aimbot용, Windows PC. Compare plans and guides at deadsidecheats.com.",
+					description: "환불 정책 Deadside Cheats — ESP wallhack, Aimbot용, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "환불 정책",
-					intro: "Deadside Cheats는 Deadside Windows PC용 ESP wallhack, 2D radar, deadside aimbot undetected 패키지입니다. 환불 정책 deadsidecheats.com 및 Deadside 라이선스용.",
+					intro: "Deadside Cheats는 Deadside Windows PC용 ESP wallhack, 2D radar, deadside aimbot undetected 패키지입니다. 환불 정책 deadsidecheat.com 및 Deadside 라이선스용.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-session.webp",
@@ -15541,17 +15541,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "신청 방법",
 							paragraphs: [
-								"지원 및 법무: support@deadsidecheats.com",
-								"이메일: support@deadsidecheats.com",
+								"지원 및 법무: support@deadsidecheat.com",
+								"이메일: support@deadsidecheat.com",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "이용 약관 | Deadside Cheats",
-					description: "이용 약관 Deadside Cheats — ESP wallhack, Aimbot용, Windows PC. Compare plans and guides at deadsidecheats.com.",
+					description: "이용 약관 Deadside Cheats — ESP wallhack, Aimbot용, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "이용 약관",
-					intro: "Deadside Cheats는 Deadside Windows PC용 ESP wallhack, 2D radar, deadside aimbot undetected 패키지입니다. 이용 약관 deadsidecheats.com 및 Deadside 라이선스용.",
+					intro: "Deadside Cheats는 Deadside Windows PC용 ESP wallhack, 2D radar, deadside aimbot undetected 패키지입니다. 이용 약관 deadsidecheat.com 및 Deadside 라이선스용.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
@@ -15576,8 +15576,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "정책 변경",
 							paragraphs: [
-								"지원 및 법무: support@deadsidecheats.com",
-								"이메일: support@deadsidecheats.com",
+								"지원 및 법무: support@deadsidecheat.com",
+								"이메일: support@deadsidecheat.com",
 							],
 						},
 					],
@@ -15660,7 +15660,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Deadside Cheats 2026｜ESP、Wallhack 與 Aimbot",
-					description: "適用於 Deadside PC 的 undetected 外掛。ESP wallhack、2D 雷達與 Aimbot，含 BattlEye 維護。即時數位交付。. Compare plans and guides at deadsidecheats.com.",
+					description: "適用於 Deadside PC 的 undetected 外掛。ESP wallhack、2D 雷達與 Aimbot，含 BattlEye 維護。即時數位交付。. Compare plans and guides at deadsidecheat.com.",
 					h1: "適用於 Deadside 的 undetected 外掛",
 					intro: "Windows PC 版 Deadside 的 undetected 方案：ESP wallhack、雷達與 Aimbot，每次更新後提供 BattlEye 維護。",
 					imageAlt: "deadside esp — 玩家 ESP 標記",
@@ -15788,7 +15788,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "功能 2026 | ESP, Aimbot & Radar | Deadside Cheats",
-					description: "功能: ESP、soft aim、radar控制. 即时数字交付. undetected. Compare plans and guides at deadsidecheats.com.",
+					description: "功能: ESP、soft aim、radar控制. 即时数字交付. undetected. Compare plans and guides at deadsidecheat.com.",
 					h1: "功能 — Full Feature List",
 					intro: "Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。功能 für Deadside auf Windows PC.",
 					imageAlt: "Deadside Cheats features — ESP, soft aim, and radar screenshots",
@@ -15867,7 +15867,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				pricing: {
 					title: "价格 — Monthly & Lifetime | $35/mo or $150",
-					description: "价格 — Monthly & Lifetime for Deadside survival & squad raids on Windows PC — 月付$35或lifetime $150许可证. 即时数字交付. Official deadside cheats at deadsidecheats.com.",
+					description: "价格 — Monthly & Lifetime for Deadside survival & squad raids on Windows PC — 月付$35或lifetime $150许可证. 即时数字交付. Official deadside cheats at deadsidecheat.com.",
 					h1: "价格 — Monthly & Lifetime",
 					intro: "Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。商店 — $35/月 y $150终身.",
 					imageAlt: "Deadside Cheats store plans for monthly and lifetime licenses",
@@ -15917,7 +15917,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				setup: {
 					title: "安装 — PC Setup Guide | Windows PC Install",
-					description: "安装 — PC Setup Guide for Deadside survival & squad raids on Windows PC — Windows PC激活和首次启动设置. 即时数字交付. Official deadside cheats at deadsidecheats.com.",
+					description: "安装 — PC Setup Guide for Deadside survival & squad raids on Windows PC — Windows PC激活和首次启动设置. 即时数字交付. Official deadside cheats at deadsidecheat.com.",
 					h1: "安装",
 					intro: "首次 match 前在 Windows 10 或 11 上安装并激活许可证。",
 					imageAlt: "Deadside Cheats setup guide screenshot for Windows PC",
@@ -15953,7 +15953,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "如果出现问题",
 							paragraphs: [
-								"补丁后查看状态。携带订单 ID 邮件 support@deadsidecheats.com。",
+								"补丁后查看状态。携带订单 ID 邮件 support@deadsidecheat.com。",
 								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 							],
 							list: [
@@ -15967,7 +15967,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				updates: {
 					title: "更新 — Live Status Log | BattlEye Updates | Deadside Cheats",
-					description: "更新 — Live Status Log for Deadside survival & squad raids on Windows PC — BattlEye补丁状态和rebuild说明. 即时数字交付. Official deadside cheats at deadsidecheats.com.",
+					description: "更新 — Live Status Log for Deadside survival & squad raids on Windows PC — BattlEye补丁状态和rebuild说明. 即时数字交付. Official deadside cheats at deadsidecheat.com.",
 					h1: "状态",
 					intro: "BattlEye补丁后请查看Updates页面。无任何作弊保证永久undetected。",
 					imageAlt: "Deadside Cheats live status after BattlEye and game patches",
@@ -16016,7 +16016,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				faq: {
 					title: "常见问题 — Common Answers | ESP, Aimbot & BattlEye",
-					description: "常见问题 — Common Answers for Deadside survival & squad raids on Windows PC — ESP、soft aim、交付和BattlEye问题. 即时数字交付. Official deadside cheats at deadsidecheats.com.",
+					description: "常见问题 — Common Answers for Deadside survival & squad raids on Windows PC — ESP、soft aim、交付和BattlEye问题. 即时数字交付. Official deadside cheats at deadsidecheat.com.",
 					h1: "常见问题 — Common Answers",
 					intro: "Deadside Cheats 常见问题 — 交付、安装、更新和退款。",
 					imageAlt: "Deadside Cheats FAQ — delivery, setup, and update answers",
@@ -16064,7 +16064,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				support: {
 					title: "支持 — Help & Contact | License & Setup Help",
-					description: "支持 — Help & Contact for Deadside survival & squad raids on Windows PC — 订单帮助和许可证支持联系方式. 即时数字交付. Official deadside cheats at deadsidecheats.com.",
+					description: "支持 — Help & Contact for Deadside survival & squad raids on Windows PC — 订单帮助和许可证支持联系方式. 即时数字交付. Official deadside cheats at deadsidecheat.com.",
 					h1: "支持",
 					intro: "获取 Windows PC 上 Deadside Cheats 的许可证、安装和账单帮助。",
 					imageAlt: "Deadside Cheats support page for license and setup help",
@@ -16076,7 +16076,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "如何联系我们",
 							paragraphs: [
-								"邮件 support@deadsidecheats.com，附上订单 ID 和简要问题说明。",
+								"邮件 support@deadsidecheat.com，附上订单 ID 和简要问题说明。",
 								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 							],
 							list: [
@@ -16102,7 +16102,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				undetected: {
 					title: "Undetected作弊 | BattlEye Safe Status",
-					description: "Undetected作弊 for Deadside survival & squad raids on Windows PC — BattlEye补丁后的undetected维护. 即时数字交付. undetected. Official deadside cheats at deadsidecheats.com.",
+					description: "Undetected作弊 for Deadside survival & squad raids on Windows PC — BattlEye补丁后的undetected维护. 即时数字交付. undetected. Official deadside cheats at deadsidecheat.com.",
 					h1: "Undetected作弊 — BattlEye Safe Status",
 					intro: "Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。Undetected作弊. BattlEye补丁后的undetected维护.",
 					imageAlt: "Deadside Cheats undetected status overview for Windows PC",
@@ -16148,7 +16148,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				wallhack: {
 					title: "Deadside Wallhack | ESP Visibility",
-					description: "Deadside Wallhack for Deadside survival & squad raids on Windows PC — 玩家、尸体和距离的wallhack ESP. 即时数字交付. undetected. Official deadside cheats at deadsidecheats.com.",
+					description: "Deadside Wallhack for Deadside survival & squad raids on Windows PC — 玩家、尸体和距离的wallhack ESP. 即时数字交付. undetected. Official deadside cheats at deadsidecheat.com.",
 					h1: "Deadside Wallhack — ESP Visibility",
 					intro: "Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。Deadside Wallhack. 玩家、尸体和距离的wallhack ESP.",
 					imageAlt: "deadside wallhack visibility through walls in a match",
@@ -16186,7 +16186,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				radar: {
 					title: "2D radar — 2D Threat Overlay | 2D Threat Map",
-					description: "2D radar — 2D Threat Overlay for Deadside survival & squad raids on Windows PC — 侧翼和轮换的2D radar提示. 即时数字交付. Official deadside cheats at deadsidecheats.com.",
+					description: "2D radar — 2D Threat Overlay for Deadside survival & squad raids on Windows PC — 侧翼和轮换的2D radar提示. 即时数字交付. Official deadside cheats at deadsidecheat.com.",
 					h1: "2D radar — 2D Threat Overlay",
 					intro: "用于屏幕外威胁的简单 2D radar。包含在同一 Deadside Cheats 许可证中。",
 					imageAlt: "Deadside 2D radar overlay showing nearby threats",
@@ -16308,7 +16308,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Read the <a href=\"/deadside-cheats/\">Deadside Cheats概览</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
 								"Also compare the <a href=\"/deadside-cheats/\">Deadside Cheats概览</a> checklist, <a href=\"/blog/deadside-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">常见问题</a>.",
-								"Support is available at support@deadsidecheats.com via the <a href=\"/support/\">支持</a>.",
+								"Support is available at support@deadsidecheat.com via the <a href=\"/support/\">支持</a>.",
 							],
 						},
 						{
@@ -16397,7 +16397,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheat-download": {
 					title: "Deadside作弊下载 | Instant Access",
-					description: "Deadside作弊下载 for Deadside survival & squad raids on Windows PC — 付款后的数字许可证下载. 即时数字交付. undetected. Official deadside cheats at deadsidecheats.com.",
+					description: "Deadside作弊下载 for Deadside survival & squad raids on Windows PC — 付款后的数字许可证下载. 即时数字交付. undetected. Official deadside cheats at deadsidecheat.com.",
 					h1: "Deadside作弊下载 — Instant Access",
 					intro: "Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。Deadside作弊下载. 付款后的数字许可证下载.",
 					imageAlt: "Deadside Cheats download and install delivery flow",
@@ -16435,7 +16435,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"mod-menu": {
 					title: "Deadside修改菜单 | In-Game Toggles",
-					description: "Deadside修改菜单 for Deadside survival & squad raids on Windows PC — 客户端内ESP和soft aim开关. 即时数字交付. undetected. Official deadside cheats at deadsidecheats.com.",
+					description: "Deadside修改菜单 for Deadside survival & squad raids on Windows PC — 客户端内ESP和soft aim开关. 即时数字交付. undetected. Official deadside cheats at deadsidecheat.com.",
 					h1: "Deadside修改菜单 — In-Game Toggles",
 					intro: "Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。Deadside修改菜单. 客户端内ESP和soft aim开关.",
 					imageAlt: "Deadside Cheats in-game menu controls",
@@ -16511,7 +16511,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"best-cheats": {
 					title: "最佳Deadside作弊 | Buyer Checklist",
-					description: "最佳Deadside作弊 for Deadside survival & squad raids on Windows PC — 购买deadside cheats前应比较的内容. 即时数字交付. undetected. Official deadside cheats at deadsidecheats.com.",
+					description: "最佳Deadside作弊 for Deadside survival & squad raids on Windows PC — 购买deadside cheats前应比较的内容. 即时数字交付. undetected. Official deadside cheats at deadsidecheat.com.",
 					h1: "最佳Deadside作弊 — Buyer Checklist",
 					intro: "Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。最佳Deadside作弊. 购买deadside cheats前应比较的内容.",
 					imageAlt: "Deadside Cheats overview for Deadside on PC",
@@ -16595,7 +16595,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"esp-hack": {
 					title: "deadside esp | Boxes & Loot",
-					description: "deadside esp for Deadside survival & squad raids on Windows PC — ESP方框、尸体pin和距离. 即时数字交付. undetected. Official deadside cheats at deadsidecheats.com.",
+					description: "deadside esp for Deadside survival & squad raids on Windows PC — ESP方框、尸体pin和距离. 即时数字交付. undetected. Official deadside cheats at deadsidecheat.com.",
 					h1: "deadside esp — Boxes & Loot",
 					intro: "Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。deadside esp. ESP方框、尸体pin和距离.",
 					imageAlt: "deadside esp boxes and loot markers",
@@ -16671,9 +16671,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "隐私政策 | Deadside Cheats",
-					description: "隐私政策 Deadside Cheats — ESP wallhack、Aimbot, Windows PC. Compare plans and guides at deadsidecheats.com.",
+					description: "隐私政策 Deadside Cheats — ESP wallhack、Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "隐私政策",
-					intro: "Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。隐私政策 适用于 deadsidecheats.com 和 Deadside 许可证。",
+					intro: "Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。隐私政策 适用于 deadsidecheat.com 和 Deadside 许可证。",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-aimbot.webp",
@@ -16685,7 +16685,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "我们收集的信息",
 							paragraphs: [
 								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。联系邮箱、secure checkout 订单参考及基本网站安全数据。",
-								"支付详情由 处理 — 不存储在 deadsidecheats.com。",
+								"支付详情由 处理 — 不存储在 deadsidecheat.com。",
 							],
 						},
 						{
@@ -16698,17 +16698,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "您的权利",
 							paragraphs: [
-								"支持与法务：support@deadsidecheats.com",
-								"邮箱: support@deadsidecheats.com",
+								"支持与法务：support@deadsidecheat.com",
+								"邮箱: support@deadsidecheat.com",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "退款政策 | Deadside Cheats",
-					description: "退款政策 Deadside Cheats — ESP wallhack、Aimbot, Windows PC. Compare plans and guides at deadsidecheats.com.",
+					description: "退款政策 Deadside Cheats — ESP wallhack、Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "退款政策",
-					intro: "Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。退款政策 适用于 deadsidecheats.com 和 Deadside 许可证。",
+					intro: "Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。退款政策 适用于 deadsidecheat.com 和 Deadside 许可证。",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-session.webp",
@@ -16733,17 +16733,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "如何申请",
 							paragraphs: [
-								"支持与法务：support@deadsidecheats.com",
-								"邮箱: support@deadsidecheats.com",
+								"支持与法务：support@deadsidecheat.com",
+								"邮箱: support@deadsidecheat.com",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "使用条款 | Deadside Cheats",
-					description: "使用条款 Deadside Cheats — ESP wallhack、Aimbot, Windows PC. Compare plans and guides at deadsidecheats.com.",
+					description: "使用条款 Deadside Cheats — ESP wallhack、Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "使用条款",
-					intro: "Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。使用条款 适用于 deadsidecheats.com 和 Deadside 许可证。",
+					intro: "Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。使用条款 适用于 deadsidecheat.com 和 Deadside 许可证。",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
@@ -16768,8 +16768,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "政策变更",
 							paragraphs: [
-								"支持与法务：support@deadsidecheats.com",
-								"邮箱: support@deadsidecheats.com",
+								"支持与法务：support@deadsidecheat.com",
+								"邮箱: support@deadsidecheat.com",
 							],
 						},
 					],
@@ -16851,7 +16851,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Deadside Cheats 2026 | ESP, Wallhack और Aimbot",
-					description: "Deadside undetected cheats. ESP wallhack, 2D radar, Aimbot, BattlEye maintenance. Instant digital delivery. Compare plans and guides at deadsidecheats.com.",
+					description: "Deadside undetected cheats. ESP wallhack, 2D radar, Aimbot, BattlEye maintenance. Instant digital delivery. Compare plans and guides at deadsidecheat.com.",
 					h1: "Deadside ke liye undetected cheats",
 					intro: "Deadside Windows PC undetected पैकेज: ESP wallhack, radar, Aimbot, BattlEye maintenance सहित.",
 					imageAlt: "deadside cheats player ESP aimbot wallhack",
@@ -16979,7 +16979,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "फ़ीचर्स 2026 | ESP, Aimbot & Radar | Deadside Cheats",
-					description: "फ़ीचर्स: ESP, soft aim, radar controls. तुरंत डिजिटल डिलीवरी. undetected. Compare plans and guides at deadsidecheats.com.",
+					description: "फ़ीचर्स: ESP, soft aim, radar controls. तुरंत डिजिटल डिलीवरी. undetected. Compare plans and guides at deadsidecheat.com.",
 					h1: "फ़ीचर्स — Full Feature List",
 					intro: "Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, 2D radar और deadside aimbot undetected पैकेज देता है। फ़ीचर्स für Deadside auf Windows PC.",
 					imageAlt: "Deadside Cheats features — ESP, soft aim, and radar screenshots",
@@ -17144,7 +17144,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "यदि कुछ विफल हो",
 							paragraphs: [
-								"पैच के बाद Status जांचें। ऑर्डर ID के साथ support@deadsidecheats.com।",
+								"पैच के बाद Status जांचें। ऑर्डर ID के साथ support@deadsidecheat.com।",
 								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 							],
 							list: [
@@ -17188,7 +17188,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							list: [
 								"नवीनतम स्टेटस नोट पढ़ें",
 								"समस्या हो तो सेटअप फॉलो करें",
-								"ऑर्डर ID के साथ support@deadsidecheats.com",
+								"ऑर्डर ID के साथ support@deadsidecheat.com",
 							],
 						},
 						{
@@ -17267,7 +17267,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "हमसे कैसे संपर्क करें",
 							paragraphs: [
-								"support@deadsidecheats.com पर email। ऑर्डर ID और समस्या का संक्षिप्त विवरण दें।",
+								"support@deadsidecheat.com पर email। ऑर्डर ID और समस्या का संक्षिप्त विवरण दें।",
 								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 							],
 							list: [
@@ -17499,7 +17499,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Read the <a href=\"/deadside-cheats/\">Deadside Cheats अवलोकन</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
 								"Also compare the <a href=\"/deadside-cheats/\">Deadside Cheats अवलोकन</a> checklist, <a href=\"/blog/deadside-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
-								"Support is available at support@deadsidecheats.com via the <a href=\"/support/\">सहायता</a>.",
+								"Support is available at support@deadsidecheat.com via the <a href=\"/support/\">सहायता</a>.",
 							],
 						},
 						{
@@ -17862,9 +17862,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "गोपनीयता नीति | Deadside Cheats",
-					description: "गोपनीयता नीति Deadside Cheats — ESP wallhack, Aimbot के लिए, Windows PC. Compare plans and guides at deadsidecheats.com.",
+					description: "गोपनीयता नीति Deadside Cheats — ESP wallhack, Aimbot के लिए, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "गोपनीयता नीति",
-					intro: "Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, 2D radar और deadside aimbot undetected पैकेज देता है। गोपनीयता नीति deadsidecheats.com और Deadside लाइसेंस के लिए।",
+					intro: "Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, 2D radar और deadside aimbot undetected पैकेज देता है। गोपनीयता नीति deadsidecheat.com और Deadside लाइसेंस के लिए।",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-aimbot.webp",
@@ -17876,7 +17876,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "हम जो जानकारी एकत्र करते हैं",
 							paragraphs: [
 								"Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, 2D radar और deadside aimbot undetected पैकेज देता है। संपर्क ईमेल, secure checkout ऑर्डर संदर्भ और बुनियादी साइट सुरक्षा डेटा।",
-								"भुगतान विवरण द्वारा संसाधित — deadsidecheats.com पर संग्रहीत नहीं।",
+								"भुगतान विवरण द्वारा संसाधित — deadsidecheat.com पर संग्रहीत नहीं।",
 							],
 						},
 						{
@@ -17889,17 +17889,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "आपके अधिकार",
 							paragraphs: [
-								"सहायता: support@deadsidecheats.com",
-								"ईमेल: support@deadsidecheats.com",
+								"सहायता: support@deadsidecheat.com",
+								"ईमेल: support@deadsidecheat.com",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "रिफंड नीति | Deadside Cheats",
-					description: "रिफंड नीति Deadside Cheats — ESP wallhack, Aimbot के लिए, Windows PC. Compare plans and guides at deadsidecheats.com.",
+					description: "रिफंड नीति Deadside Cheats — ESP wallhack, Aimbot के लिए, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "रिफंड नीति",
-					intro: "Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, 2D radar और deadside aimbot undetected पैकेज देता है। रिफंड नीति deadsidecheats.com और Deadside लाइसेंस के लिए।",
+					intro: "Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, 2D radar और deadside aimbot undetected पैकेज देता है। रिफंड नीति deadsidecheat.com और Deadside लाइसेंस के लिए।",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-session.webp",
@@ -17924,17 +17924,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "कैसे अनुरोध करें",
 							paragraphs: [
-								"सहायता: support@deadsidecheats.com",
-								"ईमेल: support@deadsidecheats.com",
+								"सहायता: support@deadsidecheat.com",
+								"ईमेल: support@deadsidecheat.com",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "उपयोग की शर्तें | Deadside Cheats",
-					description: "उपयोग की शर्तें Deadside Cheats — ESP wallhack, Aimbot के लिए, Windows PC. Compare plans and guides at deadsidecheats.com.",
+					description: "उपयोग की शर्तें Deadside Cheats — ESP wallhack, Aimbot के लिए, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "उपयोग की शर्तें",
-					intro: "Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, 2D radar और deadside aimbot undetected पैकेज देता है। उपयोग की शर्तें deadsidecheats.com और Deadside लाइसेंस के लिए।",
+					intro: "Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, 2D radar और deadside aimbot undetected पैकेज देता है। उपयोग की शर्तें deadsidecheat.com और Deadside लाइसेंस के लिए।",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
@@ -17959,8 +17959,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "नीति परिवर्तन",
 							paragraphs: [
-								"सहायता: support@deadsidecheats.com",
-								"ईमेल: support@deadsidecheats.com",
+								"सहायता: support@deadsidecheat.com",
+								"ईमेल: support@deadsidecheat.com",
 							],
 						},
 					],
@@ -18170,7 +18170,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Fitur 2026 | ESP, Aimbot & Radar | Deadside Cheats",
-					description: "Fitur: ESP, soft aim, kontrol radar. pengiriman digital instan. undetected. Compare plans and guides at deadsidecheats.com.",
+					description: "Fitur: ESP, soft aim, kontrol radar. pengiriman digital instan. undetected. Compare plans and guides at deadsidecheat.com.",
 					h1: "Fitur — Full Feature List",
 					intro: "Deadside Cheats menyediakan ESP wallhack, 2D radar, dan deadside aimbot undetected untuk Deadside di PC Windows. Fitur für Deadside auf PC Windows.",
 					imageAlt: "Deadside Cheats features — ESP, soft aim, and radar screenshots",
@@ -18335,7 +18335,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Jika ada masalah",
 							paragraphs: [
-								"Cek Status setelah patch. Email support@deadsidecheats.com dengan ID pesanan.",
+								"Cek Status setelah patch. Email support@deadsidecheat.com dengan ID pesanan.",
 								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 							],
 							list: [
@@ -18458,7 +18458,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Cara menghubungi",
 							paragraphs: [
-								"Email support@deadsidecheats.com. Sertakan ID pesanan dan catatan singkat masalah.",
+								"Email support@deadsidecheat.com. Sertakan ID pesanan dan catatan singkat masalah.",
 								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 							],
 							list: [
@@ -18690,7 +18690,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Read the <a href=\"/deadside-cheats/\">Ringkasan Deadside Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
 								"Also compare the <a href=\"/deadside-cheats/\">Ringkasan Deadside Cheats</a> checklist, <a href=\"/blog/deadside-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
-								"Support is available at support@deadsidecheats.com via the <a href=\"/support/\">Dukungan</a>.",
+								"Support is available at support@deadsidecheat.com via the <a href=\"/support/\">Dukungan</a>.",
 							],
 						},
 						{
@@ -19053,9 +19053,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Kebijakan privasi | Deadside Cheats",
-					description: "Kebijakan privasi untuk Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheats.com.",
+					description: "Kebijakan privasi untuk Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheat.com.",
 					h1: "Kebijakan privasi",
-					intro: "Deadside Cheats menyediakan ESP wallhack, 2D radar, dan deadside aimbot undetected untuk Deadside di PC Windows. Kebijakan privasi untuk deadsidecheats.com dan lisensi Deadside.",
+					intro: "Deadside Cheats menyediakan ESP wallhack, 2D radar, dan deadside aimbot undetected untuk Deadside di PC Windows. Kebijakan privasi untuk deadsidecheat.com dan lisensi Deadside.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-aimbot.webp",
@@ -19067,7 +19067,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Informasi yang kami kumpulkan",
 							paragraphs: [
 								"Deadside Cheats menyediakan ESP wallhack, 2D radar, dan deadside aimbot undetected untuk Deadside di PC Windows. Email kontak, referensi pesanan secure checkout, dan data keamanan situs dasar.",
-								"Detail pembayaran diproses oleh secure checkout — tidak disimpan di deadsidecheats.com.",
+								"Detail pembayaran diproses oleh secure checkout — tidak disimpan di deadsidecheat.com.",
 							],
 						},
 						{
@@ -19080,17 +19080,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Hak Anda",
 							paragraphs: [
-								"support@deadsidecheats.com untuk dukungan dan legal.",
-								"Email: support@deadsidecheats.com",
+								"support@deadsidecheat.com untuk dukungan dan legal.",
+								"Email: support@deadsidecheat.com",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "Kebijakan refund | Deadside Cheats",
-					description: "Kebijakan refund untuk Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheats.com.",
+					description: "Kebijakan refund untuk Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheat.com.",
 					h1: "Kebijakan refund",
-					intro: "Deadside Cheats menyediakan ESP wallhack, 2D radar, dan deadside aimbot undetected untuk Deadside di PC Windows. Kebijakan refund untuk deadsidecheats.com dan lisensi Deadside.",
+					intro: "Deadside Cheats menyediakan ESP wallhack, 2D radar, dan deadside aimbot undetected untuk Deadside di PC Windows. Kebijakan refund untuk deadsidecheat.com dan lisensi Deadside.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-session.webp",
@@ -19115,17 +19115,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Cara meminta",
 							paragraphs: [
-								"support@deadsidecheats.com untuk dukungan dan legal.",
-								"Email: support@deadsidecheats.com",
+								"support@deadsidecheat.com untuk dukungan dan legal.",
+								"Email: support@deadsidecheat.com",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Syarat penggunaan | Deadside Cheats",
-					description: "Syarat penggunaan untuk Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheats.com.",
+					description: "Syarat penggunaan untuk Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheat.com.",
 					h1: "Syarat penggunaan",
-					intro: "Deadside Cheats menyediakan ESP wallhack, 2D radar, dan deadside aimbot undetected untuk Deadside di PC Windows. Syarat penggunaan untuk deadsidecheats.com dan lisensi Deadside.",
+					intro: "Deadside Cheats menyediakan ESP wallhack, 2D radar, dan deadside aimbot undetected untuk Deadside di PC Windows. Syarat penggunaan untuk deadsidecheat.com dan lisensi Deadside.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
@@ -19150,8 +19150,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Perubahan kebijakan",
 							paragraphs: [
-								"support@deadsidecheats.com untuk dukungan dan legal.",
-								"Email: support@deadsidecheats.com",
+								"support@deadsidecheat.com untuk dukungan dan legal.",
+								"Email: support@deadsidecheat.com",
 							],
 						},
 					],
@@ -19361,7 +19361,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "ฟีเจอร์ 2026 | ESP, Aimbot & Radar | Deadside Cheats",
-					description: "ฟีเจอร์: ESP, soft aim, การควบคุม radar. จัดส่งดิจิทัลทันที. undetected. Compare plans and guides at deadsidecheats.com.",
+					description: "ฟีเจอร์: ESP, soft aim, การควบคุม radar. จัดส่งดิจิทัลทันที. undetected. Compare plans and guides at deadsidecheat.com.",
 					h1: "ฟีเจอร์ — Full Feature List",
 					intro: "Deadside Cheats รวม ESP wallhack, 2D radar และ deadside aimbot แบบ undetected สำหรับ Deadside บน Windows PC ฟีเจอร์ für Deadside auf Windows PC.",
 					imageAlt: "Deadside Cheats features — ESP, soft aim, and radar screenshots",
@@ -19526,7 +19526,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "หากมีปัญหา",
 							paragraphs: [
-								"ตรวจสถานะหลังแพตช์ อีเมล support@deadsidecheats.com พร้อมรหัสคำสั่งซื้อ",
+								"ตรวจสถานะหลังแพตช์ อีเมล support@deadsidecheat.com พร้อมรหัสคำสั่งซื้อ",
 								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 							],
 							list: [
@@ -19649,7 +19649,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "วิธีติดต่อเรา",
 							paragraphs: [
-								"อีเมล support@deadsidecheats.com พร้อมรหัสคำสั่งซื้อและรายละเอียดปัญหา",
+								"อีเมล support@deadsidecheat.com พร้อมรหัสคำสั่งซื้อและรายละเอียดปัญหา",
 								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 							],
 							list: [
@@ -19881,7 +19881,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Read the <a href=\"/deadside-cheats/\">ภาพรวม Deadside Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
 								"Also compare the <a href=\"/deadside-cheats/\">ภาพรวม Deadside Cheats</a> checklist, <a href=\"/blog/deadside-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
-								"Support is available at support@deadsidecheats.com via the <a href=\"/support/\">ฝ่ายสนับสนุน</a>.",
+								"Support is available at support@deadsidecheat.com via the <a href=\"/support/\">ฝ่ายสนับสนุน</a>.",
 							],
 						},
 						{
@@ -20244,9 +20244,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "นโยบายความเป็นส่วนตัว | Deadside Cheats",
-					description: "นโยบายความเป็นส่วนตัว สำหรับ Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheats.com.",
+					description: "นโยบายความเป็นส่วนตัว สำหรับ Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "นโยบายความเป็นส่วนตัว",
-					intro: "Deadside Cheats รวม ESP wallhack, 2D radar และ deadside aimbot แบบ undetected สำหรับ Deadside บน Windows PC นโยบายความเป็นส่วนตัว สำหรับ deadsidecheats.com และใบอนุญาต Deadside",
+					intro: "Deadside Cheats รวม ESP wallhack, 2D radar และ deadside aimbot แบบ undetected สำหรับ Deadside บน Windows PC นโยบายความเป็นส่วนตัว สำหรับ deadsidecheat.com และใบอนุญาต Deadside",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-aimbot.webp",
@@ -20258,7 +20258,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ข้อมูลที่เราเก็บ",
 							paragraphs: [
 								"Deadside Cheats รวม ESP wallhack, 2D radar และ deadside aimbot แบบ undetected สำหรับ Deadside บน Windows PC อีเมลติดต่อ อ้างอิงคำสั่งซื้อ secure checkout และข้อมูลความปลอดภัยพื้นฐานของเว็บไซต์",
-								"รายละเอียดการชำระเงินประมวลผลผ่าน secure checkout — ไม่เก็บบน deadsidecheats.com",
+								"รายละเอียดการชำระเงินประมวลผลผ่าน secure checkout — ไม่เก็บบน deadsidecheat.com",
 							],
 						},
 						{
@@ -20271,17 +20271,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "สิทธิของคุณ",
 							paragraphs: [
-								"support@deadsidecheats.com สำหรับการสนับสนุน",
-								"อีเมล: support@deadsidecheats.com",
+								"support@deadsidecheat.com สำหรับการสนับสนุน",
+								"อีเมล: support@deadsidecheat.com",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "นโยบายการคืนเงิน | Deadside Cheats",
-					description: "นโยบายการคืนเงิน สำหรับ Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheats.com.",
+					description: "นโยบายการคืนเงิน สำหรับ Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "นโยบายการคืนเงิน",
-					intro: "Deadside Cheats รวม ESP wallhack, 2D radar และ deadside aimbot แบบ undetected สำหรับ Deadside บน Windows PC นโยบายการคืนเงิน สำหรับ deadsidecheats.com และใบอนุญาต Deadside",
+					intro: "Deadside Cheats รวม ESP wallhack, 2D radar และ deadside aimbot แบบ undetected สำหรับ Deadside บน Windows PC นโยบายการคืนเงิน สำหรับ deadsidecheat.com และใบอนุญาต Deadside",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-session.webp",
@@ -20306,17 +20306,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "วิธีขอคืนเงิน",
 							paragraphs: [
-								"support@deadsidecheats.com สำหรับการสนับสนุน",
-								"อีเมล: support@deadsidecheats.com",
+								"support@deadsidecheat.com สำหรับการสนับสนุน",
+								"อีเมล: support@deadsidecheat.com",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "ข้อกำหนดการใช้งาน | Deadside Cheats",
-					description: "ข้อกำหนดการใช้งาน สำหรับ Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheats.com.",
+					description: "ข้อกำหนดการใช้งาน สำหรับ Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "ข้อกำหนดการใช้งาน",
-					intro: "Deadside Cheats รวม ESP wallhack, 2D radar และ deadside aimbot แบบ undetected สำหรับ Deadside บน Windows PC ข้อกำหนดการใช้งาน สำหรับ deadsidecheats.com และใบอนุญาต Deadside",
+					intro: "Deadside Cheats รวม ESP wallhack, 2D radar และ deadside aimbot แบบ undetected สำหรับ Deadside บน Windows PC ข้อกำหนดการใช้งาน สำหรับ deadsidecheat.com และใบอนุญาต Deadside",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
@@ -20341,8 +20341,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "การเปลี่ยนแปลงนโยบาย",
 							paragraphs: [
-								"support@deadsidecheats.com สำหรับการสนับสนุน",
-								"อีเมล: support@deadsidecheats.com",
+								"support@deadsidecheat.com สำหรับการสนับสนุน",
+								"อีเมล: support@deadsidecheat.com",
 							],
 						},
 					],
@@ -20552,7 +20552,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Tính năng 2026 | ESP, Aimbot & Radar | Deadside Cheats",
-					description: "Tính năng: ESP, soft aim, điều khiển radar. giao hàng kỹ thuật số tức thì. undetected. Compare plans and guides at deadsidecheats.com.",
+					description: "Tính năng: ESP, soft aim, điều khiển radar. giao hàng kỹ thuật số tức thì. undetected. Compare plans and guides at deadsidecheat.com.",
 					h1: "Tính năng — Full Feature List",
 					intro: "Deadside Cheats cung cấp ESP wallhack, 2D radar và deadside aimbot undetected cho Deadside trên PC Windows. Tính năng für Deadside auf PC Windows.",
 					imageAlt: "Deadside Cheats features — ESP, soft aim, and radar screenshots",
@@ -20717,7 +20717,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Nếu có lỗi",
 							paragraphs: [
-								"Kiểm tra Trạng thái sau bản vá. Email support@deadsidecheats.com kèm ID đơn.",
+								"Kiểm tra Trạng thái sau bản vá. Email support@deadsidecheat.com kèm ID đơn.",
 								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 							],
 							list: [
@@ -20840,7 +20840,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Cách liên hệ",
 							paragraphs: [
-								"Email support@deadsidecheats.com kèm ID đơn và mô tả ngắn.",
+								"Email support@deadsidecheat.com kèm ID đơn và mô tả ngắn.",
 								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 							],
 							list: [
@@ -21072,7 +21072,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Read the <a href=\"/deadside-cheats/\">Tổng quan Deadside Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
 								"Also compare the <a href=\"/deadside-cheats/\">Tổng quan Deadside Cheats</a> checklist, <a href=\"/blog/deadside-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
-								"Support is available at support@deadsidecheats.com via the <a href=\"/support/\">Hỗ trợ</a>.",
+								"Support is available at support@deadsidecheat.com via the <a href=\"/support/\">Hỗ trợ</a>.",
 							],
 						},
 						{
@@ -21435,9 +21435,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Chính sách bảo mật | Deadside Cheats",
-					description: "Chính sách bảo mật cho Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheats.com.",
+					description: "Chính sách bảo mật cho Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheat.com.",
 					h1: "Chính sách bảo mật",
-					intro: "Deadside Cheats cung cấp ESP wallhack, 2D radar và deadside aimbot undetected cho Deadside trên PC Windows. Chính sách bảo mật cho deadsidecheats.com và giấy phép Deadside.",
+					intro: "Deadside Cheats cung cấp ESP wallhack, 2D radar và deadside aimbot undetected cho Deadside trên PC Windows. Chính sách bảo mật cho deadsidecheat.com và giấy phép Deadside.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-aimbot.webp",
@@ -21449,7 +21449,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Thông tin chúng tôi thu thập",
 							paragraphs: [
 								"Deadside Cheats cung cấp ESP wallhack, 2D radar và deadside aimbot undetected cho Deadside trên PC Windows. Email liên hệ, tham chiếu đơn hàng secure checkout và dữ liệu bảo mật cơ bản của trang.",
-								"Chi tiết thanh toán được xử lý qua secure checkout — không lưu trên deadsidecheats.com.",
+								"Chi tiết thanh toán được xử lý qua secure checkout — không lưu trên deadsidecheat.com.",
 							],
 						},
 						{
@@ -21462,17 +21462,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Quyền của bạn",
 							paragraphs: [
-								"support@deadsidecheats.com cho hỗ trợ và pháp lý.",
-								"Email: support@deadsidecheats.com",
+								"support@deadsidecheat.com cho hỗ trợ và pháp lý.",
+								"Email: support@deadsidecheat.com",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "Chính sách hoàn tiền | Deadside Cheats",
-					description: "Chính sách hoàn tiền cho Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheats.com.",
+					description: "Chính sách hoàn tiền cho Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheat.com.",
 					h1: "Chính sách hoàn tiền",
-					intro: "Deadside Cheats cung cấp ESP wallhack, 2D radar và deadside aimbot undetected cho Deadside trên PC Windows. Chính sách hoàn tiền cho deadsidecheats.com và giấy phép Deadside.",
+					intro: "Deadside Cheats cung cấp ESP wallhack, 2D radar và deadside aimbot undetected cho Deadside trên PC Windows. Chính sách hoàn tiền cho deadsidecheat.com và giấy phép Deadside.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-session.webp",
@@ -21497,17 +21497,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Cách yêu cầu",
 							paragraphs: [
-								"support@deadsidecheats.com cho hỗ trợ và pháp lý.",
-								"Email: support@deadsidecheats.com",
+								"support@deadsidecheat.com cho hỗ trợ và pháp lý.",
+								"Email: support@deadsidecheat.com",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Điều khoản sử dụng | Deadside Cheats",
-					description: "Điều khoản sử dụng cho Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheats.com.",
+					description: "Điều khoản sử dụng cho Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheat.com.",
 					h1: "Điều khoản sử dụng",
-					intro: "Deadside Cheats cung cấp ESP wallhack, 2D radar và deadside aimbot undetected cho Deadside trên PC Windows. Điều khoản sử dụng cho deadsidecheats.com và giấy phép Deadside.",
+					intro: "Deadside Cheats cung cấp ESP wallhack, 2D radar và deadside aimbot undetected cho Deadside trên PC Windows. Điều khoản sử dụng cho deadsidecheat.com và giấy phép Deadside.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
@@ -21532,8 +21532,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Thay đổi chính sách",
 							paragraphs: [
-								"support@deadsidecheats.com cho hỗ trợ và pháp lý.",
-								"Email: support@deadsidecheats.com",
+								"support@deadsidecheat.com cho hỗ trợ và pháp lý.",
+								"Email: support@deadsidecheat.com",
 							],
 						},
 					],
@@ -21743,7 +21743,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Функції 2026 | ESP, Aimbot & Radar | Deadside Cheats",
-					description: "Функції: ESP, soft aim, керування radar. миттєва цифрова доставка. undetected. Compare plans and guides at deadsidecheats.com.",
+					description: "Функції: ESP, soft aim, керування radar. миттєва цифрова доставка. undetected. Compare plans and guides at deadsidecheat.com.",
 					h1: "Функції — Full Feature List",
 					intro: "Deadside Cheats об'єднує ESP wallhack, 2D radar і deadside aimbot у undetected пакеті для Deadside на Windows PC. Функції für Deadside auf Windows PC.",
 					imageAlt: "Deadside Cheats features — ESP, soft aim, and radar screenshots",
@@ -21908,7 +21908,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Якщо щось не працює",
 							paragraphs: [
-								"Перевірте Статус після патчу. Email support@deadsidecheats.com з ID замовлення.",
+								"Перевірте Статус після патчу. Email support@deadsidecheat.com з ID замовлення.",
 								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 							],
 							list: [
@@ -22031,7 +22031,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Як зв'язатися",
 							paragraphs: [
-								"Email support@deadsidecheats.com. Додайте ID замовлення і короткий опис проблеми.",
+								"Email support@deadsidecheat.com. Додайте ID замовлення і короткий опис проблеми.",
 								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 							],
 							list: [
@@ -22263,7 +22263,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Read the <a href=\"/deadside-cheats/\">Огляд Deadside Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
 								"Also compare the <a href=\"/deadside-cheats/\">Огляд Deadside Cheats</a> checklist, <a href=\"/blog/deadside-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
-								"Support is available at support@deadsidecheats.com via the <a href=\"/support/\">Підтримка</a>.",
+								"Support is available at support@deadsidecheat.com via the <a href=\"/support/\">Підтримка</a>.",
 							],
 						},
 						{
@@ -22626,9 +22626,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Політика конфіденційності | Deadside Cheats",
-					description: "Політика конфіденційності для Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheats.com.",
+					description: "Політика конфіденційності для Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Політика конфіденційності",
-					intro: "Deadside Cheats об'єднує ESP wallhack, 2D radar і deadside aimbot у undetected пакеті для Deadside на Windows PC. Політика конфіденційності для deadsidecheats.com та ліцензій Deadside.",
+					intro: "Deadside Cheats об'єднує ESP wallhack, 2D radar і deadside aimbot у undetected пакеті для Deadside на Windows PC. Політика конфіденційності для deadsidecheat.com та ліцензій Deadside.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-aimbot.webp",
@@ -22640,7 +22640,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Інформація, яку ми збираємо",
 							paragraphs: [
 								"Deadside Cheats об'єднує ESP wallhack, 2D radar і deadside aimbot у undetected пакеті для Deadside на Windows PC. Контактний email, посилання на замовлення secure checkout та базові дані безпеки сайту.",
-								"Платіжні дані обробляються через secure checkout — не зберігаються на deadsidecheats.com.",
+								"Платіжні дані обробляються через secure checkout — не зберігаються на deadsidecheat.com.",
 							],
 						},
 						{
@@ -22653,17 +22653,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Ваші права",
 							paragraphs: [
-								"support@deadsidecheats.com для підтримки та правових питань.",
-								"Email: support@deadsidecheats.com",
+								"support@deadsidecheat.com для підтримки та правових питань.",
+								"Email: support@deadsidecheat.com",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "Політика повернення | Deadside Cheats",
-					description: "Політика повернення для Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheats.com.",
+					description: "Політика повернення для Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Політика повернення",
-					intro: "Deadside Cheats об'єднує ESP wallhack, 2D radar і deadside aimbot у undetected пакеті для Deadside на Windows PC. Політика повернення для deadsidecheats.com та ліцензій Deadside.",
+					intro: "Deadside Cheats об'єднує ESP wallhack, 2D radar і deadside aimbot у undetected пакеті для Deadside на Windows PC. Політика повернення для deadsidecheat.com та ліцензій Deadside.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-session.webp",
@@ -22688,17 +22688,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Як подати запит",
 							paragraphs: [
-								"support@deadsidecheats.com для підтримки та правових питань.",
-								"Email: support@deadsidecheats.com",
+								"support@deadsidecheat.com для підтримки та правових питань.",
+								"Email: support@deadsidecheat.com",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Умови використання | Deadside Cheats",
-					description: "Умови використання для Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheats.com.",
+					description: "Умови використання для Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Умови використання",
-					intro: "Deadside Cheats об'єднує ESP wallhack, 2D radar і deadside aimbot у undetected пакеті для Deadside на Windows PC. Умови використання для deadsidecheats.com та ліцензій Deadside.",
+					intro: "Deadside Cheats об'єднує ESP wallhack, 2D radar і deadside aimbot у undetected пакеті для Deadside на Windows PC. Умови використання для deadsidecheat.com та ліцензій Deadside.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
@@ -22723,8 +22723,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Зміни політики",
 							paragraphs: [
-								"support@deadsidecheats.com для підтримки та правових питань.",
-								"Email: support@deadsidecheats.com",
+								"support@deadsidecheat.com для підтримки та правових питань.",
+								"Email: support@deadsidecheat.com",
 							],
 						},
 					],
@@ -22934,7 +22934,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Funkce 2026 | ESP, Aimbot & Radar | Deadside Cheats",
-					description: "Funkce: ESP, soft aim, ovládání radar. okamžité digitální doručení. undetected. Compare plans and guides at deadsidecheats.com.",
+					description: "Funkce: ESP, soft aim, ovládání radar. okamžité digitální doručení. undetected. Compare plans and guides at deadsidecheat.com.",
 					h1: "Funkce — Full Feature List",
 					intro: "Deadside Cheats spojuje ESP wallhack, 2D radar a deadside aimbot jako undetected balíček pro Deadside na Windows PC. Funkce für Deadside auf Windows PC.",
 					imageAlt: "Deadside Cheats features — ESP, soft aim, and radar screenshots",
@@ -23099,7 +23099,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Pokud něco selže",
 							paragraphs: [
-								"Po patchi zkontrolujte Stav. Email support@deadsidecheats.com s ID objednávky.",
+								"Po patchi zkontrolujte Stav. Email support@deadsidecheat.com s ID objednávky.",
 								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 							],
 							list: [
@@ -23222,7 +23222,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Jak nás kontaktovat",
 							paragraphs: [
-								"Email support@deadsidecheats.com. Uveďte ID objednávky a stručný popis problému.",
+								"Email support@deadsidecheat.com. Uveďte ID objednávky a stručný popis problému.",
 								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 							],
 							list: [
@@ -23454,7 +23454,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Read the <a href=\"/deadside-cheats/\">Přehled Deadside Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
 								"Also compare the <a href=\"/deadside-cheats/\">Přehled Deadside Cheats</a> checklist, <a href=\"/blog/deadside-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
-								"Support is available at support@deadsidecheats.com via the <a href=\"/support/\">Podpora</a>.",
+								"Support is available at support@deadsidecheat.com via the <a href=\"/support/\">Podpora</a>.",
 							],
 						},
 						{
@@ -23817,9 +23817,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Zásady ochrany soukromí | Deadside Cheats",
-					description: "Zásady ochrany soukromí pro Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheats.com.",
+					description: "Zásady ochrany soukromí pro Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Zásady ochrany soukromí",
-					intro: "Deadside Cheats spojuje ESP wallhack, 2D radar a deadside aimbot jako undetected balíček pro Deadside na Windows PC. Zásady ochrany soukromí pro deadsidecheats.com a licence Deadside.",
+					intro: "Deadside Cheats spojuje ESP wallhack, 2D radar a deadside aimbot jako undetected balíček pro Deadside na Windows PC. Zásady ochrany soukromí pro deadsidecheat.com a licence Deadside.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-aimbot.webp",
@@ -23831,7 +23831,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Informace, které shromažďujeme",
 							paragraphs: [
 								"Deadside Cheats spojuje ESP wallhack, 2D radar a deadside aimbot jako undetected balíček pro Deadside na Windows PC. Kontaktní e-mail, reference objednávek secure checkout a základní bezpečnostní data webu.",
-								"Platební údaje zpracovává secure checkout — neukládají se na deadsidecheats.com.",
+								"Platební údaje zpracovává secure checkout — neukládají se na deadsidecheat.com.",
 							],
 						},
 						{
@@ -23844,17 +23844,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Vaše práva",
 							paragraphs: [
-								"support@deadsidecheats.com pro podporu a právní dotazy.",
-								"E-mail: support@deadsidecheats.com",
+								"support@deadsidecheat.com pro podporu a právní dotazy.",
+								"E-mail: support@deadsidecheat.com",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "Zásady vrácení peněz | Deadside Cheats",
-					description: "Zásady vrácení peněz pro Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheats.com.",
+					description: "Zásady vrácení peněz pro Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Zásady vrácení peněz",
-					intro: "Deadside Cheats spojuje ESP wallhack, 2D radar a deadside aimbot jako undetected balíček pro Deadside na Windows PC. Zásady vrácení peněz pro deadsidecheats.com a licence Deadside.",
+					intro: "Deadside Cheats spojuje ESP wallhack, 2D radar a deadside aimbot jako undetected balíček pro Deadside na Windows PC. Zásady vrácení peněz pro deadsidecheat.com a licence Deadside.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-session.webp",
@@ -23879,17 +23879,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Jak požádat",
 							paragraphs: [
-								"support@deadsidecheats.com pro podporu a právní dotazy.",
-								"E-mail: support@deadsidecheats.com",
+								"support@deadsidecheat.com pro podporu a právní dotazy.",
+								"E-mail: support@deadsidecheat.com",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Podmínky použití | Deadside Cheats",
-					description: "Podmínky použití pro Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheats.com.",
+					description: "Podmínky použití pro Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Podmínky použití",
-					intro: "Deadside Cheats spojuje ESP wallhack, 2D radar a deadside aimbot jako undetected balíček pro Deadside na Windows PC. Podmínky použití pro deadsidecheats.com a licence Deadside.",
+					intro: "Deadside Cheats spojuje ESP wallhack, 2D radar a deadside aimbot jako undetected balíček pro Deadside na Windows PC. Podmínky použití pro deadsidecheat.com a licence Deadside.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
@@ -23914,8 +23914,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Změny zásad",
 							paragraphs: [
-								"support@deadsidecheats.com pro podporu a právní dotazy.",
-								"E-mail: support@deadsidecheats.com",
+								"support@deadsidecheat.com pro podporu a právní dotazy.",
+								"E-mail: support@deadsidecheat.com",
 							],
 						},
 					],
@@ -24125,7 +24125,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Funcții 2026 | ESP, Aimbot & Radar | Deadside Cheats",
-					description: "Funcții: ESP, soft aim, controale radar. livrare digitală instantă. undetected. Compare plans and guides at deadsidecheats.com.",
+					description: "Funcții: ESP, soft aim, controale radar. livrare digitală instantă. undetected. Compare plans and guides at deadsidecheat.com.",
 					h1: "Funcții — Full Feature List",
 					intro: "Deadside Cheats combină ESP wallhack, 2D radar și deadside aimbot undetected pentru Deadside pe PC Windows. Funcții für Deadside auf PC Windows.",
 					imageAlt: "Deadside Cheats features — ESP, soft aim, and radar screenshots",
@@ -24290,7 +24290,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Dacă ceva nu funcționează",
 							paragraphs: [
-								"Verifică Status după patch. Email support@deadsidecheats.com cu ID comandă.",
+								"Verifică Status după patch. Email support@deadsidecheat.com cu ID comandă.",
 								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 							],
 							list: [
@@ -24413,7 +24413,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Cum ne contactezi",
 							paragraphs: [
-								"Email support@deadsidecheats.com. Include ID comandă și notă scurtă despre problemă.",
+								"Email support@deadsidecheat.com. Include ID comandă și notă scurtă despre problemă.",
 								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 							],
 							list: [
@@ -24645,7 +24645,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Read the <a href=\"/deadside-cheats/\">Prezentare Deadside Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
 								"Also compare the <a href=\"/deadside-cheats/\">Prezentare Deadside Cheats</a> checklist, <a href=\"/blog/deadside-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
-								"Support is available at support@deadsidecheats.com via the <a href=\"/support/\">Suport</a>.",
+								"Support is available at support@deadsidecheat.com via the <a href=\"/support/\">Suport</a>.",
 							],
 						},
 						{
@@ -25008,9 +25008,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Politica de confidențialitate | Deadside Cheats",
-					description: "Politica de confidențialitate pentru Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheats.com.",
+					description: "Politica de confidențialitate pentru Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheat.com.",
 					h1: "Politica de confidențialitate",
-					intro: "Deadside Cheats combină ESP wallhack, 2D radar și deadside aimbot undetected pentru Deadside pe PC Windows. Politica de confidențialitate pentru deadsidecheats.com și licențe Deadside.",
+					intro: "Deadside Cheats combină ESP wallhack, 2D radar și deadside aimbot undetected pentru Deadside pe PC Windows. Politica de confidențialitate pentru deadsidecheat.com și licențe Deadside.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-aimbot.webp",
@@ -25022,7 +25022,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Informații pe care le colectăm",
 							paragraphs: [
 								"Deadside Cheats combină ESP wallhack, 2D radar și deadside aimbot undetected pentru Deadside pe PC Windows. Email de contact, referințe comenzi secure checkout și date de securitate de bază ale site-ului.",
-								"Detaliile de plată sunt procesate prin secure checkout — nu sunt stocate pe deadsidecheats.com.",
+								"Detaliile de plată sunt procesate prin secure checkout — nu sunt stocate pe deadsidecheat.com.",
 							],
 						},
 						{
@@ -25035,17 +25035,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Drepturile tale",
 							paragraphs: [
-								"support@deadsidecheats.com pentru suport și legal.",
-								"Email: support@deadsidecheats.com",
+								"support@deadsidecheat.com pentru suport și legal.",
+								"Email: support@deadsidecheat.com",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "Politica de rambursare | Deadside Cheats",
-					description: "Politica de rambursare pentru Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheats.com.",
+					description: "Politica de rambursare pentru Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheat.com.",
 					h1: "Politica de rambursare",
-					intro: "Deadside Cheats combină ESP wallhack, 2D radar și deadside aimbot undetected pentru Deadside pe PC Windows. Politica de rambursare pentru deadsidecheats.com și licențe Deadside.",
+					intro: "Deadside Cheats combină ESP wallhack, 2D radar și deadside aimbot undetected pentru Deadside pe PC Windows. Politica de rambursare pentru deadsidecheat.com și licențe Deadside.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-session.webp",
@@ -25070,17 +25070,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Cum să soliciți",
 							paragraphs: [
-								"support@deadsidecheats.com pentru suport și legal.",
-								"Email: support@deadsidecheats.com",
+								"support@deadsidecheat.com pentru suport și legal.",
+								"Email: support@deadsidecheat.com",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Termeni de utilizare | Deadside Cheats",
-					description: "Termeni de utilizare pentru Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheats.com.",
+					description: "Termeni de utilizare pentru Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheat.com.",
 					h1: "Termeni de utilizare",
-					intro: "Deadside Cheats combină ESP wallhack, 2D radar și deadside aimbot undetected pentru Deadside pe PC Windows. Termeni de utilizare pentru deadsidecheats.com și licențe Deadside.",
+					intro: "Deadside Cheats combină ESP wallhack, 2D radar și deadside aimbot undetected pentru Deadside pe PC Windows. Termeni de utilizare pentru deadsidecheat.com și licențe Deadside.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
@@ -25105,8 +25105,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Modificări de politică",
 							paragraphs: [
-								"support@deadsidecheats.com pentru suport și legal.",
-								"Email: support@deadsidecheats.com",
+								"support@deadsidecheat.com pentru suport și legal.",
+								"Email: support@deadsidecheat.com",
 							],
 						},
 					],
@@ -25316,7 +25316,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Funktioner 2026 | ESP, Aimbot & Radar | Deadside Cheats",
-					description: "Funktioner: ESP, soft aim, radar-kontroller. omedelbar digital leverans. undetected. Compare plans and guides at deadsidecheats.com.",
+					description: "Funktioner: ESP, soft aim, radar-kontroller. omedelbar digital leverans. undetected. Compare plans and guides at deadsidecheat.com.",
 					h1: "Funktioner — Full Feature List",
 					intro: "Deadside Cheats kombinerar ESP wallhack, 2D radar och deadside aimbot som undetected paket för Deadside på Windows PC. Funktioner für Deadside auf Windows PC.",
 					imageAlt: "Deadside Cheats features — ESP, soft aim, and radar screenshots",
@@ -25481,7 +25481,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Om något misslyckas",
 							paragraphs: [
-								"Kontrollera Status efter patch. Mejla support@deadsidecheats.com med order-ID.",
+								"Kontrollera Status efter patch. Mejla support@deadsidecheat.com med order-ID.",
 								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 							],
 							list: [
@@ -25604,7 +25604,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Hur du kontaktar oss",
 							paragraphs: [
-								"Mejla support@deadsidecheats.com. Inkludera order-ID och kort problembeskrivning.",
+								"Mejla support@deadsidecheat.com. Inkludera order-ID och kort problembeskrivning.",
 								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 							],
 							list: [
@@ -25836,7 +25836,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Read the <a href=\"/deadside-cheats/\">Deadside Cheats-översikt</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
 								"Also compare the <a href=\"/deadside-cheats/\">Deadside Cheats-översikt</a> checklist, <a href=\"/blog/deadside-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
-								"Support is available at support@deadsidecheats.com via the <a href=\"/support/\">Support</a>.",
+								"Support is available at support@deadsidecheat.com via the <a href=\"/support/\">Support</a>.",
 							],
 						},
 						{
@@ -26199,9 +26199,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Integritetspolicy | Deadside Cheats",
-					description: "Integritetspolicy för Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheats.com.",
+					description: "Integritetspolicy för Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Integritetspolicy",
-					intro: "Deadside Cheats kombinerar ESP wallhack, 2D radar och deadside aimbot som undetected paket för Deadside på Windows PC. Integritetspolicy för deadsidecheats.com och Deadside-licenser.",
+					intro: "Deadside Cheats kombinerar ESP wallhack, 2D radar och deadside aimbot som undetected paket för Deadside på Windows PC. Integritetspolicy för deadsidecheat.com och Deadside-licenser.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-aimbot.webp",
@@ -26213,7 +26213,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Information vi samlar in",
 							paragraphs: [
 								"Deadside Cheats kombinerar ESP wallhack, 2D radar och deadside aimbot som undetected paket för Deadside på Windows PC. Kontakt-e-post, secure checkout-orderreferenser och grundläggande säkerhetsdata för webbplatsen.",
-								"Betalningsuppgifter behandlas. — lagras inte på deadsidecheats.com.",
+								"Betalningsuppgifter behandlas. — lagras inte på deadsidecheat.com.",
 							],
 						},
 						{
@@ -26226,17 +26226,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Dina rättigheter",
 							paragraphs: [
-								"support@deadsidecheats.com för support och juridik.",
-								"E-post: support@deadsidecheats.com",
+								"support@deadsidecheat.com för support och juridik.",
+								"E-post: support@deadsidecheat.com",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "Återbetalningspolicy | Deadside Cheats",
-					description: "Återbetalningspolicy för Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheats.com.",
+					description: "Återbetalningspolicy för Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Återbetalningspolicy",
-					intro: "Deadside Cheats kombinerar ESP wallhack, 2D radar och deadside aimbot som undetected paket för Deadside på Windows PC. Återbetalningspolicy för deadsidecheats.com och Deadside-licenser.",
+					intro: "Deadside Cheats kombinerar ESP wallhack, 2D radar och deadside aimbot som undetected paket för Deadside på Windows PC. Återbetalningspolicy för deadsidecheat.com och Deadside-licenser.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-session.webp",
@@ -26261,17 +26261,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Hur du begär",
 							paragraphs: [
-								"support@deadsidecheats.com för support och juridik.",
-								"E-post: support@deadsidecheats.com",
+								"support@deadsidecheat.com för support och juridik.",
+								"E-post: support@deadsidecheat.com",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Användarvillkor | Deadside Cheats",
-					description: "Användarvillkor för Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheats.com.",
+					description: "Användarvillkor för Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Användarvillkor",
-					intro: "Deadside Cheats kombinerar ESP wallhack, 2D radar och deadside aimbot som undetected paket för Deadside på Windows PC. Användarvillkor för deadsidecheats.com och Deadside-licenser.",
+					intro: "Deadside Cheats kombinerar ESP wallhack, 2D radar och deadside aimbot som undetected paket för Deadside på Windows PC. Användarvillkor för deadsidecheat.com och Deadside-licenser.",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
@@ -26296,8 +26296,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Policyändringar",
 							paragraphs: [
-								"support@deadsidecheats.com för support och juridik.",
-								"E-post: support@deadsidecheats.com",
+								"support@deadsidecheat.com för support och juridik.",
+								"E-post: support@deadsidecheat.com",
 							],
 						},
 					],

@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 /**
  * One-time migration: Naraka Cheats → Deadside Cheats.
- * Domain: deadsidecheats.com
+ * Domain: deadsidecheat.com
  * Run from project root: node scripts/adapt-deadside.mjs
  */
 import { readFile, writeFile, readdir, rename } from 'node:fs/promises';
@@ -30,16 +30,16 @@ const RENAME_PAGE_DIRS = [
 
 /** Ordered replacements — specific patterns first. */
 const REPLACEMENTS = [
-	['https://www.narakacheats.org', 'https://www.deadsidecheats.com'],
-	['https://narakacheats.org', 'https://deadsidecheats.com'],
-	['https://www.narakacheats.net', 'https://www.deadsidecheats.com'],
-	['https://narakacheats.net', 'https://deadsidecheats.com'],
-	['www.narakacheats.org', 'www.deadsidecheats.com'],
-	['www.narakacheats.net', 'www.deadsidecheats.com'],
-	['narakacheats.org', 'deadsidecheats.com'],
-	['narakacheats.net', 'deadsidecheats.com'],
-	['support@narakacheats.org', 'support@deadsidecheats.com'],
-	['support@narakacheats.net', 'support@deadsidecheats.com'],
+	['https://www.narakacheats.org', 'https://www.deadsidecheat.com'],
+	['https://narakacheats.org', 'https://deadsidecheat.com'],
+	['https://www.narakacheats.net', 'https://www.deadsidecheat.com'],
+	['https://narakacheats.net', 'https://deadsidecheat.com'],
+	['www.narakacheats.org', 'www.deadsidecheat.com'],
+	['www.narakacheats.net', 'www.deadsidecheat.com'],
+	['narakacheats.org', 'deadsidecheat.com'],
+	['narakacheats.net', 'deadsidecheat.com'],
+	['support@narakacheats.org', 'support@deadsidecheat.com'],
+	['support@narakacheats.net', 'support@deadsidecheat.com'],
 	['project-name=narakacheats', 'project-name=deadsidecheats'],
 	['name = "naraka-cheats-org"', 'name = "deadside-cheats-org"'],
 	['"name": "naraka-cheats"', '"name": "deadside-cheats"'],
@@ -390,7 +390,7 @@ async function renameImages() {
 }
 
 async function main() {
-	console.log('Adapting Naraka Cheats → Deadside Cheats (deadsidecheats.com)...\n');
+	console.log('Adapting Naraka Cheats → Deadside Cheats (deadsidecheat.com)...\n');
 	await renamePageDirs();
 	await renameNarakaTs();
 	await renameScripts();

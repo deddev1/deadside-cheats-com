@@ -52,7 +52,7 @@ const REPLACEMENTS = [
 	['BattlEye Bypass', 'BattlEye Bypass'],
 	['BattlEye', 'BattlEye'],
 	['battleye', 'battleye'],
-	['support@deadsidecheats.com', 'support@deadsidecheats.com'],
+	['support@deadsidecheat.com', 'support@deadsidecheat.com'],
 	['maps, compounds, and loot zones', 'maps, compounds, and loot zones'],
 	['maps, compounds and loot zones', 'maps, compounds and loot zones'],
 	['raid fights', 'raid fights'],

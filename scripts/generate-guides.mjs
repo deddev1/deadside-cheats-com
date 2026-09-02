@@ -48,7 +48,7 @@ https://thefinalscheats.org/
 https://dayzcheat.net/
 https://fncheats.net/
 http://islecheat.com
-https://deadsidecheats.com/
+https://deadsidecheat.com/
 http://marvelrivalscheat.net/
 http://meccacheats.com/
 http://rusthack.net

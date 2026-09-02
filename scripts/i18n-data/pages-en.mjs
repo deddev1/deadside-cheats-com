@@ -36,7 +36,7 @@ export const enPages = {
 	'deadside-esp': {
 		title: 'Deadside ESP | Wallhack & Player Boxes | Deadside Cheats',
 		description:
-			'Deadside ESP wallhack — player boxes, loot markers & distance tags on PC. Undetected deadside cheats with aimbot & radar. Shop at deadsidecheats.com.',
+			'Deadside ESP wallhack — player boxes, loot markers & distance tags on PC. Undetected deadside cheats with aimbot & radar. Shop at deadsidecheat.com.',
 		h1: 'Deadside ESP — Player Boxes & Wallhack',
 		intro:
 			'Deadside ESP visibility tools for survival raids and squad sessions. Read enemy squads, player positions, loot crates, and distance before you commit — toggleable Deadside ESP wallhack overlays bundled in our Deadside Cheats package.',
@@ -93,7 +93,7 @@ export const enPages = {
 	'deadside-aimbot': {
 		title: 'Deadside Aimbot | Soft Aim & FOV Settings | Deadside Cheats',
 		description:
-			'Deadside aimbot with soft aim, FOV, bone priority & hotkeys on PC. Undetected Deadside Cheats with ESP & radar included. deadsidecheats.com.',
+			'Deadside aimbot with soft aim, FOV, bone priority & hotkeys on PC. Undetected Deadside Cheats with ESP & radar included. deadsidecheat.com.',
 		h1: 'Deadside Aimbot — Soft Aim for Windows PC',
 		intro:
 			'Configurable Aimbot tools for Deadside tactical combats. Smoothness, FOV, bone priority, and per-weapon profiles — bundled with ESP wallhack and radar in one undetected license.',
@@ -150,7 +150,7 @@ export const enPages = {
 	features: {
 		title: 'Deadside Cheats Features | ESP, Aimbot & Radar',
 		description:
-			'Full Deadside cheats feature list — ESP wallhack, soft aim, 2D radar & mod menu toggles on PC. BattlEye maintenance at deadsidecheats.com.',
+			'Full Deadside cheats feature list — ESP wallhack, soft aim, 2D radar & mod menu toggles on PC. BattlEye maintenance at deadsidecheat.com.',
 		h1: 'Deadside Cheats Features — Full Control List',
 		intro:
 			'Every ESP wallhack, 2D radar, and Aimbot control included in Deadside Cheats for Deadside on Windows PC — with BattlEye maintenance after major patches.',
@@ -181,7 +181,7 @@ export const enPages = {
 			section(
 				'Licensing, delivery, and BattlEye maintenance',
 				'Monthly ($35) and lifetime ($150) licenses with instant digital delivery. BattlEye maintenance rebuilds publish on the <a href="/updates/">Updates page</a> after anti-cheat or game patches.',
-				`Monitor ${EXT.status} on patch days, then confirm rebuild notes before you queue. Setup and billing help lives on <a href="/support/">Support</a> and support@deadsidecheats.com.`,
+				`Monitor ${EXT.status} on patch days, then confirm rebuild notes before you queue. Setup and billing help lives on <a href="/support/">Support</a> and support@deadsidecheat.com.`,
 				'Next step: compare plans on <a href="/pricing/">Pricing</a> or read <a href="/undetected-deadside-cheats/">how undetected maintenance works</a>.',
 			),
 		],
@@ -189,7 +189,7 @@ export const enPages = {
 	pricing: {
 		title: 'Deadside Cheats Pricing | $35/mo or $150 Lifetime',
 		description:
-			'Buy Deadside cheats at deadsidecheats.com — $35/month or $150 lifetime. ESP, aimbot & radar on PC. Same features, instant delivery.',
+			'Buy Deadside cheats at deadsidecheat.com — $35/month or $150 lifetime. ESP, aimbot & radar on PC. Same features, instant delivery.',
 		h1: 'Deadside Cheats Pricing — Monthly & Lifetime',
 		intro:
 			'Choose monthly or lifetime access to undetected Deadside Cheats — ESP wallhack, 2D radar, and Aimbot for Deadside on Windows PC. Instant digital delivery after payment.',
@@ -222,7 +222,7 @@ export const enPages = {
 	setup: {
 		title: 'Deadside Cheats Setup | Windows PC Install Guide',
 		description:
-			'Install Deadside Cheats on PC — activate ESP, soft aim & radar step by step. Setup guide at deadsidecheats.com. Check BattlEye status first.',
+			'Install Deadside Cheats on PC — activate ESP, soft aim & radar step by step. Setup guide at deadsidecheat.com. Check BattlEye status first.',
 		h1: 'Deadside Cheats Setup — Windows PC Guide',
 		intro:
 			'Install and configure Deadside Cheats for Deadside on Windows 10 or 11. Activate your license, load ESP wallhack and Aimbot profiles, and verify BattlEye maintenance status before loading in.',
@@ -255,7 +255,7 @@ export const enPages = {
 	updates: {
 		title: 'Deadside Status | BattlEye Updates | Deadside Cheats',
 		description:
-			'Live status after Deadside & BattlEye patches. Check undetected ESP, aimbot & radar rebuilds on PC before you queue. deadsidecheats.com.',
+			'Live status after Deadside & BattlEye patches. Check undetected ESP, aimbot & radar rebuilds on PC before you queue. deadsidecheat.com.',
 		h1: 'Deadside Cheats Updates — Maintenance Log',
 		intro:
 			'Track BattlEye maintenance and Deadside patch rebuilds for the undetected ESP wallhack, 2D radar, and Aimbot package. Check here before loading in after major updates.',
@@ -295,7 +295,7 @@ export const enPages = {
 	faq: {
 		title: 'Deadside Cheats FAQ | ESP, Aimbot & BattlEye',
 		description:
-			'FAQ for deadside cheats — delivery, setup, undetected status, BattlEye updates & pricing on PC. Answers at deadsidecheats.com before you buy.',
+			'FAQ for deadside cheats — delivery, setup, undetected status, BattlEye updates & pricing on PC. Answers at deadsidecheat.com before you buy.',
 		h1: 'Deadside Cheats FAQ — Common Questions',
 		intro:
 			'Answers about undetected Deadside Cheats — ESP wallhack, 2D radar, Aimbot, BattlEye maintenance, checkout, and Deadside compatibility on Windows PC.',
@@ -320,7 +320,7 @@ export const enPages = {
 			section(
 				'Delivery, pricing, and support',
 				'Licenses deliver digitally after payment confirmation. Monthly is $35; lifetime is $150 USD — see <a href="/pricing/">Pricing</a>.',
-				'Contact support@deadsidecheats.com or the <a href="/support/">Support page</a> with order details for setup or billing help. First launch steps are on <a href="/setup/">Setup</a>.',
+				'Contact support@deadsidecheat.com or the <a href="/support/">Support page</a> with order details for setup or billing help. First launch steps are on <a href="/setup/">Setup</a>.',
 				'Refund eligibility is covered in the <a href="/refund-policy/">Refund Policy</a>.',
 			),
 		],
@@ -328,7 +328,7 @@ export const enPages = {
 	support: {
 		title: 'Deadside Cheats Support | License & Setup Help',
 		description:
-			'Support for license delivery, ESP setup & billing on PC. Email support@deadsidecheats.com with your order ID. deadsidecheats.com/support.',
+			'Support for license delivery, ESP setup & billing on PC. Email support@deadsidecheat.com with your order ID. deadsidecheat.com/support.',
 		h1: 'Deadside Cheats Support — Contact Us',
 		intro:
 			'Get help with Deadside Cheats licenses, checkout, ESP wallhack setup, Aimbot profiles, and BattlEye maintenance for Deadside on Windows PC.',
@@ -353,7 +353,7 @@ export const enPages = {
 			section(
 				'Self-service resources',
 				'Setup guide, Features list, Updates log, Refund Policy, and Terms of Use are linked from the footer. BattlEye bypass notes live on the dedicated <a href="/battleye-bypass/">BattlEye bypass page</a>.',
-				'Email: support@deadsidecheats.com',
+				'Email: support@deadsidecheat.com',
 				'Ready to purchase or renew? Open <a href="/pricing/">Pricing</a>. Need feature detail first? See <a href="/features/">Features</a>.',
 			),
 		],
@@ -361,7 +361,7 @@ export const enPages = {
 	undetected: {
 		title: 'Undetected Deadside Cheats 2026 | BattlEye Safe',
 		description:
-			'Undetected deadside cheats with BattlEye maintenance for ESP, soft aim & radar on PC. Public status, rebuild workflow — from $35 at deadsidecheats.com.',
+			'Undetected deadside cheats with BattlEye maintenance for ESP, soft aim & radar on PC. Public status, rebuild workflow — from $35 at deadsidecheat.com.',
 		h1: 'Undetected Deadside Cheats — BattlEye Maintenance',
 		intro:
 			'How Deadside Cheats stays maintained for Deadside after BattlEye patches — ESP wallhack, 2D radar, and Aimbot rebuilds for Windows PC.',
@@ -400,7 +400,7 @@ export const enPages = {
 	wallhack: {
 		title: 'Deadside Wallhack | ESP Boxes & Loot Markers',
 		description:
-			'Deadside wallhack ESP with player boxes, loot markers & skeleton overlays on PC. Undetected deadside cheats with BattlEye rebuilds. deadsidecheats.com.',
+			'Deadside wallhack ESP with player boxes, loot markers & skeleton overlays on PC. Undetected deadside cheats with BattlEye rebuilds. deadsidecheat.com.',
 		h1: 'Deadside Wallhack — ESP Boxes & Visibility',
 		intro:
 			'Deadside wallhack ESP for Deadside — see players, loot, enemy players, and resource nodes through toggleable wallhack overlays built for survival raids and squad sessions.',
@@ -433,7 +433,7 @@ export const enPages = {
 	radar: {
 		title: 'Deadside 2D Radar | 2D Threat Map | Deadside Cheats',
 		description:
-			'2D radar for flank awareness on PC. Bundled with ESP wallhack & soft aim in one license. BattlEye maintenance at deadsidecheats.com.',
+			'2D radar for flank awareness on PC. Bundled with ESP wallhack & soft aim in one license. BattlEye maintenance at deadsidecheat.com.',
 		h1: 'Deadside 2D Radar — 2D Threat Awareness',
 		intro:
 			'2D radar-style overlay for Deadside — directional threat cues for nearby players outside your line of sight, bundled with ESP wallhack and Aimbot.',
@@ -466,7 +466,7 @@ export const enPages = {
 	'battleye': {
 		title: 'Deadside BattlEye Bypass Guide 2026 | Deadside Cheats',
 		description:
-			'Deadside battleye bypass explained — how ESP, aimbot & radar rebuild after BattlEye patches on PC. HWID risk, maintenance workflow & status at deadsidecheats.com.',
+			'Deadside battleye bypass explained — how ESP, aimbot & radar rebuild after BattlEye patches on PC. HWID risk, maintenance workflow & status at deadsidecheat.com.',
 		h1: 'BattlEye Bypass — Deadside Cheats Maintenance',
 		intro:
 			'Understand BattlEye maintenance for Deadside Cheats — how ESP wallhack, 2D radar, and Aimbot rebuild after Deadside security updates.',
@@ -511,7 +511,7 @@ export const enPages = {
 	'cheats-2026': {
 		title: 'Deadside Cheats 2026 | Undetected PC Cheats',
 		description:
-			'Best Deadside cheats 2026 — undetected ESP, soft aim & 2D radar on PC. BattlEye maintenance & instant delivery at deadsidecheats.com.',
+			'Best Deadside cheats 2026 — undetected ESP, soft aim & 2D radar on PC. BattlEye maintenance & instant delivery at deadsidecheat.com.',
 		h1: 'Deadside Cheats 2026 — ESP, Soft Aim & Radar',
 		intro:
 			'The 2026 Deadside Cheats package for Deadside — undetected ESP wallhack, 2D radar, and Aimbot with BattlEye maintenance, instant delivery, and Windows PC support.',
@@ -537,7 +537,7 @@ export const enPages = {
 				'Before you buy in 2026',
 				'Read the <a href="/deadside-cheats/">deadside cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.',
 				'Also compare the <a href="/deadside-cheats/">deadside cheats</a> checklist, <a href="/blog/deadside-cheats-2026-whats-new/">2026 blog guide</a>, and <a href="/faq/">FAQ</a>.',
-				'Support is available at support@deadsidecheats.com via the <a href="/support/">Support page</a>.',
+				'Support is available at support@deadsidecheat.com via the <a href="/support/">Support page</a>.',
 			),
 			section(
 				'2026 survival meta on Deadside',
@@ -550,7 +550,7 @@ export const enPages = {
 	hacks: {
 		title: 'Deadside Cheats | Undetected Cheats, ESP & Aimbot',
 		description:
-			'Deadside cheats guide — undetected ESP wallhack, soft aim, radar & BattlEye rebuilds on PC. Compare features & buy from $35 at deadsidecheats.com.',
+			'Deadside cheats guide — undetected ESP wallhack, soft aim, radar & BattlEye rebuilds on PC. Compare features & buy from $35 at deadsidecheat.com.',
 		h1: 'Deadside Cheats — What You Get & How It Works',
 		intro:
 			'Deadside cheats give you extra information and combat tools on top of the base game: player ESP, loot markers, 2D radar, and configurable soft aim in one Windows PC license. This page explains what deadside cheats are, what Deadside Cheats includes, and how maintenance works after BattlEye patches.',
@@ -580,7 +580,7 @@ export const enPages = {
 			),
 			section(
 				'Getting started',
-				'After checkout, follow the <a href="/setup/">Setup guide</a> to activate your license and load default ESP and aim profiles. Keep your order ID ready for support at support@deadsidecheats.com.',
+				'After checkout, follow the <a href="/setup/">Setup guide</a> to activate your license and load default ESP and aim profiles. Keep your order ID ready for support at support@deadsidecheat.com.',
 				'New buyers should also read the <a href="/blog/deadside-cheats-complete-guide-2026/">2026 complete guide</a> and <a href="/blog/deadside-cheats-buyers-guide/">buyers guide</a> before comparing shops.',
 				'Ready to buy? Open <a href="/pricing/">Pricing</a> or return to the <a href="/">homepage</a> for the latest status summary.',
 			),
@@ -595,7 +595,7 @@ export const enPages = {
 	'cheat-download': {
 		title: 'Deadside Cheat Download | Instant Access | Deadside Cheats',
 		description:
-			'Deadside cheats download with instant license delivery — ESP, soft aim & radar on PC. Secure checkout & activation at deadsidecheats.com from $35.',
+			'Deadside cheats download with instant license delivery — ESP, soft aim & radar on PC. Secure checkout & activation at deadsidecheat.com from $35.',
 		h1: 'Deadside Cheat Download — Instant License Delivery',
 		intro:
 			'How deadside cheat download works for Deadside — digital license delivery after payment confirmation, with ESP wallhack, 2D radar, and Aimbot access on Windows PC.',
@@ -628,7 +628,7 @@ export const enPages = {
 	'mod-menu': {
 		title: 'Deadside Mod Menu | In-Match Toggles | Deadside Cheats',
 		description:
-			'Deadside mod menu for in-match ESP, soft aim & radar toggles on PC. Hotkeys & BattlEye maintenance included. Get access at deadsidecheats.com.',
+			'Deadside mod menu for in-match ESP, soft aim & radar toggles on PC. Hotkeys & BattlEye maintenance included. Get access at deadsidecheat.com.',
 		h1: 'Deadside Mod Menu — In-Client Control Panel',
 		intro:
 			'Deadside mod menu controls for Deadside — toggle ESP wallhack categories, radar range, and Aimbot profiles mid-match without leaving your Deadside match on Windows PC.',
@@ -661,7 +661,7 @@ export const enPages = {
 	'soft-aim': {
 		title: 'Deadside Soft Aim | Aimbot Settings | Deadside Cheats',
 		description:
-			'Soft aim settings for natural tracking on PC — smoothness, FOV & bone priority. Included in undetected Deadside Cheats at deadsidecheats.com.',
+			'Soft aim settings for natural tracking on PC — smoothness, FOV & bone priority. Included in undetected Deadside Cheats at deadsidecheat.com.',
 		h1: 'Deadside Soft Aim — Smooth Aimbot Controls',
 		intro:
 			'Deadside soft aim settings for Deadside — configurable Aimbot smoothness, FOV, bone priority, and hotkey toggles bundled with ESP wallhack and radar in one undetected license.',
@@ -694,7 +694,7 @@ export const enPages = {
 	'best-cheats': {
 		title: 'Best Deadside Cheats 2026 | Compare & Buy | Deadside Cheats',
 		description:
-			'Best Deadside cheats for 2026 — undetected ESP, soft aim & BattlEye maintenance on PC. Buyer checklist before checkout at deadsidecheats.com.',
+			'Best Deadside cheats for 2026 — undetected ESP, soft aim & BattlEye maintenance on PC. Buyer checklist before checkout at deadsidecheat.com.',
 		h1: 'Best Deadside Cheats — 2026 Buyer Guide',
 		intro:
 			'Compare deadside cheats for Deadside in 2026 — undetected ESP wallhack, 2D radar, and Aimbot in one maintained package with BattlEye rebuilds and instant delivery.',
@@ -733,7 +733,7 @@ export const enPages = {
 	'aimbot-hack': {
 		title: 'Deadside Aimbot | Soft Aim | Deadside Cheats',
 		description:
-			'Deadside aimbot with soft aim, FOV & bone priority on PC. ESP wallhack & radar bundled. Undetected with BattlEye updates at deadsidecheats.com.',
+			'Deadside aimbot with soft aim, FOV & bone priority on PC. ESP wallhack & radar bundled. Undetected with BattlEye updates at deadsidecheat.com.',
 		h1: 'Deadside Aimbot — Soft Aim Assist',
 		intro:
 			'Deadside Aimbot tools for Deadside — smoothness, FOV, bone priority, per-weapon profiles, and hotkey toggles bundled with ESP wallhack and radar in one undetected license.',
@@ -766,7 +766,7 @@ export const enPages = {
 	'esp-hack': {
 		title: 'Deadside ESP | Wallhack Boxes | Deadside Cheats',
 		description:
-			'Deadside ESP with player boxes & loot markers on PC. Wallhack, radar & aimbot included in one license. Buy at deadsidecheats.com from $35.',
+			'Deadside ESP with player boxes & loot markers on PC. Wallhack, radar & aimbot included in one license. Buy at deadsidecheat.com from $35.',
 		h1: 'Deadside ESP — Player Boxes Guide',
 		intro:
 			'Deadside ESP overlays for Deadside — player outlines, threat cues, loot markers with distance readouts across PvP raids and squad sessions.',
@@ -799,7 +799,7 @@ export const enPages = {
 	'unlock-all': {
 		title: 'Deadside Unlock All | What It Really Means',
 		description:
-			'Unlock-all vs real Deadside cheats — ESP wallhack, soft aim & radar on PC. What Deadside Cheats offers before you buy at deadsidecheats.com.',
+			'Unlock-all vs real Deadside cheats — ESP wallhack, soft aim & radar on PC. What Deadside Cheats offers before you buy at deadsidecheat.com.',
 		h1: 'Deadside Unlock All — What Players Search For',
 		intro:
 			'Deadside unlock-all is a common search term for Deadside — this page clarifies what unlock-all tools claim versus the ESP wallhack, 2D radar, and Aimbot tools Deadside Cheats actually provides on Windows PC.',
@@ -832,9 +832,9 @@ export const enPages = {
 	privacy: {
 		title: 'Privacy Policy | Deadside Cheats',
 		description:
-			'Privacy policy for Deadside Cheats at deadsidecheats.com. How we handle support emails, order data & checkout for deadside cheats licenses on PC.',
+			'Privacy policy for Deadside Cheats at deadsidecheat.com. How we handle support emails, order data & checkout for deadside cheats licenses on PC.',
 		h1: 'Privacy Policy',
-		intro: 'How Deadside Cheats handles information when you browse deadsidecheats.com or contact support about a Deadside license.',
+		intro: 'How Deadside Cheats handles information when you browse deadsidecheat.com or contact support about a Deadside license.',
 		imageAlt: "Deadside Cheats privacy policy page",
 		galleryTitle: 'Deadside Cheats legal resources',
 		ctaPrimary: 'Email support',
@@ -854,8 +854,8 @@ export const enPages = {
 			),
 			section(
 				'Your choices and contact',
-				'You may request correction or deletion of support email data by contacting support@deadsidecheats.com with your request details.',
-				'Policy updates publish on this page. Continued use of deadsidecheats.com after updates means you accept the revised policy. Also see <a href="/terms/">Terms of Use</a> and <a href="/refund-policy/">Refund Policy</a>.',
+				'You may request correction or deletion of support email data by contacting support@deadsidecheat.com with your request details.',
+				'Policy updates publish on this page. Continued use of deadsidecheat.com after updates means you accept the revised policy. Also see <a href="/terms/">Terms of Use</a> and <a href="/refund-policy/">Refund Policy</a>.',
 			),
 			section(
 				'Cookies and similar technologies',
@@ -865,19 +865,19 @@ export const enPages = {
 			section(
 				'Data retention and international transfers',
 				'Support emails are retained only as long as needed to resolve your request or meet legal obligations, then deleted or anonymized.',
-				'Checkout data is processed by our payment provider. deadsidecheats.com does not store full card numbers. International visitors are covered by the same policy.',
+				'Checkout data is processed by our payment provider. deadsidecheat.com does not store full card numbers. International visitors are covered by the same policy.',
 			),
 			section(
 				'Children and California / EU rights',
 				'Deadside Cheats is not directed at children under 13. We do not knowingly collect data from minors.',
-				'EU/UK users may request access, correction, or deletion under GDPR. California residents may exercise CCPA rights by emailing support@deadsidecheats.com.',
+				'EU/UK users may request access, correction, or deletion under GDPR. California residents may exercise CCPA rights by emailing support@deadsidecheat.com.',
 			),
 		],
 	},
 	refund: {
 		title: 'Refund Policy | Deadside Cheats',
 		description:
-			'Refund policy for Deadside Cheats at deadsidecheats.com. Eligibility, delivery terms & how to request a refund for ESP, aimbot & radar licenses.',
+			'Refund policy for Deadside Cheats at deadsidecheat.com. Eligibility, delivery terms & how to request a refund for ESP, aimbot & radar licenses.',
 		h1: 'Refund Policy',
 		intro:
 			'Refund terms for Deadside Cheats licenses — ESP wallhack, 2D radar, and Aimbot packages purchased through checkout for Deadside.',
@@ -899,7 +899,7 @@ export const enPages = {
 			),
 			section(
 				'How to request a refund',
-				'Email support@deadsidecheats.com with subject "Refund Request", your order ID, purchase date, and issue summary — or use the <a href="/support/">Support page</a>.',
+				'Email support@deadsidecheat.com with subject "Refund Request", your order ID, purchase date, and issue summary — or use the <a href="/support/">Support page</a>.',
 				'Approved refunds process back to the original payment method when possible. Pricing details live on <a href="/pricing/">Pricing</a>.',
 			),
 			section(
@@ -917,9 +917,9 @@ export const enPages = {
 	terms: {
 		title: 'Terms of Use | Deadside Cheats',
 		description:
-			'Terms of use for deadsidecheats.com & Deadside Cheats licenses. Usage rules, BattlEye risk disclaimer & liability for PC deadside cheats.',
+			'Terms of use for deadsidecheat.com & Deadside Cheats licenses. Usage rules, BattlEye risk disclaimer & liability for PC deadside cheats.',
 		h1: 'Terms of Use',
-		intro: 'Terms governing use of deadsidecheats.com and Deadside Cheats licenses for Deadside on Windows PC.',
+		intro: 'Terms governing use of deadsidecheat.com and Deadside Cheats licenses for Deadside on Windows PC.',
 		imageAlt: "Deadside Cheats terms of use page",
 		galleryTitle: 'Deadside Cheats legal pages',
 		ctaPrimary: 'Email support',
@@ -939,7 +939,7 @@ export const enPages = {
 			section(
 				'Changes and governing law',
 				'We may update these terms by posting revisions on this page. Continued use after changes constitutes acceptance.',
-				'Contact support@deadsidecheats.com for questions. Related policies: <a href="/privacy-policy/">Privacy</a> and <a href="/refund-policy/">Refunds</a>.',
+				'Contact support@deadsidecheat.com for questions. Related policies: <a href="/privacy-policy/">Privacy</a> and <a href="/refund-policy/">Refunds</a>.',
 			),
 			section(
 				'Age requirement and acceptable use',
@@ -949,7 +949,7 @@ export const enPages = {
 			section(
 				'Limitation of liability and disputes',
 				'Deadside Cheats is provided "as is." Our total liability is limited to the amount you paid for the license in the prior 30 days.',
-				'Disputes should first be emailed to support@deadsidecheats.com. Governing law follows the jurisdiction of our payment processor unless local law requires otherwise.',
+				'Disputes should first be emailed to support@deadsidecheat.com. Governing law follows the jurisdiction of our payment processor unless local law requires otherwise.',
 			),
 		],
 	},

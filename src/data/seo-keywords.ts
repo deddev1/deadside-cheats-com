@@ -5,7 +5,7 @@ export const primarySeoKeyword = 'deadside cheats';
 
 /**
  * Default SEO keyword targets (internal reference — not emitted as HTML meta keywords).
- * Ordered by commercial intent + search volume fit for deadsidecheats.com.
+ * Ordered by commercial intent + search volume fit for deadsidecheat.com.
  */
 export const globalSeoKeywords = [
 	'deadside cheats',

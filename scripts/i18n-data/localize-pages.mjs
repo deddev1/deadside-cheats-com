@@ -64,7 +64,7 @@ function localizeMeta(enPage, locale, pageKey) {
 		title: clampTitle(stripZadeyoFromMeta(`${topicName} | ${suffix}`)),
 		description: clampDesc(
 			stripZadeyoFromMeta(
-				`${topicName} for Deadside survival & squad raids on Windows PC — ${focus}. ${p.delivery}. ${p.undetected}. Official deadside cheats at deadsidecheats.com.`,
+				`${topicName} for Deadside survival & squad raids on Windows PC — ${focus}. ${p.delivery}. ${p.undetected}. Official deadside cheats at deadsidecheat.com.`,
 			),
 		),
 		h1: `${topicName} — ${suffix}`,

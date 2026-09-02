@@ -19,7 +19,7 @@ export const simplePagesEn = {
 	features: {
 		title: 'Deadside Cheats Features | ESP, Aimbot & Radar',
 		description:
-			'Full Deadside cheats feature list — ESP wallhack, soft aim, 2D radar & toggles for survival & squad raids on PC. BattlEye maintenance at deadsidecheats.com.',
+			'Full Deadside cheats feature list — ESP wallhack, soft aim, 2D radar & toggles for survival & squad raids on PC. BattlEye maintenance at deadsidecheat.com.',
 		h1: 'Deadside Cheats Features — Full Control List',
 		intro: 'Everything included in one license for Deadside on Windows PC.',
 		ctaPrimary: 'Get Access',
@@ -123,7 +123,7 @@ export const simplePagesEn = {
 	updates: {
 		title: 'Deadside Status | BattlEye Updates | Deadside Cheats',
 		description:
-			'Live status after Deadside & BattlEye patches. Check undetected ESP, aimbot & radar rebuilds on PC before you queue. deadsidecheats.com.',
+			'Live status after Deadside & BattlEye patches. Check undetected ESP, aimbot & radar rebuilds on PC before you queue. deadsidecheat.com.',
 		h1: 'Status',
 		intro: 'Check maintenance notes before you load in after a Deadside or BattlEye patch.',
 		ctaPrimary: 'Get Access',
@@ -164,7 +164,7 @@ export const simplePagesEn = {
 	hacks: {
 		title: 'Deadside Cheats Guide | ESP, Aimbot & Radar',
 		description:
-			'Deadside cheats guide — undetected ESP wallhack, soft aim, radar & BattlEye rebuilds for survival & squad raids on PC. Buy from $35 at deadsidecheats.com.',
+			'Deadside cheats guide — undetected ESP wallhack, soft aim, radar & BattlEye rebuilds for survival & squad raids on PC. Buy from $35 at deadsidecheat.com.',
 		h1: 'Deadside Cheats — Full Guide',
 		intro:
 			'Deadside cheats add ESP, radar, and soft aim on top of the base game. This page explains what deadside cheats are, what Deadside Cheats includes, how BattlEye maintenance works, and where to go next before you buy.',
@@ -237,7 +237,7 @@ export const simplePagesEn = {
 	'deadside-esp': {
 		title: 'Deadside ESP | Wallhack & Player Boxes',
 		description:
-			'Deadside ESP wallhack — player boxes, loot markers & distance for survival & squad raids on PC. Bundled with aimbot & radar at deadsidecheats.com.',
+			'Deadside ESP wallhack — player boxes, loot markers & distance for survival & squad raids on PC. Bundled with aimbot & radar at deadsidecheat.com.',
 		h1: 'Deadside ESP — Player Boxes & Wallhack',
 		intro: 'See players and loot through walls during Deadside matches. Part of the same Deadside Cheats license.',
 		ctaPrimary: 'Get Access',
@@ -278,7 +278,7 @@ export const simplePagesEn = {
 	'deadside-aimbot': {
 		title: 'Deadside Aimbot | Soft Aim & FOV Settings',
 		description:
-			'Deadside aimbot with soft aim, FOV & bone priority for ranked melee fights on PC. Undetected package with ESP & radar at deadsidecheats.com.',
+			'Deadside aimbot with soft aim, FOV & bone priority for ranked melee fights on PC. Undetected package with ESP & radar at deadsidecheat.com.',
 		h1: 'Deadside Aimbot — Soft Aim for Windows PC',
 		intro: 'Soft aim and aim assist you can tune for Deadside. Included in the same Deadside Cheats license.',
 		ctaPrimary: 'Get Access',
@@ -319,7 +319,7 @@ export const simplePagesEn = {
 	radar: {
 		title: 'Deadside 2D Radar | 2D Threat Map',
 		description:
-			'2D radar for flank reads in Deadside survival & squad raids on PC. Bundled with ESP wallhack & soft aim in one license at deadsidecheats.com.',
+			'2D radar for flank reads in Deadside survival & squad raids on PC. Bundled with ESP wallhack & soft aim in one license at deadsidecheat.com.',
 		h1: 'Deadside 2D Radar — 2D Threat Awareness',
 		intro: 'A simple 2D radar for threats outside your view. Included in the same Deadside Cheats license.',
 		ctaPrimary: 'Get Access',
@@ -352,7 +352,7 @@ export const simplePagesEn = {
 	setup: {
 		title: 'Deadside Cheats Setup | Windows PC Install Guide',
 		description:
-			'Install Deadside Cheats on PC — activate ESP, soft aim & radar step by step. Setup guide at deadsidecheats.com. Check BattlEye status first.',
+			'Install Deadside Cheats on PC — activate ESP, soft aim & radar step by step. Setup guide at deadsidecheat.com. Check BattlEye status first.',
 		h1: 'Setup',
 		intro: 'Install and activate your license on Windows 10 or 11 before your first match.',
 		ctaPrimary: 'Get Access',
@@ -380,7 +380,7 @@ export const simplePagesEn = {
 			{
 				h2: 'If something fails',
 				paragraphs: [
-					'Check Status after a patch. Email support@deadsidecheats.com with your order ID.',
+					'Check Status after a patch. Email support@deadsidecheat.com with your order ID.',
 					'Include your Windows version and what you already tried for faster replies.',
 				],
 				list: ['<a href="/updates/">Status page</a>', '<a href="/support/">Support</a>', '<a href="/faq/">FAQ</a>'],
@@ -390,7 +390,7 @@ export const simplePagesEn = {
 	support: {
 		title: 'Deadside Cheats Support | License & Setup Help',
 		description:
-			'Support for license delivery, ESP setup & billing on PC. Email support@deadsidecheats.com with your order ID. deadsidecheats.com/support.',
+			'Support for license delivery, ESP setup & billing on PC. Email support@deadsidecheat.com with your order ID. deadsidecheat.com/support.',
 		h1: 'Support',
 		intro: 'Get help with licenses, setup, and billing for Deadside Cheats on Windows PC.',
 		ctaPrimary: 'Email support',
@@ -401,7 +401,7 @@ export const simplePagesEn = {
 			{
 				h2: 'How to contact us',
 				paragraphs: [
-					'Email support@deadsidecheats.com. Include your order ID and a short note about the issue.',
+					'Email support@deadsidecheat.com. Include your order ID and a short note about the issue.',
 					'We review support requests daily for delivery, billing, and setup issues.',
 				],
 				list: ['Order ID from your receipt', 'Windows version', 'What you already tried'],
@@ -419,7 +419,7 @@ export const simplePagesEn = {
 	faq: {
 		title: 'Deadside Cheats FAQ | ESP, Aimbot & BattlEye',
 		description:
-			'FAQ for Deadside cheats — delivery, setup, survival & squad raids use, BattlEye updates & pricing on PC. Answers at deadsidecheats.com before you buy.',
+			'FAQ for Deadside cheats — delivery, setup, survival & squad raids use, BattlEye updates & pricing on PC. Answers at deadsidecheat.com before you buy.',
 		h1: 'Deadside Cheats FAQ — Common Questions',
 		intro: 'Common questions about Deadside Cheats — delivery, setup, updates, and refunds.',
 		ctaPrimary: 'Get Access',

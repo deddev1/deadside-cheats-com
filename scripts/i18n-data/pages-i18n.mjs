@@ -228,7 +228,7 @@ function productPage(locale, pageKey, topicName, cta2href) {
 		title: clampTitle(stripZadeyoFromMeta(titleBase)),
 		description: clampDesc(
 			stripZadeyoFromMeta(
-				`${topicName} for Deadside survival & squad raids on Windows PC — ${focus}. ${p.delivery}. ${p.undetected}. Official deadside cheats at deadsidecheats.com.`,
+				`${topicName} for Deadside survival & squad raids on Windows PC — ${focus}. ${p.delivery}. ${p.undetected}. Official deadside cheats at deadsidecheat.com.`,
 			),
 		),
 		h1: topicName,
@@ -310,7 +310,7 @@ export function buildLegal(locale, pageKey, kind) {
 		title: clampTitle(stripZadeyoFromMeta(`${h1} | Deadside Cheats`)),
 		description: clampDesc(stripZadeyoFromMeta(`${h1} ${L?.descFor ?? 'for Deadside Cheats — ESP wallhack, Aimbot'}, ${p.win}.`)),
 		h1,
-		intro: p.s1(`${h1} ${L?.introTopic ?? 'for deadsidecheats.com and Deadside licenses.'}`),
+		intro: p.s1(`${h1} ${L?.introTopic ?? 'for deadsidecheat.com and Deadside licenses.'}`),
 		imageAlt: 'Deadside Cheats',
 		galleryTitle: 'Deadside Cheats',
 		heroImage: HERO_IMAGES[pageKey],
@@ -325,7 +325,7 @@ export function buildLegal(locale, pageKey, kind) {
 				h2[0],
 				p.s1(L?.sec1p1 ?? 'Contact email, Zadeyo order references, and basic site security data.'),
 				kind === 'privacy'
-					? L?.privacy?.sec1p2 ?? 'Payment details are processed by Zadeyo checkout — not stored on deadsidecheats.com.'
+					? L?.privacy?.sec1p2 ?? 'Payment details are processed by Zadeyo checkout — not stored on deadsidecheat.com.'
 					: p.s2(),
 			),
 			section(
@@ -335,7 +335,7 @@ export function buildLegal(locale, pageKey, kind) {
 					? L?.terms?.sec2p2 ?? 'Using cheats may violate Bad Pixel terms — you assume all ban risk.'
 					: p.s3(),
 			),
-			section(h2[2], p.legal(), `${L?.emailLabel ?? 'Email:'} support@deadsidecheats.com`),
+			section(h2[2], p.legal(), `${L?.emailLabel ?? 'Email:'} support@deadsidecheat.com`),
 		],
 	};
 }
