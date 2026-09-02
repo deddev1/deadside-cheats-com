@@ -1,19 +1,65 @@
 import { brand, fillBrandTokens, seoDescription, seoTitle } from './brand';
 
+const TITLE_TARGET_MIN = 45;
+const TITLE_MAX = 60;
+
+/** Known short templates → longer SERP-friendly titles (45–60 chars). */
+const TITLE_REPLACEMENTS: ReadonlyArray<[RegExp, string]> = [
+	[/\| FAQ$/i, '| Deadside Cheats FAQ & Guide'],
+	[/^Privacy Policy \| Deadside Cheats$/i, 'Privacy Policy | Deadside Cheats Data & Cookies'],
+	[/^Refund Policy \| Deadside Cheats$/i, 'Refund Policy | Deadside Cheats License Terms'],
+	[/^Terms of Use \| Deadside Cheats$/i, 'Terms of Use | Deadside Cheats License Agreement'],
+	[/^Deadside Guides Hub \| Survival & Cheat Tips$/i, 'Deadside Guides Hub | Survival & Cheat Tips PC'],
+	[/^Deadside Cheats Pricing \| \$35\/mo or \$150$/i, 'Deadside Cheats Pricing | $35/mo or $150 Lifetime'],
+	[/^Deadside 2D [Rr]adar \| 2D Threat Map$/i, 'Deadside 2D Radar | 2D Threat Map | Deadside Cheats'],
+	[/^Deadside ESP \| Wallhack & Player Boxes$/i, 'Deadside ESP | Wallhack & Player Boxes | Deadside Cheats'],
+	[
+		/^Deadside Aimbot \| Soft Aim & FOV Settings$/i,
+		'Deadside Aimbot | Soft Aim & FOV Settings | Deadside Cheats',
+	],
+];
+
+function expandShortTitle(text: string): string {
+	for (const [pattern, replacement] of TITLE_REPLACEMENTS) {
+		if (pattern.test(text)) {
+			const expanded = text.replace(pattern, replacement);
+			if (expanded.length >= TITLE_TARGET_MIN) return expanded;
+		}
+	}
+	if (text.length >= TITLE_TARGET_MIN) return text;
+
+	const suffixes = [
+		' | ESP, Aimbot & Radar',
+		' | Undetected PC Cheats',
+		' | Deadside Cheats Guide',
+		' | Windows PC License',
+	];
+	for (const suffix of suffixes) {
+		const candidate = `${text}${suffix}`;
+		if (candidate.length >= TITLE_TARGET_MIN && candidate.length <= TITLE_MAX) return candidate;
+	}
+
+	const tailSuffixes = [' for PC', ' 2026', ' Guide', ' PC', ' | PC'];
+	for (const suffix of tailSuffixes) {
+		const candidate = `${text}${suffix}`;
+		if (candidate.length >= TITLE_TARGET_MIN && candidate.length <= TITLE_MAX) return candidate;
+	}
+
+	if (text.length < 30) return `${text} | Deadside Cheats PC`;
+	return text;
+}
+
 /**
  * Title clamp lives here — NOT in brand.ts.
  * Brand Studio rewrites brand.ts on every save; helpers here stay stable.
  */
 export function seoPageTitle(template: string): string {
-	let text = fillBrandTokens(template).trim();
-	if (text.length < 30) {
-		text = `${text} | Deadside Cheats PC`;
-	}
+	let text = expandShortTitle(fillBrandTokens(template).trim());
 	/** Google SERP titles typically display ~50–60 chars; clamp at 60. */
-	if (text.length <= 60) return text;
-	const trimmed = text.slice(0, 60);
+	if (text.length <= TITLE_MAX) return text;
+	const trimmed = text.slice(0, TITLE_MAX);
 	const lastSpace = trimmed.lastIndexOf(' ');
-	return lastSpace > 45 ? trimmed.slice(0, lastSpace) : trimmed.slice(0, 60);
+	return lastSpace > 45 ? trimmed.slice(0, lastSpace) : trimmed.slice(0, TITLE_MAX);
 }
 
 export { brand, fillBrandTokens, seoDescription, seoTitle };
@@ -47,7 +93,7 @@ const copyDefaults = {
 } as const;
 
 const seoDefaults = {
-	homeTitle: 'Deadside Cheats | Undetected ESP, Aimbot & Radar',
+	homeTitle: 'Deadside Cheats 2026 | ESP, Aimbot & Radar PC',
 	homeDescription:
 		'Buy undetected Deadside cheats at deadsidecheat.com — ESP, aimbot, wallhack & radar for PC. BattlEye updates included. Plans from $35/month.',
 	featuresTitle: 'Deadside Cheats Features | ESP, Aimbot & Radar',
@@ -68,10 +114,10 @@ const seoDefaults = {
 	supportTitle: 'Deadside Cheats Support | License & Setup Help',
 	supportDescription:
 		'Support for license delivery, ESP setup & billing on PC. Email {email} with your order ID. deadsidecheat.com/support.',
-	faqTitle: 'Deadside Cheats FAQ | ESP, Aimbot & {antiCheat}',
+	faqTitle: 'Deadside Cheats FAQ | ESP, Aimbot & BattlEye PC',
 	faqDescription:
 		'FAQ for deadside cheats — delivery, setup, undetected status, {antiCheat} updates & pricing on PC. Answers at deadsidecheat.com before you buy.',
-	reviewsTitle: 'What Players Say | Deadside Cheats Reviews',
+	reviewsTitle: 'What Players Say | Deadside Cheats Reviews PC',
 	reviewsDescription:
 		'What Deadside players actually say — ESP in raid, BattlEye after patches, setup, and support. Honest ratings from license holders at deadsidecheat.com.',
 	blogTitle: 'Deadside Blog | Guides & Patch Tips | {brand}',

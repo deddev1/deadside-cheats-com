@@ -3,7 +3,7 @@ import { HERO_IMAGES, clampTitle, clampDesc, section, stripZadeyoFromMeta, EXT }
 /** Richest English page content — source of truth for structure. */
 export const enPages = {
 	home: {
-		title: 'Deadside Cheats 2026 | ESP, Aimbot & Radar',
+		title: 'Deadside Cheats 2026 | ESP, Aimbot & Radar PC',
 		description:
 			'Buy undetected Deadside cheats — ESP, aimbot, wallhack & radar for survival & squad raids on PC. BattlEye updates included. From $35/month.',
 		h1: 'Deadside Cheats',
@@ -509,7 +509,7 @@ export const enPages = {
 		],
 	},
 	'cheats-2026': {
-		title: 'Deadside Cheats 2026 | Undetected PC Cheats',
+		title: 'Deadside Cheats 2026 | Undetected PC Cheats Guide',
 		description:
 			'Best Deadside cheats 2026 — undetected ESP, soft aim & 2D radar on PC. BattlEye maintenance & instant delivery at deadsidecheat.com.',
 		h1: 'Deadside Cheats 2026 — ESP, Soft Aim & Radar',
@@ -830,7 +830,7 @@ export const enPages = {
 		],
 	},
 	privacy: {
-		title: 'Privacy Policy | Deadside Cheats',
+		title: 'Privacy Policy | Deadside Cheats Data & Cookies',
 		description:
 			'Privacy policy for Deadside Cheats at deadsidecheat.com. How we handle support emails, order data & checkout for deadside cheats licenses on PC.',
 		h1: 'Privacy Policy',
@@ -875,7 +875,7 @@ export const enPages = {
 		],
 	},
 	refund: {
-		title: 'Refund Policy | Deadside Cheats',
+		title: 'Refund Policy | Deadside Cheats License Terms',
 		description:
 			'Refund policy for Deadside Cheats at deadsidecheat.com. Eligibility, delivery terms & how to request a refund for ESP, aimbot & radar licenses.',
 		h1: 'Refund Policy',
@@ -915,7 +915,7 @@ export const enPages = {
 		],
 	},
 	terms: {
-		title: 'Terms of Use | Deadside Cheats',
+		title: 'Terms of Use | Deadside Cheats License Agreement',
 		description:
 			'Terms of use for deadsidecheat.com & Deadside Cheats licenses. Usage rules, BattlEye risk disclaimer & liability for PC deadside cheats.',
 		h1: 'Terms of Use',
