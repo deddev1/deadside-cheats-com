@@ -431,7 +431,7 @@ export const guides: GuideDefinition[] = [
 	source: "external",
 	game: "Fortnite",
 	gameSlug: "fortnite",
-	externalUrl: "https://fortniteaimbot.com",
+	externalUrl: "https://fncheat.com",
 	anchorText: "related resources",
 	published: "2026-02-14",
 	updated: "2026-03-15",
@@ -467,7 +467,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: edit plays, loadout rotations, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://fortniteaimbot.com\" target=\"_blank\" rel=\"noopener noreferrer\">related resources</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://fncheat.com\" target=\"_blank\" rel=\"noopener noreferrer\">related resources</a>."
 			]
 		}
 	]
@@ -627,7 +627,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Call of Duty: Warzone guide covering battle royale fundamentals, loadout metas, and Verdansk, Rebirth, and Urzikstan drops with loadout customisation — updated for 2026 PC players.",
 	h1: "Call of Duty: Warzone Solo Queue Survival Guide",
 	intro: "Call of Duty: Warzone remains one of the most discussed battle royale titles on PC, especially for players who want sharper reads in Verdansk, Rebirth, and Urzikstan drops with loadout customisation. This guide focuses on solo queue survival without skipping the basics: how rounds flow, where teams win fights, and why loadout metas often decides outcomes before aim ever matters.",
-	imageUrl: "https://sm.ign.com/t/ign_pk/screenshot/default/wz-deadside-mapsubway-1601169413816_x2hg.1400.jpg",
+	imageUrl: "https://assets1.ignimgs.com/2020/03/09/call-of-duty-warzone---button-01-1583782814571.jpg",
 	imageAlt: "Call of Duty: Warzone gameplay — IGN screenshot",
 	sections: [
 		{
@@ -1465,7 +1465,7 @@ export const guides: GuideDefinition[] = [
 	source: "external",
 	game: "Mecha BREAK",
 	gameSlug: "mecha-break",
-	externalUrl: "https://meccacheats.com",
+	externalUrl: "https://mecchahacks.com",
 	anchorText: "more game information",
 	published: "2026-08-16",
 	updated: "2026-03-15",
@@ -1501,7 +1501,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: mech loadouts, dash trades, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://meccacheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">more game information</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://mecchahacks.com\" target=\"_blank\" rel=\"noopener noreferrer\">more game information</a>."
 			]
 		}
 	]
@@ -1849,7 +1849,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Call of Duty: Warzone guide covering battle royale fundamentals, loadout metas, and Verdansk, Rebirth, and Urzikstan drops with loadout customisation — updated for 2026 PC players.",
 	h1: "Call of Duty: Warzone Beginner Onboarding Guide",
 	intro: "Call of Duty: Warzone remains one of the most discussed battle royale titles on PC, especially for players who want sharper reads in Verdansk, Rebirth, and Urzikstan drops with loadout customisation. This guide focuses on beginner onboarding without skipping the basics: how rounds flow, where teams win fights, and why loadout metas often decides outcomes before aim ever matters.",
-	imageUrl: "https://sm.ign.com/t/ign_pk/screenshot/default/wz-deadside-mapsubway-1601169413816_x2hg.1400.jpg",
+	imageUrl: "https://assets1.ignimgs.com/2020/03/09/call-of-duty-warzone---button-01-1583782814571.jpg",
 	imageAlt: "Call of Duty: Warzone gameplay — IGN screenshot",
 	sections: [
 		{
@@ -3917,7 +3917,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Call of Duty: Warzone guide covering battle royale fundamentals, buy stations, and Verdansk, Rebirth, and Urzikstan drops with loadout customisation — updated for 2026 PC players.",
 	h1: "Call of Duty: Warzone Squad Coordination Guide",
 	intro: "Call of Duty: Warzone remains one of the most discussed battle royale titles on PC, especially for players who want sharper reads in Verdansk, Rebirth, and Urzikstan drops with loadout customisation. This guide focuses on squad coordination without skipping the basics: how rounds flow, where teams win fights, and why buy stations often decides outcomes before aim ever matters.",
-	imageUrl: "https://sm.ign.com/t/ign_pk/screenshot/default/wz-deadside-mapsubway-1601169413816_x2hg.1400.jpg",
+	imageUrl: "https://assets1.ignimgs.com/2020/03/09/call-of-duty-warzone---button-01-1583782814571.jpg",
 	imageAlt: "Call of Duty: Warzone gameplay — IGN screenshot",
 	sections: [
 		{

@@ -86,7 +86,7 @@ const KEYWORD_ASSETS = [
 	},
 	{
 		file: 'rust-deadside-map-map.webp',
-		url: `${PK}/wz-deadside-mapsubway-1601169413816_x2hg.1400.jpg`,
+		url: `${ME}/the-deadside-screenshots_wjkx.1400.jpg`,
 		overlay: 'map',
 	},
 ];

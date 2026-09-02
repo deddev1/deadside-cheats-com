@@ -166,7 +166,7 @@ const IGN_IMAGES = {
 	Marathon: 'https://assets-prd.ignimgs.com/2023/05/24/marathon-announce-key-art-1x1-1684967675071.jpg',
 	Battlefield: 'https://assets-prd.ignimgs.com/2024/03/20/battlefields7-1710977997041.jpg',
 	'League of Legends': 'https://assets-prd.ignimgs.com/2021/12/14/leagueoflegends-1639513774570.jpg',
-	'Call of Duty: Warzone': 'https://sm.ign.com/t/ign_pk/screenshot/default/wz-deadside-mapsubway-1601169413816_x2hg.1400.jpg',
+	'Call of Duty: Warzone': 'https://assets1.ignimgs.com/2020/03/09/call-of-duty-warzone---button-01-1583782814571.jpg',
 	Valorant: 'https://assets-prd.ignimgs.com/2021/12/21/valorant-1640045685890.jpg',
 	'Gray Zone Warfare': 'https://assets-prd.ignimgs.com/2023/11/30/gray-zone-warfare-button-1701383116349.jpg',
 	'Overwatch 2': 'https://assets-prd.ignimgs.com/2026/03/11/overwatch-1773211203379.jpg',
@@ -494,6 +494,17 @@ function normalizeUrl(raw) {
 	return raw.trim().replace(/^http:/i, 'https:').replace(/\/$/, '');
 }
 
+/** Dead domains in the source list → verified live URLs used in generated guides. */
+const LIVE_URL_REMAP = {
+	'https://fortniteaimbot.com': 'https://fncheat.com',
+	'https://meccacheats.com': 'https://mecchahacks.com',
+};
+
+function resolveLiveUrl(raw) {
+	const norm = normalizeUrl(raw);
+	return LIVE_URL_REMAP[norm] ?? norm;
+}
+
 function hostname(url) {
 	return new URL(url).hostname.replace(/^www\./, '').toLowerCase();
 }
@@ -572,8 +583,9 @@ function pick(arr, seed) {
 }
 
 function buildGuide(url, index) {
-	const externalUrl = normalizeUrl(url);
-	const host = hostname(externalUrl);
+	const sourceUrl = normalizeUrl(url);
+	const externalUrl = resolveLiveUrl(url);
+	const host = hostname(sourceUrl);
 	const game = classifyGame(host);
 	const profile = GAME_PROFILES[game] ?? {
 		genre: 'online multiplayer',
@@ -581,7 +593,7 @@ function buildGuide(url, index) {
 		mechanics: ['map awareness', 'loadout tuning', 'team coordination'],
 		antiCheat: 'platform anti-cheat with periodic updates',
 	};
-	const seed = hashString(externalUrl);
+	const seed = hashString(sourceUrl);
 	const anchorText = pick(ANCHOR_TEXTS, seed);
 	const slug = `${gameSlug(game)}-${host.replace(/\./g, '-')}-guide`;
 	const imageUrl = IGN_IMAGES[game];
