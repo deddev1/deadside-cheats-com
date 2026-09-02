@@ -1,0 +1,14 @@
+---
+import RedirectPage from './RedirectPage.astro';
+import { getCannibalTargetId, type CannibalPageId } from '../data/seo-cannibal-map';
+import { englishPaths, type PageId } from '../data/i18n/routing';
+
+interface Props {
+	pageId: CannibalPageId;
+}
+
+const { pageId } = Astro.props;
+const targetPath = englishPaths[getCannibalTargetId(pageId) as PageId];
+---
+
+<RedirectPage to={targetPath} canonicalPath={targetPath} />
