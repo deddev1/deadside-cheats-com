@@ -31,7 +31,7 @@ export const FAQ_I18N = {
 		},
 		'how-to-contact-support': {
 			q: '¿Cómo contacto soporte?',
-			a: 'Usa la página de Soporte o escribe a support@deadsidecheats.com. Incluye los datos del pedido y una descripción clara del problema de instalación.',
+			a: 'Usa la página de Soporte o escribe a support@deadsidecheat.com. Incluye los datos del pedido y una descripción clara del problema de instalación.',
 		},
 		'what-is-a-deadside-wallhack': {
 			q: '¿Qué es un wallhack de Deadside?',
@@ -77,7 +77,7 @@ export const FAQ_I18N = {
 		},
 		'how-to-contact-support': {
 			q: 'Comment contacter le support ?',
-			a: "Utilisez la page Support ou écrivez à support@deadsidecheats.com avec les détails de votre commande et une description claire du problème.",
+			a: "Utilisez la page Support ou écrivez à support@deadsidecheat.com avec les détails de votre commande et une description claire du problème.",
 		},
 		'what-is-a-deadside-wallhack': {
 			q: "Qu'est-ce qu'un wallhack Deadside ?",
@@ -123,7 +123,7 @@ export const FAQ_I18N = {
 		},
 		'how-to-contact-support': {
 			q: 'Wie kontaktiere ich den Support?',
-			a: 'Nutze die Support-Seite oder schreibe an support@deadsidecheats.com mit Bestelldetails und einer klaren Problembeschreibung.',
+			a: 'Nutze die Support-Seite oder schreibe an support@deadsidecheat.com mit Bestelldetails und einer klaren Problembeschreibung.',
 		},
 		'what-is-a-deadside-wallhack': {
 			q: 'Was ist ein Deadside Wallhack?',

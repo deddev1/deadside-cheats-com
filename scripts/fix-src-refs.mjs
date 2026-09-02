@@ -28,7 +28,7 @@ const REPLACEMENTS = [
 	['Deadside's, 'Deadside's],
 	['BattlEye', 'BattlEye'],
 	['battleye', 'battleye'],
-	['deadsidecheats.com', 'deadsidecheats.com'],
+	['deadsidecheat.com', 'deadsidecheat.com'],
 	['operatorEsp', 'playerEsp'],
 	['extractFight', 'raidFight'],
 	['alMazrah', 'raidMap'],

@@ -39,9 +39,9 @@ function title(input) {
 function desc(input) {
 	let text = fill(input);
 	if (text.length < 140) {
-		const pad = text.toLowerCase().includes('deadsidecheats.com')
+		const pad = text.toLowerCase().includes('deadsidecheat.com')
 			? ' Windows PC license with BattlEye maintenance after patches.'
-			: ' Compare plans and guides at deadsidecheats.com.';
+			: ' Compare plans and guides at deadsidecheat.com.';
 		text = `${text.replace(/[.…]+$/, '')}.${pad}`;
 	}
 	return text.length <= 160 ? text : `${text.slice(0, 157).trim()}…`;

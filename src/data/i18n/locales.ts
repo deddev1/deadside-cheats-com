@@ -110,7 +110,7 @@ export const blogUi: Record<
 	en: {
 		blogTitle: 'Deadside Cheats Blog | Guides & Patch Tips',
 		blogDescription:
-			'Deadside guides — survival tips, ESP, aimbot notes, extract routes, and BattlEye update coverage. English blog at deadsidecheats.com/blog/.',
+			'Deadside guides — survival tips, ESP, aimbot notes, extract routes, and BattlEye update coverage. English blog at deadsidecheat.com/blog/.',
 		blogH1: 'Deadside Cheats Intel',
 		blogIntro:
 			'Short Deadside guides for survival raids and squad sessions. Pair these tips with Deadside Cheats product pages when you need ESP, soft aim, or radar.',

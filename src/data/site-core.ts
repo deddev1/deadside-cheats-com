@@ -49,34 +49,34 @@ const copyDefaults = {
 const seoDefaults = {
 	homeTitle: 'Deadside Cheats | Undetected ESP, Aimbot & Radar',
 	homeDescription:
-		'Buy undetected Deadside cheats at deadsidecheats.com — ESP, aimbot, wallhack & radar for PC. BattlEye updates included. Plans from $35/month.',
+		'Buy undetected Deadside cheats at deadsidecheat.com — ESP, aimbot, wallhack & radar for PC. BattlEye updates included. Plans from $35/month.',
 	featuresTitle: 'Deadside Cheats Features | ESP, Aimbot & Radar',
 	featuresDescription:
-		'Full Deadside cheats feature list — ESP wallhack, soft aim, 2D radar & mod menu toggles on PC. {antiCheat} maintenance at deadsidecheats.com.',
+		'Full Deadside cheats feature list — ESP wallhack, soft aim, 2D radar & mod menu toggles on PC. {antiCheat} maintenance at deadsidecheat.com.',
 	storeTitle: 'Deadside Cheats Pricing | $35/mo or $150 Lifetime',
 	storeDescription:
-		'Buy Deadside cheats at deadsidecheats.com — $35/month or $150 lifetime. ESP, aimbot & radar on PC. Same features, instant delivery.',
+		'Buy Deadside cheats at deadsidecheat.com — $35/month or $150 lifetime. ESP, aimbot & radar on PC. Same features, instant delivery.',
 	statusTitle: 'Deadside Status | Undetected {antiCheat} Updates',
 	statusDescription:
-		'Live status after {game} & {antiCheat} patches. Check undetected ESP, aimbot & radar rebuilds on PC before you queue. deadsidecheats.com.',
+		'Live status after {game} & {antiCheat} patches. Check undetected ESP, aimbot & radar rebuilds on PC before you queue. deadsidecheat.com.',
 	previewTitle: 'Deadside Cheats | ESP, Aimbot & Wallhack Guide',
 	previewDescription:
-		'Deadside cheats guide — undetected ESP wallhack, soft aim, radar & {antiCheat} rebuilds on PC. Compare features & buy from $35 at deadsidecheats.com.',
+		'Deadside cheats guide — undetected ESP wallhack, soft aim, radar & {antiCheat} rebuilds on PC. Compare features & buy from $35 at deadsidecheat.com.',
 	setupTitle: 'Deadside Cheats Setup | Windows PC Install Guide',
 	setupDescription:
-		'Install {brand} on PC — activate ESP, soft aim & radar step by step. Setup guide at deadsidecheats.com. Check {antiCheat} status before your first match.',
+		'Install {brand} on PC — activate ESP, soft aim & radar step by step. Setup guide at deadsidecheat.com. Check {antiCheat} status before your first match.',
 	supportTitle: 'Deadside Cheats Support | License & Setup Help',
 	supportDescription:
-		'Support for license delivery, ESP setup & billing on PC. Email {email} with your order ID. deadsidecheats.com/support.',
+		'Support for license delivery, ESP setup & billing on PC. Email {email} with your order ID. deadsidecheat.com/support.',
 	faqTitle: 'Deadside Cheats FAQ | ESP, Aimbot & {antiCheat}',
 	faqDescription:
-		'FAQ for deadside cheats — delivery, setup, undetected status, {antiCheat} updates & pricing on PC. Answers at deadsidecheats.com before you buy.',
+		'FAQ for deadside cheats — delivery, setup, undetected status, {antiCheat} updates & pricing on PC. Answers at deadsidecheat.com before you buy.',
 	reviewsTitle: 'What Players Say | Deadside Cheats Reviews',
 	reviewsDescription:
-		'What Deadside players actually say — ESP in raid, BattlEye after patches, setup, and support. Honest ratings from license holders at deadsidecheats.com.',
+		'What Deadside players actually say — ESP in raid, BattlEye after patches, setup, and support. Honest ratings from license holders at deadsidecheat.com.',
 	blogTitle: 'Deadside Blog | Guides & Patch Tips | {brand}',
 	blogDescription:
-		'Deadside guides — survival tips, ESP & aimbot notes, loot routes & {antiCheat} updates for PC. Read the blog at deadsidecheats.com/blog.',
+		'Deadside guides — survival tips, ESP & aimbot notes, loot routes & {antiCheat} updates for PC. Read the blog at deadsidecheat.com/blog.',
 } as const;
 
 type SeoShape = typeof seoDefaults;

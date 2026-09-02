@@ -32,7 +32,7 @@ const UI_REPLACEMENTS = [
 	['Verdansk', 'Verdansk'],
 	['farming run', 'farming run'],
 	['extract', 'extract'],
-	['deadsidecheats.com', 'deadsidecheats.com'],
+	['deadsidecheat.com', 'deadsidecheat.com'],
 	['Trucos Deadside's, 'Trucos Deadside's],
 	['Triches Deadside's, 'Triches Deadside's],
 	['Cheats Deadside's, 'Cheats Deadside's],

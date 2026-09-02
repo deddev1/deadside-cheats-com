@@ -277,7 +277,7 @@ export function buildSimplePagesForLocale(locale) {
 			title: clampTitle(simplePageTitle(h1, enPage.title)),
 			description: clampDesc(
 				stripZadeyoFromMeta(
-					`${h1} for Deadside survival & squad raids on Windows PC — ${focus}. ${p.delivery}. Official deadside cheats at deadsidecheats.com.`,
+					`${h1} for Deadside survival & squad raids on Windows PC — ${focus}. ${p.delivery}. Official deadside cheats at deadsidecheat.com.`,
 				),
 			),
 			h1,

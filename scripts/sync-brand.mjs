@@ -30,7 +30,7 @@ function readBrand() {
 	const url = str('url').replace(/\/$/, '');
 	if (/valorantcheats\.org/i.test(url) || /narakacheats\.org/i.test(url)) {
 		throw new Error(
-			`brand.ts url is ${url} — must be https://deadsidecheats.com. Run: node scripts/adapt-deadside.mjs`,
+			`brand.ts url is ${url} — must be https://deadsidecheat.com. Run: node scripts/adapt-deadside.mjs`,
 		);
 	}
 	return {

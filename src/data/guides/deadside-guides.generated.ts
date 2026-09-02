@@ -8,12 +8,12 @@ export const guides: GuideDefinition[] = [
 	source: "native",
 	game: "Deadside",
 	gameSlug: "deadside",
-	externalUrl: "https://deadsidecheats.com/deadside-cheats/",
+	externalUrl: "https://deadsidecheat.com/deadside-cheats/",
 	anchorText: "Deadside Cheats overview",
 	published: "2026-01-05",
 	updated: "2026-08-25",
 	title: "Deadside Guide: Survival Fundamentals (2026)",
-	metaDescription: "A practical Deadside guide covering loot routes, compound awareness, and safe extract timing on Windows PC — survival tips, BattlEye context, and cheat-feature awareness at deadsidecheats.com.",
+	metaDescription: "A practical Deadside guide covering loot routes, compound awareness, and safe extract timing on Windows PC — survival tips, BattlEye context, and cheat-feature awareness at deadsidecheat.com.",
 	h1: "Deadside Survival Fundamentals Guide",
 	intro: "Deadside rewards players who plan loot runs before they shoot. This guide focuses on loot routes, compound awareness, and safe extract timing — the habits that keep squads alive in open-world survival raids on PC.",
 	imageUrl: "https://cdn.akamai.steamstatic.com/steam/apps/895400/header.jpg",
@@ -37,14 +37,14 @@ export const guides: GuideDefinition[] = [
 			h2: "BattlEye, patches, and clean PC hygiene",
 			paragraphs: [
 				"Stable FPS and clear audio beat raw flick speed in Deadside. Close overlays you do not need, update GPU drivers, and keep sensitivity consistent between sessions.",
-				"Deadside uses BattlEye on PC. Check <a href=\"https://deadsidecheats.com/updates/\">maintenance status</a> after patches and avoid random “free cheat” downloads that ship malware."
+				"Deadside uses BattlEye on PC. Check <a href=\"https://deadsidecheat.com/updates/\">maintenance status</a> after patches and avoid random “free cheat” downloads that ship malware."
 			]
 		},
 		{
 			h2: "Session homework",
 			paragraphs: [
 				"Pick one skill per raid: map compounds and military bases, loot priority, or safer extract timing. After you die, name the decision that put you in a bad spot — not just “bad luck.”",
-				"For ESP, soft aim, and radar built for Deadside, see the <a href=\"https://deadsidecheats.com/deadside-cheats/\">Deadside Cheats overview</a> at deadsidecheats.com."
+				"For ESP, soft aim, and radar built for Deadside, see the <a href=\"https://deadsidecheat.com/deadside-cheats/\">Deadside Cheats overview</a> at deadsidecheat.com."
 			]
 		}
 	]
@@ -55,12 +55,12 @@ export const guides: GuideDefinition[] = [
 	source: "native",
 	game: "Deadside",
 	gameSlug: "deadside",
-	externalUrl: "https://deadsidecheats.com/deadside-cheats/",
+	externalUrl: "https://deadsidecheat.com/deadside-cheats/",
 	anchorText: "Deadside Cheats overview",
 	published: "2026-02-06",
 	updated: "2026-08-25",
 	title: "Deadside Guide: Squad Raid Coordination (2026)",
-	metaDescription: "A practical Deadside guide covering callouts, flanks, and shared loot runs on Windows PC — survival tips, BattlEye context, and cheat-feature awareness at deadsidecheats.com.",
+	metaDescription: "A practical Deadside guide covering callouts, flanks, and shared loot runs on Windows PC — survival tips, BattlEye context, and cheat-feature awareness at deadsidecheat.com.",
 	h1: "Deadside Squad Raid Coordination Guide",
 	intro: "Deadside rewards players who plan loot runs before they shoot. This guide focuses on callouts, flanks, and shared loot runs — the habits that keep squads alive in open-world survival raids on PC.",
 	imageUrl: "https://cdn.akamai.steamstatic.com/steam/apps/895400/header.jpg",
@@ -91,7 +91,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Apply it next queue",
 			paragraphs: [
 				"Run one disciplined raid using only this guide’s focus. Compare your extract value and survival time to your last five sessions.",
-				"Pair survival reads with product context on <a href=\"https://deadsidecheats.com/deadside-cheats/\">Deadside Cheats</a> if you want ESP, radar, and soft-aim references in one place."
+				"Pair survival reads with product context on <a href=\"https://deadsidecheat.com/deadside-cheats/\">Deadside Cheats</a> if you want ESP, radar, and soft-aim references in one place."
 			]
 		}
 	]
@@ -102,12 +102,12 @@ export const guides: GuideDefinition[] = [
 	source: "native",
 	game: "Deadside",
 	gameSlug: "deadside",
-	externalUrl: "https://deadsidecheats.com/deadside-cheats/",
+	externalUrl: "https://deadsidecheat.com/deadside-cheats/",
 	anchorText: "Deadside Cheats overview",
 	published: "2026-03-07",
 	updated: "2026-08-25",
 	title: "Deadside Guide: Loot Route Planning (2026)",
-	metaDescription: "A practical Deadside guide covering high-value compounds without over-committing on Windows PC — survival tips, BattlEye context, and cheat-feature awareness at deadsidecheats.com.",
+	metaDescription: "A practical Deadside guide covering high-value compounds without over-committing on Windows PC — survival tips, BattlEye context, and cheat-feature awareness at deadsidecheat.com.",
 	h1: "Deadside Loot Route Planning Guide",
 	intro: "Deadside rewards players who plan loot runs before they shoot. This guide focuses on high-value compounds without over-committing — the habits that keep squads alive in open-world survival raids on PC.",
 	imageUrl: "https://cdn.akamai.steamstatic.com/steam/apps/895400/header.jpg",
@@ -131,14 +131,14 @@ export const guides: GuideDefinition[] = [
 			h2: "Patch-day discipline",
 			paragraphs: [
 				"After BattlEye or Deadside updates, verify launcher health and read patch notes before loading your best kit. Stability beats FOMO queues.",
-				"The <a href=\"https://deadsidecheats.com/updates/\">status page</a> is the fastest place to confirm whether maintenance affects your session plan."
+				"The <a href=\"https://deadsidecheat.com/updates/\">status page</a> is the fastest place to confirm whether maintenance affects your session plan."
 			]
 		},
 		{
 			h2: "One-page takeaway",
 			paragraphs: [
 				"Write three bullets before you queue: where you loot, when you leave, and what you will not chase. Loot Route Planning is mostly decision quality, not reflexes.",
-				"Explore feature comparisons on <a href=\"https://deadsidecheats.com/deadside-cheats/\">deadsidecheats.com</a> when you want ESP, radar, and aimbot context in one stack."
+				"Explore feature comparisons on <a href=\"https://deadsidecheat.com/deadside-cheats/\">deadsidecheat.com</a> when you want ESP, radar, and aimbot context in one stack."
 			]
 		}
 	]
@@ -149,12 +149,12 @@ export const guides: GuideDefinition[] = [
 	source: "native",
 	game: "Deadside",
 	gameSlug: "deadside",
-	externalUrl: "https://deadsidecheats.com/deadside-cheats/",
+	externalUrl: "https://deadsidecheat.com/deadside-cheats/",
 	anchorText: "Deadside Cheats overview",
 	published: "2026-04-08",
 	updated: "2026-08-25",
 	title: "Deadside Guide: Compound PvP Tactics (2026)",
-	metaDescription: "A practical Deadside guide covering holding angles and third-party timing on Windows PC — survival tips, BattlEye context, and cheat-feature awareness at deadsidecheats.com.",
+	metaDescription: "A practical Deadside guide covering holding angles and third-party timing on Windows PC — survival tips, BattlEye context, and cheat-feature awareness at deadsidecheat.com.",
 	h1: "Deadside Compound PvP Tactics Guide",
 	intro: "Deadside rewards players who plan loot runs before they shoot. This guide focuses on holding angles and third-party timing — the habits that keep squads alive in open-world survival raids on PC.",
 	imageUrl: "https://cdn.akamai.steamstatic.com/steam/apps/895400/header.jpg",
@@ -185,7 +185,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Where to go next",
 			paragraphs: [
 				"Re-run one route with this guide’s focus and log what changed. Small improvements in holding angles and third-party timing compound over a week.",
-				"For undetected ESP, radar, and soft aim references, start at the <a href=\"https://deadsidecheats.com/deadside-cheats/\">Deadside Cheats pillar page</a>."
+				"For undetected ESP, radar, and soft aim references, start at the <a href=\"https://deadsidecheat.com/deadside-cheats/\">Deadside Cheats pillar page</a>."
 			]
 		}
 	]
@@ -196,12 +196,12 @@ export const guides: GuideDefinition[] = [
 	source: "native",
 	game: "Deadside",
 	gameSlug: "deadside",
-	externalUrl: "https://deadsidecheats.com/deadside-cheats/",
+	externalUrl: "https://deadsidecheat.com/deadside-cheats/",
 	anchorText: "Deadside Cheats overview",
 	published: "2026-05-09",
 	updated: "2026-08-25",
 	title: "Deadside Guide: BattlEye Patch-Day Prep (2026)",
-	metaDescription: "A practical Deadside guide covering what to check before loading in after updates on Windows PC — survival tips, BattlEye context, and cheat-feature awareness at deadsidecheats.com.",
+	metaDescription: "A practical Deadside guide covering what to check before loading in after updates on Windows PC — survival tips, BattlEye context, and cheat-feature awareness at deadsidecheat.com.",
 	h1: "Deadside BattlEye Patch-Day Prep Guide",
 	intro: "Deadside rewards players who plan loot runs before they shoot. This guide focuses on what to check before loading in after updates — the habits that keep squads alive in open-world survival raids on PC.",
 	imageUrl: "https://cdn.akamai.steamstatic.com/steam/apps/895400/header.jpg",
@@ -225,14 +225,14 @@ export const guides: GuideDefinition[] = [
 			h2: "BattlEye, patches, and clean PC hygiene",
 			paragraphs: [
 				"Stable FPS and clear audio beat raw flick speed in Deadside. Close overlays you do not need, update GPU drivers, and keep sensitivity consistent between sessions.",
-				"Deadside uses BattlEye on PC. Check <a href=\"https://deadsidecheats.com/updates/\">maintenance status</a> after patches and avoid random “free cheat” downloads that ship malware."
+				"Deadside uses BattlEye on PC. Check <a href=\"https://deadsidecheat.com/updates/\">maintenance status</a> after patches and avoid random “free cheat” downloads that ship malware."
 			]
 		},
 		{
 			h2: "Session homework",
 			paragraphs: [
 				"Pick one skill per raid: patch-day checklist, launcher health, or safer extract timing. After you die, name the decision that put you in a bad spot — not just “bad luck.”",
-				"For ESP, soft aim, and radar built for Deadside, see the <a href=\"https://deadsidecheats.com/deadside-cheats/\">Deadside Cheats overview</a> at deadsidecheats.com."
+				"For ESP, soft aim, and radar built for Deadside, see the <a href=\"https://deadsidecheat.com/deadside-cheats/\">Deadside Cheats overview</a> at deadsidecheat.com."
 			]
 		}
 	]
@@ -243,12 +243,12 @@ export const guides: GuideDefinition[] = [
 	source: "native",
 	game: "Deadside",
 	gameSlug: "deadside",
-	externalUrl: "https://deadsidecheats.com/deadside-cheats/",
+	externalUrl: "https://deadsidecheat.com/deadside-cheats/",
 	anchorText: "Deadside Cheats overview",
 	published: "2026-06-10",
 	updated: "2026-08-25",
 	title: "Deadside Guide: ESP & Survival Reads (2026)",
-	metaDescription: "A practical Deadside guide covering player markers, loot tags, and threat distance on Windows PC — survival tips, BattlEye context, and cheat-feature awareness at deadsidecheats.com.",
+	metaDescription: "A practical Deadside guide covering player markers, loot tags, and threat distance on Windows PC — survival tips, BattlEye context, and cheat-feature awareness at deadsidecheat.com.",
 	h1: "Deadside ESP & Survival Reads Guide",
 	intro: "Deadside rewards players who plan loot runs before they shoot. This guide focuses on player markers, loot tags, and threat distance — the habits that keep squads alive in open-world survival raids on PC.",
 	imageUrl: "https://cdn.akamai.steamstatic.com/steam/apps/895400/header.jpg",
@@ -279,7 +279,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Apply it next queue",
 			paragraphs: [
 				"Run one disciplined raid using only this guide’s focus. Compare your extract value and survival time to your last five sessions.",
-				"Pair survival reads with product context on <a href=\"https://deadsidecheats.com/deadside-cheats/\">Deadside Cheats</a> if you want ESP, radar, and soft-aim references in one place."
+				"Pair survival reads with product context on <a href=\"https://deadsidecheat.com/deadside-cheats/\">Deadside Cheats</a> if you want ESP, radar, and soft-aim references in one place."
 			]
 		}
 	]
@@ -290,12 +290,12 @@ export const guides: GuideDefinition[] = [
 	source: "native",
 	game: "Deadside",
 	gameSlug: "deadside",
-	externalUrl: "https://deadsidecheats.com/deadside-cheats/",
+	externalUrl: "https://deadsidecheat.com/deadside-cheats/",
 	anchorText: "Deadside Cheats overview",
 	published: "2026-07-11",
 	updated: "2026-08-25",
 	title: "Deadside Guide: Weapon & Loadout Meta (2026)",
-	metaDescription: "A practical Deadside guide covering rifle vs shotgun roles in compound fights on Windows PC — survival tips, BattlEye context, and cheat-feature awareness at deadsidecheats.com.",
+	metaDescription: "A practical Deadside guide covering rifle vs shotgun roles in compound fights on Windows PC — survival tips, BattlEye context, and cheat-feature awareness at deadsidecheat.com.",
 	h1: "Deadside Weapon & Loadout Meta Guide",
 	intro: "Deadside rewards players who plan loot runs before they shoot. This guide focuses on rifle vs shotgun roles in compound fights — the habits that keep squads alive in open-world survival raids on PC.",
 	imageUrl: "https://cdn.akamai.steamstatic.com/steam/apps/895400/header.jpg",
@@ -319,14 +319,14 @@ export const guides: GuideDefinition[] = [
 			h2: "Patch-day discipline",
 			paragraphs: [
 				"After BattlEye or Deadside updates, verify launcher health and read patch notes before loading your best kit. Stability beats FOMO queues.",
-				"The <a href=\"https://deadsidecheats.com/updates/\">status page</a> is the fastest place to confirm whether maintenance affects your session plan."
+				"The <a href=\"https://deadsidecheat.com/updates/\">status page</a> is the fastest place to confirm whether maintenance affects your session plan."
 			]
 		},
 		{
 			h2: "One-page takeaway",
 			paragraphs: [
 				"Write three bullets before you queue: where you loot, when you leave, and what you will not chase. Weapon & Loadout Meta is mostly decision quality, not reflexes.",
-				"Explore feature comparisons on <a href=\"https://deadsidecheats.com/deadside-cheats/\">deadsidecheats.com</a> when you want ESP, radar, and aimbot context in one stack."
+				"Explore feature comparisons on <a href=\"https://deadsidecheat.com/deadside-cheats/\">deadsidecheat.com</a> when you want ESP, radar, and aimbot context in one stack."
 			]
 		}
 	]
@@ -337,12 +337,12 @@ export const guides: GuideDefinition[] = [
 	source: "native",
 	game: "Deadside",
 	gameSlug: "deadside",
-	externalUrl: "https://deadsidecheats.com/deadside-cheats/",
+	externalUrl: "https://deadsidecheat.com/deadside-cheats/",
 	anchorText: "Deadside Cheats overview",
 	published: "2026-08-12",
 	updated: "2026-08-25",
 	title: "Deadside Guide: Base Defense Basics (2026)",
-	metaDescription: "A practical Deadside guide covering raids, storage, and offline protection habits on Windows PC — survival tips, BattlEye context, and cheat-feature awareness at deadsidecheats.com.",
+	metaDescription: "A practical Deadside guide covering raids, storage, and offline protection habits on Windows PC — survival tips, BattlEye context, and cheat-feature awareness at deadsidecheat.com.",
 	h1: "Deadside Base Defense Basics Guide",
 	intro: "Deadside rewards players who plan loot runs before they shoot. This guide focuses on raids, storage, and offline protection habits — the habits that keep squads alive in open-world survival raids on PC.",
 	imageUrl: "https://cdn.akamai.steamstatic.com/steam/apps/895400/header.jpg",
@@ -373,7 +373,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Where to go next",
 			paragraphs: [
 				"Re-run one route with this guide’s focus and log what changed. Small improvements in raids, storage, and offline protection habits compound over a week.",
-				"For undetected ESP, radar, and soft aim references, start at the <a href=\"https://deadsidecheats.com/deadside-cheats/\">Deadside Cheats pillar page</a>."
+				"For undetected ESP, radar, and soft aim references, start at the <a href=\"https://deadsidecheat.com/deadside-cheats/\">Deadside Cheats pillar page</a>."
 			]
 		}
 	]
@@ -384,12 +384,12 @@ export const guides: GuideDefinition[] = [
 	source: "native",
 	game: "Deadside",
 	gameSlug: "deadside",
-	externalUrl: "https://deadsidecheats.com/deadside-cheats/",
+	externalUrl: "https://deadsidecheat.com/deadside-cheats/",
 	anchorText: "Deadside Cheats overview",
 	published: "2026-01-13",
 	updated: "2026-08-25",
 	title: "Deadside Guide: Vehicle Extract Runs (2026)",
-	metaDescription: "A practical Deadside guide covering rotations, fuel, and convoy risk on Windows PC — survival tips, BattlEye context, and cheat-feature awareness at deadsidecheats.com.",
+	metaDescription: "A practical Deadside guide covering rotations, fuel, and convoy risk on Windows PC — survival tips, BattlEye context, and cheat-feature awareness at deadsidecheat.com.",
 	h1: "Deadside Vehicle Extract Runs Guide",
 	intro: "Deadside rewards players who plan loot runs before they shoot. This guide focuses on rotations, fuel, and convoy risk — the habits that keep squads alive in open-world survival raids on PC.",
 	imageUrl: "https://cdn.akamai.steamstatic.com/steam/apps/895400/header.jpg",
@@ -413,14 +413,14 @@ export const guides: GuideDefinition[] = [
 			h2: "BattlEye, patches, and clean PC hygiene",
 			paragraphs: [
 				"Stable FPS and clear audio beat raw flick speed in Deadside. Close overlays you do not need, update GPU drivers, and keep sensitivity consistent between sessions.",
-				"Deadside uses BattlEye on PC. Check <a href=\"https://deadsidecheats.com/updates/\">maintenance status</a> after patches and avoid random “free cheat” downloads that ship malware."
+				"Deadside uses BattlEye on PC. Check <a href=\"https://deadsidecheat.com/updates/\">maintenance status</a> after patches and avoid random “free cheat” downloads that ship malware."
 			]
 		},
 		{
 			h2: "Session homework",
 			paragraphs: [
 				"Pick one skill per raid: vehicle routing, extract timing, or safer extract timing. After you die, name the decision that put you in a bad spot — not just “bad luck.”",
-				"For ESP, soft aim, and radar built for Deadside, see the <a href=\"https://deadsidecheats.com/deadside-cheats/\">Deadside Cheats overview</a> at deadsidecheats.com."
+				"For ESP, soft aim, and radar built for Deadside, see the <a href=\"https://deadsidecheat.com/deadside-cheats/\">Deadside Cheats overview</a> at deadsidecheat.com."
 			]
 		}
 	]
@@ -431,12 +431,12 @@ export const guides: GuideDefinition[] = [
 	source: "native",
 	game: "Deadside",
 	gameSlug: "deadside",
-	externalUrl: "https://deadsidecheats.com/deadside-cheats/",
+	externalUrl: "https://deadsidecheat.com/deadside-cheats/",
 	anchorText: "Deadside Cheats overview",
 	published: "2026-02-14",
 	updated: "2026-08-25",
 	title: "Deadside Guide: Night Raid Visibility (2026)",
-	metaDescription: "A practical Deadside guide covering NVG, lighting, and audio cues on Windows PC — survival tips, BattlEye context, and cheat-feature awareness at deadsidecheats.com.",
+	metaDescription: "A practical Deadside guide covering NVG, lighting, and audio cues on Windows PC — survival tips, BattlEye context, and cheat-feature awareness at deadsidecheat.com.",
 	h1: "Deadside Night Raid Visibility Guide",
 	intro: "Deadside rewards players who plan loot runs before they shoot. This guide focuses on NVG, lighting, and audio cues — the habits that keep squads alive in open-world survival raids on PC.",
 	imageUrl: "https://cdn.akamai.steamstatic.com/steam/apps/895400/header.jpg",
@@ -467,7 +467,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Apply it next queue",
 			paragraphs: [
 				"Run one disciplined raid using only this guide’s focus. Compare your extract value and survival time to your last five sessions.",
-				"Pair survival reads with product context on <a href=\"https://deadsidecheats.com/deadside-cheats/\">Deadside Cheats</a> if you want ESP, radar, and soft-aim references in one place."
+				"Pair survival reads with product context on <a href=\"https://deadsidecheat.com/deadside-cheats/\">Deadside Cheats</a> if you want ESP, radar, and soft-aim references in one place."
 			]
 		}
 	]
@@ -478,12 +478,12 @@ export const guides: GuideDefinition[] = [
 	source: "native",
 	game: "Deadside",
 	gameSlug: "deadside",
-	externalUrl: "https://deadsidecheats.com/deadside-cheats/",
+	externalUrl: "https://deadsidecheat.com/deadside-cheats/",
 	anchorText: "Deadside Cheats overview",
 	published: "2026-03-15",
 	updated: "2026-08-25",
 	title: "Deadside Guide: Soft Aim Tuning (2026)",
-	metaDescription: "A practical Deadside guide covering FOV, smoothing, and per-weapon profiles on Windows PC — survival tips, BattlEye context, and cheat-feature awareness at deadsidecheats.com.",
+	metaDescription: "A practical Deadside guide covering FOV, smoothing, and per-weapon profiles on Windows PC — survival tips, BattlEye context, and cheat-feature awareness at deadsidecheat.com.",
 	h1: "Deadside Soft Aim Tuning Guide",
 	intro: "Deadside rewards players who plan loot runs before they shoot. This guide focuses on FOV, smoothing, and per-weapon profiles — the habits that keep squads alive in open-world survival raids on PC.",
 	imageUrl: "https://cdn.akamai.steamstatic.com/steam/apps/895400/header.jpg",
@@ -507,14 +507,14 @@ export const guides: GuideDefinition[] = [
 			h2: "Patch-day discipline",
 			paragraphs: [
 				"After BattlEye or Deadside updates, verify launcher health and read patch notes before loading your best kit. Stability beats FOMO queues.",
-				"The <a href=\"https://deadsidecheats.com/updates/\">status page</a> is the fastest place to confirm whether maintenance affects your session plan."
+				"The <a href=\"https://deadsidecheat.com/updates/\">status page</a> is the fastest place to confirm whether maintenance affects your session plan."
 			]
 		},
 		{
 			h2: "One-page takeaway",
 			paragraphs: [
 				"Write three bullets before you queue: where you loot, when you leave, and what you will not chase. Soft Aim Tuning is mostly decision quality, not reflexes.",
-				"Explore feature comparisons on <a href=\"https://deadsidecheats.com/deadside-cheats/\">deadsidecheats.com</a> when you want ESP, radar, and aimbot context in one stack."
+				"Explore feature comparisons on <a href=\"https://deadsidecheat.com/deadside-cheats/\">deadsidecheat.com</a> when you want ESP, radar, and aimbot context in one stack."
 			]
 		}
 	]
@@ -525,12 +525,12 @@ export const guides: GuideDefinition[] = [
 	source: "native",
 	game: "Deadside",
 	gameSlug: "deadside",
-	externalUrl: "https://deadsidecheats.com/deadside-cheats/",
+	externalUrl: "https://deadsidecheat.com/deadside-cheats/",
 	anchorText: "Deadside Cheats overview",
 	published: "2026-04-16",
 	updated: "2026-08-25",
 	title: "Deadside Guide: Radar & Flank Awareness (2026)",
-	metaDescription: "A practical Deadside guide covering 2D radar range and compound reads on Windows PC — survival tips, BattlEye context, and cheat-feature awareness at deadsidecheats.com.",
+	metaDescription: "A practical Deadside guide covering 2D radar range and compound reads on Windows PC — survival tips, BattlEye context, and cheat-feature awareness at deadsidecheat.com.",
 	h1: "Deadside Radar & Flank Awareness Guide",
 	intro: "Deadside rewards players who plan loot runs before they shoot. This guide focuses on 2D radar range and compound reads — the habits that keep squads alive in open-world survival raids on PC.",
 	imageUrl: "https://cdn.akamai.steamstatic.com/steam/apps/895400/header.jpg",
@@ -561,7 +561,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Where to go next",
 			paragraphs: [
 				"Re-run one route with this guide’s focus and log what changed. Small improvements in 2D radar range and compound reads compound over a week.",
-				"For undetected ESP, radar, and soft aim references, start at the <a href=\"https://deadsidecheats.com/deadside-cheats/\">Deadside Cheats pillar page</a>."
+				"For undetected ESP, radar, and soft aim references, start at the <a href=\"https://deadsidecheat.com/deadside-cheats/\">Deadside Cheats pillar page</a>."
 			]
 		}
 	]

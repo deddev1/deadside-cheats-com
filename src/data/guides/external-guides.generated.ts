@@ -1366,19 +1366,19 @@ export const guides: GuideDefinition[] = [
 	]
 },
 	{
-	id: "deadside-deadsidecheats-com-guide",
-	slug: "deadside-deadsidecheats-com-guide",
+	id: "deadside-deadsidecheat-com-guide",
+	slug: "deadside-deadsidecheat-com-guide",
 	source: "external",
 	game: "Deadside",
 	gameSlug: "deadside",
-	externalUrl: "https://deadsidecheats.com",
-	anchorText: "more game information",
+	externalUrl: "https://deadsidecheat.com",
+	anchorText: "this resource",
 	published: "2026-06-14",
 	updated: "2026-03-15",
-	title: "Deadside Guide: Economy And Loadout Planning (2026)",
+	title: "Deadside Guide: Squad Coordination (2026)",
 	metaDescription: "A practical Deadside guide covering open-world survival fundamentals, squad flanks, and post-apocalyptic compounds with PvP loot runs — updated for 2026 PC players.",
-	h1: "Deadside Economy And Loadout Planning Guide",
-	intro: "Deadside remains one of the most discussed open-world survival titles on PC, especially for players who want sharper reads in post-apocalyptic compounds with PvP loot runs. This guide focuses on economy and loadout planning without skipping the basics: how rounds flow, where teams win fights, and why squad flanks often decides outcomes before aim ever matters.",
+	h1: "Deadside Squad Coordination Guide",
+	intro: "Deadside remains one of the most discussed open-world survival titles on PC, especially for players who want sharper reads in post-apocalyptic compounds with PvP loot runs. This guide focuses on squad coordination without skipping the basics: how rounds flow, where teams win fights, and why squad flanks often decides outcomes before aim ever matters.",
 	imageUrl: "https://assets-prd.ignimgs.com/2022/11/16/deadside-1668635482936.jpg",
 	imageAlt: "Deadside gameplay — IGN screenshot",
 	sections: [
@@ -1407,7 +1407,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Putting the guide into practice",
 			paragraphs: [
 				"Pick one focus per session: squad flanks, compound routes, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://deadsidecheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">more game information</a>."
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://deadsidecheat.com\" target=\"_blank\" rel=\"noopener noreferrer\">this resource</a>."
 			]
 		}
 	]

@@ -12,7 +12,7 @@ const OUT = path.join(ROOT, 'src', 'data', 'guides', 'deadside-guides.generated.
 
 const HERO_IMAGE =
 	'https://cdn.akamai.steamstatic.com/steam/apps/895400/header.jpg';
-const SITE = 'https://deadsidecheats.com';
+const SITE = 'https://deadsidecheat.com';
 
 const TOPICS = [
 	{
@@ -104,7 +104,7 @@ const TOPICS = [
 function buildGuide(topic, index) {
 	const title = `Deadside Guide: ${topic.angle} (2026)`;
 	const h1 = `Deadside ${topic.angle} Guide`;
-	const metaDescription = `A practical Deadside guide covering ${topic.focus} on Windows PC — survival tips, BattlEye context, and cheat-feature awareness at deadsidecheats.com.`;
+	const metaDescription = `A practical Deadside guide covering ${topic.focus} on Windows PC — survival tips, BattlEye context, and cheat-feature awareness at deadsidecheat.com.`;
 	const intro = `Deadside rewards players who plan loot runs before they shoot. This guide focuses on ${topic.focus} — the habits that keep squads alive in open-world survival raids on PC.`;
 	const internalLink = `${SITE}/deadside-cheats/`;
 
@@ -136,7 +136,7 @@ function buildGuide(topic, index) {
 				h2: 'Session homework',
 				paragraphs: [
 					`Pick one skill per raid: ${topic.mechanic}, ${topic.mechanic2}, or safer extract timing. After you die, name the decision that put you in a bad spot — not just “bad luck.”`,
-					`For ESP, soft aim, and radar built for Deadside, see the <a href="${internalLink}">Deadside Cheats overview</a> at deadsidecheats.com.`,
+					`For ESP, soft aim, and radar built for Deadside, see the <a href="${internalLink}">Deadside Cheats overview</a> at deadsidecheat.com.`,
 				],
 			},
 		],
@@ -196,7 +196,7 @@ function buildGuide(topic, index) {
 				h2: 'One-page takeaway',
 				paragraphs: [
 					`Write three bullets before you queue: where you loot, when you leave, and what you will not chase. ${topic.angle} is mostly decision quality, not reflexes.`,
-					`Explore feature comparisons on <a href="${internalLink}">deadsidecheats.com</a> when you want ESP, radar, and aimbot context in one stack.`,
+					`Explore feature comparisons on <a href="${internalLink}">deadsidecheat.com</a> when you want ESP, radar, and aimbot context in one stack.`,
 				],
 			},
 		],

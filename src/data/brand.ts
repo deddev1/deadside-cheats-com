@@ -9,10 +9,10 @@ export const brand = {
 	/** Short product label if needed */
 	shortName: 'Deadside Cheats',
 	/** Canonical origin — no trailing slash */
-	url: 'https://deadsidecheats.com',
+	url: 'https://deadsidecheat.com',
 	locale: 'en',
 	market: 'Worldwide',
-	supportEmail: 'support@deadsidecheats.com',
+	supportEmail: 'support@deadsidecheat.com',
 	checkoutUrl: 'https://zadeyo.com/go/QRH?to=%2Fproducts%2Fdeadside',
 
 	/** Public profiles for Organization sameAs + Twitter cards (edit in Brand Studio). */
@@ -40,7 +40,7 @@ export const brand = {
 	defaultOgImage: '/images/deadside-cheats-hero-1199w.webp',
 	heroImage: '/images/deadside-cheats-hero-1199w.webp',
 	/** Product demo clip — lazy-loaded on homepage; fetched only after play */
-	demoVideoUrl: 'https://deadsidecheats.com/videos/hero.webm',
+	demoVideoUrl: 'https://deadsidecheat.com/videos/hero.webm',
 	demoVideoPoster: '/images/deadside-screenshot-06.webp',
 
 	plans: [
@@ -111,31 +111,31 @@ export const brand = {
 			'Buy undetected Deadside cheats — ESP, aimbot, wallhack & radar for survival raids on PC. BattlEye updates included. Plans from $35/month.',
 		featuresTitle: 'Deadside Cheats Features | ESP & Aimbot',
 		featuresDescription:
-			'Full Deadside cheats feature list — ESP wallhack, soft aim, 2D radar & toggles for survival raids on PC. BattlEye maintenance at deadsidecheats.com.',
+			'Full Deadside cheats feature list — ESP wallhack, soft aim, 2D radar & toggles for survival raids on PC. BattlEye maintenance at deadsidecheat.com.',
 		storeTitle: 'Deadside Cheats Pricing | $35/mo Lifetime',
 		storeDescription:
 			'Buy Deadside cheats — $35/month or $150 lifetime. ESP, aimbot & radar for survival raids on PC. Instant digital delivery worldwide.',
 		statusTitle: 'Deadside Status | Undetected {antiCheat} Updates',
 		statusDescription:
-			'Live status after {game} & {antiCheat} patches. Check undetected ESP, aimbot & radar rebuilds on PC before you queue. Status updated at deadsidecheats.com.',
+			'Live status after {game} & {antiCheat} patches. Check undetected ESP, aimbot & radar rebuilds on PC before you queue. Status updated at deadsidecheat.com.',
 		previewTitle: 'Deadside Cheats | ESP, Aimbot & Radar Guide',
 		previewDescription:
-			'Deadside cheats guide — undetected ESP wallhack, soft aim, radar & {antiCheat} rebuilds for survival raids on PC. Buy from $35 at deadsidecheats.com.',
+			'Deadside cheats guide — undetected ESP wallhack, soft aim, radar & {antiCheat} rebuilds for survival raids on PC. Buy from $35 at deadsidecheat.com.',
 		setupTitle: 'Deadside Cheats Setup | Windows PC Install Guide',
 		setupDescription:
-			'Install {brand} on PC — activate ESP, soft aim & radar step by step. Setup guide at deadsidecheats.com. Check {antiCheat} status before your first match.',
+			'Install {brand} on PC — activate ESP, soft aim & radar step by step. Setup guide at deadsidecheat.com. Check {antiCheat} status before your first match.',
 		supportTitle: 'Deadside Cheats Support | License & Setup Help',
 		supportDescription:
-			'Support for license delivery, ESP setup & billing on PC. Email {email} with your order ID. Fast help at deadsidecheats.com/support before you play.',
+			'Support for license delivery, ESP setup & billing on PC. Email {email} with your order ID. Fast help at deadsidecheat.com/support before you play.',
 		faqTitle: 'Deadside Cheats FAQ | ESP, Aimbot & BattlEye',
 		faqDescription:
-			'FAQ for Deadside cheats — delivery, setup, survival raid use, {antiCheat} updates & pricing on PC. Answers at deadsidecheats.com before you buy.',
+			'FAQ for Deadside cheats — delivery, setup, survival raid use, {antiCheat} updates & pricing on PC. Answers at deadsidecheat.com before you buy.',
 		reviewsTitle: 'What Players Say | Deadside Cheats Reviews',
 		reviewsDescription:
-			'What Deadside players actually say — ESP in raid, BattlEye after patches, setup, and support. Honest ratings from license holders at deadsidecheats.com.',
+			'What Deadside players actually say — ESP in raid, BattlEye after patches, setup, and support. Honest ratings from license holders at deadsidecheat.com.',
 		blogTitle: 'Deadside Blog | Guides & Patch Tips | {brand}',
 		blogDescription:
-			'Deadside guides — survival tips, ESP & aimbot notes, loot routes & {antiCheat} updates for PC. Read patch notes and buyer guides at deadsidecheats.com/blog.',
+			'Deadside guides — survival tips, ESP & aimbot notes, loot routes & {antiCheat} updates for PC. Read patch notes and buyer guides at deadsidecheat.com/blog.',
 	},
 
 	/** On-page marketing copy (tokens allowed) */
@@ -246,9 +246,9 @@ export function seoTitle(topic: string): string {
 export function seoDescription(template: string): string {
 	let text = fillBrandTokens(template).trim();
 	if (text.length < 140) {
-		const pad = text.toLowerCase().includes('deadsidecheats.com')
+		const pad = text.toLowerCase().includes('deadsidecheat.com')
 			? ' Windows PC license with BattlEye maintenance after patches.'
-			: ' Compare plans and guides at deadsidecheats.com.';
+			: ' Compare plans and guides at deadsidecheat.com.';
 		text = `${text.replace(/[.…]+$/, '')}.${pad}`;
 	}
 	if (text.length <= 160) return text;

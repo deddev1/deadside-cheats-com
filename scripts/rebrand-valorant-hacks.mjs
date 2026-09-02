@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Rebrand deadsidecheats.com → deadsidecheats.com (Deadside Cheats → Deadside Cheats).
+ * Rebrand deadsidecheat.com → deadsidecheat.com (Deadside Cheats → Deadside Cheats).
  * Run from project root: node scripts/rebrand-deadside-cheats.mjs
  */
 import { readFile, writeFile, readdir } from 'node:fs/promises';
@@ -14,11 +14,11 @@ const SKIP_FILES = new Set(['package-lock.json', 'rebrand-deadside-cheats.mjs'])
 
 /** Ordered — most specific first. */
 const REPLACEMENTS = [
-	['https://www.deadsidecheats.com', 'https://www.deadsidecheats.com'],
-	['https://deadsidecheats.com', 'https://deadsidecheats.com'],
-	['www.deadsidecheats.com', 'www.deadsidecheats.com'],
-	['support@deadsidecheats.com', 'support@deadsidecheats.com'],
-	['deadsidecheats.com', 'deadsidecheats.com'],
+	['https://www.deadsidecheat.com', 'https://www.deadsidecheat.com'],
+	['https://deadsidecheat.com', 'https://deadsidecheat.com'],
+	['www.deadsidecheat.com', 'www.deadsidecheat.com'],
+	['support@deadsidecheat.com', 'support@deadsidecheat.com'],
+	['deadsidecheat.com', 'deadsidecheat.com'],
 	['project-name=deadsidecheats', 'project-name=deadsidecheats'],
 	['name = "valorantcheats"', 'name = "deadside-cheats-org"'],
 	['Deadside Cheats', 'Deadside Cheats'],

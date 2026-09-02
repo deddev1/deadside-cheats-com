@@ -243,7 +243,7 @@ export const simplePageCopy: Partial<Record<PageId, SimplePageCopy>> = {
 	'deadside-esp': page({
 		title: 'Deadside ESP | Wallhack & Player Boxes | {brand}',
 		description:
-			'Deadside ESP wallhack — player boxes, loot markers & distance tags on PC. Undetected cheats with aimbot & radar. Shop at deadsidecheats.com.',
+			'Deadside ESP wallhack — player boxes, loot markers & distance tags on PC. Undetected cheats with aimbot & radar. Shop at deadsidecheat.com.',
 		h1: 'ESP',
 		intro: 'See players and loot through walls during Deadside matches. Part of the same {brand} license.',
 		ctaPrimary: brandCopy.ctaBuy,
@@ -275,7 +275,7 @@ export const simplePageCopy: Partial<Record<PageId, SimplePageCopy>> = {
 	'deadside-aimbot': page({
 		title: 'Deadside Aimbot | Soft Aim & FOV Settings | {brand}',
 		description:
-			'Deadside aimbot with soft aim, FOV, bone priority & hotkeys on PC. Undetected {brand} with ESP & radar included. deadsidecheats.com.',
+			'Deadside aimbot with soft aim, FOV, bone priority & hotkeys on PC. Undetected {brand} with ESP & radar included. deadsidecheat.com.',
 		h1: 'Aimbot',
 		intro: 'Soft aim and aim assist you can tune for Deadside. Included in the same {brand} license.',
 		ctaPrimary: brandCopy.ctaBuy,
@@ -307,7 +307,7 @@ export const simplePageCopy: Partial<Record<PageId, SimplePageCopy>> = {
 	radar: page({
 		title: 'Deadside 2D Radar | 2D Threat Map | {brand}',
 		description:
-			'2D radar for flank awareness on PC. Bundled with ESP wallhack & soft aim in one license. BattlEye maintenance at deadsidecheats.com.',
+			'2D radar for flank awareness on PC. Bundled with ESP wallhack & soft aim in one license. BattlEye maintenance at deadsidecheat.com.',
 		h1: 'Radar',
 		intro: 'A simple 2D radar for threats outside your view. Included in the same {brand} license.',
 		ctaPrimary: brandCopy.ctaBuy,

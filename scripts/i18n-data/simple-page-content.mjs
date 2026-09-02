@@ -1005,7 +1005,7 @@ export const PAGE_CONTENT = {
 			"hi": [
 				"नवीनतम स्टेटस नोट पढ़ें",
 				"समस्या हो तो सेटअप फॉलो करें",
-				"ऑर्डर ID के साथ support@deadsidecheats.com"
+				"ऑर्डर ID के साथ support@deadsidecheat.com"
 			],
 			"id": [
 				"Baca catatan status terbaru",
@@ -3927,71 +3927,71 @@ export const PAGE_CONTENT = {
 		},
 		"2": {
 			"en": [
-				"Check Status after a patch. Email support@deadsidecheats.com with your order ID.",
+				"Check Status after a patch. Email support@deadsidecheat.com with your order ID.",
 				"Include your Windows version and what you already tried for faster replies."
 			],
 			"es": [
-				"Revisa Estado tras un parche. Email a support@deadsidecheats.com con tu ID de pedido."
+				"Revisa Estado tras un parche. Email a support@deadsidecheat.com con tu ID de pedido."
 			],
 			"fr": [
-				"Consultez Statut après un patch. Email support@deadsidecheats.com avec votre ID commande."
+				"Consultez Statut après un patch. Email support@deadsidecheat.com avec votre ID commande."
 			],
 			"de": [
-				"Status nach Patch prüfen. E-Mail an support@deadsidecheats.com mit Bestell-ID."
+				"Status nach Patch prüfen. E-Mail an support@deadsidecheat.com mit Bestell-ID."
 			],
 			"pt": [
-				"Verifique Status após patch. Email support@deadsidecheats.com com ID do pedido."
+				"Verifique Status após patch. Email support@deadsidecheat.com com ID do pedido."
 			],
 			"it": [
-				"Controlla Stato dopo patch. Email support@deadsidecheats.com con ID ordine."
+				"Controlla Stato dopo patch. Email support@deadsidecheat.com con ID ordine."
 			],
 			"nl": [
-				"Check Status na patch. E-mail support@deadsidecheats.com met order-ID."
+				"Check Status na patch. E-mail support@deadsidecheat.com met order-ID."
 			],
 			"pl": [
-				"Sprawdź Status po patchu. Email support@deadsidecheats.com z ID zamówienia."
+				"Sprawdź Status po patchu. Email support@deadsidecheat.com z ID zamówienia."
 			],
 			"ru": [
-				"Проверьте Статус после патча. Email support@deadsidecheats.com с ID заказа."
+				"Проверьте Статус после патча. Email support@deadsidecheat.com с ID заказа."
 			],
 			"tr": [
-				"Yama sonrası Durum kontrol edin. Sipariş ID ile support@deadsidecheats.com."
+				"Yama sonrası Durum kontrol edin. Sipariş ID ile support@deadsidecheat.com."
 			],
 			"ar": [
-				"تحقق من الحالة بعد التصحيح. راسل support@deadsidecheats.com مع معرف الطلب."
+				"تحقق من الحالة بعد التصحيح. راسل support@deadsidecheat.com مع معرف الطلب."
 			],
 			"ja": [
-				"パッチ後はステータス確認。注文IDを添えてsupport@deadsidecheats.comへ。"
+				"パッチ後はステータス確認。注文IDを添えてsupport@deadsidecheat.comへ。"
 			],
 			"ko": [
-				"패치 후 상태 확인. 주문 ID와 함께 support@deadsidecheats.com."
+				"패치 후 상태 확인. 주문 ID와 함께 support@deadsidecheat.com."
 			],
 			"zh": [
-				"补丁后查看状态。携带订单 ID 邮件 support@deadsidecheats.com。"
+				"补丁后查看状态。携带订单 ID 邮件 support@deadsidecheat.com。"
 			],
 			"hi": [
-				"पैच के बाद Status जांचें। ऑर्डर ID के साथ support@deadsidecheats.com।"
+				"पैच के बाद Status जांचें। ऑर्डर ID के साथ support@deadsidecheat.com।"
 			],
 			"id": [
-				"Cek Status setelah patch. Email support@deadsidecheats.com dengan ID pesanan."
+				"Cek Status setelah patch. Email support@deadsidecheat.com dengan ID pesanan."
 			],
 			"th": [
-				"ตรวจสถานะหลังแพตช์ อีเมล support@deadsidecheats.com พร้อมรหัสคำสั่งซื้อ"
+				"ตรวจสถานะหลังแพตช์ อีเมล support@deadsidecheat.com พร้อมรหัสคำสั่งซื้อ"
 			],
 			"vi": [
-				"Kiểm tra Trạng thái sau bản vá. Email support@deadsidecheats.com kèm ID đơn."
+				"Kiểm tra Trạng thái sau bản vá. Email support@deadsidecheat.com kèm ID đơn."
 			],
 			"uk": [
-				"Перевірте Статус після патчу. Email support@deadsidecheats.com з ID замовлення."
+				"Перевірте Статус після патчу. Email support@deadsidecheat.com з ID замовлення."
 			],
 			"cs": [
-				"Po patchi zkontrolujte Stav. Email support@deadsidecheats.com s ID objednávky."
+				"Po patchi zkontrolujte Stav. Email support@deadsidecheat.com s ID objednávky."
 			],
 			"ro": [
-				"Verifică Status după patch. Email support@deadsidecheats.com cu ID comandă."
+				"Verifică Status după patch. Email support@deadsidecheat.com cu ID comandă."
 			],
 			"sv": [
-				"Kontrollera Status efter patch. Mejla support@deadsidecheats.com med order-ID."
+				"Kontrollera Status efter patch. Mejla support@deadsidecheat.com med order-ID."
 			]
 		},
 		"intro": {
@@ -4402,71 +4402,71 @@ export const PAGE_CONTENT = {
 	"support": {
 		"0": {
 			"en": [
-				"Email support@deadsidecheats.com. Include your order ID and a short note about the issue.",
+				"Email support@deadsidecheat.com. Include your order ID and a short note about the issue.",
 				"We review support requests daily for delivery, billing, and setup issues."
 			],
 			"es": [
-				"Email a support@deadsidecheats.com. Incluye tu ID de pedido y una nota breve sobre el problema."
+				"Email a support@deadsidecheat.com. Incluye tu ID de pedido y una nota breve sobre el problema."
 			],
 			"fr": [
-				"Email support@deadsidecheats.com. Incluez votre ID commande et une brève note."
+				"Email support@deadsidecheat.com. Incluez votre ID commande et une brève note."
 			],
 			"de": [
-				"E-Mail an support@deadsidecheats.com. Bestell-ID und kurze Problembeschreibung angeben."
+				"E-Mail an support@deadsidecheat.com. Bestell-ID und kurze Problembeschreibung angeben."
 			],
 			"pt": [
-				"Email support@deadsidecheats.com. Inclua ID do pedido e nota breve sobre o problema."
+				"Email support@deadsidecheat.com. Inclua ID do pedido e nota breve sobre o problema."
 			],
 			"it": [
-				"Email support@deadsidecheats.com. Includi ID ordine e breve nota sul problema."
+				"Email support@deadsidecheat.com. Includi ID ordine e breve nota sul problema."
 			],
 			"nl": [
-				"E-mail support@deadsidecheats.com. Voeg order-ID en korte probleemnotitie toe."
+				"E-mail support@deadsidecheat.com. Voeg order-ID en korte probleemnotitie toe."
 			],
 			"pl": [
-				"Email support@deadsidecheats.com. Dołącz ID zamówienia i krótki opis problemu."
+				"Email support@deadsidecheat.com. Dołącz ID zamówienia i krótki opis problemu."
 			],
 			"ru": [
-				"Email support@deadsidecheats.com. Укажите ID заказа и краткое описание проблемы."
+				"Email support@deadsidecheat.com. Укажите ID заказа и краткое описание проблемы."
 			],
 			"tr": [
-				"support@deadsidecheats.com adresine email. Sipariş ID ve kısa sorun notu ekleyin."
+				"support@deadsidecheat.com adresine email. Sipariş ID ve kısa sorun notu ekleyin."
 			],
 			"ar": [
-				"راسل support@deadsidecheats.com. أرفق معرف الطلب وملاحظة قصيرة."
+				"راسل support@deadsidecheat.com. أرفق معرف الطلب وملاحظة قصيرة."
 			],
 			"ja": [
-				"support@deadsidecheats.comへメール。注文IDと問題の概要を記載。"
+				"support@deadsidecheat.comへメール。注文IDと問題の概要を記載。"
 			],
 			"ko": [
-				"support@deadsidecheats.com로 이메일. 주문 ID와 문제 요약 포함."
+				"support@deadsidecheat.com로 이메일. 주문 ID와 문제 요약 포함."
 			],
 			"zh": [
-				"邮件 support@deadsidecheats.com，附上订单 ID 和简要问题说明。"
+				"邮件 support@deadsidecheat.com，附上订单 ID 和简要问题说明。"
 			],
 			"hi": [
-				"support@deadsidecheats.com पर email। ऑर्डर ID और समस्या का संक्षिप्त विवरण दें।"
+				"support@deadsidecheat.com पर email। ऑर्डर ID और समस्या का संक्षिप्त विवरण दें।"
 			],
 			"id": [
-				"Email support@deadsidecheats.com. Sertakan ID pesanan dan catatan singkat masalah."
+				"Email support@deadsidecheat.com. Sertakan ID pesanan dan catatan singkat masalah."
 			],
 			"th": [
-				"อีเมล support@deadsidecheats.com พร้อมรหัสคำสั่งซื้อและรายละเอียดปัญหา"
+				"อีเมล support@deadsidecheat.com พร้อมรหัสคำสั่งซื้อและรายละเอียดปัญหา"
 			],
 			"vi": [
-				"Email support@deadsidecheats.com kèm ID đơn và mô tả ngắn."
+				"Email support@deadsidecheat.com kèm ID đơn và mô tả ngắn."
 			],
 			"uk": [
-				"Email support@deadsidecheats.com. Додайте ID замовлення і короткий опис проблеми."
+				"Email support@deadsidecheat.com. Додайте ID замовлення і короткий опис проблеми."
 			],
 			"cs": [
-				"Email support@deadsidecheats.com. Uveďte ID objednávky a stručný popis problému."
+				"Email support@deadsidecheat.com. Uveďte ID objednávky a stručný popis problému."
 			],
 			"ro": [
-				"Email support@deadsidecheats.com. Include ID comandă și notă scurtă despre problemă."
+				"Email support@deadsidecheat.com. Include ID comandă și notă scurtă despre problemă."
 			],
 			"sv": [
-				"Mejla support@deadsidecheats.com. Inkludera order-ID och kort problembeskrivning."
+				"Mejla support@deadsidecheat.com. Inkludera order-ID och kort problembeskrivning."
 			]
 		},
 		"1": {

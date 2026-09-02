@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Ensures every sitemap page URL uses the canonical apex from brand.ts (deadsidecheats.com).
+ * Ensures every sitemap page URL uses the canonical apex from brand.ts (deadsidecheat.com).
  * Run after build: node scripts/validate-sitemap-canonical-domain.mjs
  */
 import { readFileSync, readdirSync, statSync } from 'node:fs';
@@ -20,6 +20,7 @@ const CANONICAL = readBrandUrl();
 const CANONICAL_HOST = new URL(CANONICAL).host;
 
 const LEGACY_HOSTS = [
+	'deadsidecheats.com',
 	'valoranthacks.org',
 	'valorantcheats.org',
 	'narakacheats.org',

@@ -79,7 +79,7 @@ const EN_FAQ_ITEMS = {
 	},
 	'how-to-contact-support': {
 		q: 'How do I contact support?',
-		a: 'Use the Support page or email support@deadsidecheats.com. Include your order details, package length, and a clear description of the setup issue so replies can be faster.',
+		a: 'Use the Support page or email support@deadsidecheat.com. Include your order details, package length, and a clear description of the setup issue so replies can be faster.',
 	},
 	'what-is-a-deadside-wallhack': {
 		q: 'What is a Deadside wallhack?',
@@ -111,7 +111,7 @@ const EN_FAQ_ITEMS = {
 	},
 	'how-to-install-deadside-cheats': {
 		q: 'How do I install deadside cheats on Windows PC?',
-		a: 'After checkout, follow the Setup guide: download the loader, disable conflicting overlays, launch Deadside Cheats, and enable ESP, radar, or aimbot toggles in the mod menu. Most buyers finish first launch in under 15 minutes. Email support@deadsidecheats.com if activation fails.',
+		a: 'After checkout, follow the Setup guide: download the loader, disable conflicting overlays, launch Deadside Cheats, and enable ESP, radar, or aimbot toggles in the mod menu. Most buyers finish first launch in under 15 minutes. Email support@deadsidecheat.com if activation fails.',
 	},
 	'best-deadside-cheats-in-2026': {
 		q: 'What are the best deadside cheats in 2026?',
@@ -151,7 +151,7 @@ const EN_FAQ_ITEMS = {
 	},
 	'how-long-deadside-cheat-setup-takes': {
 		q: 'How long does deadside cheats setup take?',
-		a: 'Most buyers finish Deadside Cheats setup in 10–20 minutes on Windows PC: install the loader, activate the license, and enable ESP or aimbot in the mod menu. If Windows Defender or another AV blocks the loader, follow Setup troubleshooting or email support@deadsidecheats.com with your order ID.',
+		a: 'Most buyers finish Deadside Cheats setup in 10–20 minutes on Windows PC: install the loader, activate the license, and enable ESP or aimbot in the mod menu. If Windows Defender or another AV blocks the loader, follow Setup troubleshooting or email support@deadsidecheat.com with your order ID.',
 	},
 	'does-deadside-cheats-include-triggerbot': {
 		q: 'Does Deadside Cheats include triggerbot?',
@@ -272,7 +272,7 @@ async function main() {
 		...(en.blog ?? {}),
 		blogTitle: 'Deadside Cheats Blog | Guides & Patch Tips',
 		blogDescription:
-			'Deadside guides — survival tips, ESP, aimbot notes, extract routes, and BattlEye update coverage. English blog at deadsidecheats.com/blog/.',
+			'Deadside guides — survival tips, ESP, aimbot notes, extract routes, and BattlEye update coverage. English blog at deadsidecheat.com/blog/.',
 		blogH1: 'Deadside Cheats Intel',
 		blogIntro:
 			'Actionable Deadside guides for survival and PvP raids — loot routes, compound tactics, and squad play. Pair these tips with our Deadside Cheats pages for ESP, soft aim, and radar when you need in-match tools.',

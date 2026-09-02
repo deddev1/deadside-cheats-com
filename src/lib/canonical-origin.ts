@@ -1,9 +1,11 @@
 /** Canonical public origin — must match src/data/brand.ts url. */
-export const CANONICAL_ORIGIN = 'https://deadsidecheats.com';
-export const CANONICAL_HOST = 'deadsidecheats.com';
+export const CANONICAL_ORIGIN = 'https://deadsidecheat.com';
+export const CANONICAL_HOST = 'deadsidecheat.com';
 
 /** Legacy hosts that 301 to the canonical apex (see worker.ts LEGACY_HOSTS). */
 export const LEGACY_HOSTS = [
+	'deadsidecheats.com',
+	'www.deadsidecheats.com',
 	'valoranthacks.org',
 	'www.valoranthacks.org',
 	'valorantcheats.org',
