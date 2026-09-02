@@ -14,10 +14,14 @@ function isBrandStudioPage(pathname: string): boolean {
  * Write API lives only in the Vite dev plugin (never in dist) and has its own IP checks.
  */
 export const onRequest = defineMiddleware(async (context, next) => {
-	const redirectPath = resolvePathRedirect(context.url.pathname);
-	if (redirectPath) {
-		const target = new URL(redirectPath, context.url.origin);
-		return context.redirect(target.toString(), 301);
+	// Path redirects are applied at runtime by the Worker. During prerender, emit
+	// proper redirect HTML (with <head>) instead of Astro's headless redirect stub.
+	if (!context.isPrerendered) {
+		const redirectPath = resolvePathRedirect(context.url.pathname);
+		if (redirectPath) {
+			const target = new URL(redirectPath, context.url.origin);
+			return context.redirect(target.toString(), 301);
+		}
 	}
 
 	if (isBrandStudioPage(context.url.pathname)) {
@@ -30,7 +34,7 @@ export const onRequest = defineMiddleware(async (context, next) => {
 				headers: {
 					'Content-Type': 'text/plain; charset=utf-8',
 					'Cache-Control': 'no-store',
-					'X-Robots-Tag': 'noindex, nofollow',
+					'X-Robots-Tag': 'noindex, follow',
 				},
 			});
 		}
@@ -42,7 +46,7 @@ export const onRequest = defineMiddleware(async (context, next) => {
 	const isHtml = contentType.includes('text/html');
 
 	if (isBrandStudioPage(context.url.pathname)) {
-		headers.set('X-Robots-Tag', 'noindex, nofollow');
+		headers.set('X-Robots-Tag', 'noindex, follow');
 		headers.set('Cache-Control', 'no-store');
 	}
 
