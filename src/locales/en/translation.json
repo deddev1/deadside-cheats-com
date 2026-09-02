@@ -415,5 +415,16 @@
   "media": {
     "demoVideoTitle": "Deadside Cheats ESP, aimbot and radar demo",
     "playVideo": "Play video"
+  },
+  "pageResources": {
+    "title": "Explore Deadside Cheats resources",
+    "lede": "Every Deadside Cheats license includes ESP wallhack, soft aim, and 2D radar for Windows PC with BattlEye maintenance after patches. Use the links below to compare features, read setup steps, and check live status before you queue.",
+    "detail": "Our product pages explain how each module behaves in real Deadside matches — from loot markers and player boxes to radar flanks and legit-style aim profiles. If you are new, start with the setup guide, then review pricing and the FAQ before checkout.",
+    "linkFeatures": "Full feature list",
+    "linkPricing": "Pricing plans",
+    "linkSetup": "Setup guide",
+    "linkUpdates": "Live status & patches",
+    "linkFaq": "FAQ answers",
+    "linkBlog": "Deadside blog guides"
   }
 }

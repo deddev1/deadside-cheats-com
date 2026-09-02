@@ -10,6 +10,7 @@ import { deadsideImages } from '../data/deadside';
 import { getT } from '../i18n/server';
 import { getPageCrawlImage, absoluteImageUrl } from '../data/page-images';
 import { screenshotImageObjects } from '../data/product-images';
+import PageResourceLinks from './PageResourceLinks.astro';
 
 interface Props {
 	locale: LocaleCode;
@@ -223,6 +224,8 @@ const breadcrumbLabel = eyebrowByPage[pageId];
 			</section>
 		))
 	}
+
+	<PageResourceLinks locale={locale} />
 
 	{
 		pageId === 'faq' && (

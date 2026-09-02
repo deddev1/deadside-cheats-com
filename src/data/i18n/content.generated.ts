@@ -2402,6 +2402,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Tus derechos",
 							paragraphs: [
+								"Deadside Cheats ofrece ESP wallhack, 2D radar y deadside aimbot indetectables para Deadside en Windows PC. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
+							],
+						},
+						{
+							h2: "Data retention",
+							paragraphs: [
+								"Consulta la página Updates antes de jugar tras parches de BattlEye. Ningún cheat garantiza estado indetectable permanente.",
+								"Deadside Cheats ofrece ESP wallhack, 2D radar y deadside aimbot indetectables para Deadside en Windows PC. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Contact",
+							paragraphs: [
 								"Contacta support@deadsidecheats.com para solicitudes legales o de soporte.",
 								"Correo: support@deadsidecheats.com",
 							],
@@ -2437,6 +2451,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Cómo solicitar",
 							paragraphs: [
+								"Deadside Cheats ofrece ESP wallhack, 2D radar y deadside aimbot indetectables para Deadside en Windows PC. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
+							],
+						},
+						{
+							h2: "Chargebacks and disputes",
+							paragraphs: [
+								"Consulta la página Updates antes de jugar tras parches de BattlEye. Ningún cheat garantiza estado indetectable permanente.",
+								"Deadside Cheats ofrece ESP wallhack, 2D radar y deadside aimbot indetectables para Deadside en Windows PC. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Processing time",
+							paragraphs: [
 								"Contacta support@deadsidecheats.com para solicitudes legales o de soporte.",
 								"Correo: support@deadsidecheats.com",
 							],
@@ -2471,6 +2499,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						},
 						{
 							h2: "Cambios de política",
+							paragraphs: [
+								"Deadside Cheats ofrece ESP wallhack, 2D radar y deadside aimbot indetectables para Deadside en Windows PC. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
+							],
+						},
+						{
+							h2: "Policy changes",
+							paragraphs: [
+								"Consulta la página Updates antes de jugar tras parches de BattlEye. Ningún cheat garantiza estado indetectable permanente.",
+								"Deadside Cheats ofrece ESP wallhack, 2D radar y deadside aimbot indetectables para Deadside en Windows PC. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Contact",
 							paragraphs: [
 								"Contacta support@deadsidecheats.com para solicitudes legales o de soporte.",
 								"Correo: support@deadsidecheats.com",
@@ -3594,6 +3636,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Vos droits",
 							paragraphs: [
+								"Deadside Cheats combine ESP wallhack, 2D radar et deadside aimbot indétectables pour Deadside sur PC Windows. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
+							],
+						},
+						{
+							h2: "Data retention",
+							paragraphs: [
+								"Consultez Updates après les patchs BattlEye. Aucune triche ne garantit un statut indétectable permanent.",
+								"Deadside Cheats combine ESP wallhack, 2D radar et deadside aimbot indétectables pour Deadside sur PC Windows. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Contact",
+							paragraphs: [
 								"Contactez support@deadsidecheats.com pour le support ou les demandes légales.",
 								"E-mail : support@deadsidecheats.com",
 							],
@@ -3629,6 +3685,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Comment demander",
 							paragraphs: [
+								"Deadside Cheats combine ESP wallhack, 2D radar et deadside aimbot indétectables pour Deadside sur PC Windows. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
+							],
+						},
+						{
+							h2: "Chargebacks and disputes",
+							paragraphs: [
+								"Consultez Updates après les patchs BattlEye. Aucune triche ne garantit un statut indétectable permanent.",
+								"Deadside Cheats combine ESP wallhack, 2D radar et deadside aimbot indétectables pour Deadside sur PC Windows. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Processing time",
+							paragraphs: [
 								"Contactez support@deadsidecheats.com pour le support ou les demandes légales.",
 								"E-mail : support@deadsidecheats.com",
 							],
@@ -3663,6 +3733,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						},
 						{
 							h2: "Modifications",
+							paragraphs: [
+								"Deadside Cheats combine ESP wallhack, 2D radar et deadside aimbot indétectables pour Deadside sur PC Windows. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
+							],
+						},
+						{
+							h2: "Policy changes",
+							paragraphs: [
+								"Consultez Updates après les patchs BattlEye. Aucune triche ne garantit un statut indétectable permanent.",
+								"Deadside Cheats combine ESP wallhack, 2D radar et deadside aimbot indétectables pour Deadside sur PC Windows. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Contact",
 							paragraphs: [
 								"Contactez support@deadsidecheats.com pour le support ou les demandes légales.",
 								"E-mail : support@deadsidecheats.com",
@@ -4787,6 +4871,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Ihre Rechte",
 							paragraphs: [
+								"Deadside Cheats bündelt ESP wallhack, 2D radar und deadside aimbot als undetected Paket für Deadside auf Windows PC. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"Lizenzen mit sofortige digitale Lieferung über secure checkout Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
+							],
+						},
+						{
+							h2: "Data retention",
+							paragraphs: [
+								"Updates-Seite nach BattlEye-Patches prüfen. Kein Cheat garantiert dauerhaft undetected Status.",
+								"Deadside Cheats bündelt ESP wallhack, 2D radar und deadside aimbot als undetected Paket für Deadside auf Windows PC. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Contact",
+							paragraphs: [
 								"support@deadsidecheats.com für Support und rechtliche Anfragen.",
 								"E-Mail: support@deadsidecheats.com",
 							],
@@ -4822,6 +4920,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "So beantragen",
 							paragraphs: [
+								"Deadside Cheats bündelt ESP wallhack, 2D radar und deadside aimbot als undetected Paket für Deadside auf Windows PC. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"Lizenzen mit sofortige digitale Lieferung über secure checkout Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
+							],
+						},
+						{
+							h2: "Chargebacks and disputes",
+							paragraphs: [
+								"Updates-Seite nach BattlEye-Patches prüfen. Kein Cheat garantiert dauerhaft undetected Status.",
+								"Deadside Cheats bündelt ESP wallhack, 2D radar und deadside aimbot als undetected Paket für Deadside auf Windows PC. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Processing time",
+							paragraphs: [
 								"support@deadsidecheats.com für Support und rechtliche Anfragen.",
 								"E-Mail: support@deadsidecheats.com",
 							],
@@ -4856,6 +4968,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						},
 						{
 							h2: "Richtlinienänderungen",
+							paragraphs: [
+								"Deadside Cheats bündelt ESP wallhack, 2D radar und deadside aimbot als undetected Paket für Deadside auf Windows PC. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"Lizenzen mit sofortige digitale Lieferung über secure checkout Checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
+							],
+						},
+						{
+							h2: "Policy changes",
+							paragraphs: [
+								"Updates-Seite nach BattlEye-Patches prüfen. Kein Cheat garantiert dauerhaft undetected Status.",
+								"Deadside Cheats bündelt ESP wallhack, 2D radar und deadside aimbot als undetected Paket für Deadside auf Windows PC. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Contact",
 							paragraphs: [
 								"support@deadsidecheats.com für Support und rechtliche Anfragen.",
 								"E-Mail: support@deadsidecheats.com",
@@ -5978,6 +6104,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Seus direitos",
 							paragraphs: [
+								"Deadside Cheats reúne ESP wallhack, 2D radar e deadside aimbot indetectáveis para Deadside no PC Windows. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
+							],
+						},
+						{
+							h2: "Data retention",
+							paragraphs: [
+								"Verifique Updates após patches BattlEye. Nenhum cheat garante status indetectável permanente.",
+								"Deadside Cheats reúne ESP wallhack, 2D radar e deadside aimbot indetectáveis para Deadside no PC Windows. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Contact",
+							paragraphs: [
 								"Contacte support@deadsidecheats.com para suporte ou questões legais.",
 								"E-mail: support@deadsidecheats.com",
 							],
@@ -6013,6 +6153,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Como solicitar",
 							paragraphs: [
+								"Deadside Cheats reúne ESP wallhack, 2D radar e deadside aimbot indetectáveis para Deadside no PC Windows. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
+							],
+						},
+						{
+							h2: "Chargebacks and disputes",
+							paragraphs: [
+								"Verifique Updates após patches BattlEye. Nenhum cheat garante status indetectável permanente.",
+								"Deadside Cheats reúne ESP wallhack, 2D radar e deadside aimbot indetectáveis para Deadside no PC Windows. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Processing time",
+							paragraphs: [
 								"Contacte support@deadsidecheats.com para suporte ou questões legais.",
 								"E-mail: support@deadsidecheats.com",
 							],
@@ -6047,6 +6201,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						},
 						{
 							h2: "Alterações de política",
+							paragraphs: [
+								"Deadside Cheats reúne ESP wallhack, 2D radar e deadside aimbot indetectáveis para Deadside no PC Windows. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
+							],
+						},
+						{
+							h2: "Policy changes",
+							paragraphs: [
+								"Verifique Updates após patches BattlEye. Nenhum cheat garante status indetectável permanente.",
+								"Deadside Cheats reúne ESP wallhack, 2D radar e deadside aimbot indetectáveis para Deadside no PC Windows. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Contact",
 							paragraphs: [
 								"Contacte support@deadsidecheats.com para suporte ou questões legais.",
 								"E-mail: support@deadsidecheats.com",
@@ -7169,6 +7337,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "I tuoi diritti",
 							paragraphs: [
+								"Deadside Cheats unisce ESP wallhack, 2D radar e deadside aimbot indetectable per Deadside su PC Windows. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
+							],
+						},
+						{
+							h2: "Data retention",
+							paragraphs: [
+								"Controlla Updates dopo patch BattlEye. Nessun cheat garantisce stato indetectable permanente.",
+								"Deadside Cheats unisce ESP wallhack, 2D radar e deadside aimbot indetectable per Deadside su PC Windows. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Contact",
+							paragraphs: [
 								"Contatta support@deadsidecheats.com per supporto o richieste legali.",
 								"Email: support@deadsidecheats.com",
 							],
@@ -7204,6 +7386,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Come richiedere",
 							paragraphs: [
+								"Deadside Cheats unisce ESP wallhack, 2D radar e deadside aimbot indetectable per Deadside su PC Windows. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
+							],
+						},
+						{
+							h2: "Chargebacks and disputes",
+							paragraphs: [
+								"Controlla Updates dopo patch BattlEye. Nessun cheat garantisce stato indetectable permanente.",
+								"Deadside Cheats unisce ESP wallhack, 2D radar e deadside aimbot indetectable per Deadside su PC Windows. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Processing time",
+							paragraphs: [
 								"Contatta support@deadsidecheats.com per supporto o richieste legali.",
 								"Email: support@deadsidecheats.com",
 							],
@@ -7238,6 +7434,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						},
 						{
 							h2: "Modifiche alla policy",
+							paragraphs: [
+								"Deadside Cheats unisce ESP wallhack, 2D radar e deadside aimbot indetectable per Deadside su PC Windows. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
+							],
+						},
+						{
+							h2: "Policy changes",
+							paragraphs: [
+								"Controlla Updates dopo patch BattlEye. Nessun cheat garantisce stato indetectable permanente.",
+								"Deadside Cheats unisce ESP wallhack, 2D radar e deadside aimbot indetectable per Deadside su PC Windows. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Contact",
 							paragraphs: [
 								"Contatta support@deadsidecheats.com per supporto o richieste legali.",
 								"Email: support@deadsidecheats.com",
@@ -8360,6 +8570,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Uw rechten",
 							paragraphs: [
+								"Deadside Cheats bundelt ESP wallhack, 2D radar en deadside aimbot als undetected pakket voor Deadside op Windows PC. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
+							],
+						},
+						{
+							h2: "Data retention",
+							paragraphs: [
+								"Check Updates na BattlEye-patches. Geen cheat garandeert permanent undetected status.",
+								"Deadside Cheats bundelt ESP wallhack, 2D radar en deadside aimbot als undetected pakket voor Deadside op Windows PC. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Contact",
+							paragraphs: [
 								"support@deadsidecheats.com voor support en juridische vragen.",
 								"E-mail: support@deadsidecheats.com",
 							],
@@ -8395,6 +8619,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Hoe aanvragen",
 							paragraphs: [
+								"Deadside Cheats bundelt ESP wallhack, 2D radar en deadside aimbot als undetected pakket voor Deadside op Windows PC. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
+							],
+						},
+						{
+							h2: "Chargebacks and disputes",
+							paragraphs: [
+								"Check Updates na BattlEye-patches. Geen cheat garandeert permanent undetected status.",
+								"Deadside Cheats bundelt ESP wallhack, 2D radar en deadside aimbot als undetected pakket voor Deadside op Windows PC. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Processing time",
+							paragraphs: [
 								"support@deadsidecheats.com voor support en juridische vragen.",
 								"E-mail: support@deadsidecheats.com",
 							],
@@ -8429,6 +8667,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						},
 						{
 							h2: "Beleidswijzigingen",
+							paragraphs: [
+								"Deadside Cheats bundelt ESP wallhack, 2D radar en deadside aimbot als undetected pakket voor Deadside op Windows PC. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
+							],
+						},
+						{
+							h2: "Policy changes",
+							paragraphs: [
+								"Check Updates na BattlEye-patches. Geen cheat garandeert permanent undetected status.",
+								"Deadside Cheats bundelt ESP wallhack, 2D radar en deadside aimbot als undetected pakket voor Deadside op Windows PC. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Contact",
 							paragraphs: [
 								"support@deadsidecheats.com voor support en juridische vragen.",
 								"E-mail: support@deadsidecheats.com",
@@ -9551,6 +9803,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Twoje prawa",
 							paragraphs: [
+								"Deadside Cheats łączy ESP wallhack, 2D radar i deadside aimbot jako pakiet undetected dla Deadside na PC Windows. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
+							],
+						},
+						{
+							h2: "Data retention",
+							paragraphs: [
+								"Sprawdź Updates po patchach BattlEye. Żaden cheat nie gwarantuje permanentnego undetected statusu.",
+								"Deadside Cheats łączy ESP wallhack, 2D radar i deadside aimbot jako pakiet undetected dla Deadside na PC Windows. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Contact",
+							paragraphs: [
 								"support@deadsidecheats.com w sprawach wsparcia i prawnych.",
 								"E-mail: support@deadsidecheats.com",
 							],
@@ -9586,6 +9852,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Jak złożyć wniosek",
 							paragraphs: [
+								"Deadside Cheats łączy ESP wallhack, 2D radar i deadside aimbot jako pakiet undetected dla Deadside na PC Windows. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
+							],
+						},
+						{
+							h2: "Chargebacks and disputes",
+							paragraphs: [
+								"Sprawdź Updates po patchach BattlEye. Żaden cheat nie gwarantuje permanentnego undetected statusu.",
+								"Deadside Cheats łączy ESP wallhack, 2D radar i deadside aimbot jako pakiet undetected dla Deadside na PC Windows. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Processing time",
+							paragraphs: [
 								"support@deadsidecheats.com w sprawach wsparcia i prawnych.",
 								"E-mail: support@deadsidecheats.com",
 							],
@@ -9620,6 +9900,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						},
 						{
 							h2: "Zmiany polityki",
+							paragraphs: [
+								"Deadside Cheats łączy ESP wallhack, 2D radar i deadside aimbot jako pakiet undetected dla Deadside na PC Windows. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
+							],
+						},
+						{
+							h2: "Policy changes",
+							paragraphs: [
+								"Sprawdź Updates po patchach BattlEye. Żaden cheat nie gwarantuje permanentnego undetected statusu.",
+								"Deadside Cheats łączy ESP wallhack, 2D radar i deadside aimbot jako pakiet undetected dla Deadside na PC Windows. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Contact",
 							paragraphs: [
 								"support@deadsidecheats.com w sprawach wsparcia i prawnych.",
 								"E-mail: support@deadsidecheats.com",
@@ -10742,6 +11036,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Ваши права",
 							paragraphs: [
+								"Deadside Cheats объединяет ESP wallhack, 2D radar и deadside aimbot в undetected пакете для Deadside на Windows PC. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
+							],
+						},
+						{
+							h2: "Data retention",
+							paragraphs: [
+								"Проверяйте Updates после патчей BattlEye. Ни один чит не гарантирует постоянный undetected статус.",
+								"Deadside Cheats объединяет ESP wallhack, 2D radar и deadside aimbot в undetected пакете для Deadside на Windows PC. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Contact",
+							paragraphs: [
 								"support@deadsidecheats.com для поддержки и юридических вопросов.",
 								"Email: support@deadsidecheats.com",
 							],
@@ -10777,6 +11085,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Как запросить",
 							paragraphs: [
+								"Deadside Cheats объединяет ESP wallhack, 2D radar и deadside aimbot в undetected пакете для Deadside на Windows PC. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
+							],
+						},
+						{
+							h2: "Chargebacks and disputes",
+							paragraphs: [
+								"Проверяйте Updates после патчей BattlEye. Ни один чит не гарантирует постоянный undetected статус.",
+								"Deadside Cheats объединяет ESP wallhack, 2D radar и deadside aimbot в undetected пакете для Deadside на Windows PC. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Processing time",
+							paragraphs: [
 								"support@deadsidecheats.com для поддержки и юридических вопросов.",
 								"Email: support@deadsidecheats.com",
 							],
@@ -10811,6 +11133,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						},
 						{
 							h2: "Изменения политики",
+							paragraphs: [
+								"Deadside Cheats объединяет ESP wallhack, 2D radar и deadside aimbot в undetected пакете для Deadside на Windows PC. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
+							],
+						},
+						{
+							h2: "Policy changes",
+							paragraphs: [
+								"Проверяйте Updates после патчей BattlEye. Ни один чит не гарантирует постоянный undetected статус.",
+								"Deadside Cheats объединяет ESP wallhack, 2D radar и deadside aimbot в undetected пакете для Deadside на Windows PC. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Contact",
 							paragraphs: [
 								"support@deadsidecheats.com для поддержки и юридических вопросов.",
 								"Email: support@deadsidecheats.com",
@@ -11933,6 +12269,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Haklarınız",
 							paragraphs: [
+								"Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, 2D radar ve deadside aimbot undetected paket sunar. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
+							],
+						},
+						{
+							h2: "Data retention",
+							paragraphs: [
+								"BattlEye yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı undetected garantisi vermez.",
+								"Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, 2D radar ve deadside aimbot undetected paket sunar. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Contact",
+							paragraphs: [
 								"Destek ve yasal sorular için support@deadsidecheats.com.",
 								"E-posta: support@deadsidecheats.com",
 							],
@@ -11968,6 +12318,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Nasıl talep edilir",
 							paragraphs: [
+								"Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, 2D radar ve deadside aimbot undetected paket sunar. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
+							],
+						},
+						{
+							h2: "Chargebacks and disputes",
+							paragraphs: [
+								"BattlEye yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı undetected garantisi vermez.",
+								"Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, 2D radar ve deadside aimbot undetected paket sunar. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Processing time",
+							paragraphs: [
 								"Destek ve yasal sorular için support@deadsidecheats.com.",
 								"E-posta: support@deadsidecheats.com",
 							],
@@ -12002,6 +12366,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						},
 						{
 							h2: "Politika değişiklikleri",
+							paragraphs: [
+								"Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, 2D radar ve deadside aimbot undetected paket sunar. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"secure checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
+							],
+						},
+						{
+							h2: "Policy changes",
+							paragraphs: [
+								"BattlEye yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı undetected garantisi vermez.",
+								"Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, 2D radar ve deadside aimbot undetected paket sunar. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Contact",
 							paragraphs: [
 								"Destek ve yasal sorular için support@deadsidecheats.com.",
 								"E-posta: support@deadsidecheats.com",
@@ -13124,6 +13502,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "حقوقك",
 							paragraphs: [
+								"Deadside Cheats يجمع ESP wallhack و2D radar وdeadside aimbot غير مكتشف لـ Deadside على Windows PC. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
+							],
+						},
+						{
+							h2: "Data retention",
+							paragraphs: [
+								"راجع Updates بعد تص patches BattlEye. لا يضمن أي غش حالة undetected دائمة.",
+								"Deadside Cheats يجمع ESP wallhack و2D radar وdeadside aimbot غير مكتشف لـ Deadside على Windows PC. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Contact",
+							paragraphs: [
 								"support@deadsidecheats.com للدعم والطلبات القانونية.",
 								"البريد: support@deadsidecheats.com",
 							],
@@ -13159,6 +13551,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "كيفية الطلب",
 							paragraphs: [
+								"Deadside Cheats يجمع ESP wallhack و2D radar وdeadside aimbot غير مكتشف لـ Deadside على Windows PC. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
+							],
+						},
+						{
+							h2: "Chargebacks and disputes",
+							paragraphs: [
+								"راجع Updates بعد تص patches BattlEye. لا يضمن أي غش حالة undetected دائمة.",
+								"Deadside Cheats يجمع ESP wallhack و2D radar وdeadside aimbot غير مكتشف لـ Deadside على Windows PC. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Processing time",
+							paragraphs: [
 								"support@deadsidecheats.com للدعم والطلبات القانونية.",
 								"البريد: support@deadsidecheats.com",
 							],
@@ -13193,6 +13599,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						},
 						{
 							h2: "تغييرات السياسة",
+							paragraphs: [
+								"Deadside Cheats يجمع ESP wallhack و2D radar وdeadside aimbot غير مكتشف لـ Deadside على Windows PC. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
+							],
+						},
+						{
+							h2: "Policy changes",
+							paragraphs: [
+								"راجع Updates بعد تص patches BattlEye. لا يضمن أي غش حالة undetected دائمة.",
+								"Deadside Cheats يجمع ESP wallhack و2D radar وdeadside aimbot غير مكتشف لـ Deadside على Windows PC. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Contact",
 							paragraphs: [
 								"support@deadsidecheats.com للدعم والطلبات القانونية.",
 								"البريد: support@deadsidecheats.com",
@@ -14315,6 +14735,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "あなたの権利",
 							paragraphs: [
+								"Deadside CheatsはDeadside向けWindows PC用ESP wallhack、2D radar、deadside aimbotのundetectedパッケージです。Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
+							],
+						},
+						{
+							h2: "Data retention",
+							paragraphs: [
+								"BattlEyeパッチ後はUpdatesページを確認。永久undetectedは保証されません。",
+								"Deadside CheatsはDeadside向けWindows PC用ESP wallhack、2D radar、deadside aimbotのundetectedパッケージです。Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Contact",
+							paragraphs: [
 								"サポート・法務: support@deadsidecheats.com",
 								"メール: support@deadsidecheats.com",
 							],
@@ -14350,6 +14784,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "申請方法",
 							paragraphs: [
+								"Deadside CheatsはDeadside向けWindows PC用ESP wallhack、2D radar、deadside aimbotのundetectedパッケージです。Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
+							],
+						},
+						{
+							h2: "Chargebacks and disputes",
+							paragraphs: [
+								"BattlEyeパッチ後はUpdatesページを確認。永久undetectedは保証されません。",
+								"Deadside CheatsはDeadside向けWindows PC用ESP wallhack、2D radar、deadside aimbotのundetectedパッケージです。Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Processing time",
+							paragraphs: [
 								"サポート・法務: support@deadsidecheats.com",
 								"メール: support@deadsidecheats.com",
 							],
@@ -14384,6 +14832,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						},
 						{
 							h2: "ポリシー変更",
+							paragraphs: [
+								"Deadside CheatsはDeadside向けWindows PC用ESP wallhack、2D radar、deadside aimbotのundetectedパッケージです。Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"secure checkout checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
+							],
+						},
+						{
+							h2: "Policy changes",
+							paragraphs: [
+								"BattlEyeパッチ後はUpdatesページを確認。永久undetectedは保証されません。",
+								"Deadside CheatsはDeadside向けWindows PC用ESP wallhack、2D radar、deadside aimbotのundetectedパッケージです。Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Contact",
 							paragraphs: [
 								"サポート・法務: support@deadsidecheats.com",
 								"メール: support@deadsidecheats.com",
@@ -15506,6 +15968,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "귀하의 권리",
 							paragraphs: [
+								"Deadside Cheats는 Deadside Windows PC용 ESP wallhack, 2D radar, deadside aimbot undetected 패키지입니다. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
+							],
+						},
+						{
+							h2: "Data retention",
+							paragraphs: [
+								"BattlEye 패치 후 Updates 페이지 확인. 영구 undetected 보장 없음.",
+								"Deadside Cheats는 Deadside Windows PC용 ESP wallhack, 2D radar, deadside aimbot undetected 패키지입니다. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Contact",
+							paragraphs: [
 								"지원 및 법무: support@deadsidecheats.com",
 								"이메일: support@deadsidecheats.com",
 							],
@@ -15541,6 +16017,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "신청 방법",
 							paragraphs: [
+								"Deadside Cheats는 Deadside Windows PC용 ESP wallhack, 2D radar, deadside aimbot undetected 패키지입니다. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
+							],
+						},
+						{
+							h2: "Chargebacks and disputes",
+							paragraphs: [
+								"BattlEye 패치 후 Updates 페이지 확인. 영구 undetected 보장 없음.",
+								"Deadside Cheats는 Deadside Windows PC용 ESP wallhack, 2D radar, deadside aimbot undetected 패키지입니다. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Processing time",
+							paragraphs: [
 								"지원 및 법무: support@deadsidecheats.com",
 								"이메일: support@deadsidecheats.com",
 							],
@@ -15575,6 +16065,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						},
 						{
 							h2: "정책 변경",
+							paragraphs: [
+								"Deadside Cheats는 Deadside Windows PC용 ESP wallhack, 2D radar, deadside aimbot undetected 패키지입니다. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"secure checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
+							],
+						},
+						{
+							h2: "Policy changes",
+							paragraphs: [
+								"BattlEye 패치 후 Updates 페이지 확인. 영구 undetected 보장 없음.",
+								"Deadside Cheats는 Deadside Windows PC용 ESP wallhack, 2D radar, deadside aimbot undetected 패키지입니다. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Contact",
 							paragraphs: [
 								"지원 및 법무: support@deadsidecheats.com",
 								"이메일: support@deadsidecheats.com",
@@ -15673,15 +16177,15 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "2026 年為何選擇 Deadside Cheats",
 							paragraphs: [
-								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。適合在生存對戰與小隊模式中掌握敵方動向。",
-								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。適合在生存對戰與小隊模式中掌握敵方動向。",
+								"通过 secure checkout 结账完成 即时数字交付。$35/月 与 $150 终身 方案均含 BattlEye 维护。",
 							],
 						},
 						{
 							h2: "單一授權包含 ESP wallhack、雷達與 Aimbot",
 							paragraphs: [
-								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。一個授權取代多個工具。",
-								"BattlEye补丁后请查看Updates页面。无任何作弊保证永久undetected。",
+								"Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。一個授權取代多個工具。",
+								"BattlEye 补丁发布后请先查看 Updates 页面。没有任何外挂能保证永久 undetected 状态。",
 							],
 						},
 					],
@@ -15701,7 +16205,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP显示什么",
 							paragraphs: [
 								"玩家、科学家和物资的框体、距离和过滤器。",
-								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过 secure checkout 结账完成 即时数字交付。$35/月 与 $150 终身 方案均含 BattlEye 维护。",
 							],
 							list: [
 								"玩家ESP",
@@ -15713,7 +16217,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "何时使用",
 							paragraphs: [
 								"清晰显示 POI 和 loot 路线，不遮挡屏幕。",
-								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过 secure checkout 结账完成 即时数字交付。$35/月 与 $150 终身 方案均含 BattlEye 维护。",
 							],
 							list: [
 								"调节透明度",
@@ -15725,7 +16229,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "下一步",
 							paragraphs: [
 								"ESP 与 aimbot、radar 包含在同一方案中。",
-								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过 secure checkout 结账完成 即时数字交付。$35/月 与 $150 终身 方案均含 BattlEye 维护。",
 							],
 							list: [
 								"<a href=\"/\">完整产品</a>",
@@ -15751,7 +16255,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "控制",
 							paragraphs: [
 								"raid 前设置 FOV、平滑度和骨骼优先级。",
-								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过 secure checkout 结账完成 即时数字交付。$35/月 与 $150 终身 方案均含 BattlEye 维护。",
 							],
 							list: [
 								"soft aim 强度",
@@ -15763,7 +16267,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "游戏风格",
 							paragraphs: [
 								"长时间 match 保持低调设置。只在接受更高风险时提高强度。",
-								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过 secure checkout 结账完成 即时数字交付。$35/月 与 $150 终身 方案均含 BattlEye 维护。",
 							],
 							list: [
 								"低调 soft aim",
@@ -15775,7 +16279,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "下一步",
 							paragraphs: [
 								"Aimbot 与 ESP、radar 包含在同一许可证中。",
-								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过 secure checkout 结账完成 即时数字交付。$35/月 与 $150 终身 方案均含 BattlEye 维护。",
 							],
 							list: [
 								"<a href=\"/\">完整产品</a>",
@@ -15790,7 +16294,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "功能 2026 | ESP, Aimbot & Radar | Deadside Cheats",
 					description: "功能: ESP、soft aim、radar控制. 即时数字交付. undetected. Compare plans and guides at deadsidecheats.com.",
 					h1: "功能 — Full Feature List",
-					intro: "Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。功能 für Deadside auf Windows PC.",
+					intro: "Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。功能 für Deadside auf Windows PC.",
 					imageAlt: "Deadside Cheats features — ESP, soft aim, and radar screenshots",
 					galleryTitle: "游戏内效果",
 					ctaPrimary: "购买 Deadside Cheats",
@@ -15800,8 +16304,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "ESP & wallhack",
 							paragraphs: [
-								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。ESP、soft aim、radar控制",
-								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。ESP、soft aim、radar控制",
+								"通过 secure checkout 结账完成 即时数字交付。$35/月 与 $150 终身 方案均含 BattlEye 维护。",
 							],
 							list: [
 								"Player boxes & distance",
@@ -15812,8 +16316,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Aimbot & soft aim",
 							paragraphs: [
-								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。ESP、soft aim、radar控制",
-								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。ESP、soft aim、radar控制",
+								"通过 secure checkout 结账完成 即时数字交付。$35/月 与 $150 终身 方案均含 BattlEye 维护。",
 							],
 							list: [
 								"Smooth aim strength",
@@ -15824,8 +16328,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Radar",
 							paragraphs: [
-								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。ESP、soft aim、radar控制",
-								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。ESP、soft aim、radar控制",
+								"通过 secure checkout 结账完成 即时数字交付。$35/月 与 $150 终身 方案均含 BattlEye 维护。",
 							],
 							list: [
 								"Nearby enemy cues",
@@ -15836,8 +16340,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Explore related topics",
 							paragraphs: [
-								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。ESP、soft aim、radar控制",
-								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。ESP、soft aim、radar控制",
+								"通过 secure checkout 结账完成 即时数字交付。$35/月 与 $150 终身 方案均含 BattlEye 维护。",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">ESP & wallhack guide</a>",
@@ -15853,8 +16357,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Updates & support",
 							paragraphs: [
-								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。ESP、soft aim、radar控制",
-								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。ESP、soft aim、radar控制",
+								"通过 secure checkout 结账完成 即时数字交付。$35/月 与 $150 终身 方案均含 BattlEye 维护。",
 							],
 							list: [
 								"Status on the Status page",
@@ -15869,7 +16373,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "价格 — Monthly & Lifetime | $35/mo or $150",
 					description: "价格 — Monthly & Lifetime for Deadside survival & squad raids on Windows PC — 月付$35或lifetime $150许可证. 即时数字交付. Official deadside cheats at deadsidecheats.com.",
 					h1: "价格 — Monthly & Lifetime",
-					intro: "Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。商店 — $35/月 y $150终身.",
+					intro: "Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。商店 — $35/月 y $150 终身.",
 					imageAlt: "Deadside Cheats store plans for monthly and lifetime licenses",
 					galleryTitle: "游戏内效果",
 					ctaPrimary: "购买 Deadside Cheats",
@@ -15904,7 +16408,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "购买前",
 							paragraphs: [
 								"如需了解请阅读退款政策。携带订单 ID 联系支持。",
-								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过 secure checkout 结账完成 即时数字交付。$35/月 与 $150 终身 方案均含 BattlEye 维护。",
 							],
 							list: [
 								"<a href=\"/refund-policy/\">退款政策</a>",
@@ -15930,7 +16434,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "安装前",
 							paragraphs: [
 								"先购买方案。许可证通过邮件发送。",
-								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过 secure checkout 结账完成 即时数字交付。$35/月 与 $150 终身 方案均含 BattlEye 维护。",
 							],
 							list: [
 								"Windows 10 / 11 PC",
@@ -15942,7 +16446,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "安装步骤",
 							paragraphs: [
 								"以管理员身份运行 loader，粘贴许可证，启动 Deadside。",
-								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过 secure checkout 结账完成 即时数字交付。$35/月 与 $150 终身 方案均含 BattlEye 维护。",
 							],
 							list: [
 								"从交付邮件下载 loader",
@@ -15954,7 +16458,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "如果出现问题",
 							paragraphs: [
 								"补丁后查看状态。携带订单 ID 邮件 support@deadsidecheats.com。",
-								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过 secure checkout 结账完成 即时数字交付。$35/月 与 $150 终身 方案均含 BattlEye 维护。",
 							],
 							list: [
 								"<a href=\"/updates/\">Undetected作弊指南</a>",
@@ -15969,7 +16473,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "更新 — Live Status Log | BattlEye Updates | Deadside Cheats",
 					description: "更新 — Live Status Log for Deadside survival & squad raids on Windows PC — BattlEye补丁状态和rebuild说明. 即时数字交付. Official deadside cheats at deadsidecheats.com.",
 					h1: "状态",
-					intro: "BattlEye补丁后请查看Updates页面。无任何作弊保证永久undetected。",
+					intro: "BattlEye 补丁发布后请先查看 Updates 页面。没有任何外挂能保证永久 undetected 状态。",
 					imageAlt: "Deadside Cheats live status after BattlEye and game patches",
 					galleryTitle: "游戏内效果",
 					ctaPrimary: "购买 Deadside Cheats",
@@ -15992,7 +16496,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "补丁后",
 							paragraphs: [
 								"等待重建说明后再启动。大更新后不要用旧版本游玩。",
-								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过 secure checkout 结账完成 即时数字交付。$35/月 与 $150 终身 方案均含 BattlEye 维护。",
 							],
 							list: [
 								"阅读最新状态说明",
@@ -16004,7 +16508,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "重要",
 							paragraphs: [
 								"没有作弊能永远100%安全。保持更新并使用安全设置。",
-								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过 secure checkout 结账完成 即时数字交付。$35/月 与 $150 终身 方案均含 BattlEye 维护。",
 							],
 							list: [
 								"先查状态再玩",
@@ -16029,7 +16533,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "购买和交付",
 							paragraphs: [
 								"付款后通过邮件收到数字许可证。",
-								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过 secure checkout 结账完成 即时数字交付。$35/月 与 $150 终身 方案均含 BattlEye 维护。",
 							],
 							list: [
 								"结账后即时交付",
@@ -16041,7 +16545,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "安装和更新",
 							paragraphs: [
 								"购买后按安装指南操作。Deadside 或 BattlEye 重大补丁后查看状态。",
-								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过 secure checkout 结账完成 即时数字交付。$35/月 与 $150 终身 方案均含 BattlEye 维护。",
 							],
 							list: [
 								"<a href=\"/setup/\">安装指南</a>",
@@ -16052,7 +16556,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "退款",
 							paragraphs: [
 								"如需详情，购买前请阅读退款政策。",
-								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过 secure checkout 结账完成 即时数字交付。$35/月 与 $150 终身 方案均含 BattlEye 维护。",
 							],
 							list: [
 								"<a href=\"/refund-policy/\">退款政策</a>",
@@ -16077,7 +16581,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "如何联系我们",
 							paragraphs: [
 								"邮件 support@deadsidecheats.com，附上订单 ID 和简要问题说明。",
-								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过 secure checkout 结账完成 即时数字交付。$35/月 与 $150 终身 方案均含 BattlEye 维护。",
 							],
 							list: [
 								"收据中的订单 ID",
@@ -16089,7 +16593,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "更快获得答案",
 							paragraphs: [
 								"写信前先查 FAQ 和状态。许多安装问题已有答案。",
-								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过 secure checkout 结账完成 即时数字交付。$35/月 与 $150 终身 方案均含 BattlEye 维护。",
 							],
 							list: [
 								"<a href=\"/faq/\">常见问题</a>",
@@ -16104,7 +16608,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Undetected作弊 | BattlEye Safe Status",
 					description: "Undetected作弊 for Deadside survival & squad raids on Windows PC — BattlEye补丁后的undetected维护. 即时数字交付. undetected. Official deadside cheats at deadsidecheats.com.",
 					h1: "Undetected作弊 — BattlEye Safe Status",
-					intro: "Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。Undetected作弊. BattlEye补丁后的undetected维护.",
+					intro: "Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。Undetected作弊. BattlEye补丁后的undetected维护.",
 					imageAlt: "Deadside Cheats undetected status overview for Windows PC",
 					galleryTitle: "Undetected作弊",
 					ctaPrimary: "购买 Deadside Cheats",
@@ -16114,8 +16618,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Deadside Cheats中undetected的含义",
 							paragraphs: [
-								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。BattlEye补丁后的undetected维护",
-								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。BattlEye补丁后的undetected维护",
+								"通过 secure checkout 结账完成 即时数字交付。$35/月 与 $150 终身 方案均含 BattlEye 维护。",
 								"Anti-cheat technology is documented by <a href=\"https://www.battleye.com/\" target=\"_blank\" rel=\"noopener noreferrer\">BattlEye</a>; Deadside client updates ship through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Undetected status is an ongoing process tied to those releases.",
 							],
 						},
@@ -16150,7 +16654,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Deadside Wallhack | ESP Visibility",
 					description: "Deadside Wallhack for Deadside survival & squad raids on Windows PC — 玩家、尸体和距离的wallhack ESP. 即时数字交付. undetected. Official deadside cheats at deadsidecheats.com.",
 					h1: "Deadside Wallhack — ESP Visibility",
-					intro: "Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。Deadside Wallhack. 玩家、尸体和距离的wallhack ESP.",
+					intro: "Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。Deadside Wallhack. 玩家、尸体和距离的wallhack ESP.",
 					imageAlt: "deadside wallhack visibility through walls in a match",
 					galleryTitle: "Deadside Wallhack",
 					ctaPrimary: "购买 Deadside Cheats",
@@ -16160,15 +16664,15 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Wallhack ESP vs raw aim tools",
 							paragraphs: [
-								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。玩家、尸体和距离的wallhack ESP",
-								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。玩家、尸体和距离的wallhack ESP",
+								"通过 secure checkout 结账完成 即时数字交付。$35/月 与 $150 终身 方案均含 BattlEye 维护。",
 								"For the broader ESP keyword page see <a href=\"/deadside-esp/\">ESP和透视指南</a>; for combat assist see <a href=\"/deadside-aimbot/\">自瞄和软瞄准</a>.",
 							],
 						},
 						{
 							h2: "Map coverage for wallhack ESP",
 							paragraphs: [
-								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。玩家、尸体和距离的wallhack ESP",
+								"Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。玩家、尸体和距离的wallhack ESP",
 								"Season maps and POI changes are announced via <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Wallhack remains useful because it tracks entities, not fixed landmarks alone.",
 								"Pair wallhack awareness with <a href=\"/deadside-radar-hack/\">2D雷达覆盖</a> cues for flanks during arena corners and vertical fights.",
 							],
@@ -16199,7 +16703,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "显示内容",
 							paragraphs: [
 								"为独狼玩家和 matcher 提供可调范围的附近敌人提示。",
-								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过 secure checkout 结账完成 即时数字交付。$35/月 与 $150 终身 方案均含 BattlEye 维护。",
 							],
 							list: [
 								"侧翼感知",
@@ -16211,7 +16715,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "配合ESP",
 							paragraphs: [
 								"用 radar 发现尚未看到的威胁，推进时用 ESP。",
-								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过 secure checkout 结账完成 即时数字交付。$35/月 与 $150 终身 方案均含 BattlEye 维护。",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">ESP和透视指南</a>",
@@ -16226,7 +16730,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "BattlEye Bypass | Patch Maintenance",
 					description: "BattlEye Bypass for Deadside survival & squad raids on Windows PC — Deadside cheats的BattlEye更新处理方式. 即时数字交付. undetected. Official deadside cheats at",
 					h1: "BattlEye Bypass — Patch Maintenance",
-					intro: "Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。BattlEye Bypass. Deadside cheats的BattlEye更新处理方式.",
+					intro: "Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。BattlEye Bypass. Deadside cheats的BattlEye更新处理方式.",
 					imageAlt: "Deadside Cheats maintenance after a BattlEye patch",
 					galleryTitle: "BattlEye Bypass",
 					ctaPrimary: "购买 Deadside Cheats",
@@ -16238,7 +16742,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"BattlEye is Bad Pixel' anti-cheat for Deadside on PC (see <a href=\"https://www.battleye.com/\" target=\"_blank\" rel=\"noopener noreferrer\">BattlEye</a>). Security updates can affect ESP wallhack, radar, and Aimbot behavior — requiring maintenance rebuilds for undetected packages.",
 								"Deadside Cheats monitors BattlEye patch notes and Deadside seasonal updates from <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> to schedule module reviews.",
-								"BattlEye补丁后请查看Updates页面。无任何作弊保证永久undetected。",
+								"BattlEye 补丁发布后请先查看 Updates 页面。没有任何外挂能保证永久 undetected 状态。",
 							],
 						},
 						{
@@ -16260,15 +16764,15 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "HWID封禁、欺骗器与我们不出售的内容",
 							paragraphs: [
-								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。Deadside cheats的BattlEye更新处理方式",
+								"Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。Deadside cheats的BattlEye更新处理方式",
 								"If you have a prior HWID ban, no cheat package magically resets Bad Pixel’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/deadside-battleye-bypass/\">BattlEye FAQ</a> before buying anywhere.",
-								"BattlEye补丁后请查看Updates页面。无任何作弊保证永久undetected。",
+								"BattlEye 补丁发布后请先查看 Updates 页面。没有任何外挂能保证永久 undetected 状态。",
 							],
 						},
 						{
 							h2: "External architecture, stream proofing, and patch-day checklist",
 							paragraphs: [
-								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。Deadside cheats的BattlEye更新处理方式",
+								"Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。Deadside cheats的BattlEye更新处理方式",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">Undetected作弊指南</a>, (2) confirm BattlEye notes on <a href=\"/battleye-bypass/\">BattlEye维护</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
 								"Deep dives: <a href=\"/undetected-deadside-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-deadside-cheats-battleye/\">BattlEye reality blog</a> · <a href=\"/deadside-cheats/\">Deadside Cheats概览</a>.",
 							],
@@ -16280,7 +16784,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Deadside作弊 2026 | Buyer Guide",
 					description: "Deadside作弊 2026 for Deadside survival & squad raids on Windows PC — checkout前的2026 deadside cheats清单. 即时数字交付. undetected. Official deadside cheats at",
 					h1: "Deadside作弊 2026 — Buyer Guide",
-					intro: "Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。Deadside作弊 2026. checkout前的2026 deadside cheats清单.",
+					intro: "Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。Deadside作弊 2026. checkout前的2026 deadside cheats清单.",
 					imageAlt: "Deadside Cheats product overview for Deadside",
 					galleryTitle: "Deadside作弊 2026",
 					ctaPrimary: "购买 Deadside Cheats",
@@ -16290,7 +16794,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "2026年买家选择Deadside Cheats的原因",
 							paragraphs: [
-								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。checkout前的2026 deadside cheats清单",
+								"Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。checkout前的2026 deadside cheats清单",
 								"Track official season messaging on <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>, then use our <a href=\"/updates/\">Undetected作弊指南</a> for product rebuild timing.",
 								"Monthly ($35) and lifetime ($150) plans cover survival raids and squad sessions — see <a href=\"/pricing/\">商店</a>.",
 							],
@@ -16298,9 +16802,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Full feature stack for 2026 buyers",
 							paragraphs: [
-								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。checkout前的2026 deadside cheats清单",
+								"Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。checkout前的2026 deadside cheats清单",
 								"Deep links: <a href=\"/deadside-cheats/\">Deadside Cheats概览</a>, <a href=\"/deadside-esp/\">ESP和透视指南</a>, <a href=\"/deadside-aimbot/\">自瞄和软瞄准</a>, <a href=\"/deadside-esp/\">ESP和透视指南</a>, <a href=\"/deadside-radar-hack/\">2D雷达覆盖</a>, <a href=\"/deadside-cheats/\">Deadside Cheats概览</a>.",
-								"BattlEye补丁后请查看Updates页面。无任何作弊保证永久undetected。",
+								"BattlEye 补丁发布后请先查看 Updates 页面。没有任何外挂能保证永久 undetected 状态。",
 							],
 						},
 						{
@@ -16358,7 +16862,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "模块指南",
 							paragraphs: [
 								"结账前如需详细了解，每个工具都有专题页。",
-								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过 secure checkout 结账完成 即时数字交付。$35/月 与 $150 终身 方案均含 BattlEye 维护。",
 							],
 							list: [
 								"<a href=\"/deadside-esp/\">ESP和透视指南</a>",
@@ -16371,7 +16875,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Undetected状态和补丁",
 							paragraphs: [
 								"Deadside 使用 BattlEye。没有作弊能永远 undetected — 补丁后维护才是关键。每次 Deadside 或 BattlEye 更新后、进游戏前先查状态页。",
-								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过 secure checkout 结账完成 即时数字交付。$35/月 与 $150 终身 方案均含 BattlEye 维护。",
 							],
 							list: [
 								"<a href=\"/updates/\">Undetected作弊指南</a>",
@@ -16384,7 +16888,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "如何开始",
 							paragraphs: [
 								"在商店选择月付（$35）或 lifetime（$150）— 功能相同。结账后邮件收到许可证。按安装指南操作，重大补丁后查看状态。",
-								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"通过 secure checkout 结账完成 即时数字交付。$35/月 与 $150 终身 方案均含 BattlEye 维护。",
 							],
 							list: [
 								"<a href=\"/pricing/\">商店</a>",
@@ -16399,7 +16903,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Deadside作弊下载 | Instant Access",
 					description: "Deadside作弊下载 for Deadside survival & squad raids on Windows PC — 付款后的数字许可证下载. 即时数字交付. undetected. Official deadside cheats at deadsidecheats.com.",
 					h1: "Deadside作弊下载 — Instant Access",
-					intro: "Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。Deadside作弊下载. 付款后的数字许可证下载.",
+					intro: "Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。Deadside作弊下载. 付款后的数字许可证下载.",
 					imageAlt: "Deadside Cheats download and install delivery flow",
 					galleryTitle: "Deadside作弊下载",
 					ctaPrimary: "购买 Deadside Cheats",
@@ -16409,7 +16913,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "How deadside cheat download delivery works",
 							paragraphs: [
-								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。付款后的数字许可证下载",
+								"Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。付款后的数字许可证下载",
 								"Keep your order confirmation and license email ready for the <a href=\"/setup/\">安装指南</a> and Support requests.",
 								"If Bad Pixel services are down, check <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside on Steam</a> before assuming a download failure.",
 							],
@@ -16417,7 +16921,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "What your download unlocks",
 							paragraphs: [
-								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。付款后的数字许可证下载",
+								"Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。付款后的数字许可证下载",
 								"Monthly ($35) and lifetime ($150) plans share the same feature stack — compare options on the <a href=\"/pricing/\">商店</a>.",
 								"Feature detail: <a href=\"/features/\">所有功能</a>. Module pages: <a href=\"/deadside-esp/\">ESP和透视指南</a>, <a href=\"/deadside-aimbot/\">自瞄和软瞄准</a>.",
 							],
@@ -16437,7 +16941,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Deadside修改菜单 | In-Game Toggles",
 					description: "Deadside修改菜单 for Deadside survival & squad raids on Windows PC — 客户端内ESP和soft aim开关. 即时数字交付. undetected. Official deadside cheats at deadsidecheats.com.",
 					h1: "Deadside修改菜单 — In-Game Toggles",
-					intro: "Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。Deadside修改菜单. 客户端内ESP和soft aim开关.",
+					intro: "Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。Deadside修改菜单. 客户端内ESP和soft aim开关.",
 					imageAlt: "Deadside Cheats in-game menu controls",
 					galleryTitle: "Deadside修改菜单",
 					ctaPrimary: "购买 Deadside Cheats",
@@ -16447,15 +16951,15 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "What a Deadside mod menu controls",
 							paragraphs: [
-								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。客户端内ESP和soft aim开关",
-								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。客户端内ESP和soft aim开关",
+								"通过 secure checkout 结账完成 即时数字交付。$35/月 与 $150 终身 方案均含 BattlEye 维护。",
 								"Control deep-dives: <a href=\"/deadside-esp/\">ESP和透视指南</a>, <a href=\"/deadside-aimbot/\">自瞄和软瞄准</a>, <a href=\"/deadside-radar-hack/\">2D雷达覆盖</a>.",
 							],
 						},
 						{
 							h2: "Mod menu categories for survival raids and squad sessions",
 							paragraphs: [
-								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。客户端内ESP和soft aim开关",
+								"Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。客户端内ESP和soft aim开关",
 								"2D radar range and Aimbot smoothness adjust from the same mod menu — useful when <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> seasons change fight distances and mobility.",
 								"Soft tracking players should start with <a href=\"/deadside-aimbot/\">自瞄和软瞄准</a> profiles before aggressive FOV.",
 							],
@@ -16475,7 +16979,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Deadside Soft Aim | Smooth Aim Settings",
 					description: "Deadside Soft Aim for Deadside survival & squad raids on Windows PC — Windows PC的流畅soft aim设置. 即时数字交付. undetected. Official deadside cheats at",
 					h1: "Deadside Soft Aim — Smooth Aim Settings",
-					intro: "Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。Deadside Soft Aim. Windows PC的流畅soft aim设置.",
+					intro: "Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。Deadside Soft Aim. Windows PC的流畅soft aim设置.",
 					imageAlt: "Deadside soft aim FOV and smoothness settings",
 					galleryTitle: "Deadside Soft Aim",
 					ctaPrimary: "购买 Deadside Cheats",
@@ -16485,15 +16989,15 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "What Deadside soft aim means",
 							paragraphs: [
-								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。Windows PC的流畅soft aim设置",
-								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。Windows PC的流畅soft aim设置",
+								"通过 secure checkout 结账完成 即时数字交付。$35/月 与 $150 终身 方案均含 BattlEye 维护。",
 								"Full Aimbot documentation: <a href=\"/deadside-aimbot/\">自瞄和软瞄准</a>. Alternate wording: <a href=\"/deadside-aimbot/\">自瞄和软瞄准</a>.",
 							],
 						},
 						{
 							h2: "Soft aim profiles per weapon",
 							paragraphs: [
-								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。Windows PC的流畅soft aim设置",
+								"Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。Windows PC的流畅soft aim设置",
 								"Weapon TTKs shift with <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> balance patches — retune smoothness after major combat updates.",
 								"Soft aim ships alongside <a href=\"/deadside-esp/\">ESP和透视指南</a> and <a href=\"/deadside-radar-hack/\">2D雷达覆盖</a> overlays.",
 							],
@@ -16513,7 +17017,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "最佳Deadside作弊 | Buyer Checklist",
 					description: "最佳Deadside作弊 for Deadside survival & squad raids on Windows PC — 购买deadside cheats前应比较的内容. 即时数字交付. undetected. Official deadside cheats at deadsidecheats.com.",
 					h1: "最佳Deadside作弊 — Buyer Checklist",
-					intro: "Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。最佳Deadside作弊. 购买deadside cheats前应比较的内容.",
+					intro: "Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。最佳Deadside作弊. 购买deadside cheats前应比较的内容.",
 					imageAlt: "Deadside Cheats overview for Deadside on PC",
 					galleryTitle: "最佳Deadside作弊",
 					ctaPrimary: "购买 Deadside Cheats",
@@ -16523,15 +17027,15 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "What makes deadside cheats in 2026",
 							paragraphs: [
-								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。购买deadside cheats前应比较的内容",
-								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。购买deadside cheats前应比较的内容",
+								"通过 secure checkout 结账完成 即时数字交付。$35/月 与 $150 终身 方案均含 BattlEye 维护。",
 								"Verify the live game is healthy via <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside on Steam</a>, then confirm our <a href=\"/updates/\">Undetected作弊指南</a> note before you judge any package “best.”",
 							],
 						},
 						{
 							h2: "Best deadside cheats feature checklist",
 							paragraphs: [
-								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。购买deadside cheats前应比较的内容",
+								"Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。购买deadside cheats前应比较的内容",
 								"Review <a href=\"/features/\">所有功能</a>, <a href=\"/deadside-cheats/\">Deadside Cheats概览</a>, and <a href=\"/deadside-cheats/\">Deadside Cheats概览</a> before checkout — monthly ($35) and lifetime ($150) plans available.",
 								"Module pages worth opening: <a href=\"/deadside-esp/\">ESP和透视指南</a>, <a href=\"/deadside-aimbot/\">自瞄和软瞄准</a>, <a href=\"/deadside-cheats/\">Deadside Cheats概览</a>.",
 							],
@@ -16539,9 +17043,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Buying deadside cheats safely",
 							paragraphs: [
-								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。购买deadside cheats前应比较的内容",
-								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
-								"BattlEye补丁后请查看Updates页面。无任何作弊保证永久undetected。",
+								"Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。购买deadside cheats前应比较的内容",
+								"通过 secure checkout 结账完成 即时数字交付。$35/月 与 $150 终身 方案均含 BattlEye 维护。",
+								"BattlEye 补丁发布后请先查看 Updates 页面。没有任何外挂能保证永久 undetected 状态。",
 							],
 						},
 						{
@@ -16559,7 +17063,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Deadside自瞄 | Soft Aim Assist",
 					description: "Deadside自瞄 for Deadside survival & squad raids on Windows PC — Deadside的undetected Aimbot assist. 即时数字交付. undetected. Official deadside cheats at",
 					h1: "Deadside自瞄 — Soft Aim Assist",
-					intro: "Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。Deadside自瞄. Deadside的undetected Aimbot assist.",
+					intro: "Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。Deadside自瞄. Deadside的undetected Aimbot assist.",
 					imageAlt: "deadside aimbot controls and bone priority",
 					galleryTitle: "Deadside自瞄",
 					ctaPrimary: "购买 Deadside Cheats",
@@ -16569,16 +17073,16 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "deadside aimbot vs visibility tools",
 							paragraphs: [
-								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。Deadside的undetected Aimbot assist",
-								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。Deadside的undetected Aimbot assist",
+								"通过 secure checkout 结账完成 即时数字交付。$35/月 与 $150 终身 方案均含 BattlEye 维护。",
 								"Prefer softer tracking language? See <a href=\"/deadside-aimbot/\">自瞄和软瞄准</a>. Full settings: <a href=\"/deadside-aimbot/\">自瞄和软瞄准</a>.",
 							],
 						},
 						{
 							h2: "Aimbot controls and hotkeys",
 							paragraphs: [
-								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。Deadside的undetected Aimbot assist",
-								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。Deadside的undetected Aimbot assist",
+								"通过 secure checkout 结账完成 即时数字交付。$35/月 与 $150 终身 方案均含 BattlEye 维护。",
 								"Balance patches from <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> can change ideal FOV — retune after major weapon balance updates.",
 							],
 						},
@@ -16597,7 +17101,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "deadside esp | Boxes & Loot",
 					description: "deadside esp for Deadside survival & squad raids on Windows PC — ESP方框、尸体pin和距离. 即时数字交付. undetected. Official deadside cheats at deadsidecheats.com.",
 					h1: "deadside esp — Boxes & Loot",
-					intro: "Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。deadside esp. ESP方框、尸体pin和距离.",
+					intro: "Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。deadside esp. ESP方框、尸体pin和距离.",
 					imageAlt: "deadside esp boxes and loot markers",
 					galleryTitle: "deadside esp",
 					ctaPrimary: "购买 Deadside Cheats",
@@ -16607,16 +17111,16 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "What a deadside esp shows",
 							paragraphs: [
-								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。ESP方框、尸体pin和距离",
-								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。ESP方框、尸体pin和距离",
+								"通过 secure checkout 结账完成 即时数字交付。$35/月 与 $150 终身 方案均含 BattlEye 维护。",
 								"Canonical visibility guide: <a href=\"/deadside-esp/\">ESP和透视指南</a>. Wallhack wording: <a href=\"/deadside-esp/\">ESP和透视指南</a>.",
 							],
 						},
 						{
 							h2: "ESP categories for matches",
 							paragraphs: [
-								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。ESP方框、尸体pin和距离",
-								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。ESP方框、尸体pin和距离",
+								"通过 secure checkout 结账完成 即时数字交付。$35/月 与 $150 终身 方案均含 BattlEye 维护。",
 								"POI and loot changes publish through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a> — keep categories toggled to what the current map rewards.",
 							],
 						},
@@ -16635,7 +17139,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Deadside Unlock All | What It Means",
 					description: "Deadside Unlock All for Deadside survival & squad raids on Windows PC — unlock-all搜索 vs 真正的ESP和Aimbot工具. 即时数字交付. undetected. Official deadside cheats at",
 					h1: "Deadside Unlock All — What It Means",
-					intro: "Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。Deadside Unlock All. unlock-all搜索 vs 真正的ESP和Aimbot工具.",
+					intro: "Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。Deadside Unlock All. unlock-all搜索 vs 真正的ESP和Aimbot工具.",
 					imageAlt: "Deadside Cheats license features overview",
 					galleryTitle: "Deadside Unlock All",
 					ctaPrimary: "购买 Deadside Cheats",
@@ -16645,15 +17149,15 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "What Deadside unlock-all usually means",
 							paragraphs: [
-								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。unlock-all搜索 vs 真正的ESP和Aimbot工具",
-								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。unlock-all搜索 vs 真正的ESP和Aimbot工具",
+								"通过 secure checkout 结账完成 即时数字交付。$35/月 与 $150 终身 方案均含 BattlEye 维护。",
 								"Cosmetics and patch cycle progression items are sold through <a href=\"https://store.steampowered.com/app/895400/Deadside/\" target=\"_blank\" rel=\"noopener noreferrer\">Deadside</a>. Be wary of unlock-all downloads that promise free skins — they are often scams.",
 							],
 						},
 						{
 							h2: "Visibility tools vs unlock-all claims",
 							paragraphs: [
-								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。unlock-all搜索 vs 真正的ESP和Aimbot工具",
+								"Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。unlock-all搜索 vs 真正的ESP和Aimbot工具",
 								"For loadout planning during a match, loot and loot markers speed map rotations — see the <a href=\"/deadside-esp/\">ESP和透视指南</a> and <a href=\"/features/\">所有功能</a> pages for the full tool list.",
 								"Related: <a href=\"/deadside-cheats/\">Deadside Cheats概览</a> and <a href=\"/deadside-cheats/\">Deadside Cheats概览</a>.",
 							],
@@ -16673,7 +17177,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "隐私政策 | Deadside Cheats",
 					description: "隐私政策 Deadside Cheats — ESP wallhack、Aimbot, Windows PC. Compare plans and guides at deadsidecheats.com.",
 					h1: "隐私政策",
-					intro: "Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。隐私政策 适用于 deadsidecheats.com 和 Deadside 许可证。",
+					intro: "Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。隐私政策 适用于 deadsidecheats.com 和 Deadside 许可证。",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-aimbot.webp",
@@ -16684,21 +17188,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "我们收集的信息",
 							paragraphs: [
-								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。联系邮箱、secure checkout 订单参考及基本网站安全数据。",
+								"Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。联系邮箱、secure checkout 订单参考及基本网站安全数据。",
 								"支付详情由 处理 — 不存储在 deadsidecheats.com。",
 							],
 						},
 						{
 							h2: "数据使用方式",
 							paragraphs: [
-								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。支持回复、订单处理及必要时的法律合规。",
-								"BattlEye补丁后请查看Updates页面。无任何作弊保证永久undetected。",
+								"Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。支持回复、订单处理及必要时的法律合规。",
+								"BattlEye 补丁发布后请先查看 Updates 页面。没有任何外挂能保证永久 undetected 状态。",
 							],
 						},
 						{
 							h2: "您的权利",
 							paragraphs: [
-								"支持与法务：support@deadsidecheats.com",
+								"Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"通过 secure checkout 结账完成 即时数字交付。$35/月 与 $150 终身 方案均含 BattlEye 维护。",
+							],
+						},
+						{
+							h2: "Data retention",
+							paragraphs: [
+								"BattlEye 补丁发布后请先查看 Updates 页面。没有任何外挂能保证永久 undetected 状态。",
+								"Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Contact",
+							paragraphs: [
+								"如需支持或法务咨询，请联系 support@deadsidecheats.com。",
 								"邮箱: support@deadsidecheats.com",
 							],
 						},
@@ -16708,7 +17226,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "退款政策 | Deadside Cheats",
 					description: "退款政策 Deadside Cheats — ESP wallhack、Aimbot, Windows PC. Compare plans and guides at deadsidecheats.com.",
 					h1: "退款政策",
-					intro: "Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。退款政策 适用于 deadsidecheats.com 和 Deadside 许可证。",
+					intro: "Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。退款政策 适用于 deadsidecheats.com 和 Deadside 许可证。",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-session.webp",
@@ -16719,21 +17237,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "数字交付",
 							paragraphs: [
-								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。联系邮箱、secure checkout 订单参考及基本网站安全数据。",
-								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。联系邮箱、secure checkout 订单参考及基本网站安全数据。",
+								"通过 secure checkout 结账完成 即时数字交付。$35/月 与 $150 终身 方案均含 BattlEye 维护。",
 							],
 						},
 						{
 							h2: "退款批准",
 							paragraphs: [
-								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。支持回复、订单处理及必要时的法律合规。",
-								"BattlEye补丁后请查看Updates页面。无任何作弊保证永久undetected。",
+								"Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。支持回复、订单处理及必要时的法律合规。",
+								"BattlEye 补丁发布后请先查看 Updates 页面。没有任何外挂能保证永久 undetected 状态。",
 							],
 						},
 						{
 							h2: "如何申请",
 							paragraphs: [
-								"支持与法务：support@deadsidecheats.com",
+								"Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"通过 secure checkout 结账完成 即时数字交付。$35/月 与 $150 终身 方案均含 BattlEye 维护。",
+							],
+						},
+						{
+							h2: "Chargebacks and disputes",
+							paragraphs: [
+								"BattlEye 补丁发布后请先查看 Updates 页面。没有任何外挂能保证永久 undetected 状态。",
+								"Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Processing time",
+							paragraphs: [
+								"如需支持或法务咨询，请联系 support@deadsidecheats.com。",
 								"邮箱: support@deadsidecheats.com",
 							],
 						},
@@ -16743,7 +17275,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "使用条款 | Deadside Cheats",
 					description: "使用条款 Deadside Cheats — ESP wallhack、Aimbot, Windows PC. Compare plans and guides at deadsidecheats.com.",
 					h1: "使用条款",
-					intro: "Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。使用条款 适用于 deadsidecheats.com 和 Deadside 许可证。",
+					intro: "Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。使用条款 适用于 deadsidecheats.com 和 Deadside 许可证。",
 					imageAlt: "Deadside Cheats",
 					galleryTitle: "Deadside Cheats",
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
@@ -16754,21 +17286,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "接受条款",
 							paragraphs: [
-								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。联系邮箱、secure checkout 订单参考及基本网站安全数据。",
-								"通过secure checkout checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
+								"Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。联系邮箱、secure checkout 订单参考及基本网站安全数据。",
+								"通过 secure checkout 结账完成 即时数字交付。$35/月 与 $150 终身 方案均含 BattlEye 维护。",
 							],
 						},
 						{
 							h2: "风险免责声明",
 							paragraphs: [
-								"Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。支持回复、订单处理及必要时的法律合规。",
+								"Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。支持回复、订单处理及必要时的法律合规。",
 								"使用作弊可能违反 Deadside 团队条款 — 您承担所有封禁风险。",
 							],
 						},
 						{
 							h2: "政策变更",
 							paragraphs: [
-								"支持与法务：support@deadsidecheats.com",
+								"Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"通过 secure checkout 结账完成 即时数字交付。$35/月 与 $150 终身 方案均含 BattlEye 维护。",
+							],
+						},
+						{
+							h2: "Policy changes",
+							paragraphs: [
+								"BattlEye 补丁发布后请先查看 Updates 页面。没有任何外挂能保证永久 undetected 状态。",
+								"Deadside Cheats 为 Deadside Windows PC 提供 ESP wallhack、2D radar 与 deadside aimbot undetected 方案。Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Contact",
+							paragraphs: [
+								"如需支持或法务咨询，请联系 support@deadsidecheats.com。",
 								"邮箱: support@deadsidecheats.com",
 							],
 						},
@@ -17889,6 +18435,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "आपके अधिकार",
 							paragraphs: [
+								"Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, 2D radar और deadside aimbot undetected पैकेज देता है। Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
+							],
+						},
+						{
+							h2: "Data retention",
+							paragraphs: [
+								"BattlEye पैच के बाद Updates पेज देखें। कोई भी cheat permanent undetected गारंटी नहीं देता।",
+								"Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, 2D radar और deadside aimbot undetected पैकेज देता है। Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Contact",
+							paragraphs: [
 								"सहायता: support@deadsidecheats.com",
 								"ईमेल: support@deadsidecheats.com",
 							],
@@ -17924,6 +18484,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "कैसे अनुरोध करें",
 							paragraphs: [
+								"Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, 2D radar और deadside aimbot undetected पैकेज देता है। Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
+							],
+						},
+						{
+							h2: "Chargebacks and disputes",
+							paragraphs: [
+								"BattlEye पैच के बाद Updates पेज देखें। कोई भी cheat permanent undetected गारंटी नहीं देता।",
+								"Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, 2D radar और deadside aimbot undetected पैकेज देता है। Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Processing time",
+							paragraphs: [
 								"सहायता: support@deadsidecheats.com",
 								"ईमेल: support@deadsidecheats.com",
 							],
@@ -17958,6 +18532,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						},
 						{
 							h2: "नीति परिवर्तन",
+							paragraphs: [
+								"Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, 2D radar और deadside aimbot undetected पैकेज देता है। Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"secure checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
+							],
+						},
+						{
+							h2: "Policy changes",
+							paragraphs: [
+								"BattlEye पैच के बाद Updates पेज देखें। कोई भी cheat permanent undetected गारंटी नहीं देता।",
+								"Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, 2D radar और deadside aimbot undetected पैकेज देता है। Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Contact",
 							paragraphs: [
 								"सहायता: support@deadsidecheats.com",
 								"ईमेल: support@deadsidecheats.com",
@@ -19080,6 +19668,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Hak Anda",
 							paragraphs: [
+								"Deadside Cheats menyediakan ESP wallhack, 2D radar, dan deadside aimbot undetected untuk Deadside di PC Windows. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
+							],
+						},
+						{
+							h2: "Data retention",
+							paragraphs: [
+								"Periksa Updates setelah patch BattlEye. Tidak ada cheat yang menjamin undetected permanen.",
+								"Deadside Cheats menyediakan ESP wallhack, 2D radar, dan deadside aimbot undetected untuk Deadside di PC Windows. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Contact",
+							paragraphs: [
 								"support@deadsidecheats.com untuk dukungan dan legal.",
 								"Email: support@deadsidecheats.com",
 							],
@@ -19115,6 +19717,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Cara meminta",
 							paragraphs: [
+								"Deadside Cheats menyediakan ESP wallhack, 2D radar, dan deadside aimbot undetected untuk Deadside di PC Windows. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
+							],
+						},
+						{
+							h2: "Chargebacks and disputes",
+							paragraphs: [
+								"Periksa Updates setelah patch BattlEye. Tidak ada cheat yang menjamin undetected permanen.",
+								"Deadside Cheats menyediakan ESP wallhack, 2D radar, dan deadside aimbot undetected untuk Deadside di PC Windows. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Processing time",
+							paragraphs: [
 								"support@deadsidecheats.com untuk dukungan dan legal.",
 								"Email: support@deadsidecheats.com",
 							],
@@ -19149,6 +19765,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						},
 						{
 							h2: "Perubahan kebijakan",
+							paragraphs: [
+								"Deadside Cheats menyediakan ESP wallhack, 2D radar, dan deadside aimbot undetected untuk Deadside di PC Windows. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
+							],
+						},
+						{
+							h2: "Policy changes",
+							paragraphs: [
+								"Periksa Updates setelah patch BattlEye. Tidak ada cheat yang menjamin undetected permanen.",
+								"Deadside Cheats menyediakan ESP wallhack, 2D radar, dan deadside aimbot undetected untuk Deadside di PC Windows. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Contact",
 							paragraphs: [
 								"support@deadsidecheats.com untuk dukungan dan legal.",
 								"Email: support@deadsidecheats.com",
@@ -20271,6 +20901,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "สิทธิของคุณ",
 							paragraphs: [
+								"Deadside Cheats รวม ESP wallhack, 2D radar และ deadside aimbot แบบ undetected สำหรับ Deadside บน Windows PC Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
+							],
+						},
+						{
+							h2: "Data retention",
+							paragraphs: [
+								"ตรวจ Updates หลังแพตช์ BattlEye ไม่มี cheat รับประกัน undetected ถาวร",
+								"Deadside Cheats รวม ESP wallhack, 2D radar และ deadside aimbot แบบ undetected สำหรับ Deadside บน Windows PC Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Contact",
+							paragraphs: [
 								"support@deadsidecheats.com สำหรับการสนับสนุน",
 								"อีเมล: support@deadsidecheats.com",
 							],
@@ -20306,6 +20950,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "วิธีขอคืนเงิน",
 							paragraphs: [
+								"Deadside Cheats รวม ESP wallhack, 2D radar และ deadside aimbot แบบ undetected สำหรับ Deadside บน Windows PC Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
+							],
+						},
+						{
+							h2: "Chargebacks and disputes",
+							paragraphs: [
+								"ตรวจ Updates หลังแพตช์ BattlEye ไม่มี cheat รับประกัน undetected ถาวร",
+								"Deadside Cheats รวม ESP wallhack, 2D radar และ deadside aimbot แบบ undetected สำหรับ Deadside บน Windows PC Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Processing time",
+							paragraphs: [
 								"support@deadsidecheats.com สำหรับการสนับสนุน",
 								"อีเมล: support@deadsidecheats.com",
 							],
@@ -20340,6 +20998,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						},
 						{
 							h2: "การเปลี่ยนแปลงนโยบาย",
+							paragraphs: [
+								"Deadside Cheats รวม ESP wallhack, 2D radar และ deadside aimbot แบบ undetected สำหรับ Deadside บน Windows PC Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
+							],
+						},
+						{
+							h2: "Policy changes",
+							paragraphs: [
+								"ตรวจ Updates หลังแพตช์ BattlEye ไม่มี cheat รับประกัน undetected ถาวร",
+								"Deadside Cheats รวม ESP wallhack, 2D radar และ deadside aimbot แบบ undetected สำหรับ Deadside บน Windows PC Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Contact",
 							paragraphs: [
 								"support@deadsidecheats.com สำหรับการสนับสนุน",
 								"อีเมล: support@deadsidecheats.com",
@@ -21462,6 +22134,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Quyền của bạn",
 							paragraphs: [
+								"Deadside Cheats cung cấp ESP wallhack, 2D radar và deadside aimbot undetected cho Deadside trên PC Windows. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
+							],
+						},
+						{
+							h2: "Data retention",
+							paragraphs: [
+								"Kiểm tra Updates sau bản vá BattlEye. Không cheat nào đảm bảo undetected vĩnh viễn.",
+								"Deadside Cheats cung cấp ESP wallhack, 2D radar và deadside aimbot undetected cho Deadside trên PC Windows. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Contact",
+							paragraphs: [
 								"support@deadsidecheats.com cho hỗ trợ và pháp lý.",
 								"Email: support@deadsidecheats.com",
 							],
@@ -21497,6 +22183,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Cách yêu cầu",
 							paragraphs: [
+								"Deadside Cheats cung cấp ESP wallhack, 2D radar và deadside aimbot undetected cho Deadside trên PC Windows. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
+							],
+						},
+						{
+							h2: "Chargebacks and disputes",
+							paragraphs: [
+								"Kiểm tra Updates sau bản vá BattlEye. Không cheat nào đảm bảo undetected vĩnh viễn.",
+								"Deadside Cheats cung cấp ESP wallhack, 2D radar và deadside aimbot undetected cho Deadside trên PC Windows. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Processing time",
+							paragraphs: [
 								"support@deadsidecheats.com cho hỗ trợ và pháp lý.",
 								"Email: support@deadsidecheats.com",
 							],
@@ -21531,6 +22231,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						},
 						{
 							h2: "Thay đổi chính sách",
+							paragraphs: [
+								"Deadside Cheats cung cấp ESP wallhack, 2D radar và deadside aimbot undetected cho Deadside trên PC Windows. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
+							],
+						},
+						{
+							h2: "Policy changes",
+							paragraphs: [
+								"Kiểm tra Updates sau bản vá BattlEye. Không cheat nào đảm bảo undetected vĩnh viễn.",
+								"Deadside Cheats cung cấp ESP wallhack, 2D radar và deadside aimbot undetected cho Deadside trên PC Windows. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Contact",
 							paragraphs: [
 								"support@deadsidecheats.com cho hỗ trợ và pháp lý.",
 								"Email: support@deadsidecheats.com",
@@ -22653,6 +23367,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Ваші права",
 							paragraphs: [
+								"Deadside Cheats об'єднує ESP wallhack, 2D radar і deadside aimbot у undetected пакеті для Deadside на Windows PC. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
+							],
+						},
+						{
+							h2: "Data retention",
+							paragraphs: [
+								"Перевіряйте Updates після патчів BattlEye. Жоден чит не гарантує постійний undetected статус.",
+								"Deadside Cheats об'єднує ESP wallhack, 2D radar і deadside aimbot у undetected пакеті для Deadside на Windows PC. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Contact",
+							paragraphs: [
 								"support@deadsidecheats.com для підтримки та правових питань.",
 								"Email: support@deadsidecheats.com",
 							],
@@ -22688,6 +23416,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Як подати запит",
 							paragraphs: [
+								"Deadside Cheats об'єднує ESP wallhack, 2D radar і deadside aimbot у undetected пакеті для Deadside на Windows PC. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
+							],
+						},
+						{
+							h2: "Chargebacks and disputes",
+							paragraphs: [
+								"Перевіряйте Updates після патчів BattlEye. Жоден чит не гарантує постійний undetected статус.",
+								"Deadside Cheats об'єднує ESP wallhack, 2D radar і deadside aimbot у undetected пакеті для Deadside на Windows PC. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Processing time",
+							paragraphs: [
 								"support@deadsidecheats.com для підтримки та правових питань.",
 								"Email: support@deadsidecheats.com",
 							],
@@ -22722,6 +23464,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						},
 						{
 							h2: "Зміни політики",
+							paragraphs: [
+								"Deadside Cheats об'єднує ESP wallhack, 2D radar і deadside aimbot у undetected пакеті для Deadside на Windows PC. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
+							],
+						},
+						{
+							h2: "Policy changes",
+							paragraphs: [
+								"Перевіряйте Updates після патчів BattlEye. Жоден чит не гарантує постійний undetected статус.",
+								"Deadside Cheats об'єднує ESP wallhack, 2D radar і deadside aimbot у undetected пакеті для Deadside на Windows PC. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Contact",
 							paragraphs: [
 								"support@deadsidecheats.com для підтримки та правових питань.",
 								"Email: support@deadsidecheats.com",
@@ -23844,6 +24600,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Vaše práva",
 							paragraphs: [
+								"Deadside Cheats spojuje ESP wallhack, 2D radar a deadside aimbot jako undetected balíček pro Deadside na Windows PC. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
+							],
+						},
+						{
+							h2: "Data retention",
+							paragraphs: [
+								"Po patchích BattlEye zkontrolujte Updates. Žádný cheat negarantuje trvalý undetected stav.",
+								"Deadside Cheats spojuje ESP wallhack, 2D radar a deadside aimbot jako undetected balíček pro Deadside na Windows PC. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Contact",
+							paragraphs: [
 								"support@deadsidecheats.com pro podporu a právní dotazy.",
 								"E-mail: support@deadsidecheats.com",
 							],
@@ -23879,6 +24649,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Jak požádat",
 							paragraphs: [
+								"Deadside Cheats spojuje ESP wallhack, 2D radar a deadside aimbot jako undetected balíček pro Deadside na Windows PC. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
+							],
+						},
+						{
+							h2: "Chargebacks and disputes",
+							paragraphs: [
+								"Po patchích BattlEye zkontrolujte Updates. Žádný cheat negarantuje trvalý undetected stav.",
+								"Deadside Cheats spojuje ESP wallhack, 2D radar a deadside aimbot jako undetected balíček pro Deadside na Windows PC. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Processing time",
+							paragraphs: [
 								"support@deadsidecheats.com pro podporu a právní dotazy.",
 								"E-mail: support@deadsidecheats.com",
 							],
@@ -23913,6 +24697,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						},
 						{
 							h2: "Změny zásad",
+							paragraphs: [
+								"Deadside Cheats spojuje ESP wallhack, 2D radar a deadside aimbot jako undetected balíček pro Deadside na Windows PC. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
+							],
+						},
+						{
+							h2: "Policy changes",
+							paragraphs: [
+								"Po patchích BattlEye zkontrolujte Updates. Žádný cheat negarantuje trvalý undetected stav.",
+								"Deadside Cheats spojuje ESP wallhack, 2D radar a deadside aimbot jako undetected balíček pro Deadside na Windows PC. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Contact",
 							paragraphs: [
 								"support@deadsidecheats.com pro podporu a právní dotazy.",
 								"E-mail: support@deadsidecheats.com",
@@ -25035,6 +25833,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Drepturile tale",
 							paragraphs: [
+								"Deadside Cheats combină ESP wallhack, 2D radar și deadside aimbot undetected pentru Deadside pe PC Windows. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
+							],
+						},
+						{
+							h2: "Data retention",
+							paragraphs: [
+								"Verificați Updates după patch-uri BattlEye. Niciun cheat nu garantează undetected permanent.",
+								"Deadside Cheats combină ESP wallhack, 2D radar și deadside aimbot undetected pentru Deadside pe PC Windows. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Contact",
+							paragraphs: [
 								"support@deadsidecheats.com pentru suport și legal.",
 								"Email: support@deadsidecheats.com",
 							],
@@ -25070,6 +25882,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Cum să soliciți",
 							paragraphs: [
+								"Deadside Cheats combină ESP wallhack, 2D radar și deadside aimbot undetected pentru Deadside pe PC Windows. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
+							],
+						},
+						{
+							h2: "Chargebacks and disputes",
+							paragraphs: [
+								"Verificați Updates după patch-uri BattlEye. Niciun cheat nu garantează undetected permanent.",
+								"Deadside Cheats combină ESP wallhack, 2D radar și deadside aimbot undetected pentru Deadside pe PC Windows. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Processing time",
+							paragraphs: [
 								"support@deadsidecheats.com pentru suport și legal.",
 								"Email: support@deadsidecheats.com",
 							],
@@ -25104,6 +25930,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						},
 						{
 							h2: "Modificări de politică",
+							paragraphs: [
+								"Deadside Cheats combină ESP wallhack, 2D radar și deadside aimbot undetected pentru Deadside pe PC Windows. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
+							],
+						},
+						{
+							h2: "Policy changes",
+							paragraphs: [
+								"Verificați Updates după patch-uri BattlEye. Niciun cheat nu garantează undetected permanent.",
+								"Deadside Cheats combină ESP wallhack, 2D radar și deadside aimbot undetected pentru Deadside pe PC Windows. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Contact",
 							paragraphs: [
 								"support@deadsidecheats.com pentru suport și legal.",
 								"Email: support@deadsidecheats.com",
@@ -26226,6 +27066,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Dina rättigheter",
 							paragraphs: [
+								"Deadside Cheats kombinerar ESP wallhack, 2D radar och deadside aimbot som undetected paket för Deadside på Windows PC. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
+							],
+						},
+						{
+							h2: "Data retention",
+							paragraphs: [
+								"Kontrollera Updates ruster BattlEye-patchar. Ingen cheat garanterar permanent undetected status.",
+								"Deadside Cheats kombinerar ESP wallhack, 2D radar och deadside aimbot som undetected paket för Deadside på Windows PC. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Contact",
+							paragraphs: [
 								"support@deadsidecheats.com för support och juridik.",
 								"E-post: support@deadsidecheats.com",
 							],
@@ -26261,6 +27115,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Hur du begär",
 							paragraphs: [
+								"Deadside Cheats kombinerar ESP wallhack, 2D radar och deadside aimbot som undetected paket för Deadside på Windows PC. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
+							],
+						},
+						{
+							h2: "Chargebacks and disputes",
+							paragraphs: [
+								"Kontrollera Updates ruster BattlEye-patchar. Ingen cheat garanterar permanent undetected status.",
+								"Deadside Cheats kombinerar ESP wallhack, 2D radar och deadside aimbot som undetected paket för Deadside på Windows PC. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Processing time",
+							paragraphs: [
 								"support@deadsidecheats.com för support och juridik.",
 								"E-post: support@deadsidecheats.com",
 							],
@@ -26295,6 +27163,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						},
 						{
 							h2: "Policyändringar",
+							paragraphs: [
+								"Deadside Cheats kombinerar ESP wallhack, 2D radar och deadside aimbot som undetected paket för Deadside på Windows PC. Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.",
+								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
+							],
+						},
+						{
+							h2: "Policy changes",
+							paragraphs: [
+								"Kontrollera Updates ruster BattlEye-patchar. Ingen cheat garanterar permanent undetected status.",
+								"Deadside Cheats kombinerar ESP wallhack, 2D radar och deadside aimbot som undetected paket för Deadside på Windows PC. Contact support before payment disputes or chargebacks.",
+							],
+						},
+						{
+							h2: "Contact",
 							paragraphs: [
 								"support@deadsidecheats.com för support och juridik.",
 								"E-post: support@deadsidecheats.com",

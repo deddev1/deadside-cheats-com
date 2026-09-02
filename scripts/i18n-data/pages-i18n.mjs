@@ -306,6 +306,13 @@ export function buildLegal(locale, pageKey, kind) {
 	const L = LEGAL_I18N[locale];
 	const pageCopy = L?.[kind] ?? {};
 	const h2 = pageCopy.h2 ?? ['Information we collect', 'How we use data', 'Your rights'];
+	const extraH2 =
+		kind === 'refund'
+			? (pageCopy.extraH2 ?? ['Chargebacks and disputes', 'Processing time'])
+			: kind === 'privacy'
+				? (pageCopy.extraH2 ?? ['Data retention', 'Contact'])
+				: (pageCopy.extraH2 ?? ['Policy changes', 'Contact']);
+	const allH2 = [...h2, ...extraH2].slice(0, 5);
 	return {
 		title: clampTitle(stripZadeyoFromMeta(`${h1} | Deadside Cheats`)),
 		description: clampDesc(stripZadeyoFromMeta(`${h1} ${L?.descFor ?? 'for Deadside Cheats — ESP wallhack, Aimbot'}, ${p.win}.`)),
@@ -322,20 +329,22 @@ export function buildLegal(locale, pageKey, kind) {
 		ctaSecondaryHref: kind === 'privacy' ? '/terms/' : '/privacy-policy/',
 		sections: [
 			section(
-				h2[0],
+				allH2[0],
 				p.s1(L?.sec1p1 ?? 'Contact email, Zadeyo order references, and basic site security data.'),
 				kind === 'privacy'
 					? L?.privacy?.sec1p2 ?? 'Payment details are processed by Zadeyo checkout — not stored on deadsidecheats.com.'
 					: p.s2(),
 			),
 			section(
-				h2[1],
+				allH2[1],
 				p.s1(L?.privacy?.sec2p1 ?? 'Support responses, order resolution, and legal compliance when required.'),
 				kind === 'terms'
 					? L?.terms?.sec2p2 ?? 'Using cheats may violate Bad Pixel terms — you assume all ban risk.'
 					: p.s3(),
 			),
-			section(h2[2], p.legal(), `${L?.emailLabel ?? 'Email:'} support@deadsidecheats.com`),
+			section(allH2[2], p.s1(L?.legalExtra1 ?? 'Licenses cover ESP wallhack, 2D radar, and soft aim for Deadside on Windows PC.'), p.s2()),
+			section(allH2[3], p.s3(), p.s1(L?.legalExtra2 ?? 'Contact support before payment disputes or chargebacks.')),
+			section(allH2[4], p.legal(), `${L?.emailLabel ?? 'Email:'} support@deadsidecheats.com`),
 		],
 	};
 }

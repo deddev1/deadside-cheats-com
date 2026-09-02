@@ -37,6 +37,11 @@ function localizeSection(enSection, locale, pageKey, sectionIndex) {
 		return text;
 	});
 
+	while (paragraphs.length < 3) {
+		const gen = PARA_GENERATORS[paragraphs.length % PARA_GENERATORS.length];
+		paragraphs.push(gen(p, focus));
+	}
+
 	const localizedParagraphs = paragraphs.map((p) => fixDeadsideCopy(p));
 
 	const list = enSection.list?.map((item) => {

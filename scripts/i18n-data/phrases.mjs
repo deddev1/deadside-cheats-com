@@ -118,11 +118,11 @@ export const phrases = {
 	},
 	zh: {
 		buy: '购买 Deadside Cheats', undetected: 'undetected', maps: 'maps, compounds, and loot zones',
-		win: 'Windows PC', delivery: '即时数字交付', monthly: '$35/月', lifetime: '$150终身',
-		s1: (topic) => `${KW.product}为${KW.game}${phrases.zh.win}提供${KW.wallhack}、${KW.radar}和${KW.aimbot}${phrases.zh.undetected}套餐。${topic}`,
-		s2: () => `通过${KW.checkout} checkout${phrases.zh.delivery}。${phrases.zh.monthly}和${phrases.zh.lifetime}含${KW.eac}维护。`,
-		s3: () => `${KW.eac}补丁后请查看Updates页面。无任何作弊保证永久undetected。`,
-		legal: () => '支持与法务：support@deadsidecheats.com',
+		win: 'Windows PC', delivery: '即时数字交付', monthly: '$35/月', lifetime: '$150 终身',
+		s1: (topic) => `${KW.product} 为 ${KW.game} ${phrases.zh.win} 提供 ${KW.wallhack}、${KW.radar} 与 ${KW.aimbot} ${phrases.zh.undetected} 方案。${topic}`,
+		s2: () => `通过 ${KW.checkout} 结账完成 ${phrases.zh.delivery}。${phrases.zh.monthly} 与 ${phrases.zh.lifetime} 方案均含 ${KW.eac} 维护。`,
+		s3: () => `${KW.eac} 补丁发布后请先查看 Updates 页面。没有任何外挂能保证永久 undetected 状态。`,
+		legal: () => '如需支持或法务咨询，请联系 support@deadsidecheats.com。',
 	},
 	hi: {
 		buy: 'Deadside Cheats खरीदें', undetected: 'undetected', maps: 'maps, compounds, and loot zones',
