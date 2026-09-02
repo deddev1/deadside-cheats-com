@@ -80,7 +80,7 @@ export const simplePagesEn = {
 		],
 	},
 	pricing: {
-		title: 'Deadside Cheats Pricing | $35/mo or $150 Lifetime',
+		title: 'Deadside Cheats Pricing | $35/mo Lifetime',
 		description:
 			'Buy Deadside cheats — $35/month or $150 lifetime. ESP, aimbot & radar for survival & squad raids on PC. Same features, instant delivery.',
 		h1: 'Deadside Cheats Pricing — Monthly & Lifetime',
@@ -162,7 +162,7 @@ export const simplePagesEn = {
 		],
 	},
 	hacks: {
-		title: 'Deadside Cheats Guide | ESP, Aimbot & Radar PC',
+		title: 'Deadside Cheats Guide | ESP, Aimbot & Radar',
 		description:
 			'Deadside cheats guide — undetected ESP wallhack, soft aim, radar & BattlEye rebuilds for survival & squad raids on PC. Buy from $35 at deadsidecheat.com.',
 		h1: 'Deadside Cheats — Full Guide',
@@ -235,7 +235,7 @@ export const simplePagesEn = {
 		],
 	},
 	'deadside-esp': {
-		title: 'Deadside ESP | Wallhack & Player Boxes | Deadside Cheats',
+		title: 'Deadside ESP | Wallhack & Player Boxes',
 		description:
 			'Deadside ESP wallhack — player boxes, loot markers & distance for survival & squad raids on PC. Bundled with aimbot & radar at deadsidecheat.com.',
 		h1: 'Deadside ESP — Player Boxes & Wallhack',
@@ -276,7 +276,7 @@ export const simplePagesEn = {
 		],
 	},
 	'deadside-aimbot': {
-		title: 'Deadside Aimbot | Soft Aim & FOV Settings | Deadside Cheats',
+		title: 'Deadside Aimbot | Soft Aim & FOV Settings',
 		description:
 			'Deadside aimbot with soft aim, FOV & bone priority for ranked melee fights on PC. Undetected package with ESP & radar at deadsidecheat.com.',
 		h1: 'Deadside Aimbot — Soft Aim for Windows PC',
@@ -317,7 +317,7 @@ export const simplePagesEn = {
 		],
 	},
 	radar: {
-		title: 'Deadside 2D Radar | 2D Threat Map | Deadside Cheats',
+		title: 'Deadside 2D Radar | 2D Threat Map | Cheats',
 		description:
 			'2D radar for flank reads in Deadside survival & squad raids on PC. Bundled with ESP wallhack & soft aim in one license at deadsidecheat.com.',
 		h1: 'Deadside 2D Radar — 2D Threat Awareness',
@@ -417,7 +417,7 @@ export const simplePagesEn = {
 		],
 	},
 	faq: {
-		title: 'Deadside Cheats FAQ | ESP, Aimbot & BattlEye PC',
+		title: 'Deadside Cheats FAQ | ESP, Aimbot & BattlEye',
 		description:
 			'FAQ for Deadside cheats — delivery, setup, survival & squad raids use, BattlEye updates & pricing on PC. Answers at deadsidecheat.com before you buy.',
 		h1: 'Deadside Cheats FAQ — Common Questions',

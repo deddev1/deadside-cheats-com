@@ -830,7 +830,7 @@ export const enPages = {
 		],
 	},
 	privacy: {
-		title: 'Privacy Policy | Deadside Cheats Data & Cookies',
+		title: 'Privacy Policy | Deadside Cheats',
 		description:
 			'Privacy policy for Deadside Cheats at deadsidecheat.com. How we handle support emails, order data & checkout for deadside cheats licenses on PC.',
 		h1: 'Privacy Policy',
@@ -875,7 +875,7 @@ export const enPages = {
 		],
 	},
 	refund: {
-		title: 'Refund Policy | Deadside Cheats License Terms',
+		title: 'Refund Policy | Deadside Cheats',
 		description:
 			'Refund policy for Deadside Cheats at deadsidecheat.com. Eligibility, delivery terms & how to request a refund for ESP, aimbot & radar licenses.',
 		h1: 'Refund Policy',
@@ -915,7 +915,7 @@ export const enPages = {
 		],
 	},
 	terms: {
-		title: 'Terms of Use | Deadside Cheats License Agreement',
+		title: 'Terms of Use | Deadside Cheats',
 		description:
 			'Terms of use for deadsidecheat.com & Deadside Cheats licenses. Usage rules, BattlEye risk disclaimer & liability for PC deadside cheats.',
 		h1: 'Terms of Use',

@@ -251,10 +251,8 @@ function buildFeatures(locale, u, p) {
 	};
 }
 
-function simplePageTitle(h1, enTitle) {
-	const pipe = enTitle.indexOf('|');
-	const suffix = pipe >= 0 ? enTitle.slice(pipe).replace(/\s*Guide\s*$/i, '').trim() : '| Deadside Cheats';
-	return `${h1} ${suffix.startsWith('|') ? suffix : `| ${suffix}`}`.replace(/\s+/g, ' ').trim();
+function simplePageTitle(h1) {
+	return `${h1} | Deadside Cheats`.replace(/\s+/g, ' ').trim();
 }
 
 /** Build localized simple-page content for one locale. */
@@ -274,7 +272,7 @@ export function buildSimplePagesForLocale(locale) {
 		const h1 = modulePageH1(pageId, locale) ?? enPage.h1;
 		pages[pageId] = {
 			...enPage,
-			title: clampTitle(simplePageTitle(h1, enPage.title)),
+			title: clampTitle(simplePageTitle(h1)),
 			description: clampDesc(
 				stripZadeyoFromMeta(
 					`${h1} for Deadside survival & squad raids on Windows PC — ${focus}. ${p.delivery}. Official deadside cheats at deadsidecheat.com.`,

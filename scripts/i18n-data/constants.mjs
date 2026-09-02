@@ -73,62 +73,9 @@ export type LocaleUi = {
 export type PageId = 'home' | 'deadside-esp' | 'deadside-aimbot' | 'features' | 'pricing' | 'setup' | 'updates' | 'faq' | 'support' | 'undetected' | 'wallhack' | 'radar' | 'battleye' | 'cheats-2026' | 'hacks' | 'cheat-download' | 'mod-menu' | 'soft-aim' | 'best-cheats' | 'aimbot-hack' | 'esp-hack' | 'unlock-all' | 'privacy' | 'refund' | 'terms';
 `;
 
-const TITLE_TARGET_MIN = 45;
-const TITLE_MAX = 60;
-
-const TITLE_REPLACEMENTS = [
-	[/\| FAQ$/i, '| Deadside Cheats FAQ & Guide'],
-	[/^Privacy Policy \| Deadside Cheats$/i, 'Privacy Policy | Deadside Cheats Data & Cookies'],
-	[/^Refund Policy \| Deadside Cheats$/i, 'Refund Policy | Deadside Cheats License Terms'],
-	[/^Terms of Use \| Deadside Cheats$/i, 'Terms of Use | Deadside Cheats License Agreement'],
-	[/^Deadside Guides Hub \| Survival & Cheat Tips$/i, 'Deadside Guides Hub | Survival & Cheat Tips PC'],
-	[/^Deadside Cheats Pricing \| \$35\/mo or \$150$/i, 'Deadside Cheats Pricing | $35/mo or $150 Lifetime'],
-	[/^Deadside 2D [Rr]adar \| 2D Threat Map$/i, 'Deadside 2D Radar | 2D Threat Map | Deadside Cheats'],
-	[/^Deadside ESP \| Wallhack & Player Boxes$/i, 'Deadside ESP | Wallhack & Player Boxes | Deadside Cheats'],
-	[
-		/^Deadside Aimbot \| Soft Aim & FOV Settings$/i,
-		'Deadside Aimbot | Soft Aim & FOV Settings | Deadside Cheats',
-	],
-];
-
-/** Expand titles under Google's typical ~50–60 char SERP display range. */
-export function expandTitleMin(s) {
-	for (const [pattern, replacement] of TITLE_REPLACEMENTS) {
-		if (pattern.test(s)) {
-			const expanded = s.replace(pattern, replacement);
-			if (expanded.length >= TITLE_TARGET_MIN) return expanded;
-		}
-	}
-	if (s.length >= TITLE_TARGET_MIN) return s;
-
-	const suffixes = [
-		' | ESP, Aimbot & Radar',
-		' | Undetected PC Cheats',
-		' | Deadside Cheats Guide',
-		' | Windows PC License',
-	];
-	for (const suffix of suffixes) {
-		const candidate = `${s}${suffix}`;
-		if (candidate.length >= TITLE_TARGET_MIN && candidate.length <= TITLE_MAX) return candidate;
-	}
-
-	const tailSuffixes = [' for PC', ' 2026', ' Guide', ' PC', ' | PC'];
-	for (const suffix of tailSuffixes) {
-		const candidate = `${s}${suffix}`;
-		if (candidate.length >= TITLE_TARGET_MIN && candidate.length <= TITLE_MAX) return candidate;
-	}
-
-	if (s.length < 30) return `${s} | Deadside Cheats PC`;
-	return s;
-}
-
-/** Clamp meta strings to SEO limits without ugly ellipsis. */
+/** Generation-time title prep — final clamp/expand runs in Layout via seoPageTitle(). */
 export function clampTitle(s) {
-	const expanded = expandTitleMin(s);
-	if (expanded.length <= TITLE_MAX) return expanded;
-	const trimmed = expanded.slice(0, TITLE_MAX);
-	const lastSpace = trimmed.lastIndexOf(' ');
-	return lastSpace > 45 ? trimmed.slice(0, lastSpace) : trimmed.slice(0, TITLE_MAX);
+	return stripZadeyoFromMeta(s);
 }
 
 export function clampDesc(s) {

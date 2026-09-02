@@ -109,7 +109,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			},
 			pages: {
 				home: {
-					title: "Deadside Cheats 2026 | ESP, Aimbot & Radar for PC",
+					title: "Deadside Cheats 2026 | ESP, Aimbot & Radar PC",
 					description: "Buy undetected Deadside cheats — ESP, aimbot, wallhack & radar for survival & squad raids on PC. BattlEye updates included. From $35/month. Compare plans and",
 					h1: "Deadside Cheats",
 					intro: "Deadside Cheats is the undetected Deadside cheats and deadside cheats package for Windows PC — ESP wallhack, 2D radar, and soft aim with BattlEye maintenance after every major patch.",
@@ -143,7 +143,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-hero-1199w.webp",
 				},
 				"deadside-esp": {
-					title: "deadside esp | Wallhack & Player Boxes | Deadside Cheats",
+					title: "deadside esp | Wallhack & Player Boxes",
 					description: "deadside esp wallhack — player boxes, loot markers & distance for survival & squad raids on PC. Bundled with aimbot & radar at deadsidecheat.com.",
 					h1: "deadside esp — Player Boxes & Wallhack",
 					intro: "See players and loot through walls during Deadside matches. Part of the same Deadside Cheats license.",
@@ -193,7 +193,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				"deadside-aimbot": {
-					title: "deadside aimbot | Soft Aim & FOV Settings | Deadside Cheats",
+					title: "deadside aimbot | Soft Aim & FOV Settings",
 					description: "deadside aimbot with soft aim, FOV & bone priority for competitive raids melee fights on PC. Undetected package with ESP & radar at deadsidecheat.com.",
 					h1: "deadside aimbot — Soft Aim for Windows PC",
 					intro: "Soft aim and aim assist you can tune for Deadside. Included in the same Deadside Cheats license.",
@@ -323,7 +323,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				pricing: {
-					title: "Deadside Cheats Pricing | $35/mo or $150 Lifetime",
+					title: "Deadside Cheats Pricing | $35/mo Lifetime",
 					description: "Buy Deadside cheats — $35/month or $150 lifetime. ESP, aimbot & radar for survival & squad raids on PC. Same features, instant delivery.",
 					h1: "Deadside Cheats Pricing — Monthly & Lifetime",
 					intro: "Monthly and lifetime plans with the same ESP, soft aim, and radar stack.",
@@ -473,7 +473,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				faq: {
-					title: "Deadside Cheats FAQ | ESP, Aimbot & BattlEye PC",
+					title: "Deadside Cheats FAQ | ESP, Aimbot & BattlEye",
 					description: "FAQ for Deadside cheats — delivery, setup, survival & squad raids use, BattlEye updates & pricing on PC. Answers at deadsidecheat.com before you buy.",
 					h1: "Deadside Cheats FAQ — Common Questions",
 					intro: "Common questions about Deadside Cheats — delivery, setup, updates, and refunds.",
@@ -605,7 +605,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				wallhack: {
-					title: "Deadside Wallhack | ESP Boxes & Loot Markers for PC",
+					title: "Deadside Wallhack | ESP Boxes & Loot Markers",
 					description: "Deadside wallhack ESP with player boxes, loot markers & skeleton overlays on PC. Undetected deadside cheats with BattlEye rebuilds. deadsidecheat.com.",
 					h1: "Deadside Wallhack — ESP Boxes & Visibility",
 					intro: "Deadside wallhack ESP for Deadside — see players, loot, enemy players, and resource nodes through toggleable wallhack overlays built for survival raids and squad sessions.",
@@ -643,7 +643,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				radar: {
-					title: "Deadside 2D radar | 2D Threat Map | Deadside Cheats",
+					title: "Deadside 2D radar | 2D Threat Map | Cheats",
 					description: "2D radar for flank reads in Deadside survival & squad raids on PC. Bundled with ESP wallhack & soft aim in one license at deadsidecheat.com.",
 					h1: "Deadside 2D radar — 2D Threat Awareness",
 					intro: "A simple 2D radar for threats outside your view. Included in the same Deadside Cheats license.",
@@ -735,7 +735,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot.webp",
 				},
 				"cheats-2026": {
-					title: "Deadside Cheats 2026 | Undetected PC Cheats for PC",
+					title: "Deadside Cheats 2026 | Undetected PC Cheats Guide",
 					description: "Best Deadside cheats 2026 — undetected ESP, soft aim & 2D radar on PC. BattlEye maintenance & instant delivery at deadsidecheat.com. Windows PC license with",
 					h1: "Deadside Cheats 2026 — ESP, Soft Aim & Radar",
 					intro: "The 2026 Deadside Cheats package for Deadside — undetected ESP wallhack, 2D radar, and Aimbot with BattlEye maintenance, instant delivery, and Windows PC support.",
@@ -781,7 +781,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				hacks: {
-					title: "Deadside Cheats Guide | ESP, Aimbot & Radar PC",
+					title: "Deadside Cheats Guide | ESP, Aimbot & Radar",
 					description: "Deadside cheats guide — undetected ESP wallhack, soft aim, radar & BattlEye rebuilds for survival & squad raids on PC. Buy from $35 at deadsidecheat.com.",
 					h1: "Deadside Cheats — Full Guide",
 					intro: "Deadside cheats add ESP, radar, and soft aim on top of the base game. This page explains what deadside cheats are, what Deadside Cheats includes, how BattlEye maintenance works, and where to go next before you buy.",
@@ -1014,7 +1014,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				"aimbot-hack": {
-					title: "deadside aimbot | Soft Aim | Deadside Cheats for PC",
+					title: "deadside aimbot | Soft Aim | Deadside Cheats",
 					description: "deadside aimbot with soft aim, FOV & bone priority on PC. ESP wallhack & radar bundled. Undetected with BattlEye updates at deadsidecheat.com.",
 					h1: "deadside aimbot — Soft Aim Assist",
 					intro: "deadside aimbot tools for Deadside — smoothness, FOV, bone priority, per-weapon profiles, and hotkey toggles bundled with ESP wallhack and radar in one undetected license.",
@@ -1090,7 +1090,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				"unlock-all": {
-					title: "Deadside Unlock All | What It Really Means for PC",
+					title: "Deadside Unlock All | What It Really Means",
 					description: "Unlock-all vs real Deadside cheats — ESP wallhack, soft aim & radar on PC. What Deadside Cheats offers before you buy at deadsidecheat.com. Windows PC license",
 					h1: "Deadside Unlock All — What Players Search For",
 					intro: "Deadside unlock-all is a common search term for Deadside — this page clarifies what unlock-all tools claim versus the ESP wallhack, 2D radar, and Aimbot tools Deadside Cheats actually provides on Windows PC.",
@@ -1128,7 +1128,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				privacy: {
-					title: "Privacy Policy | Deadside Cheats Data & Cookies",
+					title: "Privacy Policy | Deadside Cheats",
 					description: "Privacy policy for Deadside Cheats at deadsidecheat.com. How we handle support emails, order data & checkout for deadside cheats licenses on PC.",
 					h1: "Privacy Policy",
 					intro: "How Deadside Cheats handles information when you browse deadsidecheat.com or contact support about a Deadside license.",
@@ -1189,7 +1189,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot.webp",
 				},
 				refund: {
-					title: "Refund Policy | Deadside Cheats License Terms",
+					title: "Refund Policy | Deadside Cheats",
 					description: "Refund policy for Deadside Cheats at deadsidecheat.com. Eligibility, delivery terms & how to request a refund for ESP, aimbot & radar licenses.",
 					h1: "Refund Policy",
 					intro: "Refund terms for Deadside Cheats licenses — ESP wallhack, 2D radar, and Aimbot packages purchased through checkout for Deadside.",
@@ -1238,7 +1238,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				terms: {
-					title: "Terms of Use | Deadside Cheats License Agreement",
+					title: "Terms of Use | Deadside Cheats",
 					description: "Terms of use for deadsidecheat.com & Deadside Cheats licenses. Usage rules, BattlEye risk disclaimer & liability for PC deadside cheats. Windows PC license",
 					h1: "Terms of Use",
 					intro: "Terms governing use of deadsidecheat.com and Deadside Cheats licenses for Deadside on Windows PC.",
@@ -1390,7 +1390,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				"deadside-esp": {
-					title: "ESP Deadside — Cajas de jugador y wallhack | Wallhack &",
+					title: "ESP Deadside — Cajas de jugador y wallhack | Deadside Cheats",
 					description: "ESP Deadside — Cajas de jugador y wallhack for Deadside survival & squad raids on Windows PC — cajas de jugador, marcadores de carcasa y overlays wallhack.",
 					h1: "ESP Deadside — Cajas de jugador y wallhack",
 					intro: "Ve jugadores y loot a través de las paredes durante matches de Deadside. Parte de la misma licencia Deadside Cheats.",
@@ -1440,7 +1440,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				"deadside-aimbot": {
-					title: "Aimbot Deadside — Controles soft aim | Soft Aim & FOV",
+					title: "Aimbot Deadside — Controles soft aim | Deadside Cheats",
 					description: "Aimbot Deadside — Controles soft aim for Deadside survival & squad raids on Windows PC — soft aim, FOV y perfiles Aimbot por especie. entrega digital",
 					h1: "Aimbot Deadside — Controles soft aim",
 					intro: "Soft aim y asistencia de puntería que puedes ajustar para Deadside. Incluido en la misma licencia Deadside Cheats.",
@@ -1570,7 +1570,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				pricing: {
-					title: "Precios — Mensual y de por vida | $35/mo or $150 Lifetime",
+					title: "Precios — Mensual y de por vida | Deadside Cheats",
 					description: "Precios — Mensual y de por vida for Deadside survival & squad raids on Windows PC — licencias de $35 mensuales o $150 de por vida. entrega digital instantánea.",
 					h1: "Precios — Mensual y de por vida",
 					intro: "Deadside Cheats ofrece ESP wallhack, 2D radar y deadside aimbot indetectables para Deadside en Windows PC. Tienda — $35/mes y $150 de por vida.",
@@ -1620,7 +1620,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				setup: {
-					title: "Instalación — Guía de instalación PC | Windows PC Install",
+					title: "Instalación — Guía de instalación PC | Deadside Cheats",
 					description: "Instalación — Guía de instalación PC for Deadside survival & squad raids on Windows PC — activación en Windows PC y configuración del primer arranque. entrega",
 					h1: "Instalación",
 					intro: "Instala y activa tu licencia en Windows 10 u 11 antes de tu primer match.",
@@ -1670,7 +1670,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				updates: {
-					title: "Actualizaciones — Registro de estado | BattlEye Updates |",
+					title: "Actualizaciones — Registro de estado | Deadside Cheats",
 					description: "Actualizaciones — Registro de estado for Deadside survival & squad raids on Windows PC — estado de parches BattlEye y notas de reconstrucción. entrega digital",
 					h1: "Estado",
 					intro: "Consulta la página Updates antes de jugar tras parches de BattlEye. Ningún cheat garantiza estado indetectable permanente.",
@@ -1719,7 +1719,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				faq: {
-					title: "FAQ — Preguntas frecuentes | ESP, Aimbot & BattlEye PC",
+					title: "FAQ — Preguntas frecuentes | Deadside Cheats",
 					description: "FAQ — Preguntas frecuentes for Deadside survival & squad raids on Windows PC — preguntas sobre ESP, soft aim, entrega y BattlEye. entrega digital instantánea.",
 					h1: "FAQ — Preguntas frecuentes",
 					intro: "Preguntas frecuentes sobre Deadside Cheats — entrega, instalación, actualizaciones y reembolsos.",
@@ -1767,7 +1767,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				support: {
-					title: "Soporte — Ayuda y contacto | License & Setup Help",
+					title: "Soporte — Ayuda y contacto | Deadside Cheats",
 					description: "Soporte — Ayuda y contacto for Deadside survival & squad raids on Windows PC — ayuda con pedidos y contacto de soporte de licencias. entrega digital",
 					h1: "Soporte",
 					intro: "Obtén ayuda con licencias, instalación y facturación de Deadside Cheats en Windows PC.",
@@ -1805,7 +1805,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				undetected: {
-					title: "Trucos indetectables | Estado indetectable for PC",
+					title: "Trucos indetectables | Estado indetectable",
 					description: "Trucos indetectables for Deadside survival & squad raids on Windows PC — mantenimiento undetected tras parches BattlEye. entrega digital instantánea.",
 					h1: "Trucos indetectables — Estado indetectable",
 					intro: "Deadside Cheats ofrece ESP wallhack, 2D radar y deadside aimbot indetectables para Deadside en Windows PC. Trucos indetectables. mantenimiento undetected tras parches BattlEye.",
@@ -1851,7 +1851,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				wallhack: {
-					title: "Deadside Wallhack | Visibilidad ESP | ESP, Aimbot & Radar",
+					title: "Deadside Wallhack | Visibilidad ESP",
 					description: "Deadside Wallhack for Deadside survival & squad raids on Windows PC — wallhack ESP para jugadores, loot y distancia. entrega digital instantánea.",
 					h1: "Deadside Wallhack — Visibilidad ESP",
 					intro: "Deadside Cheats ofrece ESP wallhack, 2D radar y deadside aimbot indetectables para Deadside en Windows PC. Deadside Wallhack. wallhack ESP para jugadores, loot y distancia.",
@@ -1889,7 +1889,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				radar: {
-					title: "2D radar — Radar 2D de amenazas | 2D Threat Map | Deadside",
+					title: "2D radar — Radar 2D de amenazas | Deadside Cheats",
 					description: "2D radar — Radar 2D de amenazas for Deadside survival & squad raids on Windows PC — señales de radar 2D para flancos y rotaciones. entrega digital instantánea.",
 					h1: "2D radar — Radar 2D de amenazas",
 					intro: "Un radar 2D simple para amenazas fuera de tu vista. Incluido en la misma licencia Deadside Cheats.",
@@ -1927,7 +1927,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				battleye: {
-					title: "Bypass BattlEye | Mantenimiento de parches for PC",
+					title: "Bypass BattlEye | Mantenimiento de parches",
 					description: "Bypass BattlEye for Deadside survival & squad raids on Windows PC — cómo se gestionan las actualizaciones BattlEye para Deadside cheats. entrega digital",
 					h1: "Bypass BattlEye — Mantenimiento de parches",
 					intro: "Deadside Cheats ofrece ESP wallhack, 2D radar y deadside aimbot indetectables para Deadside en Windows PC. Bypass BattlEye. cómo se gestionan las actualizaciones BattlEye para Deadside cheats.",
@@ -1981,7 +1981,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot.webp",
 				},
 				"cheats-2026": {
-					title: "Trucos Deadside 2026 | Guía del comprador for PC",
+					title: "Trucos Deadside 2026 | Guía del comprador",
 					description: "Trucos Deadside 2026 for Deadside survival & squad raids on Windows PC — checklist de deadside cheats 2026 antes del checkout. entrega digital instantánea.",
 					h1: "Trucos Deadside 2026 — Guía del comprador",
 					intro: "Deadside Cheats ofrece ESP wallhack, 2D radar y deadside aimbot indetectables para Deadside en Windows PC. Trucos Deadside 2026. checklist de deadside cheats 2026 antes del checkout.",
@@ -2027,7 +2027,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				hacks: {
-					title: "Trucos Deadside — Guía ESP y Aimbot | ESP, Aimbot & Radar PC",
+					title: "Trucos Deadside — Guía ESP y Aimbot | Deadside Cheats",
 					description: "Trucos Deadside — Guía ESP y Aimbot for Deadside survival & squad raids on Windows PC — pilar Deadside Cheats para ESP y Aimbot. entrega digital instantánea.",
 					h1: "Deadside Cheats — Guía completa",
 					intro: "Los trucos de Deadside añaden ESP, radar y soft aim sobre el juego base. Esta página explica qué son los deadside cheats, qué incluye Deadside Cheats, cómo funciona el mantenimiento de BattlEye y dónde ir antes de comprar.",
@@ -2138,7 +2138,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				"mod-menu": {
-					title: "Menú mod Deadside | Controles en partida for PC",
+					title: "Menú mod Deadside | Controles en partida",
 					description: "Menú mod Deadside for Deadside survival & squad raids on Windows PC — toggles de ESP y soft aim en el cliente. entrega digital instantánea. indetectables.",
 					h1: "Menú mod Deadside — Controles en partida",
 					intro: "Deadside Cheats ofrece ESP wallhack, 2D radar y deadside aimbot indetectables para Deadside en Windows PC. Menú mod Deadside. toggles de ESP y soft aim en el cliente.",
@@ -2176,7 +2176,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				"soft-aim": {
-					title: "Soft aim Deadside | Ajustes soft aim | ESP, Aimbot & Radar",
+					title: "Soft aim Deadside | Ajustes soft aim",
 					description: "Soft aim Deadside for Deadside survival & squad raids on Windows PC — ajustes suaves de soft aim para Windows PC. entrega digital instantánea. indetectables.",
 					h1: "Soft aim Deadside — Ajustes soft aim",
 					intro: "Deadside Cheats ofrece ESP wallhack, 2D radar y deadside aimbot indetectables para Deadside en Windows PC. Soft aim Deadside. ajustes suaves de soft aim para Windows PC.",
@@ -2214,7 +2214,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				"best-cheats": {
-					title: "Mejores trucos Deadside | Lista de compra for PC",
+					title: "Mejores trucos Deadside | Lista de compra",
 					description: "Mejores trucos Deadside for Deadside survival & squad raids on Windows PC — qué comparar antes de comprar deadside cheats. entrega digital instantánea.",
 					h1: "Mejores trucos Deadside — Lista de compra",
 					intro: "Deadside Cheats ofrece ESP wallhack, 2D radar y deadside aimbot indetectables para Deadside en Windows PC. Mejores trucos Deadside. qué comparar antes de comprar deadside cheats.",
@@ -2260,7 +2260,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				"aimbot-hack": {
-					title: "Aimbot Deadside | Asistencia soft aim | ESP, Aimbot & Radar",
+					title: "Aimbot Deadside | Asistencia soft aim",
 					description: "Aimbot Deadside for Deadside survival & squad raids on Windows PC — undetected deadside aimbot assist. entrega digital instantánea. indetectables. Official",
 					h1: "Aimbot Deadside — Asistencia soft aim",
 					intro: "Deadside Cheats ofrece ESP wallhack, 2D radar y deadside aimbot indetectables para Deadside en Windows PC. Aimbot Deadside. undetected deadside aimbot assist.",
@@ -2298,7 +2298,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				"esp-hack": {
-					title: "ESP Deadside | Cajas y loot | ESP, Aimbot & Radar",
+					title: "ESP Deadside | Cajas y loot",
 					description: "ESP Deadside for Deadside survival & squad raids on Windows PC — cajas ESP, pins de carcasa y distancia. entrega digital instantánea. indetectables. Official",
 					h1: "ESP Deadside — Cajas y loot",
 					intro: "Deadside Cheats ofrece ESP wallhack, 2D radar y deadside aimbot indetectables para Deadside en Windows PC. ESP Deadside. cajas ESP, pins de carcasa y distancia.",
@@ -2336,7 +2336,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				"unlock-all": {
-					title: "Unlock all Deadside | Qué significa | ESP, Aimbot & Radar",
+					title: "Unlock all Deadside | Qué significa",
 					description: "Unlock all Deadside for Deadside survival & squad raids on Windows PC — búsquedas unlock-all vs herramientas reales ESP y Aimbot. entrega digital instantánea.",
 					h1: "Unlock all Deadside — Qué significa",
 					intro: "Deadside Cheats ofrece ESP wallhack, 2D radar y deadside aimbot indetectables para Deadside en Windows PC. Unlock all Deadside. búsquedas unlock-all vs herramientas reales ESP y Aimbot.",
@@ -2374,7 +2374,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				privacy: {
-					title: "Política de privacidad | Deadside Cheats Legal",
+					title: "Política de privacidad | Deadside Cheats",
 					description: "Política de privacidad para Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Política de privacidad",
 					intro: "Deadside Cheats ofrece ESP wallhack, 2D radar y deadside aimbot indetectables para Deadside en Windows PC. Política de privacidad para deadsidecheat.com y licencias de Deadside.",
@@ -2409,7 +2409,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				refund: {
-					title: "Política de reembolso | Deadside Cheats Legal",
+					title: "Política de reembolso | Deadside Cheats",
 					description: "Política de reembolso para Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Política de reembolso",
 					intro: "Deadside Cheats ofrece ESP wallhack, 2D radar y deadside aimbot indetectables para Deadside en Windows PC. Política de reembolso para deadsidecheat.com y licencias de Deadside.",
@@ -2444,7 +2444,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				terms: {
-					title: "Términos de uso | Deadside Cheats Legal | Windows PC License",
+					title: "Términos de uso | Deadside Cheats",
 					description: "Términos de uso para Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Términos de uso",
 					intro: "Deadside Cheats ofrece ESP wallhack, 2D radar y deadside aimbot indetectables para Deadside en Windows PC. Términos de uso para deadsidecheat.com y licencias de Deadside.",
@@ -2582,7 +2582,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				"deadside-esp": {
-					title: "ESP Deadside — Boîtes joueur et wallhack | Wallhack &",
+					title: "ESP Deadside — Boîtes joueur et wallhack | Deadside Cheats",
 					description: "ESP Deadside — Boîtes joueur et wallhack for Deadside survival & squad raids on Windows PC — boîtes joueur, marqueurs de loote et overlays wallhack. livraison",
 					h1: "ESP Deadside — Boîtes joueur et wallhack",
 					intro: "Voyez joueurs et loot à travers les murs pendant les matches Deadside. Inclus dans la même licence Deadside Cheats.",
@@ -2632,7 +2632,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				"deadside-aimbot": {
-					title: "Aimbot Deadside — Contrôles soft aim | Soft Aim & FOV",
+					title: "Aimbot Deadside — Contrôles soft aim | Deadside Cheats",
 					description: "Aimbot Deadside — Contrôles soft aim for Deadside survival & squad raids on Windows PC — soft aim, FOV et profils Aimbot par espèce. livraison numérique",
 					h1: "Aimbot Deadside — Contrôles soft aim",
 					intro: "Soft aim et aide à la visée réglables pour Deadside. Inclus dans la même licence Deadside Cheats.",
@@ -2762,7 +2762,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				pricing: {
-					title: "Tarifs — Mensuel et à vie | $35/mo or $150 Lifetime",
+					title: "Tarifs — Mensuel et à vie | Deadside Cheats",
 					description: "Tarifs — Mensuel et à vie for Deadside survival & squad raids on Windows PC — licences à $35/mois ou $150 à vie. livraison numérique instantanée. Official",
 					h1: "Tarifs — Mensuel et à vie",
 					intro: "Deadside Cheats combine ESP wallhack, 2D radar et deadside aimbot indétectables pour Deadside sur PC Windows. Boutique — 35 $/mois y 150 $ à vie.",
@@ -2812,7 +2812,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				setup: {
-					title: "Installation — Guide d'installation PC | Windows PC Install",
+					title: "Installation — Guide d'installation PC | Deadside Cheats",
 					description: "Installation — Guide d'installation PC for Deadside survival & squad raids on Windows PC — activation Windows PC et configuration au premier lancement.",
 					h1: "Installation",
 					intro: "Installez et activez votre licence sur Windows 10 ou 11 avant votre premier match.",
@@ -2862,7 +2862,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				updates: {
-					title: "Mises à jour — Journal de statut | BattlEye Updates |",
+					title: "Mises à jour — Journal de statut | Deadside Cheats",
 					description: "Mises à jour — Journal de statut for Deadside survival & squad raids on Windows PC — statut des patchs BattlEye et notes de rebuild. livraison numérique",
 					h1: "Statut",
 					intro: "Consultez Updates après les patchs BattlEye. Aucune triche ne garantit un statut indétectable permanent.",
@@ -2911,7 +2911,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				faq: {
-					title: "FAQ — Questions fréquentes | ESP, Aimbot & BattlEye PC",
+					title: "FAQ — Questions fréquentes | Deadside Cheats",
 					description: "FAQ — Questions fréquentes for Deadside survival & squad raids on Windows PC — questions ESP, soft aim, livraison et BattlEye. livraison numérique instantanée.",
 					h1: "FAQ — Questions fréquentes",
 					intro: "Questions fréquentes sur Deadside Cheats — livraison, installation, mises à jour et remboursements.",
@@ -2959,7 +2959,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				support: {
-					title: "Support — Aide et contact | License & Setup Help",
+					title: "Support — Aide et contact | Deadside Cheats",
 					description: "Support — Aide et contact for Deadside survival & squad raids on Windows PC — aide commande et contact support licence. livraison numérique instantanée.",
 					h1: "Support",
 					intro: "Obtenez de l'aide pour licences, installation et facturation Deadside Cheats sur PC Windows.",
@@ -2997,7 +2997,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				undetected: {
-					title: "Triches indétectables | Statut indétectable for PC",
+					title: "Triches indétectables | Statut indétectable",
 					description: "Triches indétectables for Deadside survival & squad raids on Windows PC — maintenance undetected après patchs BattlEye. livraison numérique instantanée.",
 					h1: "Triches indétectables — Statut indétectable",
 					intro: "Deadside Cheats combine ESP wallhack, 2D radar et deadside aimbot indétectables pour Deadside sur PC Windows. Triches indétectables. maintenance undetected après patchs BattlEye.",
@@ -3043,7 +3043,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				wallhack: {
-					title: "Deadside Wallhack | Visibilité ESP | ESP, Aimbot & Radar",
+					title: "Deadside Wallhack | Visibilité ESP",
 					description: "Deadside Wallhack for Deadside survival & squad raids on Windows PC — wallhack ESP pour joueurs, loot et distance. livraison numérique instantanée.",
 					h1: "Deadside Wallhack — Visibilité ESP",
 					intro: "Deadside Cheats combine ESP wallhack, 2D radar et deadside aimbot indétectables pour Deadside sur PC Windows. Deadside Wallhack. wallhack ESP pour joueurs, loot et distance.",
@@ -3081,7 +3081,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				radar: {
-					title: "2D radar — Radar 2D des menaces | 2D Threat Map | Deadside",
+					title: "2D radar — Radar 2D des menaces | Deadside Cheats",
 					description: "2D radar — Radar 2D des menaces for Deadside survival & squad raids on Windows PC — indices radar 2D pour flancs et rotations. livraison numérique instantanée.",
 					h1: "2D radar — Radar 2D des menaces",
 					intro: "Un radar 2D simple pour les menaces hors champ. Inclus dans la même licence Deadside Cheats.",
@@ -3119,7 +3119,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				battleye: {
-					title: "Bypass BattlEye | Maintenance des patchs for PC",
+					title: "Bypass BattlEye | Maintenance des patchs",
 					description: "Bypass BattlEye for Deadside survival & squad raids on Windows PC — gestion des mises à jour BattlEye pour Deadside cheats. livraison numérique instantanée.",
 					h1: "Bypass BattlEye — Maintenance des patchs",
 					intro: "Deadside Cheats combine ESP wallhack, 2D radar et deadside aimbot indétectables pour Deadside sur PC Windows. Bypass BattlEye. gestion des mises à jour BattlEye pour Deadside cheats.",
@@ -3173,7 +3173,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot.webp",
 				},
 				"cheats-2026": {
-					title: "Triches Deadside 2026 | Guide acheteur | ESP, Aimbot & Radar",
+					title: "Triches Deadside 2026 | Guide acheteur",
 					description: "Triches Deadside 2026 for Deadside survival & squad raids on Windows PC — checklist deadside cheats 2026 avant checkout. livraison numérique instantanée.",
 					h1: "Triches Deadside 2026 — Guide acheteur",
 					intro: "Deadside Cheats combine ESP wallhack, 2D radar et deadside aimbot indétectables pour Deadside sur PC Windows. Triches Deadside 2026. checklist deadside cheats 2026 avant checkout.",
@@ -3219,7 +3219,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				hacks: {
-					title: "Triches Deadside — Guide ESP et Aimbot | ESP, Aimbot &",
+					title: "Triches Deadside — Guide ESP et Aimbot | Deadside Cheats",
 					description: "Triches Deadside — Guide ESP et Aimbot for Deadside survival & squad raids on Windows PC — pilier Deadside Cheats pour ESP et Aimbot. livraison numérique",
 					h1: "Deadside Cheats — Guide complet",
 					intro: "Les triches Deadside ajoutent ESP, radar et soft aim au jeu de base. Cette page explique ce que sont les deadside cheats, ce que Deadside Cheats inclut, la maintenance BattlEye et où aller avant d'acheter.",
@@ -3330,7 +3330,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				"mod-menu": {
-					title: "Menu mod Deadside | Contrôles en jeu | ESP, Aimbot & Radar",
+					title: "Menu mod Deadside | Contrôles en jeu",
 					description: "Menu mod Deadside for Deadside survival & squad raids on Windows PC — toggles ESP et soft aim in-client. livraison numérique instantanée. indétectables.",
 					h1: "Menu mod Deadside — Contrôles en jeu",
 					intro: "Deadside Cheats combine ESP wallhack, 2D radar et deadside aimbot indétectables pour Deadside sur PC Windows. Menu mod Deadside. toggles ESP et soft aim in-client.",
@@ -3368,7 +3368,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				"soft-aim": {
-					title: "Soft aim Deadside | Réglages soft aim | ESP, Aimbot & Radar",
+					title: "Soft aim Deadside | Réglages soft aim",
 					description: "Soft aim Deadside for Deadside survival & squad raids on Windows PC — réglages soft aim fluides pour Windows PC. livraison numérique instantanée.",
 					h1: "Soft aim Deadside — Réglages soft aim",
 					intro: "Deadside Cheats combine ESP wallhack, 2D radar et deadside aimbot indétectables pour Deadside sur PC Windows. Soft aim Deadside. réglages soft aim fluides pour Windows PC.",
@@ -3452,7 +3452,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				"aimbot-hack": {
-					title: "Aimbot Deadside | Assistance soft aim | ESP, Aimbot & Radar",
+					title: "Aimbot Deadside | Assistance soft aim",
 					description: "Aimbot Deadside for Deadside survival & squad raids on Windows PC — assist Aimbot undetected pour Deadside. livraison numérique instantanée. indétectables.",
 					h1: "Aimbot Deadside — Assistance soft aim",
 					intro: "Deadside Cheats combine ESP wallhack, 2D radar et deadside aimbot indétectables pour Deadside sur PC Windows. Aimbot Deadside. assist Aimbot undetected pour Deadside.",
@@ -3490,7 +3490,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				"esp-hack": {
-					title: "ESP Deadside | Boîtes et loot | ESP, Aimbot & Radar",
+					title: "ESP Deadside | Boîtes et loot",
 					description: "ESP Deadside for Deadside survival & squad raids on Windows PC — boîtes ESP, pins loote et distance. livraison numérique instantanée. indétectables. Official",
 					h1: "ESP Deadside — Boîtes et loot",
 					intro: "Deadside Cheats combine ESP wallhack, 2D radar et deadside aimbot indétectables pour Deadside sur PC Windows. ESP Deadside. boîtes ESP, pins loote et distance.",
@@ -3528,7 +3528,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				"unlock-all": {
-					title: "Unlock all Deadside | Ce que ça signifie for PC",
+					title: "Unlock all Deadside | Ce que ça signifie",
 					description: "Unlock all Deadside for Deadside survival & squad raids on Windows PC — recherches unlock-all vs vrais outils ESP et Aimbot. livraison numérique instantanée.",
 					h1: "Unlock all Deadside — Ce que ça signifie",
 					intro: "Deadside Cheats combine ESP wallhack, 2D radar et deadside aimbot indétectables pour Deadside sur PC Windows. Unlock all Deadside. recherches unlock-all vs vrais outils ESP et Aimbot.",
@@ -3566,7 +3566,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				privacy: {
-					title: "Politique de confidentialité | Deadside Cheats Legal",
+					title: "Politique de confidentialité | Deadside Cheats",
 					description: "Politique de confidentialité pour Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheat.com.",
 					h1: "Politique de confidentialité",
 					intro: "Deadside Cheats combine ESP wallhack, 2D radar et deadside aimbot indétectables pour Deadside sur PC Windows. Politique de confidentialité pour deadsidecheat.com et les licences Deadside.",
@@ -3601,7 +3601,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				refund: {
-					title: "Politique de remboursement | Deadside Cheats Legal",
+					title: "Politique de remboursement | Deadside Cheats",
 					description: "Politique de remboursement pour Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheat.com.",
 					h1: "Politique de remboursement",
 					intro: "Deadside Cheats combine ESP wallhack, 2D radar et deadside aimbot indétectables pour Deadside sur PC Windows. Politique de remboursement pour deadsidecheat.com et les licences Deadside.",
@@ -3636,7 +3636,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				terms: {
-					title: "Conditions d'utilisation | Deadside Cheats Legal",
+					title: "Conditions d'utilisation | Deadside Cheats",
 					description: "Conditions d'utilisation pour Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheat.com.",
 					h1: "Conditions d'utilisation",
 					intro: "Deadside Cheats combine ESP wallhack, 2D radar et deadside aimbot indétectables pour Deadside sur PC Windows. Conditions d'utilisation pour deadsidecheat.com et les licences Deadside.",
@@ -3775,7 +3775,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				"deadside-esp": {
-					title: "deadside esp — Spielerboxen & Wallhack | Wallhack & Player",
+					title: "deadside esp — Spielerboxen & Wallhack | Deadside Cheats",
 					description: "deadside esp — Spielerboxen & Wallhack for Deadside survival & squad raids on Windows PC — Spielerboxen, Kadaver-Marker und Wallhack-Overlays. sofortige",
 					h1: "deadside esp — Spielerboxen & Wallhack",
 					intro: "Sieh Spieler und Loot durch Wände bei Deadside matches. Teil derselben Deadside Cheats-Lizenz.",
@@ -3825,7 +3825,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				"deadside-aimbot": {
-					title: "deadside aimbot — Soft-Aim Steuerung | Soft Aim & FOV",
+					title: "deadside aimbot — Soft-Aim Steuerung | Deadside Cheats",
 					description: "deadside aimbot — Soft-Aim Steuerung for Deadside survival & squad raids on Windows PC — Soft Aim, FOV und Aimbot-Profile pro Spezies. sofortige digitale",
 					h1: "deadside aimbot — Soft-Aim Steuerung",
 					intro: "Soft Aim und Zielhilfe, die du für Deadside einstellen kannst. In derselben Deadside Cheats-Lizenz enthalten.",
@@ -3955,7 +3955,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				pricing: {
-					title: "Preise — Monatlich & Lifetime | $35/mo or $150 Lifetime",
+					title: "Preise — Monatlich & Lifetime | Deadside Cheats",
 					description: "Preise — Monatlich & Lifetime for Deadside survival & squad raids on Windows PC — $35 monatliche oder $150 Lifetime-Lizenzen. sofortige digitale Lieferung.",
 					h1: "Preise — Monatlich & Lifetime",
 					intro: "Deadside Cheats bündelt ESP wallhack, 2D radar und deadside aimbot als undetected Paket für Deadside auf Windows PC. Shop — $35/Monat y $150 Lifetime.",
@@ -4005,7 +4005,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				setup: {
-					title: "Setup — PC Setup-Anleitung | Windows PC Install",
+					title: "Setup — PC Setup-Anleitung | Deadside Cheats",
 					description: "Setup — PC Setup-Anleitung for Deadside survival & squad raids on Windows PC — Windows PC Aktivierung und Erststart-Setup. sofortige digitale Lieferung.",
 					h1: "Setup",
 					intro: "Installiere und aktiviere deine Lizenz auf Windows 10 oder 11 before your first match.",
@@ -4055,7 +4055,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				updates: {
-					title: "Updates — Wartungsprotokoll | BattlEye Updates | Deadside",
+					title: "Updates — Wartungsprotokoll | Deadside Cheats",
 					description: "Updates — Wartungsprotokoll for Deadside survival & squad raids on Windows PC — BattlEye Patch-Status und Rebuild-Notizen. sofortige digitale Lieferung.",
 					h1: "Status",
 					intro: "Updates-Seite nach BattlEye-Patches prüfen. Kein Cheat garantiert dauerhaft undetected Status.",
@@ -4104,7 +4104,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				faq: {
-					title: "FAQ — Häufige Fragen | ESP, Aimbot & BattlEye PC",
+					title: "FAQ — Häufige Fragen | Deadside Cheats",
 					description: "FAQ — Häufige Fragen for Deadside survival & squad raids on Windows PC — Fragen zu ESP, Soft Aim, Lieferung und BattlEye. sofortige digitale Lieferung.",
 					h1: "FAQ — Häufige Fragen",
 					intro: "Häufige Fragen zu Deadside Cheats — Lieferung, Setup, Updates und Rückerstattungen.",
@@ -4152,7 +4152,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				support: {
-					title: "Support — Hilfe & Kontakt | License & Setup Help",
+					title: "Support — Hilfe & Kontakt | Deadside Cheats",
 					description: "Support — Hilfe & Kontakt for Deadside survival & squad raids on Windows PC — Bestellhilfe und Lizenz-Support-Kontakt. sofortige digitale Lieferung. Official",
 					h1: "Support",
 					intro: "Hilfe zu Lizenzen, Setup und Abrechnung für Deadside Cheats auf Windows PC.",
@@ -4190,7 +4190,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				undetected: {
-					title: "Undetected Cheats | Undetected Status | ESP, Aimbot & Radar",
+					title: "Undetected Cheats | Undetected Status",
 					description: "Undetected Cheats for Deadside survival & squad raids on Windows PC — Undetected-Wartung nach BattlEye Patches. sofortige digitale Lieferung. undetected.",
 					h1: "Undetected Cheats — Undetected Status",
 					intro: "Deadside Cheats bündelt ESP wallhack, 2D radar und deadside aimbot als undetected Paket für Deadside auf Windows PC. Undetected Cheats. Undetected-Wartung nach BattlEye Patches.",
@@ -4236,7 +4236,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				wallhack: {
-					title: "Deadside Wallhack | ESP Sichtbarkeit | ESP, Aimbot & Radar",
+					title: "Deadside Wallhack | ESP Sichtbarkeit",
 					description: "Deadside Wallhack for Deadside survival & squad raids on Windows PC — Wallhack ESP für Spieler, Kadaver und Entfernung. sofortige digitale Lieferung.",
 					h1: "Deadside Wallhack — ESP Sichtbarkeit",
 					intro: "Deadside Cheats bündelt ESP wallhack, 2D radar und deadside aimbot als undetected Paket für Deadside auf Windows PC. Deadside Wallhack. Wallhack ESP für Spieler, Kadaver und Entfernung.",
@@ -4274,7 +4274,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				radar: {
-					title: "2D radar — 2D Bedrohungsradar | 2D Threat Map | Deadside",
+					title: "2D radar — 2D Bedrohungsradar | Deadside Cheats",
 					description: "2D radar — 2D Bedrohungsradar for Deadside survival & squad raids on Windows PC — 2D-Radar-Hinweise für Flanken und Rotationen. sofortige digitale Lieferung.",
 					h1: "2D radar — 2D Bedrohungsradar",
 					intro: "Ein einfaches 2D-Radar für Bedrohungen außerhalb deines Sichtfelds. In derselben Deadside Cheats-Lizenz enthalten.",
@@ -4312,7 +4312,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				battleye: {
-					title: "BattlEye Bypass | Patch-Wartung | ESP, Aimbot & Radar",
+					title: "BattlEye Bypass | Patch-Wartung",
 					description: "BattlEye Bypass for Deadside survival & squad raids on Windows PC — wie BattlEye Updates für Deadside Cheats gehandhabt werden. sofortige digitale Lieferung.",
 					h1: "BattlEye Bypass — Patch-Wartung",
 					intro: "Deadside Cheats bündelt ESP wallhack, 2D radar und deadside aimbot als undetected Paket für Deadside auf Windows PC. BattlEye Bypass. wie BattlEye Updates für Deadside Cheats gehandhabt werden.",
@@ -4366,7 +4366,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot.webp",
 				},
 				"cheats-2026": {
-					title: "Deadside Cheats 2026 | Käuferleitfaden | ESP, Aimbot & Radar",
+					title: "Deadside Cheats 2026 | Käuferleitfaden",
 					description: "Deadside Cheats 2026 for Deadside survival & squad raids on Windows PC — 2026 deadside cheats Checkliste vor dem Checkout. sofortige digitale Lieferung.",
 					h1: "Deadside Cheats 2026 — Käuferleitfaden",
 					intro: "Deadside Cheats bündelt ESP wallhack, 2D radar und deadside aimbot als undetected Paket für Deadside auf Windows PC. Deadside Cheats 2026. 2026 deadside cheats Checkliste vor dem Checkout.",
@@ -4412,7 +4412,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				hacks: {
-					title: "Deadside Cheats — ESP Aimbot Guide | ESP, Aimbot & Radar PC",
+					title: "Deadside Cheats — ESP Aimbot Guide | Deadside Cheats",
 					description: "Deadside Cheats — ESP Aimbot Guide for Deadside survival & squad raids on Windows PC — Deadside Cheats Säule für ESP und Aimbot. sofortige digitale Lieferung.",
 					h1: "Deadside Cheats — Vollständiger Guide",
 					intro: "Deadside Cheats fügen ESP, Radar und Soft Aim zum Basisspiel hinzu. Diese Seite erklärt deadside cheats, den Deadside Cheats-Umfang, BattlEye-Wartung und nächste Schritte vor dem Kauf.",
@@ -4485,7 +4485,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-combat.webp",
 				},
 				"cheat-download": {
-					title: "Deadside Cheat Download | Sofortzugang | ESP, Aimbot & Radar",
+					title: "Deadside Cheat Download | Sofortzugang",
 					description: "Deadside Cheat Download for Deadside survival & squad raids on Windows PC — digitaler Lizenz-Download nach Zahlung. sofortige digitale Lieferung. undetected.",
 					h1: "Deadside Cheat Download — Sofortzugang",
 					intro: "Deadside Cheats bündelt ESP wallhack, 2D radar und deadside aimbot als undetected Paket für Deadside auf Windows PC. Deadside Cheat Download. digitaler Lizenz-Download nach Zahlung.",
@@ -4523,7 +4523,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				"mod-menu": {
-					title: "Deadside Mod-Menü | In-Game Toggles | ESP, Aimbot & Radar",
+					title: "Deadside Mod-Menü | In-Game Toggles",
 					description: "Deadside Mod-Menü for Deadside survival & squad raids on Windows PC — In-Client ESP- und Soft-Aim-Toggles. sofortige digitale Lieferung. undetected. Official",
 					h1: "Deadside Mod-Menü — In-Game Toggles",
 					intro: "Deadside Cheats bündelt ESP wallhack, 2D radar und deadside aimbot als undetected Paket für Deadside auf Windows PC. Deadside Mod-Menü. In-Client ESP- und Soft-Aim-Toggles.",
@@ -4561,7 +4561,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				"soft-aim": {
-					title: "Deadside Soft Aim | Soft-Aim Einstellungen for PC",
+					title: "Deadside Soft Aim | Soft-Aim Einstellungen",
 					description: "Deadside Soft Aim for Deadside survival & squad raids on Windows PC — sanfte Soft-Aim-Einstellungen für Windows PC. sofortige digitale Lieferung. undetected.",
 					h1: "Deadside Soft Aim — Soft-Aim Einstellungen",
 					intro: "Deadside Cheats bündelt ESP wallhack, 2D radar und deadside aimbot als undetected Paket für Deadside auf Windows PC. Deadside Soft Aim. sanfte Soft-Aim-Einstellungen für Windows PC.",
@@ -4599,7 +4599,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				"best-cheats": {
-					title: "Beste Deadside Cheats | Käufer-Checkliste for PC",
+					title: "Beste Deadside Cheats | Käufer-Checkliste",
 					description: "Beste Deadside Cheats for Deadside survival & squad raids on Windows PC — was vor dem Kauf der deadside cheats verglichen werden sollte. sofortige digitale",
 					h1: "Beste Deadside Cheats — Käufer-Checkliste",
 					intro: "Deadside Cheats bündelt ESP wallhack, 2D radar und deadside aimbot als undetected Paket für Deadside auf Windows PC. Beste Deadside Cheats. was vor dem Kauf der deadside cheats verglichen werden sollte.",
@@ -4645,7 +4645,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				"aimbot-hack": {
-					title: "deadside aimbot | Soft-Aim Assist | ESP, Aimbot & Radar",
+					title: "deadside aimbot | Soft-Aim Assist",
 					description: "deadside aimbot for Deadside survival & squad raids on Windows PC — undetected Aimbot-Assist für Deadside. sofortige digitale Lieferung. undetected. Official",
 					h1: "deadside aimbot — Soft-Aim Assist",
 					intro: "Deadside Cheats bündelt ESP wallhack, 2D radar und deadside aimbot als undetected Paket für Deadside auf Windows PC. deadside aimbot. undetected Aimbot-Assist für Deadside.",
@@ -4683,7 +4683,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				"esp-hack": {
-					title: "deadside esp | Boxen & Loot | ESP, Aimbot & Radar",
+					title: "deadside esp | Boxen & Loot",
 					description: "deadside esp for Deadside survival & squad raids on Windows PC — ESP-Boxen, Kadaver-Pins und Entfernung. sofortige digitale Lieferung. undetected. Official",
 					h1: "deadside esp — Boxen & Loot",
 					intro: "Deadside Cheats bündelt ESP wallhack, 2D radar und deadside aimbot als undetected Paket für Deadside auf Windows PC. deadside esp. ESP-Boxen, Kadaver-Pins und Entfernung.",
@@ -4721,7 +4721,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				"unlock-all": {
-					title: "Deadside Unlock All | Was es bedeutet | ESP, Aimbot & Radar",
+					title: "Deadside Unlock All | Was es bedeutet",
 					description: "Deadside Unlock All for Deadside survival & squad raids on Windows PC — unlock-all Suchen vs echte ESP- und Aimbot-Tools. sofortige digitale Lieferung.",
 					h1: "Deadside Unlock All — Was es bedeutet",
 					intro: "Deadside Cheats bündelt ESP wallhack, 2D radar und deadside aimbot als undetected Paket für Deadside auf Windows PC. Deadside Unlock All. unlock-all Suchen vs echte ESP- und Aimbot-Tools.",
@@ -4759,7 +4759,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				privacy: {
-					title: "Datenschutz | Deadside Cheats Legal | ESP, Aimbot & Radar",
+					title: "Datenschutz | Deadside Cheats",
 					description: "Datenschutz für Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Datenschutz",
 					intro: "Deadside Cheats bündelt ESP wallhack, 2D radar und deadside aimbot als undetected Paket für Deadside auf Windows PC. Datenschutz für deadsidecheat.com und Deadside-Lizenzen.",
@@ -4794,7 +4794,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				refund: {
-					title: "Rückerstattung | Deadside Cheats Legal | ESP, Aimbot & Radar",
+					title: "Rückerstattung | Deadside Cheats",
 					description: "Rückerstattung für Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Rückerstattung",
 					intro: "Deadside Cheats bündelt ESP wallhack, 2D radar und deadside aimbot als undetected Paket für Deadside auf Windows PC. Rückerstattung für deadsidecheat.com und Deadside-Lizenzen.",
@@ -4829,7 +4829,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				terms: {
-					title: "Nutzungsbedingungen | Deadside Cheats Legal for PC",
+					title: "Nutzungsbedingungen | Deadside Cheats",
 					description: "Nutzungsbedingungen für Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Nutzungsbedingungen",
 					intro: "Deadside Cheats bündelt ESP wallhack, 2D radar und deadside aimbot als undetected Paket für Deadside auf Windows PC. Nutzungsbedingungen für deadsidecheat.com und Deadside-Lizenzen.",
@@ -4967,7 +4967,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				"deadside-esp": {
-					title: "ESP Deadside — Caixas de jogador e wallhack | Wallhack &",
+					title: "ESP Deadside — Caixas de jogador e wallhack | Deadside Cheats",
 					description: "ESP Deadside — Caixas de jogador e wallhack for Deadside survival & squad raids on Windows PC — caixas de jogador, marcadores de carcaça e overlays wallhack.",
 					h1: "ESP Deadside — Caixas de jogador e wallhack",
 					intro: "Veja jogadores e loot através das paredes em matches de Deadside. Parte da mesma licença Deadside Cheats.",
@@ -5017,7 +5017,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				"deadside-aimbot": {
-					title: "Aimbot Deadside — Controles soft aim | Soft Aim & FOV",
+					title: "Aimbot Deadside — Controles soft aim | Deadside Cheats",
 					description: "Aimbot Deadside — Controles soft aim for Deadside survival & squad raids on Windows PC — soft aim, FOV e perfis Aimbot por espécie. entrega digital",
 					h1: "Aimbot Deadside — Controles soft aim",
 					intro: "Soft aim e assistência de mira ajustáveis para Deadside. Incluído na mesma licença Deadside Cheats.",
@@ -5146,7 +5146,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				pricing: {
-					title: "Preços — Mensal e vitalício | $35/mo or $150 Lifetime",
+					title: "Preços — Mensal e vitalício | Deadside Cheats",
 					description: "Preços — Mensal e vitalício for Deadside survival & squad raids on Windows PC — licenças de $35 mensais ou $150 vitalícias. entrega digital instantânea.",
 					h1: "Preços — Mensal e vitalício",
 					intro: "Deadside Cheats reúne ESP wallhack, 2D radar e deadside aimbot indetectáveis para Deadside no PC Windows. Loja — $35/mês y $150 vitalício.",
@@ -5196,7 +5196,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				setup: {
-					title: "Instalação — Guia de instalação PC | Windows PC Install",
+					title: "Instalação — Guia de instalação PC | Deadside Cheats",
 					description: "Instalação — Guia de instalação PC for Deadside survival & squad raids on Windows PC — ativação no Windows PC e configuração do primeiro lançamento. entrega",
 					h1: "Instalação",
 					intro: "Instale e ative sua licença no Windows 10 ou 11 antes do primeiro match.",
@@ -5246,7 +5246,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				updates: {
-					title: "Atualizações — Registro de estado | BattlEye Updates |",
+					title: "Atualizações — Registro de estado | Deadside Cheats",
 					description: "Atualizações — Registro de estado for Deadside survival & squad raids on Windows PC — status de patches BattlEye e notas de rebuild. entrega digital",
 					h1: "Status",
 					intro: "Verifique Updates após patches BattlEye. Nenhum cheat garante status indetectável permanente.",
@@ -5295,7 +5295,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				faq: {
-					title: "FAQ — Perguntas frequentes | ESP, Aimbot & BattlEye PC",
+					title: "FAQ — Perguntas frequentes | Deadside Cheats",
 					description: "FAQ — Perguntas frequentes for Deadside survival & squad raids on Windows PC — perguntas sobre ESP, soft aim, entrega e BattlEye. entrega digital instantânea.",
 					h1: "FAQ — Perguntas frequentes",
 					intro: "Perguntas frequentes sobre Deadside Cheats — entrega, instalação, atualizações e reembolsos.",
@@ -5343,7 +5343,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				support: {
-					title: "Suporte — Ajuda e contato | License & Setup Help",
+					title: "Suporte — Ajuda e contato | Deadside Cheats",
 					description: "Suporte — Ajuda e contato for Deadside survival & squad raids on Windows PC — ajuda com pedidos e contato de suporte de licenças. entrega digital instantânea.",
 					h1: "Suporte",
 					intro: "Obtenha ajuda com licenças, instalação e faturamento do Deadside Cheats no Windows PC.",
@@ -5381,7 +5381,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				undetected: {
-					title: "Cheats indetectáveis | Status indetectável for PC",
+					title: "Cheats indetectáveis | Status indetectável",
 					description: "Cheats indetectáveis for Deadside survival & squad raids on Windows PC — manutenção undetected após patches BattlEye. entrega digital instantânea.",
 					h1: "Cheats indetectáveis — Status indetectável",
 					intro: "Deadside Cheats reúne ESP wallhack, 2D radar e deadside aimbot indetectáveis para Deadside no PC Windows. Cheats indetectáveis. manutenção undetected após patches BattlEye.",
@@ -5427,7 +5427,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				wallhack: {
-					title: "Deadside Wallhack | Visibilidade ESP | ESP, Aimbot & Radar",
+					title: "Deadside Wallhack | Visibilidade ESP",
 					description: "Deadside Wallhack for Deadside survival & squad raids on Windows PC — wallhack ESP para jogadores, carcaças e distância. entrega digital instantânea.",
 					h1: "Deadside Wallhack — Visibilidade ESP",
 					intro: "Deadside Cheats reúne ESP wallhack, 2D radar e deadside aimbot indetectáveis para Deadside no PC Windows. Deadside Wallhack. wallhack ESP para jogadores, carcaças e distância.",
@@ -5465,7 +5465,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				radar: {
-					title: "2D radar — Radar 2D de ameaças | 2D Threat Map | Deadside",
+					title: "2D radar — Radar 2D de ameaças | Deadside Cheats",
 					description: "2D radar — Radar 2D de ameaças for Deadside survival & squad raids on Windows PC — sinais de radar 2D para flancos e rotações. entrega digital instantânea.",
 					h1: "2D radar — Radar 2D de ameaças",
 					intro: "Um radar 2D simples para ameaças fora da sua visão. Incluído na mesma licença Deadside Cheats.",
@@ -5503,7 +5503,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				battleye: {
-					title: "Bypass BattlEye | Manutenção de patches | Windows PC License",
+					title: "Bypass BattlEye | Manutenção de patches",
 					description: "Bypass BattlEye for Deadside survival & squad raids on Windows PC — como as atualizações BattlEye são tratadas para Deadside cheats. entrega digital",
 					h1: "Bypass BattlEye — Manutenção de patches",
 					intro: "Deadside Cheats reúne ESP wallhack, 2D radar e deadside aimbot indetectáveis para Deadside no PC Windows. Bypass BattlEye. como as atualizações BattlEye são tratadas para Deadside cheats.",
@@ -5557,7 +5557,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot.webp",
 				},
 				"cheats-2026": {
-					title: "Cheats Deadside 2026 | Guia do comprador for PC",
+					title: "Cheats Deadside 2026 | Guia do comprador",
 					description: "Cheats Deadside 2026 for Deadside survival & squad raids on Windows PC — checklist de deadside cheats 2026 antes do checkout. entrega digital instantânea.",
 					h1: "Cheats Deadside 2026 — Guia do comprador",
 					intro: "Deadside Cheats reúne ESP wallhack, 2D radar e deadside aimbot indetectáveis para Deadside no PC Windows. Cheats Deadside 2026. checklist de deadside cheats 2026 antes do checkout.",
@@ -5603,7 +5603,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				hacks: {
-					title: "Cheats Deadside — Guia ESP e Aimbot | ESP, Aimbot & Radar PC",
+					title: "Cheats Deadside — Guia ESP e Aimbot | Deadside Cheats",
 					description: "Cheats Deadside — Guia ESP e Aimbot for Deadside survival & squad raids on Windows PC — pilar Deadside Cheats para ESP e Aimbot. entrega digital instantânea.",
 					h1: "Deadside Cheats — Guia completo",
 					intro: "Deadside cheats adicionam ESP, radar e soft aim ao jogo base. Esta página explica o que são deadside cheats, o que o Deadside Cheats inclui, manutenção BattlEye e próximos passos antes de comprar.",
@@ -5714,7 +5714,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				"mod-menu": {
-					title: "Menu mod Deadside | Controles in-game | ESP, Aimbot & Radar",
+					title: "Menu mod Deadside | Controles in-game",
 					description: "Menu mod Deadside for Deadside survival & squad raids on Windows PC — toggles de ESP e soft aim no cliente. entrega digital instantânea. indetectáveis.",
 					h1: "Menu mod Deadside — Controles in-game",
 					intro: "Deadside Cheats reúne ESP wallhack, 2D radar e deadside aimbot indetectáveis para Deadside no PC Windows. Menu mod Deadside. toggles de ESP e soft aim no cliente.",
@@ -5752,7 +5752,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				"soft-aim": {
-					title: "Soft aim Deadside | Ajustes soft aim | ESP, Aimbot & Radar",
+					title: "Soft aim Deadside | Ajustes soft aim",
 					description: "Soft aim Deadside for Deadside survival & squad raids on Windows PC — ajustes suaves de soft aim para Windows PC. entrega digital instantânea. indetectáveis.",
 					h1: "Soft aim Deadside — Ajustes soft aim",
 					intro: "Deadside Cheats reúne ESP wallhack, 2D radar e deadside aimbot indetectáveis para Deadside no PC Windows. Soft aim Deadside. ajustes suaves de soft aim para Windows PC.",
@@ -5836,7 +5836,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				"aimbot-hack": {
-					title: "Aimbot Deadside | Assistência soft aim | ESP, Aimbot & Radar",
+					title: "Aimbot Deadside | Assistência soft aim",
 					description: "Aimbot Deadside for Deadside survival & squad raids on Windows PC — assistência undetected de Aimbot para Deadside. entrega digital instantânea. indetectáveis.",
 					h1: "Aimbot Deadside — Assistência soft aim",
 					intro: "Deadside Cheats reúne ESP wallhack, 2D radar e deadside aimbot indetectáveis para Deadside no PC Windows. Aimbot Deadside. assistência undetected de Aimbot para Deadside.",
@@ -5874,7 +5874,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				"esp-hack": {
-					title: "ESP Deadside | Caixas e loot | ESP, Aimbot & Radar",
+					title: "ESP Deadside | Caixas e loot",
 					description: "ESP Deadside for Deadside survival & squad raids on Windows PC — caixas ESP, pins de carcaça e distância. entrega digital instantânea. indetectáveis. Official",
 					h1: "ESP Deadside — Caixas e loot",
 					intro: "Deadside Cheats reúne ESP wallhack, 2D radar e deadside aimbot indetectáveis para Deadside no PC Windows. ESP Deadside. caixas ESP, pins de carcaça e distância.",
@@ -5912,7 +5912,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				"unlock-all": {
-					title: "Unlock all Deadside | O que significa | ESP, Aimbot & Radar",
+					title: "Unlock all Deadside | O que significa",
 					description: "Unlock all Deadside for Deadside survival & squad raids on Windows PC — buscas unlock-all vs ferramentas reais ESP e Aimbot. entrega digital instantânea.",
 					h1: "Unlock all Deadside — O que significa",
 					intro: "Deadside Cheats reúne ESP wallhack, 2D radar e deadside aimbot indetectáveis para Deadside no PC Windows. Unlock all Deadside. buscas unlock-all vs ferramentas reais ESP e Aimbot.",
@@ -5950,7 +5950,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				privacy: {
-					title: "Política de privacidade | Deadside Cheats Legal",
+					title: "Política de privacidade | Deadside Cheats",
 					description: "Política de privacidade para Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheat.com.",
 					h1: "Política de privacidade",
 					intro: "Deadside Cheats reúne ESP wallhack, 2D radar e deadside aimbot indetectáveis para Deadside no PC Windows. Política de privacidade para deadsidecheat.com e licenças Deadside.",
@@ -5985,7 +5985,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				refund: {
-					title: "Política de reembolso | Deadside Cheats Legal",
+					title: "Política de reembolso | Deadside Cheats",
 					description: "Política de reembolso para Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheat.com.",
 					h1: "Política de reembolso",
 					intro: "Deadside Cheats reúne ESP wallhack, 2D radar e deadside aimbot indetectáveis para Deadside no PC Windows. Política de reembolso para deadsidecheat.com e licenças Deadside.",
@@ -6020,7 +6020,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				terms: {
-					title: "Termos de uso | Deadside Cheats Legal | ESP, Aimbot & Radar",
+					title: "Termos de uso | Deadside Cheats",
 					description: "Termos de uso para Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheat.com.",
 					h1: "Termos de uso",
 					intro: "Deadside Cheats reúne ESP wallhack, 2D radar e deadside aimbot indetectáveis para Deadside no PC Windows. Termos de uso para deadsidecheat.com e licenças Deadside.",
@@ -6158,7 +6158,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				"deadside-esp": {
-					title: "ESP Deadside — Box giocatore e wallhack | Wallhack & Player",
+					title: "ESP Deadside — Box giocatore e wallhack | Deadside Cheats",
 					description: "ESP Deadside — Box giocatore e wallhack for Deadside survival & squad raids on Windows PC — box giocatore, marcatori loota e overlay wallhack. consegna",
 					h1: "ESP Deadside — Box giocatore e wallhack",
 					intro: "Vedi giocatori e loot attraverso i muri durante i match Deadside. Parte della stessa licenza Deadside Cheats.",
@@ -6208,7 +6208,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				"deadside-aimbot": {
-					title: "Aimbot Deadside — Controlli soft aim | Soft Aim & FOV",
+					title: "Aimbot Deadside — Controlli soft aim | Deadside Cheats",
 					description: "Aimbot Deadside — Controlli soft aim for Deadside survival & squad raids on Windows PC — soft aim, FOV e profili Aimbot per specie. consegna digitale",
 					h1: "Aimbot Deadside — Controlli soft aim",
 					intro: "Soft aim e assistenza mira regolabili per Deadside. Incluso nella stessa licenza Deadside Cheats.",
@@ -6337,7 +6337,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				pricing: {
-					title: "Prezzi — Mensile e lifetime | $35/mo or $150 Lifetime",
+					title: "Prezzi — Mensile e lifetime | Deadside Cheats",
 					description: "Prezzi — Mensile e lifetime for Deadside survival & squad raids on Windows PC — licenze $35 mensili o $150 lifetime. consegna digitale istantanea. Official",
 					h1: "Prezzi — Mensile e lifetime",
 					intro: "Deadside Cheats unisce ESP wallhack, 2D radar e deadside aimbot indetectable per Deadside su PC Windows. Negozio — $35/mese y $150 a vita.",
@@ -6387,7 +6387,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				setup: {
-					title: "Setup — Guida setup PC | Windows PC Install for PC",
+					title: "Setup — Guida setup PC | Deadside Cheats",
 					description: "Setup — Guida setup PC for Deadside survival & squad raids on Windows PC — attivazione Windows PC e setup al primo avvio. consegna digitale istantanea.",
 					h1: "Setup",
 					intro: "Installa e attiva la licenza su Windows 10 o 11 prima del primo match.",
@@ -6437,7 +6437,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				updates: {
-					title: "Aggiornamenti — Log manutenzione | BattlEye Updates |",
+					title: "Aggiornamenti — Log manutenzione | Deadside Cheats",
 					description: "Aggiornamenti — Log manutenzione for Deadside survival & squad raids on Windows PC — stato patch BattlEye e note di rebuild. consegna digitale istantanea.",
 					h1: "Stato",
 					intro: "Controlla Updates dopo patch BattlEye. Nessun cheat garantisce stato indetectable permanente.",
@@ -6486,7 +6486,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				faq: {
-					title: "FAQ — Domande frequenti | ESP, Aimbot & BattlEye PC",
+					title: "FAQ — Domande frequenti | Deadside Cheats",
 					description: "FAQ — Domande frequenti for Deadside survival & squad raids on Windows PC — domande su ESP, soft aim, consegna e BattlEye. consegna digitale istantanea.",
 					h1: "FAQ — Domande frequenti",
 					intro: "Domande frequenti su Deadside Cheats — consegna, setup, aggiornamenti e rimborsi.",
@@ -6534,7 +6534,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				support: {
-					title: "Supporto — Aiuto e contatto | License & Setup Help",
+					title: "Supporto — Aiuto e contatto | Deadside Cheats",
 					description: "Supporto — Aiuto e contatto for Deadside survival & squad raids on Windows PC — aiuto ordini e contatto supporto licenze. consegna digitale istantanea.",
 					h1: "Supporto",
 					intro: "Assistenza per licenze, setup e fatturazione Deadside Cheats su Windows PC.",
@@ -6572,7 +6572,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				undetected: {
-					title: "Cheat indetectable | Stato indetectable | Windows PC License",
+					title: "Cheat indetectable | Stato indetectable",
 					description: "Cheat indetectable for Deadside survival & squad raids on Windows PC — manutenzione undetected dopo patch BattlEye. consegna digitale istantanea. indetectable.",
 					h1: "Cheat indetectable — Stato indetectable",
 					intro: "Deadside Cheats unisce ESP wallhack, 2D radar e deadside aimbot indetectable per Deadside su PC Windows. Cheat indetectable. manutenzione undetected dopo patch BattlEye.",
@@ -6618,7 +6618,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				wallhack: {
-					title: "Deadside Wallhack | Visibilità ESP | ESP, Aimbot & Radar",
+					title: "Deadside Wallhack | Visibilità ESP",
 					description: "Deadside Wallhack for Deadside survival & squad raids on Windows PC — wallhack ESP per giocatori, loot e distanza. consegna digitale istantanea. indetectable.",
 					h1: "Deadside Wallhack — Visibilità ESP",
 					intro: "Deadside Cheats unisce ESP wallhack, 2D radar e deadside aimbot indetectable per Deadside su PC Windows. Deadside Wallhack. wallhack ESP per giocatori, loot e distanza.",
@@ -6656,7 +6656,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				radar: {
-					title: "2D radar — Radar 2D minacce | 2D Threat Map | Deadside",
+					title: "2D radar — Radar 2D minacce | Deadside Cheats",
 					description: "2D radar — Radar 2D minacce for Deadside survival & squad raids on Windows PC — segnali radar 2D per flanchi e rotazioni. consegna digitale istantanea.",
 					h1: "2D radar — Radar 2D minacce",
 					intro: "Un radar 2D semplice per minacce fuori vista. Incluso nella stessa licenza Deadside Cheats.",
@@ -6694,7 +6694,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				battleye: {
-					title: "Bypass BattlEye | Manutenzione patch | ESP, Aimbot & Radar",
+					title: "Bypass BattlEye | Manutenzione patch",
 					description: "Bypass BattlEye for Deadside survival & squad raids on Windows PC — come vengono gestiti gli aggiornamenti BattlEye per Deadside cheats. consegna digitale",
 					h1: "Bypass BattlEye — Manutenzione patch",
 					intro: "Deadside Cheats unisce ESP wallhack, 2D radar e deadside aimbot indetectable per Deadside su PC Windows. Bypass BattlEye. come vengono gestiti gli aggiornamenti BattlEye per Deadside cheats.",
@@ -6748,7 +6748,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot.webp",
 				},
 				"cheats-2026": {
-					title: "Cheat Deadside 2026 | Guida acquirente | ESP, Aimbot & Radar",
+					title: "Cheat Deadside 2026 | Guida acquirente",
 					description: "Cheat Deadside 2026 for Deadside survival & squad raids on Windows PC — checklist deadside cheats 2026 prima del checkout. consegna digitale istantanea.",
 					h1: "Cheat Deadside 2026 — Guida acquirente",
 					intro: "Deadside Cheats unisce ESP wallhack, 2D radar e deadside aimbot indetectable per Deadside su PC Windows. Cheat Deadside 2026. checklist deadside cheats 2026 prima del checkout.",
@@ -6794,7 +6794,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				hacks: {
-					title: "Cheat Deadside — Guida ESP e Aimbot | ESP, Aimbot & Radar PC",
+					title: "Cheat Deadside — Guida ESP e Aimbot | Deadside Cheats",
 					description: "Cheat Deadside — Guida ESP e Aimbot for Deadside survival & squad raids on Windows PC — pilastro Deadside Cheats per ESP e Aimbot. consegna digitale",
 					h1: "Deadside Cheats — Guida completa",
 					intro: "I cheat Deadside aggiungono ESP, radar e soft aim al gioco base. Questa pagina spiega cosa sono i deadside cheats, cosa include Deadside Cheats, manutenzione BattlEye e dove andare prima dell'acquisto.",
@@ -6905,7 +6905,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				"mod-menu": {
-					title: "Mod menu Deadside | Toggle in-game | ESP, Aimbot & Radar",
+					title: "Mod menu Deadside | Toggle in-game",
 					description: "Mod menu Deadside for Deadside survival & squad raids on Windows PC — toggle ESP e soft aim in-client. consegna digitale istantanea. indetectable. Official",
 					h1: "Mod menu Deadside — Toggle in-game",
 					intro: "Deadside Cheats unisce ESP wallhack, 2D radar e deadside aimbot indetectable per Deadside su PC Windows. Mod menu Deadside. toggle ESP e soft aim in-client.",
@@ -6943,7 +6943,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				"soft-aim": {
-					title: "Soft aim Deadside | Impostazioni soft aim for PC",
+					title: "Soft aim Deadside | Impostazioni soft aim",
 					description: "Soft aim Deadside for Deadside survival & squad raids on Windows PC — impostazioni soft aim fluide per Windows PC. consegna digitale istantanea. indetectable.",
 					h1: "Soft aim Deadside — Impostazioni soft aim",
 					intro: "Deadside Cheats unisce ESP wallhack, 2D radar e deadside aimbot indetectable per Deadside su PC Windows. Soft aim Deadside. impostazioni soft aim fluide per Windows PC.",
@@ -7027,7 +7027,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				"aimbot-hack": {
-					title: "Aimbot Deadside | Assist soft aim | ESP, Aimbot & Radar",
+					title: "Aimbot Deadside | Assist soft aim",
 					description: "Aimbot Deadside for Deadside survival & squad raids on Windows PC — assist undetected Aimbot per Deadside. consegna digitale istantanea. indetectable. Official",
 					h1: "Aimbot Deadside — Assist soft aim",
 					intro: "Deadside Cheats unisce ESP wallhack, 2D radar e deadside aimbot indetectable per Deadside su PC Windows. Aimbot Deadside. assist undetected Aimbot per Deadside.",
@@ -7065,7 +7065,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				"esp-hack": {
-					title: "ESP Deadside | Box e loot | ESP, Aimbot & Radar",
+					title: "ESP Deadside | Box e loot",
 					description: "ESP Deadside for Deadside survival & squad raids on Windows PC — box ESP, pin loota e distanza. consegna digitale istantanea. indetectable. Official deadside",
 					h1: "ESP Deadside — Box e loot",
 					intro: "Deadside Cheats unisce ESP wallhack, 2D radar e deadside aimbot indetectable per Deadside su PC Windows. ESP Deadside. box ESP, pin loota e distanza.",
@@ -7103,7 +7103,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				"unlock-all": {
-					title: "Unlock all Deadside | Cosa significa | ESP, Aimbot & Radar",
+					title: "Unlock all Deadside | Cosa significa",
 					description: "Unlock all Deadside for Deadside survival & squad raids on Windows PC — ricerche unlock-all vs veri strumenti ESP e Aimbot. consegna digitale istantanea.",
 					h1: "Unlock all Deadside — Cosa significa",
 					intro: "Deadside Cheats unisce ESP wallhack, 2D radar e deadside aimbot indetectable per Deadside su PC Windows. Unlock all Deadside. ricerche unlock-all vs veri strumenti ESP e Aimbot.",
@@ -7141,7 +7141,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				privacy: {
-					title: "Informativa privacy | Deadside Cheats Legal for PC",
+					title: "Informativa privacy | Deadside Cheats",
 					description: "Informativa privacy per Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheat.com.",
 					h1: "Informativa privacy",
 					intro: "Deadside Cheats unisce ESP wallhack, 2D radar e deadside aimbot indetectable per Deadside su PC Windows. Informativa privacy per deadsidecheat.com e licenze Deadside.",
@@ -7176,7 +7176,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				refund: {
-					title: "Politica di rimborso | Deadside Cheats Legal for PC",
+					title: "Politica di rimborso | Deadside Cheats",
 					description: "Politica di rimborso per Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheat.com.",
 					h1: "Politica di rimborso",
 					intro: "Deadside Cheats unisce ESP wallhack, 2D radar e deadside aimbot indetectable per Deadside su PC Windows. Politica di rimborso per deadsidecheat.com e licenze Deadside.",
@@ -7211,7 +7211,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				terms: {
-					title: "Termini di utilizzo | Deadside Cheats Legal for PC",
+					title: "Termini di utilizzo | Deadside Cheats",
 					description: "Termini di utilizzo per Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheat.com.",
 					h1: "Termini di utilizzo",
 					intro: "Deadside Cheats unisce ESP wallhack, 2D radar e deadside aimbot indetectable per Deadside su PC Windows. Termini di utilizzo per deadsidecheat.com e licenze Deadside.",
@@ -7349,9 +7349,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				"deadside-esp": {
-					title: "deadside esp — Player Boxes & Wallhack | Wallhack & Player",
-					description: "deadside esp — Player Boxes & Wallhack for Deadside survival & squad raids on Windows PC — spelerboxen, karkas-markers en wallhack overlays. directe digitale",
-					h1: "deadside esp — Player Boxes & Wallhack",
+					title: "deadside esp — ESP & Wallhack | Deadside Cheats",
+					description: "deadside esp — ESP & Wallhack for Deadside survival & squad raids on Windows PC — spelerboxen, karkas-markers en wallhack overlays. directe digitale levering.",
+					h1: "deadside esp — ESP & Wallhack",
 					intro: "Zie spelers en loot door muren tijdens Deadside matches. Onderdeel van dezelfde Deadside Cheats-licentie.",
 					imageAlt: "deadside esp player boxes and distance readouts in a match",
 					galleryTitle: "In-game weergave",
@@ -7399,9 +7399,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				"deadside-aimbot": {
-					title: "deadside aimbot — Soft Aim Controls | Soft Aim & FOV",
-					description: "deadside aimbot — Soft Aim Controls for Deadside survival & squad raids on Windows PC — soft aim, FOV en Aimbot-profielen per soort. directe digitale levering.",
-					h1: "deadside aimbot — Soft Aim Controls",
+					title: "deadside aimbot — Soft Aim | Deadside Cheats",
+					description: "deadside aimbot — Soft Aim for Deadside survival & squad raids on Windows PC — soft aim, FOV en Aimbot-profielen per soort. directe digitale levering. Official",
+					h1: "deadside aimbot — Soft Aim",
 					intro: "Soft aim en richt-hulp die je voor Deadside kunt afstellen. Inbegrepen in dezelfde Deadside Cheats-licentie.",
 					imageAlt: "deadside aimbot and soft aim controls on Windows PC",
 					galleryTitle: "In-game weergave",
@@ -7528,7 +7528,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				pricing: {
-					title: "Prijzen — Monthly & Lifetime | $35/mo or $150 Lifetime",
+					title: "Prijzen — Monthly & Lifetime | Deadside Cheats",
 					description: "Prijzen — Monthly & Lifetime for Deadside survival & squad raids on Windows PC — $35 maandelijkse of $150 lifetime licenties. directe digitale levering.",
 					h1: "Prijzen — Monthly & Lifetime",
 					intro: "Deadside Cheats bundelt ESP wallhack, 2D radar en deadside aimbot als undetected pakket voor Deadside op Windows PC. Winkel — $35/maand y $150 lifetime.",
@@ -7578,7 +7578,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				setup: {
-					title: "Setup — PC Setup Guide | Windows PC Install for PC",
+					title: "Setup — PC Setup Guide | Deadside Cheats",
 					description: "Setup — PC Setup Guide for Deadside survival & squad raids on Windows PC — Windows PC activatie en eerste-start setup. directe digitale levering. Official",
 					h1: "Setup",
 					intro: "Installeer en activeer je licentie op Windows 10 of 11 vóór je eerste match.",
@@ -7628,7 +7628,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				updates: {
-					title: "Updates — Live Status Log | BattlEye Updates | Deadside",
+					title: "Updates — Live Status Log | Deadside Cheats",
 					description: "Updates — Live Status Log for Deadside survival & squad raids on Windows PC — BattlEye patchstatus en rebuild-notities. directe digitale levering. Official",
 					h1: "Status",
 					intro: "Check Updates na BattlEye-patches. Geen cheat garandeert permanent undetected status.",
@@ -7677,7 +7677,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				faq: {
-					title: "FAQ — Common Answers | ESP, Aimbot & BattlEye PC",
+					title: "FAQ — Common Answers | Deadside Cheats",
 					description: "FAQ — Common Answers for Deadside survival & squad raids on Windows PC — vragen over ESP, soft aim, levering en BattlEye. directe digitale levering. Official",
 					h1: "FAQ — Common Answers",
 					intro: "Veelgestelde vragen over Deadside Cheats — levering, setup, updates en restituties.",
@@ -7725,7 +7725,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				support: {
-					title: "Support — Help & Contact | License & Setup Help",
+					title: "Support — Help & Contact | Deadside Cheats",
 					description: "Support — Help & Contact for Deadside survival & squad raids on Windows PC — bestelhulp en licentie support contact. directe digitale levering. Official",
 					h1: "Support",
 					intro: "Hulp bij licenties, setup en facturering voor Deadside Cheats op Windows PC.",
@@ -7809,7 +7809,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				wallhack: {
-					title: "Deadside Wallhack | ESP Visibility | ESP, Aimbot & Radar",
+					title: "Deadside Wallhack | ESP Visibility",
 					description: "Deadside Wallhack for Deadside survival & squad raids on Windows PC — wallhack ESP voor spelers, karkassen en afstand. directe digitale levering. undetected.",
 					h1: "Deadside Wallhack — ESP Visibility",
 					intro: "Deadside Cheats bundelt ESP wallhack, 2D radar en deadside aimbot als undetected pakket voor Deadside op Windows PC. Deadside Wallhack. wallhack ESP voor spelers, karkassen en afstand.",
@@ -7847,7 +7847,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				radar: {
-					title: "2D radar — 2D Threat Overlay | 2D Threat Map | Deadside",
+					title: "2D radar — 2D Threat Overlay | Deadside Cheats",
 					description: "2D radar — 2D Threat Overlay for Deadside survival & squad raids on Windows PC — 2D radar signalen voor flanks en rotaties. directe digitale levering. Official",
 					h1: "2D radar — 2D Threat Overlay",
 					intro: "Een eenvoudige 2D-radar voor dreigingen buiten beeld. Inbegrepen in dezelfde Deadside Cheats-licentie.",
@@ -7885,7 +7885,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				battleye: {
-					title: "BattlEye Bypass | BattlEye Patch Maintenance for PC",
+					title: "BattlEye Bypass | BattlEye Patch Maintenance",
 					description: "BattlEye Bypass for Deadside survival & squad raids on Windows PC — hoe BattlEye updates worden afgehandeld voor Deadside cheats. directe digitale levering.",
 					h1: "BattlEye Bypass — BattlEye Patch Maintenance",
 					intro: "Deadside Cheats bundelt ESP wallhack, 2D radar en deadside aimbot als undetected pakket voor Deadside op Windows PC. BattlEye Bypass. hoe BattlEye updates worden afgehandeld voor Deadside cheats.",
@@ -7939,7 +7939,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot.webp",
 				},
 				"cheats-2026": {
-					title: "Deadside Cheats 2026 | 2026 Buyer Guide | Windows PC License",
+					title: "Deadside Cheats 2026 | 2026 Buyer Guide",
 					description: "Deadside Cheats 2026 for Deadside survival & squad raids on Windows PC — 2026 deadside cheats checklist vóór checkout. directe digitale levering. undetected.",
 					h1: "Deadside Cheats 2026 — 2026 Buyer Guide",
 					intro: "Deadside Cheats bundelt ESP wallhack, 2D radar en deadside aimbot als undetected pakket voor Deadside op Windows PC. Deadside Cheats 2026. 2026 deadside cheats checklist vóór checkout.",
@@ -7985,7 +7985,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				hacks: {
-					title: "Deadside Cheats — ESP Aimbot Guide | ESP, Aimbot & Radar PC",
+					title: "Deadside Cheats — ESP Aimbot Guide | Deadside Cheats",
 					description: "Deadside Cheats — ESP Aimbot Guide for Deadside survival & squad raids on Windows PC — Deadside Cheats pijler voor ESP en Aimbot. directe digitale levering.",
 					h1: "Deadside Cheats — Volledige gids",
 					intro: "Deadside cheats voegen ESP, radar en soft aim toe aan het basisspel. Deze pagina legt uit wat deadside cheats zijn, wat Deadside Cheats bevat, BattlEye-onderhoud en volgende stappen vóór aankoop.",
@@ -8058,7 +8058,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-combat.webp",
 				},
 				"cheat-download": {
-					title: "Deadside Cheat Download | Instant Access for PC",
+					title: "Deadside Cheat Download | Instant Access",
 					description: "Deadside Cheat Download for Deadside survival & squad raids on Windows PC — digitale licentiedownload na betaling. directe digitale levering. undetected.",
 					h1: "Deadside Cheat Download — Instant Access",
 					intro: "Deadside Cheats bundelt ESP wallhack, 2D radar en deadside aimbot als undetected pakket voor Deadside op Windows PC. Deadside Cheat Download. digitale licentiedownload na betaling.",
@@ -8096,7 +8096,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				"mod-menu": {
-					title: "Deadside Mod Menu | In-Game Toggles | ESP, Aimbot & Radar",
+					title: "Deadside Mod Menu | In-Game Toggles",
 					description: "Deadside Mod Menu for Deadside survival & squad raids on Windows PC — in-client ESP en soft aim toggles. directe digitale levering. undetected. Official",
 					h1: "Deadside Mod Menu — In-Game Toggles",
 					intro: "Deadside Cheats bundelt ESP wallhack, 2D radar en deadside aimbot als undetected pakket voor Deadside op Windows PC. Deadside Mod Menu. in-client ESP en soft aim toggles.",
@@ -8134,7 +8134,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				"soft-aim": {
-					title: "Deadside Soft Aim | Smooth Aim Settings | Windows PC License",
+					title: "Deadside Soft Aim | Smooth Aim Settings",
 					description: "Deadside Soft Aim for Deadside survival & squad raids on Windows PC — vloeiende soft aim instellingen voor Windows PC. directe digitale levering. undetected.",
 					h1: "Deadside Soft Aim — Smooth Aim Settings",
 					intro: "Deadside Cheats bundelt ESP wallhack, 2D radar en deadside aimbot als undetected pakket voor Deadside op Windows PC. Deadside Soft Aim. vloeiende soft aim instellingen voor Windows PC.",
@@ -8172,7 +8172,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				"best-cheats": {
-					title: "Beste Deadside Cheats | 2026 Buyer Checklist for PC",
+					title: "Beste Deadside Cheats | 2026 Buyer Checklist",
 					description: "Beste Deadside Cheats for Deadside survival & squad raids on Windows PC — wat te vergelijken vóór aankoop van deadside cheats. directe digitale levering.",
 					h1: "Beste Deadside Cheats — 2026 Buyer Checklist",
 					intro: "Deadside Cheats bundelt ESP wallhack, 2D radar en deadside aimbot als undetected pakket voor Deadside op Windows PC. Beste Deadside Cheats. wat te vergelijken vóór aankoop van deadside cheats.",
@@ -8218,7 +8218,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				"aimbot-hack": {
-					title: "deadside aimbot | Soft Aim Assist | ESP, Aimbot & Radar",
+					title: "deadside aimbot | Soft Aim Assist",
 					description: "deadside aimbot for Deadside survival & squad raids on Windows PC — undetected Aimbot assist voor Deadside. directe digitale levering. undetected. Official",
 					h1: "deadside aimbot — Soft Aim Assist",
 					intro: "Deadside Cheats bundelt ESP wallhack, 2D radar en deadside aimbot als undetected pakket voor Deadside op Windows PC. deadside aimbot. undetected Aimbot assist voor Deadside.",
@@ -8256,7 +8256,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				"esp-hack": {
-					title: "deadside esp | Boxes & Loot | ESP, Aimbot & Radar",
+					title: "deadside esp | Boxes & Loot",
 					description: "deadside esp for Deadside survival & squad raids on Windows PC — ESP boxen, karkas pins en afstand. directe digitale levering. undetected. Official deadside",
 					h1: "deadside esp — Boxes & Loot",
 					intro: "Deadside Cheats bundelt ESP wallhack, 2D radar en deadside aimbot als undetected pakket voor Deadside op Windows PC. deadside esp. ESP boxen, karkas pins en afstand.",
@@ -8294,7 +8294,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				"unlock-all": {
-					title: "Deadside Unlock All | What It Means | ESP, Aimbot & Radar",
+					title: "Deadside Unlock All | What It Means",
 					description: "Deadside Unlock All for Deadside survival & squad raids on Windows PC — unlock-all zoekopdrachten vs echte ESP en Aimbot tools. directe digitale levering.",
 					h1: "Deadside Unlock All — What It Means",
 					intro: "Deadside Cheats bundelt ESP wallhack, 2D radar en deadside aimbot als undetected pakket voor Deadside op Windows PC. Deadside Unlock All. unlock-all zoekopdrachten vs echte ESP en Aimbot tools.",
@@ -8332,7 +8332,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				privacy: {
-					title: "Privacybeleid | Deadside Cheats Legal | ESP, Aimbot & Radar",
+					title: "Privacybeleid | Deadside Cheats",
 					description: "Privacybeleid voor Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Privacybeleid",
 					intro: "Deadside Cheats bundelt ESP wallhack, 2D radar en deadside aimbot als undetected pakket voor Deadside op Windows PC. Privacybeleid voor deadsidecheat.com en Deadside-licenties.",
@@ -8367,7 +8367,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				refund: {
-					title: "Restitutiebeleid | Deadside Cheats Legal for PC",
+					title: "Restitutiebeleid | Deadside Cheats",
 					description: "Restitutiebeleid voor Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Restitutiebeleid",
 					intro: "Deadside Cheats bundelt ESP wallhack, 2D radar en deadside aimbot als undetected pakket voor Deadside op Windows PC. Restitutiebeleid voor deadsidecheat.com en Deadside-licenties.",
@@ -8402,7 +8402,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				terms: {
-					title: "Gebruiksvoorwaarden | Deadside Cheats Legal for PC",
+					title: "Gebruiksvoorwaarden | Deadside Cheats",
 					description: "Gebruiksvoorwaarden voor Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Gebruiksvoorwaarden",
 					intro: "Deadside Cheats bundelt ESP wallhack, 2D radar en deadside aimbot als undetected pakket voor Deadside op Windows PC. Gebruiksvoorwaarden voor deadsidecheat.com en Deadside-licenties.",
@@ -8540,9 +8540,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				"deadside-esp": {
-					title: "ESP Deadside — Player Boxes & Wallhack | Wallhack & Player",
-					description: "ESP Deadside — Player Boxes & Wallhack for Deadside survival & squad raids on Windows PC — boxy graczy, markery tusz i overlay wallhack. natychmiastowa dostawa",
-					h1: "ESP Deadside — Player Boxes & Wallhack",
+					title: "ESP Deadside — ESP & Wallhack | Deadside Cheats",
+					description: "ESP Deadside — ESP & Wallhack for Deadside survival & squad raids on Windows PC — boxy graczy, markery tusz i overlay wallhack. natychmiastowa dostawa cyfrowa.",
+					h1: "ESP Deadside — ESP & Wallhack",
 					intro: "Widz graczy i loot przez ściany podczas matchów Deadside. Część tej samej licencji Deadside Cheats.",
 					imageAlt: "deadside esp player boxes and distance readouts in a match",
 					galleryTitle: "Wygląd w grze",
@@ -8590,9 +8590,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				"deadside-aimbot": {
-					title: "Aimbot Deadside — Soft Aim Controls | Soft Aim & FOV",
-					description: "Aimbot Deadside — Soft Aim Controls for Deadside survival & squad raids on Windows PC — soft aim, FOV i profile Aimbot per gatunek. natychmiastowa dostawa",
-					h1: "Aimbot Deadside — Soft Aim Controls",
+					title: "Aimbot Deadside — Soft Aim | Deadside Cheats",
+					description: "Aimbot Deadside — Soft Aim for Deadside survival & squad raids on Windows PC — soft aim, FOV i profile Aimbot per gatunek. natychmiastowa dostawa cyfrowa.",
+					h1: "Aimbot Deadside — Soft Aim",
 					intro: "Soft aim i asysta celowania do ustawienia w Deadside. W tej samej licencji Deadside Cheats.",
 					imageAlt: "deadside aimbot and soft aim controls on Windows PC",
 					galleryTitle: "Wygląd w grze",
@@ -8719,7 +8719,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				pricing: {
-					title: "Cennik — Monthly & Lifetime | $35/mo or $150 Lifetime",
+					title: "Cennik — Monthly & Lifetime | Deadside Cheats",
 					description: "Cennik — Monthly & Lifetime for Deadside survival & squad raids on Windows PC — licencje $35 miesięcznie lub $150 lifetime. natychmiastowa dostawa cyfrowa.",
 					h1: "Cennik — Monthly & Lifetime",
 					intro: "Deadside Cheats łączy ESP wallhack, 2D radar i deadside aimbot jako pakiet undetected dla Deadside na PC Windows. Sklep — $35/mies. y $150 lifetime.",
@@ -8769,7 +8769,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				setup: {
-					title: "Instalacja — PC Setup Guide | Windows PC Install",
+					title: "Instalacja — PC Setup Guide | Deadside Cheats",
 					description: "Instalacja — PC Setup Guide for Deadside survival & squad raids on Windows PC — aktywacja Windows PC i konfiguracja pierwszego uruchomienia. natychmiastowa",
 					h1: "Instalacja",
 					intro: "Zainstaluj i aktywuj licencję na Windows 10 lub 11 przed pierwszym match.",
@@ -8819,7 +8819,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				updates: {
-					title: "Aktualizacje — Live Status Log | BattlEye Updates |",
+					title: "Aktualizacje — Live Status Log | Deadside Cheats",
 					description: "Aktualizacje — Live Status Log for Deadside survival & squad raids on Windows PC — status patchy BattlEye i notatki rebuild. natychmiastowa dostawa cyfrowa.",
 					h1: "Status",
 					intro: "Sprawdź Updates po patchach BattlEye. Żaden cheat nie gwarantuje permanentnego undetected statusu.",
@@ -8868,7 +8868,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				faq: {
-					title: "FAQ — Common Answers | ESP, Aimbot & BattlEye PC",
+					title: "FAQ — Common Answers | Deadside Cheats",
 					description: "FAQ — Common Answers for Deadside survival & squad raids on Windows PC — pytania o ESP, soft aim, dostawę i BattlEye. natychmiastowa dostawa cyfrowa. Official",
 					h1: "FAQ — Common Answers",
 					intro: "FAQ o Deadside Cheats — dostawa, instalacja, aktualizacje i zwroty.",
@@ -8916,7 +8916,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				support: {
-					title: "Wsparcie — Help & Contact | License & Setup Help",
+					title: "Wsparcie — Help & Contact | Deadside Cheats",
 					description: "Wsparcie — Help & Contact for Deadside survival & squad raids on Windows PC — pomoc przy zamówieniu i kontakt wsparcia licencji. natychmiastowa dostawa",
 					h1: "Wsparcie",
 					intro: "Pomoc z licencjami, instalacją i rozliczeniami Deadside Cheats na Windows PC.",
@@ -9000,7 +9000,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				wallhack: {
-					title: "Deadside Wallhack | ESP Visibility | ESP, Aimbot & Radar",
+					title: "Deadside Wallhack | ESP Visibility",
 					description: "Deadside Wallhack for Deadside survival & squad raids on Windows PC — wallhack ESP dla graczy, tusz i dystansu. natychmiastowa dostawa cyfrowa. undetected.",
 					h1: "Deadside Wallhack — ESP Visibility",
 					intro: "Deadside Cheats łączy ESP wallhack, 2D radar i deadside aimbot jako pakiet undetected dla Deadside na PC Windows. Deadside Wallhack. wallhack ESP dla graczy, tusz i dystansu.",
@@ -9038,7 +9038,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				radar: {
-					title: "2D radar — 2D Threat Overlay | 2D Threat Map | Deadside",
+					title: "2D radar — 2D Threat Overlay | Deadside Cheats",
 					description: "2D radar — 2D Threat Overlay for Deadside survival & squad raids on Windows PC — 2D radar wskazówki dla flank i rotacji. natychmiastowa dostawa cyfrowa.",
 					h1: "2D radar — 2D Threat Overlay",
 					intro: "Prosty radar 2D na zagrożenia poza widokiem. W tej samej licencji Deadside Cheats.",
@@ -9076,7 +9076,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				battleye: {
-					title: "Bypass BattlEye | BattlEye Patch Maintenance for PC",
+					title: "Bypass BattlEye | BattlEye Patch Maintenance",
 					description: "Bypass BattlEye for Deadside survival & squad raids on Windows PC — jak obsługiwane są aktualizacje BattlEye dla Deadside cheats. natychmiastowa dostawa",
 					h1: "Bypass BattlEye — BattlEye Patch Maintenance",
 					intro: "Deadside Cheats łączy ESP wallhack, 2D radar i deadside aimbot jako pakiet undetected dla Deadside na PC Windows. Bypass BattlEye. jak obsługiwane są aktualizacje BattlEye dla Deadside cheats.",
@@ -9130,7 +9130,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot.webp",
 				},
 				"cheats-2026": {
-					title: "Cheaty Deadside 2026 | 2026 Buyer Guide | Windows PC License",
+					title: "Cheaty Deadside 2026 | 2026 Buyer Guide",
 					description: "Cheaty Deadside 2026 for Deadside survival & squad raids on Windows PC — checklista deadside cheats 2026 przed checkout. natychmiastowa dostawa cyfrowa.",
 					h1: "Cheaty Deadside 2026 — 2026 Buyer Guide",
 					intro: "Deadside Cheats łączy ESP wallhack, 2D radar i deadside aimbot jako pakiet undetected dla Deadside na PC Windows. Cheaty Deadside 2026. checklista deadside cheats 2026 przed checkout.",
@@ -9176,7 +9176,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				hacks: {
-					title: "Cheaty Deadside — ESP Aimbot Guide | ESP, Aimbot & Radar PC",
+					title: "Cheaty Deadside — ESP Aimbot Guide | Deadside Cheats",
 					description: "Cheaty Deadside — ESP Aimbot Guide for Deadside survival & squad raids on Windows PC — filary Deadside Cheats dla ESP i Aimbot. natychmiastowa dostawa cyfrowa.",
 					h1: "Deadside Cheats — Pełny przewodnik",
 					intro: "Deadside cheats dodają ESP, radar i soft aim do gry bazowej. Ta strona wyjaśnia czym są deadside cheats, co zawiera Deadside Cheats, konserwację BattlEye i co dalej przed zakupem.",
@@ -9249,7 +9249,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-combat.webp",
 				},
 				"cheat-download": {
-					title: "Pobieranie Deadside Cheats | Instant Access for PC",
+					title: "Pobieranie Deadside Cheats | Instant Access",
 					description: "Pobieranie Deadside Cheats for Deadside survival & squad raids on Windows PC — cyfrowe pobranie licencji po płatności. natychmiastowa dostawa cyfrowa.",
 					h1: "Pobieranie Deadside Cheats — Instant Access",
 					intro: "Deadside Cheats łączy ESP wallhack, 2D radar i deadside aimbot jako pakiet undetected dla Deadside na PC Windows. Pobieranie Deadside Cheats. cyfrowe pobranie licencji po płatności.",
@@ -9287,7 +9287,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				"mod-menu": {
-					title: "Mod menu Deadside | In-Game Toggles | ESP, Aimbot & Radar",
+					title: "Mod menu Deadside | In-Game Toggles",
 					description: "Mod menu Deadside for Deadside survival & squad raids on Windows PC — przełączniki ESP i soft aim w kliencie. natychmiastowa dostawa cyfrowa. undetected.",
 					h1: "Mod menu Deadside — In-Game Toggles",
 					intro: "Deadside Cheats łączy ESP wallhack, 2D radar i deadside aimbot jako pakiet undetected dla Deadside na PC Windows. Mod menu Deadside. przełączniki ESP i soft aim w kliencie.",
@@ -9325,7 +9325,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				"soft-aim": {
-					title: "Soft aim Deadside | Smooth Aim Settings | Windows PC License",
+					title: "Soft aim Deadside | Smooth Aim Settings",
 					description: "Soft aim Deadside for Deadside survival & squad raids on Windows PC — płynne ustawienia soft aim dla Windows PC. natychmiastowa dostawa cyfrowa. undetected.",
 					h1: "Soft aim Deadside — Smooth Aim Settings",
 					intro: "Deadside Cheats łączy ESP wallhack, 2D radar i deadside aimbot jako pakiet undetected dla Deadside na PC Windows. Soft aim Deadside. płynne ustawienia soft aim dla Windows PC.",
@@ -9409,7 +9409,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				"aimbot-hack": {
-					title: "Aimbot Deadside | Soft Aim Assist | ESP, Aimbot & Radar",
+					title: "Aimbot Deadside | Soft Aim Assist",
 					description: "Aimbot Deadside for Deadside survival & squad raids on Windows PC — undetected Aimbot assist dla Deadside. natychmiastowa dostawa cyfrowa. undetected. Official",
 					h1: "Aimbot Deadside — Soft Aim Assist",
 					intro: "Deadside Cheats łączy ESP wallhack, 2D radar i deadside aimbot jako pakiet undetected dla Deadside na PC Windows. Aimbot Deadside. undetected Aimbot assist dla Deadside.",
@@ -9447,7 +9447,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				"esp-hack": {
-					title: "ESP Deadside | Boxes & Loot | ESP, Aimbot & Radar",
+					title: "ESP Deadside | Boxes & Loot",
 					description: "ESP Deadside for Deadside survival & squad raids on Windows PC — boxy ESP, piny tusz i dystans. natychmiastowa dostawa cyfrowa. undetected. Official deadside",
 					h1: "ESP Deadside — Boxes & Loot",
 					intro: "Deadside Cheats łączy ESP wallhack, 2D radar i deadside aimbot jako pakiet undetected dla Deadside na PC Windows. ESP Deadside. boxy ESP, piny tusz i dystans.",
@@ -9485,7 +9485,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				"unlock-all": {
-					title: "Unlock all Deadside | What It Means | ESP, Aimbot & Radar",
+					title: "Unlock all Deadside | What It Means",
 					description: "Unlock all Deadside for Deadside survival & squad raids on Windows PC — wyszukiwania unlock-all vs prawdziwe narzędzia ESP i Aimbot. natychmiastowa dostawa",
 					h1: "Unlock all Deadside — What It Means",
 					intro: "Deadside Cheats łączy ESP wallhack, 2D radar i deadside aimbot jako pakiet undetected dla Deadside na PC Windows. Unlock all Deadside. wyszukiwania unlock-all vs prawdziwe narzędzia ESP i Aimbot.",
@@ -9523,7 +9523,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				privacy: {
-					title: "Polityka prywatności | Deadside Cheats Legal for PC",
+					title: "Polityka prywatności | Deadside Cheats",
 					description: "Polityka prywatności dla Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheat.com.",
 					h1: "Polityka prywatności",
 					intro: "Deadside Cheats łączy ESP wallhack, 2D radar i deadside aimbot jako pakiet undetected dla Deadside na PC Windows. Polityka prywatności dla deadsidecheat.com i licencji Deadside.",
@@ -9558,7 +9558,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				refund: {
-					title: "Polityka zwrotów | Deadside Cheats Legal for PC",
+					title: "Polityka zwrotów | Deadside Cheats",
 					description: "Polityka zwrotów dla Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheat.com.",
 					h1: "Polityka zwrotów",
 					intro: "Deadside Cheats łączy ESP wallhack, 2D radar i deadside aimbot jako pakiet undetected dla Deadside na PC Windows. Polityka zwrotów dla deadsidecheat.com i licencji Deadside.",
@@ -9593,7 +9593,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				terms: {
-					title: "Warunki użytkowania | Deadside Cheats Legal for PC",
+					title: "Warunki użytkowania | Deadside Cheats",
 					description: "Warunki użytkowania dla Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheat.com.",
 					h1: "Warunki użytkowania",
 					intro: "Deadside Cheats łączy ESP wallhack, 2D radar i deadside aimbot jako pakiet undetected dla Deadside na PC Windows. Warunki użytkowania dla deadsidecheat.com i licencji Deadside.",
@@ -9731,7 +9731,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				"deadside-esp": {
-					title: "ESP Deadside — Боксы игроков и wallhack | Wallhack & Player",
+					title: "ESP Deadside — Боксы игроков и wallhack | Deadside Cheats",
 					description: "ESP Deadside — Боксы игроков и wallhack for Deadside survival & squad raids on Windows PC — боксы игроков, маркеры туш и wallhack overlays. мгновенная цифровая",
 					h1: "ESP Deadside — Боксы игроков и wallhack",
 					intro: "Видьте игроков и лут сквозь стены в рейдах Deadside. Часть той же лицензии Deadside Cheats.",
@@ -9781,7 +9781,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				"deadside-aimbot": {
-					title: "Aimbot Deadside — Управление soft aim | Soft Aim & FOV",
+					title: "Aimbot Deadside — Управление soft aim | Deadside Cheats",
 					description: "Aimbot Deadside — Управление soft aim for Deadside survival & squad raids on Windows PC — soft aim, FOV и профили Aimbot по видам. мгновенная цифровая",
 					h1: "Aimbot Deadside — Управление soft aim",
 					intro: "Soft aim и помощь прицеливания, настраиваемые для Deadside. Включено в ту же лицензию Deadside Cheats.",
@@ -9910,7 +9910,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				pricing: {
-					title: "Цены — Месяц и lifetime | $35/mo or $150 Lifetime",
+					title: "Цены — Месяц и lifetime | Deadside Cheats",
 					description: "Цены — Месяц и lifetime for Deadside survival & squad raids on Windows PC — лицензии $35 в месяц или $150 lifetime. мгновенная цифровая доставка. Official",
 					h1: "Цены — Месяц и lifetime",
 					intro: "Deadside Cheats объединяет ESP wallhack, 2D radar и deadside aimbot в undetected пакете для Deadside на Windows PC. Магазин — $35/мес y $150 навсегда.",
@@ -9960,7 +9960,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				setup: {
-					title: "Установка — Гайд по установке | Windows PC Install",
+					title: "Установка — Гайд по установке | Deadside Cheats",
 					description: "Установка — Гайд по установке for Deadside survival & squad raids on Windows PC — активация на Windows PC и настройка первого запуска. мгновенная цифровая",
 					h1: "Установка",
 					intro: "Установите и активируйте лицензию на Windows 10 или 11 перед первым рейдом.",
@@ -10010,7 +10010,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				updates: {
-					title: "Обновления — Журнал обновлений | BattlEye Updates |",
+					title: "Обновления — Журнал обновлений | Deadside Cheats",
 					description: "Обновления — Журнал обновлений for Deadside survival & squad raids on Windows PC — статус патчей BattlEye и заметки о rebuild. мгновенная цифровая доставка.",
 					h1: "Статус",
 					intro: "Проверяйте Updates после патчей BattlEye. Ни один чит не гарантирует постоянный undetected статус.",
@@ -10059,7 +10059,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				faq: {
-					title: "FAQ — Частые вопросы | ESP, Aimbot & BattlEye PC",
+					title: "FAQ — Частые вопросы | Deadside Cheats",
 					description: "FAQ — Частые вопросы for Deadside survival & squad raids on Windows PC — вопросы об ESP, soft aim, доставке и BattlEye. мгновенная цифровая доставка. Official",
 					h1: "FAQ — Частые вопросы",
 					intro: "Частые вопросы о Deadside Cheats — доставка, установка, обновления и возвраты.",
@@ -10107,7 +10107,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				support: {
-					title: "Поддержка — Помощь и контакт | License & Setup Help",
+					title: "Поддержка — Помощь и контакт | Deadside Cheats",
 					description: "Поддержка — Помощь и контакт for Deadside survival & squad raids on Windows PC — помощь с заказом и контакт поддержки лицензий. мгновенная цифровая доставка.",
 					h1: "Поддержка",
 					intro: "Помощь с лицензиями, установкой и оплатой Deadside Cheats на Windows PC.",
@@ -10145,7 +10145,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				undetected: {
-					title: "Undetected читы | Статус undetected | ESP, Aimbot & Radar",
+					title: "Undetected читы | Статус undetected",
 					description: "Undetected читы for Deadside survival & squad raids on Windows PC — undetected обслуживание после патчей BattlEye. мгновенная цифровая доставка. undetected.",
 					h1: "Undetected читы — Статус undetected",
 					intro: "Deadside Cheats объединяет ESP wallhack, 2D radar и deadside aimbot в undetected пакете для Deadside на Windows PC. Undetected читы. undetected обслуживание после патчей BattlEye.",
@@ -10191,7 +10191,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				wallhack: {
-					title: "Deadside Wallhack | Видимость ESP | ESP, Aimbot & Radar",
+					title: "Deadside Wallhack | Видимость ESP",
 					description: "Deadside Wallhack for Deadside survival & squad raids on Windows PC — wallhack ESP для игроков, туш и дистанции. мгновенная цифровая доставка. undetected.",
 					h1: "Deadside Wallhack — Видимость ESP",
 					intro: "Deadside Cheats объединяет ESP wallhack, 2D radar и deadside aimbot в undetected пакете для Deadside на Windows PC. Deadside Wallhack. wallhack ESP для игроков, туш и дистанции.",
@@ -10229,7 +10229,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				radar: {
-					title: "2D radar — 2D радар угроз | 2D Threat Map | Deadside Cheats",
+					title: "2D radar — 2D радар угроз | Deadside Cheats",
 					description: "2D radar — 2D радар угроз for Deadside survival & squad raids on Windows PC — 2D radar подсказки для флангов и ротаций. мгновенная цифровая доставка. Official",
 					h1: "2D radar — 2D радар угроз",
 					intro: "Простой 2D radar для угроз вне поля зрения. Включён в ту же лицензию Deadside Cheats.",
@@ -10267,7 +10267,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				battleye: {
-					title: "Bypass BattlEye | Обслуживание патчей | ESP, Aimbot & Radar",
+					title: "Bypass BattlEye | Обслуживание патчей",
 					description: "Bypass BattlEye for Deadside survival & squad raids on Windows PC — как обрабатываются обновления BattlEye для Deadside cheats. мгновенная цифровая доставка.",
 					h1: "Bypass BattlEye — Обслуживание патчей",
 					intro: "Deadside Cheats объединяет ESP wallhack, 2D radar и deadside aimbot в undetected пакете для Deadside на Windows PC. Bypass BattlEye. как обрабатываются обновления BattlEye для Deadside cheats.",
@@ -10321,7 +10321,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot.webp",
 				},
 				"cheats-2026": {
-					title: "Читы Deadside 2026 | Гайд покупателя | ESP, Aimbot & Radar",
+					title: "Читы Deadside 2026 | Гайд покупателя",
 					description: "Читы Deadside 2026 for Deadside survival & squad raids on Windows PC — чеклист deadside cheats 2026 перед checkout. мгновенная цифровая доставка. undetected.",
 					h1: "Читы Deadside 2026 — Гайд покупателя",
 					intro: "Deadside Cheats объединяет ESP wallhack, 2D radar и deadside aimbot в undetected пакете для Deadside на Windows PC. Читы Deadside 2026. чеклист deadside cheats 2026 перед checkout.",
@@ -10367,7 +10367,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				hacks: {
-					title: "Читы Deadside — Гайд ESP и Aimbot | ESP, Aimbot & Radar PC",
+					title: "Читы Deadside — Гайд ESP и Aimbot | Deadside Cheats",
 					description: "Читы Deadside — Гайд ESP и Aimbot for Deadside survival & squad raids on Windows PC — столп Deadside Cheats для ESP и Aimbot. мгновенная цифровая доставка.",
 					h1: "Deadside Cheats — Полный гайд",
 					intro: "Deadside cheats добавляют ESP, radar и soft aim к базовой игре. Эта страница объясняет что такое deadside cheats, что входит в Deadside Cheats, обслуживание BattlEye и куда идти перед покупкой.",
@@ -10440,7 +10440,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-combat.webp",
 				},
 				"cheat-download": {
-					title: "Скачать Deadside Cheats | Мгновенный доступ for PC",
+					title: "Скачать Deadside Cheats | Мгновенный доступ",
 					description: "Скачать Deadside Cheats for Deadside survival & squad raids on Windows PC — цифровая загрузка лицензии после оплаты. мгновенная цифровая доставка. undetected.",
 					h1: "Скачать Deadside Cheats — Мгновенный доступ",
 					intro: "Deadside Cheats объединяет ESP wallhack, 2D radar и deadside aimbot в undetected пакете для Deadside на Windows PC. Скачать Deadside Cheats. цифровая загрузка лицензии после оплаты.",
@@ -10478,7 +10478,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				"mod-menu": {
-					title: "Мод-меню Deadside | Игровые переключатели for PC",
+					title: "Мод-меню Deadside | Игровые переключатели",
 					description: "Мод-меню Deadside for Deadside survival & squad raids on Windows PC — переключатели ESP и soft aim в клиенте. мгновенная цифровая доставка. undetected.",
 					h1: "Мод-меню Deadside — Игровые переключатели",
 					intro: "Deadside Cheats объединяет ESP wallhack, 2D radar и deadside aimbot в undetected пакете для Deadside на Windows PC. Мод-меню Deadside. переключатели ESP и soft aim в клиенте.",
@@ -10516,7 +10516,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				"soft-aim": {
-					title: "Soft aim Deadside | Настройки soft aim | ESP, Aimbot & Radar",
+					title: "Soft aim Deadside | Настройки soft aim",
 					description: "Soft aim Deadside for Deadside survival & squad raids on Windows PC — плавные настройки soft aim для Windows PC. мгновенная цифровая доставка. undetected.",
 					h1: "Soft aim Deadside — Настройки soft aim",
 					intro: "Deadside Cheats объединяет ESP wallhack, 2D radar и deadside aimbot в undetected пакете для Deadside на Windows PC. Soft aim Deadside. плавные настройки soft aim для Windows PC.",
@@ -10554,7 +10554,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				"best-cheats": {
-					title: "Лучшие читы Deadside | Чеклист покупателя for PC",
+					title: "Лучшие читы Deadside | Чеклист покупателя",
 					description: "Лучшие читы Deadside for Deadside survival & squad raids on Windows PC — что сравнить перед покупкой deadside cheats. мгновенная цифровая доставка. undetected.",
 					h1: "Лучшие читы Deadside — Чеклист покупателя",
 					intro: "Deadside Cheats объединяет ESP wallhack, 2D radar и deadside aimbot в undetected пакете для Deadside на Windows PC. Лучшие читы Deadside. что сравнить перед покупкой deadside cheats.",
@@ -10600,7 +10600,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				"aimbot-hack": {
-					title: "Aimbot Deadside | Soft aim ассист | ESP, Aimbot & Radar",
+					title: "Aimbot Deadside | Soft aim ассист",
 					description: "Aimbot Deadside for Deadside survival & squad raids on Windows PC — undetected Aimbot assist для Deadside. мгновенная цифровая доставка. undetected. Official",
 					h1: "Aimbot Deadside — Soft aim ассист",
 					intro: "Deadside Cheats объединяет ESP wallhack, 2D radar и deadside aimbot в undetected пакете для Deadside на Windows PC. Aimbot Deadside. undetected Aimbot assist для Deadside.",
@@ -10638,7 +10638,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				"esp-hack": {
-					title: "ESP Deadside | Боксы и лут | ESP, Aimbot & Radar",
+					title: "ESP Deadside | Боксы и лут",
 					description: "ESP Deadside for Deadside survival & squad raids on Windows PC — ESP боксы, pins туш и дистанция. мгновенная цифровая доставка. undetected. Official deadside",
 					h1: "ESP Deadside — Боксы и лут",
 					intro: "Deadside Cheats объединяет ESP wallhack, 2D radar и deadside aimbot в undetected пакете для Deadside на Windows PC. ESP Deadside. ESP боксы, pins туш и дистанция.",
@@ -10676,7 +10676,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				"unlock-all": {
-					title: "Unlock all Deadside | Что это значит | ESP, Aimbot & Radar",
+					title: "Unlock all Deadside | Что это значит",
 					description: "Unlock all Deadside for Deadside survival & squad raids on Windows PC — поиски unlock-all vs настоящие ESP и Aimbot инструменты. мгновенная цифровая доставка.",
 					h1: "Unlock all Deadside — Что это значит",
 					intro: "Deadside Cheats объединяет ESP wallhack, 2D radar и deadside aimbot в undetected пакете для Deadside на Windows PC. Unlock all Deadside. поиски unlock-all vs настоящие ESP и Aimbot инструменты.",
@@ -10714,7 +10714,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				privacy: {
-					title: "Политика конфиденциальности | Deadside Cheats Legal",
+					title: "Политика конфиденциальности | Deadside Cheats",
 					description: "Политика конфиденциальности для Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Политика конфиденциальности",
 					intro: "Deadside Cheats объединяет ESP wallhack, 2D radar и deadside aimbot в undetected пакете для Deadside на Windows PC. Политика конфиденциальности для deadsidecheat.com и лицензий Deadside.",
@@ -10749,7 +10749,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				refund: {
-					title: "Политика возврата | Deadside Cheats Legal for PC",
+					title: "Политика возврата | Deadside Cheats",
 					description: "Политика возврата для Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Политика возврата",
 					intro: "Deadside Cheats объединяет ESP wallhack, 2D radar и deadside aimbot в undetected пакете для Deadside на Windows PC. Политика возврата для deadsidecheat.com и лицензий Deadside.",
@@ -10784,7 +10784,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				terms: {
-					title: "Условия использования | Deadside Cheats Legal",
+					title: "Условия использования | Deadside Cheats",
 					description: "Условия использования для Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Условия использования",
 					intro: "Deadside Cheats объединяет ESP wallhack, 2D radar и deadside aimbot в undetected пакете для Deadside на Windows PC. Условия использования для deadsidecheat.com и лицензий Deadside.",
@@ -10922,9 +10922,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				"deadside-esp": {
-					title: "deadside esp — Player Boxes & Wallhack | Wallhack & Player",
-					description: "deadside esp — Player Boxes & Wallhack for Deadside survival & squad raids on Windows PC — oyuncu kutuları, leş işaretleri ve wallhack overlay'leri. anında",
-					h1: "deadside esp — Player Boxes & Wallhack",
+					title: "deadside esp — ESP & Wallhack | Deadside Cheats",
+					description: "deadside esp — ESP & Wallhack for Deadside survival & squad raids on Windows PC — oyuncu kutuları, leş işaretleri ve wallhack overlay'leri. anında dijital",
+					h1: "deadside esp — ESP & Wallhack",
 					intro: "Deadside matchlerinde duvarların ardından oyuncuları ve loot'u görün. Aynı Deadside Cheats lisansının parçası.",
 					imageAlt: "deadside esp player boxes and distance readouts in a match",
 					galleryTitle: "Oyun içi görünüm",
@@ -10972,9 +10972,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				"deadside-aimbot": {
-					title: "deadside aimbot — Soft Aim Controls | Soft Aim & FOV",
-					description: "deadside aimbot — Soft Aim Controls for Deadside survival & squad raids on Windows PC — soft aim, FOV ve türe özel Aimbot profilleri. anında dijital teslimat.",
-					h1: "deadside aimbot — Soft Aim Controls",
+					title: "deadside aimbot — Soft Aim | Deadside Cheats",
+					description: "deadside aimbot — Soft Aim for Deadside survival & squad raids on Windows PC — soft aim, FOV ve türe özel Aimbot profilleri. anında dijital teslimat. Official",
+					h1: "deadside aimbot — Soft Aim",
 					intro: "Deadside için ayarlayabileceğiniz soft aim ve nişan desteği. Aynı Deadside Cheats lisansına dahil.",
 					imageAlt: "deadside aimbot and soft aim controls on Windows PC",
 					galleryTitle: "Oyun içi görünüm",
@@ -11101,7 +11101,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				pricing: {
-					title: "Fiyatlar — Monthly & Lifetime | $35/mo or $150 Lifetime",
+					title: "Fiyatlar — Monthly & Lifetime | Deadside Cheats",
 					description: "Fiyatlar — Monthly & Lifetime for Deadside survival & squad raids on Windows PC — aylık $35 veya lifetime $150 lisanslar. anında dijital teslimat. Official",
 					h1: "Fiyatlar — Monthly & Lifetime",
 					intro: "Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, 2D radar ve deadside aimbot undetected paket sunar. Mağaza — $35/ay y $150 ömür boyu.",
@@ -11151,7 +11151,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				setup: {
-					title: "Kurulum — PC Setup Guide | Windows PC Install",
+					title: "Kurulum — PC Setup Guide | Deadside Cheats",
 					description: "Kurulum — PC Setup Guide for Deadside survival & squad raids on Windows PC — Windows PC aktivasyonu ve ilk açılış kurulumu. anında dijital teslimat. Official",
 					h1: "Kurulum",
 					intro: "İlk match öncesi Windows 10 veya 11'de lisansınızı kurun ve etkinleştirin.",
@@ -11201,7 +11201,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				updates: {
-					title: "Güncellemeler — Live Status Log | BattlEye Updates |",
+					title: "Güncellemeler — Live Status Log | Deadside Cheats",
 					description: "Güncellemeler — Live Status Log for Deadside survival & squad raids on Windows PC — BattlEye yama durumu ve rebuild notları. anında dijital teslimat. Official",
 					h1: "Durum",
 					intro: "BattlEye yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı undetected garantisi vermez.",
@@ -11250,7 +11250,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				faq: {
-					title: "SSS — Common Answers | ESP, Aimbot & BattlEye PC",
+					title: "SSS — Common Answers | Deadside Cheats",
 					description: "SSS — Common Answers for Deadside survival & squad raids on Windows PC — ESP, soft aim, teslimat ve BattlEye soruları. anında dijital teslimat. Official",
 					h1: "SSS — Common Answers",
 					intro: "Deadside Cheats SSS — teslimat, kurulum, güncellemeler ve iadeler.",
@@ -11298,7 +11298,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				support: {
-					title: "Destek — Help & Contact | License & Setup Help",
+					title: "Destek — Help & Contact | Deadside Cheats",
 					description: "Destek — Help & Contact for Deadside survival & squad raids on Windows PC — sipariş yardımı ve lisans destek iletişimi. anında dijital teslimat. Official",
 					h1: "Destek",
 					intro: "Windows PC'de Deadside Cheats lisans, kurulum ve faturalama desteği.",
@@ -11382,7 +11382,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				wallhack: {
-					title: "Deadside Wallhack | ESP Visibility | ESP, Aimbot & Radar",
+					title: "Deadside Wallhack | ESP Visibility",
 					description: "Deadside Wallhack for Deadside survival & squad raids on Windows PC — oyuncular, leşler ve mesafe için wallhack ESP. anında dijital teslimat. undetected.",
 					h1: "Deadside Wallhack — ESP Visibility",
 					intro: "Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, 2D radar ve deadside aimbot undetected paket sunar. Deadside Wallhack. oyuncular, leşler ve mesafe için wallhack ESP.",
@@ -11420,7 +11420,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				radar: {
-					title: "2D radar — 2D Threat Overlay | 2D Threat Map | Deadside",
+					title: "2D radar — 2D Threat Overlay | Deadside Cheats",
 					description: "2D radar — 2D Threat Overlay for Deadside survival & squad raids on Windows PC — flank ve rotasyonlar için 2D radar ipuçları. anında dijital teslimat. Official",
 					h1: "2D radar — 2D Threat Overlay",
 					intro: "Görüş alanı dışındaki tehditler için basit 2D radar. Aynı Deadside Cheats lisansına dahil.",
@@ -11458,7 +11458,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				battleye: {
-					title: "BattlEye bypass | BattlEye Patch Maintenance for PC",
+					title: "BattlEye bypass | BattlEye Patch Maintenance",
 					description: "BattlEye bypass for Deadside survival & squad raids on Windows PC — Deadside cheats için BattlEye güncellemelerinin nasıl yönetildiği. anında dijital teslimat.",
 					h1: "BattlEye bypass — BattlEye Patch Maintenance",
 					intro: "Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, 2D radar ve deadside aimbot undetected paket sunar. BattlEye bypass. Deadside cheats için BattlEye güncellemelerinin nasıl yönetildiği.",
@@ -11512,7 +11512,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot.webp",
 				},
 				"cheats-2026": {
-					title: "Deadside Hileleri 2026 | 2026 Buyer Guide for PC",
+					title: "Deadside Hileleri 2026 | 2026 Buyer Guide",
 					description: "Deadside Hileleri 2026 for Deadside survival & squad raids on Windows PC — checkout öncesi 2026 deadside cheats kontrol listesi. anında dijital teslimat.",
 					h1: "Deadside Hileleri 2026 — 2026 Buyer Guide",
 					intro: "Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, 2D radar ve deadside aimbot undetected paket sunar. Deadside Hileleri 2026. checkout öncesi 2026 deadside cheats kontrol listesi.",
@@ -11558,7 +11558,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				hacks: {
-					title: "Deadside Hileleri — ESP Aimbot Guide | ESP, Aimbot & Radar",
+					title: "Deadside Hileleri — ESP Aimbot Guide | Deadside Cheats",
 					description: "Deadside Hileleri — ESP Aimbot Guide for Deadside survival & squad raids on Windows PC — ESP ve Aimbot için Deadside Cheats sütunu. anında dijital teslimat.",
 					h1: "Deadside Cheats — Tam rehber",
 					intro: "Deadside hileleri temel oyuna ESP, radar ve soft aim ekler. Bu sayfa deadside cheats nedir, Deadside Cheats neleri içerir, BattlEye bakımı ve satın almadan önce nereye gidileceğini açıklar.",
@@ -11631,7 +11631,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-combat.webp",
 				},
 				"cheat-download": {
-					title: "Deadside Hile İndir | Instant Access | ESP, Aimbot & Radar",
+					title: "Deadside Hile İndir | Instant Access",
 					description: "Deadside Hile İndir for Deadside survival & squad raids on Windows PC — ödeme sonrası dijital lisans indirme. anında dijital teslimat. undetected. Official",
 					h1: "Deadside Hile İndir — Instant Access",
 					intro: "Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, 2D radar ve deadside aimbot undetected paket sunar. Deadside Hile İndir. ödeme sonrası dijital lisans indirme.",
@@ -11669,7 +11669,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				"mod-menu": {
-					title: "Deadside Mod Menü | In-Game Toggles | ESP, Aimbot & Radar",
+					title: "Deadside Mod Menü | In-Game Toggles",
 					description: "Deadside Mod Menü for Deadside survival & squad raids on Windows PC — istemci içi ESP ve soft aim toggle'ları. anında dijital teslimat. undetected. Official",
 					h1: "Deadside Mod Menü — In-Game Toggles",
 					intro: "Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, 2D radar ve deadside aimbot undetected paket sunar. Deadside Mod Menü. istemci içi ESP ve soft aim toggle'ları.",
@@ -11707,7 +11707,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				"soft-aim": {
-					title: "Deadside Soft Aim | Smooth Aim Settings | Windows PC License",
+					title: "Deadside Soft Aim | Smooth Aim Settings",
 					description: "Deadside Soft Aim for Deadside survival & squad raids on Windows PC — Windows PC için akıcı soft aim ayarları. anında dijital teslimat. undetected. Official",
 					h1: "Deadside Soft Aim — Smooth Aim Settings",
 					intro: "Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, 2D radar ve deadside aimbot undetected paket sunar. Deadside Soft Aim. Windows PC için akıcı soft aim ayarları.",
@@ -11791,7 +11791,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				"aimbot-hack": {
-					title: "deadside aimbot | Soft Aim Assist | ESP, Aimbot & Radar",
+					title: "deadside aimbot | Soft Aim Assist",
 					description: "deadside aimbot for Deadside survival & squad raids on Windows PC — Deadside için undetected Aimbot assist. anında dijital teslimat. undetected. Official",
 					h1: "deadside aimbot — Soft Aim Assist",
 					intro: "Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, 2D radar ve deadside aimbot undetected paket sunar. deadside aimbot. Deadside için undetected Aimbot assist.",
@@ -11829,7 +11829,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				"esp-hack": {
-					title: "deadside esp | Boxes & Loot | ESP, Aimbot & Radar",
+					title: "deadside esp | Boxes & Loot",
 					description: "deadside esp for Deadside survival & squad raids on Windows PC — ESP kutuları, leş pinleri ve mesafe. anında dijital teslimat. undetected. Official deadside",
 					h1: "deadside esp — Boxes & Loot",
 					intro: "Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, 2D radar ve deadside aimbot undetected paket sunar. deadside esp. ESP kutuları, leş pinleri ve mesafe.",
@@ -11867,7 +11867,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				"unlock-all": {
-					title: "Deadside Unlock All | What It Means | ESP, Aimbot & Radar",
+					title: "Deadside Unlock All | What It Means",
 					description: "Deadside Unlock All for Deadside survival & squad raids on Windows PC — unlock-all aramaları vs gerçek ESP ve Aimbot araçları. anında dijital teslimat.",
 					h1: "Deadside Unlock All — What It Means",
 					intro: "Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, 2D radar ve deadside aimbot undetected paket sunar. Deadside Unlock All. unlock-all aramaları vs gerçek ESP ve Aimbot araçları.",
@@ -11905,7 +11905,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				privacy: {
-					title: "Gizlilik politikası | Deadside Cheats Legal for PC",
+					title: "Gizlilik politikası | Deadside Cheats",
 					description: "Gizlilik politikası Deadside Cheats — ESP wallhack, Aimbot için, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Gizlilik politikası",
 					intro: "Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, 2D radar ve deadside aimbot undetected paket sunar. Gizlilik politikası deadsidecheat.com ve Deadside lisansları için.",
@@ -11940,7 +11940,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				refund: {
-					title: "İade politikası | Deadside Cheats Legal | Windows PC License",
+					title: "İade politikası | Deadside Cheats",
 					description: "İade politikası Deadside Cheats — ESP wallhack, Aimbot için, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "İade politikası",
 					intro: "Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, 2D radar ve deadside aimbot undetected paket sunar. İade politikası deadsidecheat.com ve Deadside lisansları için.",
@@ -11975,7 +11975,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				terms: {
-					title: "Kullanım şartları | Deadside Cheats Legal for PC",
+					title: "Kullanım şartları | Deadside Cheats",
 					description: "Kullanım şartları Deadside Cheats — ESP wallhack, Aimbot için, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Kullanım şartları",
 					intro: "Deadside Cheats, Deadside için Windows PC üzerinde ESP wallhack, 2D radar ve deadside aimbot undetected paket sunar. Kullanım şartları deadsidecheat.com ve Deadside lisansları için.",
@@ -12085,7 +12085,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			},
 			pages: {
 				home: {
-					title: "Deadside Cheats 2026 | ESP وWallhack وAimbot for PC",
+					title: "Deadside Cheats 2026 | ESP وWallhack وAimbot",
 					description: "غش Deadside undetected لـ Deadside على PC. ESP wallhack و2D radar وAimbot مع صيانة BattlEye. تسليم رقمي فوري. Compare plans and guides at deadsidecheat.com.",
 					h1: "غش غير مكتشف لـ Deadside",
 					intro: "حزمة undetected لـ Deadside على Windows PC: ESP wallhack ورadar وAimbot مع صيانة BattlEye.",
@@ -12113,9 +12113,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				"deadside-esp": {
-					title: "ESP Deadside — Player Boxes & Wallhack | Wallhack & Player",
-					description: "ESP Deadside — Player Boxes & Wallhack for Deadside survival & squad raids on Windows PC — صناديق اللاعبين وعلامات الجيفة وoverlays wallhack. تسليم رقمي فوري.",
-					h1: "ESP Deadside — Player Boxes & Wallhack",
+					title: "ESP Deadside — ESP & Wallhack | Deadside Cheats",
+					description: "ESP Deadside — ESP & Wallhack for Deadside survival & squad raids on Windows PC — صناديق اللاعبين وعلامات الجيفة وoverlays wallhack. تسليم رقمي فوري. Official",
+					h1: "ESP Deadside — ESP & Wallhack",
 					intro: "شاهد اللاعبين والloot عبر الجدران أثناء matches في Deadside. جزء من نفس ترخيص Deadside Cheats.",
 					imageAlt: "deadside esp player boxes and distance readouts in a match",
 					galleryTitle: "المظهر داخل اللعبة",
@@ -12163,9 +12163,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				"deadside-aimbot": {
-					title: "Aimbot Deadside — Soft Aim Controls | Soft Aim & FOV",
-					description: "Aimbot Deadside — Soft Aim Controls for Deadside survival & squad raids on Windows PC — soft aim وFOV وملفات Aimbot لكل نوع. تسليم رقمي فوري. Official deadside",
-					h1: "Aimbot Deadside — Soft Aim Controls",
+					title: "Aimbot Deadside — Soft Aim | Deadside Cheats",
+					description: "Aimbot Deadside — Soft Aim for Deadside survival & squad raids on Windows PC — soft aim وFOV وملفات Aimbot لكل نوع. تسليم رقمي فوري. Official deadside cheats",
+					h1: "Aimbot Deadside — Soft Aim",
 					intro: "Soft aim ومساعدة تصويب قابلة للضبط لـ Deadside. مضمن في نفس ترخيص Deadside Cheats.",
 					imageAlt: "deadside aimbot and soft aim controls on Windows PC",
 					galleryTitle: "المظهر داخل اللعبة",
@@ -12292,7 +12292,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				pricing: {
-					title: "الأسعار — Monthly & Lifetime | $35/mo or $150 Lifetime",
+					title: "الأسعار — Monthly & Lifetime | Deadside Cheats",
 					description: "الأسعار — Monthly & Lifetime for Deadside survival & squad raids on Windows PC — تراخيص $35 شهرياً أو $150 lifetime. تسليم رقمي فوري. Official deadside cheats",
 					h1: "الأسعار — Monthly & Lifetime",
 					intro: "Deadside Cheats يجمع ESP wallhack و2D radar وdeadside aimbot غير مكتشف لـ Deadside على Windows PC. المتجر — 35$/شهر y 150$ مدى الحياة.",
@@ -12342,7 +12342,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				setup: {
-					title: "التثبيت — PC Setup Guide | Windows PC Install",
+					title: "التثبيت — PC Setup Guide | Deadside Cheats",
 					description: "التثبيت — PC Setup Guide for Deadside survival & squad raids on Windows PC — تفعيل Windows PC وإعداد أول تشغيل. تسليم رقمي فوري. Official deadside cheats at",
 					h1: "التثبيت",
 					intro: "ثبّت وفعّل ترخيصك على Windows 10 أو 11 قبل أول match.",
@@ -12392,7 +12392,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				updates: {
-					title: "التحديثات — Live Status Log | BattlEye Updates | Deadside",
+					title: "التحديثات — Live Status Log | Deadside Cheats",
 					description: "التحديثات — Live Status Log for Deadside survival & squad raids on Windows PC — حالة patch BattlEye وملاحظات rebuild. تسليم رقمي فوري. Official deadside cheats",
 					h1: "الحالة",
 					intro: "راجع Updates بعد تص patches BattlEye. لا يضمن أي غش حالة undetected دائمة.",
@@ -12441,7 +12441,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				faq: {
-					title: "الأسئلة — Common Answers | ESP, Aimbot & BattlEye PC",
+					title: "الأسئلة — Common Answers | Deadside Cheats",
 					description: "الأسئلة — Common Answers for Deadside survival & squad raids on Windows PC — أسئلة ESP وsoft aim والتسليم وBattlEye. تسليم رقمي فوري. Official deadside cheats",
 					h1: "الأسئلة — Common Answers",
 					intro: "أسئلة شائعة عن Deadside Cheats — التسليم والتثبيت والتحديثات والاسترداد.",
@@ -12489,7 +12489,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				support: {
-					title: "الدعم — Help & Contact | License & Setup Help",
+					title: "الدعم — Help & Contact | Deadside Cheats",
 					description: "الدعم — Help & Contact for Deadside survival & squad raids on Windows PC — مساعدة الطلبات واتصال دعم التراخيص. تسليم رقمي فوري. Official deadside cheats at",
 					h1: "الدعم",
 					intro: "احصل على مساعدة للتراخيص والتثبيت والفوترة لـ Deadside Cheats على Windows PC.",
@@ -12573,7 +12573,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				wallhack: {
-					title: "Deadside Wallhack | ESP Visibility | ESP, Aimbot & Radar",
+					title: "Deadside Wallhack | ESP Visibility",
 					description: "Deadside Wallhack for Deadside survival & squad raids on Windows PC — wallhack ESP للاعبين والجيف والمسافة. تسليم رقمي فوري. غير مكتشف. Official deadside",
 					h1: "Deadside Wallhack — ESP Visibility",
 					intro: "Deadside Cheats يجمع ESP wallhack و2D radar وdeadside aimbot غير مكتشف لـ Deadside على Windows PC. Deadside Wallhack. wallhack ESP للاعبين والجيف والمسافة.",
@@ -12611,7 +12611,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				radar: {
-					title: "2D radar — 2D Threat Overlay | 2D Threat Map | Deadside",
+					title: "2D radar — 2D Threat Overlay | Deadside Cheats",
 					description: "2D radar — 2D Threat Overlay for Deadside survival & squad raids on Windows PC — إشارات radar ثنائية الأبعاد للهجمات الجانبية والتدوير. تسليم رقمي فوري.",
 					h1: "2D radar — 2D Threat Overlay",
 					intro: "radar 2D بسيط للتهديدات خارج مجال رؤيتك. مضمن في نفس ترخيص Deadside Cheats.",
@@ -12649,7 +12649,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				battleye: {
-					title: "Bypass BattlEye | BattlEye Patch Maintenance for PC",
+					title: "Bypass BattlEye | BattlEye Patch Maintenance",
 					description: "Bypass BattlEye for Deadside survival & squad raids on Windows PC — كيف تُدار تحديثات BattlEye لـ Deadside cheats. تسليم رقمي فوري. غير مكتشف. Official",
 					h1: "Bypass BattlEye — BattlEye Patch Maintenance",
 					intro: "Deadside Cheats يجمع ESP wallhack و2D radar وdeadside aimbot غير مكتشف لـ Deadside على Windows PC. Bypass BattlEye. كيف تُدار تحديثات BattlEye لـ Deadside cheats.",
@@ -12703,7 +12703,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot.webp",
 				},
 				"cheats-2026": {
-					title: "غش Deadside 2026 | 2026 Buyer Guide | ESP, Aimbot & Radar",
+					title: "غش Deadside 2026 | 2026 Buyer Guide",
 					description: "غش Deadside 2026 for Deadside survival & squad raids on Windows PC — قائمة deadside cheats 2026 قبل checkout. تسليم رقمي فوري. غير مكتشف. Official deadside",
 					h1: "غش Deadside 2026 — 2026 Buyer Guide",
 					intro: "Deadside Cheats يجمع ESP wallhack و2D radar وdeadside aimbot غير مكتشف لـ Deadside على Windows PC. غش Deadside 2026. قائمة deadside cheats 2026 قبل checkout.",
@@ -12749,7 +12749,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				hacks: {
-					title: "غش Deadside — ESP Aimbot Guide | ESP, Aimbot & Radar PC",
+					title: "غش Deadside — ESP Aimbot Guide | Deadside Cheats",
 					description: "غش Deadside — ESP Aimbot Guide for Deadside survival & squad raids on Windows PC — ركيزة Deadside Cheats لـ ESP وAimbot. تسليم رقمي فوري. Official deadside",
 					h1: "Deadside Cheats — دليل كامل",
 					intro: "تضيف deadside cheats الـ ESP والرادار وsoft aim فوق اللعبة الأساسية. تشرح هذه الصفحة ما هي deadside cheats وما يتضمنه Deadside Cheats وصيانة BattlEye وأين تذهب قبل الشراء.",
@@ -12822,7 +12822,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-combat.webp",
 				},
 				"cheat-download": {
-					title: "تحميل Deadside Cheats | Instant Access | ESP, Aimbot & Radar",
+					title: "تحميل Deadside Cheats | Instant Access",
 					description: "تحميل Deadside Cheats for Deadside survival & squad raids on Windows PC — تنزيل ترخيص رقمي بعد الدفع. تسليم رقمي فوري. غير مكتشف. Official deadside cheats at",
 					h1: "تحميل Deadside Cheats — Instant Access",
 					intro: "Deadside Cheats يجمع ESP wallhack و2D radar وdeadside aimbot غير مكتشف لـ Deadside على Windows PC. تحميل Deadside Cheats. تنزيل ترخيص رقمي بعد الدفع.",
@@ -12860,7 +12860,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				"mod-menu": {
-					title: "قائمة مود Deadside | In-Game Toggles | ESP, Aimbot & Radar",
+					title: "قائمة مود Deadside | In-Game Toggles",
 					description: "قائمة مود Deadside for Deadside survival & squad raids on Windows PC — مفاتيح ESP وsoft aim داخل العميل. تسليم رقمي فوري. غير مكتشف. Official deadside cheats",
 					h1: "قائمة مود Deadside — In-Game Toggles",
 					intro: "Deadside Cheats يجمع ESP wallhack و2D radar وdeadside aimbot غير مكتشف لـ Deadside على Windows PC. قائمة مود Deadside. مفاتيح ESP وsoft aim داخل العميل.",
@@ -12898,7 +12898,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				"soft-aim": {
-					title: "Soft aim Deadside | Smooth Aim Settings | Windows PC License",
+					title: "Soft aim Deadside | Smooth Aim Settings",
 					description: "Soft aim Deadside for Deadside survival & squad raids on Windows PC — إعدادات soft aim سلسة لـ Windows PC. تسليم رقمي فوري. غير مكتشف. Official deadside cheats",
 					h1: "Soft aim Deadside — Smooth Aim Settings",
 					intro: "Deadside Cheats يجمع ESP wallhack و2D radar وdeadside aimbot غير مكتشف لـ Deadside على Windows PC. Soft aim Deadside. إعدادات soft aim سلسة لـ Windows PC.",
@@ -12936,7 +12936,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				"best-cheats": {
-					title: "أفضل غش Deadside | 2026 Buyer Checklist | Windows PC License",
+					title: "أفضل غش Deadside | 2026 Buyer Checklist",
 					description: "أفضل غش Deadside for Deadside survival & squad raids on Windows PC — ما يجب مقارنته قبل شراء deadside cheats. تسليم رقمي فوري. غير مكتشف. Official deadside",
 					h1: "أفضل غش Deadside — 2026 Buyer Checklist",
 					intro: "Deadside Cheats يجمع ESP wallhack و2D radar وdeadside aimbot غير مكتشف لـ Deadside على Windows PC. أفضل غش Deadside. ما يجب مقارنته قبل شراء deadside cheats.",
@@ -12982,7 +12982,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				"aimbot-hack": {
-					title: "Aimbot Deadside | Soft Aim Assist | ESP, Aimbot & Radar",
+					title: "Aimbot Deadside | Soft Aim Assist",
 					description: "Aimbot Deadside for Deadside survival & squad raids on Windows PC — مساعدة Aimbot undetected لـ Deadside. تسليم رقمي فوري. غير مكتشف. Official deadside cheats",
 					h1: "Aimbot Deadside — Soft Aim Assist",
 					intro: "Deadside Cheats يجمع ESP wallhack و2D radar وdeadside aimbot غير مكتشف لـ Deadside على Windows PC. Aimbot Deadside. مساعدة Aimbot undetected لـ Deadside.",
@@ -13020,7 +13020,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				"esp-hack": {
-					title: "ESP Deadside | Boxes & Loot | ESP, Aimbot & Radar",
+					title: "ESP Deadside | Boxes & Loot",
 					description: "ESP Deadside for Deadside survival & squad raids on Windows PC — صناديق ESP وpins الجيف والمسافة. تسليم رقمي فوري. غير مكتشف. Official deadside cheats at",
 					h1: "ESP Deadside — Boxes & Loot",
 					intro: "Deadside Cheats يجمع ESP wallhack و2D radar وdeadside aimbot غير مكتشف لـ Deadside على Windows PC. ESP Deadside. صناديق ESP وpins الجيف والمسافة.",
@@ -13058,7 +13058,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				"unlock-all": {
-					title: "Unlock all Deadside | What It Means | ESP, Aimbot & Radar",
+					title: "Unlock all Deadside | What It Means",
 					description: "Unlock all Deadside for Deadside survival & squad raids on Windows PC — بحث unlock-all مقابل أدوات ESP وAimbot الحقيقية. تسليم رقمي فوري. غير مكتشف. Official",
 					h1: "Unlock all Deadside — What It Means",
 					intro: "Deadside Cheats يجمع ESP wallhack و2D radar وdeadside aimbot غير مكتشف لـ Deadside على Windows PC. Unlock all Deadside. بحث unlock-all مقابل أدوات ESP وAimbot الحقيقية.",
@@ -13096,7 +13096,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				privacy: {
-					title: "سياسة الخصوصية | Deadside Cheats Legal | ESP, Aimbot & Radar",
+					title: "سياسة الخصوصية | Deadside Cheats",
 					description: "سياسة الخصوصية لـ Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "سياسة الخصوصية",
 					intro: "Deadside Cheats يجمع ESP wallhack و2D radar وdeadside aimbot غير مكتشف لـ Deadside على Windows PC. سياسة الخصوصية لـ deadsidecheat.com وتراخيص Deadside.",
@@ -13131,7 +13131,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				refund: {
-					title: "سياسة الاسترداد | Deadside Cheats Legal | Windows PC License",
+					title: "سياسة الاسترداد | Deadside Cheats",
 					description: "سياسة الاسترداد لـ Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "سياسة الاسترداد",
 					intro: "Deadside Cheats يجمع ESP wallhack و2D radar وdeadside aimbot غير مكتشف لـ Deadside على Windows PC. سياسة الاسترداد لـ deadsidecheat.com وتراخيص Deadside.",
@@ -13166,7 +13166,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				terms: {
-					title: "شروط الاستخدام | Deadside Cheats Legal | ESP, Aimbot & Radar",
+					title: "شروط الاستخدام | Deadside Cheats",
 					description: "شروط الاستخدام لـ Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "شروط الاستخدام",
 					intro: "Deadside Cheats يجمع ESP wallhack و2D radar وdeadside aimbot غير مكتشف لـ Deadside على Windows PC. شروط الاستخدام لـ deadsidecheat.com وتراخيص Deadside.",
@@ -13276,7 +13276,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			},
 			pages: {
 				home: {
-					title: "Deadside Cheats 2026 | ESP・Wallhack・Aimbot for PC",
+					title: "Deadside Cheats 2026 | ESP・Wallhack・Aimbot",
 					description: "Deadside向けundetectedチート。ESP wallhack、2D radar、Aimbot、BattlEyeメンテナンス。即時デジタル配信。. Compare plans and guides at deadsidecheat.com.",
 					h1: "Deadside向けundetectedチート",
 					intro: "Deadside Windows PC向けundetectedパッケージ：ESP wallhack、radar、Aimbot、BattlEyeメンテナンス付き。",
@@ -13304,9 +13304,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				"deadside-esp": {
-					title: "deadside esp — Player Boxes & Wallhack | Wallhack & Player",
-					description: "deadside esp — Player Boxes & Wallhack for Deadside survival & squad raids on Windows PC — プレイヤーボックス、死体マーカー、wallhackオーバーレイ. 即時デジタル配信. Official deadside cheats",
-					h1: "deadside esp — Player Boxes & Wallhack",
+					title: "deadside esp — ESP & Wallhack | Deadside Cheats",
+					description: "deadside esp — ESP & Wallhack for Deadside survival & squad raids on Windows PC — プレイヤーボックス、死体マーカー、wallhackオーバーレイ. 即時デジタル配信. Official deadside cheats at",
+					h1: "deadside esp — ESP & Wallhack",
 					intro: "Deadsideレイド中に壁越しでプレイヤーとlootを確認。同じDeadside Cheatsライセンスに含まれます。",
 					imageAlt: "deadside esp player boxes and distance readouts in a match",
 					galleryTitle: "ゲーム内の見た目",
@@ -13354,9 +13354,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				"deadside-aimbot": {
-					title: "deadside aimbot — Soft Aim Controls | Soft Aim & FOV",
-					description: "deadside aimbot — Soft Aim Controls for Deadside survival & squad raids on Windows PC — soft aim、FOV、種別ごとのAimbotプロファイル. 即時デジタル配信. Official deadside cheats at",
-					h1: "deadside aimbot — Soft Aim Controls",
+					title: "deadside aimbot — Soft Aim | Deadside Cheats",
+					description: "deadside aimbot — Soft Aim for Deadside survival & squad raids on Windows PC — soft aim、FOV、種別ごとのAimbotプロファイル. 即時デジタル配信. Official deadside cheats at",
+					h1: "deadside aimbot — Soft Aim",
 					intro: "Deadside向けに調整できるsoft aimとエイム支援。同じDeadside Cheatsライセンスに含まれます。",
 					imageAlt: "deadside aimbot and soft aim controls on Windows PC",
 					galleryTitle: "ゲーム内の見た目",
@@ -13483,7 +13483,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				pricing: {
-					title: "料金 — Monthly & Lifetime | $35/mo or $150 Lifetime",
+					title: "料金 — Monthly & Lifetime | Deadside Cheats",
 					description: "料金 — Monthly & Lifetime for Deadside survival & squad raids on Windows PC — 月額$35またはlifetime $150ライセンス. 即時デジタル配信. Official deadside cheats at deadsidecheat.com.",
 					h1: "料金 — Monthly & Lifetime",
 					intro: "Deadside CheatsはDeadside向けWindows PC用ESP wallhack、2D radar、deadside aimbotのundetectedパッケージです。ストア — $35/月 y $150永久.",
@@ -13533,7 +13533,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				setup: {
-					title: "セットアップ — PC Setup Guide | Windows PC Install for PC",
+					title: "セットアップ — PC Setup Guide | Deadside Cheats",
 					description: "セットアップ — PC Setup Guide for Deadside survival & squad raids on Windows PC — Windows PCアクティベーションと初回起動セットアップ. 即時デジタル配信. Official deadside cheats at",
 					h1: "セットアップ",
 					intro: "初回レイド前にWindows 10または11でライセンスをインストール・有効化。",
@@ -13583,7 +13583,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				updates: {
-					title: "更新 — Live Status Log | BattlEye Updates | Deadside Cheats",
+					title: "更新 — Live Status Log | Deadside Cheats",
 					description: "更新 — Live Status Log for Deadside survival & squad raids on Windows PC — BattlEyeパッチ状況とrebuildメモ. 即時デジタル配信. Official deadside cheats at deadsidecheat.com.",
 					h1: "ステータス",
 					intro: "BattlEyeパッチ後はUpdatesページを確認。永久undetectedは保証されません。",
@@ -13632,7 +13632,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				faq: {
-					title: "FAQ — Common Answers | ESP, Aimbot & BattlEye PC",
+					title: "FAQ — Common Answers | Deadside Cheats",
 					description: "FAQ — Common Answers for Deadside survival & squad raids on Windows PC — ESP、soft aim、配信、BattlEyeに関する質問. 即時デジタル配信. Official deadside cheats at",
 					h1: "FAQ — Common Answers",
 					intro: "Deadside Cheats FAQ — 配信、セットアップ、更新、返金。",
@@ -13680,7 +13680,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				support: {
-					title: "サポート — Help & Contact | License & Setup Help for PC",
+					title: "サポート — Help & Contact | Deadside Cheats",
 					description: "サポート — Help & Contact for Deadside survival & squad raids on Windows PC — 注文ヘルプとライセンスサポート連絡先. 即時デジタル配信. Official deadside cheats at deadsidecheat.com.",
 					h1: "サポート",
 					intro: "Windows PC向けDeadside Cheatsのライセンス、セットアップ、請求のサポート。",
@@ -13764,7 +13764,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				wallhack: {
-					title: "Deadside Wallhack | ESP Visibility | ESP, Aimbot & Radar",
+					title: "Deadside Wallhack | ESP Visibility",
 					description: "Deadside Wallhack for Deadside survival & squad raids on Windows PC — プレイヤー、死体、距離向けwallhack ESP. 即時デジタル配信. undetected. Official deadside cheats at",
 					h1: "Deadside Wallhack — ESP Visibility",
 					intro: "Deadside CheatsはDeadside向けWindows PC用ESP wallhack、2D radar、deadside aimbotのundetectedパッケージです。Deadside Wallhack. プレイヤー、死体、距離向けwallhack ESP.",
@@ -13802,7 +13802,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				radar: {
-					title: "2D radar — 2D Threat Overlay | 2D Threat Map | Deadside",
+					title: "2D radar — 2D Threat Overlay | Deadside Cheats",
 					description: "2D radar — 2D Threat Overlay for Deadside survival & squad raids on Windows PC — 側面攻撃とローテーション向け2D radarキュー. 即時デジタル配信. Official deadside cheats at",
 					h1: "2D radar — 2D Threat Overlay",
 					intro: "視界外の脅威向けシンプル2D radar。同じDeadside Cheatsライセンスに含まれます。",
@@ -13840,7 +13840,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				battleye: {
-					title: "BattlEye Bypass | BattlEye Patch Maintenance for PC",
+					title: "BattlEye Bypass | BattlEye Patch Maintenance",
 					description: "BattlEye Bypass for Deadside survival & squad raids on Windows PC — Deadside cheats向けBattlEye更新の対応方法. 即時デジタル配信. undetected. Official deadside cheats at",
 					h1: "BattlEye Bypass — BattlEye Patch Maintenance",
 					intro: "Deadside CheatsはDeadside向けWindows PC用ESP wallhack、2D radar、deadside aimbotのundetectedパッケージです。BattlEye Bypass. Deadside cheats向けBattlEye更新の対応方法.",
@@ -13894,7 +13894,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot.webp",
 				},
 				"cheats-2026": {
-					title: "Deadside Cheats 2026 | 2026 Buyer Guide | Windows PC License",
+					title: "Deadside Cheats 2026 | 2026 Buyer Guide",
 					description: "Deadside Cheats 2026 for Deadside survival & squad raids on Windows PC — checkout前の2026 deadside cheatsチェックリスト. 即時デジタル配信. undetected. Official deadside cheats",
 					h1: "Deadside Cheats 2026 — 2026 Buyer Guide",
 					intro: "Deadside CheatsはDeadside向けWindows PC用ESP wallhack、2D radar、deadside aimbotのundetectedパッケージです。Deadside Cheats 2026. checkout前の2026 deadside cheatsチェックリスト.",
@@ -13940,7 +13940,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				hacks: {
-					title: "Deadside Cheats — ESP Aimbot Guide | ESP, Aimbot & Radar PC",
+					title: "Deadside Cheats — ESP Aimbot Guide | Deadside Cheats",
 					description: "Deadside Cheats — ESP Aimbot Guide for Deadside survival & squad raids on Windows PC — ESPとAimbotのDeadside Cheats柱. 即時デジタル配信. Official deadside cheats at",
 					h1: "Deadside Cheats — 完全ガイド",
 					intro: "DeadsideチートはベースゲームにESP、radar、soft aimを追加します。このページではdeadside cheatsの概要、Deadside Cheatsの内容、BattlEyeメンテナンス、購入前の確認先を説明します。",
@@ -14013,7 +14013,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-combat.webp",
 				},
 				"cheat-download": {
-					title: "Deadside Cheat Download | Instant Access for PC",
+					title: "Deadside Cheat Download | Instant Access",
 					description: "Deadside Cheat Download for Deadside survival & squad raids on Windows PC — 支払い後のデジタルライセンスダウンロード. 即時デジタル配信. undetected. Official deadside cheats at",
 					h1: "Deadside Cheat Download — Instant Access",
 					intro: "Deadside CheatsはDeadside向けWindows PC用ESP wallhack、2D radar、deadside aimbotのundetectedパッケージです。Deadside Cheat Download. 支払い後のデジタルライセンスダウンロード.",
@@ -14051,7 +14051,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				"mod-menu": {
-					title: "Deadside Mod Menu | In-Game Toggles | ESP, Aimbot & Radar",
+					title: "Deadside Mod Menu | In-Game Toggles",
 					description: "Deadside Mod Menu for Deadside survival & squad raids on Windows PC — クライアント内ESPとsoft aimトグル. 即時デジタル配信. undetected. Official deadside cheats at",
 					h1: "Deadside Mod Menu — In-Game Toggles",
 					intro: "Deadside CheatsはDeadside向けWindows PC用ESP wallhack、2D radar、deadside aimbotのundetectedパッケージです。Deadside Mod Menu. クライアント内ESPとsoft aimトグル.",
@@ -14089,7 +14089,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				"soft-aim": {
-					title: "Deadside Soft Aim | Smooth Aim Settings | Windows PC License",
+					title: "Deadside Soft Aim | Smooth Aim Settings",
 					description: "Deadside Soft Aim for Deadside survival & squad raids on Windows PC — Windows PC向けスムーズなsoft aim設定. 即時デジタル配信. undetected. Official deadside cheats at",
 					h1: "Deadside Soft Aim — Smooth Aim Settings",
 					intro: "Deadside CheatsはDeadside向けWindows PC用ESP wallhack、2D radar、deadside aimbotのundetectedパッケージです。Deadside Soft Aim. Windows PC向けスムーズなsoft aim設定.",
@@ -14127,7 +14127,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				"best-cheats": {
-					title: "最強Deadsideチート | 2026 Buyer Checklist | ESP, Aimbot & Radar",
+					title: "最強Deadsideチート | 2026 Buyer Checklist",
 					description: "最強Deadsideチート for Deadside survival & squad raids on Windows PC — deadside cheats購入前に比較すべき点. 即時デジタル配信. undetected. Official deadside cheats at",
 					h1: "最強Deadsideチート — 2026 Buyer Checklist",
 					intro: "Deadside CheatsはDeadside向けWindows PC用ESP wallhack、2D radar、deadside aimbotのundetectedパッケージです。最強Deadsideチート. deadside cheats購入前に比較すべき点.",
@@ -14173,7 +14173,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				"aimbot-hack": {
-					title: "deadside aimbot | Soft Aim Assist | ESP, Aimbot & Radar",
+					title: "deadside aimbot | Soft Aim Assist",
 					description: "deadside aimbot for Deadside survival & squad raids on Windows PC — Deadside向けundetected Aimbot assist. 即時デジタル配信. undetected. Official deadside cheats at",
 					h1: "deadside aimbot — Soft Aim Assist",
 					intro: "Deadside CheatsはDeadside向けWindows PC用ESP wallhack、2D radar、deadside aimbotのundetectedパッケージです。deadside aimbot. Deadside向けundetected Aimbot assist.",
@@ -14211,7 +14211,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				"esp-hack": {
-					title: "deadside esp | Boxes & Loot | ESP, Aimbot & Radar",
+					title: "deadside esp | Boxes & Loot",
 					description: "deadside esp for Deadside survival & squad raids on Windows PC — ESPボックス、死体pin、距離. 即時デジタル配信. undetected. Official deadside cheats at deadsidecheat.com.",
 					h1: "deadside esp — Boxes & Loot",
 					intro: "Deadside CheatsはDeadside向けWindows PC用ESP wallhack、2D radar、deadside aimbotのundetectedパッケージです。deadside esp. ESPボックス、死体pin、距離.",
@@ -14249,7 +14249,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				"unlock-all": {
-					title: "Deadside Unlock All | What It Means | ESP, Aimbot & Radar",
+					title: "Deadside Unlock All | What It Means",
 					description: "Deadside Unlock All for Deadside survival & squad raids on Windows PC — unlock-all検索 vs 本物のESPとAimbotツール. 即時デジタル配信. undetected. Official deadside cheats at",
 					h1: "Deadside Unlock All — What It Means",
 					intro: "Deadside CheatsはDeadside向けWindows PC用ESP wallhack、2D radar、deadside aimbotのundetectedパッケージです。Deadside Unlock All. unlock-all検索 vs 本物のESPとAimbotツール.",
@@ -14287,7 +14287,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				privacy: {
-					title: "プライバシーポリシー | Deadside Cheats Legal | ESP, Aimbot & Radar",
+					title: "プライバシーポリシー | Deadside Cheats ライセンスとプライバシー",
 					description: "プライバシーポリシー Deadside Cheats — ESP wallhack、Aimbot向け, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "プライバシーポリシー",
 					intro: "Deadside CheatsはDeadside向けWindows PC用ESP wallhack、2D radar、deadside aimbotのundetectedパッケージです。プライバシーポリシー deadsidecheat.comおよびDeadsideライセンス向け。",
@@ -14322,7 +14322,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				refund: {
-					title: "返金ポリシー | Deadside Cheats Legal | ESP, Aimbot & Radar",
+					title: "返金ポリシー | Deadside Cheats ライセンスとプライバシー",
 					description: "返金ポリシー Deadside Cheats — ESP wallhack、Aimbot向け, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "返金ポリシー",
 					intro: "Deadside CheatsはDeadside向けWindows PC用ESP wallhack、2D radar、deadside aimbotのundetectedパッケージです。返金ポリシー deadsidecheat.comおよびDeadsideライセンス向け。",
@@ -14357,7 +14357,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				terms: {
-					title: "利用規約 | Deadside Cheats Legal | ESP, Aimbot & Radar",
+					title: "利用規約 | Deadside Cheats ライセンスとプライバシー",
 					description: "利用規約 Deadside Cheats — ESP wallhack、Aimbot向け, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "利用規約",
 					intro: "Deadside CheatsはDeadside向けWindows PC用ESP wallhack、2D radar、deadside aimbotのundetectedパッケージです。利用規約 deadsidecheat.comおよびDeadsideライセンス向け。",
@@ -14467,7 +14467,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			},
 			pages: {
 				home: {
-					title: "Deadside Cheats 2026 | ESP, Wallhack, Aimbot for PC",
+					title: "Deadside Cheats 2026 | ESP, Wallhack, Aimbot",
 					description: "Deadside undetected 치트. ESP wallhack, 2D radar, Aimbot, BattlEye 유지보수. 즉시 디지털 배송. Compare plans and guides at deadsidecheat.com.",
 					h1: "Deadside용 undetected 치트",
 					intro: "Deadside Windows PC undetected 패키지: ESP wallhack, radar, Aimbot, BattlEye 유지보수 포함.",
@@ -14495,9 +14495,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				"deadside-esp": {
-					title: "deadside esp — Player Boxes & Wallhack | Wallhack & Player",
-					description: "deadside esp — Player Boxes & Wallhack for Deadside survival & squad raids on Windows PC — 플레이어 박스, 시체 마커, wallhack 오버레이. 즉시 디지털 배송. Official deadside cheats",
-					h1: "deadside esp — Player Boxes & Wallhack",
+					title: "deadside esp — ESP & Wallhack | Deadside Cheats",
+					description: "deadside esp — ESP & Wallhack for Deadside survival & squad raids on Windows PC — 플레이어 박스, 시체 마커, wallhack 오버레이. 즉시 디지털 배송. Official deadside cheats at",
+					h1: "deadside esp — ESP & Wallhack",
 					intro: "Deadside 레이드 중 벽 너머로 플레이어와 loot를 확인하세요. 동일 Deadside Cheats 라이선스에 포함됩니다.",
 					imageAlt: "deadside esp player boxes and distance readouts in a match",
 					galleryTitle: "인게임 화면",
@@ -14545,9 +14545,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				"deadside-aimbot": {
-					title: "deadside aimbot — Soft Aim Controls | Soft Aim & FOV",
-					description: "deadside aimbot — Soft Aim Controls for Deadside survival & squad raids on Windows PC — soft aim, FOV, 종별 Aimbot 프로필. 즉시 디지털 배송. Official deadside cheats at",
-					h1: "deadside aimbot — Soft Aim Controls",
+					title: "deadside aimbot — Soft Aim | Deadside Cheats",
+					description: "deadside aimbot — Soft Aim for Deadside survival & squad raids on Windows PC — soft aim, FOV, 종별 Aimbot 프로필. 즉시 디지털 배송. Official deadside cheats at",
+					h1: "deadside aimbot — Soft Aim",
 					intro: "Deadside용으로 조절 가능한 soft aim 및 에임 보조. 동일 Deadside Cheats 라이선스에 포함.",
 					imageAlt: "deadside aimbot and soft aim controls on Windows PC",
 					galleryTitle: "인게임 화면",
@@ -14674,7 +14674,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				pricing: {
-					title: "가격 — Monthly & Lifetime | $35/mo or $150 Lifetime",
+					title: "가격 — Monthly & Lifetime | Deadside Cheats",
 					description: "가격 — Monthly & Lifetime for Deadside survival & squad raids on Windows PC — 월 $35 또는 lifetime $150 라이선스. 즉시 디지털 배송. Official deadside cheats at",
 					h1: "가격 — Monthly & Lifetime",
 					intro: "Deadside Cheats는 Deadside Windows PC용 ESP wallhack, 2D radar, deadside aimbot undetected 패키지입니다. 스토어 — $35/월 y $150 평생.",
@@ -14724,7 +14724,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				setup: {
-					title: "설치 — PC Setup Guide | Windows PC Install for PC",
+					title: "설치 — PC Setup Guide | Deadside Cheats",
 					description: "설치 — PC Setup Guide for Deadside survival & squad raids on Windows PC — Windows PC 활성화 및 첫 실행 설정. 즉시 디지털 배송. Official deadside cheats at deadsidecheat.com.",
 					h1: "설치",
 					intro: "첫 레이드 전 Windows 10 또는 11에서 라이선스를 설치하고 활성화하세요.",
@@ -14774,7 +14774,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				updates: {
-					title: "업데이트 — Live Status Log | BattlEye Updates | Deadside Cheats",
+					title: "업데이트 — Live Status Log | Deadside Cheats",
 					description: "업데이트 — Live Status Log for Deadside survival & squad raids on Windows PC — BattlEye 패치 상태 및 rebuild 메모. 즉시 디지털 배송. Official deadside cheats at",
 					h1: "상태",
 					intro: "BattlEye 패치 후 Updates 페이지 확인. 영구 undetected 보장 없음.",
@@ -14823,7 +14823,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				faq: {
-					title: "FAQ — Common Answers | ESP, Aimbot & BattlEye PC",
+					title: "FAQ — Common Answers | Deadside Cheats",
 					description: "FAQ — Common Answers for Deadside survival & squad raids on Windows PC — ESP, soft aim, 배송, BattlEye 질문. 즉시 디지털 배송. Official deadside cheats at",
 					h1: "FAQ — Common Answers",
 					intro: "Deadside Cheats FAQ — 배송, 설치, 업데이트, 환불.",
@@ -14871,7 +14871,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				support: {
-					title: "지원 — Help & Contact | License & Setup Help for PC",
+					title: "지원 — Help & Contact | Deadside Cheats",
 					description: "지원 — Help & Contact for Deadside survival & squad raids on Windows PC — 주문 도움 및 라이선스 지원 연락처. 즉시 디지털 배송. Official deadside cheats at deadsidecheat.com.",
 					h1: "지원",
 					intro: "Windows PC Deadside Cheats 라이선스, 설치, 결제 지원.",
@@ -14955,7 +14955,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				wallhack: {
-					title: "Deadside Wallhack | ESP Visibility | ESP, Aimbot & Radar",
+					title: "Deadside Wallhack | ESP Visibility",
 					description: "Deadside Wallhack for Deadside survival & squad raids on Windows PC — 플레이어, 시체, 거리용 wallhack ESP. 즉시 디지털 배송. undetected. Official deadside cheats at",
 					h1: "Deadside Wallhack — ESP Visibility",
 					intro: "Deadside Cheats는 Deadside Windows PC용 ESP wallhack, 2D radar, deadside aimbot undetected 패키지입니다. Deadside Wallhack. 플레이어, 시체, 거리용 wallhack ESP.",
@@ -14993,7 +14993,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				radar: {
-					title: "2D radar — 2D Threat Overlay | 2D Threat Map | Deadside",
+					title: "2D radar — 2D Threat Overlay | Deadside Cheats",
 					description: "2D radar — 2D Threat Overlay for Deadside survival & squad raids on Windows PC — 측면 공격과 로테이션용 2D radar 신호. 즉시 디지털 배송. Official deadside cheats at",
 					h1: "2D radar — 2D Threat Overlay",
 					intro: "시야 밖 위협을 위한 간단한 2D radar. 동일 Deadside Cheats 라이선스에 포함.",
@@ -15031,7 +15031,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				battleye: {
-					title: "BattlEye Bypass | BattlEye Patch Maintenance for PC",
+					title: "BattlEye Bypass | BattlEye Patch Maintenance",
 					description: "BattlEye Bypass for Deadside survival & squad raids on Windows PC — Deadside cheats용 BattlEye 업데이트 처리 방법. 즉시 디지털 배송. undetected. Official deadside cheats at",
 					h1: "BattlEye Bypass — BattlEye Patch Maintenance",
 					intro: "Deadside Cheats는 Deadside Windows PC용 ESP wallhack, 2D radar, deadside aimbot undetected 패키지입니다. BattlEye Bypass. Deadside cheats용 BattlEye 업데이트 처리 방법.",
@@ -15085,7 +15085,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot.webp",
 				},
 				"cheats-2026": {
-					title: "Deadside Cheats 2026 | 2026 Buyer Guide | Windows PC License",
+					title: "Deadside Cheats 2026 | 2026 Buyer Guide",
 					description: "Deadside Cheats 2026 for Deadside survival & squad raids on Windows PC — checkout 전 2026 deadside cheats 체크리스트. 즉시 디지털 배송. undetected. Official deadside cheats",
 					h1: "Deadside Cheats 2026 — 2026 Buyer Guide",
 					intro: "Deadside Cheats는 Deadside Windows PC용 ESP wallhack, 2D radar, deadside aimbot undetected 패키지입니다. Deadside Cheats 2026. checkout 전 2026 deadside cheats 체크리스트.",
@@ -15131,7 +15131,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				hacks: {
-					title: "Deadside Cheats — ESP Aimbot Guide | ESP, Aimbot & Radar PC",
+					title: "Deadside Cheats — ESP Aimbot Guide | Deadside Cheats",
 					description: "Deadside Cheats — ESP Aimbot Guide for Deadside survival & squad raids on Windows PC — ESP와 Aimbot을 위한 Deadside Cheats 기둥. 즉시 디지털 배송. Official deadside cheats",
 					h1: "Deadside Cheats — 전체 가이드",
 					intro: "Deadside 치트는 기본 게임 위에 ESP, radar, soft aim을 추가합니다. 이 페이지는 deadside cheats란, Deadside Cheats 포함 사항, BattlEye 유지보수, 구매 전 확인할 곳을 설명합니다.",
@@ -15204,7 +15204,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-combat.webp",
 				},
 				"cheat-download": {
-					title: "Deadside Cheat Download | Instant Access for PC",
+					title: "Deadside Cheat Download | Instant Access",
 					description: "Deadside Cheat Download for Deadside survival & squad raids on Windows PC — 결제 후 디지털 라이선스 다운로드. 즉시 디지털 배송. undetected. Official deadside cheats at",
 					h1: "Deadside Cheat Download — Instant Access",
 					intro: "Deadside Cheats는 Deadside Windows PC용 ESP wallhack, 2D radar, deadside aimbot undetected 패키지입니다. Deadside Cheat Download. 결제 후 디지털 라이선스 다운로드.",
@@ -15242,7 +15242,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				"mod-menu": {
-					title: "Deadside 모드 메뉴 | In-Game Toggles | ESP, Aimbot & Radar",
+					title: "Deadside 모드 메뉴 | In-Game Toggles",
 					description: "Deadside 모드 메뉴 for Deadside survival & squad raids on Windows PC — 클라이언트 내 ESP 및 soft aim 토글. 즉시 디지털 배송. undetected. Official deadside cheats at",
 					h1: "Deadside 모드 메뉴 — In-Game Toggles",
 					intro: "Deadside Cheats는 Deadside Windows PC용 ESP wallhack, 2D radar, deadside aimbot undetected 패키지입니다. Deadside 모드 메뉴. 클라이언트 내 ESP 및 soft aim 토글.",
@@ -15280,7 +15280,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				"soft-aim": {
-					title: "Deadside Soft Aim | Smooth Aim Settings | Windows PC License",
+					title: "Deadside Soft Aim | Smooth Aim Settings",
 					description: "Deadside Soft Aim for Deadside survival & squad raids on Windows PC — Windows PC용 부드러운 soft aim 설정. 즉시 디지털 배송. undetected. Official deadside cheats at",
 					h1: "Deadside Soft Aim — Smooth Aim Settings",
 					intro: "Deadside Cheats는 Deadside Windows PC용 ESP wallhack, 2D radar, deadside aimbot undetected 패키지입니다. Deadside Soft Aim. Windows PC용 부드러운 soft aim 설정.",
@@ -15318,7 +15318,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				"best-cheats": {
-					title: "최고의 Deadside 치트 | 2026 Buyer Checklist | ESP, Aimbot & Radar",
+					title: "최고의 Deadside 치트 | 2026 Buyer Checklist",
 					description: "최고의 Deadside 치트 for Deadside survival & squad raids on Windows PC — deadside cheats 구매 전 비교할 항목. 즉시 디지털 배송. undetected. Official deadside cheats at",
 					h1: "최고의 Deadside 치트 — 2026 Buyer Checklist",
 					intro: "Deadside Cheats는 Deadside Windows PC용 ESP wallhack, 2D radar, deadside aimbot undetected 패키지입니다. 최고의 Deadside 치트. deadside cheats 구매 전 비교할 항목.",
@@ -15364,7 +15364,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				"aimbot-hack": {
-					title: "Deadside 에임봇 | Soft Aim Assist | ESP, Aimbot & Radar",
+					title: "Deadside 에임봇 | Soft Aim Assist",
 					description: "Deadside 에임봇 for Deadside survival & squad raids on Windows PC — Deadside용 undetected Aimbot assist. 즉시 디지털 배송. undetected. Official deadside cheats at",
 					h1: "Deadside 에임봇 — Soft Aim Assist",
 					intro: "Deadside Cheats는 Deadside Windows PC용 ESP wallhack, 2D radar, deadside aimbot undetected 패키지입니다. Deadside 에임봇. Deadside용 undetected Aimbot assist.",
@@ -15402,7 +15402,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				"esp-hack": {
-					title: "deadside esp | Boxes & Loot | ESP, Aimbot & Radar",
+					title: "deadside esp | Boxes & Loot",
 					description: "deadside esp for Deadside survival & squad raids on Windows PC — ESP 박스, 시체 pin, 거리. 즉시 디지털 배송. undetected. Official deadside cheats at deadsidecheat.com.",
 					h1: "deadside esp — Boxes & Loot",
 					intro: "Deadside Cheats는 Deadside Windows PC용 ESP wallhack, 2D radar, deadside aimbot undetected 패키지입니다. deadside esp. ESP 박스, 시체 pin, 거리.",
@@ -15440,7 +15440,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				"unlock-all": {
-					title: "Deadside Unlock All | What It Means | ESP, Aimbot & Radar",
+					title: "Deadside Unlock All | What It Means",
 					description: "Deadside Unlock All for Deadside survival & squad raids on Windows PC — unlock-all 검색 vs 실제 ESP 및 Aimbot 도구. 즉시 디지털 배송. undetected. Official deadside cheats at",
 					h1: "Deadside Unlock All — What It Means",
 					intro: "Deadside Cheats는 Deadside Windows PC용 ESP wallhack, 2D radar, deadside aimbot undetected 패키지입니다. Deadside Unlock All. unlock-all 검색 vs 실제 ESP 및 Aimbot 도구.",
@@ -15478,7 +15478,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				privacy: {
-					title: "개인정보 처리방침 | Deadside Cheats Legal | ESP, Aimbot & Radar",
+					title: "개인정보 처리방침 | Deadside Cheats",
 					description: "개인정보 처리방침 Deadside Cheats — ESP wallhack, Aimbot용, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "개인정보 처리방침",
 					intro: "Deadside Cheats는 Deadside Windows PC용 ESP wallhack, 2D radar, deadside aimbot undetected 패키지입니다. 개인정보 처리방침 deadsidecheat.com 및 Deadside 라이선스용.",
@@ -15513,7 +15513,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				refund: {
-					title: "환불 정책 | Deadside Cheats Legal | ESP, Aimbot & Radar",
+					title: "환불 정책 | Deadside Cheats",
 					description: "환불 정책 Deadside Cheats — ESP wallhack, Aimbot용, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "환불 정책",
 					intro: "Deadside Cheats는 Deadside Windows PC용 ESP wallhack, 2D radar, deadside aimbot undetected 패키지입니다. 환불 정책 deadsidecheat.com 및 Deadside 라이선스용.",
@@ -15548,7 +15548,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				terms: {
-					title: "이용 약관 | Deadside Cheats Legal | ESP, Aimbot & Radar",
+					title: "이용 약관 | Deadside Cheats",
 					description: "이용 약관 Deadside Cheats — ESP wallhack, Aimbot용, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "이용 약관",
 					intro: "Deadside Cheats는 Deadside Windows PC용 ESP wallhack, 2D radar, deadside aimbot undetected 패키지입니다. 이용 약관 deadsidecheat.com 및 Deadside 라이선스용.",
@@ -15659,7 +15659,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			},
 			pages: {
 				home: {
-					title: "Deadside Cheats 2026｜ESP、Wallhack 與 Aimbot for PC",
+					title: "Deadside Cheats 2026｜ESP、Wallhack 與 Aimbot",
 					description: "適用於 Deadside PC 的 undetected 外掛。ESP wallhack、2D 雷達與 Aimbot，含 BattlEye 維護。即時數位交付。. Compare plans and guides at deadsidecheat.com.",
 					h1: "適用於 Deadside 的 undetected 外掛",
 					intro: "Windows PC 版 Deadside 的 undetected 方案：ESP wallhack、雷達與 Aimbot，每次更新後提供 BattlEye 維護。",
@@ -15687,9 +15687,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				"deadside-esp": {
-					title: "deadside esp — Player Boxes & Wallhack | Wallhack & Player",
-					description: "deadside esp — Player Boxes & Wallhack for Deadside survival & squad raids on Windows PC — 玩家方框、尸体标记和wallhack overlay. 即时数字交付. Official deadside cheats at",
-					h1: "deadside esp — Player Boxes & Wallhack",
+					title: "deadside esp — ESP & Wallhack | Deadside Cheats",
+					description: "deadside esp — ESP & Wallhack for Deadside survival & squad raids on Windows PC — 玩家方框、尸体标记和wallhack overlay. 即时数字交付. Official deadside cheats at",
+					h1: "deadside esp — ESP & Wallhack",
 					intro: "在 Deadside match 中透视玩家和物资。包含在同一 Deadside Cheats 许可证中。",
 					imageAlt: "deadside esp player boxes and distance readouts in a match",
 					galleryTitle: "游戏内效果",
@@ -15737,9 +15737,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				"deadside-aimbot": {
-					title: "deadside aimbot — Soft Aim Controls | Soft Aim & FOV",
-					description: "deadside aimbot — Soft Aim Controls for Deadside survival & squad raids on Windows PC — soft aim、FOV和按物种的Aimbot配置. 即时数字交付. Official deadside cheats at",
-					h1: "deadside aimbot — Soft Aim Controls",
+					title: "deadside aimbot — Soft Aim | Deadside Cheats",
+					description: "deadside aimbot — Soft Aim for Deadside survival & squad raids on Windows PC — soft aim、FOV和按物种的Aimbot配置. 即时数字交付. Official deadside cheats at deadsidecheat.com.",
+					h1: "deadside aimbot — Soft Aim",
 					intro: "可为 Deadside 调节的 soft aim 和瞄准辅助。包含在同一 Deadside Cheats 许可证中。",
 					imageAlt: "deadside aimbot and soft aim controls on Windows PC",
 					galleryTitle: "游戏内效果",
@@ -15866,7 +15866,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				pricing: {
-					title: "价格 — Monthly & Lifetime | $35/mo or $150 Lifetime",
+					title: "价格 — Monthly & Lifetime | Deadside Cheats",
 					description: "价格 — Monthly & Lifetime for Deadside survival & squad raids on Windows PC — 月付$35或lifetime $150许可证. 即时数字交付. Official deadside cheats at deadsidecheat.com.",
 					h1: "价格 — Monthly & Lifetime",
 					intro: "Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。商店 — $35/月 y $150终身.",
@@ -15916,7 +15916,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				setup: {
-					title: "安装 — PC Setup Guide | Windows PC Install for PC",
+					title: "安装 — PC Setup Guide | Deadside Cheats",
 					description: "安装 — PC Setup Guide for Deadside survival & squad raids on Windows PC — Windows PC激活和首次启动设置. 即时数字交付. Official deadside cheats at deadsidecheat.com.",
 					h1: "安装",
 					intro: "首次 match 前在 Windows 10 或 11 上安装并激活许可证。",
@@ -15966,7 +15966,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				updates: {
-					title: "更新 — Live Status Log | BattlEye Updates | Deadside Cheats",
+					title: "更新 — Live Status Log | Deadside Cheats",
 					description: "更新 — Live Status Log for Deadside survival & squad raids on Windows PC — BattlEye补丁状态和rebuild说明. 即时数字交付. Official deadside cheats at deadsidecheat.com.",
 					h1: "状态",
 					intro: "BattlEye补丁后请查看Updates页面。无任何作弊保证永久undetected。",
@@ -16015,7 +16015,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				faq: {
-					title: "常见问题 — Common Answers | ESP, Aimbot & BattlEye PC",
+					title: "常见问题 — Common Answers | Deadside Cheats",
 					description: "常见问题 — Common Answers for Deadside survival & squad raids on Windows PC — ESP、soft aim、交付和BattlEye问题. 即时数字交付. Official deadside cheats at deadsidecheat.com.",
 					h1: "常见问题 — Common Answers",
 					intro: "Deadside Cheats 常见问题 — 交付、安装、更新和退款。",
@@ -16063,7 +16063,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				support: {
-					title: "支持 — Help & Contact | License & Setup Help for PC",
+					title: "支持 — Help & Contact | Deadside Cheats",
 					description: "支持 — Help & Contact for Deadside survival & squad raids on Windows PC — 订单帮助和许可证支持联系方式. 即时数字交付. Official deadside cheats at deadsidecheat.com.",
 					h1: "支持",
 					intro: "获取 Windows PC 上 Deadside Cheats 的许可证、安装和账单帮助。",
@@ -16147,7 +16147,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				wallhack: {
-					title: "Deadside Wallhack | ESP Visibility | ESP, Aimbot & Radar",
+					title: "Deadside Wallhack | ESP Visibility",
 					description: "Deadside Wallhack for Deadside survival & squad raids on Windows PC — 玩家、尸体和距离的wallhack ESP. 即时数字交付. undetected. Official deadside cheats at deadsidecheat.com.",
 					h1: "Deadside Wallhack — ESP Visibility",
 					intro: "Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。Deadside Wallhack. 玩家、尸体和距离的wallhack ESP.",
@@ -16185,7 +16185,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				radar: {
-					title: "2D radar — 2D Threat Overlay | 2D Threat Map | Deadside",
+					title: "2D radar — 2D Threat Overlay | Deadside Cheats",
 					description: "2D radar — 2D Threat Overlay for Deadside survival & squad raids on Windows PC — 侧翼和轮换的2D radar提示. 即时数字交付. Official deadside cheats at deadsidecheat.com.",
 					h1: "2D radar — 2D Threat Overlay",
 					intro: "用于屏幕外威胁的简单 2D radar。包含在同一 Deadside Cheats 许可证中。",
@@ -16223,7 +16223,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				battleye: {
-					title: "BattlEye Bypass | BattlEye Patch Maintenance for PC",
+					title: "BattlEye Bypass | BattlEye Patch Maintenance",
 					description: "BattlEye Bypass for Deadside survival & squad raids on Windows PC — Deadside cheats的BattlEye更新处理方式. 即时数字交付. undetected. Official deadside cheats at",
 					h1: "BattlEye Bypass — BattlEye Patch Maintenance",
 					intro: "Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。BattlEye Bypass. Deadside cheats的BattlEye更新处理方式.",
@@ -16277,7 +16277,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot.webp",
 				},
 				"cheats-2026": {
-					title: "Deadside作弊 2026 | 2026 Buyer Guide | ESP, Aimbot & Radar",
+					title: "Deadside作弊 2026 | 2026 Buyer Guide",
 					description: "Deadside作弊 2026 for Deadside survival & squad raids on Windows PC — checkout前的2026 deadside cheats清单. 即时数字交付. undetected. Official deadside cheats at",
 					h1: "Deadside作弊 2026 — 2026 Buyer Guide",
 					intro: "Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。Deadside作弊 2026. checkout前的2026 deadside cheats清单.",
@@ -16323,7 +16323,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				hacks: {
-					title: "Deadside作弊 — ESP Aimbot Guide | ESP, Aimbot & Radar PC",
+					title: "Deadside作弊 — ESP Aimbot Guide | Deadside Cheats",
 					description: "Deadside作弊 — ESP Aimbot Guide for Deadside survival & squad raids on Windows PC — ESP和Aimbot的Deadside Cheats支柱. 即时数字交付. Official deadside cheats at",
 					h1: "Deadside Cheats — 完整指南",
 					intro: "Deadside cheats 在基础游戏上添加 ESP、radar 和 soft aim。本页说明什么是 deadside cheats、Deadside Cheats 包含什么、BattlEye 维护以及购买前该看哪里。",
@@ -16396,7 +16396,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-combat.webp",
 				},
 				"cheat-download": {
-					title: "Deadside作弊下载 | Instant Access | ESP, Aimbot & Radar",
+					title: "Deadside作弊下载 | Instant Access",
 					description: "Deadside作弊下载 for Deadside survival & squad raids on Windows PC — 付款后的数字许可证下载. 即时数字交付. undetected. Official deadside cheats at deadsidecheat.com.",
 					h1: "Deadside作弊下载 — Instant Access",
 					intro: "Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。Deadside作弊下载. 付款后的数字许可证下载.",
@@ -16434,7 +16434,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				"mod-menu": {
-					title: "Deadside修改菜单 | In-Game Toggles | ESP, Aimbot & Radar",
+					title: "Deadside修改菜单 | In-Game Toggles",
 					description: "Deadside修改菜单 for Deadside survival & squad raids on Windows PC — 客户端内ESP和soft aim开关. 即时数字交付. undetected. Official deadside cheats at deadsidecheat.com.",
 					h1: "Deadside修改菜单 — In-Game Toggles",
 					intro: "Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。Deadside修改菜单. 客户端内ESP和soft aim开关.",
@@ -16472,7 +16472,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				"soft-aim": {
-					title: "Deadside Soft Aim | Smooth Aim Settings | Windows PC License",
+					title: "Deadside Soft Aim | Smooth Aim Settings",
 					description: "Deadside Soft Aim for Deadside survival & squad raids on Windows PC — Windows PC的流畅soft aim设置. 即时数字交付. undetected. Official deadside cheats at",
 					h1: "Deadside Soft Aim — Smooth Aim Settings",
 					intro: "Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。Deadside Soft Aim. Windows PC的流畅soft aim设置.",
@@ -16510,7 +16510,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				"best-cheats": {
-					title: "最佳Deadside作弊 | 2026 Buyer Checklist | ESP, Aimbot & Radar",
+					title: "最佳Deadside作弊 | 2026 Buyer Checklist",
 					description: "最佳Deadside作弊 for Deadside survival & squad raids on Windows PC — 购买deadside cheats前应比较的内容. 即时数字交付. undetected. Official deadside cheats at deadsidecheat.com.",
 					h1: "最佳Deadside作弊 — 2026 Buyer Checklist",
 					intro: "Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。最佳Deadside作弊. 购买deadside cheats前应比较的内容.",
@@ -16556,7 +16556,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				"aimbot-hack": {
-					title: "Deadside自瞄 | Soft Aim Assist | ESP, Aimbot & Radar",
+					title: "Deadside自瞄 | Soft Aim Assist",
 					description: "Deadside自瞄 for Deadside survival & squad raids on Windows PC — Deadside的undetected Aimbot assist. 即时数字交付. undetected. Official deadside cheats at",
 					h1: "Deadside自瞄 — Soft Aim Assist",
 					intro: "Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。Deadside自瞄. Deadside的undetected Aimbot assist.",
@@ -16594,7 +16594,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				"esp-hack": {
-					title: "deadside esp | Boxes & Loot | ESP, Aimbot & Radar",
+					title: "deadside esp | Boxes & Loot",
 					description: "deadside esp for Deadside survival & squad raids on Windows PC — ESP方框、尸体pin和距离. 即时数字交付. undetected. Official deadside cheats at deadsidecheat.com.",
 					h1: "deadside esp — Boxes & Loot",
 					intro: "Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。deadside esp. ESP方框、尸体pin和距离.",
@@ -16632,7 +16632,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				"unlock-all": {
-					title: "Deadside Unlock All | What It Means | ESP, Aimbot & Radar",
+					title: "Deadside Unlock All | What It Means",
 					description: "Deadside Unlock All for Deadside survival & squad raids on Windows PC — unlock-all搜索 vs 真正的ESP和Aimbot工具. 即时数字交付. undetected. Official deadside cheats at",
 					h1: "Deadside Unlock All — What It Means",
 					intro: "Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。Deadside Unlock All. unlock-all搜索 vs 真正的ESP和Aimbot工具.",
@@ -16670,7 +16670,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				privacy: {
-					title: "隐私政策 | Deadside Cheats Legal | ESP, Aimbot & Radar",
+					title: "隐私政策 | Deadside Cheats 许可与隐私政策",
 					description: "隐私政策 Deadside Cheats — ESP wallhack、Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "隐私政策",
 					intro: "Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。隐私政策 适用于 deadsidecheat.com 和 Deadside 许可证。",
@@ -16705,7 +16705,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				refund: {
-					title: "退款政策 | Deadside Cheats Legal | ESP, Aimbot & Radar",
+					title: "退款政策 | Deadside Cheats 许可与隐私政策",
 					description: "退款政策 Deadside Cheats — ESP wallhack、Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "退款政策",
 					intro: "Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。退款政策 适用于 deadsidecheat.com 和 Deadside 许可证。",
@@ -16740,7 +16740,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				terms: {
-					title: "使用条款 | Deadside Cheats Legal | ESP, Aimbot & Radar",
+					title: "使用条款 | Deadside Cheats 许可与隐私政策",
 					description: "使用条款 Deadside Cheats — ESP wallhack、Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "使用条款",
 					intro: "Deadside Cheats为DeadsideWindows PC提供ESP wallhack、2D radar和deadside aimbotundetected套餐。使用条款 适用于 deadsidecheat.com 和 Deadside 许可证。",
@@ -16878,9 +16878,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				"deadside-esp": {
-					title: "deadside esp — Player Boxes & Wallhack | Wallhack & Player",
-					description: "deadside esp — Player Boxes & Wallhack for Deadside survival & squad raids on Windows PC — प्लेयर बॉक्स, loot markers और wallhack overlays. तुरंत डिजिटल",
-					h1: "deadside esp — Player Boxes & Wallhack",
+					title: "deadside esp — ESP & Wallhack | Deadside Cheats",
+					description: "deadside esp — ESP & Wallhack for Deadside survival & squad raids on Windows PC — प्लेयर बॉक्स, loot markers और wallhack overlays. तुरंत डिजिटल डिलीवरी.",
+					h1: "deadside esp — ESP & Wallhack",
 					intro: "Deadside matches में दीवारों के पार players और loot देखें। उसी Deadside Cheats लाइसेंस का हिस्सा।",
 					imageAlt: "deadside esp player boxes and distance readouts in a match",
 					galleryTitle: "इन-गेम लुक",
@@ -16928,9 +16928,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				"deadside-aimbot": {
-					title: "deadside aimbot — Soft Aim Controls | Soft Aim & FOV",
-					description: "deadside aimbot — Soft Aim Controls for Deadside survival & squad raids on Windows PC — soft aim, FOV और प्रजाति-वार Aimbot profiles. तुरंत डिजिटल डिलीवरी.",
-					h1: "deadside aimbot — Soft Aim Controls",
+					title: "deadside aimbot — Soft Aim | Deadside Cheats",
+					description: "deadside aimbot — Soft Aim for Deadside survival & squad raids on Windows PC — soft aim, FOV और प्रजाति-वार Aimbot profiles. तुरंत डिजिटल डिलीवरी. Official",
+					h1: "deadside aimbot — Soft Aim",
 					intro: "Deadside के लिए ट्यून करने योग्य soft aim और aim assist। उसी Deadside Cheats लाइसेंस में शामिल।",
 					imageAlt: "deadside aimbot and soft aim controls on Windows PC",
 					galleryTitle: "इन-गेम लुक",
@@ -17057,7 +17057,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				pricing: {
-					title: "कीमत — Monthly & Lifetime | $35/mo or $150 Lifetime",
+					title: "कीमत — Monthly & Lifetime | Deadside Cheats",
 					description: "कीमत — Monthly & Lifetime for Deadside survival & squad raids on Windows PC — $35 monthly या $150 lifetime licenses. तुरंत डिजिटल डिलीवरी. Official deadside",
 					h1: "कीमत — Monthly & Lifetime",
 					intro: "Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, 2D radar और deadside aimbot undetected पैकेज देता है। स्टोर — $35/माह y $150 लाइफ़टाइम.",
@@ -17107,7 +17107,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				setup: {
-					title: "सेटअप — PC Setup Guide | Windows PC Install for PC",
+					title: "सेटअप — PC Setup Guide | Deadside Cheats",
 					description: "सेटअप — PC Setup Guide for Deadside survival & squad raids on Windows PC — Windows PC activation और first-launch setup. तुरंत डिजिटल डिलीवरी. Official deadside",
 					h1: "सेटअप",
 					intro: "पहले match से पहले Windows 10 या 11 पर लाइसेंस इंस्टॉल और सक्रिय करें।",
@@ -17157,7 +17157,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				updates: {
-					title: "अपडेट — Live Status Log | BattlEye Updates | Deadside Cheats",
+					title: "अपडेट — Live Status Log | Deadside Cheats",
 					description: "अपडेट — Live Status Log for Deadside survival & squad raids on Windows PC — BattlEye patch status और rebuild notes. तुरंत डिजिटल डिलीवरी. Official deadside",
 					h1: "स्टेटस",
 					intro: "BattlEye पैच के बाद Updates पेज देखें। कोई भी cheat permanent undetected गारंटी नहीं देता।",
@@ -17206,7 +17206,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				faq: {
-					title: "FAQ — Common Answers | ESP, Aimbot & BattlEye PC",
+					title: "FAQ — Common Answers | Deadside Cheats",
 					description: "FAQ — Common Answers for Deadside survival & squad raids on Windows PC — ESP, soft aim, delivery और BattlEye questions. तुरंत डिजिटल डिलीवरी. Official deadside",
 					h1: "FAQ — Common Answers",
 					intro: "Deadside Cheats FAQ — डिलीवरी, setup, अपडेट और रिफंड।",
@@ -17254,7 +17254,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				support: {
-					title: "सहायता — Help & Contact | License & Setup Help",
+					title: "सहायता — Help & Contact | Deadside Cheats",
 					description: "सहायता — Help & Contact for Deadside survival & squad raids on Windows PC — order help और license support contact. तुरंत डिजिटल डिलीवरी. Official deadside",
 					h1: "सहायता",
 					intro: "Windows PC पर Deadside Cheats लाइसेंस, setup और billing सहायता।",
@@ -17338,7 +17338,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				wallhack: {
-					title: "Deadside Wallhack | ESP Visibility | ESP, Aimbot & Radar",
+					title: "Deadside Wallhack | ESP Visibility",
 					description: "Deadside Wallhack for Deadside survival & squad raids on Windows PC — players, loot और distance के लिए wallhack ESP. तुरंत डिजिटल डिलीवरी. undetected. Official",
 					h1: "Deadside Wallhack — ESP Visibility",
 					intro: "Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, 2D radar और deadside aimbot undetected पैकेज देता है। Deadside Wallhack. players, loot और distance के लिए wallhack ESP.",
@@ -17376,7 +17376,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				radar: {
-					title: "2D radar — 2D Threat Overlay | 2D Threat Map | Deadside",
+					title: "2D radar — 2D Threat Overlay | Deadside Cheats",
 					description: "2D radar — 2D Threat Overlay for Deadside survival & squad raids on Windows PC — flanks और rotations के लिए 2D radar cues. तुरंत डिजिटल डिलीवरी. Official",
 					h1: "2D radar — 2D Threat Overlay",
 					intro: "आपकी दृष्टि से बाहर threats के लिए सरल 2D radar। उसी Deadside Cheats लाइसेंस में शामिल।",
@@ -17414,7 +17414,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				battleye: {
-					title: "BattlEye Bypass | BattlEye Patch Maintenance for PC",
+					title: "BattlEye Bypass | BattlEye Patch Maintenance",
 					description: "BattlEye Bypass for Deadside survival & squad raids on Windows PC — Deadside cheats के लिए BattlEye updates कैसे handle होते हैं. तुरंत डिजिटल डिलीवरी.",
 					h1: "BattlEye Bypass — BattlEye Patch Maintenance",
 					intro: "Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, 2D radar और deadside aimbot undetected पैकेज देता है। BattlEye Bypass. Deadside cheats के लिए BattlEye updates कैसे handle होते हैं.",
@@ -17468,7 +17468,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot.webp",
 				},
 				"cheats-2026": {
-					title: "Deadside Cheats 2026 | 2026 Buyer Guide | Windows PC License",
+					title: "Deadside Cheats 2026 | 2026 Buyer Guide",
 					description: "Deadside Cheats 2026 for Deadside survival & squad raids on Windows PC — checkout से पहले 2026 deadside cheats checklist. तुरंत डिजिटल डिलीवरी. undetected.",
 					h1: "Deadside Cheats 2026 — 2026 Buyer Guide",
 					intro: "Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, 2D radar और deadside aimbot undetected पैकेज देता है। Deadside Cheats 2026. checkout से पहले 2026 deadside cheats checklist.",
@@ -17514,7 +17514,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				hacks: {
-					title: "Deadside Cheats — ESP Aimbot Guide | ESP, Aimbot & Radar PC",
+					title: "Deadside Cheats — ESP Aimbot Guide | Deadside Cheats",
 					description: "Deadside Cheats — ESP Aimbot Guide for Deadside survival & squad raids on Windows PC — ESP और Aimbot के लिए Deadside Cheats pillar. तुरंत डिजिटल डिलीवरी.",
 					h1: "Deadside Cheats — पूर्ण गाइड",
 					intro: "Deadside cheats बेस गेम पर ESP, radar और soft aim जोड़ते हैं। यह पेज बताता है deadside cheats क्या हैं, Deadside Cheats में क्या है, BattlEye रखरखाव और खरीद से पहले कहाँ जाएँ।",
@@ -17587,7 +17587,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-combat.webp",
 				},
 				"cheat-download": {
-					title: "Deadside Cheat Download | Instant Access for PC",
+					title: "Deadside Cheat Download | Instant Access",
 					description: "Deadside Cheat Download for Deadside survival & squad raids on Windows PC — payment के बाद digital license download. तुरंत डिजिटल डिलीवरी. undetected. Official",
 					h1: "Deadside Cheat Download — Instant Access",
 					intro: "Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, 2D radar और deadside aimbot undetected पैकेज देता है। Deadside Cheat Download. payment के बाद digital license download.",
@@ -17625,7 +17625,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				"mod-menu": {
-					title: "Deadside Mod Menu | In-Game Toggles | ESP, Aimbot & Radar",
+					title: "Deadside Mod Menu | In-Game Toggles",
 					description: "Deadside Mod Menu for Deadside survival & squad raids on Windows PC — in-client ESP और soft aim toggles. तुरंत डिजिटल डिलीवरी. undetected. Official deadside",
 					h1: "Deadside Mod Menu — In-Game Toggles",
 					intro: "Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, 2D radar और deadside aimbot undetected पैकेज देता है। Deadside Mod Menu. in-client ESP और soft aim toggles.",
@@ -17663,7 +17663,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				"soft-aim": {
-					title: "Deadside Soft Aim | Smooth Aim Settings | Windows PC License",
+					title: "Deadside Soft Aim | Smooth Aim Settings",
 					description: "Deadside Soft Aim for Deadside survival & squad raids on Windows PC — Windows PC के लिए smooth soft aim settings. तुरंत डिजिटल डिलीवरी. undetected. Official",
 					h1: "Deadside Soft Aim — Smooth Aim Settings",
 					intro: "Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, 2D radar और deadside aimbot undetected पैकेज देता है। Deadside Soft Aim. Windows PC के लिए smooth soft aim settings.",
@@ -17747,7 +17747,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				"aimbot-hack": {
-					title: "deadside aimbot | Soft Aim Assist | ESP, Aimbot & Radar",
+					title: "deadside aimbot | Soft Aim Assist",
 					description: "deadside aimbot for Deadside survival & squad raids on Windows PC — Deadside के लिए undetected Aimbot assist. तुरंत डिजिटल डिलीवरी. undetected. Official",
 					h1: "deadside aimbot — Soft Aim Assist",
 					intro: "Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, 2D radar और deadside aimbot undetected पैकेज देता है। deadside aimbot. Deadside के लिए undetected Aimbot assist.",
@@ -17785,7 +17785,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				"esp-hack": {
-					title: "deadside esp | Boxes & Loot | ESP, Aimbot & Radar",
+					title: "deadside esp | Boxes & Loot",
 					description: "deadside esp for Deadside survival & squad raids on Windows PC — ESP boxes, loot pins और distance. तुरंत डिजिटल डिलीवरी. undetected. Official deadside cheats",
 					h1: "deadside esp — Boxes & Loot",
 					intro: "Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, 2D radar और deadside aimbot undetected पैकेज देता है। deadside esp. ESP boxes, loot pins और distance.",
@@ -17823,7 +17823,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				"unlock-all": {
-					title: "Deadside Unlock All | What It Means | ESP, Aimbot & Radar",
+					title: "Deadside Unlock All | What It Means",
 					description: "Deadside Unlock All for Deadside survival & squad raids on Windows PC — unlock-all searches vs real ESP और Aimbot tools. तुरंत डिजिटल डिलीवरी. undetected.",
 					h1: "Deadside Unlock All — What It Means",
 					intro: "Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, 2D radar और deadside aimbot undetected पैकेज देता है। Deadside Unlock All. unlock-all searches vs real ESP और Aimbot tools.",
@@ -17861,7 +17861,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				privacy: {
-					title: "गोपनीयता नीति | Deadside Cheats Legal | ESP, Aimbot & Radar",
+					title: "गोपनीयता नीति | Deadside Cheats",
 					description: "गोपनीयता नीति Deadside Cheats — ESP wallhack, Aimbot के लिए, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "गोपनीयता नीति",
 					intro: "Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, 2D radar और deadside aimbot undetected पैकेज देता है। गोपनीयता नीति deadsidecheat.com और Deadside लाइसेंस के लिए।",
@@ -17896,7 +17896,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				refund: {
-					title: "रिफंड नीति | Deadside Cheats Legal | ESP, Aimbot & Radar",
+					title: "रिफंड नीति | Deadside Cheats",
 					description: "रिफंड नीति Deadside Cheats — ESP wallhack, Aimbot के लिए, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "रिफंड नीति",
 					intro: "Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, 2D radar और deadside aimbot undetected पैकेज देता है। रिफंड नीति deadsidecheat.com और Deadside लाइसेंस के लिए।",
@@ -17931,7 +17931,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				terms: {
-					title: "उपयोग की शर्तें | Deadside Cheats Legal | Windows PC License",
+					title: "उपयोग की शर्तें | Deadside Cheats",
 					description: "उपयोग की शर्तें Deadside Cheats — ESP wallhack, Aimbot के लिए, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "उपयोग की शर्तें",
 					intro: "Deadside Cheats Deadside के लिए Windows PC पर ESP wallhack, 2D radar और deadside aimbot undetected पैकेज देता है। उपयोग की शर्तें deadsidecheat.com और Deadside लाइसेंस के लिए।",
@@ -18069,9 +18069,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				"deadside-esp": {
-					title: "ESP Deadside — Player Boxes & Wallhack | Wallhack & Player",
-					description: "ESP Deadside — Player Boxes & Wallhack for Deadside survival & squad raids on Windows PC — kotak pemain, penanda bangkai, dan overlay wallhack. pengiriman",
-					h1: "ESP Deadside — Player Boxes & Wallhack",
+					title: "ESP Deadside — ESP & Wallhack | Deadside Cheats",
+					description: "ESP Deadside — ESP & Wallhack for Deadside survival & squad raids on Windows PC — kotak pemain, penanda bangkai, dan overlay wallhack. pengiriman digital",
+					h1: "ESP Deadside — ESP & Wallhack",
 					intro: "Lihat pemain dan loot menembus dinding saat match Deadside. Bagian dari lisensi Deadside Cheats yang sama.",
 					imageAlt: "deadside esp player boxes and distance readouts in a match",
 					galleryTitle: "Tampilan in-game",
@@ -18119,9 +18119,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				"deadside-aimbot": {
-					title: "Aimbot Deadside — Soft Aim Controls | Soft Aim & FOV",
-					description: "Aimbot Deadside — Soft Aim Controls for Deadside survival & squad raids on Windows PC — soft aim, FOV, dan profil Aimbot per spesies. pengiriman digital",
-					h1: "Aimbot Deadside — Soft Aim Controls",
+					title: "Aimbot Deadside — Soft Aim | Deadside Cheats",
+					description: "Aimbot Deadside — Soft Aim for Deadside survival & squad raids on Windows PC — soft aim, FOV, dan profil Aimbot per spesies. pengiriman digital instan.",
+					h1: "Aimbot Deadside — Soft Aim",
 					intro: "Soft aim dan bantuan aim yang bisa disesuaikan untuk Deadside. Termasuk dalam lisensi Deadside Cheats yang sama.",
 					imageAlt: "deadside aimbot and soft aim controls on Windows PC",
 					galleryTitle: "Tampilan in-game",
@@ -18248,7 +18248,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				pricing: {
-					title: "Harga — Monthly & Lifetime | $35/mo or $150 Lifetime",
+					title: "Harga — Monthly & Lifetime | Deadside Cheats",
 					description: "Harga — Monthly & Lifetime for Deadside survival & squad raids on Windows PC — lisensi $35 bulanan atau $150 lifetime. pengiriman digital instan. Official",
 					h1: "Harga — Monthly & Lifetime",
 					intro: "Deadside Cheats menyediakan ESP wallhack, 2D radar, dan deadside aimbot undetected untuk Deadside di PC Windows. Toko — $35/bulan y $150 seumur hidup.",
@@ -18298,7 +18298,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				setup: {
-					title: "Setup — PC Setup Guide | Windows PC Install for PC",
+					title: "Setup — PC Setup Guide | Deadside Cheats",
 					description: "Setup — PC Setup Guide for Deadside survival & squad raids on Windows PC — aktivasi Windows PC dan setup peluncuran pertama. pengiriman digital instan.",
 					h1: "Setup",
 					intro: "Instal dan aktifkan lisensi di Windows 10 atau 11 sebelum match pertama.",
@@ -18348,7 +18348,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				updates: {
-					title: "Pembaruan — Live Status Log | BattlEye Updates | Deadside",
+					title: "Pembaruan — Live Status Log | Deadside Cheats",
 					description: "Pembaruan — Live Status Log for Deadside survival & squad raids on Windows PC — status patch BattlEye dan catatan rebuild. pengiriman digital instan. Official",
 					h1: "Status",
 					intro: "Periksa Updates setelah patch BattlEye. Tidak ada cheat yang menjamin undetected permanen.",
@@ -18397,7 +18397,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				faq: {
-					title: "FAQ — Common Answers | ESP, Aimbot & BattlEye PC",
+					title: "FAQ — Common Answers | Deadside Cheats",
 					description: "FAQ — Common Answers for Deadside survival & squad raids on Windows PC — pertanyaan ESP, soft aim, pengiriman, dan BattlEye. pengiriman digital instan.",
 					h1: "FAQ — Common Answers",
 					intro: "FAQ Deadside Cheats — pengiriman, setup, pembaruan, dan refund.",
@@ -18445,7 +18445,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				support: {
-					title: "Dukungan — Help & Contact | License & Setup Help",
+					title: "Dukungan — Help & Contact | Deadside Cheats",
 					description: "Dukungan — Help & Contact for Deadside survival & squad raids on Windows PC — bantuan pesanan dan kontak dukungan lisensi. pengiriman digital instan. Official",
 					h1: "Dukungan",
 					intro: "Bantuan lisensi, setup, dan billing Deadside Cheats di Windows PC.",
@@ -18529,7 +18529,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				wallhack: {
-					title: "Deadside Wallhack | ESP Visibility | ESP, Aimbot & Radar",
+					title: "Deadside Wallhack | ESP Visibility",
 					description: "Deadside Wallhack for Deadside survival & squad raids on Windows PC — wallhack ESP untuk pemain, bangkai, dan jarak. pengiriman digital instan. undetected.",
 					h1: "Deadside Wallhack — ESP Visibility",
 					intro: "Deadside Cheats menyediakan ESP wallhack, 2D radar, dan deadside aimbot undetected untuk Deadside di PC Windows. Deadside Wallhack. wallhack ESP untuk pemain, bangkai, dan jarak.",
@@ -18567,7 +18567,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				radar: {
-					title: "2D radar — 2D Threat Overlay | 2D Threat Map | Deadside",
+					title: "2D radar — 2D Threat Overlay | Deadside Cheats",
 					description: "2D radar — 2D Threat Overlay for Deadside survival & squad raids on Windows PC — petunjuk radar 2D untuk flanking dan rotasi. pengiriman digital instan.",
 					h1: "2D radar — 2D Threat Overlay",
 					intro: "Radar 2D sederhana untuk ancaman di luar pandangan. Termasuk dalam lisensi Deadside Cheats yang sama.",
@@ -18605,7 +18605,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				battleye: {
-					title: "Bypass BattlEye | BattlEye Patch Maintenance for PC",
+					title: "Bypass BattlEye | BattlEye Patch Maintenance",
 					description: "Bypass BattlEye for Deadside survival & squad raids on Windows PC — cara pembaruan BattlEye ditangani untuk Deadside cheats. pengiriman digital instan.",
 					h1: "Bypass BattlEye — BattlEye Patch Maintenance",
 					intro: "Deadside Cheats menyediakan ESP wallhack, 2D radar, dan deadside aimbot undetected untuk Deadside di PC Windows. Bypass BattlEye. cara pembaruan BattlEye ditangani untuk Deadside cheats.",
@@ -18659,7 +18659,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot.webp",
 				},
 				"cheats-2026": {
-					title: "Cheat Deadside 2026 | 2026 Buyer Guide | ESP, Aimbot & Radar",
+					title: "Cheat Deadside 2026 | 2026 Buyer Guide",
 					description: "Cheat Deadside 2026 for Deadside survival & squad raids on Windows PC — checklist deadside cheats 2026 sebelum checkout. pengiriman digital instan. undetected.",
 					h1: "Cheat Deadside 2026 — 2026 Buyer Guide",
 					intro: "Deadside Cheats menyediakan ESP wallhack, 2D radar, dan deadside aimbot undetected untuk Deadside di PC Windows. Cheat Deadside 2026. checklist deadside cheats 2026 sebelum checkout.",
@@ -18705,7 +18705,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				hacks: {
-					title: "Cheat Deadside — ESP Aimbot Guide | ESP, Aimbot & Radar PC",
+					title: "Cheat Deadside — ESP Aimbot Guide | Deadside Cheats",
 					description: "Cheat Deadside — ESP Aimbot Guide for Deadside survival & squad raids on Windows PC — pilar Deadside Cheats untuk ESP dan Aimbot. pengiriman digital instan.",
 					h1: "Deadside Cheats — Panduan lengkap",
 					intro: "Deadside cheats menambahkan ESP, radar, dan soft aim di atas game dasar. Halaman ini menjelaskan apa itu deadside cheats, apa yang termasuk Deadside Cheats, pemeliharaan BattlEye, dan langkah sebelum membeli.",
@@ -18778,7 +18778,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-combat.webp",
 				},
 				"cheat-download": {
-					title: "Download Cheat Deadside | Instant Access for PC",
+					title: "Download Cheat Deadside | Instant Access",
 					description: "Download Cheat Deadside for Deadside survival & squad raids on Windows PC — unduhan lisensi digital setelah pembayaran. pengiriman digital instan. undetected.",
 					h1: "Download Cheat Deadside — Instant Access",
 					intro: "Deadside Cheats menyediakan ESP wallhack, 2D radar, dan deadside aimbot undetected untuk Deadside di PC Windows. Download Cheat Deadside. unduhan lisensi digital setelah pembayaran.",
@@ -18816,7 +18816,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				"mod-menu": {
-					title: "Menu mod Deadside | In-Game Toggles | ESP, Aimbot & Radar",
+					title: "Menu mod Deadside | In-Game Toggles",
 					description: "Menu mod Deadside for Deadside survival & squad raids on Windows PC — toggle ESP dan soft aim in-client. pengiriman digital instan. undetected. Official",
 					h1: "Menu mod Deadside — In-Game Toggles",
 					intro: "Deadside Cheats menyediakan ESP wallhack, 2D radar, dan deadside aimbot undetected untuk Deadside di PC Windows. Menu mod Deadside. toggle ESP dan soft aim in-client.",
@@ -18854,7 +18854,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				"soft-aim": {
-					title: "Soft aim Deadside | Smooth Aim Settings | Windows PC License",
+					title: "Soft aim Deadside | Smooth Aim Settings",
 					description: "Soft aim Deadside for Deadside survival & squad raids on Windows PC — pengaturan soft aim halus untuk Windows PC. pengiriman digital instan. undetected.",
 					h1: "Soft aim Deadside — Smooth Aim Settings",
 					intro: "Deadside Cheats menyediakan ESP wallhack, 2D radar, dan deadside aimbot undetected untuk Deadside di PC Windows. Soft aim Deadside. pengaturan soft aim halus untuk Windows PC.",
@@ -18938,7 +18938,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				"aimbot-hack": {
-					title: "Aimbot Deadside | Soft Aim Assist | ESP, Aimbot & Radar",
+					title: "Aimbot Deadside | Soft Aim Assist",
 					description: "Aimbot Deadside for Deadside survival & squad raids on Windows PC — assist Aimbot undetected untuk Deadside. pengiriman digital instan. undetected. Official",
 					h1: "Aimbot Deadside — Soft Aim Assist",
 					intro: "Deadside Cheats menyediakan ESP wallhack, 2D radar, dan deadside aimbot undetected untuk Deadside di PC Windows. Aimbot Deadside. assist Aimbot undetected untuk Deadside.",
@@ -18976,7 +18976,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				"esp-hack": {
-					title: "ESP Deadside | Boxes & Loot | ESP, Aimbot & Radar",
+					title: "ESP Deadside | Boxes & Loot",
 					description: "ESP Deadside for Deadside survival & squad raids on Windows PC — kotak ESP, pin bangkai, dan jarak. pengiriman digital instan. undetected. Official deadside",
 					h1: "ESP Deadside — Boxes & Loot",
 					intro: "Deadside Cheats menyediakan ESP wallhack, 2D radar, dan deadside aimbot undetected untuk Deadside di PC Windows. ESP Deadside. kotak ESP, pin bangkai, dan jarak.",
@@ -19014,7 +19014,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				"unlock-all": {
-					title: "Unlock all Deadside | What It Means | ESP, Aimbot & Radar",
+					title: "Unlock all Deadside | What It Means",
 					description: "Unlock all Deadside for Deadside survival & squad raids on Windows PC — pencarian unlock-all vs alat ESP dan Aimbot asli. pengiriman digital instan.",
 					h1: "Unlock all Deadside — What It Means",
 					intro: "Deadside Cheats menyediakan ESP wallhack, 2D radar, dan deadside aimbot undetected untuk Deadside di PC Windows. Unlock all Deadside. pencarian unlock-all vs alat ESP dan Aimbot asli.",
@@ -19052,7 +19052,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				privacy: {
-					title: "Kebijakan privasi | Deadside Cheats Legal for PC",
+					title: "Kebijakan privasi | Deadside Cheats",
 					description: "Kebijakan privasi untuk Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheat.com.",
 					h1: "Kebijakan privasi",
 					intro: "Deadside Cheats menyediakan ESP wallhack, 2D radar, dan deadside aimbot undetected untuk Deadside di PC Windows. Kebijakan privasi untuk deadsidecheat.com dan lisensi Deadside.",
@@ -19087,7 +19087,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				refund: {
-					title: "Kebijakan refund | Deadside Cheats Legal for PC",
+					title: "Kebijakan refund | Deadside Cheats",
 					description: "Kebijakan refund untuk Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheat.com.",
 					h1: "Kebijakan refund",
 					intro: "Deadside Cheats menyediakan ESP wallhack, 2D radar, dan deadside aimbot undetected untuk Deadside di PC Windows. Kebijakan refund untuk deadsidecheat.com dan lisensi Deadside.",
@@ -19122,7 +19122,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				terms: {
-					title: "Syarat penggunaan | Deadside Cheats Legal for PC",
+					title: "Syarat penggunaan | Deadside Cheats",
 					description: "Syarat penggunaan untuk Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheat.com.",
 					h1: "Syarat penggunaan",
 					intro: "Deadside Cheats menyediakan ESP wallhack, 2D radar, dan deadside aimbot undetected untuk Deadside di PC Windows. Syarat penggunaan untuk deadsidecheat.com dan lisensi Deadside.",
@@ -19260,9 +19260,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				"deadside-esp": {
-					title: "deadside esp — Player Boxes & Wallhack | Wallhack & Player",
-					description: "deadside esp — Player Boxes & Wallhack for Deadside survival & squad raids on Windows PC — กล่องผู้เล่น มาร์กเกอร์ซาก และ overlay wallhack. จัดส่งดิจิทัลทันที.",
-					h1: "deadside esp — Player Boxes & Wallhack",
+					title: "deadside esp — ESP & Wallhack | Deadside Cheats",
+					description: "deadside esp — ESP & Wallhack for Deadside survival & squad raids on Windows PC — กล่องผู้เล่น มาร์กเกอร์ซาก และ overlay wallhack. จัดส่งดิจิทัลทันที. Official",
+					h1: "deadside esp — ESP & Wallhack",
 					intro: "มองเห็นผู้เล่นและ loot ผ่านกำแพงระหว่าง match ใน Deadside ส่วนหนึ่งของใบอนุญาต Deadside Cheats เดียวกัน",
 					imageAlt: "deadside esp player boxes and distance readouts in a match",
 					galleryTitle: "ลุคในเกม",
@@ -19310,9 +19310,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				"deadside-aimbot": {
-					title: "deadside aimbot — Soft Aim Controls | Soft Aim & FOV",
-					description: "deadside aimbot — Soft Aim Controls for Deadside survival & squad raids on Windows PC — soft aim, FOV และโปรไฟล์ Aimbot ตามสายพันธุ์. จัดส่งดิจิทัลทันที.",
-					h1: "deadside aimbot — Soft Aim Controls",
+					title: "deadside aimbot — Soft Aim | Deadside Cheats",
+					description: "deadside aimbot — Soft Aim for Deadside survival & squad raids on Windows PC — soft aim, FOV และโปรไฟล์ Aimbot ตามสายพันธุ์. จัดส่งดิจิทัลทันที. Official",
+					h1: "deadside aimbot — Soft Aim",
 					intro: "Soft aim และการช่วยเล็งที่ปรับได้สำหรับ Deadside รวมในใบอนุญาต Deadside Cheats เดียวกัน",
 					imageAlt: "deadside aimbot and soft aim controls on Windows PC",
 					galleryTitle: "ลุคในเกม",
@@ -19439,7 +19439,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				pricing: {
-					title: "ราคา — Monthly & Lifetime | $35/mo or $150 Lifetime",
+					title: "ราคา — Monthly & Lifetime | Deadside Cheats",
 					description: "ราคา — Monthly & Lifetime for Deadside survival & squad raids on Windows PC — ใบอนุญาต $35 รายเดือนหรือ $150 lifetime. จัดส่งดิจิทัลทันที. Official deadside",
 					h1: "ราคา — Monthly & Lifetime",
 					intro: "Deadside Cheats รวม ESP wallhack, 2D radar และ deadside aimbot แบบ undetected สำหรับ Deadside บน Windows PC ร้านค้า — $35/เดือน y $150 ตลอดชีพ.",
@@ -19489,7 +19489,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				setup: {
-					title: "ติดตั้ง — PC Setup Guide | Windows PC Install",
+					title: "ติดตั้ง — PC Setup Guide | Deadside Cheats",
 					description: "ติดตั้ง — PC Setup Guide for Deadside survival & squad raids on Windows PC — การเปิดใช้งาน Windows PC และการตั้งค่าเปิดครั้งแรก. จัดส่งดิจิทัลทันที. Official",
 					h1: "ติดตั้ง",
 					intro: "ติดตั้งและเปิดใช้ใบอนุญาตบน Windows 10 หรือ 11 ก่อน match ครั้งแรก",
@@ -19539,7 +19539,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				updates: {
-					title: "อัปเดต — Live Status Log | BattlEye Updates | Deadside",
+					title: "อัปเดต — Live Status Log | Deadside Cheats",
 					description: "อัปเดต — Live Status Log for Deadside survival & squad raids on Windows PC — สถานะ patch BattlEye และบันทึก rebuild. จัดส่งดิจิทัลทันที. Official deadside",
 					h1: "สถานะ",
 					intro: "ตรวจ Updates หลังแพตช์ BattlEye ไม่มี cheat รับประกัน undetected ถาวร",
@@ -19588,7 +19588,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				faq: {
-					title: "FAQ — Common Answers | ESP, Aimbot & BattlEye PC",
+					title: "FAQ — Common Answers | Deadside Cheats",
 					description: "FAQ — Common Answers for Deadside survival & squad raids on Windows PC — คำถาม ESP, soft aim, การจัดส่ง และ BattlEye. จัดส่งดิจิทัลทันที. Official deadside",
 					h1: "FAQ — Common Answers",
 					intro: "FAQ Deadside Cheats — การจัดส่ง การติดตั้ง อัปเดต และการคืนเงิน",
@@ -19636,7 +19636,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				support: {
-					title: "สนับสนุน — Help & Contact | License & Setup Help",
+					title: "สนับสนุน — Help & Contact | Deadside Cheats",
 					description: "สนับสนุน — Help & Contact for Deadside survival & squad raids on Windows PC — ความช่วยเหลือคำสั่งซื้อและติดต่อสนับสนุนใบอนุญาต. จัดส่งดิจิทัลทันที. Official",
 					h1: "สนับสนุน",
 					intro: "ความช่วยเหลือด้านใบอนุญาต การติดตั้ง และการเรียกเก็บเงิน Deadside Cheats บน Windows PC",
@@ -19720,7 +19720,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				wallhack: {
-					title: "Deadside Wallhack | ESP Visibility | ESP, Aimbot & Radar",
+					title: "Deadside Wallhack | ESP Visibility",
 					description: "Deadside Wallhack for Deadside survival & squad raids on Windows PC — wallhack ESP สำหรับผู้เล่น ซาก และระยะทาง. จัดส่งดิจิทัลทันที. undetected. Official",
 					h1: "Deadside Wallhack — ESP Visibility",
 					intro: "Deadside Cheats รวม ESP wallhack, 2D radar และ deadside aimbot แบบ undetected สำหรับ Deadside บน Windows PC Deadside Wallhack. wallhack ESP สำหรับผู้เล่น ซาก และระยะทาง.",
@@ -19758,7 +19758,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				radar: {
-					title: "2D radar — 2D Threat Overlay | 2D Threat Map | Deadside",
+					title: "2D radar — 2D Threat Overlay | Deadside Cheats",
 					description: "2D radar — 2D Threat Overlay for Deadside survival & squad raids on Windows PC — สัญญาณ radar 2D สำหรับการโจมตีด้านข้างและการหมุน. จัดส่งดิจิทัลทันที. Official",
 					h1: "2D radar — 2D Threat Overlay",
 					intro: "radar 2D เรียบง่ายสำหรับภัยคุกคามนอกสายตา รวมในใบอนุญาต Deadside Cheats เดียวกัน",
@@ -19796,7 +19796,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				battleye: {
-					title: "BattlEye Bypass | BattlEye Patch Maintenance for PC",
+					title: "BattlEye Bypass | BattlEye Patch Maintenance",
 					description: "BattlEye Bypass for Deadside survival & squad raids on Windows PC — วิธีจัดการอัปเดต BattlEye สำหรับ Deadside cheats. จัดส่งดิจิทัลทันที. undetected. Official",
 					h1: "BattlEye Bypass — BattlEye Patch Maintenance",
 					intro: "Deadside Cheats รวม ESP wallhack, 2D radar และ deadside aimbot แบบ undetected สำหรับ Deadside บน Windows PC BattlEye Bypass. วิธีจัดการอัปเดต BattlEye สำหรับ Deadside cheats.",
@@ -19850,7 +19850,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot.webp",
 				},
 				"cheats-2026": {
-					title: "Deadside Cheats 2026 | 2026 Buyer Guide | Windows PC License",
+					title: "Deadside Cheats 2026 | 2026 Buyer Guide",
 					description: "Deadside Cheats 2026 for Deadside survival & squad raids on Windows PC — checklist deadside cheats 2026 ก่อน checkout. จัดส่งดิจิทัลทันที. undetected. Official",
 					h1: "Deadside Cheats 2026 — 2026 Buyer Guide",
 					intro: "Deadside Cheats รวม ESP wallhack, 2D radar และ deadside aimbot แบบ undetected สำหรับ Deadside บน Windows PC Deadside Cheats 2026. checklist deadside cheats 2026 ก่อน checkout.",
@@ -19896,7 +19896,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				hacks: {
-					title: "Deadside Cheats — ESP Aimbot Guide | ESP, Aimbot & Radar PC",
+					title: "Deadside Cheats — ESP Aimbot Guide | Deadside Cheats",
 					description: "Deadside Cheats — ESP Aimbot Guide for Deadside survival & squad raids on Windows PC — เสาหลัก Deadside Cheats สำหรับ ESP และ Aimbot. จัดส่งดิจิทัลทันที.",
 					h1: "Deadside Cheats — คู่มือฉบับสมบูรณ์",
 					intro: "Deadside cheats เพิ่ม ESP, radar และ soft aim บนเกมหลัก หน้านี้อธิบาย deadside cheats คืออะไร Deadside Cheats รวมอะไร การดูแล BattlEye และขั้นตอนก่อนซื้อ",
@@ -19969,7 +19969,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-combat.webp",
 				},
 				"cheat-download": {
-					title: "ดาวน์โหลด Deadside Cheats | Instant Access for PC",
+					title: "ดาวน์โหลด Deadside Cheats | Instant Access",
 					description: "ดาวน์โหลด Deadside Cheats for Deadside survival & squad raids on Windows PC — ดาวน์โหลดใบอนุญาตดิจิทัลหลังชำระเงิน. จัดส่งดิจิทัลทันที. undetected. Official",
 					h1: "ดาวน์โหลด Deadside Cheats — Instant Access",
 					intro: "Deadside Cheats รวม ESP wallhack, 2D radar และ deadside aimbot แบบ undetected สำหรับ Deadside บน Windows PC ดาวน์โหลด Deadside Cheats. ดาวน์โหลดใบอนุญาตดิจิทัลหลังชำระเงิน.",
@@ -20007,7 +20007,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				"mod-menu": {
-					title: "เมนูมอด Deadside | In-Game Toggles | ESP, Aimbot & Radar",
+					title: "เมนูมอด Deadside | In-Game Toggles",
 					description: "เมนูมอด Deadside for Deadside survival & squad raids on Windows PC — สวิตช์ ESP และ soft aim ในไคลเอนต์. จัดส่งดิจิทัลทันที. undetected. Official deadside",
 					h1: "เมนูมอด Deadside — In-Game Toggles",
 					intro: "Deadside Cheats รวม ESP wallhack, 2D radar และ deadside aimbot แบบ undetected สำหรับ Deadside บน Windows PC เมนูมอด Deadside. สวิตช์ ESP และ soft aim ในไคลเอนต์.",
@@ -20045,7 +20045,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				"soft-aim": {
-					title: "Deadside Soft Aim | Smooth Aim Settings | Windows PC License",
+					title: "Deadside Soft Aim | Smooth Aim Settings",
 					description: "Deadside Soft Aim for Deadside survival & squad raids on Windows PC — การตั้งค่า soft aim ที่ลื่นไหลสำหรับ Windows PC. จัดส่งดิจิทัลทันที. undetected. Official",
 					h1: "Deadside Soft Aim — Smooth Aim Settings",
 					intro: "Deadside Cheats รวม ESP wallhack, 2D radar และ deadside aimbot แบบ undetected สำหรับ Deadside บน Windows PC Deadside Soft Aim. การตั้งค่า soft aim ที่ลื่นไหลสำหรับ Windows PC.",
@@ -20129,7 +20129,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				"aimbot-hack": {
-					title: "Aimbot Deadside | Soft Aim Assist | ESP, Aimbot & Radar",
+					title: "Aimbot Deadside | Soft Aim Assist",
 					description: "Aimbot Deadside for Deadside survival & squad raids on Windows PC — assist Aimbot undetected สำหรับ Deadside. จัดส่งดิจิทัลทันที. undetected. Official deadside",
 					h1: "Aimbot Deadside — Soft Aim Assist",
 					intro: "Deadside Cheats รวม ESP wallhack, 2D radar และ deadside aimbot แบบ undetected สำหรับ Deadside บน Windows PC Aimbot Deadside. assist Aimbot undetected สำหรับ Deadside.",
@@ -20167,7 +20167,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				"esp-hack": {
-					title: "ESP Deadside | Boxes & Loot | ESP, Aimbot & Radar",
+					title: "ESP Deadside | Boxes & Loot",
 					description: "ESP Deadside for Deadside survival & squad raids on Windows PC — กล่อง ESP, pin ซาก และระยะทาง. จัดส่งดิจิทัลทันที. undetected. Official deadside cheats at",
 					h1: "ESP Deadside — Boxes & Loot",
 					intro: "Deadside Cheats รวม ESP wallhack, 2D radar และ deadside aimbot แบบ undetected สำหรับ Deadside บน Windows PC ESP Deadside. กล่อง ESP, pin ซาก และระยะทาง.",
@@ -20205,7 +20205,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				"unlock-all": {
-					title: "Deadside Unlock All | What It Means | ESP, Aimbot & Radar",
+					title: "Deadside Unlock All | What It Means",
 					description: "Deadside Unlock All for Deadside survival & squad raids on Windows PC — การค้นหา unlock-all vs เครื่องมือ ESP และ Aimbot จริง. จัดส่งดิจิทัลทันที. undetected.",
 					h1: "Deadside Unlock All — What It Means",
 					intro: "Deadside Cheats รวม ESP wallhack, 2D radar และ deadside aimbot แบบ undetected สำหรับ Deadside บน Windows PC Deadside Unlock All. การค้นหา unlock-all vs เครื่องมือ ESP และ Aimbot จริง.",
@@ -20243,7 +20243,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				privacy: {
-					title: "นโยบายความเป็นส่วนตัว | Deadside Cheats Legal",
+					title: "นโยบายความเป็นส่วนตัว | Deadside Cheats",
 					description: "นโยบายความเป็นส่วนตัว สำหรับ Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "นโยบายความเป็นส่วนตัว",
 					intro: "Deadside Cheats รวม ESP wallhack, 2D radar และ deadside aimbot แบบ undetected สำหรับ Deadside บน Windows PC นโยบายความเป็นส่วนตัว สำหรับ deadsidecheat.com และใบอนุญาต Deadside",
@@ -20278,7 +20278,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				refund: {
-					title: "นโยบายการคืนเงิน | Deadside Cheats Legal for PC",
+					title: "นโยบายการคืนเงิน | Deadside Cheats",
 					description: "นโยบายการคืนเงิน สำหรับ Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "นโยบายการคืนเงิน",
 					intro: "Deadside Cheats รวม ESP wallhack, 2D radar และ deadside aimbot แบบ undetected สำหรับ Deadside บน Windows PC นโยบายการคืนเงิน สำหรับ deadsidecheat.com และใบอนุญาต Deadside",
@@ -20313,7 +20313,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				terms: {
-					title: "ข้อกำหนดการใช้งาน | Deadside Cheats Legal for PC",
+					title: "ข้อกำหนดการใช้งาน | Deadside Cheats",
 					description: "ข้อกำหนดการใช้งาน สำหรับ Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "ข้อกำหนดการใช้งาน",
 					intro: "Deadside Cheats รวม ESP wallhack, 2D radar และ deadside aimbot แบบ undetected สำหรับ Deadside บน Windows PC ข้อกำหนดการใช้งาน สำหรับ deadsidecheat.com และใบอนุญาต Deadside",
@@ -20451,9 +20451,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				"deadside-esp": {
-					title: "ESP Deadside — Player Boxes & Wallhack | Wallhack & Player",
-					description: "ESP Deadside — Player Boxes & Wallhack for Deadside survival & squad raids on Windows PC — hộp người chơi, đánh dấu xác thịt và overlay wallhack. giao hàng kỹ",
-					h1: "ESP Deadside — Player Boxes & Wallhack",
+					title: "ESP Deadside — ESP & Wallhack | Deadside Cheats",
+					description: "ESP Deadside — ESP & Wallhack for Deadside survival & squad raids on Windows PC — hộp người chơi, đánh dấu xác thịt và overlay wallhack. giao hàng kỹ thuật số",
+					h1: "ESP Deadside — ESP & Wallhack",
 					intro: "Nhìn xuyên tường thấy người chơi và loot khi match Deadside. Thuộc cùng giấy phép Deadside Cheats.",
 					imageAlt: "deadside esp player boxes and distance readouts in a match",
 					galleryTitle: "Giao diện trong game",
@@ -20501,9 +20501,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				"deadside-aimbot": {
-					title: "Aimbot Deadside — Soft Aim Controls | Soft Aim & FOV",
-					description: "Aimbot Deadside — Soft Aim Controls for Deadside survival & squad raids on Windows PC — soft aim, FOV và hồ sơ Aimbot theo loài. giao hàng kỹ thuật số tức thì.",
-					h1: "Aimbot Deadside — Soft Aim Controls",
+					title: "Aimbot Deadside — Soft Aim | Deadside Cheats",
+					description: "Aimbot Deadside — Soft Aim for Deadside survival & squad raids on Windows PC — soft aim, FOV và hồ sơ Aimbot theo loài. giao hàng kỹ thuật số tức thì. Official",
+					h1: "Aimbot Deadside — Soft Aim",
 					intro: "Soft aim và hỗ trợ ngắm có thể tinh chỉnh cho Deadside. Thuộc cùng giấy phép Deadside Cheats.",
 					imageAlt: "deadside aimbot and soft aim controls on Windows PC",
 					galleryTitle: "Giao diện trong game",
@@ -20630,7 +20630,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				pricing: {
-					title: "Giá — Monthly & Lifetime | $35/mo or $150 Lifetime",
+					title: "Giá — Monthly & Lifetime | Deadside Cheats",
 					description: "Giá — Monthly & Lifetime for Deadside survival & squad raids on Windows PC — giấy phép $35 hàng tháng hoặc $150 lifetime. giao hàng kỹ thuật số tức thì.",
 					h1: "Giá — Monthly & Lifetime",
 					intro: "Deadside Cheats cung cấp ESP wallhack, 2D radar và deadside aimbot undetected cho Deadside trên PC Windows. Cửa hàng — $35/tháng y $150 trọn đời.",
@@ -20680,7 +20680,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				setup: {
-					title: "Cài đặt — PC Setup Guide | Windows PC Install",
+					title: "Cài đặt — PC Setup Guide | Deadside Cheats",
 					description: "Cài đặt — PC Setup Guide for Deadside survival & squad raids on Windows PC — kích hoạt Windows PC và thiết lập lần chạy đầu. giao hàng kỹ thuật số tức thì.",
 					h1: "Cài đặt",
 					intro: "Cài và kích hoạt giấy phép trên Windows 10 hoặc 11 trước match đầu tiên.",
@@ -20730,7 +20730,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				updates: {
-					title: "Cập nhật — Live Status Log | BattlEye Updates | Deadside",
+					title: "Cập nhật — Live Status Log | Deadside Cheats",
 					description: "Cập nhật — Live Status Log for Deadside survival & squad raids on Windows PC — trạng thái patch BattlEye và ghi chú rebuild. giao hàng kỹ thuật số tức thì.",
 					h1: "Trạng thái",
 					intro: "Kiểm tra Updates sau bản vá BattlEye. Không cheat nào đảm bảo undetected vĩnh viễn.",
@@ -20779,7 +20779,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				faq: {
-					title: "FAQ — Common Answers | ESP, Aimbot & BattlEye PC",
+					title: "FAQ — Common Answers | Deadside Cheats",
 					description: "FAQ — Common Answers for Deadside survival & squad raids on Windows PC — câu hỏi ESP, soft aim, giao hàng và BattlEye. giao hàng kỹ thuật số tức thì. Official",
 					h1: "FAQ — Common Answers",
 					intro: "FAQ Deadside Cheats — giao hàng, cài đặt, cập nhật và hoàn tiền.",
@@ -20827,7 +20827,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				support: {
-					title: "Hỗ trợ — Help & Contact | License & Setup Help",
+					title: "Hỗ trợ — Help & Contact | Deadside Cheats",
 					description: "Hỗ trợ — Help & Contact for Deadside survival & squad raids on Windows PC — trợ giúp đơn hàng và liên hệ hỗ trợ giấy phép. giao hàng kỹ thuật số tức thì.",
 					h1: "Hỗ trợ",
 					intro: "Hỗ trợ giấy phép, cài đặt và thanh toán Deadside Cheats trên Windows PC.",
@@ -20911,7 +20911,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				wallhack: {
-					title: "Deadside Wallhack | ESP Visibility | ESP, Aimbot & Radar",
+					title: "Deadside Wallhack | ESP Visibility",
 					description: "Deadside Wallhack for Deadside survival & squad raids on Windows PC — wallhack ESP cho người chơi, xác thịt và khoảng cách. giao hàng kỹ thuật số tức thì.",
 					h1: "Deadside Wallhack — ESP Visibility",
 					intro: "Deadside Cheats cung cấp ESP wallhack, 2D radar và deadside aimbot undetected cho Deadside trên PC Windows. Deadside Wallhack. wallhack ESP cho người chơi, xác thịt và khoảng cách.",
@@ -20949,7 +20949,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				radar: {
-					title: "2D radar — 2D Threat Overlay | 2D Threat Map | Deadside",
+					title: "2D radar — 2D Threat Overlay | Deadside Cheats",
 					description: "2D radar — 2D Threat Overlay for Deadside survival & squad raids on Windows PC — tín hiệu radar 2D cho đánh hông và xoay vòng. giao hàng kỹ thuật số tức thì.",
 					h1: "2D radar — 2D Threat Overlay",
 					intro: "Radar 2D đơn giản cho mối đe dọa ngoài tầm nhìn. Thuộc cùng giấy phép Deadside Cheats.",
@@ -20987,7 +20987,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				battleye: {
-					title: "Bypass BattlEye | BattlEye Patch Maintenance for PC",
+					title: "Bypass BattlEye | BattlEye Patch Maintenance",
 					description: "Bypass BattlEye for Deadside survival & squad raids on Windows PC — cách xử lý cập nhật BattlEye cho Deadside cheats. giao hàng kỹ thuật số tức thì.",
 					h1: "Bypass BattlEye — BattlEye Patch Maintenance",
 					intro: "Deadside Cheats cung cấp ESP wallhack, 2D radar và deadside aimbot undetected cho Deadside trên PC Windows. Bypass BattlEye. cách xử lý cập nhật BattlEye cho Deadside cheats.",
@@ -21041,7 +21041,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot.webp",
 				},
 				"cheats-2026": {
-					title: "Cheat Deadside 2026 | 2026 Buyer Guide | ESP, Aimbot & Radar",
+					title: "Cheat Deadside 2026 | 2026 Buyer Guide",
 					description: "Cheat Deadside 2026 for Deadside survival & squad raids on Windows PC — checklist deadside cheats 2026 trước checkout. giao hàng kỹ thuật số tức thì.",
 					h1: "Cheat Deadside 2026 — 2026 Buyer Guide",
 					intro: "Deadside Cheats cung cấp ESP wallhack, 2D radar và deadside aimbot undetected cho Deadside trên PC Windows. Cheat Deadside 2026. checklist deadside cheats 2026 trước checkout.",
@@ -21087,7 +21087,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				hacks: {
-					title: "Cheat Deadside — ESP Aimbot Guide | ESP, Aimbot & Radar PC",
+					title: "Cheat Deadside — ESP Aimbot Guide | Deadside Cheats",
 					description: "Cheat Deadside — ESP Aimbot Guide for Deadside survival & squad raids on Windows PC — trụ cột Deadside Cheats cho ESP và Aimbot. giao hàng kỹ thuật số tức thì.",
 					h1: "Deadside Cheats — Hướng dẫn đầy đủ",
 					intro: "Deadside cheats thêm ESP, radar và soft aim lên game gốc. Trang này giải thích deadside cheats là gì, Deadside Cheats gồm gì, bảo trì BattlEye và bước tiếp theo trước khi mua.",
@@ -21160,7 +21160,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-combat.webp",
 				},
 				"cheat-download": {
-					title: "Tải Cheat Deadside | Instant Access | ESP, Aimbot & Radar",
+					title: "Tải Cheat Deadside | Instant Access",
 					description: "Tải Cheat Deadside for Deadside survival & squad raids on Windows PC — tải giấy phép kỹ thuật số sau thanh toán. giao hàng kỹ thuật số tức thì. undetected.",
 					h1: "Tải Cheat Deadside — Instant Access",
 					intro: "Deadside Cheats cung cấp ESP wallhack, 2D radar và deadside aimbot undetected cho Deadside trên PC Windows. Tải Cheat Deadside. tải giấy phép kỹ thuật số sau thanh toán.",
@@ -21198,7 +21198,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				"mod-menu": {
-					title: "Mod menu Deadside | In-Game Toggles | ESP, Aimbot & Radar",
+					title: "Mod menu Deadside | In-Game Toggles",
 					description: "Mod menu Deadside for Deadside survival & squad raids on Windows PC — công tắc ESP và soft aim trong client. giao hàng kỹ thuật số tức thì. undetected.",
 					h1: "Mod menu Deadside — In-Game Toggles",
 					intro: "Deadside Cheats cung cấp ESP wallhack, 2D radar và deadside aimbot undetected cho Deadside trên PC Windows. Mod menu Deadside. công tắc ESP và soft aim trong client.",
@@ -21236,7 +21236,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				"soft-aim": {
-					title: "Soft aim Deadside | Smooth Aim Settings | Windows PC License",
+					title: "Soft aim Deadside | Smooth Aim Settings",
 					description: "Soft aim Deadside for Deadside survival & squad raids on Windows PC — cài đặt soft aim mượt cho Windows PC. giao hàng kỹ thuật số tức thì. undetected. Official",
 					h1: "Soft aim Deadside — Smooth Aim Settings",
 					intro: "Deadside Cheats cung cấp ESP wallhack, 2D radar và deadside aimbot undetected cho Deadside trên PC Windows. Soft aim Deadside. cài đặt soft aim mượt cho Windows PC.",
@@ -21320,7 +21320,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				"aimbot-hack": {
-					title: "Aimbot Deadside | Soft Aim Assist | ESP, Aimbot & Radar",
+					title: "Aimbot Deadside | Soft Aim Assist",
 					description: "Aimbot Deadside for Deadside survival & squad raids on Windows PC — hỗ trợ Aimbot undetected cho Deadside. giao hàng kỹ thuật số tức thì. undetected. Official",
 					h1: "Aimbot Deadside — Soft Aim Assist",
 					intro: "Deadside Cheats cung cấp ESP wallhack, 2D radar và deadside aimbot undetected cho Deadside trên PC Windows. Aimbot Deadside. hỗ trợ Aimbot undetected cho Deadside.",
@@ -21358,7 +21358,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				"esp-hack": {
-					title: "ESP Deadside | Boxes & Loot | ESP, Aimbot & Radar",
+					title: "ESP Deadside | Boxes & Loot",
 					description: "ESP Deadside for Deadside survival & squad raids on Windows PC — hộp ESP, pin xác thịt và khoảng cách. giao hàng kỹ thuật số tức thì. undetected. Official",
 					h1: "ESP Deadside — Boxes & Loot",
 					intro: "Deadside Cheats cung cấp ESP wallhack, 2D radar và deadside aimbot undetected cho Deadside trên PC Windows. ESP Deadside. hộp ESP, pin xác thịt và khoảng cách.",
@@ -21396,7 +21396,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				"unlock-all": {
-					title: "Unlock all Deadside | What It Means | ESP, Aimbot & Radar",
+					title: "Unlock all Deadside | What It Means",
 					description: "Unlock all Deadside for Deadside survival & squad raids on Windows PC — tìm kiếm unlock-all vs công cụ ESP và Aimbot thật. giao hàng kỹ thuật số tức thì.",
 					h1: "Unlock all Deadside — What It Means",
 					intro: "Deadside Cheats cung cấp ESP wallhack, 2D radar và deadside aimbot undetected cho Deadside trên PC Windows. Unlock all Deadside. tìm kiếm unlock-all vs công cụ ESP và Aimbot thật.",
@@ -21434,7 +21434,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				privacy: {
-					title: "Chính sách bảo mật | Deadside Cheats Legal for PC",
+					title: "Chính sách bảo mật | Deadside Cheats",
 					description: "Chính sách bảo mật cho Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheat.com.",
 					h1: "Chính sách bảo mật",
 					intro: "Deadside Cheats cung cấp ESP wallhack, 2D radar và deadside aimbot undetected cho Deadside trên PC Windows. Chính sách bảo mật cho deadsidecheat.com và giấy phép Deadside.",
@@ -21469,7 +21469,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				refund: {
-					title: "Chính sách hoàn tiền | Deadside Cheats Legal for PC",
+					title: "Chính sách hoàn tiền | Deadside Cheats",
 					description: "Chính sách hoàn tiền cho Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheat.com.",
 					h1: "Chính sách hoàn tiền",
 					intro: "Deadside Cheats cung cấp ESP wallhack, 2D radar và deadside aimbot undetected cho Deadside trên PC Windows. Chính sách hoàn tiền cho deadsidecheat.com và giấy phép Deadside.",
@@ -21504,7 +21504,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				terms: {
-					title: "Điều khoản sử dụng | Deadside Cheats Legal for PC",
+					title: "Điều khoản sử dụng | Deadside Cheats",
 					description: "Điều khoản sử dụng cho Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheat.com.",
 					h1: "Điều khoản sử dụng",
 					intro: "Deadside Cheats cung cấp ESP wallhack, 2D radar và deadside aimbot undetected cho Deadside trên PC Windows. Điều khoản sử dụng cho deadsidecheat.com và giấy phép Deadside.",
@@ -21642,9 +21642,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				"deadside-esp": {
-					title: "ESP Deadside — Player Boxes & Wallhack | Wallhack & Player",
-					description: "ESP Deadside — Player Boxes & Wallhack for Deadside survival & squad raids on Windows PC — бокси гравців, маркери туш і wallhack overlays. миттєва цифрова",
-					h1: "ESP Deadside — Player Boxes & Wallhack",
+					title: "ESP Deadside — ESP & Wallhack | Deadside Cheats",
+					description: "ESP Deadside — ESP & Wallhack for Deadside survival & squad raids on Windows PC — бокси гравців, маркери туш і wallhack overlays. миттєва цифрова доставка.",
+					h1: "ESP Deadside — ESP & Wallhack",
 					intro: "Бачте гравців і loot крізь стіни під час match у Deadside. Частина тієї самої ліцензії Deadside Cheats.",
 					imageAlt: "deadside esp player boxes and distance readouts in a match",
 					galleryTitle: "Вигляд у грі",
@@ -21692,9 +21692,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				"deadside-aimbot": {
-					title: "Aimbot Deadside — Soft Aim Controls | Soft Aim & FOV",
-					description: "Aimbot Deadside — Soft Aim Controls for Deadside survival & squad raids on Windows PC — soft aim, FOV і профілі Aimbot за видами. миттєва цифрова доставка.",
-					h1: "Aimbot Deadside — Soft Aim Controls",
+					title: "Aimbot Deadside — Soft Aim | Deadside Cheats",
+					description: "Aimbot Deadside — Soft Aim for Deadside survival & squad raids on Windows PC — soft aim, FOV і профілі Aimbot за видами. миттєва цифрова доставка. Official",
+					h1: "Aimbot Deadside — Soft Aim",
 					intro: "Soft aim і допомога прицілювання, які можна налаштувати для Deadside. У тій самій ліцензії Deadside Cheats.",
 					imageAlt: "deadside aimbot and soft aim controls on Windows PC",
 					galleryTitle: "Вигляд у грі",
@@ -21821,7 +21821,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				pricing: {
-					title: "Ціни — Monthly & Lifetime | $35/mo or $150 Lifetime",
+					title: "Ціни — Monthly & Lifetime | Deadside Cheats",
 					description: "Ціни — Monthly & Lifetime for Deadside survival & squad raids on Windows PC — ліцензії $35 на місяць або $150 lifetime. миттєва цифрова доставка. Official",
 					h1: "Ціни — Monthly & Lifetime",
 					intro: "Deadside Cheats об'єднує ESP wallhack, 2D radar і deadside aimbot у undetected пакеті для Deadside на Windows PC. Магазин — $35/міс y $150 назавжди.",
@@ -21871,7 +21871,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				setup: {
-					title: "Встановлення — PC Setup Guide | Windows PC Install",
+					title: "Встановлення — PC Setup Guide | Deadside Cheats",
 					description: "Встановлення — PC Setup Guide for Deadside survival & squad raids on Windows PC — активація Windows PC і налаштування першого запуску. миттєва цифрова",
 					h1: "Встановлення",
 					intro: "Встановіть і активуйте ліцензію на Windows 10 або 11 перед першим match.",
@@ -21921,7 +21921,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				updates: {
-					title: "Оновлення — Live Status Log | BattlEye Updates | Deadside",
+					title: "Оновлення — Live Status Log | Deadside Cheats",
 					description: "Оновлення — Live Status Log for Deadside survival & squad raids on Windows PC — статус патчів BattlEye і нотатки rebuild. миттєва цифрова доставка. Official",
 					h1: "Статус",
 					intro: "Перевіряйте Updates після патчів BattlEye. Жоден чит не гарантує постійний undetected статус.",
@@ -21970,7 +21970,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				faq: {
-					title: "FAQ — Common Answers | ESP, Aimbot & BattlEye PC",
+					title: "FAQ — Common Answers | Deadside Cheats",
 					description: "FAQ — Common Answers for Deadside survival & squad raids on Windows PC — питання про ESP, soft aim, доставку та BattlEye. миттєва цифрова доставка. Official",
 					h1: "FAQ — Common Answers",
 					intro: "FAQ Deadside Cheats — доставка, встановлення, оновлення та повернення.",
@@ -22018,7 +22018,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				support: {
-					title: "Підтримка — Help & Contact | License & Setup Help",
+					title: "Підтримка — Help & Contact | Deadside Cheats",
 					description: "Підтримка — Help & Contact for Deadside survival & squad raids on Windows PC — допомога з замовленням і контакт підтримки ліцензій. миттєва цифрова доставка.",
 					h1: "Підтримка",
 					intro: "Допомога з ліцензіями, встановленням і оплатою Deadside Cheats на Windows PC.",
@@ -22102,7 +22102,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				wallhack: {
-					title: "Deadside Wallhack | ESP Visibility | ESP, Aimbot & Radar",
+					title: "Deadside Wallhack | ESP Visibility",
 					description: "Deadside Wallhack for Deadside survival & squad raids on Windows PC — wallhack ESP для гравців, туш і дистанції. миттєва цифрова доставка. undetected. Official",
 					h1: "Deadside Wallhack — ESP Visibility",
 					intro: "Deadside Cheats об'єднує ESP wallhack, 2D radar і deadside aimbot у undetected пакеті для Deadside на Windows PC. Deadside Wallhack. wallhack ESP для гравців, туш і дистанції.",
@@ -22140,7 +22140,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				radar: {
-					title: "2D radar — 2D Threat Overlay | 2D Threat Map | Deadside",
+					title: "2D radar — 2D Threat Overlay | Deadside Cheats",
 					description: "2D radar — 2D Threat Overlay for Deadside survival & squad raids on Windows PC — 2D radar підказки для флангів і ротацій. миттєва цифрова доставка. Official",
 					h1: "2D radar — 2D Threat Overlay",
 					intro: "Простий 2D radar для загроз поза полем зору. У тій самій ліцензії Deadside Cheats.",
@@ -22178,7 +22178,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				battleye: {
-					title: "Bypass BattlEye | BattlEye Patch Maintenance for PC",
+					title: "Bypass BattlEye | BattlEye Patch Maintenance",
 					description: "Bypass BattlEye for Deadside survival & squad raids on Windows PC — як обробляються оновлення BattlEye для Deadside cheats. миттєва цифрова доставка.",
 					h1: "Bypass BattlEye — BattlEye Patch Maintenance",
 					intro: "Deadside Cheats об'єднує ESP wallhack, 2D radar і deadside aimbot у undetected пакеті для Deadside на Windows PC. Bypass BattlEye. як обробляються оновлення BattlEye для Deadside cheats.",
@@ -22232,7 +22232,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot.webp",
 				},
 				"cheats-2026": {
-					title: "Чіти Deadside 2026 | 2026 Buyer Guide | ESP, Aimbot & Radar",
+					title: "Чіти Deadside 2026 | 2026 Buyer Guide",
 					description: "Чіти Deadside 2026 for Deadside survival & squad raids on Windows PC — чеклист deadside cheats 2026 перед checkout. миттєва цифрова доставка. undetected.",
 					h1: "Чіти Deadside 2026 — 2026 Buyer Guide",
 					intro: "Deadside Cheats об'єднує ESP wallhack, 2D radar і deadside aimbot у undetected пакеті для Deadside на Windows PC. Чіти Deadside 2026. чеклист deadside cheats 2026 перед checkout.",
@@ -22278,7 +22278,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				hacks: {
-					title: "Чіти Deadside — ESP Aimbot Guide | ESP, Aimbot & Radar PC",
+					title: "Чіти Deadside — ESP Aimbot Guide | Deadside Cheats",
 					description: "Чіти Deadside — ESP Aimbot Guide for Deadside survival & squad raids on Windows PC — стовп Deadside Cheats для ESP і Aimbot. миттєва цифрова доставка. Official",
 					h1: "Deadside Cheats — Повний гайд",
 					intro: "Deadside cheats додають ESP, radar і soft aim до базової гри. Ця сторінка пояснює що таке deadside cheats, що входить у Deadside Cheats, обслуговування BattlEye і куди йти перед покупкою.",
@@ -22389,7 +22389,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				"mod-menu": {
-					title: "Мод-меню Deadside | In-Game Toggles | ESP, Aimbot & Radar",
+					title: "Мод-меню Deadside | In-Game Toggles",
 					description: "Мод-меню Deadside for Deadside survival & squad raids on Windows PC — перемикачі ESP і soft aim у клієнті. миттєва цифрова доставка. undetected. Official",
 					h1: "Мод-меню Deadside — In-Game Toggles",
 					intro: "Deadside Cheats об'єднує ESP wallhack, 2D radar і deadside aimbot у undetected пакеті для Deadside на Windows PC. Мод-меню Deadside. перемикачі ESP і soft aim у клієнті.",
@@ -22427,7 +22427,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				"soft-aim": {
-					title: "Soft aim Deadside | Smooth Aim Settings | Windows PC License",
+					title: "Soft aim Deadside | Smooth Aim Settings",
 					description: "Soft aim Deadside for Deadside survival & squad raids on Windows PC — плавні налаштування soft aim для Windows PC. миттєва цифрова доставка. undetected.",
 					h1: "Soft aim Deadside — Smooth Aim Settings",
 					intro: "Deadside Cheats об'єднує ESP wallhack, 2D radar і deadside aimbot у undetected пакеті для Deadside на Windows PC. Soft aim Deadside. плавні налаштування soft aim для Windows PC.",
@@ -22511,7 +22511,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				"aimbot-hack": {
-					title: "Aimbot Deadside | Soft Aim Assist | ESP, Aimbot & Radar",
+					title: "Aimbot Deadside | Soft Aim Assist",
 					description: "Aimbot Deadside for Deadside survival & squad raids on Windows PC — undetected Aimbot assist для Deadside. миттєва цифрова доставка. undetected. Official",
 					h1: "Aimbot Deadside — Soft Aim Assist",
 					intro: "Deadside Cheats об'єднує ESP wallhack, 2D radar і deadside aimbot у undetected пакеті для Deadside на Windows PC. Aimbot Deadside. undetected Aimbot assist для Deadside.",
@@ -22549,7 +22549,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				"esp-hack": {
-					title: "ESP Deadside | Boxes & Loot | ESP, Aimbot & Radar",
+					title: "ESP Deadside | Boxes & Loot",
 					description: "ESP Deadside for Deadside survival & squad raids on Windows PC — ESP бокси, pins туш і дистанція. миттєва цифрова доставка. undetected. Official deadside",
 					h1: "ESP Deadside — Boxes & Loot",
 					intro: "Deadside Cheats об'єднує ESP wallhack, 2D radar і deadside aimbot у undetected пакеті для Deadside на Windows PC. ESP Deadside. ESP бокси, pins туш і дистанція.",
@@ -22587,7 +22587,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				"unlock-all": {
-					title: "Unlock all Deadside | What It Means | ESP, Aimbot & Radar",
+					title: "Unlock all Deadside | What It Means",
 					description: "Unlock all Deadside for Deadside survival & squad raids on Windows PC — пошуки unlock-all vs справжні ESP і Aimbot інструменти. миттєва цифрова доставка.",
 					h1: "Unlock all Deadside — What It Means",
 					intro: "Deadside Cheats об'єднує ESP wallhack, 2D radar і deadside aimbot у undetected пакеті для Deadside на Windows PC. Unlock all Deadside. пошуки unlock-all vs справжні ESP і Aimbot інструменти.",
@@ -22625,7 +22625,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				privacy: {
-					title: "Політика конфіденційності | Deadside Cheats Legal",
+					title: "Політика конфіденційності | Deadside Cheats",
 					description: "Політика конфіденційності для Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Політика конфіденційності",
 					intro: "Deadside Cheats об'єднує ESP wallhack, 2D radar і deadside aimbot у undetected пакеті для Deadside на Windows PC. Політика конфіденційності для deadsidecheat.com та ліцензій Deadside.",
@@ -22660,7 +22660,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				refund: {
-					title: "Політика повернення | Deadside Cheats Legal for PC",
+					title: "Політика повернення | Deadside Cheats",
 					description: "Політика повернення для Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Політика повернення",
 					intro: "Deadside Cheats об'єднує ESP wallhack, 2D radar і deadside aimbot у undetected пакеті для Deadside на Windows PC. Політика повернення для deadsidecheat.com та ліцензій Deadside.",
@@ -22695,7 +22695,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				terms: {
-					title: "Умови використання | Deadside Cheats Legal for PC",
+					title: "Умови використання | Deadside Cheats",
 					description: "Умови використання для Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Умови використання",
 					intro: "Deadside Cheats об'єднує ESP wallhack, 2D radar і deadside aimbot у undetected пакеті для Deadside на Windows PC. Умови використання для deadsidecheat.com та ліцензій Deadside.",
@@ -22833,9 +22833,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				"deadside-esp": {
-					title: "deadside esp — Player Boxes & Wallhack | Wallhack & Player",
-					description: "deadside esp — Player Boxes & Wallhack for Deadside survival & squad raids on Windows PC — hráčské boxy, markery kadáverů a wallhack overlaye. okamžité",
-					h1: "deadside esp — Player Boxes & Wallhack",
+					title: "deadside esp — ESP & Wallhack | Deadside Cheats",
+					description: "deadside esp — ESP & Wallhack for Deadside survival & squad raids on Windows PC — hráčské boxy, markery kadáverů a wallhack overlaye. okamžité digitální",
+					h1: "deadside esp — ESP & Wallhack",
 					intro: "Vidíte hráče a loot skrz zdi během matchů Deadside. Součást stejné licence Deadside Cheats.",
 					imageAlt: "deadside esp player boxes and distance readouts in a match",
 					galleryTitle: "Vzhled ve hře",
@@ -22883,9 +22883,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				"deadside-aimbot": {
-					title: "deadside aimbot — Soft Aim Controls | Soft Aim & FOV",
-					description: "deadside aimbot — Soft Aim Controls for Deadside survival & squad raids on Windows PC — soft aim, FOV a Aimbot profily podle druhu. okamžité digitální",
-					h1: "deadside aimbot — Soft Aim Controls",
+					title: "deadside aimbot — Soft Aim | Deadside Cheats",
+					description: "deadside aimbot — Soft Aim for Deadside survival & squad raids on Windows PC — soft aim, FOV a Aimbot profily podle druhu. okamžité digitální doručení.",
+					h1: "deadside aimbot — Soft Aim",
 					intro: "Soft aim a aim assist nastavitelný pro Deadside. Součást stejné licence Deadside Cheats.",
 					imageAlt: "deadside aimbot and soft aim controls on Windows PC",
 					galleryTitle: "Vzhled ve hře",
@@ -23012,7 +23012,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				pricing: {
-					title: "Ceny — Monthly & Lifetime | $35/mo or $150 Lifetime",
+					title: "Ceny — Monthly & Lifetime | Deadside Cheats",
 					description: "Ceny — Monthly & Lifetime for Deadside survival & squad raids on Windows PC — licence $35 měsíčně nebo $150 lifetime. okamžité digitální doručení. Official",
 					h1: "Ceny — Monthly & Lifetime",
 					intro: "Deadside Cheats spojuje ESP wallhack, 2D radar a deadside aimbot jako undetected balíček pro Deadside na Windows PC. Obchod — $35/měs. y $150 lifetime.",
@@ -23062,7 +23062,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				setup: {
-					title: "Instalace — PC Setup Guide | Windows PC Install",
+					title: "Instalace — PC Setup Guide | Deadside Cheats",
 					description: "Instalace — PC Setup Guide for Deadside survival & squad raids on Windows PC — aktivace Windows PC a nastavení prvního spuštění. okamžité digitální doručení.",
 					h1: "Instalace",
 					intro: "Nainstalujte a aktivujte licenci na Windows 10 nebo 11 před prvním match.",
@@ -23112,7 +23112,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				updates: {
-					title: "Aktualizace — Live Status Log | BattlEye Updates | Deadside",
+					title: "Aktualizace — Live Status Log | Deadside Cheats",
 					description: "Aktualizace — Live Status Log for Deadside survival & squad raids on Windows PC — stav patchů BattlEye a poznámky k rebuild. okamžité digitální doručení.",
 					h1: "Stav",
 					intro: "Po patchích BattlEye zkontrolujte Updates. Žádný cheat negarantuje trvalý undetected stav.",
@@ -23161,7 +23161,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				faq: {
-					title: "FAQ — Common Answers | ESP, Aimbot & BattlEye PC",
+					title: "FAQ — Common Answers | Deadside Cheats",
 					description: "FAQ — Common Answers for Deadside survival & squad raids on Windows PC — otázky k ESP, soft aim, doručení a BattlEye. okamžité digitální doručení. Official",
 					h1: "FAQ — Common Answers",
 					intro: "FAQ Deadside Cheats — doručení, instalace, aktualizace a vrácení peněz.",
@@ -23209,7 +23209,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				support: {
-					title: "Podpora — Help & Contact | License & Setup Help",
+					title: "Podpora — Help & Contact | Deadside Cheats",
 					description: "Podpora — Help & Contact for Deadside survival & squad raids on Windows PC — pomoc s objednávkou a kontakt podpory licencí. okamžité digitální doručení.",
 					h1: "Podpora",
 					intro: "Pomoc s licencemi, instalací a fakturací Deadside Cheats na Windows PC.",
@@ -23293,7 +23293,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				wallhack: {
-					title: "Deadside Wallhack | ESP Visibility | ESP, Aimbot & Radar",
+					title: "Deadside Wallhack | ESP Visibility",
 					description: "Deadside Wallhack for Deadside survival & squad raids on Windows PC — wallhack ESP pro hráče, kadávery a vzdálenost. okamžité digitální doručení. undetected.",
 					h1: "Deadside Wallhack — ESP Visibility",
 					intro: "Deadside Cheats spojuje ESP wallhack, 2D radar a deadside aimbot jako undetected balíček pro Deadside na Windows PC. Deadside Wallhack. wallhack ESP pro hráče, kadávery a vzdálenost.",
@@ -23331,7 +23331,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				radar: {
-					title: "2D radar — 2D Threat Overlay | 2D Threat Map | Deadside",
+					title: "2D radar — 2D Threat Overlay | Deadside Cheats",
 					description: "2D radar — 2D Threat Overlay for Deadside survival & squad raids on Windows PC — 2D radar signály pro flanly a rotace. okamžité digitální doručení. Official",
 					h1: "2D radar — 2D Threat Overlay",
 					intro: "Jednoduchý 2D radar pro hrozby mimo dohled. Součást stejné licence Deadside Cheats.",
@@ -23369,7 +23369,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				battleye: {
-					title: "BattlEye Bypass | BattlEye Patch Maintenance for PC",
+					title: "BattlEye Bypass | BattlEye Patch Maintenance",
 					description: "BattlEye Bypass for Deadside survival & squad raids on Windows PC — jak se řeší aktualizace BattlEye pro Deadside cheats. okamžité digitální doručení.",
 					h1: "BattlEye Bypass — BattlEye Patch Maintenance",
 					intro: "Deadside Cheats spojuje ESP wallhack, 2D radar a deadside aimbot jako undetected balíček pro Deadside na Windows PC. BattlEye Bypass. jak se řeší aktualizace BattlEye pro Deadside cheats.",
@@ -23423,7 +23423,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot.webp",
 				},
 				"cheats-2026": {
-					title: "deadside cheaty 2026 | 2026 Buyer Guide | Windows PC License",
+					title: "deadside cheaty 2026 | 2026 Buyer Guide",
 					description: "deadside cheaty 2026 for Deadside survival & squad raids on Windows PC — checklist deadside cheats 2026 před checkout. okamžité digitální doručení. undetected.",
 					h1: "deadside cheaty 2026 — 2026 Buyer Guide",
 					intro: "Deadside Cheats spojuje ESP wallhack, 2D radar a deadside aimbot jako undetected balíček pro Deadside na Windows PC. deadside cheaty 2026. checklist deadside cheats 2026 před checkout.",
@@ -23469,7 +23469,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				hacks: {
-					title: "deadside cheaty — ESP Aimbot Guide | ESP, Aimbot & Radar PC",
+					title: "deadside cheaty — ESP Aimbot Guide | Deadside Cheats",
 					description: "deadside cheaty — ESP Aimbot Guide for Deadside survival & squad raids on Windows PC — pilíř Deadside Cheats pro ESP a Aimbot. okamžité digitální doručení.",
 					h1: "Deadside Cheats — Kompletní průvodce",
 					intro: "Deadside cheaty přidávají ESP, radar a soft aim k základní hře. Tato stránka vysvětluje co jsou deadside cheats, co obsahuje Deadside Cheats, údržbu BattlEye a kam jít před nákupem.",
@@ -23542,7 +23542,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-combat.webp",
 				},
 				"cheat-download": {
-					title: "Stáhnout Deadside Cheats | Instant Access for PC",
+					title: "Stáhnout Deadside Cheats | Instant Access",
 					description: "Stáhnout Deadside Cheats for Deadside survival & squad raids on Windows PC — digitální stažení licence po platbě. okamžité digitální doručení. undetected.",
 					h1: "Stáhnout Deadside Cheats — Instant Access",
 					intro: "Deadside Cheats spojuje ESP wallhack, 2D radar a deadside aimbot jako undetected balíček pro Deadside na Windows PC. Stáhnout Deadside Cheats. digitální stažení licence po platbě.",
@@ -23580,7 +23580,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				"mod-menu": {
-					title: "Deadside mod menu | In-Game Toggles | ESP, Aimbot & Radar",
+					title: "Deadside mod menu | In-Game Toggles",
 					description: "Deadside mod menu for Deadside survival & squad raids on Windows PC — přepínače ESP a soft aim v klientu. okamžité digitální doručení. undetected. Official",
 					h1: "Deadside mod menu — In-Game Toggles",
 					intro: "Deadside Cheats spojuje ESP wallhack, 2D radar a deadside aimbot jako undetected balíček pro Deadside na Windows PC. Deadside mod menu. přepínače ESP a soft aim v klientu.",
@@ -23618,7 +23618,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				"soft-aim": {
-					title: "Deadside Soft Aim | Smooth Aim Settings | Windows PC License",
+					title: "Deadside Soft Aim | Smooth Aim Settings",
 					description: "Deadside Soft Aim for Deadside survival & squad raids on Windows PC — plynulé nastavení soft aim pro Windows PC. okamžité digitální doručení. undetected.",
 					h1: "Deadside Soft Aim — Smooth Aim Settings",
 					intro: "Deadside Cheats spojuje ESP wallhack, 2D radar a deadside aimbot jako undetected balíček pro Deadside na Windows PC. Deadside Soft Aim. plynulé nastavení soft aim pro Windows PC.",
@@ -23702,7 +23702,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				"aimbot-hack": {
-					title: "deadside aimbot | Soft Aim Assist | ESP, Aimbot & Radar",
+					title: "deadside aimbot | Soft Aim Assist",
 					description: "deadside aimbot for Deadside survival & squad raids on Windows PC — undetected Aimbot assist pro Deadside. okamžité digitální doručení. undetected. Official",
 					h1: "deadside aimbot — Soft Aim Assist",
 					intro: "Deadside Cheats spojuje ESP wallhack, 2D radar a deadside aimbot jako undetected balíček pro Deadside na Windows PC. deadside aimbot. undetected Aimbot assist pro Deadside.",
@@ -23740,7 +23740,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				"esp-hack": {
-					title: "deadside esp | Boxes & Loot | ESP, Aimbot & Radar",
+					title: "deadside esp | Boxes & Loot",
 					description: "deadside esp for Deadside survival & squad raids on Windows PC — ESP boxy, piny kadáverů a vzdálenost. okamžité digitální doručení. undetected. Official",
 					h1: "deadside esp — Boxes & Loot",
 					intro: "Deadside Cheats spojuje ESP wallhack, 2D radar a deadside aimbot jako undetected balíček pro Deadside na Windows PC. deadside esp. ESP boxy, piny kadáverů a vzdálenost.",
@@ -23778,7 +23778,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				"unlock-all": {
-					title: "Deadside Unlock All | What It Means | ESP, Aimbot & Radar",
+					title: "Deadside Unlock All | What It Means",
 					description: "Deadside Unlock All for Deadside survival & squad raids on Windows PC — vyhledávání unlock-all vs skutečné ESP a Aimbot nástroje. okamžité digitální doručení.",
 					h1: "Deadside Unlock All — What It Means",
 					intro: "Deadside Cheats spojuje ESP wallhack, 2D radar a deadside aimbot jako undetected balíček pro Deadside na Windows PC. Deadside Unlock All. vyhledávání unlock-all vs skutečné ESP a Aimbot nástroje.",
@@ -23816,7 +23816,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				privacy: {
-					title: "Zásady ochrany soukromí | Deadside Cheats Legal",
+					title: "Zásady ochrany soukromí | Deadside Cheats",
 					description: "Zásady ochrany soukromí pro Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Zásady ochrany soukromí",
 					intro: "Deadside Cheats spojuje ESP wallhack, 2D radar a deadside aimbot jako undetected balíček pro Deadside na Windows PC. Zásady ochrany soukromí pro deadsidecheat.com a licence Deadside.",
@@ -23851,7 +23851,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				refund: {
-					title: "Zásady vrácení peněz | Deadside Cheats Legal for PC",
+					title: "Zásady vrácení peněz | Deadside Cheats",
 					description: "Zásady vrácení peněz pro Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Zásady vrácení peněz",
 					intro: "Deadside Cheats spojuje ESP wallhack, 2D radar a deadside aimbot jako undetected balíček pro Deadside na Windows PC. Zásady vrácení peněz pro deadsidecheat.com a licence Deadside.",
@@ -23886,7 +23886,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				terms: {
-					title: "Podmínky použití | Deadside Cheats Legal for PC",
+					title: "Podmínky použití | Deadside Cheats",
 					description: "Podmínky použití pro Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Podmínky použití",
 					intro: "Deadside Cheats spojuje ESP wallhack, 2D radar a deadside aimbot jako undetected balíček pro Deadside na Windows PC. Podmínky použití pro deadsidecheat.com a licence Deadside.",
@@ -24024,9 +24024,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				"deadside-esp": {
-					title: "ESP Deadside — Player Boxes & Wallhack | Wallhack & Player",
-					description: "ESP Deadside — Player Boxes & Wallhack for Deadside survival & squad raids on Windows PC — casete jucător, markere carcase și overlay-uri wallhack. livrare",
-					h1: "ESP Deadside — Player Boxes & Wallhack",
+					title: "ESP Deadside — ESP & Wallhack | Deadside Cheats",
+					description: "ESP Deadside — ESP & Wallhack for Deadside survival & squad raids on Windows PC — casete jucător, markere carcase și overlay-uri wallhack. livrare digitală",
+					h1: "ESP Deadside — ESP & Wallhack",
 					intro: "Vezi jucători și loot prin pereți în match-uri Deadside. Parte din aceeași licență Deadside Cheats.",
 					imageAlt: "deadside esp player boxes and distance readouts in a match",
 					galleryTitle: "Aspect în joc",
@@ -24074,9 +24074,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				"deadside-aimbot": {
-					title: "Aimbot Deadside — Soft Aim Controls | Soft Aim & FOV",
-					description: "Aimbot Deadside — Soft Aim Controls for Deadside survival & squad raids on Windows PC — soft aim, FOV și profile Aimbot pe specie. livrare digitală instantă.",
-					h1: "Aimbot Deadside — Soft Aim Controls",
+					title: "Aimbot Deadside — Soft Aim | Deadside Cheats",
+					description: "Aimbot Deadside — Soft Aim for Deadside survival & squad raids on Windows PC — soft aim, FOV și profile Aimbot pe specie. livrare digitală instantă. Official",
+					h1: "Aimbot Deadside — Soft Aim",
 					intro: "Soft aim și asistență țintire reglabile pentru Deadside. Inclus în aceeași licență Deadside Cheats.",
 					imageAlt: "deadside aimbot and soft aim controls on Windows PC",
 					galleryTitle: "Aspect în joc",
@@ -24203,7 +24203,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				pricing: {
-					title: "Prețuri — Monthly & Lifetime | $35/mo or $150 Lifetime",
+					title: "Prețuri — Monthly & Lifetime | Deadside Cheats",
 					description: "Prețuri — Monthly & Lifetime for Deadside survival & squad raids on Windows PC — licențe $35 lunar sau $150 lifetime. livrare digitală instantă. Official",
 					h1: "Prețuri — Monthly & Lifetime",
 					intro: "Deadside Cheats combină ESP wallhack, 2D radar și deadside aimbot undetected pentru Deadside pe PC Windows. Magazin — $35/lună y $150 pe viață.",
@@ -24253,7 +24253,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				setup: {
-					title: "Instalare — PC Setup Guide | Windows PC Install",
+					title: "Instalare — PC Setup Guide | Deadside Cheats",
 					description: "Instalare — PC Setup Guide for Deadside survival & squad raids on Windows PC — activare Windows PC și setup la prima lansare. livrare digitală instantă.",
 					h1: "Instalare",
 					intro: "Instalează și activează licența pe Windows 10 sau 11 înainte de primul match.",
@@ -24303,7 +24303,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				updates: {
-					title: "Actualizări — Live Status Log | BattlEye Updates | Deadside",
+					title: "Actualizări — Live Status Log | Deadside Cheats",
 					description: "Actualizări — Live Status Log for Deadside survival & squad raids on Windows PC — status patch BattlEye și note rebuild. livrare digitală instantă. Official",
 					h1: "Status",
 					intro: "Verificați Updates după patch-uri BattlEye. Niciun cheat nu garantează undetected permanent.",
@@ -24352,7 +24352,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				faq: {
-					title: "FAQ — Common Answers | ESP, Aimbot & BattlEye PC",
+					title: "FAQ — Common Answers | Deadside Cheats",
 					description: "FAQ — Common Answers for Deadside survival & squad raids on Windows PC — întrebări ESP, soft aim, livrare și BattlEye. livrare digitală instantă. Official",
 					h1: "FAQ — Common Answers",
 					intro: "FAQ Deadside Cheats — livrare, instalare, actualizări și rambursări.",
@@ -24400,7 +24400,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				support: {
-					title: "Suport — Help & Contact | License & Setup Help",
+					title: "Suport — Help & Contact | Deadside Cheats",
 					description: "Suport — Help & Contact for Deadside survival & squad raids on Windows PC — ajutor comenzi și contact suport licențe. livrare digitală instantă. Official",
 					h1: "Suport",
 					intro: "Ajutor pentru licențe, instalare și facturare Deadside Cheats pe Windows PC.",
@@ -24484,7 +24484,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				wallhack: {
-					title: "Deadside Wallhack | ESP Visibility | ESP, Aimbot & Radar",
+					title: "Deadside Wallhack | ESP Visibility",
 					description: "Deadside Wallhack for Deadside survival & squad raids on Windows PC — wallhack ESP pentru jucători, carcase și distanță. livrare digitală instantă. undetected.",
 					h1: "Deadside Wallhack — ESP Visibility",
 					intro: "Deadside Cheats combină ESP wallhack, 2D radar și deadside aimbot undetected pentru Deadside pe PC Windows. Deadside Wallhack. wallhack ESP pentru jucători, carcase și distanță.",
@@ -24522,7 +24522,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				radar: {
-					title: "2D radar — 2D Threat Overlay | 2D Threat Map | Deadside",
+					title: "2D radar — 2D Threat Overlay | Deadside Cheats",
 					description: "2D radar — 2D Threat Overlay for Deadside survival & squad raids on Windows PC — indicii radar 2D pentru flancuri și rotații. livrare digitală instantă.",
 					h1: "2D radar — 2D Threat Overlay",
 					intro: "Radar 2D simplu pentru amenințări în afara vederii. Inclus în aceeași licență Deadside Cheats.",
@@ -24560,7 +24560,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				battleye: {
-					title: "Bypass BattlEye | BattlEye Patch Maintenance for PC",
+					title: "Bypass BattlEye | BattlEye Patch Maintenance",
 					description: "Bypass BattlEye for Deadside survival & squad raids on Windows PC — cum sunt gestionate actualizările BattlEye pentru Deadside cheats. livrare digitală",
 					h1: "Bypass BattlEye — BattlEye Patch Maintenance",
 					intro: "Deadside Cheats combină ESP wallhack, 2D radar și deadside aimbot undetected pentru Deadside pe PC Windows. Bypass BattlEye. cum sunt gestionate actualizările BattlEye pentru Deadside cheats.",
@@ -24614,7 +24614,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot.webp",
 				},
 				"cheats-2026": {
-					title: "Cheats Deadside 2026 | 2026 Buyer Guide | Windows PC License",
+					title: "Cheats Deadside 2026 | 2026 Buyer Guide",
 					description: "Cheats Deadside 2026 for Deadside survival & squad raids on Windows PC — checklist deadside cheats 2026 înainte de checkout. livrare digitală instantă.",
 					h1: "Cheats Deadside 2026 — 2026 Buyer Guide",
 					intro: "Deadside Cheats combină ESP wallhack, 2D radar și deadside aimbot undetected pentru Deadside pe PC Windows. Cheats Deadside 2026. checklist deadside cheats 2026 înainte de checkout.",
@@ -24660,7 +24660,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				hacks: {
-					title: "Cheats Deadside — ESP Aimbot Guide | ESP, Aimbot & Radar PC",
+					title: "Cheats Deadside — ESP Aimbot Guide | Deadside Cheats",
 					description: "Cheats Deadside — ESP Aimbot Guide for Deadside survival & squad raids on Windows PC — pilon Deadside Cheats pentru ESP și Aimbot. livrare digitală instantă.",
 					h1: "Deadside Cheats — Ghid complet",
 					intro: "Deadside cheats adaugă ESP, radar și soft aim peste jocul de bază. Această pagină explică ce sunt deadside cheats, ce include Deadside Cheats, mentenanța BattlEye și pașii înainte de cumpărare.",
@@ -24733,7 +24733,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-combat.webp",
 				},
 				"cheat-download": {
-					title: "Descărcare Deadside Cheats | Instant Access for PC",
+					title: "Descărcare Deadside Cheats | Instant Access",
 					description: "Descărcare Deadside Cheats for Deadside survival & squad raids on Windows PC — descărcare licență digitală după plată. livrare digitală instantă. undetected.",
 					h1: "Descărcare Deadside Cheats — Instant Access",
 					intro: "Deadside Cheats combină ESP wallhack, 2D radar și deadside aimbot undetected pentru Deadside pe PC Windows. Descărcare Deadside Cheats. descărcare licență digitală după plată.",
@@ -24771,7 +24771,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				"mod-menu": {
-					title: "Meniu mod Deadside | In-Game Toggles | ESP, Aimbot & Radar",
+					title: "Meniu mod Deadside | In-Game Toggles",
 					description: "Meniu mod Deadside for Deadside survival & squad raids on Windows PC — toggle-uri ESP și soft aim in-client. livrare digitală instantă. undetected. Official",
 					h1: "Meniu mod Deadside — In-Game Toggles",
 					intro: "Deadside Cheats combină ESP wallhack, 2D radar și deadside aimbot undetected pentru Deadside pe PC Windows. Meniu mod Deadside. toggle-uri ESP și soft aim in-client.",
@@ -24809,7 +24809,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				"soft-aim": {
-					title: "Soft aim Deadside | Smooth Aim Settings | Windows PC License",
+					title: "Soft aim Deadside | Smooth Aim Settings",
 					description: "Soft aim Deadside for Deadside survival & squad raids on Windows PC — setări soft aim fluide pentru Windows PC. livrare digitală instantă. undetected. Official",
 					h1: "Soft aim Deadside — Smooth Aim Settings",
 					intro: "Deadside Cheats combină ESP wallhack, 2D radar și deadside aimbot undetected pentru Deadside pe PC Windows. Soft aim Deadside. setări soft aim fluide pentru Windows PC.",
@@ -24893,7 +24893,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				"aimbot-hack": {
-					title: "Aimbot Deadside | Soft Aim Assist | ESP, Aimbot & Radar",
+					title: "Aimbot Deadside | Soft Aim Assist",
 					description: "Aimbot Deadside for Deadside survival & squad raids on Windows PC — assist Aimbot undetected pentru Deadside. livrare digitală instantă. undetected. Official",
 					h1: "Aimbot Deadside — Soft Aim Assist",
 					intro: "Deadside Cheats combină ESP wallhack, 2D radar și deadside aimbot undetected pentru Deadside pe PC Windows. Aimbot Deadside. assist Aimbot undetected pentru Deadside.",
@@ -24931,7 +24931,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				"esp-hack": {
-					title: "ESP Deadside | Boxes & Loot | ESP, Aimbot & Radar",
+					title: "ESP Deadside | Boxes & Loot",
 					description: "ESP Deadside for Deadside survival & squad raids on Windows PC — casete ESP, pin-uri carcase și distanță. livrare digitală instantă. undetected. Official",
 					h1: "ESP Deadside — Boxes & Loot",
 					intro: "Deadside Cheats combină ESP wallhack, 2D radar și deadside aimbot undetected pentru Deadside pe PC Windows. ESP Deadside. casete ESP, pin-uri carcase și distanță.",
@@ -24969,7 +24969,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				"unlock-all": {
-					title: "Unlock all Deadside | What It Means | ESP, Aimbot & Radar",
+					title: "Unlock all Deadside | What It Means",
 					description: "Unlock all Deadside for Deadside survival & squad raids on Windows PC — căutări unlock-all vs instrumente reale ESP și Aimbot. livrare digitală instantă.",
 					h1: "Unlock all Deadside — What It Means",
 					intro: "Deadside Cheats combină ESP wallhack, 2D radar și deadside aimbot undetected pentru Deadside pe PC Windows. Unlock all Deadside. căutări unlock-all vs instrumente reale ESP și Aimbot.",
@@ -25007,7 +25007,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				privacy: {
-					title: "Politica de confidențialitate | Deadside Cheats Legal",
+					title: "Politica de confidențialitate | Deadside Cheats",
 					description: "Politica de confidențialitate pentru Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheat.com.",
 					h1: "Politica de confidențialitate",
 					intro: "Deadside Cheats combină ESP wallhack, 2D radar și deadside aimbot undetected pentru Deadside pe PC Windows. Politica de confidențialitate pentru deadsidecheat.com și licențe Deadside.",
@@ -25042,7 +25042,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				refund: {
-					title: "Politica de rambursare | Deadside Cheats Legal",
+					title: "Politica de rambursare | Deadside Cheats",
 					description: "Politica de rambursare pentru Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheat.com.",
 					h1: "Politica de rambursare",
 					intro: "Deadside Cheats combină ESP wallhack, 2D radar și deadside aimbot undetected pentru Deadside pe PC Windows. Politica de rambursare pentru deadsidecheat.com și licențe Deadside.",
@@ -25077,7 +25077,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				terms: {
-					title: "Termeni de utilizare | Deadside Cheats Legal for PC",
+					title: "Termeni de utilizare | Deadside Cheats",
 					description: "Termeni de utilizare pentru Deadside Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at deadsidecheat.com.",
 					h1: "Termeni de utilizare",
 					intro: "Deadside Cheats combină ESP wallhack, 2D radar și deadside aimbot undetected pentru Deadside pe PC Windows. Termeni de utilizare pentru deadsidecheat.com și licențe Deadside.",
@@ -25215,9 +25215,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				"deadside-esp": {
-					title: "deadside esp — Player Boxes & Wallhack | Wallhack & Player",
-					description: "deadside esp — Player Boxes & Wallhack for Deadside survival & squad raids on Windows PC — spelarboxar, kadavermarkörer och wallhack-overlays. omedelbar",
-					h1: "deadside esp — Player Boxes & Wallhack",
+					title: "deadside esp — ESP & Wallhack | Deadside Cheats",
+					description: "deadside esp — ESP & Wallhack for Deadside survival & squad raids on Windows PC — spelarboxar, kadavermarkörer och wallhack-overlays. omedelbar digital",
+					h1: "deadside esp — ESP & Wallhack",
 					intro: "Se spelare och loot genom väggar under Deadside matches. Ingår i samma Deadside Cheats-licens.",
 					imageAlt: "deadside esp player boxes and distance readouts in a match",
 					galleryTitle: "Utseende i spelet",
@@ -25265,9 +25265,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				"deadside-aimbot": {
-					title: "deadside aimbot — Soft Aim Controls | Soft Aim & FOV",
-					description: "deadside aimbot — Soft Aim Controls for Deadside survival & squad raids on Windows PC — soft aim, FOV och Aimbot-profiler per art. omedelbar digital leverans.",
-					h1: "deadside aimbot — Soft Aim Controls",
+					title: "deadside aimbot — Soft Aim | Deadside Cheats",
+					description: "deadside aimbot — Soft Aim for Deadside survival & squad raids on Windows PC — soft aim, FOV och Aimbot-profiler per art. omedelbar digital leverans. Official",
+					h1: "deadside aimbot — Soft Aim",
 					intro: "Soft aim och siktehjälp du kan ställa in för Deadside. Ingår i samma Deadside Cheats-licens.",
 					imageAlt: "deadside aimbot and soft aim controls on Windows PC",
 					galleryTitle: "Utseende i spelet",
@@ -25394,7 +25394,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				pricing: {
-					title: "Priser — Monthly & Lifetime | $35/mo or $150 Lifetime",
+					title: "Priser — Monthly & Lifetime | Deadside Cheats",
 					description: "Priser — Monthly & Lifetime for Deadside survival & squad raids on Windows PC — $35 månatliga eller $150 lifetime-licenser. omedelbar digital leverans.",
 					h1: "Priser — Monthly & Lifetime",
 					intro: "Deadside Cheats kombinerar ESP wallhack, 2D radar och deadside aimbot som undetected paket för Deadside på Windows PC. Butik — $35/mån y $150 lifetime.",
@@ -25444,7 +25444,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				setup: {
-					title: "Installation — PC Setup Guide | Windows PC Install",
+					title: "Installation — PC Setup Guide | Deadside Cheats",
 					description: "Installation — PC Setup Guide for Deadside survival & squad raids on Windows PC — Windows PC-aktivering och första-start setup. omedelbar digital leverans.",
 					h1: "Installation",
 					intro: "Installera och aktivera din licens på Windows 10 eller 11 före din första match.",
@@ -25494,7 +25494,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				updates: {
-					title: "Uppdateringar — Live Status Log | BattlEye Updates |",
+					title: "Uppdateringar — Live Status Log | Deadside Cheats",
 					description: "Uppdateringar — Live Status Log for Deadside survival & squad raids on Windows PC — BattlEye patchstatus och rebuild-anteckningar. omedelbar digital leverans.",
 					h1: "Status",
 					intro: "Kontrollera Updates ruster BattlEye-patchar. Ingen cheat garanterar permanent undetected status.",
@@ -25543,7 +25543,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				faq: {
-					title: "FAQ — Common Answers | ESP, Aimbot & BattlEye PC",
+					title: "FAQ — Common Answers | Deadside Cheats",
 					description: "FAQ — Common Answers for Deadside survival & squad raids on Windows PC — frågor om ESP, soft aim, leverans och BattlEye. omedelbar digital leverans. Official",
 					h1: "FAQ — Common Answers",
 					intro: "Deadside Cheats FAQ — leverans, setup, uppdateringar och återbetalningar.",
@@ -25591,7 +25591,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				support: {
-					title: "Support — Help & Contact | License & Setup Help",
+					title: "Support — Help & Contact | Deadside Cheats",
 					description: "Support — Help & Contact for Deadside survival & squad raids on Windows PC — orderhjälp och licens support-kontakt. omedelbar digital leverans. Official",
 					h1: "Support",
 					intro: "Hjälp med licenser, setup och fakturering för Deadside Cheats på Windows PC.",
@@ -25675,7 +25675,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				wallhack: {
-					title: "Deadside Wallhack | ESP Visibility | ESP, Aimbot & Radar",
+					title: "Deadside Wallhack | ESP Visibility",
 					description: "Deadside Wallhack for Deadside survival & squad raids on Windows PC — wallhack ESP för spelare, kadaver och avstånd. omedelbar digital leverans. undetected.",
 					h1: "Deadside Wallhack — ESP Visibility",
 					intro: "Deadside Cheats kombinerar ESP wallhack, 2D radar och deadside aimbot som undetected paket för Deadside på Windows PC. Deadside Wallhack. wallhack ESP för spelare, kadaver och avstånd.",
@@ -25713,7 +25713,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				radar: {
-					title: "2D radar — 2D Threat Overlay | 2D Threat Map | Deadside",
+					title: "2D radar — 2D Threat Overlay | Deadside Cheats",
 					description: "2D radar — 2D Threat Overlay for Deadside survival & squad raids on Windows PC — 2D radar-signaler för flanker och rotationer. omedelbar digital leverans.",
 					h1: "2D radar — 2D Threat Overlay",
 					intro: "En enkel 2D-radar för hot utanför synfältet. Ingår i samma Deadside Cheats-licens.",
@@ -25751,7 +25751,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				battleye: {
-					title: "BattlEye Bypass | BattlEye Patch Maintenance for PC",
+					title: "BattlEye Bypass | BattlEye Patch Maintenance",
 					description: "BattlEye Bypass for Deadside survival & squad raids on Windows PC — hur BattlEye-uppdateringar hanteras för Deadside cheats. omedelbar digital leverans.",
 					h1: "BattlEye Bypass — BattlEye Patch Maintenance",
 					intro: "Deadside Cheats kombinerar ESP wallhack, 2D radar och deadside aimbot som undetected paket för Deadside på Windows PC. BattlEye Bypass. hur BattlEye-uppdateringar hanteras för Deadside cheats.",
@@ -25805,7 +25805,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot.webp",
 				},
 				"cheats-2026": {
-					title: "Deadside Cheats 2026 | 2026 Buyer Guide | Windows PC License",
+					title: "Deadside Cheats 2026 | 2026 Buyer Guide",
 					description: "Deadside Cheats 2026 for Deadside survival & squad raids on Windows PC — 2026 deadside cheats checklist före checkout. omedelbar digital leverans. undetected.",
 					h1: "Deadside Cheats 2026 — 2026 Buyer Guide",
 					intro: "Deadside Cheats kombinerar ESP wallhack, 2D radar och deadside aimbot som undetected paket för Deadside på Windows PC. Deadside Cheats 2026. 2026 deadside cheats checklist före checkout.",
@@ -25851,7 +25851,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				hacks: {
-					title: "Deadside Cheats — ESP Aimbot Guide | ESP, Aimbot & Radar PC",
+					title: "Deadside Cheats — ESP Aimbot Guide | Deadside Cheats",
 					description: "Deadside Cheats — ESP Aimbot Guide for Deadside survival & squad raids on Windows PC — Deadside Cheats pelare för ESP och Aimbot. omedelbar digital leverans.",
 					h1: "Deadside Cheats — Fullständig guide",
 					intro: "Deadside cheats lägger till ESP, radar och soft aim ovanpå basspelet. Den här sidan förklarar vad deadside cheats är, vad Deadside Cheats innehåller, BattlEye-underhåll och nästa steg före köp.",
@@ -25924,7 +25924,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-combat.webp",
 				},
 				"cheat-download": {
-					title: "Deadside Cheat Download | Instant Access for PC",
+					title: "Deadside Cheat Download | Instant Access",
 					description: "Deadside Cheat Download for Deadside survival & squad raids on Windows PC — digital licensnedladdning efter betalning. omedelbar digital leverans. undetected.",
 					h1: "Deadside Cheat Download — Instant Access",
 					intro: "Deadside Cheats kombinerar ESP wallhack, 2D radar och deadside aimbot som undetected paket för Deadside på Windows PC. Deadside Cheat Download. digital licensnedladdning efter betalning.",
@@ -25962,7 +25962,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-session.webp",
 				},
 				"mod-menu": {
-					title: "Deadside Mod-meny | In-Game Toggles | ESP, Aimbot & Radar",
+					title: "Deadside Mod-meny | In-Game Toggles",
 					description: "Deadside Mod-meny for Deadside survival & squad raids on Windows PC — in-client ESP och soft aim-växlar. omedelbar digital leverans. undetected. Official",
 					h1: "Deadside Mod-meny — In-Game Toggles",
 					intro: "Deadside Cheats kombinerar ESP wallhack, 2D radar och deadside aimbot som undetected paket för Deadside på Windows PC. Deadside Mod-meny. in-client ESP och soft aim-växlar.",
@@ -26000,7 +26000,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				"soft-aim": {
-					title: "Deadside Soft Aim | Smooth Aim Settings | Windows PC License",
+					title: "Deadside Soft Aim | Smooth Aim Settings",
 					description: "Deadside Soft Aim for Deadside survival & squad raids on Windows PC — mjuka soft aim-inställningar för Windows PC. omedelbar digital leverans. undetected.",
 					h1: "Deadside Soft Aim — Smooth Aim Settings",
 					intro: "Deadside Cheats kombinerar ESP wallhack, 2D radar och deadside aimbot som undetected paket för Deadside på Windows PC. Deadside Soft Aim. mjuka soft aim-inställningar för Windows PC.",
@@ -26038,7 +26038,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				"best-cheats": {
-					title: "Bästa Deadside Cheats | 2026 Buyer Checklist for PC",
+					title: "Bästa Deadside Cheats | 2026 Buyer Checklist",
 					description: "Bästa Deadside Cheats for Deadside survival & squad raids on Windows PC — vad du ska jämföra innan du köper deadside cheats. omedelbar digital leverans.",
 					h1: "Bästa Deadside Cheats — 2026 Buyer Checklist",
 					intro: "Deadside Cheats kombinerar ESP wallhack, 2D radar och deadside aimbot som undetected paket för Deadside på Windows PC. Bästa Deadside Cheats. vad du ska jämföra innan du köper deadside cheats.",
@@ -26084,7 +26084,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-esp.webp",
 				},
 				"aimbot-hack": {
-					title: "deadside aimbot | Soft Aim Assist | ESP, Aimbot & Radar",
+					title: "deadside aimbot | Soft Aim Assist",
 					description: "deadside aimbot for Deadside survival & squad raids on Windows PC — undetected Aimbot assist för Deadside. omedelbar digital leverans. undetected. Official",
 					h1: "deadside aimbot — Soft Aim Assist",
 					intro: "Deadside Cheats kombinerar ESP wallhack, 2D radar och deadside aimbot som undetected paket för Deadside på Windows PC. deadside aimbot. undetected Aimbot assist för Deadside.",
@@ -26122,7 +26122,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-aimbot-view.webp",
 				},
 				"esp-hack": {
-					title: "deadside esp | Boxes & Loot | ESP, Aimbot & Radar",
+					title: "deadside esp | Boxes & Loot",
 					description: "deadside esp for Deadside survival & squad raids on Windows PC — ESP-boxar, kadaver-pins och avstånd. omedelbar digital leverans. undetected. Official deadside",
 					h1: "deadside esp — Boxes & Loot",
 					intro: "Deadside Cheats kombinerar ESP wallhack, 2D radar och deadside aimbot som undetected paket för Deadside på Windows PC. deadside esp. ESP-boxar, kadaver-pins och avstånd.",
@@ -26160,7 +26160,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-wallhack.webp",
 				},
 				"unlock-all": {
-					title: "Deadside Unlock All | What It Means | ESP, Aimbot & Radar",
+					title: "Deadside Unlock All | What It Means",
 					description: "Deadside Unlock All for Deadside survival & squad raids on Windows PC — unlock-all-sökningar vs riktiga ESP- och Aimbot-verktyg. omedelbar digital leverans.",
 					h1: "Deadside Unlock All — What It Means",
 					intro: "Deadside Cheats kombinerar ESP wallhack, 2D radar och deadside aimbot som undetected paket för Deadside på Windows PC. Deadside Unlock All. unlock-all-sökningar vs riktiga ESP- och Aimbot-verktyg.",
@@ -26198,7 +26198,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/deadside-cheats-radar.webp",
 				},
 				privacy: {
-					title: "Integritetspolicy | Deadside Cheats Legal for PC",
+					title: "Integritetspolicy | Deadside Cheats",
 					description: "Integritetspolicy för Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Integritetspolicy",
 					intro: "Deadside Cheats kombinerar ESP wallhack, 2D radar och deadside aimbot som undetected paket för Deadside på Windows PC. Integritetspolicy för deadsidecheat.com och Deadside-licenser.",
@@ -26233,7 +26233,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				refund: {
-					title: "Återbetalningspolicy | Deadside Cheats Legal for PC",
+					title: "Återbetalningspolicy | Deadside Cheats",
 					description: "Återbetalningspolicy för Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Återbetalningspolicy",
 					intro: "Deadside Cheats kombinerar ESP wallhack, 2D radar och deadside aimbot som undetected paket för Deadside på Windows PC. Återbetalningspolicy för deadsidecheat.com och Deadside-licenser.",
@@ -26268,7 +26268,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					],
 				},
 				terms: {
-					title: "Användarvillkor | Deadside Cheats Legal | Windows PC License",
+					title: "Användarvillkor | Deadside Cheats",
 					description: "Användarvillkor för Deadside Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at deadsidecheat.com.",
 					h1: "Användarvillkor",
 					intro: "Deadside Cheats kombinerar ESP wallhack, 2D radar och deadside aimbot som undetected paket för Deadside på Windows PC. Användarvillkor för deadsidecheat.com och Deadside-licenser.",

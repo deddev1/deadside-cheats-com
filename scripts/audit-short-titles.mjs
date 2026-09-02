@@ -7,9 +7,17 @@ import { readFileSync, readdirSync, statSync } from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
+import {
+	TITLE_TARGET_MIN,
+	TITLE_MAX,
+	TITLE_MAX_PX,
+	titlePixelWidth,
+} from './lib/title-seo.mjs';
+
 const ROOT = path.join(path.dirname(fileURLToPath(import.meta.url)), '..');
 const DIST = path.join(ROOT, 'dist');
-const TITLE_MIN = 45;
+const TITLE_MIN = TITLE_TARGET_MIN;
+const TITLE_MIN_PX = 360;
 
 function collectHtmlDirs(dir, base = '') {
 	const out = [];
@@ -44,8 +52,10 @@ for (const pagePath of collectHtmlDirs(DIST)) {
 	if (isNoindex(html)) continue;
 
 	const title = decodeHtml(html.match(/<title>([^<]*)<\/title>/i)?.[1]?.trim() ?? '');
-	if (!title || title.length >= TITLE_MIN) continue;
-	shortTitles.push({ path: pagePath, len: title.length, title });
+	const len = title.length;
+	const px = titlePixelWidth(title);
+	if (len >= TITLE_MIN || px >= TITLE_MIN_PX) continue;
+	shortTitles.push({ path: pagePath, len, px, title });
 }
 
 shortTitles.sort((a, b) => a.len - b.len || a.path.localeCompare(b.path));
@@ -54,8 +64,8 @@ if (shortTitles.length > 0) {
 	console.error(
 		`[audit-short-titles] ${shortTitles.length} indexable page(s) under ${TITLE_MIN} chars:`,
 	);
-	for (const { path: pagePath, len, title } of shortTitles.slice(0, 25)) {
-		console.error(`  ${len} chars  ${pagePath}`);
+	for (const { path: pagePath, len, px, title } of shortTitles.slice(0, 25)) {
+		console.error(`  ${len} chars / ${Math.round(px)}px  ${pagePath}`);
 		console.error(`           "${title}"`);
 	}
 	if (shortTitles.length > 25) {
@@ -64,4 +74,6 @@ if (shortTitles.length > 0) {
 	process.exit(1);
 }
 
-console.log(`[audit-short-titles] OK — all indexable titles are at least ${TITLE_MIN} chars`);
+console.log(
+	`[audit-short-titles] OK — all indexable titles are at least ${TITLE_MIN} chars or ${TITLE_MIN_PX}px`,
+);

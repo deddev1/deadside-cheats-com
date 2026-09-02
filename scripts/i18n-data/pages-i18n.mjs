@@ -52,8 +52,8 @@ export function buildHome(locale) {
 
 /** Unique title/desc tails per page — English base + locale overrides for hero H1/subtitle. */
 export const PAGE_META_TAILS = {
-	'deadside-esp': { suffix: 'Player Boxes & Wallhack', focus: 'player boxes, loot markers, and wallhack overlays', altKeyword: 'ESP wallhack overlay' },
-	'deadside-aimbot': { suffix: 'Soft Aim Controls', focus: 'soft aim, FOV, and per-weapon Aimbot profiles', altKeyword: 'aimbot combat' },
+	'deadside-esp': { suffix: 'ESP & Wallhack', focus: 'player boxes, loot markers, and wallhack overlays', altKeyword: 'ESP wallhack overlay' },
+	'deadside-aimbot': { suffix: 'Soft Aim', focus: 'soft aim, FOV, and per-weapon Aimbot profiles', altKeyword: 'aimbot combat' },
 	features: { suffix: 'Full Feature List', focus: 'ESP, soft aim, radar controls', altKeyword: 'cheats package ESP aimbot' },
 	pricing: { suffix: 'Monthly & Lifetime', focus: '$35 monthly or $150 lifetime licenses', altKeyword: 'cheats pricing' },
 	setup: { suffix: 'PC Setup Guide', focus: 'Windows PC activation and first-launch setup', altKeyword: 'setup PC activation' },
@@ -307,7 +307,7 @@ export function buildLegal(locale, pageKey, kind) {
 	const pageCopy = L?.[kind] ?? {};
 	const h2 = pageCopy.h2 ?? ['Information we collect', 'How we use data', 'Your rights'];
 	return {
-		title: clampTitle(stripZadeyoFromMeta(`${h1} | Deadside Cheats Legal`)),
+		title: clampTitle(stripZadeyoFromMeta(`${h1} | ${L?.titleTail ?? 'Deadside Cheats'}`)),
 		description: clampDesc(stripZadeyoFromMeta(`${h1} ${L?.descFor ?? 'for Deadside Cheats — ESP wallhack, Aimbot'}, ${p.win}.`)),
 		h1,
 		intro: p.s1(`${h1} ${L?.introTopic ?? 'for deadsidecheat.com and Deadside licenses.'}`),
