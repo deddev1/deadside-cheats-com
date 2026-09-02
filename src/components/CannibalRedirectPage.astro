@@ -11,4 +11,8 @@ const { pageId } = Astro.props;
 const targetPath = englishPaths[getCannibalTargetId(pageId) as PageId];
 ---
 
-<RedirectPage to={targetPath} canonicalPath={targetPath} />
+<RedirectPage
+	to={targetPath}
+	canonicalPath={targetPath}
+	title={`Redirect: ${pageId} | Deadside Cheats`}
+/>

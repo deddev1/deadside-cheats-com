@@ -16,6 +16,19 @@ export function seoPageTitle(template: string): string {
 	return lastSpace > 45 ? trimmed.slice(0, lastSpace) : trimmed.slice(0, 60);
 }
 
+/** Append locale label so indexable translations never share the same SERP title. */
+export function localizedSeoPageTitle(template: string, localeLabel: string): string {
+	const base = seoPageTitle(template);
+	const suffix = ` | ${localeLabel}`;
+	if (base.endsWith(suffix)) return base;
+	if (base.length + suffix.length <= 60) return `${base}${suffix}`;
+	const maxBaseLen = 60 - suffix.length;
+	const trimmed = base.slice(0, maxBaseLen);
+	const lastSpace = trimmed.lastIndexOf(' ');
+	const clipped = lastSpace > maxBaseLen - 12 ? trimmed.slice(0, lastSpace) : trimmed;
+	return `${clipped}${suffix}`;
+}
+
 export { brand, fillBrandTokens, seoDescription, seoTitle };
 
 const copyDefaults = {

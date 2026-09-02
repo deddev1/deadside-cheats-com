@@ -11,6 +11,12 @@ export function getStaticPaths() {
 if (!isLocaleCode(Astro.params.lang ?? '')) {
 	return Astro.redirect('/blog/', 301);
 }
+
+const lang = Astro.params.lang ?? '';
 ---
 
-<RedirectPage to="/blog/" canonicalPath="/blog/" />
+<RedirectPage
+	to="/blog/"
+	canonicalPath="/blog/"
+	title={`${lang.toUpperCase()} blog redirect | Deadside Cheats`}
+/>

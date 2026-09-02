@@ -102,6 +102,12 @@ function main() {
 	const dupTitles = [...titles.entries()].filter(([, c]) => c > 1);
 	const dupDescs = [...descs.entries()].filter(([, c]) => c > 1);
 
+	if (dupTitles.length > 0) {
+		for (const [title, count] of dupTitles) {
+			issues.push({ rel: '(multiple)', kind: 'duplicate-title', detail: `${count}× ${title}` });
+		}
+	}
+
 	const smPath = path.join(distDir, 'sitemap-en.xml');
 	if (fs.existsSync(smPath)) {
 		const sm = fs.readFileSync(smPath, 'utf8');
@@ -121,7 +127,7 @@ function main() {
 	console.log(`Indexable HTML pages: ${indexable}`);
 	console.log(`Issues (fail): ${fails.length}`);
 	console.log(`Warnings: ${warnings.length}`);
-	console.log(`Duplicate titles across locales (expected): ${dupTitles.length}`);
+	console.log(`Duplicate titles on indexable pages: ${dupTitles.length}`);
 	console.log(`Duplicate descriptions across locales (expected): ${dupDescs.length}`);
 
 	const grouped = {};

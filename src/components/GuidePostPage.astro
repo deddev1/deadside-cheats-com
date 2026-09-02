@@ -63,9 +63,16 @@ const articleSchema = {
 };
 
 function pageTitle(headline: string): string {
+	let headlineWithSource = headline;
+	if (guide.source === 'external') {
+		const host = new URL(guide.externalUrl).hostname.replace(/^www\./, '');
+		headlineWithSource = `${headline} | ${host}`;
+	}
 	const suffix = ' | Guides';
-	if (headline.length + suffix.length <= 60) return `${headline}${suffix}`;
-	return `${headline.slice(0, 57).trim()}…`;
+	const combined = `${headlineWithSource}${suffix}`;
+	if (combined.length <= 60) return combined;
+	const trimmed = headlineWithSource.slice(0, 60 - suffix.length - 1).trim();
+	return `${trimmed}…${suffix}`;
 }
 ---
 

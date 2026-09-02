@@ -10,7 +10,7 @@ import { defaultLocale, isIndexableLocale, localeMap, locales, type LocaleCode }
 import type { PageId } from '../data/i18n/content.generated';
 import { buildCanonicalUrl, type HreflangAlternate } from '../data/i18n/routing';
 import { heroHeight, heroWidth } from '../lib/responsive-images';
-import { seoDescription, seoPageTitle } from '../data/site-core';
+import { localizedSeoPageTitle, seoDescription, seoPageTitle } from '../data/site-core';
 
 interface Crumb {
 	label: string;
@@ -56,8 +56,13 @@ const {
 	ogLocaleAlternates = true,
 } = Astro.props;
 
+const localeMeta = localeMap[locale];
+
 /** Normalize SERP title/description on every indexable page. */
-const pageTitle = seoPageTitle(title);
+const pageTitle =
+	locale !== defaultLocale && isIndexableLocale(locale)
+		? localizedSeoPageTitle(title, localeMeta.nativeName)
+		: seoPageTitle(title);
 const pageDescription = seoDescription(description);
 
 const canonicalURL = buildCanonicalUrl(canonicalPath);
@@ -71,7 +76,6 @@ const twitterCard = ogImageIsLogo ? 'summary' : 'summary_large_image';
 const shouldNoindex = noindex || !isIndexableLocale(locale);
 const robots = shouldNoindex ? 'noindex, nofollow' : 'index, follow, max-image-preview:large';
 const siteDescription = `${productInfo.tagline}. ${productInfo.summary}`;
-const localeMeta = localeMap[locale];
 const ogLocaleAlternateLocales = ogLocaleAlternates
 	? locales.filter((l) => l.code !== locale && isIndexableLocale(l.code))
 	: [];
