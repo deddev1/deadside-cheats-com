@@ -14,10 +14,14 @@ function isBrandStudioPage(pathname: string): boolean {
  * Write API lives only in the Vite dev plugin (never in dist) and has its own IP checks.
  */
 export const onRequest = defineMiddleware(async (context, next) => {
-	const redirectPath = resolvePathRedirect(context.url.pathname);
-	if (redirectPath) {
-		const target = new URL(redirectPath, context.url.origin);
-		return context.redirect(target.toString(), 301);
+	// Path redirects are applied at runtime by the Worker. During prerender, emit
+	// proper redirect HTML (with <head>) instead of Astro's headless redirect stub.
+	if (!context.isPrerendered) {
+		const redirectPath = resolvePathRedirect(context.url.pathname);
+		if (redirectPath) {
+			const target = new URL(redirectPath, context.url.origin);
+			return context.redirect(target.toString(), 301);
+		}
 	}
 
 	if (isBrandStudioPage(context.url.pathname)) {
