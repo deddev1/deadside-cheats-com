@@ -365,7 +365,7 @@ export function validateBrandPayload(body) {
 	const monthlyLabel = soft(b.monthlyLabel, 'Monthly', 40);
 	const lifetimeLabel = soft(b.lifetimeLabel, 'Lifetime', 40);
 	const logo = assetPath(b.logo ?? '/images/deadside-cheats-logo.webp');
-	const logoRaster = assetPath(b.logoRaster ?? '/images/deadside-cheats-logo.png');
+	const logoRaster = assetPath(b.logoRaster ?? '/images/deadside-cheats-logo.webp');
 	const defaultOgImage = assetPath(b.defaultOgImage ?? '/images/deadside-cheats-combat.webp');
 	const heroImage = assetPath(b.heroImage ?? '/images/deadside-hero-banner.webp');
 	const logoAlt = soft(b.logoAlt, `${name || 'Brand'} logo`, 120);

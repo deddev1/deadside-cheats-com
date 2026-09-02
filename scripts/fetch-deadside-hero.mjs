@@ -4,11 +4,12 @@ import { fileURLToPath } from 'node:url';
 import sharp from 'sharp';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const assetsDir = path.resolve(__dirname, 'assets');
+const imagesDir = path.resolve('public/images');
 const HERO_URL =
 	process.env.DEADSIDE_HERO_URL ??
 	process.env.FINALS_HERO_URL ??
-	'file://' + path.resolve(imagesDir, 'deadside-hero-source.png');
-const imagesDir = path.resolve('public/images');
+	'file://' + path.join(assetsDir, 'deadside-hero-source.png');
 /** High-quality WebP — hero is LCP; prioritize clarity over file size. */
 const HERO_WEBP = { quality: 100, effort: 6, smartSubsample: false, alphaQuality: 100 };
 
@@ -65,9 +66,6 @@ const canonical = await resizeHero(lcpWidth).webp(HERO_WEBP).toBuffer();
 for (const name of ['deadside-cheats-hero.webp', 'deadside-hero-banner.webp', 'hero-banner.webp']) {
 	await writeFile(path.join(imagesDir, name), canonical);
 }
-
-const png = await resizeHero(lcpWidth).png({ compressionLevel: 6 }).toBuffer();
-await writeFile(path.join(imagesDir, 'deadside-cheats-hero.png'), png);
 
 console.log(
 	`Done — hero banner ${BANNER_RATIO}:1 (LCP ${lcpWidth}x${canonicalHeight}), fit: cover, quality ${HERO_WEBP.quality}`,

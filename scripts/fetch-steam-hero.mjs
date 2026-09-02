@@ -30,10 +30,6 @@ for (const width of [640, 1024, 1536]) {
 }
 
 await writeFile(
-	path.join(imagesDir, 'deadside-cheats-hero.png'),
-	await sharp(heroBuffer).png().toBuffer(),
-);
-await writeFile(
 	path.join(imagesDir, 'deadside-cheats-hero.webp'),
 	await sharp(heroBuffer).webp({ quality: 86 }).toBuffer(),
 );

@@ -126,7 +126,7 @@ async function generateResponsiveVariants() {
 }
 
 async function generateFavicons() {
-	const logoPath = path.join(imagesDir, 'deadside-cheats-logo.png');
+	const logoPath = path.join(imagesDir, 'deadside-cheats-logo.webp');
 	const logoBuffer = await sharp(logoPath)
 		.resize(512, 512, { fit: 'contain', background: { r: 10, g: 6, b: 18, alpha: 1 } })
 		.png()
