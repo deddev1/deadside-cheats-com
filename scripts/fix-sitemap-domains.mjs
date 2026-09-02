@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 /**
  * Rewrite legacy domains in built sitemap XML (safety net after astro build).
- * Fixes GSC "URL not allowed" when stale dist still references deadsidecheat.com.
+ * Fixes GSC "URL not allowed" when stale dist still references deadsidecheats.com.
  */
 import { readFileSync, writeFileSync, readdirSync } from 'node:fs';
 import path from 'node:path';
@@ -39,6 +39,9 @@ const LEGACY_ORIGIN_REPLACEMENTS = [
 	['https://rustcheats.co', CANONICAL],
 ];
 
+/** Catch any remaining http(s) legacy apex (belt-and-suspenders). */
+const LEGACY_ORIGIN_PATTERN = /https?:\/\/(?:www\.)?deadsidecheats\.com/gi;
+
 const files = readdirSync(DIST).filter((name) => /^sitemap.*\.xml$/i.test(name));
 let fixed = 0;
 
@@ -50,11 +53,17 @@ for (const name of files) {
 	for (const [from, to] of LEGACY_ORIGIN_REPLACEMENTS) {
 		xml = xml.split(from).join(to);
 	}
+	xml = xml.replace(LEGACY_ORIGIN_PATTERN, CANONICAL);
 
 	if (xml !== original) {
 		writeFileSync(file, xml, 'utf8');
 		fixed += 1;
 		console.log(`fix-sitemap-domains: rewrote legacy URLs in ${name}`);
+	}
+
+	if (/deadsidecheats\.com/i.test(xml)) {
+		console.error(`fix-sitemap-domains: ${name} still contains deadsidecheats.com after rewrite`);
+		process.exit(1);
 	}
 }
 

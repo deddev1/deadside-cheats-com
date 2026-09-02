@@ -32,7 +32,9 @@ ${urls}
 
 export const sitemapResponseHeaders = {
 	'Content-Type': 'application/xml; charset=utf-8',
-	'Cache-Control': 'public, max-age=3600',
+	'Cache-Control': 'no-store',
+	'CDN-Cache-Control': 'no-store',
+	'Cloudflare-CDN-Cache-Control': 'no-store',
 } as const;
 
 export function renderSitemapIndexXml(subSitemaps: { loc: string; lastmod: string }[]): string {

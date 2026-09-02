@@ -120,17 +120,18 @@ Verify redirects:
 1. Go to [Google Search Console](https://search.google.com/search-console).
 2. **Add property** → choose **Domain** → enter `deadsidecheat.com`.
 3. Verify ownership via the **DNS TXT record** Cloudflare provides (add in Cloudflare DNS, wait for propagation, then confirm in GSC).
-4. After verification, open **Sitemaps** and submit:
+4. After verification, open **Sitemaps** and submit **only**:
    ```
    https://deadsidecheat.com/sitemap.xml
    ```
-   Remove any legacy submissions (`sitemap-index.xml`, old `deadsidecheat.com` URLs).
-5. Use **URL Inspection** to request indexing for:
+   **Remove** any sitemap submissions that use the old domain (`deadsidecheats.com`) or legacy paths (`sitemap-index.xml`, `sitemap-en.xml` submitted alone). GSC error *"This URL is not allowed for a Sitemap at this location"* means Google fetched a sitemap whose `<loc>` URLs use `deadsidecheats.com` while the property is `deadsidecheat.com`.
+5. Attach **deadsidecheats.com** (and `www`) as additional custom domains on the **same** Worker so all legacy hostnames 301 to `https://deadsidecheat.com` — otherwise the old domain may keep serving stale sitemaps from a previous deployment.
+6. Use **URL Inspection** to request indexing for:
    - Homepage (`/`)
    - Pillar page (`/deadside-cheats/`)
    - Key landing pages (`/deadside-aimbot/`, `/deadside-esp/`, `/deadside-cheats-2026/`, etc.)
    - A sample of locale homepages (`/es/`, `/de/`, `/fr/`)
-6. Monitor **Pages** (Coverage), **Core Web Vitals**, and **International targeting** (hreflang) over the following weeks.
+7. Monitor **Pages** (Coverage), **Core Web Vitals**, and **International targeting** (hreflang) over the following weeks.
 
 ## 6. Ongoing maintenance
 

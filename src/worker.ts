@@ -79,7 +79,9 @@ async function fetchSitemapAsset(env: Env, pathname: string): Promise<Response> 
 	// Fresh headers — do not copy ASSETS/_headers (duplicate Content-Type breaks browsers + GSC).
 	const headers = new Headers();
 	headers.set('Content-Type', 'application/xml; charset=utf-8');
-	headers.set('Cache-Control', 'public, max-age=3600');
+	headers.set('Cache-Control', 'no-store');
+	headers.set('CDN-Cache-Control', 'no-store');
+	headers.set('Cloudflare-CDN-Cache-Control', 'no-store');
 	applySecurityHeaders(headers, { html: false });
 
 	const xml = rewriteLegacyOriginsInSitemapXml(await response.text());

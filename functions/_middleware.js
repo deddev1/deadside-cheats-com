@@ -277,7 +277,9 @@ export async function onRequest(context) {
 
 	if (isSitemap) {
 		headers.set('Content-Type', 'application/xml; charset=utf-8');
-		headers.set('Cache-Control', 'public, max-age=3600');
+		headers.set('Cache-Control', 'no-store');
+		headers.set('CDN-Cache-Control', 'no-store');
+		headers.set('Cloudflare-CDN-Cache-Control', 'no-store');
 		applySecurityHeaders(headers, { html: false });
 		const xml = rewriteLegacyOriginsInSitemapXml(await response.text());
 		return new Response(xml, {

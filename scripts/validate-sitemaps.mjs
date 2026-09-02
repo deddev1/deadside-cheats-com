@@ -107,6 +107,7 @@ const SITEMAP_OMIT_PATHS = new Set([
 ]);
 
 const LEGACY_SITEMAP_HOSTS = [
+	'deadsidecheats.com',
 	'valoranthacks.org',
 	'valorantcheats.org',
 	'thefinalscheats.org',
