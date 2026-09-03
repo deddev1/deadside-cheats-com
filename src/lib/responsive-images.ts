@@ -49,7 +49,7 @@ export function contentSrcSet(baseSrc: string): string | undefined {
 export const heroResponsive: ResponsiveWidth[] = [
 	{ src: '/images/deadside-cheats-hero-480w.webp', width: 480 },
 	{ src: '/images/deadside-cheats-hero-640w.webp', width: 640 },
-	{ src: '/images/deadside-cheats-hero-1024w.webp', width: 1024 },
+	{ src: '/images/deadside-cheats-hero-806w.webp', width: 806 },
 	{ src: '/images/deadside-cheats-hero-1199w.webp', width: 1199 },
 ];
 
