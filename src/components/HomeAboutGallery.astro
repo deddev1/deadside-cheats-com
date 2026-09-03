@@ -86,8 +86,6 @@ const slideCount = productScreenshots.length;
 	<figcaption class="home-about-gallery__caption">{caption}</figcaption>
 </figure>
 
-<script type="module" src="/js/home-about-gallery.js"></script>
-
 <style>
 	.home-about-gallery {
 		margin: 0;
@@ -152,6 +150,7 @@ const slideCount = productScreenshots.length;
 		position: absolute;
 		top: 50%;
 		z-index: 2;
+		pointer-events: auto;
 		display: grid;
 		place-items: center;
 		width: 2.35rem;

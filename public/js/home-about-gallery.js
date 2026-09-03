@@ -10,64 +10,58 @@ function initHomeAboutGalleries() {
 		if (!scroller || !prevBtn || !nextBtn || !slides || slides.length < 2) return;
 
 		let activeIndex = 0;
-		let isProgrammaticScroll = false;
-		let scrollSyncFrame = 0;
+		let scrolling = false;
+
+		const slideLeft = (index) => {
+			const slide = slides[index];
+			if (!slide) return 0;
+			const left = slide.offsetLeft;
+			if (left > 0 || index === 0) return left;
+			return index * scroller.clientWidth;
+		};
 
 		const updateNav = () => {
 			prevBtn.disabled = activeIndex <= 0;
 			nextBtn.disabled = activeIndex >= slides.length - 1;
 		};
 
-		const scrollToSlide = (index, behavior = 'smooth') => {
-			const clamped = Math.max(0, Math.min(index, slides.length - 1));
-			activeIndex = clamped;
+		const goTo = (index, behavior = 'smooth') => {
+			const next = Math.max(0, Math.min(index, slides.length - 1));
+			activeIndex = next;
 			updateNav();
-			isProgrammaticScroll = behavior !== 'auto';
-			slides[clamped].scrollIntoView({ behavior, inline: 'start', block: 'nearest' });
-			if (behavior === 'auto') {
-				isProgrammaticScroll = false;
-			}
+			scrolling = behavior !== 'auto';
+			scroller.scrollTo({ left: slideLeft(next), behavior });
+			if (behavior === 'auto') scrolling = false;
 		};
 
-		const syncActive = () => {
-			if (scroller.clientWidth <= 0) return;
-
-			let nearest = 0;
-			let nearestDistance = Number.POSITIVE_INFINITY;
-			slides.forEach((slide, index) => {
-				const distance = Math.abs(scroller.scrollLeft - slide.offsetLeft);
-				if (distance < nearestDistance) {
-					nearestDistance = distance;
-					nearest = index;
-				}
-			});
-
-			activeIndex = nearest;
-			updateNav();
-		};
-
-		prevBtn.addEventListener('click', () => {
-			scrollToSlide(activeIndex - 1);
+		prevBtn.addEventListener('click', (event) => {
+			event.preventDefault();
+			event.stopPropagation();
+			goTo(activeIndex - 1);
 		});
 
-		nextBtn.addEventListener('click', () => {
-			scrollToSlide(activeIndex + 1);
+		nextBtn.addEventListener('click', (event) => {
+			event.preventDefault();
+			event.stopPropagation();
+			goTo(activeIndex + 1);
 		});
 
+		let scrollTimer = 0;
 		scroller.addEventListener(
 			'scroll',
 			() => {
-				if (scrollSyncFrame) cancelAnimationFrame(scrollSyncFrame);
-				scrollSyncFrame = requestAnimationFrame(() => {
-					if (isProgrammaticScroll) {
-						const target = slides[activeIndex];
-						if (Math.abs(scroller.scrollLeft - target.offsetLeft) < 2) {
-							isProgrammaticScroll = false;
-						}
-						return;
-					}
-					syncActive();
-				});
+				if (scrollTimer) clearTimeout(scrollTimer);
+				scrollTimer = setTimeout(() => {
+					scrolling = false;
+					const width = scroller.clientWidth;
+					if (width <= 0) return;
+					const index = Math.max(
+						0,
+						Math.min(Math.round(scroller.scrollLeft / width), slides.length - 1),
+					);
+					activeIndex = index;
+					updateNav();
+				}, 60);
 			},
 			{ passive: true },
 		);
@@ -75,17 +69,17 @@ function initHomeAboutGalleries() {
 		scroller.addEventListener('keydown', (event) => {
 			if (event.key === 'ArrowRight') {
 				event.preventDefault();
-				scrollToSlide(activeIndex + 1);
+				goTo(activeIndex + 1);
 			} else if (event.key === 'ArrowLeft') {
 				event.preventDefault();
-				scrollToSlide(activeIndex - 1);
+				goTo(activeIndex - 1);
 			}
 		});
 
 		const visibilityObserver = new IntersectionObserver(
 			(entries) => {
-				if (entries.some((entry) => entry.isIntersecting)) {
-					scrollToSlide(activeIndex, 'auto');
+				if (entries.some((entry) => entry.isIntersecting) && !scrolling) {
+					goTo(activeIndex, 'auto');
 				}
 			},
 			{ threshold: 0.01 },
@@ -96,10 +90,8 @@ function initHomeAboutGalleries() {
 		const resizeObserver = new ResizeObserver(() => {
 			clearTimeout(resizeTimer);
 			resizeTimer = setTimeout(() => {
-				if (!isProgrammaticScroll) {
-					scrollToSlide(activeIndex, 'auto');
-				}
-			}, 80);
+				if (!scrolling) goTo(activeIndex, 'auto');
+			}, 100);
 		});
 		resizeObserver.observe(scroller);
 
@@ -109,6 +101,9 @@ function initHomeAboutGalleries() {
 
 const boot = () => initHomeAboutGalleries();
 
-boot();
-document.addEventListener('DOMContentLoaded', boot);
+if (document.readyState === 'loading') {
+	document.addEventListener('DOMContentLoaded', boot, { once: true });
+} else {
+	boot();
+}
 document.addEventListener('astro:page-load', boot);
